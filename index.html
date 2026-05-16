@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClippIA Econoroeste</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --card: #1f2937;
+      --muted: #94a3b8;
+      --text: #f8fafc;
+      --line: rgba(255,255,255,.12);
+      --brand: #38bdf8;
+      --ok: #22c55e;
+      --warn: #f59e0b;
+      --bad: #ef4444;
+      --white: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #020617);
+      color: var(--text);
+    }
+    header {
+      padding: 22px 16px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(15,23,42,.94);
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(8px);
+    }
+    .wrap { max-width: 1150px; margin: auto; }
+    h1 { margin: 0; font-size: 24px; }
+    .subtitle { margin-top: 6px; color: var(--muted); font-size: 14px; line-height: 1.4; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.1fr .9fr;
+      gap: 16px;
+      padding: 16px;
+    }
+    @media(max-width: 900px) {
+      .grid { grid-template-columns: 1fr; padding: 12px; }
+      header { position: static; }
+    }
+    .box {
+      background: rgba(17, 24, 39, .92);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 14px;
+      box-shadow: 0 15px 35px rgba(0,0,0,.25);
+    }
+    .box h2 { margin: 0 0 10px; font-size: 18px; }
+    .small { font-size: 12px; color: var(--muted); line-height: 1.45; }
+    .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    input, textarea, select {
+      width: 100%;
+      padding: 11px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: #020617;
+      color: var(--text);
+      outline: none;
+    }
+    textarea { min-height: 160px; resize: vertical; }
+    button, .btn {
+      border: 0;
+      border-radius: 12px;
+      padding: 11px 13px;
+      background: var(--brand);
+      color: #00111c;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      min-height: 40px;
+    }
+    button.secondary { background: #334155; color: var(--text); }
+    button.ok { background: var(--ok); color: #052e16; }
+    button.warn { background: var(--warn); color: #422006; }
+    button.bad { background: var(--bad); color: #450a0a; }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0; }
+    .tabs button { background: #1e293b; color: var(--text); }
+    .tabs button.active { background: var(--brand); color: #00111c; }
+    .card {
+      background: rgba(31,41,55,.86);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 13px;
+      margin: 10px 0;
+    }
+    .card h3 { margin: 0 0 7px; font-size: 16px; line-height: 1.3; }
+    .meta { color: var(--muted); font-size: 12px; line-height: 1.5; }
+    .pill {
+      display: inline-block;
+      padding: 5px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      margin: 3px 4px 3px 0;
+      background: #334155;
+      color: #e2e8f0;
+    }
+    .pill.high { background: rgba(239,68,68,.25); color: #fecaca; }
+    .pill.medium { background: rgba(245,158,11,.25); color: #fde68a; }
+    .pill.low { background: rgba(34,197,94,.20); color: #bbf7d0; }
+    .mutedlink { color: #93c5fd; word-break: break-all; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+    @media(max-width: 700px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+    .stat { background: #020617; padding: 12px; border-radius: 14px; border: 1px solid var(--line); }
+    .stat strong { font-size: 22px; display: block; }
+
+    .thumb {
+      width: 100%;
+      max-height: 220px;
+      object-fit: cover;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: #020617;
+      margin: 8px 0;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px;
+    }
+    @media(max-width: 700px) { .gallery { grid-template-columns: 1fr; } }
+    .gallery a {
+      display: block;
+      background: #020617;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+      text-decoration: none;
+      color: var(--text);
+    }
+    .gallery img {
+      width: 100%;
+      height: 130px;
+      object-fit: cover;
+      display: block;
+      background: #020617;
+    }
+    .gallery span {
+      display: block;
+      padding: 7px;
+      font-size: 11px;
+      color: var(--muted);
+      line-height: 1.35;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 22px 12px 35px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .dangerNote {
+      border-left: 4px solid var(--warn);
+      background: rgba(245,158,11,.09);
+      padding: 10px;
+      border-radius: 12px;
+      margin: 10px 0;
+      color: #fde68a;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .hidden { display: none !important; }
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: #020617;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px;
+      max-height: 280px;
+      overflow: auto;
+      color: #dbeafe;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>ClippIA Econoroeste</h1>
+      <div class="subtitle">
+        Agente de clipagem, reputação e inteligência de mídia para Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste / Free Flow.
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="grid">
+      <section class="box">
+        <h2>1. Notícias coletadas automaticamente</h2>
+        <div class="dangerNote">
+          Este painel coleta links públicos. A análise inteligente deve ser feita pelo seu GPT personalizado antes de publicar qualquer texto.
+        </div>
+
+        <div class="stats">
+          <div class="stat"><span class="small">Notícias</span><strong id="statNoticias">0</strong></div>
+          <div class="stat"><span class="small">Fontes</span><strong id="statFontes">0</strong></div>
+          <div class="stat"><span class="small">Hoje</span><strong id="statHoje">0</strong></div>
+          <div class="stat"><span class="small">Clipagens</span><strong id="statClipagens">0</strong></div>
+        </div>
+
+        <div style="height:10px"></div>
+        <div class="row">
+          <button onclick="carregarNoticias()">Atualizar notícias</button>
+          <button class="secondary" onclick="copiarPromptGPT()">Copiar prompt para o GPT</button>
+          <button class="secondary" onclick="baixarBackup()">Baixar backup</button>
+          <button class="secondary" onclick="verGaleriaImagens()">Ver imagens coletadas</button>
+        </div>
+
+        <div style="height:10px"></div>
+        <input id="busca" placeholder="Filtrar por título, fonte, rodovia, free flow, pedágio..." oninput="renderNoticias()"/>
+
+        <div class="tabs">
+          <button class="active" id="tabTodas" onclick="setFiltro('todas')">Todas</button>
+          <button id="tabFreeFlow" onclick="setFiltro('freeflow')">Free Flow</button>
+          <button id="tabPedagio" onclick="setFiltro('pedagio')">Pedágio</button>
+          <button id="tabAcidente" onclick="setFiltro('acidente')">Acidente/risco</button>
+          <button id="tabObras" onclick="setFiltro('obras')">Obras/interdição</button>
+        </div>
+
+        <div id="listaNoticias"></div>
+      </section>
+
+      <aside class="box">
+        <h2>2. Configuração Firebase</h2>
+        <p class="small">
+          Funciona mesmo sem Firebase usando memória local do navegador. Para salvar em nuvem, cole a configuração do Firebase no arquivo <b>firebase-config.js</b>.
+        </p>
+
+        <div id="firebaseStatus" class="dangerNote">Firebase ainda não conectado.</div>
+
+        <div id="loginBox">
+          <input id="email" placeholder="Seu e-mail" type="email"/>
+          <div style="height:8px"></div>
+          <input id="senha" placeholder="Senha" type="password"/>
+          <div style="height:8px"></div>
+          <div class="row">
+            <button onclick="login()">Entrar</button>
+            <button class="secondary" onclick="criarConta()">Criar conta</button>
+            <button class="secondary" onclick="logout()">Sair</button>
+          </div>
+        </div>
+
+        <hr style="border-color:var(--line); margin:16px 0;">
+
+        <h2>3. Colar análise do GPT</h2>
+        <p class="small">Depois que seu GPT gerar o relatório, cole aqui e salve como clipagem revisável.</p>
+
+        <input id="tituloManual" placeholder="Título interno da clipagem"/>
+        <div style="height:8px"></div>
+        <select id="riscoManual">
+          <option value="baixo">Risco baixo</option>
+          <option value="medio">Risco médio</option>
+          <option value="alto">Risco alto</option>
+        </select>
+        <div style="height:8px"></div>
+        <textarea id="relatorioGPT" placeholder="Cole aqui o relatório completo gerado pelo GPT"></textarea>
+        <div style="height:8px"></div>
+        <div class="row">
+          <button class="ok" onclick="salvarClipagem()">Salvar clipagem</button>
+          <button class="secondary" onclick="limparFormulario()">Limpar</button>
+        </div>
+
+        <hr style="border-color:var(--line); margin:16px 0;">
+
+        <h2>4. Clipagens salvas</h2>
+        <div id="listaClipagens"></div>
+      </aside>
+    </div>
+
+    <div class="footer">
+      Powered by thIAguinho Soluções Digitais
+    </div>
+  </main>
+
+  <script src="./firebase-config.js"></script>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
+    import {
+      getFirestore, collection, addDoc, getDocs, doc, updateDoc, deleteDoc,
+      query, orderBy, serverTimestamp
+    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
+    import {
+      getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,
+      signOut, onAuthStateChanged
+    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
+
+    window.ClippIA = {
+      firebaseAtivo: false,
+      app: null,
+      db: null,
+      auth: null,
+      user: null,
+      noticias: [],
+      clipagens: [],
+      filtro: "todas"
+    };
+
+    const cfg = window.firebaseConfig || {};
+    const configurado = cfg && cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI");
+
+    if (configurado) {
+      try {
+        window.ClippIA.app = initializeApp(cfg);
+        window.ClippIA.db = getFirestore(window.ClippIA.app);
+        window.ClippIA.auth = getAuth(window.ClippIA.app);
+        window.ClippIA.firebaseAtivo = true;
+
+        onAuthStateChanged(window.ClippIA.auth, async (user) => {
+          window.ClippIA.user = user;
+          document.getElementById("firebaseStatus").innerHTML = user
+            ? "Firebase conectado. Logado como: <b>" + user.email + "</b>"
+            : "Firebase conectado. Faça login para salvar em nuvem.";
+          await carregarClipagens();
+        });
+      } catch (e) {
+        console.error(e);
+        document.getElementById("firebaseStatus").textContent = "Erro ao conectar Firebase. Verifique firebase-config.js.";
+      }
+    }
+
+    window.login = async function() {
+      if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado. O painel salvará só localmente.");
+      const email = document.getElementById("email").value.trim();
+      const senha = document.getElementById("senha").value.trim();
+      if (!email || !senha) return alert("Preencha e-mail e senha.");
+      try { await signInWithEmailAndPassword(window.ClippIA.auth, email, senha); }
+      catch (e) { alert("Erro ao entrar: " + e.message); }
+    }
+
+    window.criarConta = async function() {
+      if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado.");
+      const email = document.getElementById("email").value.trim();
+      const senha = document.getElementById("senha").value.trim();
+      if (!email || !senha) return alert("Preencha e-mail e senha.");
+      try { await createUserWithEmailAndPassword(window.ClippIA.auth, email, senha); }
+      catch (e) { alert("Erro ao criar conta: " + e.message); }
+    }
+
+    window.logout = async function() {
+      if (window.ClippIA.auth) await signOut(window.ClippIA.auth);
+    }
+
+    window.carregarNoticias = async function() {
+      try {
+        const res = await fetch("./data/noticias.json?cache=" + Date.now());
+        const data = await res.json();
+        window.ClippIA.noticias = Array.isArray(data.items) ? data.items : [];
+        renderNoticias();
+      } catch (e) {
+        console.error(e);
+        document.getElementById("listaNoticias").innerHTML = "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action ou suba o arquivo inicial.</div>";
+      }
+    }
+
+    window.setFiltro = function(filtro) {
+      window.ClippIA.filtro = filtro;
+      ["Todas","FreeFlow","Pedagio","Acidente","Obras"].forEach(x => {
+        const el = document.getElementById("tab"+x);
+        if (el) el.classList.remove("active");
+      });
+      const map = { todas:"Todas", freeflow:"FreeFlow", pedagio:"Pedagio", acidente:"Acidente", obras:"Obras" };
+      document.getElementById("tab"+map[filtro]).classList.add("active");
+      renderNoticias();
+    }
+
+    function textoBusca(n) {
+      return [
+        n.title, n.source, n.link, n.snippet, n.term, n.category, n.published, n.image_url, n.image_source
+      ].join(" ").toLowerCase();
+    }
+
+    window.renderNoticias = function() {
+      const lista = document.getElementById("listaNoticias");
+      const termo = document.getElementById("busca").value.toLowerCase().trim();
+
+      let items = window.ClippIA.noticias || [];
+
+      if (termo) items = items.filter(n => textoBusca(n).includes(termo));
+
+      const filtro = window.ClippIA.filtro;
+      if (filtro !== "todas") {
+        items = items.filter(n => {
+          const t = textoBusca(n);
+          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("pedágio digital");
+          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag");
+          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia");
+          if (filtro === "obras") return t.includes("obra") || t.includes("interdição") || t.includes("bloqueio") || t.includes("manutenção");
+          return true;
+        });
+      }
+
+      const fontes = new Set((window.ClippIA.noticias || []).map(n => n.source).filter(Boolean));
+      const hoje = new Date().toISOString().slice(0,10);
+      const hojeCount = (window.ClippIA.noticias || []).filter(n => String(n.collected_at || "").startsWith(hoje)).length;
+
+      document.getElementById("statNoticias").textContent = window.ClippIA.noticias.length;
+      document.getElementById("statFontes").textContent = fontes.size;
+      document.getElementById("statHoje").textContent = hojeCount;
+      document.getElementById("statClipagens").textContent = window.ClippIA.clipagens.length;
+
+      if (!items.length) {
+        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada neste filtro.</div>";
+        return;
+      }
+
+      lista.innerHTML = items.map(n => {
+        const risco = classificarRiscoTexto(textoBusca(n));
+        return `
+          <div class="card">
+            <h3>${escapeHtml(n.title || "Sem título")}</h3>
+            <div class="meta">
+              Fonte: <b>${escapeHtml(n.source || "Não identificada")}</b><br>
+              Publicado: ${escapeHtml(n.published || "sem data")}<br>
+              Termo: ${escapeHtml(n.term || "")}
+            </div>
+            <div>
+              <span class="pill ${risco.cls}">Risco provável: ${risco.nome}</span>
+              <span class="pill">${escapeHtml(n.category || "notícia")}</span>
+            </div>
+            ${n.image_url ? `<a href="${escapeAttr(n.image_url)}" target="_blank" rel="noopener"><img class="thumb" src="${escapeAttr(n.image_url)}" alt="Imagem da notícia" onerror="this.style.display='none'"></a>` : `<div class="small">Imagem: não encontrada automaticamente nesta fonte.</div>`}
+            <p class="small">${escapeHtml(n.snippet || "")}</p>
+            ${n.image_url ? `<div class="small">Imagem coletada de metadados públicos: ${escapeHtml(n.image_source || "fonte não identificada")}</div>` : ""}
+            <a class="mutedlink" href="${escapeAttr(n.link || "#")}" target="_blank" rel="noopener">Abrir fonte original</a>
+            <div style="height:8px"></div>
+            <div class="row">
+              <button class="secondary" onclick='copiarNoticia(${JSON.stringify(n.id)})'>Copiar notícia</button>
+              <button onclick='prepararAnalise(${JSON.stringify(n.id)})'>Usar no GPT</button>
+            </div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function classificarRiscoTexto(t) {
+      if (["morte","morre","ferido","acidente","denúncia","processo","reclamação","cobrança indevida"].some(x => t.includes(x))) return {nome:"alto", cls:"high"};
+      if (["pedágio","tarifa","reajuste","interdição","bloqueio","free flow","freeflow"].some(x => t.includes(x))) return {nome:"médio", cls:"medium"};
+      return {nome:"baixo", cls:"low"};
+    }
+
+    window.copiarNoticia = async function(id) {
+      const n = window.ClippIA.noticias.find(x => x.id === id);
+      if (!n) return;
+      const txt = `TÍTULO: ${n.title}\nFONTE: ${n.source}\nDATA: ${n.published}\nLINK: ${n.link}\nIMAGEM: ${n.image_url || "não encontrada"}\nFONTE DA IMAGEM: ${n.image_source || ""}\nTRECHO: ${n.snippet}\nTERMO: ${n.term}`;
+      await navigator.clipboard.writeText(txt);
+      alert("Notícia copiada.");
+    }
+
+    window.prepararAnalise = async function(id) {
+      const n = window.ClippIA.noticias.find(x => x.id === id);
+      if (!n) return;
+      const prompt = montarPromptGPT([n]);
+      await navigator.clipboard.writeText(prompt);
+      alert("Prompt desta notícia copiado. Abra o seu GPT ClippIA e cole.");
+    }
+
+    window.copiarPromptGPT = async function() {
+      const itens = (window.ClippIA.noticias || []).slice(0, 25);
+      const prompt = montarPromptGPT(itens);
+      await navigator.clipboard.writeText(prompt);
+      alert("Prompt completo copiado. Abra o seu GPT ClippIA e cole.");
+    }
+
+    function montarPromptGPT(itens) {
+      const dados = itens.map((n, i) => `
+ITEM ${i+1}
+TÍTULO: ${n.title || ""}
+FONTE: ${n.source || ""}
+DATA: ${n.published || ""}
+LINK: ${n.link || ""}
+IMAGEM COLETADA: ${n.image_url || "não encontrada automaticamente"}
+FONTE DA IMAGEM: ${n.image_source || ""}
+TRECHO: ${n.snippet || ""}
+TERMO ENCONTRADO: ${n.term || ""}
+`).join("\n");
+
+      return `Faça uma clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste com os itens abaixo.
+
+Regras:
+- Pesquise na web para confirmar as informações importantes.
+- Nunca invente fatos.
+- Traga fonte, data e link.
+- Separe fato confirmado, fato divulgado e informação não confirmada.
+- Dê atenção especial a Free Flow, pedágio inteligente por câmeras, tarifas, TAG, cobrança, obras, interdições, acidentes, reclamações, ARTESP e rodovias SP-310, SP-323, SP-326, SP-333, SP-351.
+- Classifique risco de imagem: baixo, médio ou alto.
+- Gere resumo factual.
+- Gere sugestão de postagem profissional, neutra e segura.
+- Informe claramente o que precisa de revisão humana antes de publicar.
+
+ITENS COLETADOS PELO PAINEL:
+${dados}
+
+Entregue no formato:
+RELATÓRIO DE CLIPAGEM
+1. Resumo executivo
+2. Notícias encontradas
+3. Alertas de risco
+4. Oportunidades de postagem
+5. Texto pronto para postagem
+6. Hashtags
+7. Recomendação final`;
+    }
+
+    window.salvarClipagem = async function() {
+      const titulo = document.getElementById("tituloManual").value.trim() || "Clipagem sem título";
+      const risco = document.getElementById("riscoManual").value;
+      const relatorio = document.getElementById("relatorioGPT").value.trim();
+      if (!relatorio) return alert("Cole o relatório do GPT antes de salvar.");
+
+      const item = {
+        titulo,
+        risco,
+        relatorio,
+        status: "NOVO",
+        createdAtLocal: new Date().toISOString()
+      };
+
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        try {
+          await addDoc(collection(window.ClippIA.db, "clipagens"), {
+            ...item,
+            userEmail: window.ClippIA.user.email,
+            createdAt: serverTimestamp()
+          });
+          await carregarClipagens();
+          limparFormulario();
+          alert("Clipagem salva no Firebase.");
+          return;
+        } catch (e) {
+          alert("Erro no Firebase. Vou salvar localmente. Erro: " + e.message);
+        }
+      }
+
+      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+      item.id = "local_" + Date.now();
+      locais.unshift(item);
+      localStorage.setItem("clippia_clipagens", JSON.stringify(locais));
+      await carregarClipagens();
+      limparFormulario();
+      alert("Clipagem salva localmente no navegador.");
+    }
+
+    window.carregarClipagens = async function() {
+      let arr = [];
+
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        try {
+          const q = query(collection(window.ClippIA.db, "clipagens"), orderBy("createdAt", "desc"));
+          const snap = await getDocs(q);
+          snap.forEach(d => arr.push({ id: d.id, ...d.data() }));
+        } catch (e) {
+          console.error(e);
+        }
+      }
+
+      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+      arr = [...arr, ...locais];
+
+      window.ClippIA.clipagens = arr;
+      renderClipagens();
+      renderNoticias();
+    }
+
+    window.renderClipagens = function() {
+      const el = document.getElementById("listaClipagens");
+      const arr = window.ClippIA.clipagens || [];
+
+      if (!arr.length) {
+        el.innerHTML = "<div class='card small'>Nenhuma clipagem salva ainda.</div>";
+        return;
+      }
+
+      el.innerHTML = arr.map(c => `
+        <div class="card">
+          <h3>${escapeHtml(c.titulo || "Sem título")}</h3>
+          <span class="pill ${c.risco === "alto" ? "high" : c.risco === "medio" ? "medium" : "low"}">Risco: ${escapeHtml(c.risco || "baixo")}</span>
+          <span class="pill">Status: ${escapeHtml(c.status || "NOVO")}</span>
+          <pre>${escapeHtml(c.relatorio || "")}</pre>
+          <div class="row">
+            <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>Copiar</button>
+            <button class="ok" onclick='mudarStatus(${JSON.stringify(c.id)}, "PUBLICADO")'>Publicado</button>
+            <button class="warn" onclick='mudarStatus(${JSON.stringify(c.id)}, "REVISAR")'>Revisar</button>
+            <button class="bad" onclick='apagarClipagem(${JSON.stringify(c.id)})'>Apagar</button>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    window.copiarRelatorio = async function(id) {
+      const c = window.ClippIA.clipagens.find(x => x.id === id);
+      if (!c) return;
+      await navigator.clipboard.writeText(c.relatorio || "");
+      alert("Relatório copiado.");
+    }
+
+    window.mudarStatus = async function(id, status) {
+      if (String(id).startsWith("local_")) {
+        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+        const novo = locais.map(x => x.id === id ? {...x, status} : x);
+        localStorage.setItem("clippia_clipagens", JSON.stringify(novo));
+        await carregarClipagens();
+        return;
+      }
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        await updateDoc(doc(window.ClippIA.db, "clipagens", id), { status });
+        await carregarClipagens();
+      }
+    }
+
+    window.apagarClipagem = async function(id) {
+      if (!confirm("Apagar esta clipagem?")) return;
+      if (String(id).startsWith("local_")) {
+        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+        localStorage.setItem("clippia_clipagens", JSON.stringify(locais.filter(x => x.id !== id)));
+        await carregarClipagens();
+        return;
+      }
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        await deleteDoc(doc(window.ClippIA.db, "clipagens", id));
+        await carregarClipagens();
+      }
+    }
+
+    window.limparFormulario = function() {
+      document.getElementById("tituloManual").value = "";
+      document.getElementById("riscoManual").value = "baixo";
+      document.getElementById("relatorioGPT").value = "";
+    }
+
+
+    window.verGaleriaImagens = function() {
+      const imagens = (window.ClippIA.noticias || []).filter(n => n.image_url);
+      const lista = document.getElementById("listaNoticias");
+
+      if (!imagens.length) {
+        lista.innerHTML = "<div class='card'>Nenhuma imagem foi encontrada automaticamente nos metadados das fontes coletadas. Isso pode acontecer quando o portal bloqueia robôs ou não publica og:image/twitter:image.</div>";
+        return;
+      }
+
+      lista.innerHTML = `
+        <div class="card">
+          <h3>Galeria de imagens coletadas</h3>
+          <p class="small">
+            Imagens extraídas de metadados públicos das páginas, como og:image, twitter:image ou media:thumbnail.
+            Antes de usar em postagem, confirme direito de uso, crédito e fonte original.
+          </p>
+          <div class="gallery">
+            ${imagens.map(n => `
+              <a href="${escapeAttr(n.link || n.image_url)}" target="_blank" rel="noopener">
+                <img src="${escapeAttr(n.image_url)}" alt="Imagem coletada" onerror="this.style.display='none'">
+                <span>
+                  ${escapeHtml(n.title || "Sem título")}<br>
+                  Fonte: ${escapeHtml(n.source || "")}<br>
+                  Imagem: ${escapeHtml(n.image_source || "")}
+                </span>
+              </a>
+            `).join("")}
+          </div>
+        </div>
+      `;
+    }
+
+    window.baixarBackup = function() {
+      const data = {
+        noticias: window.ClippIA.noticias,
+        clipagens: window.ClippIA.clipagens,
+        geradoEm: new Date().toISOString()
+      };
+      const blob = new Blob([JSON.stringify(data, null, 2)], {type: "application/json"});
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "backup-clippia-econoroeste.json";
+      a.click();
+    }
+
+    function escapeHtml(str) {
+      return String(str || "").replace(/[&<>"']/g, s => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+      }[s]));
+    }
+    function escapeAttr(str) {
+      return escapeHtml(str).replace(/`/g, "&#96;");
+    }
+
+    await carregarNoticias();
+    await carregarClipagens();
+  </script>
+</body>
+</html>
