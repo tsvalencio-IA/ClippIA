@@ -871,12 +871,12 @@
 
         if (!window.ClippIA.noticias.length) {
           document.getElementById("listaNoticias").innerHTML =
-            "<div class='card'>Nenhuma notícia visível. Se você zerou as notícias, clique em “Restaurar zeradas” ou rode novamente a Action para buscar novas.</div>";
+            "<div class='card'>Nenhuma notícia visível. Se você zerou as notícias, clique em “Restaurar zeradas” ou use “Gerar prompt” para mandar o GPT pesquisar do zero.</div>";
         }
       } catch (e) {
         console.error(e);
         document.getElementById("listaNoticias").innerHTML =
-          "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action ou confira se o arquivo existe.</div>";
+          "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action, confira se o arquivo existe ou use “Gerar prompt” para mandar o GPT pesquisar do zero.</div>";
       }
     };
 
@@ -893,7 +893,8 @@
       const ok = confirm(
         "Zerar todas as notícias visíveis desta tela?\n\n" +
         "Isso não apaga o arquivo público data/noticias.json do GitHub.\n" +
-        "Ele apenas esconde as notícias atuais para você começar limpo."
+        "Ele apenas esconde as notícias atuais para você começar limpo.\n\n" +
+        "Depois de zerar, o botão “Gerar prompt” continuará funcionando e criará uma pesquisa do zero para o GPT."
       );
 
       if (!ok) return;
@@ -908,7 +909,12 @@
       window.ClippIA.selecionadas = new Set();
       renderNoticias();
 
-      alert("Notícias zeradas nesta tela. Agora clique em “Pesquisar de novo” depois que a Action buscar novas notícias.");
+      alert(
+        "Notícias zeradas nesta tela.\n\n" +
+        "Agora você pode:\n" +
+        "1. Clicar em “Pesquisar de novo” se a Action já buscou novas notícias.\n" +
+        "2. Ou clicar em “Gerar prompt” para mandar o GPT pesquisar do zero as últimas 24 horas."
+      );
     };
 
     window.restaurarNoticiasZeradas = function() {
@@ -1034,7 +1040,7 @@
 
       if (!items.length) {
         lista.innerHTML =
-          "<div class='card'>Nenhuma notícia encontrada neste filtro.</div>";
+          "<div class='card'>Nenhuma notícia encontrada neste filtro. Você pode clicar em “Gerar prompt” para criar uma pesquisa do zero para o GPT buscar as últimas 24 horas na web.</div>";
         return;
       }
 
@@ -1123,7 +1129,7 @@
             ? "todas filtradas"
             : "selecionadas";
 
-      setText("infoEscopo", "Escopo atual: " + textoEscopo + " (" + totalEscopo + ").");
+      setText("infoEscopo", "Escopo atual: " + textoEscopo + " (" + totalEscopo + "). Se estiver zerado, o prompt será de pesquisa do zero.");
     }
 
     document.addEventListener("change", (ev) => {
@@ -1173,8 +1179,11 @@
       }
     };
 
-    function obterNoticiasPorEscopo() {
-      const escopo = document.getElementById("escopoAcao").value;
+    function obterNoticiasPorEscopo(opcoes = {}) {
+      const silencioso = opcoes.silencioso === true;
+      const escopoEl = document.getElementById("escopoAcao");
+      const escopo = escopoEl ? escopoEl.value : "selecionadas";
+
       let itens = [];
 
       if (escopo === "todas") {
@@ -1185,8 +1194,12 @@
         itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(n.id));
       }
 
-      if (!itens.length) {
-        alert("Nenhuma notícia no escopo escolhido. Selecione notícias ou mude para filtradas/todas.");
+      if (!itens.length && !silencioso) {
+        alert(
+          "Nenhuma notícia no escopo escolhido.\n\n" +
+          "Se o sistema estiver zerado, use “Gerar prompt” ou “Copiar e abrir GPT”.\n" +
+          "O sistema criará uma pesquisa do zero para o GPT buscar as notícias mais recentes na web."
+        );
       }
 
       return itens;
@@ -1249,10 +1262,16 @@ TERMO: ${n.term || ""}`;
     };
 
     function gerarPacotePromptGPT() {
-      const itens = obterNoticiasPorEscopo();
+      const itens = obterNoticiasPorEscopo({ silencioso: true });
 
       if (!itens.length) {
-        return null;
+        const prompt = montarPromptPesquisaZero();
+
+        return {
+          prompt,
+          total: 0,
+          modo: "pesquisa_zero"
+        };
       }
 
       const limite = Math.min(itens.length, 40);
@@ -1260,8 +1279,160 @@ TERMO: ${n.term || ""}`;
 
       return {
         prompt,
-        total: limite
+        total: limite,
+        modo: "analise_itens"
       };
+    }
+
+    function montarPromptPesquisaZero() {
+      const agora = new Date().toLocaleString("pt-BR");
+
+      return `Você é o ClippIA Econoroeste, agente profissional de clipagem, inteligência de mídia, reputação institucional e apoio à comunicação corporativa.
+
+Neste momento o painel está zerado ou sem notícias selecionadas.
+
+Sua tarefa agora é PESQUISAR DO ZERO NA WEB as notícias mais recentes relacionadas à Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste e Free Flow.
+
+DATA/HORA DA SOLICITAÇÃO:
+${agora}
+
+PERÍODO PRIORITÁRIO:
+- Pesquise primeiro as últimas 24 horas.
+- Se não houver notícias relevantes nas últimas 24 horas, amplie para os últimos 7 dias.
+- Se ampliar o período, avise claramente no relatório.
+
+TERMOS OBRIGATÓRIOS DE BUSCA:
+- "Ecovias Noroeste Paulista"
+- "EcoNoroeste"
+- "Econoroeste"
+- "Ecovias Noroeste"
+- "Free Flow" "Ecovias Noroeste"
+- "freeflow" "Ecovias Noroeste"
+- "pedágio inteligente" "Ecovias Noroeste"
+- "pedágio digital" "Ecovias Noroeste"
+- "pedágio eletrônico" "Ecovias Noroeste"
+- "Ecovias Noroeste Paulista" "Free Flow"
+- "Ecovias Noroeste Paulista" pedágio
+- "Ecovias Noroeste Paulista" tarifa
+- "Ecovias Noroeste Paulista" reajuste
+- "Ecovias Noroeste Paulista" cobrança
+- "Ecovias Noroeste Paulista" TAG
+- "Ecovias Noroeste Paulista" DUF
+- "Ecovias Noroeste Paulista" obras
+- "Ecovias Noroeste Paulista" interdição
+- "Ecovias Noroeste Paulista" acidente
+- "Ecovias Noroeste Paulista" trânsito
+- "Ecovias Noroeste Paulista" ARTESP
+- "SP-310" "Ecovias Noroeste"
+- "SP-323" "Ecovias Noroeste"
+- "SP-326" "Ecovias Noroeste"
+- "SP-333" "Ecovias Noroeste"
+- "SP-351" "Ecovias Noroeste"
+- "Washington Luís" "Ecovias Noroeste"
+- "Rodovia Washington Luís" "Ecovias Noroeste"
+- "Rodovia Brigadeiro Faria Lima" "Ecovias Noroeste"
+
+FONTES PRIORITÁRIAS:
+1. Site oficial da Ecovias Noroeste Paulista.
+2. Site oficial do Free Flow da Ecovias Noroeste Paulista.
+3. ARTESP.
+4. EcoRodovias.
+5. Diário Oficial / órgãos públicos.
+6. Portais jornalísticos regionais.
+7. Portais nacionais, quando houver relevância.
+8. Redes sociais públicas somente como alerta, nunca como fato confirmado sem outra fonte.
+
+ASSUNTOS DE ATENÇÃO MÁXIMA:
+- Free Flow.
+- Pedágio inteligente por câmeras.
+- Pedágio eletrônico.
+- Cobrança por placa.
+- TAG.
+- DUF.
+- Prazo de pagamento.
+- Reclamações de usuários.
+- Multas.
+- Reajuste de tarifa.
+- Obras.
+- Interdições.
+- Acidentes.
+- Mortes ou feridos.
+- ARTESP.
+- Investimentos.
+- Campanhas institucionais.
+- Segurança viária.
+- Meio ambiente.
+- Queimadas.
+- Atendimento ao usuário.
+
+REGRAS ABSOLUTAS:
+1. Nunca invente fatos.
+2. Nunca diga que encontrou algo se não encontrou.
+3. Sempre informe fonte, data e link.
+4. Sempre diferencie fato confirmado, fato divulgado pela imprensa e informação não confirmada.
+5. Se a fonte for oficial, classifique como confiança alta.
+6. Se vier de imprensa regional, classifique conforme clareza, fonte e data.
+7. Se vier de rede social ou comentário, classifique como não confirmado.
+8. Em temas sensíveis, recomende revisão humana antes de publicar.
+9. Não use linguagem sensacionalista.
+10. Não acuse ninguém sem fonte confiável.
+11. Não publique informação de imagem como se tivesse direito de uso garantido.
+12. Quando houver imagem pública vinculada à notícia, informe o link da página original e diga se parece imagem oficial, jornalística ou apenas ilustrativa.
+13. Se não encontrar notícias relevantes, diga claramente que não encontrou material suficiente no período pesquisado.
+
+FORMATO OBRIGATÓRIO DA RESPOSTA:
+
+# RELATÓRIO DE CLIPAGEM — ECONOROESTE
+
+Data da análise:
+Período pesquisado:
+Termos pesquisados:
+
+## 1. Resumo executivo
+Explique de forma clara e profissional o que foi encontrado.
+
+## 2. Notícias encontradas
+Para cada notícia encontrada, informe:
+
+- Título:
+- Fonte:
+- Data:
+- Link:
+- Imagem ou referência visual, se houver:
+- Categoria:
+- Nível de confiança: alta / média / baixa
+- Risco de imagem: baixo / médio / alto
+- Resumo factual:
+- O que foi confirmado:
+- O que não foi confirmado:
+- Recomendação: publicar / revisar / monitorar / descartar
+
+## 3. Alertas de risco
+Liste apenas temas com risco médio ou alto, como acidente, morte, cobrança, reclamação, pedágio, Free Flow, denúncia, interdição, processo ou crise.
+
+## 4. Oportunidades de postagem
+Liste pautas positivas, educativas ou institucionais que podem virar postagem.
+
+## 5. Texto profissional para postagem
+Crie uma sugestão de postagem pronta, neutra, segura e institucional.
+Não invente informação.
+Não exagere.
+Não transforme notícia sensível em propaganda.
+
+## 6. Hashtags sugeridas
+Use hashtags moderadas e profissionais.
+
+## 7. Recomendação final
+Diga claramente:
+- publicar
+- revisar antes
+- monitorar
+- descartar
+- ou aguardar novas informações
+
+IMPORTANTE:
+Este relatório será colado depois em um painel chamado ClippIA Econoroeste.
+Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
     }
 
     window.gerarPromptGPTPorEscopo = function() {
@@ -1278,13 +1449,25 @@ TERMO: ${n.term || ""}`;
       }
 
       if (campoTitulo && !campoTitulo.value.trim()) {
-        campoTitulo.value = "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
+        if (pacote.modo === "pesquisa_zero") {
+          campoTitulo.value = "Prompt de pesquisa inicial — " + new Date().toLocaleString("pt-BR");
+        } else {
+          campoTitulo.value = "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
+        }
       }
 
-      alert(
-        "Prompt gerado com " + pacote.total + " notícia(s).\n\n" +
-        "Ele foi colocado no campo de texto à direita. Agora você pode copiar ou abrir o GPT."
-      );
+      if (pacote.modo === "pesquisa_zero") {
+        alert(
+          "Prompt de PESQUISA DO ZERO gerado.\n\n" +
+          "O painel está sem notícias selecionadas ou foi zerado.\n" +
+          "Por isso, o sistema criou um prompt para o GPT pesquisar as últimas 24 horas na web."
+        );
+      } else {
+        alert(
+          "Prompt gerado com " + pacote.total + " notícia(s).\n\n" +
+          "Ele foi colocado no campo de texto à direita. Agora você pode copiar ou abrir o GPT."
+        );
+      }
     };
 
     window.copiarPromptGPTPorEscopo = async function() {
@@ -1294,7 +1477,14 @@ TERMO: ${n.term || ""}`;
 
       await navigator.clipboard.writeText(pacote.prompt);
 
-      alert("Prompt copiado com " + pacote.total + " notícia(s).");
+      if (pacote.modo === "pesquisa_zero") {
+        alert(
+          "Prompt de PESQUISA DO ZERO copiado.\n\n" +
+          "Agora abra o GPT ClippIA e cole para ele pesquisar as notícias mais recentes."
+        );
+      } else {
+        alert("Prompt copiado com " + pacote.total + " notícia(s).");
+      }
     };
 
     window.copiarPromptEAbrirGPT = async function() {
@@ -1306,10 +1496,18 @@ TERMO: ${n.term || ""}`;
 
       abrirGPTClippIA();
 
-      alert(
-        "Prompt copiado com " + pacote.total + " notícia(s).\n\n" +
-        "Agora cole dentro do seu GPT ClippIA."
-      );
+      if (pacote.modo === "pesquisa_zero") {
+        alert(
+          "Prompt de PESQUISA DO ZERO copiado.\n\n" +
+          "Agora cole dentro do seu GPT ClippIA.\n\n" +
+          "Ele deverá pesquisar as últimas 24 horas sobre Econoroeste, EcoNoroeste, Ecovias Noroeste Paulista e Free Flow."
+        );
+      } else {
+        alert(
+          "Prompt copiado com " + pacote.total + " notícia(s).\n\n" +
+          "Agora cole dentro do seu GPT ClippIA."
+        );
+      }
     };
 
     window.abrirGPTClippIA = function() {
