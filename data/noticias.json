@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-16T12:57:36.400561+00:00",
-  "total": 80,
+  "updated_at": "2026-05-16T18:49:28.866549+00:00",
+  "total": 86,
   "total_images": 0,
-  "new_items": 80,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -26,6 +26,20 @@
     "\"SP-351\" \"Ecovias Noroeste\""
   ],
   "items": [
+    {
+      "id": "06e361ee3f8d5816be51e3cb03b4a64b7ee809b18f9bb2618461323a5b6803df",
+      "title": "EcoNoroeste adere ao Movimento Afaste-se em prol da segurança das equipes de atendimento - Portal ABC do ABC",
+      "source": "Portal ABC do ABC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcC1hT2cyZlJTc1AzRndhWVJta0ctMTlqc0ZucWt4cmZabVhlN3RMSW00cFpTUm13WDFVT1RnM1FOdlpYVTlyWUE5UkcyVTRER0xRR2w0ZmRXQUVFandCZklEdFdJZ2RJeWp4eElpeGdlQW1fdkREX2lqQmZCV0M4TUJrTE81alpDVkNBelRKa3MxNTByLUpGN1dJaTBTZU5LUndqbnVIM19DS0lUZk9kWmpGMXBQSU1r?oc=5",
+      "published": "2026-05-16T09:54:37+00:00",
+      "published_raw": "Sat, 16 May 2026 09:54:37 GMT",
+      "snippet": "EcoNoroeste adere ao Movimento Afaste-se em prol da segurança das equipes de atendimento Portal ABC do ABC",
+      "term": "\"Econoroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:24.049524+00:00"
+    },
     {
       "id": "faf74c3964b3c1588eeaca0e47d8770931950ebc4811093c15fc01d9b73a9700",
       "title": "Ecovias Noroeste Paulista registra redução de 58% de incêndios às margens das rodovias - Diário do Transporte",
@@ -67,6 +81,20 @@
       "image_url": "",
       "image_source": "",
       "collected_at": "2026-05-16T12:57:29.931085+00:00"
+    },
+    {
+      "id": "7e6db0d050af6538f4d30d50fba3202c9d7659633e815b6b39d56f8703affef1",
+      "title": "Ecovias Noroeste Paulista registra redução de 58% de incêndios às margens das rodovias - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaG1mNnMydHJYSkJjN3F2U2ZZcG1Tak1qUFdYUXhGWUxXeFFETFVTQWV6UzM1YUJSZWdqWjZobjdsMjQ5RmtrVE5meElKYlJranBnSVh0azNEUVdobHNBUU1MWUdVSkF1eElsclNHaURBZjFVUzlzWHMyQm1CWkNQQ0lKWWF3NmNQQ2s2OVF4eHVGQUhUQmpHR2pUamM5RXNVOThMenV4Rkg2dENMdGpkTF8yN3NxYjNiLTB6UDY5LWhPY29LU3JQbEdB?oc=5",
+      "published": "2026-05-13T12:42:17+00:00",
+      "published_raw": "Wed, 13 May 2026 12:42:17 GMT",
+      "snippet": "Ecovias Noroeste Paulista registra redução de 58% de incêndios às margens das rodovias Portal SCDN - Porque a informação não para!",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:27.751149+00:00"
     },
     {
       "id": "4bea7ca4a0311f4da19081bd48f3d1bb749b8db53f82d0b6d81288ae0494301c",
@@ -293,6 +321,20 @@
       "collected_at": "2026-05-16T12:57:32.541001+00:00"
     },
     {
+      "id": "23e747115d6064992e718da5f8a2c9e7f4e39f18545dbc6d9597f12e39e03b51",
+      "title": "Notícias - Jornal de Barretos",
+      "source": "Jornal de Barretos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDlCQzIyX3lsYXlqVlpuQXlsQUE4U0FraWszLWQwNDBIdC1UakRaZzNyXzJDc0lWT0VkNGkwSlVOa0VyblhZNDFpcW1aNmdNWl9YY3lmQnNKRWFFOGd4VVhfSkp5TEs5S1F3U1BIUXJPODc2dlQyUm04XzhpUjZBMWZoQVlIWFN6UUk5VERBV242UEdwX3Q0c1RFV3pfMnRnQ29Pbg?oc=5",
+      "published": "2026-04-30T07:00:00+00:00",
+      "published_raw": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "snippet": "Notícias Jornal de Barretos",
+      "term": "\"Ecovias Noroeste Paulista\" tarifa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:25.832015+00:00"
+    },
+    {
       "id": "1cdb6092823016fb746ae4dc006f793361832f800a233e4ea6a65d7fcc674cac",
       "title": "Notícias - ARTESP",
       "source": "ARTESP",
@@ -517,6 +559,20 @@
       "collected_at": "2026-05-16T12:57:34.133103+00:00"
     },
     {
+      "id": "24dedddbc481beaf8cfaf0b1586432f0919643cbbd4ccbd86f4a122084846178",
+      "title": "Rodovias do interior de São Paulo, gerenciadas pela Ecovias Noroeste Paulista, têm nova etapa de obras até sábado (04) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHF3QWFRT1A1Q2tVc0Fad0RpaTZxTkFYTG56bUxZVWxNYkcxaEJTcTlDNXZmeVlkMjJvSFZkMmd0NkdHaWdERDFWd0lnWjRHVURlSlpYdUlVVU9sYllfNWNZMzFYVHJrOUc0ckZZeWRHWFh4cVJfcS1xbDVRdVB4cnppbm14MkVvYnR6aFB6N2kwVkxWdFNqX3d6VmRoQk9mcDc3TFo3S2t1NjZCSTNKeTVCaWZEelliY1YxRzljQXQtdnBTS2hqWlJhSU4wZTdhOWU4TllzRXduWEVnZU5pNGVLR0JVaDlySWhxak1oUDA5d9IB9wFBVV95cUxQRTlfQnJqZDdCYmI3QXp5UVZXNWRpY0xoTnJQY0I5OFVCQllIOGx6SnZwU0stUWw0aVJlRkxWUlhDQzd1TXk2NjBXRXZlcmtJRjd0NzhaNldYYUVPTXFseGp3Y3N6MG1IVzRGV0tIZXpsNHd2U2h5ZU9nTnk1ckpGaF9MRExBdTZmX1JxSVlQSjFNV2oxZVBBa25aRVpXVGNrSll6Nkx0empCbWNRQUVzSkJwcHd1T0FmeVBoQTM0WDhVS0V0VS00ZldBMkd5ZnJHYzFHVnQzSDcxS3d1bDF3VGpRb0U2cEw4REVJeXdDcERyZTQwSTMw?oc=5",
+      "published": "2026-03-30T07:00:00+00:00",
+      "published_raw": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "snippet": "Rodovias do interior de São Paulo, gerenciadas pela Ecovias Noroeste Paulista, têm nova etapa de obras até sábado (04) Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:26.486452+00:00"
+    },
+    {
       "id": "622ab3b877fa950f0d403fbd3e014bca86e2ba77accc475614a5570024fa9223",
       "title": "Entrada norte terá segunda faixa de rolamento; Prefeitura celebra conquista em infraestrutura viária - São Carlos Agora",
       "source": "São Carlos Agora",
@@ -685,6 +741,20 @@
       "collected_at": "2026-05-16T12:57:34.451680+00:00"
     },
     {
+      "id": "5ad5f9899b116fc6fb4e71f73208cf3697f1b25fe16641d36618cafc3b46bd57",
+      "title": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' - Notícias da TV",
+      "source": "Notícias da TV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVlYY0J6N2R0aGVWV0Z6YldwVjZmN0ZSa2VYemhxSS1VN2lFMlNsaWRrWVlhVnlZYW5heHVtSFR3dVF5M0JvYzA0enpBNm1FZjh6LTVDWE5MQlByNS15UG5CWVpVWDhfUEIwOEVNYVFsYTh2QV9FdlFkbkNtZ1ppVnViNVVoZmtWQk4tN29OeVNKcU93YlVQUUZuWVJuTm9BZGRBWjVYRmROaE1VdlRLd3haX2p3YXZvczNqcHBMTGpNM1p6eDFxMjJtMTBrd9IB3AFBVV95cUxPREZmckU2RWY1NmVZeFUzd0thMlhyX2RZTTJwbU1qNHkwNGVCdTJNXzhnaFpGLXdhZEFTSHIxNjc1X3l0OFZ1eFM0dUN4X0R0WVU4QWNWdlIwLUx4TVkwUmlLcDZ3MU5mTlJ3Mk0zV1pabWhQanpSSkowbDlVS1dscWl1SUIxUjFvZGhvLTRpVnRDUExUN2RLTEVMR2t4WUttRUZJYXlrc09Cb2hYTUtBZ0tTNWdtMTZQX05LMlNWUU1vVmZFMEstZFdNQTFhX3dyUDNNQXN1Q1dsS1Nm?oc=5",
+      "published": "2026-03-06T08:00:00+00:00",
+      "published_raw": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "snippet": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' Notícias da TV",
+      "term": "\"Ecovias Noroeste Paulista\" acidente",
+      "category": "acidente",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:27.077767+00:00"
+    },
+    {
       "id": "70ed3a90b187d6f5e2fd3cf8f0b3b69cbbba8e8187f4651ea0e0b07411a9eb16",
       "title": "Ecovias Noroeste Paulista: confira o cronograma de obras desta semana - São Carlos Agora",
       "source": "São Carlos Agora",
@@ -795,6 +865,20 @@
       "image_url": "",
       "image_source": "",
       "collected_at": "2026-05-16T12:57:34.133178+00:00"
+    },
+    {
+      "id": "761e675bcca10ef322c7e2b21662a17292eccfdb379f46e5c4cba6706989937b",
+      "title": "Ecovias Noroeste divulga cronograma de obras em rodovias do interior paulista entre 13 e 18 de janeiro - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeTJLdExfck1PN2xJLW5DTTF4dmI1WnFhWndzTlR2QVQ4Q1Y4c2RBWGlOZjR3eGs1b1lxVmcxWFFUM3MtS3RLdXhFUU1nSUp1NDh4V0FsZWxRUFo4WGQ2LUVZaDc0bjcxY2k1VmVOa2dmbXNobGtyZkFnTmMwVGZSWkZLekpmWjljbUFiQU1kbWRfakRNODNFenRuYVlTNDkydExXRjJ4WVc0RHkxaEktWmZwWDdOMnZiZEMzTmNLODlfbFd0MFpTSGQ1ODJoZWJEN0lsUmo2ZGVCQW12NHM3YUlB0gHnAUFVX3lxTE9fN0JoOTlacG1aS2R3dWpSMG9PWWVTdkJfZEVGUWdPb1BYLXRRbXAtbndhSEdvMUZLWUtJY0xYbXBqMVJxRzFVd09DaV9EMmlSZlJuc3NxYlFVeDJDUUVTdWt6V2NHcWU5cWhOcUFNRVU0bHpST1QtWnNGQ1c1V1YxbGtnSFFFWjJYTF95OHYxNjRQY253U0hfTGdVTEpldTd3X3F2a3BOdldqTXFSZUJDSmhib0FRRG5FWnU4UkxjTi1HWnJuN05aZ1NsYW00UFk4NXY0MEVxWkNGRnBBQVByUUVEMlU4Yw?oc=5",
+      "published": "2026-01-13T08:00:00+00:00",
+      "published_raw": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "snippet": "Ecovias Noroeste divulga cronograma de obras em rodovias do interior paulista entre 13 e 18 de janeiro Diário do Transporte",
+      "term": "\"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "collected_at": "2026-05-16T18:49:28.866495+00:00"
     },
     {
       "id": "acf172eda83eda77aa0344c5ec32264bf1bf2b10f736a0c28d81829444618c45",
