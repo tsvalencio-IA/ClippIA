@@ -1,113 +1,96 @@
-# ClippIA Econoroeste — passo a passo para quem só copia e cola
+# ClippIA Econoroeste — Realtime Database + Vercel + GPT Action
 
-Este pacote cria:
+Este pacote faz a opção 3 usando:
 
-1. Um site/painel no GitHub Pages.
-2. Um coletor automático de notícias via GitHub Actions.
-3. Um arquivo `data/noticias.json` com notícias coletadas.
-4. Um painel para copiar o prompt e mandar para o seu GPT.
-5. Um local para salvar o relatório gerado pelo GPT.
-6. Integração opcional com Firebase.
+- GitHub para guardar os arquivos
+- GitHub Actions para coletar notícias
+- Vercel para criar a API
+- Firebase Realtime Database como banco JSON
+- GPT personalizado com Action para salvar automaticamente no banco
 
-## Verdade importante
+## Fluxo final
 
-O GPT Plus não funciona como API gratuita automática dentro do GitHub Actions.
-Por isso, a versão barata funciona assim:
+1. O painel coleta notícias.
+2. Você clica em "Copiar e abrir GPT".
+3. O GPT analisa, pesquisa e gera o relatório.
+4. O GPT chama a Action `salvarClipagemNoClippIA`.
+5. A Vercel recebe a chamada.
+6. A Vercel salva no Firebase Realtime Database em `/clipagens`.
+7. O painel mostra a clipagem salva.
 
-GitHub Action coleta links e notícias.
-O painel mostra as notícias.
-Você clica em copiar prompt.
-Você cola no GPT personalizado.
-O GPT pesquisa, confirma e gera o relatório.
-Você cola o relatório no painel.
-O painel salva localmente ou no Firebase.
+## Arquivos principais
 
-## Arquivos
+- `index.html`: painel do ClippIA
+- `firebase-config.js`: configuração do Firebase Web
+- `api/salvar-clipagem.js`: API Vercel chamada pelo GPT Action
+- `api/health.js`: teste da API
+- `openapi-clippia-action.yaml`: schema para colar no GPT
+- `scripts/coletar_noticias.py`: coletor de notícias
+- `.github/workflows/coletar-noticias.yml`: automação do GitHub Actions
 
-- `index.html`: painel do sistema.
-- `firebase-config.js`: onde você cola a configuração do Firebase.
-- `scripts/coletar_noticias.py`: robô gratuito de coleta.
-- `.github/workflows/coletar-noticias.yml`: agenda automática no GitHub Actions.
-- `data/noticias.json`: banco simples de notícias públicas coletadas.
-- `GPT_INSTRUCOES.md`: instruções para colar no criador de GPT.
+## Banco usado
 
-## Como subir no GitHub pelo celular
+Firebase Realtime Database.
 
-1. Crie um repositório chamado `clippia-econoroeste`.
-2. Suba todos estes arquivos mantendo as pastas.
-3. Vá em Settings > Pages.
-4. Em Source, escolha `Deploy from a branch`.
-5. Em Branch, escolha `main` e `/root`.
-6. Salve.
-7. Aguarde o link aparecer.
+A estrutura ficará assim:
 
-## Como rodar a coleta manual
-
-1. Entre no repositório no GitHub.
-2. Clique em Actions.
-3. Clique em `Coletar notícias Econoroeste`.
-4. Clique em `Run workflow`.
-5. Aguarde terminar.
-6. Abra o site de novo.
-
-## Como configurar Firebase
-
-1. Acesse Firebase Console.
-2. Crie um projeto.
-3. Crie um app Web.
-4. Copie o objeto `firebaseConfig`.
-5. Abra o arquivo `firebase-config.js` no GitHub.
-6. Clique no lápis para editar.
-7. Substitua os campos `COLE_AQUI`.
-8. Salve.
-
-## Regras do Firestore
-
-Use estas regras para exigir login:
-
+```json
+{
+  "clipagens": {
+    "-ID_GERADO": {
+      "titulo": "...",
+      "risco": "medio",
+      "relatorio": "...",
+      "texto_postagem": "...",
+      "fontes": [],
+      "imagens": [],
+      "criado_em": "..."
+    }
+  },
+  "ultima_clipagem": {
+    "id": "-ID_GERADO",
+    "titulo": "...",
+    "risco": "medio"
+  },
+  "logs": {
+    "actions": {}
+  }
+}
 ```
-rules_version = '2';
 
-service cloud.firestore {
-  match /databases/{database}/documents {
-    match /clipagens/{docId} {
-      allow read, write: if request.auth != null;
+## Variáveis da Vercel
+
+Crie estas variáveis em Project Settings > Environment Variables:
+
+- `CLIPPIA_ACTION_KEY`
+- `FIREBASE_DATABASE_URL`
+- `FIREBASE_SERVICE_ACCOUNT_JSON`
+
+Opcional:
+
+- `ALLOWED_ORIGIN`
+
+## Regras do Realtime Database para o painel
+
+Comece com estas regras:
+
+```json
+{
+  "rules": {
+    "clipagens": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    "ultima_clipagem": {
+      ".read": "auth != null",
+      ".write": false
+    },
+    "logs": {
+      ".read": false,
+      ".write": false
     }
   }
 }
 ```
 
-## Auth
-
-No Firebase, ative Authentication > Sign-in method > Email/Password.
-
-Depois, no painel, você cria a conta pelo próprio site.
-
-
-## Atualização importante: links + imagens
-
-Esta versão também tenta coletar imagens públicas das notícias e das páginas oficiais.
-
-Ela procura imagens em:
-- `media:content` e `media:thumbnail` do RSS
-- `og:image`
-- `twitter:image`
-- primeira imagem relevante da página oficial
-
-No painel existem agora:
-- imagem dentro do card da notícia
-- botão `Ver imagens coletadas`
-- imagem enviada no prompt copiado para o GPT
-- campo `image_url` dentro do arquivo `data/noticias.json`
-
-### Limite verdadeiro
-
-Nenhum robô barato consegue garantir todas as imagens de toda a internet, porque:
-- alguns portais bloqueiam robôs
-- algumas imagens carregam por JavaScript
-- algumas páginas têm paywall
-- redes sociais podem bloquear scraping
-- imagens de portais podem ter direito autoral
-
-O sistema coleta o máximo possível de forma pública e barata, mantendo fonte e link original.
-Antes de usar imagem em postagem, confirme se ela é oficial, autorizada ou se precisa de crédito.
+A Vercel usa Firebase Admin SDK, então consegue salvar mesmo com regra de escrita bloqueada para cliente, desde que esteja usando Service Account.

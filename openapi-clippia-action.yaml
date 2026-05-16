@@ -1,0 +1,84 @@
+openapi: 3.1.0
+info:
+  title: ClippIA Econoroeste Action
+  version: 1.0.0
+  description: Salva relatórios de clipagem gerados pelo GPT no Firebase Realtime Database via Vercel.
+servers:
+  - url: https://SEU-PROJETO-VERCEL.vercel.app
+paths:
+  /api/salvar-clipagem:
+    post:
+      operationId: salvarClipagemNoClippIA
+      summary: Salvar relatório de clipagem no ClippIA
+      description: Salva no Firebase Realtime Database o relatório de clipagem gerado pelo GPT.
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                titulo:
+                  type: string
+                  description: Título da clipagem
+                periodo:
+                  type: string
+                  description: Período pesquisado
+                risco:
+                  type: string
+                  enum: [baixo, medio, alto]
+                categoria:
+                  type: string
+                resumo_executivo:
+                  type: string
+                relatorio:
+                  type: string
+                  description: Relatório completo da clipagem
+                texto_postagem:
+                  type: string
+                  description: Texto profissional sugerido para postagem
+                recomendacao:
+                  type: string
+                fontes:
+                  type: array
+                  items:
+                    type: string
+                imagens:
+                  type: array
+                  items:
+                    type: string
+                noticias:
+                  type: array
+                  items:
+                    type: object
+                    additionalProperties: true
+              required:
+                - titulo
+                - relatorio
+      responses:
+        "200":
+          description: Clipagem salva
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                  id:
+                    type: string
+                  path:
+                    type: string
+                  message:
+                    type: string
+        "401":
+          description: Não autorizado
+        "500":
+          description: Erro interno
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer

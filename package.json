@@ -1,0 +1,13 @@
+{
+  "name": "clippia-realtime-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ClippIA Econoroeste com Firebase Realtime Database, Vercel API e GPT Action",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.5.0"
+  }
+}
