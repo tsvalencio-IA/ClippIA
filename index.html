@@ -8,20 +8,22 @@
 
   <style>
     :root {
-      --bg: #f4f7fb;
+      --bg: #f3f7fb;
       --panel: #ffffff;
       --card: #ffffff;
-      --text: #111827;
+      --text: #0f172a;
       --muted: #64748b;
       --line: rgba(15, 23, 42, .12);
-      --brand: #0284c7;
+      --brand: #0369a1;
+      --brand2: #0ea5e9;
       --brandText: #ffffff;
       --ok: #16a34a;
       --warn: #d97706;
       --bad: #dc2626;
-      --soft: #eef6ff;
+      --soft: #eaf6ff;
       --input: #ffffff;
-      --shadow: 0 10px 30px rgba(15,23,42,.10);
+      --shadow: 0 18px 50px rgba(15,23,42,.10);
+      --radius: 22px;
       --pre: #0f172a;
       --preText: #e2e8f0;
     }
@@ -34,22 +36,31 @@
       --muted: #94a3b8;
       --line: rgba(255,255,255,.13);
       --brand: #38bdf8;
+      --brand2: #0284c7;
       --brandText: #00111c;
       --soft: #0b1220;
       --input: #020617;
-      --shadow: 0 15px 40px rgba(0,0,0,.28);
+      --shadow: 0 18px 48px rgba(0,0,0,.35);
       --pre: #020617;
       --preText: #dbeafe;
     }
 
     * { box-sizing: border-box; }
+
     html { scroll-behavior: smooth; }
+
     body {
       margin: 0;
-      background: var(--bg);
+      background:
+        radial-gradient(circle at top left, rgba(14,165,233,.18), transparent 30%),
+        linear-gradient(180deg, var(--bg), var(--bg));
       color: var(--text);
       font-family: Arial, Helvetica, sans-serif;
       -webkit-tap-highlight-color: transparent;
+    }
+
+    button, input, textarea, select {
+      font-family: inherit;
     }
 
     header {
@@ -57,32 +68,112 @@
       top: 0;
       z-index: 50;
       background: rgba(255,255,255,.90);
-      backdrop-filter: blur(12px);
+      backdrop-filter: blur(14px);
       border-bottom: 1px solid var(--line);
     }
-    [data-theme="dark"] header { background: rgba(2,6,23,.90); }
 
-    .wrap { max-width: 1180px; margin: 0 auto; padding: 0 14px; }
+    [data-theme="dark"] header {
+      background: rgba(2,6,23,.90);
+    }
+
+    .wrap {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 0 14px;
+    }
+
     .topbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      gap: 10px;
-      padding: 12px 0;
+      gap: 12px;
+      padding: 13px 0;
     }
-    .brand h1 { margin: 0; font-size: 20px; letter-spacing: -.02em; }
-    .brand p { margin: 3px 0 0; color: var(--muted); font-size: 12px; line-height: 1.3; }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      min-width: 0;
+    }
+
+    .logo {
+      width: 46px;
+      height: 46px;
+      border-radius: 16px;
+      background: linear-gradient(135deg, var(--brand), var(--brand2));
+      color: var(--brandText);
+      display: grid;
+      place-items: center;
+      font-size: 22px;
+      font-weight: 900;
+      box-shadow: 0 12px 28px rgba(2,132,199,.22);
+      flex: 0 0 auto;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 20px;
+      letter-spacing: -.03em;
+      line-height: 1.05;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.3;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 680px;
+    }
+
+    .topActions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 0 0 auto;
+    }
 
     .iconBtn {
       min-width: 42px;
       height: 42px;
-      border-radius: 14px;
+      border-radius: 15px;
       border: 1px solid var(--line);
       background: var(--panel);
       color: var(--text);
-      font-weight: 700;
+      font-weight: 800;
       cursor: pointer;
-      box-shadow: none;
+    }
+
+    .userBadge {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+      border-radius: 999px;
+      padding: 9px 12px;
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--muted);
+      max-width: 260px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--warn);
+      flex: 0 0 auto;
+    }
+
+    .dot.ok {
+      background: var(--ok);
     }
 
     .tabs {
@@ -91,25 +182,135 @@
       gap: 8px;
       padding: 0 0 12px;
     }
+
     .tabBtn {
       border: 1px solid var(--line);
       background: var(--panel);
       color: var(--text);
       border-radius: 999px;
       padding: 10px 8px;
-      font-weight: 700;
+      font-weight: 800;
       cursor: pointer;
       font-size: 13px;
     }
+
     .tabBtn.active {
       background: var(--brand);
       color: var(--brandText);
       border-color: transparent;
     }
 
-    main { padding: 14px 0 88px; }
-    .screen { display: none; }
-    .screen.active { display: block; }
+    main {
+      padding: 16px 0 90px;
+    }
+
+    .screen {
+      display: none;
+    }
+
+    .screen.active {
+      display: block;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.15fr .85fr;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .heroMain {
+      border-radius: 28px;
+      padding: 22px;
+      background: linear-gradient(135deg, #075985, #0284c7 60%, #38bdf8);
+      color: #ffffff;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .heroMain::after {
+      content: "";
+      position: absolute;
+      width: 260px;
+      height: 260px;
+      right: -90px;
+      top: -110px;
+      background: rgba(255,255,255,.14);
+      border-radius: 50%;
+    }
+
+    .heroMain h2 {
+      margin: 0;
+      font-size: clamp(25px, 4vw, 42px);
+      letter-spacing: -.055em;
+      line-height: 1.02;
+      position: relative;
+      z-index: 1;
+    }
+
+    .heroMain p {
+      margin: 12px 0 0;
+      color: rgba(255,255,255,.88);
+      font-size: 15px;
+      line-height: 1.48;
+      max-width: 760px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .heroBtns {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 9px;
+      margin-top: 18px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .box, .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      box-shadow: var(--shadow);
+    }
+
+    .card {
+      background: var(--card);
+      margin: 10px 0;
+      box-shadow: none;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 18px;
+      letter-spacing: -.02em;
+    }
+
+    h3 {
+      margin: 0 0 8px;
+      font-size: 16px;
+      line-height: 1.3;
+    }
+
+    .small {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .note {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-left: 4px solid var(--brand);
+      color: var(--text);
+      border-radius: 16px;
+      padding: 11px;
+      font-size: 13px;
+      line-height: 1.45;
+      margin: 10px 0;
+    }
 
     .grid {
       display: grid;
@@ -117,53 +318,61 @@
       gap: 14px;
     }
 
-    .box, .card {
-      background: var(--panel);
-      border: 1px solid var(--line);
-      border-radius: 20px;
-      padding: 14px;
-      box-shadow: var(--shadow);
-    }
-    .card {
-      background: var(--card);
-      margin: 10px 0;
-      box-shadow: none;
-    }
-
-    h2 { margin: 0 0 10px; font-size: 18px; }
-    h3 { margin: 0 0 8px; font-size: 16px; line-height: 1.3; }
-    .small { color: var(--muted); font-size: 12px; line-height: 1.45; }
-    .note {
-      background: var(--soft);
-      border: 1px solid var(--line);
-      border-left: 4px solid var(--brand);
-      color: var(--text);
-      border-radius: 14px;
-      padding: 10px;
-      font-size: 13px;
-      line-height: 1.45;
-      margin: 10px 0;
-    }
-
     input, textarea, select {
       width: 100%;
       border: 1px solid var(--line);
-      border-radius: 14px;
+      border-radius: 15px;
       background: var(--input);
       color: var(--text);
       padding: 13px;
       outline: none;
       font-size: 16px;
     }
-    textarea { min-height: 180px; resize: vertical; }
+
+    input:focus, textarea:focus, select:focus {
+      border-color: var(--brand);
+      box-shadow: 0 0 0 4px rgba(14,165,233,.12);
+    }
+
+    textarea {
+      min-height: 180px;
+      resize: vertical;
+      line-height: 1.45;
+    }
+
+    label {
+      display: block;
+      font-size: 12px;
+      font-weight: 900;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      margin: 10px 0 6px;
+    }
+
+    .checkLine {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      margin: 10px 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    .checkLine input {
+      width: 18px;
+      height: 18px;
+      padding: 0;
+    }
 
     button, a.btn {
       border: 0;
-      border-radius: 14px;
+      border-radius: 15px;
       padding: 12px 14px;
       background: var(--brand);
       color: var(--brandText);
-      font-weight: 800;
+      font-weight: 900;
       cursor: pointer;
       text-decoration: none;
       display: inline-flex;
@@ -173,72 +382,182 @@
       min-height: 44px;
       font-size: 14px;
     }
-    button.secondary { background: #334155; color: #f8fafc; }
-    button.ok { background: var(--ok); color: #f0fdf4; }
-    button.warn { background: var(--warn); color: #fff7ed; }
-    button.bad { background: var(--bad); color: #fff1f2; }
+
+    button.secondary, a.secondary {
+      background: #334155;
+      color: #f8fafc;
+    }
+
+    button.ok {
+      background: var(--ok);
+      color: #f0fdf4;
+    }
+
+    button.warn {
+      background: var(--warn);
+      color: #fff7ed;
+    }
+
+    button.bad {
+      background: var(--bad);
+      color: #fff1f2;
+    }
+
     button.ghost {
       background: transparent;
       color: var(--text);
       border: 1px solid var(--line);
     }
 
-    .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-    .row > button, .row > a.btn { flex: 1 1 auto; }
+    .row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .row > button,
+    .row > a.btn {
+      flex: 1 1 auto;
+    }
 
     .stats {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 8px;
-      margin: 10px 0;
+      margin: 10px 0 14px;
     }
+
     .stat {
       background: var(--soft);
       border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 10px;
-      min-height: 70px;
+      border-radius: 18px;
+      padding: 11px;
+      min-height: 74px;
     }
-    .stat strong { display: block; font-size: 22px; margin-top: 2px; }
+
+    .stat span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 23px;
+      margin-top: 3px;
+      letter-spacing: -.04em;
+    }
 
     .pill {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
       padding: 5px 8px;
       border-radius: 999px;
       font-size: 12px;
       margin: 3px 4px 3px 0;
       background: #e2e8f0;
       color: #0f172a;
-      font-weight: 700;
+      font-weight: 800;
     }
-    [data-theme="dark"] .pill { background: #334155; color: #e2e8f0; }
-    .pill.alto { background: rgba(220,38,38,.18); color: #ef4444; }
-    .pill.medio { background: rgba(217,119,6,.18); color: #d97706; }
-    .pill.baixo { background: rgba(22,163,74,.18); color: #16a34a; }
+
+    [data-theme="dark"] .pill {
+      background: #334155;
+      color: #e2e8f0;
+    }
+
+    .pill.alto {
+      background: rgba(220,38,38,.18);
+      color: #ef4444;
+    }
+
+    .pill.medio {
+      background: rgba(217,119,6,.18);
+      color: #f59e0b;
+    }
+
+    .pill.baixo {
+      background: rgba(22,163,74,.18);
+      color: #22c55e;
+    }
 
     .thumb {
       width: 100%;
-      max-height: 220px;
+      max-height: 230px;
       object-fit: cover;
-      border-radius: 16px;
+      border-radius: 18px;
       border: 1px solid var(--line);
       background: var(--soft);
-      margin: 8px 0;
+      margin: 10px 0;
     }
 
-    .link { color: var(--brand); word-break: break-all; font-weight: 700; }
+    .imageEmpty {
+      border: 1px dashed var(--line);
+      border-radius: 18px;
+      background: var(--soft);
+      padding: 18px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+      margin: 10px 0;
+    }
+
+    .link {
+      color: var(--brand);
+      word-break: break-all;
+      font-weight: 800;
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
     pre {
       white-space: pre-wrap;
       word-break: break-word;
       background: var(--pre);
       color: var(--preText);
       border: 1px solid var(--line);
-      border-radius: 14px;
+      border-radius: 16px;
       padding: 12px;
       max-height: 320px;
       overflow: auto;
       font-size: 12px;
       line-height: 1.45;
+    }
+
+    .empty {
+      border: 1px dashed var(--line);
+      background: var(--soft);
+      color: var(--muted);
+      border-radius: 18px;
+      padding: 18px;
+      text-align: center;
+      font-size: 13px;
+      line-height: 1.45;
+      margin: 10px 0;
+    }
+
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 18px;
+      transform: translateX(-50%) translateY(20px);
+      opacity: 0;
+      pointer-events: none;
+      background: #0f172a;
+      color: #ffffff;
+      padding: 13px 16px;
+      border-radius: 999px;
+      box-shadow: 0 16px 45px rgba(15,23,42,.28);
+      z-index: 99;
+      font-size: 14px;
+      font-weight: 900;
+      transition: .2s ease;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
     }
 
     .bottomBar {
@@ -253,23 +572,107 @@
       padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
       display: none;
     }
-    [data-theme="dark"] .bottomBar { background: rgba(2,6,23,.92); }
-    .bottomBar .row { max-width: 700px; margin: auto; }
-    .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 22px; }
 
-    @media (max-width: 760px) {
-      .wrap { padding: 0 10px; }
-      .brand h1 { font-size: 18px; }
-      .brand p { font-size: 11px; }
-      .tabs { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; overflow-x: auto; }
-      .tabBtn { font-size: 12px; padding: 10px 6px; white-space: nowrap; }
-      .grid { grid-template-columns: 1fr; }
-      .box { border-radius: 18px; padding: 12px; }
-      .stats { grid-template-columns: repeat(2, 1fr); }
-      .row > button, .row > a.btn { width: 100%; flex: 1 1 100%; }
-      .desktopOnly { display: none !important; }
-      .bottomBar { display: block; }
-      main { padding-bottom: 110px; }
+    [data-theme="dark"] .bottomBar {
+      background: rgba(2,6,23,.92);
+    }
+
+    .bottomBar .row {
+      max-width: 700px;
+      margin: auto;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+      padding: 24px 12px;
+    }
+
+    @media (max-width: 860px) {
+      .hero,
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .brand p {
+        max-width: 420px;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .wrap {
+        padding: 0 10px;
+      }
+
+      .topbar {
+        align-items: flex-start;
+      }
+
+      .logo {
+        width: 42px;
+        height: 42px;
+        border-radius: 15px;
+      }
+
+      .brand h1 {
+        font-size: 18px;
+      }
+
+      .brand p {
+        font-size: 11px;
+        white-space: normal;
+      }
+
+      .userBadge {
+        display: none;
+      }
+
+      .tabs {
+        gap: 6px;
+      }
+
+      .tabBtn {
+        font-size: 12px;
+        padding: 10px 6px;
+        white-space: nowrap;
+      }
+
+      .heroMain {
+        border-radius: 23px;
+        padding: 18px;
+      }
+
+      .heroBtns .btnHideMobile {
+        display: none;
+      }
+
+      .box {
+        border-radius: 19px;
+        padding: 12px;
+      }
+
+      .row > button,
+      .row > a.btn {
+        width: 100%;
+        flex: 1 1 100%;
+      }
+
+      .desktopOnly {
+        display: none !important;
+      }
+
+      .bottomBar {
+        display: block;
+      }
+
+      main {
+        padding-bottom: 112px;
+      }
     }
   </style>
 </head>
@@ -279,43 +682,74 @@
   <div class="wrap">
     <div class="topbar">
       <div class="brand">
-        <h1>ClippIA Econoroeste</h1>
-        <p>Clipagem + GPT Action + Vercel + Firebase Realtime Database</p>
+        <div class="logo">C</div>
+        <div>
+          <h1>ClippIA Econoroeste</h1>
+          <p>Clipagem com links, imagens, Free Flow, pedágio, obras e análise por GPT.</p>
+        </div>
       </div>
-      <button class="iconBtn" onclick="alternarTema()" id="themeBtn" title="Alternar tema">🌙</button>
+
+      <div class="topActions">
+        <div class="userBadge">
+          <span id="loginDot" class="dot"></span>
+          <span id="userBadgeText">Não logado</span>
+        </div>
+        <button class="iconBtn" onclick="alternarTema()" id="themeBtn" title="Alternar tema">🌙</button>
+      </div>
     </div>
 
     <nav class="tabs">
-      <button id="tabNoticias" class="tabBtn active" onclick="abrirTela('noticias')">Notícias</button>
-      <button id="tabGpt" class="tabBtn" onclick="abrirTela('gpt')">GPT</button>
-      <button id="tabSalvar" class="tabBtn" onclick="abrirTela('salvar')">Salvar</button>
-      <button id="tabClipagens" class="tabBtn" onclick="abrirTela('clipagens')">Salvas</button>
+      <button id="tabNoticias" class="tabBtn active" onclick="abrirTela('noticias')">📰 Notícias</button>
+      <button id="tabGpt" class="tabBtn" onclick="abrirTela('gpt')">🤖 GPT</button>
+      <button id="tabSalvar" class="tabBtn" onclick="abrirTela('salvar')">💾 Salvar</button>
+      <button id="tabClipagens" class="tabBtn" onclick="abrirTela('clipagens')">📁 Salvas</button>
     </nav>
   </div>
 </header>
 
 <main class="wrap">
+
   <section id="screenNoticias" class="screen active">
+    <div class="hero">
+      <div class="heroMain">
+        <h2>Clipagem profissional sem complicação</h2>
+        <p>
+          Atualize as notícias, copie para o GPT, revise o relatório e salve tudo no Firebase Realtime Database.
+        </p>
+
+        <div class="heroBtns">
+          <button onclick="carregarNoticias()">🔄 Atualizar notícias</button>
+          <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
+          <button class="secondary btnHideMobile" onclick="abrirTela('salvar')">🔐 Login / salvar</button>
+        </div>
+      </div>
+
+      <div class="box">
+        <h2>Resumo do painel</h2>
+        <div class="stats">
+          <div class="stat"><span>Notícias</span><strong id="statNoticias">0</strong></div>
+          <div class="stat"><span>Imagens</span><strong id="statImagens">0</strong></div>
+          <div class="stat"><span>Salvas</span><strong id="statClipagens">0</strong></div>
+          <div class="stat"><span>Login</span><strong id="statLogin">OFF</strong></div>
+        </div>
+
+        <div class="note">
+          Primeiro rode o GitHub Action para atualizar o arquivo <b>data/noticias.json</b>. Depois clique em atualizar notícias.
+        </div>
+      </div>
+    </div>
+
     <div class="box">
       <h2>Notícias coletadas</h2>
-      <div class="note">
-        Primeiro rode o GitHub Action para atualizar as notícias. Depois clique em <b>Copiar e abrir GPT</b>.
-      </div>
-
-      <div class="stats">
-        <div class="stat"><span class="small">Notícias</span><strong id="statNoticias">0</strong></div>
-        <div class="stat"><span class="small">Imagens</span><strong id="statImagens">0</strong></div>
-        <div class="stat"><span class="small">Clipagens</span><strong id="statClipagens">0</strong></div>
-        <div class="stat"><span class="small">Login</span><strong id="statLogin">OFF</strong></div>
-      </div>
 
       <div class="row desktopOnly">
-        <button onclick="carregarNoticias()">Atualizar notícias</button>
-        <button onclick="copiarEAbrirGPT()">Copiar e abrir GPT</button>
-        <button class="secondary" onclick="copiarPrompt()">Só copiar prompt</button>
+        <button onclick="carregarNoticias()">🔄 Atualizar notícias</button>
+        <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
+        <button class="secondary" onclick="copiarPrompt()">📋 Só copiar prompt</button>
       </div>
 
       <div style="height:10px"></div>
+
       <input id="busca" placeholder="Filtrar por free flow, pedágio, acidente, obras, ARTESP..." oninput="renderNoticias()">
 
       <div id="listaNoticias"></div>
@@ -325,17 +759,20 @@
   <section id="screenGpt" class="screen">
     <div class="box">
       <h2>Enviar para o GPT</h2>
+
       <div class="note">
-        Este botão copia o prompt completo e abre seu GPT ClippIA. Depois que o GPT gerar a clipagem, ele pode salvar automaticamente usando a Action <b>salvarClipagemNoClippIA</b>.
+        Este botão copia o prompt completo e abre seu GPT ClippIA. Depois que o GPT gerar a clipagem, ele pode salvar pela Action ou você pode colar manualmente na tela Salvar.
       </div>
+
       <div class="row">
-        <button onclick="copiarEAbrirGPT()">Copiar e abrir GPT</button>
-        <button class="secondary" onclick="copiarPrompt()">Só copiar prompt</button>
+        <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
+        <button class="secondary" onclick="copiarPrompt()">📋 Só copiar prompt</button>
+        <button class="ghost" onclick="mostrarPrompt()">👁️ Ver prévia</button>
       </div>
+
       <div style="height:10px"></div>
-      <textarea id="promptPreview" readonly placeholder="Clique em 'Gerar prévia do prompt' para ver o texto que será enviado."></textarea>
-      <div style="height:8px"></div>
-      <button class="ghost" onclick="mostrarPrompt()">Gerar prévia do prompt</button>
+
+      <textarea id="promptPreview" readonly placeholder="Clique em 'Ver prévia' para visualizar o prompt que será enviado ao GPT."></textarea>
     </div>
   </section>
 
@@ -343,34 +780,58 @@
     <div class="grid">
       <div class="box">
         <h2>Login Firebase</h2>
-        <div id="statusFirebase" class="note">Firebase ainda não conectado. Configure firebase-config.js</div>
-        <input id="email" placeholder="E-mail" type="email" autocomplete="email">
-        <div style="height:8px"></div>
-        <input id="senha" placeholder="Senha" type="password" autocomplete="current-password">
-        <div style="height:8px"></div>
+
+        <div id="statusFirebase" class="note">
+          Firebase ainda não conectado. Verifique se o arquivo firebase-config.js está no mesmo local do index.
+        </div>
+
+        <label for="email">E-mail</label>
+        <input id="email" placeholder="seuemail@exemplo.com" type="email" autocomplete="email">
+
+        <label for="senha">Senha</label>
+        <input id="senha" placeholder="Digite sua senha" type="password" autocomplete="current-password">
+
+        <label class="checkLine">
+          <input id="lembrarLogin" type="checkbox" checked>
+          <span>Lembrar meu login neste aparelho</span>
+        </label>
+
+        <div class="small">
+          Por segurança, o sistema não salva sua senha escrita. Ele mantém a sessão pelo Firebase e lembra apenas o e-mail.
+        </div>
+
+        <div style="height:10px"></div>
+
         <div class="row">
-          <button onclick="login()">Entrar</button>
-          <button class="secondary" onclick="criarConta()">Criar conta</button>
-          <button class="ghost" onclick="sair()">Sair</button>
+          <button onclick="login()">🔓 Entrar</button>
+          <button class="secondary" onclick="criarConta()">➕ Criar conta</button>
+          <button class="ghost" onclick="sair()">🚪 Sair</button>
         </div>
       </div>
 
       <div class="box">
-        <h2>Salvar manual</h2>
+        <h2>Salvar manualmente</h2>
+
         <div class="note">
-          Use apenas se a Action do GPT não salvar sozinha. Cole aqui a resposta do GPT e salve no Realtime Database.
+          Use esta área quando o GPT gerar o relatório e você quiser salvar direto no Realtime Database.
         </div>
-        <input id="tituloManual" placeholder="Título da clipagem">
-        <div style="height:8px"></div>
+
+        <label for="tituloManual">Título da clipagem</label>
+        <input id="tituloManual" placeholder="Ex: Clipagem Free Flow de hoje">
+
+        <label for="riscoManual">Risco principal</label>
         <select id="riscoManual">
-          <option value="baixo">Risco baixo</option>
-          <option value="medio">Risco médio</option>
-          <option value="alto">Risco alto</option>
+          <option value="baixo">🟢 Risco baixo</option>
+          <option value="medio">🟡 Risco médio</option>
+          <option value="alto">🔴 Risco alto</option>
         </select>
+
+        <label for="relatorioManual">Relatório do GPT</label>
+        <textarea id="relatorioManual" placeholder="Cole aqui a resposta completa do GPT"></textarea>
+
         <div style="height:8px"></div>
-        <textarea id="relatorioManual" placeholder="Cole aqui a resposta do GPT"></textarea>
-        <div style="height:8px"></div>
-        <button class="ok" onclick="salvarManual()">Salvar no Realtime Database</button>
+
+        <button class="ok" onclick="salvarManual()">💾 Salvar clipagem</button>
       </div>
     </div>
   </section>
@@ -378,10 +839,12 @@
   <section id="screenClipagens" class="screen">
     <div class="box">
       <h2>Clipagens salvas</h2>
+
       <div class="row">
-        <button onclick="abrirTela('noticias')" class="secondary">Voltar para notícias</button>
-        <button onclick="renderClipagens()">Atualizar lista</button>
+        <button onclick="abrirTela('noticias')" class="secondary">⬅️ Voltar para notícias</button>
+        <button onclick="renderClipagens()">🔄 Atualizar lista</button>
       </div>
+
       <div id="listaClipagens"></div>
     </div>
   </section>
@@ -391,17 +854,37 @@
 
 <div class="bottomBar">
   <div class="row">
-    <button onclick="carregarNoticias()">Atualizar</button>
-    <button onclick="copiarEAbrirGPT()">Abrir GPT</button>
+    <button onclick="carregarNoticias()">🔄 Atualizar</button>
+    <button onclick="copiarEAbrirGPT()">🤖 Abrir GPT</button>
   </div>
 </div>
+
+<div id="toast" class="toast">Pronto</div>
 
 <script src="./firebase-config.js"></script>
 
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
-import { getDatabase, ref, push, onValue, update, remove } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-database.js";
+
+import {
+  getAuth,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+  signOut,
+  onAuthStateChanged,
+  setPersistence,
+  browserLocalPersistence,
+  browserSessionPersistence
+} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
+
+import {
+  getDatabase,
+  ref,
+  push,
+  onValue,
+  update,
+  remove
+} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-database.js";
 
 const GPT_URL = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
 
@@ -412,8 +895,16 @@ window.appState = {
   auth: null,
   db: null,
   user: null,
-  firebaseOk: false
+  firebaseOk: false,
+  ouvindoClipagens: false
 };
+
+function toast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.classList.add("show");
+  setTimeout(() => el.classList.remove("show"), 2200);
+}
 
 function aplicarTemaInicial() {
   const salvo = localStorage.getItem("clippia_theme");
@@ -421,6 +912,7 @@ function aplicarTemaInicial() {
   document.documentElement.setAttribute("data-theme", tema);
   document.getElementById("themeBtn").textContent = tema === "dark" ? "☀️" : "🌙";
 }
+
 window.alternarTema = function() {
   const atual = document.documentElement.getAttribute("data-theme") || "dark";
   const novo = atual === "dark" ? "light" : "dark";
@@ -428,85 +920,231 @@ window.alternarTema = function() {
   localStorage.setItem("clippia_theme", novo);
   document.getElementById("themeBtn").textContent = novo === "dark" ? "☀️" : "🌙";
 };
+
 aplicarTemaInicial();
 
+function carregarLoginLembrado() {
+  const email = localStorage.getItem("clippia_email_lembrado") || "";
+  const lembrar = localStorage.getItem("clippia_lembrar_login");
+
+  if (email) {
+    document.getElementById("email").value = email;
+  }
+
+  document.getElementById("lembrarLogin").checked = lembrar !== "nao";
+}
+
+carregarLoginLembrado();
+
 window.abrirTela = function(nome) {
-  ["noticias","gpt","salvar","clipagens"].forEach(t => {
+  ["noticias", "gpt", "salvar", "clipagens"].forEach(t => {
     document.getElementById("screen" + cap(t)).classList.remove("active");
     document.getElementById("tab" + cap(t)).classList.remove("active");
   });
+
   document.getElementById("screen" + cap(nome)).classList.add("active");
   document.getElementById("tab" + cap(nome)).classList.add("active");
   window.scrollTo({ top: 0, behavior: "smooth" });
 };
 
-function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+function cap(s) {
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
 
-const cfg = window.firebaseConfig || {};
-if (cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI")) {
+function atualizarStatusLogin(user) {
+  const loginDot = document.getElementById("loginDot");
+  const userBadgeText = document.getElementById("userBadgeText");
+  const statLogin = document.getElementById("statLogin");
+
+  if (user) {
+    loginDot.classList.add("ok");
+    userBadgeText.textContent = user.email || "Logado";
+    statLogin.textContent = "ON";
+  } else {
+    loginDot.classList.remove("ok");
+    userBadgeText.textContent = "Não logado";
+    statLogin.textContent = "OFF";
+  }
+}
+
+function iniciarFirebase() {
+  const cfg = window.firebaseConfig || {};
+
+  if (!cfg.apiKey || String(cfg.apiKey).includes("COLE_AQUI")) {
+    document.getElementById("statusFirebase").innerHTML =
+      "Firebase não conectado. O index está correto, mas o arquivo <b>firebase-config.js</b> precisa estar configurado.";
+    atualizarStatusLogin(null);
+    carregarClipagensLocais();
+    return;
+  }
+
   try {
     window.appState.app = initializeApp(cfg);
     window.appState.auth = getAuth(window.appState.app);
     window.appState.db = getDatabase(window.appState.app);
     window.appState.firebaseOk = true;
 
+    document.getElementById("statusFirebase").innerHTML =
+      "Firebase conectado. Faça login para salvar e ver clipagens na nuvem.";
+
     onAuthStateChanged(window.appState.auth, (user) => {
-      window.appState.user = user;
-      document.getElementById("statusFirebase").innerHTML = user
-        ? "Firebase conectado. Logado como <b>" + esc(user.email) + "</b>"
-        : "Firebase conectado. Faça login para ver e salvar clipagens.";
-      document.getElementById("statLogin").textContent = user ? "ON" : "OFF";
-      ouvirClipagens();
+      window.appState.user = user || null;
+      atualizarStatusLogin(user);
+
+      if (user) {
+        document.getElementById("statusFirebase").innerHTML =
+          "Firebase conectado. Logado como <b>" + esc(user.email) + "</b>.";
+        ouvirClipagens();
+      } else {
+        document.getElementById("statusFirebase").innerHTML =
+          "Firebase conectado. Faça login para salvar no Realtime Database.";
+        carregarClipagensLocais();
+      }
     });
+
   } catch(e) {
+    window.appState.firebaseOk = false;
     document.getElementById("statusFirebase").textContent = "Erro no Firebase: " + e.message;
+    atualizarStatusLogin(null);
+    carregarClipagensLocais();
   }
 }
 
 window.login = async function() {
-  if (!window.appState.firebaseOk) return alert("Configure firebase-config.js primeiro.");
+  if (!window.appState.firebaseOk) {
+    toast("Configure o firebase-config.js primeiro.");
+    return;
+  }
+
   const email = document.getElementById("email").value.trim();
   const senha = document.getElementById("senha").value.trim();
-  if (!email || !senha) return alert("Preencha e-mail e senha.");
-  await signInWithEmailAndPassword(window.appState.auth, email, senha).catch(e => alert("Erro ao entrar: " + e.message));
+  const lembrar = document.getElementById("lembrarLogin").checked;
+
+  if (!email || !senha) {
+    toast("Preencha e-mail e senha.");
+    return;
+  }
+
+  try {
+    await setPersistence(
+      window.appState.auth,
+      lembrar ? browserLocalPersistence : browserSessionPersistence
+    );
+
+    await signInWithEmailAndPassword(window.appState.auth, email, senha);
+
+    if (lembrar) {
+      localStorage.setItem("clippia_email_lembrado", email);
+      localStorage.setItem("clippia_lembrar_login", "sim");
+    } else {
+      localStorage.removeItem("clippia_email_lembrado");
+      localStorage.setItem("clippia_lembrar_login", "nao");
+    }
+
+    toast("Login realizado.");
+  } catch(e) {
+    toast("Erro ao entrar. Verifique e-mail e senha.");
+    alert("Erro ao entrar: " + e.message);
+  }
 };
 
 window.criarConta = async function() {
-  if (!window.appState.firebaseOk) return alert("Configure firebase-config.js primeiro.");
+  if (!window.appState.firebaseOk) {
+    toast("Configure o firebase-config.js primeiro.");
+    return;
+  }
+
   const email = document.getElementById("email").value.trim();
   const senha = document.getElementById("senha").value.trim();
-  if (!email || !senha) return alert("Preencha e-mail e senha.");
-  await createUserWithEmailAndPassword(window.appState.auth, email, senha).catch(e => alert("Erro ao criar conta: " + e.message));
+  const lembrar = document.getElementById("lembrarLogin").checked;
+
+  if (!email || !senha) {
+    toast("Preencha e-mail e senha.");
+    return;
+  }
+
+  if (senha.length < 6) {
+    toast("A senha precisa ter pelo menos 6 caracteres.");
+    return;
+  }
+
+  try {
+    await setPersistence(
+      window.appState.auth,
+      lembrar ? browserLocalPersistence : browserSessionPersistence
+    );
+
+    await createUserWithEmailAndPassword(window.appState.auth, email, senha);
+
+    if (lembrar) {
+      localStorage.setItem("clippia_email_lembrado", email);
+      localStorage.setItem("clippia_lembrar_login", "sim");
+    }
+
+    toast("Conta criada e login realizado.");
+  } catch(e) {
+    toast("Erro ao criar conta.");
+    alert("Erro ao criar conta: " + e.message);
+  }
 };
 
 window.sair = async function() {
-  if (window.appState.auth) await signOut(window.appState.auth);
+  if (window.appState.auth) {
+    await signOut(window.appState.auth);
+    toast("Você saiu do sistema.");
+  }
 };
 
 window.carregarNoticias = async function() {
+  const el = document.getElementById("listaNoticias");
+  el.innerHTML = "<div class='empty'>Carregando notícias...</div>";
+
   try {
     const r = await fetch("./data/noticias.json?cache=" + Date.now());
+
+    if (!r.ok) {
+      throw new Error("Arquivo data/noticias.json não encontrado.");
+    }
+
     const j = await r.json();
     window.appState.noticias = Array.isArray(j.items) ? j.items : [];
+
     renderNoticias();
-    alert("Notícias atualizadas no painel.");
+    toast("Notícias atualizadas.");
   } catch(e) {
-    document.getElementById("listaNoticias").innerHTML = "<div class='card'>Não consegui carregar data/noticias.json. Rode o GitHub Action ou confira se o arquivo existe.</div>";
+    el.innerHTML =
+      "<div class='empty'>Não consegui carregar <b>data/noticias.json</b>.<br><br>Rode o GitHub Action ou confira se o arquivo existe.</div>";
   }
 };
 
 function montarPrompt() {
-  const itens = window.appState.noticias.slice(0, 30).map((n,i)=>`
-ITEM ${i+1}
-TÍTULO: ${n.title || ""}
-FONTE: ${n.source || ""}
-DATA: ${n.published || ""}
-LINK: ${n.link || ""}
-IMAGEM: ${n.image_url || "não encontrada"}
-TRECHO: ${n.snippet || ""}
-TERMO: ${n.term || ""}
-CATEGORIA PRÉVIA: ${n.category || ""}
-`).join("\n");
+  const itens = window.appState.noticias.slice(0, 30).map((n, i) => `
+ITEM ${i + 1}
+
+TÍTULO:
+${n.title || ""}
+
+FONTE:
+${n.source || ""}
+
+DATA:
+${n.published || ""}
+
+LINK:
+${n.link || ""}
+
+IMAGEM:
+${n.image_url || "não encontrada"}
+
+TRECHO:
+${n.snippet || ""}
+
+TERMO:
+${n.term || ""}
+
+CATEGORIA PRÉVIA:
+${n.category || ""}
+`).join("\n-----------------------------\n");
 
   return `Faça a clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste / Free Flow com os itens coletados abaixo.
 
@@ -519,7 +1157,7 @@ REGRAS:
 - Separe fato confirmado, fato divulgado pela imprensa e informação não confirmada.
 - Trate Free Flow, pedágio eletrônico por câmeras, TAG, DUF, cobrança, tarifa, reajuste, acidente, morte, interdição, denúncia, reclamação e ARTESP com atenção especial.
 - Se tiver risco jurídico, reputacional ou informação sensível, recomende revisão humana.
-- Depois de gerar o relatório, salve no ClippIA usando a Action salvarClipagemNoClippIA.
+- Depois de gerar o relatório, salve no ClippIA usando a Action salvarClipagemNoClippIA, se a Action estiver disponível.
 
 ITENS COLETADOS PELO PAINEL:
 ${itens}
@@ -531,26 +1169,26 @@ ENTREGUE:
 4. Oportunidades de postagem
 5. Texto profissional para postagem
 6. Hashtags sugeridas
-7. Recomendação final
-
-Depois salve no ClippIA.`;
+7. Recomendação final`;
 }
 
 window.mostrarPrompt = function() {
-  document.getElementById("promptPreview").value = montarPrompt();
+  const prompt = montarPrompt();
+  document.getElementById("promptPreview").value = prompt;
 };
 
 window.copiarPrompt = async function() {
   const prompt = montarPrompt();
   await navigator.clipboard.writeText(prompt);
   document.getElementById("promptPreview").value = prompt;
-  alert("Prompt copiado.");
+  toast("Prompt copiado.");
 };
 
 window.copiarEAbrirGPT = async function() {
   const prompt = montarPrompt();
   await navigator.clipboard.writeText(prompt);
   window.open(GPT_URL, "_blank");
+  toast("Prompt copiado. GPT aberto.");
 };
 
 window.renderNoticias = function() {
@@ -566,26 +1204,38 @@ window.renderNoticias = function() {
   document.getElementById("statClipagens").textContent = window.appState.clipagens.length;
 
   const el = document.getElementById("listaNoticias");
+
   if (!arr.length) {
-    el.innerHTML = "<div class='card'>Nenhuma notícia carregada. Clique em Atualizar notícias.</div>";
+    el.innerHTML = "<div class='empty'>Nenhuma notícia carregada. Clique em <b>Atualizar notícias</b>.</div>";
     return;
   }
 
   el.innerHTML = arr.map(n => {
     const risco = riscoProvavel(n);
+    const img = n.image_url
+      ? `<img class="thumb" src="${escAttr(n.image_url)}" alt="Imagem da notícia" onerror="this.outerHTML='<div class=&quot;imageEmpty&quot;>Imagem indisponível</div>'">`
+      : `<div class="imageEmpty">🖼️ Imagem não encontrada automaticamente</div>`;
+
     return `
       <div class="card">
         <h3>${esc(n.title || "Sem título")}</h3>
-        <span class="pill ${risco}">Risco provável: ${risco}</span>
-        <span class="pill">${esc(n.category || "geral")}</span>
-        <div class="small">
-          Fonte: <b>${esc(n.source || "Não identificada")}</b><br>
-          Data: ${esc(n.published || "sem data")}<br>
+
+        <span class="pill ${risco}">⚠️ Risco provável: ${risco}</span>
+        <span class="pill">🏷️ ${esc(n.category || "geral")}</span>
+        <span class="pill">🏢 ${esc(n.source || "fonte")}</span>
+
+        <div class="small" style="margin-top:6px;">
+          Data: ${esc(formatarData(n.published || ""))}<br>
           Termo: ${esc(n.term || "")}
         </div>
-        ${n.image_url ? `<img class="thumb" src="${escAttr(n.image_url)}" onerror="this.style.display='none'">` : `<div class="small">Imagem não encontrada automaticamente.</div>`}
-        <p class="small">${esc(n.snippet || "")}</p>
-        <a class="link" href="${escAttr(n.link || "#")}" target="_blank" rel="noopener">Abrir fonte original</a>
+
+        ${img}
+
+        <p class="small">${esc(n.snippet || "Sem trecho disponível. Abra o link original para conferir.")}</p>
+
+        <a class="link" href="${escAttr(n.link || "#")}" target="_blank" rel="noopener">
+          🔗 Abrir fonte original
+        </a>
       </div>
     `;
   }).join("");
@@ -593,30 +1243,68 @@ window.renderNoticias = function() {
 
 function riscoProvavel(n) {
   const t = JSON.stringify(n || {}).toLowerCase();
-  if (["morte","morre","ferido","acidente","denúncia","processo","reclamação","cobrança indevida","multa"].some(x => t.includes(x))) return "alto";
-  if (["pedágio","tarifa","reajuste","interdição","bloqueio","free flow","freeflow","duf","tag"].some(x => t.includes(x))) return "medio";
+
+  if (["morte", "morre", "ferido", "acidente", "denúncia", "processo", "reclamação", "cobrança indevida", "multa"].some(x => t.includes(x))) {
+    return "alto";
+  }
+
+  if (["pedágio", "pedagio", "tarifa", "reajuste", "interdição", "interdicao", "bloqueio", "free flow", "freeflow", "duf", "tag", "cobrança", "cobranca"].some(x => t.includes(x))) {
+    return "medio";
+  }
+
   return "baixo";
 }
 
 function ouvirClipagens() {
   if (!window.appState.firebaseOk || !window.appState.user) {
-    document.getElementById("listaClipagens").innerHTML = "<div class='card small'>Entre no Firebase para ver clipagens salvas.</div>";
+    carregarClipagensLocais();
     return;
   }
 
+  if (window.appState.ouvindoClipagens) {
+    return;
+  }
+
+  window.appState.ouvindoClipagens = true;
+
   const r = ref(window.appState.db, "clipagens");
+
   onValue(r, snap => {
     const val = snap.val() || {};
+
     window.appState.clipagens = Object.entries(val)
       .map(([id, v]) => ({ id, ...v }))
-      .sort((a,b)=>String(b.criado_em || "").localeCompare(String(a.criado_em || "")));
+      .filter(c => {
+        if (!window.appState.user) return false;
+        if (!c.uid && !c.owner_uid && !c.salvo_por) return true;
+        return c.uid === window.appState.user.uid
+          || c.owner_uid === window.appState.user.uid
+          || c.salvo_por === window.appState.user.email;
+      })
+      .sort((a, b) => String(b.criado_em || "").localeCompare(String(a.criado_em || "")));
+
     renderClipagens();
     renderNoticias();
   });
 }
 
+function carregarClipagensLocais() {
+  const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
+  window.appState.clipagens = Array.isArray(local) ? local : [];
+  renderClipagens();
+  renderNoticias();
+}
+
+function salvarLocal(item) {
+  const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
+  local.unshift({
+    ...item,
+    id: "local_" + Date.now()
+  });
+  localStorage.setItem("clippia_clipagens_locais", JSON.stringify(local));
+}
+
 window.salvarManual = async function() {
-  if (!window.appState.firebaseOk || !window.appState.user) return alert("Entre no Firebase primeiro.");
   const item = {
     origem: "painel_manual",
     status: "NOVO",
@@ -625,33 +1313,85 @@ window.salvarManual = async function() {
     relatorio: document.getElementById("relatorioManual").value.trim(),
     criado_em: new Date().toISOString(),
     atualizado_em: new Date().toISOString(),
-    salvo_por: window.appState.user.email
+    salvo_por: window.appState.user ? window.appState.user.email : "local",
+    uid: window.appState.user ? window.appState.user.uid : "local"
   };
-  if (!item.relatorio) return alert("Cole o relatório.");
-  await push(ref(window.appState.db, "clipagens"), item);
+
+  if (!item.relatorio) {
+    toast("Cole o relatório do GPT.");
+    return;
+  }
+
+  if (window.appState.firebaseOk && window.appState.user) {
+    await push(ref(window.appState.db, "clipagens"), item);
+    toast("Salvo no Realtime Database.");
+  } else {
+    salvarLocal(item);
+    toast("Salvo localmente neste aparelho.");
+  }
+
   document.getElementById("tituloManual").value = "";
   document.getElementById("relatorioManual").value = "";
-  alert("Salvo no Realtime Database.");
+
+  if (window.appState.user) {
+    ouvirClipagens();
+  } else {
+    carregarClipagensLocais();
+  }
+
   abrirTela("clipagens");
 };
 
 window.mudarStatus = async function(id, status) {
+  if (String(id).startsWith("local_")) {
+    const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
+    const novo = local.map(c => c.id === id ? { ...c, status, atualizado_em: new Date().toISOString() } : c);
+    localStorage.setItem("clippia_clipagens_locais", JSON.stringify(novo));
+    carregarClipagensLocais();
+    toast("Status atualizado.");
+    return;
+  }
+
+  if (!window.appState.firebaseOk || !window.appState.user) {
+    toast("Faça login para atualizar.");
+    return;
+  }
+
   await update(ref(window.appState.db, "clipagens/" + id), {
     status,
     atualizado_em: new Date().toISOString()
   });
+
+  toast("Status atualizado.");
 };
 
 window.apagar = async function(id) {
   if (!confirm("Apagar esta clipagem?")) return;
+
+  if (String(id).startsWith("local_")) {
+    const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
+    const novo = local.filter(c => c.id !== id);
+    localStorage.setItem("clippia_clipagens_locais", JSON.stringify(novo));
+    carregarClipagensLocais();
+    toast("Clipagem apagada.");
+    return;
+  }
+
+  if (!window.appState.firebaseOk || !window.appState.user) {
+    toast("Faça login para apagar.");
+    return;
+  }
+
   await remove(ref(window.appState.db, "clipagens/" + id));
+  toast("Clipagem apagada.");
 };
 
 window.copiarRelatorio = async function(id) {
   const c = window.appState.clipagens.find(x => x.id === id);
   if (!c) return;
+
   await navigator.clipboard.writeText(c.relatorio || c.resumo_executivo || c.texto_postagem || "");
-  alert("Relatório copiado.");
+  toast("Relatório copiado.");
 };
 
 window.renderClipagens = function() {
@@ -661,37 +1401,62 @@ window.renderClipagens = function() {
   document.getElementById("statClipagens").textContent = arr.length;
 
   if (!arr.length) {
-    el.innerHTML = "<div class='card small'>Nenhuma clipagem salva ainda.</div>";
+    el.innerHTML = "<div class='empty'>Nenhuma clipagem salva ainda.</div>";
     return;
   }
 
   el.innerHTML = arr.map(c => `
     <div class="card">
       <h3>${esc(c.titulo || "Sem título")}</h3>
+
       <span class="pill ${esc(c.risco || "medio")}">Risco: ${esc(c.risco || "medio")}</span>
       <span class="pill">Status: ${esc(c.status || "NOVO")}</span>
-      <div class="small">
-        Criado em: ${esc(c.criado_em || "")}<br>
-        Origem: ${esc(c.origem || "")}
+
+      <div class="small" style="margin-top:6px;">
+        Criado em: ${esc(formatarData(c.criado_em || ""))}<br>
+        Origem: ${esc(c.origem || "")}<br>
+        Salvo por: ${esc(c.salvo_por || "")}
       </div>
+
       <pre>${esc(c.relatorio || c.resumo_executivo || c.texto_postagem || "")}</pre>
+
       <div class="row">
-        <button class="secondary" onclick="copiarRelatorio('${escAttr(c.id)}')">Copiar</button>
-        <button class="ok" onclick="mudarStatus('${escAttr(c.id)}','PUBLICADO')">Publicado</button>
-        <button class="warn" onclick="mudarStatus('${escAttr(c.id)}','REVISAR')">Revisar</button>
-        <button class="bad" onclick="apagar('${escAttr(c.id)}')">Apagar</button>
+        <button class="secondary" onclick="copiarRelatorio('${escAttr(c.id)}')">📋 Copiar</button>
+        <button class="ok" onclick="mudarStatus('${escAttr(c.id)}','PUBLICADO')">✅ Publicado</button>
+        <button class="warn" onclick="mudarStatus('${escAttr(c.id)}','REVISAR')">👀 Revisar</button>
+        <button class="bad" onclick="apagar('${escAttr(c.id)}')">🗑️ Apagar</button>
       </div>
     </div>
   `).join("");
 };
 
+function formatarData(s) {
+  if (!s) return "";
+
+  try {
+    const d = new Date(s);
+    if (isNaN(d.getTime())) return s;
+    return d.toLocaleString("pt-BR");
+  } catch(e) {
+    return s;
+  }
+}
+
 function esc(s) {
   return String(s || "").replace(/[&<>"']/g, m => ({
-    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
   }[m]));
 }
-function escAttr(s) { return esc(s).replace(/`/g,"&#96;"); }
 
+function escAttr(s) {
+  return esc(s).replace(/`/g, "&#96;");
+}
+
+iniciarFirebase();
 await carregarNoticias();
 </script>
 </body>
