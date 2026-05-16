@@ -218,7 +218,8 @@
         <div style="height:10px"></div>
         <div class="row">
           <button onclick="carregarNoticias()">Atualizar notícias</button>
-          <button class="secondary" onclick="copiarPromptGPT()">Copiar prompt para o GPT</button>
+          <button class="secondary" onclick="copiarEAbrirGPT()">Copiar e abrir meu GPT</button>
+          <button class="secondary" onclick="copiarPromptGPT()">Só copiar prompt</button>
           <button class="secondary" onclick="baixarBackup()">Baixar backup</button>
           <button class="secondary" onclick="verGaleriaImagens()">Ver imagens coletadas</button>
         </div>
@@ -301,6 +302,8 @@
       getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,
       signOut, onAuthStateChanged
     } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
+
+    const CLIPPIA_GPT_URL = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
 
     window.ClippIA = {
       firebaseAtivo: false,
@@ -467,8 +470,24 @@
       const n = window.ClippIA.noticias.find(x => x.id === id);
       if (!n) return;
       const prompt = montarPromptGPT([n]);
+      const janela = window.open(CLIPPIA_GPT_URL, "_blank");
       await navigator.clipboard.writeText(prompt);
-      alert("Prompt desta notícia copiado. Abra o seu GPT ClippIA e cole.");
+      alert("Prompt desta notícia copiado. O GPT foi aberto. Agora cole a mensagem no GPT e, depois da resposta, cole o relatório no painel para salvar.");
+      if (!janela) alert("Se o navegador bloqueou a nova aba, abra manualmente o link do seu GPT.");
+    }
+
+
+    window.copiarEAbrirGPT = async function() {
+      const itens = (window.ClippIA.noticias || []).slice(0, 25);
+      if (!itens.length) {
+        alert("Nenhuma notícia carregada ainda. Clique em Atualizar notícias primeiro.");
+        return;
+      }
+      const prompt = montarPromptGPT(itens);
+      const janela = window.open(CLIPPIA_GPT_URL, "_blank");
+      await navigator.clipboard.writeText(prompt);
+      alert("Prompt copiado. O seu GPT ClippIA foi aberto. Cole a mensagem no GPT. Depois copie a resposta e salve no painel.");
+      if (!janela) alert("O navegador pode ter bloqueado a abertura do GPT. Abra manualmente: " + CLIPPIA_GPT_URL);
     }
 
     window.copiarPromptGPT = async function() {
