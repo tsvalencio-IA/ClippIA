@@ -92,6 +92,31 @@
     button.warn { background: var(--warn); color: #422006; }
     button.bad { background: var(--bad); color: #450a0a; }
     button:disabled { opacity: .5; cursor: not-allowed; }
+
+    .locked {
+      max-width: 520px;
+      margin: 22px auto;
+      padding: 14px;
+    }
+    .loginCard {
+      background: rgba(17,24,39,.96);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 18px;
+      box-shadow: 0 20px 45px rgba(0,0,0,.32);
+    }
+    .loginIcon {
+      width: 58px;
+      height: 58px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, var(--brand), var(--brand2));
+      color: var(--ink);
+      display: grid;
+      place-items: center;
+      font-size: 30px;
+      margin-bottom: 12px;
+    }
+
     .topbar {
       display: grid;
       grid-template-columns: 1fr;
@@ -104,7 +129,7 @@
     }
     .actiongrid {
       display: grid;
-      grid-template-columns: 170px repeat(4, 1fr);
+      grid-template-columns: 170px repeat(5, 1fr);
       gap: 8px;
     }
     @media(max-width: 860px) { .actiongrid { grid-template-columns: 1fr; } }
@@ -261,7 +286,23 @@
     </div>
   </header>
 
-  <main class="wrap">
+  <section id="lockedPanel" class="locked">
+    <div class="loginCard">
+      <div class="loginIcon">🔐</div>
+      <h2 style="margin:0 0 6px;">Acesso restrito</h2>
+      <p class="small">Faça login para visualizar as reportagens, imagens, links e clipagens salvas.</p>
+      <div id="lockStatus" class="dangerNote">Verificando Firebase...</div>
+      <div class="stack">
+        <input id="loginEmail" placeholder="E-mail" type="email"/>
+        <input id="loginSenha" placeholder="Senha" type="password"/>
+        <button onclick="login()">🔓 Entrar</button>
+        <button class="secondary" onclick="criarConta()">👤 Criar conta</button>
+      </div>
+      <p class="small" style="margin-top:12px;">O painel fica bloqueado enquanto não houver login válido no Firebase.</p>
+    </div>
+  </section>
+
+  <main id="appPanel" class="wrap hidden">
     <div class="grid">
       <section class="box">
         <h2>1. Notícias coletadas</h2>
@@ -284,8 +325,9 @@
               <option value="todas">Usar todas do sistema</option>
             </select>
             <button onclick="carregarNoticias()">Atualizar notícias</button>
+            <button onclick="gerarPromptGPTPorEscopo()">Gerar prompt</button>
             <button onclick="copiarPromptGPTPorEscopo()">Copiar para GPT</button>
-            <button class="warn" onclick="copiarPromptEAbrirGPT()">Copiar e abrir GPT</button>
+            <button class="secondary" onclick="copiarPromptEAbrirGPT()">Copiar e abrir GPT</button>
             <button class="ok" onclick="exportarPDFNoticias()">Exportar PDF</button>
           </div>
           <div class="row">
@@ -319,20 +361,10 @@
 
       <aside class="box">
         <h2>2. Firebase e login</h2>
-        <p class="small">
-          Sem Firebase, o painel salva localmente no navegador. Com Firebase configurado, salva as clipagens na nuvem.
-        </p>
-
-        <div id="firebaseStatus" class="dangerNote">Firebase ainda não conectado.</div>
-
-        <div id="loginBox" class="stack">
-          <input id="email" placeholder="Seu e-mail" type="email"/>
-          <input id="senha" placeholder="Senha" type="password"/>
-          <div class="row">
-            <button onclick="login()">Entrar</button>
-            <button class="secondary" onclick="criarConta()">Criar conta</button>
-            <button class="secondary" onclick="logout()">Sair</button>
-          </div>
+        <p class="small">Você está logado. As clipagens serão salvas vinculadas ao seu usuário.</p>
+        <div id="firebaseStatus" class="okNote">Firebase conectado.</div>
+        <div class="row">
+          <button class="secondary" onclick="logout()">🚪 Sair</button>
         </div>
 
         <hr style="border-color:var(--line); margin:16px 0;">
@@ -374,14 +406,12 @@
     import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
     import {
       getFirestore, collection, addDoc, getDocs, doc, updateDoc, deleteDoc,
-      query, orderBy, serverTimestamp
+      query, where, serverTimestamp
     } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
     import {
       getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,
       signOut, onAuthStateChanged
     } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
-
-    const CLIPPIA_GPT_URL = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
 
     window.ClippIA = {
       firebaseAtivo: false,
@@ -399,7 +429,14 @@
     const cfg = window.firebaseConfig || {};
     const configurado = cfg && cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI");
 
-    if (configurado) {
+    iniciarFirebase();
+
+    function iniciarFirebase() {
+      if (!configurado) {
+        bloquearTela("Firebase não configurado. Configure o arquivo firebase-config.js para liberar o acesso.");
+        return;
+      }
+
       try {
         window.ClippIA.app = initializeApp(cfg);
         window.ClippIA.db = getFirestore(window.ClippIA.app);
@@ -408,33 +445,69 @@
 
         onAuthStateChanged(window.ClippIA.auth, async (user) => {
           window.ClippIA.user = user;
-          document.getElementById("firebaseStatus").innerHTML = user
-            ? "Firebase conectado. Logado como: <b>" + escapeHtml(user.email) + "</b>"
-            : "Firebase conectado. Faça login para salvar em nuvem.";
+
+          if (!user) {
+            limparDadosDaTela();
+            bloquearTela("Firebase conectado. Faça login para visualizar as reportagens.");
+            return;
+          }
+
+          liberarTela(user);
+          await carregarNoticias();
           await carregarClipagens();
         });
       } catch (e) {
         console.error(e);
-        document.getElementById("firebaseStatus").textContent = "Erro ao conectar Firebase. Verifique firebase-config.js.";
+        bloquearTela("Erro ao conectar Firebase. Verifique firebase-config.js.");
       }
+    }
+
+    function bloquearTela(msg) {
+      const locked = document.getElementById("lockedPanel");
+      const app = document.getElementById("appPanel");
+      if (locked) locked.classList.remove("hidden");
+      if (app) app.classList.add("hidden");
+      const status = document.getElementById("lockStatus");
+      if (status) status.textContent = msg;
+    }
+
+    function liberarTela(user) {
+      const locked = document.getElementById("lockedPanel");
+      const app = document.getElementById("appPanel");
+      if (locked) locked.classList.add("hidden");
+      if (app) app.classList.remove("hidden");
+      const st = document.getElementById("firebaseStatus");
+      if (st) st.innerHTML = "✅ Logado como: <b>" + escapeHtml(user.email || "usuário") + "</b>";
+    }
+
+    function limparDadosDaTela() {
+      window.ClippIA.noticias = [];
+      window.ClippIA.clipagens = [];
+      window.ClippIA.selecionadas = new Set();
+      const lista = document.getElementById("listaNoticias");
+      if (lista) lista.innerHTML = "";
+      const clip = document.getElementById("listaClipagens");
+      if (clip) clip.innerHTML = "";
+      renderStats();
     }
 
     window.login = async function() {
       if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado. O painel salvará só localmente.");
-      const email = document.getElementById("email").value.trim();
-      const senha = document.getElementById("senha").value.trim();
+      const email = (document.getElementById("loginEmail") || document.getElementById("email")).value.trim();
+      const senha = (document.getElementById("loginSenha") || document.getElementById("senha")).value.trim();
       if (!email || !senha) return alert("Preencha e-mail e senha.");
       try { await signInWithEmailAndPassword(window.ClippIA.auth, email, senha); }
-      catch (e) { alert("Erro ao entrar: " + e.message); }
+      catch (e) { alert("Erro ao entrar: " + traduzirErroFirebase(e.message)); }
     }
 
     window.criarConta = async function() {
       if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado.");
-      const email = document.getElementById("email").value.trim();
-      const senha = document.getElementById("senha").value.trim();
+      const email = (document.getElementById("loginEmail") || document.getElementById("email")).value.trim();
+      const senha = (document.getElementById("loginSenha") || document.getElementById("senha")).value.trim();
       if (!email || !senha) return alert("Preencha e-mail e senha.");
+      if (senha.length < 6) return alert("A senha precisa ter pelo menos 6 caracteres.");
       try { await createUserWithEmailAndPassword(window.ClippIA.auth, email, senha); }
-      catch (e) { alert("Erro ao criar conta: " + e.message); }
+      catch (e) { alert("Erro ao criar conta: " + traduzirErroFirebase(e.message)); }
     }
 
     window.logout = async function() {
@@ -442,8 +515,13 @@
     }
 
     window.carregarNoticias = async function() {
+      if (!window.ClippIA.user) {
+        bloquearTela("Faça login para carregar as notícias.");
+        return;
+      }
       try {
         const res = await fetch("./data/noticias.json?cache=" + Date.now());
+        if (!res.ok) throw new Error("Arquivo data/noticias.json não encontrado ou indisponível.");
         const data = await res.json();
         window.ClippIA.noticias = Array.isArray(data.items) ? data.items : [];
         limparSelecao(false);
@@ -498,7 +576,7 @@
       renderStats();
 
       if (!items.length) {
-        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada neste filtro.</div>";
+        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada neste filtro. Use “Gerar prompt” ou “Copiar e abrir GPT” para fazer uma pesquisa do zero.</div>";
         return;
       }
 
@@ -577,116 +655,34 @@
     }
 
     function obterNoticiasPorEscopo(opcoes = {}) {
-      const escopo = document.getElementById("escopoAcao").value;
+      const escopoEl = document.getElementById("escopoAcao");
+      const escopo = escopoEl ? escopoEl.value : "selecionadas";
       let itens = [];
 
-      if (escopo === "todas") {
-        itens = window.ClippIA.noticias || [];
-      } else if (escopo === "filtradas") {
-        itens = window.ClippIA.ultimaLista || [];
-      } else {
-        itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(n.id));
-      }
+      if (escopo === "todas") itens = window.ClippIA.noticias || [];
+      else if (escopo === "filtradas") itens = window.ClippIA.ultimaLista || [];
+      else itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(n.id));
 
-      if (!itens.length && !opcoes.permitirVazio) {
-        alert("Nenhuma notícia no escopo escolhido. Selecione notícias ou mude o escopo para filtradas/todas.");
+      if (!itens.length && !opcoes.silencioso) {
+        alert("Nenhuma notícia no escopo escolhido. Selecione notícias, mude para filtradas/todas, ou use o prompt de pesquisa do zero para o GPT.");
       }
 
       return itens;
     }
 
     function gerarPacotePromptGPT() {
-      const itens = obterNoticiasPorEscopo({ permitirVazio: true });
-
+      const itens = obterNoticiasPorEscopo({ silencioso: true });
       if (!itens.length) {
-        return {
-          modo: "pesquisa_zero",
-          total: 0,
-          prompt: montarPromptPesquisaZero()
-        };
+        return { prompt: montarPromptPesquisaZero(), total: 0, modo: "pesquisa_zero" };
       }
-
-      const limite = Math.min(itens.length, 40);
-
-      return {
-        modo: "analise_itens",
-        total: limite,
-        prompt: montarPromptGPT(itens.slice(0, 40))
-      };
-    }
-
-    async function copiarTextoSeguro(texto) {
-      try {
-        await navigator.clipboard.writeText(texto);
-        return true;
-      } catch (e) {
-        const temp = document.createElement("textarea");
-        temp.value = texto;
-        temp.setAttribute("readonly", "readonly");
-        temp.style.position = "fixed";
-        temp.style.left = "-9999px";
-        document.body.appendChild(temp);
-        temp.select();
-        const ok = document.execCommand("copy");
-        document.body.removeChild(temp);
-        return ok;
-      }
-    }
-
-    function classificarRiscoTexto(t) {
-      if (["morte","morre","ferido","acidente","denúncia","denuncia","processo","reclamação","reclamacao","cobrança indevida","cobranca indevida"].some(x => t.includes(x))) return {nome:"alto", cls:"high"};
-      if (["pedágio","pedagio","tarifa","reajuste","interdição","interdicao","bloqueio","free flow","freeflow","duf","cobrança","cobranca"].some(x => t.includes(x))) return {nome:"médio", cls:"medium"};
-      return {nome:"baixo", cls:"low"};
-    }
-
-    window.copiarPromptGPTPorEscopo = async function() {
-      const pacote = gerarPacotePromptGPT();
-      await copiarTextoSeguro(pacote.prompt);
-
-      if (pacote.modo === "pesquisa_zero") {
-        alert(
-          "Prompt de PESQUISA DO ZERO copiado.\n\n" +
-          "Como não há notícias no escopo escolhido, o GPT vai pesquisar a web pelas notícias mais recentes da Econoroeste, EcoNoroeste, Ecovias Noroeste Paulista e Free Flow."
-        );
-      } else {
-        alert("Prompt copiado com " + pacote.total + " notícia(s). Abra o GPT ClippIA e cole.");
-      }
-    }
-
-    window.copiarPromptEAbrirGPT = async function() {
-      const pacote = gerarPacotePromptGPT();
-
-      const janela = window.open(CLIPPIA_GPT_URL, "_blank");
-      await copiarTextoSeguro(pacote.prompt);
-
-      if (!janela) {
-        alert(
-          "O navegador bloqueou a abertura automática do GPT.\n\n" +
-          "O prompt já foi copiado. Abra este link manualmente:\n" +
-          CLIPPIA_GPT_URL
-        );
-        return;
-      }
-
-      if (pacote.modo === "pesquisa_zero") {
-        alert(
-          "GPT ClippIA aberto e prompt de PESQUISA DO ZERO copiado.\n\n" +
-          "Agora cole no GPT para ele pesquisar as últimas notícias na web."
-        );
-      } else {
-        alert(
-          "GPT ClippIA aberto e prompt copiado com " + pacote.total + " notícia(s).\n\n" +
-          "Agora cole no GPT para gerar o relatório."
-        );
-      }
+      return { prompt: montarPromptGPT(itens.slice(0, 40)), total: Math.min(itens.length, 40), modo: "analise_itens" };
     }
 
     function montarPromptPesquisaZero() {
       const agora = new Date().toLocaleString("pt-BR");
-
       return `Você é o ClippIA Econoroeste, agente profissional de clipagem, inteligência de mídia, reputação institucional e apoio à comunicação corporativa.
 
-Neste momento o painel está zerado, sem notícias selecionadas ou sem notícias no escopo escolhido.
+Neste momento o painel está zerado, vazio ou sem notícias selecionadas.
 
 Sua tarefa agora é PESQUISAR DO ZERO NA WEB as notícias mais recentes relacionadas à Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste e Free Flow.
 
@@ -725,16 +721,13 @@ TERMOS OBRIGATÓRIOS DE BUSCA:
 - "SP-326" "Ecovias Noroeste"
 - "SP-333" "Ecovias Noroeste"
 - "SP-351" "Ecovias Noroeste"
-- "Washington Luís" "Ecovias Noroeste"
-- "Rodovia Washington Luís" "Ecovias Noroeste"
-- "Rodovia Brigadeiro Faria Lima" "Ecovias Noroeste"
 
 FONTES PRIORITÁRIAS:
 1. Site oficial da Ecovias Noroeste Paulista.
 2. Site oficial do Free Flow da Ecovias Noroeste Paulista.
 3. ARTESP.
 4. EcoRodovias.
-5. Diário Oficial e órgãos públicos.
+5. Diário Oficial / órgãos públicos.
 6. Portais jornalísticos regionais.
 7. Portais nacionais, quando houver relevância.
 8. Redes sociais públicas somente como alerta, nunca como fato confirmado sem outra fonte.
@@ -807,23 +800,61 @@ Para cada notícia encontrada, informe:
 Liste apenas temas com risco médio ou alto.
 
 ## 4. Oportunidades de postagem
-Liste pautas positivas, educativas ou institucionais que podem virar postagem.
+Liste pautas positivas, educativas ou institucionais.
 
 ## 5. Texto profissional para postagem
 Crie uma sugestão de postagem pronta, neutra, segura e institucional.
-Não invente informação.
-Não exagere.
-Não transforme notícia sensível em propaganda.
 
 ## 6. Hashtags sugeridas
 Use hashtags moderadas e profissionais.
 
 ## 7. Recomendação final
-Diga claramente se deve publicar, revisar antes, monitorar, descartar ou aguardar novas informações.
+Diga claramente o que fazer agora.`;
+    }
 
-IMPORTANTE:
-Este relatório será colado depois em um painel chamado ClippIA Econoroeste.
-Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
+    function classificarRiscoTexto(t) {
+      if (["morte","morre","ferido","acidente","denúncia","denuncia","processo","reclamação","reclamacao","cobrança indevida","cobranca indevida"].some(x => t.includes(x))) return {nome:"alto", cls:"high"};
+      if (["pedágio","pedagio","tarifa","reajuste","interdição","interdicao","bloqueio","free flow","freeflow","duf","cobrança","cobranca"].some(x => t.includes(x))) return {nome:"médio", cls:"medium"};
+      return {nome:"baixo", cls:"low"};
+    }
+
+    window.gerarPromptGPTPorEscopo = function() {
+      const pacote = gerarPacotePromptGPT();
+      const campoRelatorio = document.getElementById("relatorioGPT");
+      const campoTitulo = document.getElementById("tituloManual");
+      if (campoRelatorio) {
+        campoRelatorio.value = pacote.prompt;
+        campoRelatorio.focus();
+      }
+      if (campoTitulo && !campoTitulo.value.trim()) {
+        campoTitulo.value = pacote.modo === "pesquisa_zero"
+          ? "Prompt de pesquisa inicial — " + new Date().toLocaleString("pt-BR")
+          : "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
+      }
+      alert(pacote.modo === "pesquisa_zero"
+        ? "Prompt de PESQUISA DO ZERO gerado. Copie ou use ‘Copiar e abrir GPT’."
+        : "Prompt gerado com " + pacote.total + " notícia(s). Copie ou use ‘Copiar e abrir GPT’.");
+    };
+
+    window.copiarPromptGPTPorEscopo = async function() {
+      const pacote = gerarPacotePromptGPT();
+      await navigator.clipboard.writeText(pacote.prompt);
+      alert(pacote.modo === "pesquisa_zero"
+        ? "Prompt de PESQUISA DO ZERO copiado. Abra o GPT ClippIA e cole."
+        : "Prompt copiado com " + pacote.total + " notícia(s). Abra o GPT ClippIA e cole.");
+    };
+
+    window.copiarPromptEAbrirGPT = async function() {
+      const pacote = gerarPacotePromptGPT();
+      await navigator.clipboard.writeText(pacote.prompt);
+      abrirGPTClippIA();
+      alert(pacote.modo === "pesquisa_zero"
+        ? "Prompt de PESQUISA DO ZERO copiado. Agora cole dentro do GPT ClippIA."
+        : "Prompt copiado com " + pacote.total + " notícia(s). Agora cole dentro do GPT ClippIA.");
+    };
+
+    function abrirGPTClippIA() {
+      window.open("https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste", "_blank", "noopener,noreferrer");
     }
 
     function montarPromptGPT(itens) {
@@ -1014,53 +1045,66 @@ RELATÓRIO DE CLIPAGEM
     }
 
     window.salvarClipagem = async function() {
+      if (!window.ClippIA.user) {
+        return alert("Faça login para salvar a clipagem.");
+      }
+
       const titulo = document.getElementById("tituloManual").value.trim() || "Clipagem sem título";
       const risco = document.getElementById("riscoManual").value;
       const relatorio = document.getElementById("relatorioGPT").value.trim();
+
       if (!relatorio) return alert("Cole o relatório do GPT antes de salvar.");
+      if (!window.ClippIA.firebaseAtivo || !window.ClippIA.db) return alert("Firebase não está conectado. Verifique firebase-config.js.");
 
-      const item = { titulo, risco, relatorio, status: "NOVO", createdAtLocal: new Date().toISOString() };
+      const item = {
+        titulo,
+        risco,
+        relatorio,
+        status: "NOVO",
+        userUid: window.ClippIA.user.uid,
+        userEmail: window.ClippIA.user.email || "",
+        createdAtLocal: new Date().toISOString()
+      };
 
-      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
-        try {
-          await addDoc(collection(window.ClippIA.db, "clipagens"), {
-            ...item,
-            userEmail: window.ClippIA.user.email,
-            createdAt: serverTimestamp()
-          });
-          await carregarClipagens();
-          limparFormulario();
-          alert("Clipagem salva no Firebase.");
-          return;
-        } catch (e) {
-          alert("Erro no Firebase. Vou salvar localmente. Erro: " + e.message);
-        }
+      try {
+        await addDoc(collection(window.ClippIA.db, "clipagens"), {
+          ...item,
+          createdAt: serverTimestamp()
+        });
+        await carregarClipagens();
+        limparFormulario();
+        alert("Clipagem salva no Firebase.");
+      } catch (e) {
+        console.error(e);
+        alert("Erro ao salvar no Firebase: " + traduzirErroFirebase(e.message));
       }
-
-      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
-      item.id = "local_" + Date.now();
-      locais.unshift(item);
-      localStorage.setItem("clippia_clipagens", JSON.stringify(locais));
-      await carregarClipagens();
-      limparFormulario();
-      alert("Clipagem salva localmente no navegador.");
-    }
+    };
 
     window.carregarClipagens = async function() {
-      let arr = [];
-      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
-        try {
-          const q = query(collection(window.ClippIA.db, "clipagens"), orderBy("createdAt", "desc"));
-          const snap = await getDocs(q);
-          snap.forEach(d => arr.push({ id: d.id, ...d.data() }));
-        } catch (e) { console.error(e); }
+      if (!window.ClippIA.user) {
+        window.ClippIA.clipagens = [];
+        renderClipagens();
+        return;
       }
-      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
-      arr = [...arr, ...locais];
+
+      let arr = [];
+      try {
+        const q = query(
+          collection(window.ClippIA.db, "clipagens"),
+          where("userUid", "==", window.ClippIA.user.uid)
+        );
+        const snap = await getDocs(q);
+        snap.forEach(d => arr.push({ id: d.id, ...d.data() }));
+        arr.sort((a, b) => String(b.createdAtLocal || "").localeCompare(String(a.createdAtLocal || "")));
+      } catch (e) {
+        console.error(e);
+        document.getElementById("listaClipagens").innerHTML = "<div class='card small'>Erro ao carregar clipagens. Verifique as regras do Firestore.</div>";
+      }
+
       window.ClippIA.clipagens = arr;
       renderClipagens();
       renderStats();
-    }
+    };
 
     window.renderClipagens = function() {
       const el = document.getElementById("listaClipagens");
@@ -1096,33 +1140,25 @@ RELATÓRIO DE CLIPAGEM
     }
 
     window.mudarStatus = async function(id, status) {
-      if (!status) return;
-      if (String(id).startsWith("local_")) {
-        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
-        const novo = locais.map(x => x.id === id ? {...x, status} : x);
-        localStorage.setItem("clippia_clipagens", JSON.stringify(novo));
-        await carregarClipagens();
-        return;
-      }
-      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+      if (!status || !window.ClippIA.user) return;
+      try {
         await updateDoc(doc(window.ClippIA.db, "clipagens", id), { status });
         await carregarClipagens();
+      } catch (e) {
+        alert("Erro ao mudar status: " + traduzirErroFirebase(e.message));
       }
-    }
+    };
 
     window.apagarClipagem = async function(id) {
+      if (!window.ClippIA.user) return;
       if (!confirm("Apagar esta clipagem?")) return;
-      if (String(id).startsWith("local_")) {
-        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
-        localStorage.setItem("clippia_clipagens", JSON.stringify(locais.filter(x => x.id !== id)));
-        await carregarClipagens();
-        return;
-      }
-      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+      try {
         await deleteDoc(doc(window.ClippIA.db, "clipagens", id));
         await carregarClipagens();
+      } catch (e) {
+        alert("Erro ao apagar: " + traduzirErroFirebase(e.message));
       }
-    }
+    };
 
     window.limparFormulario = function() {
       document.getElementById("tituloManual").value = "";
@@ -1162,6 +1198,16 @@ RELATÓRIO DE CLIPAGEM
       a.click();
     }
 
+    function traduzirErroFirebase(msg) {
+      const m = String(msg || "");
+      if (m.includes("auth/invalid-credential")) return "e-mail ou senha incorretos.";
+      if (m.includes("auth/email-already-in-use")) return "este e-mail já está cadastrado.";
+      if (m.includes("auth/weak-password")) return "senha fraca. Use pelo menos 6 caracteres.";
+      if (m.includes("auth/invalid-email")) return "e-mail inválido.";
+      if (m.includes("permission-denied")) return "sem permissão. Verifique as regras do Firestore.";
+      return m;
+    }
+
     function formatarDataLeitura(valor) {
       if (!valor) return "sem data";
       const d = new Date(valor);
@@ -1175,8 +1221,7 @@ RELATÓRIO DE CLIPAGEM
     }
     function escapeAttr(str) { return escapeHtml(str).replace(/`/g, "&#96;"); }
 
-    await carregarNoticias();
-    await carregarClipagens();
+    renderStats();
   </script>
 </body>
 </html>
