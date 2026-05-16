@@ -1511,29 +1511,9 @@ Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
     };
 
     window.abrirGPTClippIA = function() {
-      let urlGPT = localStorage.getItem("clippia_gpt_url") || "";
-
-      if (!urlGPT) {
-        const informado = prompt(
-          "Cole aqui o link do seu GPT ClippIA.\n\n" +
-          "Exemplo:\n" +
-          "https://chatgpt.com/g/g-xxxxxxxx-clippia-econoroeste\n\n" +
-          "Se você ainda não tiver o link, deixe em branco para abrir a página de GPTs.",
-          ""
-        );
-
-        if (informado && informado.trim()) {
-          urlGPT = informado.trim();
-          localStorage.setItem("clippia_gpt_url", urlGPT);
-        }
-      }
-
-      if (!urlGPT) {
-        urlGPT = "https://chatgpt.com/gpts";
-      }
-
-      window.open(urlGPT, "_blank", "noopener,noreferrer");
-    };
+  const urlGPT = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
+  window.open(urlGPT, "_blank", "noopener,noreferrer");
+};
 
     function montarPromptGPT(itens) {
       const dados = itens.map((n, i) => `
