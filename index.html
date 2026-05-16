@@ -22,7 +22,9 @@
       --soft: rgba(56,189,248,.10);
     }
 
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
 
     body {
       margin: 0;
@@ -89,8 +91,14 @@
     }
 
     @media(max-width: 920px) {
-      .grid { grid-template-columns: 1fr; padding: 10px; }
-      header { position: static; }
+      .grid {
+        grid-template-columns: 1fr;
+        padding: 10px;
+      }
+
+      header {
+        position: static;
+      }
     }
 
     .box {
@@ -127,7 +135,9 @@
       gap: 8px;
     }
 
-    input, textarea, select {
+    input,
+    textarea,
+    select {
       width: 100%;
       padding: 11px;
       border-radius: 12px;
@@ -143,7 +153,8 @@
       resize: vertical;
     }
 
-    button, .btn {
+    button,
+    .btn {
       border: 0;
       border-radius: 12px;
       padding: 11px 13px;
@@ -160,12 +171,36 @@
       white-space: nowrap;
     }
 
-    button.secondary { background: #334155; color: var(--text); }
-    button.ghost { background: transparent; color: #bfdbfe; border: 1px solid var(--line); }
-    button.ok { background: var(--ok); color: #052e16; }
-    button.warn { background: var(--warn); color: #422006; }
-    button.bad { background: var(--bad); color: #450a0a; }
-    button:disabled { opacity: .5; cursor: not-allowed; }
+    button.secondary {
+      background: #334155;
+      color: var(--text);
+    }
+
+    button.ghost {
+      background: transparent;
+      color: #bfdbfe;
+      border: 1px solid var(--line);
+    }
+
+    button.ok {
+      background: var(--ok);
+      color: #052e16;
+    }
+
+    button.warn {
+      background: var(--warn);
+      color: #422006;
+    }
+
+    button.bad {
+      background: var(--bad);
+      color: #450a0a;
+    }
+
+    button:disabled {
+      opacity: .5;
+      cursor: not-allowed;
+    }
 
     .locked {
       max-width: 520px;
@@ -211,7 +246,9 @@
     }
 
     @media(max-width: 860px) {
-      .actiongrid { grid-template-columns: 1fr; }
+      .actiongrid {
+        grid-template-columns: 1fr;
+      }
     }
 
     .tabs {
@@ -295,9 +332,25 @@
       color: #e2e8f0;
     }
 
-    .pill.high { background: rgba(239,68,68,.25); color: #fecaca; }
-    .pill.medium { background: rgba(245,158,11,.25); color: #fde68a; }
-    .pill.low { background: rgba(34,197,94,.20); color: #bbf7d0; }
+    .pill.high {
+      background: rgba(239,68,68,.25);
+      color: #fecaca;
+    }
+
+    .pill.medium {
+      background: rgba(245,158,11,.25);
+      color: #fde68a;
+    }
+
+    .pill.low {
+      background: rgba(34,197,94,.20);
+      color: #bbf7d0;
+    }
+
+    .pill.info {
+      background: rgba(56,189,248,.18);
+      color: #bfdbfe;
+    }
 
     .mutedlink {
       color: #93c5fd;
@@ -311,7 +364,9 @@
     }
 
     @media(max-width: 700px) {
-      .stats { grid-template-columns: repeat(2, 1fr); }
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
     }
 
     .stat {
@@ -376,7 +431,9 @@
     }
 
     @media(max-width: 700px) {
-      .gallery { grid-template-columns: 1fr; }
+      .gallery {
+        grid-template-columns: 1fr;
+      }
     }
 
     .gallery a {
@@ -434,7 +491,20 @@
       line-height: 1.45;
     }
 
-    .hidden { display: none !important; }
+    .badNote {
+      border-left: 4px solid var(--bad);
+      background: rgba(239,68,68,.10);
+      padding: 10px;
+      border-radius: 12px;
+      margin: 10px 0;
+      color: #fecaca;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .hidden {
+      display: none !important;
+    }
 
     pre {
       white-space: pre-wrap;
@@ -452,10 +522,48 @@
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 8px;
+      margin-top: 10px;
     }
 
     @media(max-width: 520px) {
-      .clipActions { grid-template-columns: 1fr; }
+      .clipActions {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .clipMetaBox {
+      background: rgba(2,6,23,.38);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px;
+      margin-top: 10px;
+    }
+
+    .clipBlock {
+      background: rgba(2,6,23,.28);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px;
+      margin-top: 10px;
+    }
+
+    .clipBlock h4 {
+      margin: 0 0 6px;
+      font-size: 13px;
+      color: #bfdbfe;
+    }
+
+    .linkList {
+      margin: 0;
+      padding-left: 18px;
+      color: #bfdbfe;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .linkList li {
+      word-break: break-word;
+      margin: 3px 0;
     }
 
     #pdfRenderArea {
@@ -515,7 +623,18 @@
     }
 
     @media print {
-      header, .topbar, .tabs, aside, .footer, button, input, select, textarea, details, .checkwrap, .newsFooter {
+      header,
+      .topbar,
+      .tabs,
+      aside,
+      .footer,
+      button,
+      input,
+      select,
+      textarea,
+      details,
+      .checkwrap,
+      .newsFooter {
         display: none !important;
       }
 
@@ -529,14 +648,16 @@
         padding: 0;
       }
 
-      .box, .card {
+      .box,
+      .card {
         box-shadow: none;
         border: 1px solid #ddd;
         background: #fff;
         color: #000;
       }
 
-      .small, .meta {
+      .small,
+      .meta {
         color: #333;
       }
 
@@ -662,6 +783,7 @@
         </div>
 
         <div class="row">
+          <button class="secondary" onclick="carregarClipagens()">🔄 Atualizar clipagens</button>
           <button class="secondary" onclick="logout()">🚪 Sair</button>
         </div>
 
@@ -669,16 +791,21 @@
 
         <h2>🤖 3. Salvar análise do GPT</h2>
         <p class="small">
-          Cole aqui o relatório gerado pelo GPT para arquivar e acompanhar o status.
+          Cole aqui o relatório gerado pelo GPT para arquivar e acompanhar o status. Este salvamento usa o mesmo caminho da Action: <b>/clipagens</b> no Firebase Realtime Database.
         </p>
 
         <div class="stack">
           <input id="tituloManual" placeholder="Título interno da clipagem"/>
+          <input id="periodoManual" placeholder="Período pesquisado. Ex.: últimas 24 horas"/>
           <select id="riscoManual">
             <option value="baixo">Risco baixo</option>
             <option value="medio">Risco médio</option>
             <option value="alto">Risco alto</option>
           </select>
+          <input id="categoriaManual" placeholder="Categoria. Ex.: clipagem, free flow, pedágio, obras, acidente"/>
+          <input id="recomendacaoManual" placeholder="Recomendação. Ex.: revisar antes, monitorar, publicar"/>
+          <textarea id="resumoManual" placeholder="Resumo executivo opcional"></textarea>
+          <textarea id="textoPostagemManual" placeholder="Texto de postagem opcional"></textarea>
           <textarea id="relatorioGPT" placeholder="Cole aqui o relatório completo gerado pelo GPT"></textarea>
           <div class="row">
             <button class="ok" onclick="salvarClipagem()">💾 Salvar clipagem</button>
@@ -707,18 +834,17 @@
 
   <script type="module">
     import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
+
     import {
-      getFirestore,
-      collection,
-      addDoc,
-      getDocs,
-      doc,
-      updateDoc,
-      deleteDoc,
-      query,
-      where,
-      serverTimestamp
-    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
+      getDatabase,
+      ref,
+      push,
+      set,
+      get,
+      update,
+      remove,
+      onValue
+    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-database.js";
 
     import {
       getAuth,
@@ -740,23 +866,29 @@
       filtro: "todas",
       selecionadas: new Set(),
       zeradas: new Set(JSON.parse(localStorage.getItem("clippia_zeradas_ids") || "[]")),
-      ultimaLista: []
+      ultimaLista: [],
+      unsubscribeClipagens: null
     };
 
     const cfg = window.firebaseConfig || {};
-    const configurado = cfg && cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI");
+    const configurado =
+      cfg &&
+      cfg.apiKey &&
+      cfg.databaseURL &&
+      !String(cfg.apiKey).includes("COLE_AQUI") &&
+      !String(cfg.databaseURL).includes("SEU-PROJETO");
 
     iniciarFirebase();
 
     function iniciarFirebase() {
       if (!configurado) {
-        bloquearTela("Firebase não configurado. Configure o arquivo firebase-config.js para liberar login e acesso.");
+        bloquearTela("Firebase Realtime Database não configurado. Configure firebase-config.js com apiKey e databaseURL.");
         return;
       }
 
       try {
         window.ClippIA.app = initializeApp(cfg);
-        window.ClippIA.db = getFirestore(window.ClippIA.app);
+        window.ClippIA.db = getDatabase(window.ClippIA.app);
         window.ClippIA.auth = getAuth(window.ClippIA.app);
         window.ClippIA.firebaseAtivo = true;
 
@@ -764,18 +896,19 @@
           window.ClippIA.user = user;
 
           if (!user) {
-            bloquearTela("Firebase conectado. Faça login para visualizar as reportagens.");
+            pararEscutaClipagens();
+            bloquearTela("Firebase conectado. Faça login para visualizar as reportagens e clipagens salvas.");
             limparDadosDaTela();
             return;
           }
 
           liberarTela(user);
           await carregarNoticias();
-          await carregarClipagens();
+          iniciarEscutaClipagens();
         });
       } catch (e) {
         console.error(e);
-        bloquearTela("Erro ao conectar Firebase. Verifique firebase-config.js.");
+        bloquearTela("Erro ao conectar Firebase Realtime Database. Verifique firebase-config.js.");
       }
     }
 
@@ -789,7 +922,7 @@
       document.getElementById("lockedPanel").classList.add("hidden");
       document.getElementById("appPanel").classList.remove("hidden");
       document.getElementById("firebaseStatus").innerHTML =
-        "✅ Logado como: <b>" + escapeHtml(user.email || "usuário") + "</b>";
+        "✅ Firebase Realtime conectado. Logado como: <b>" + escapeHtml(user.email || "usuário") + "</b>";
     }
 
     function limparDadosDaTela() {
@@ -799,6 +932,18 @@
       window.ClippIA.selecionadas = new Set();
       renderNoticias();
       renderClipagens();
+    }
+
+    function pararEscutaClipagens() {
+      if (typeof window.ClippIA.unsubscribeClipagens === "function") {
+        try {
+          window.ClippIA.unsubscribeClipagens();
+        } catch (e) {
+          console.warn("Falha ao parar escuta de clipagens:", e);
+        }
+      }
+
+      window.ClippIA.unsubscribeClipagens = null;
     }
 
     window.login = async function() {
@@ -845,6 +990,7 @@
 
     window.logout = async function() {
       if (window.ClippIA.auth) {
+        pararEscutaClipagens();
         await signOut(window.ClippIA.auth);
       }
     };
@@ -876,7 +1022,7 @@
       } catch (e) {
         console.error(e);
         document.getElementById("listaNoticias").innerHTML =
-          "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action, confira se o arquivo existe ou use “Gerar prompt” para mandar o GPT pesquisar do zero.</div>";
+          "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action/robô, confira se o arquivo existe ou use “Gerar prompt” para mandar o GPT pesquisar do zero.</div>";
       }
     };
 
@@ -893,7 +1039,7 @@
       const ok = confirm(
         "Zerar todas as notícias visíveis desta tela?\n\n" +
         "Isso não apaga o arquivo público data/noticias.json do GitHub.\n" +
-        "Ele apenas esconde as notícias atuais para você começar limpo.\n\n" +
+        "Ele apenas esconde as notícias atuais neste navegador para você começar limpo.\n\n" +
         "Depois de zerar, o botão “Gerar prompt” continuará funcionando e criará uma pesquisa do zero para o GPT."
       );
 
@@ -912,7 +1058,7 @@
       alert(
         "Notícias zeradas nesta tela.\n\n" +
         "Agora você pode:\n" +
-        "1. Clicar em “Pesquisar de novo” se a Action já buscou novas notícias.\n" +
+        "1. Clicar em “Pesquisar de novo” se o robô já buscou novas notícias.\n" +
         "2. Ou clicar em “Gerar prompt” para mandar o GPT pesquisar do zero as últimas 24 horas."
       );
     };
@@ -984,8 +1130,12 @@
               t.includes("pedagio digital") ||
               t.includes("pedágio inteligente") ||
               t.includes("pedagio inteligente") ||
+              t.includes("pedágio eletrônico") ||
+              t.includes("pedagio eletronico") ||
               t.includes("pórtico") ||
-              t.includes("portico");
+              t.includes("portico") ||
+              t.includes("duf") ||
+              t.includes("tag");
           }
 
           if (filtro === "pedagio") {
@@ -1002,10 +1152,14 @@
           if (filtro === "acidente") {
             return t.includes("acidente") ||
               t.includes("morte") ||
+              t.includes("morre") ||
               t.includes("ferido") ||
               t.includes("risco") ||
               t.includes("denúncia") ||
-              t.includes("denuncia");
+              t.includes("denuncia") ||
+              t.includes("processo") ||
+              t.includes("reclamação") ||
+              t.includes("reclamacao");
           }
 
           if (filtro === "obras") {
@@ -1275,11 +1429,12 @@ TERMO: ${n.term || ""}`;
       }
 
       const limite = Math.min(itens.length, 40);
-      const prompt = montarPromptGPT(itens.slice(0, 40));
+      const prompt = montarPromptGPT(itens.slice(0, 40), itens.length);
 
       return {
         prompt,
         total: limite,
+        totalOriginal: itens.length,
         modo: "analise_itens"
       };
     }
@@ -1463,9 +1618,14 @@ Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
           "Por isso, o sistema criou um prompt para o GPT pesquisar as últimas 24 horas na web."
         );
       } else {
+        const extra = pacote.totalOriginal > pacote.total
+          ? "\n\nAtenção: havia " + pacote.totalOriginal + " itens no escopo, mas foram enviados os primeiros " + pacote.total + " para não estourar o tamanho do prompt."
+          : "";
+
         alert(
-          "Prompt gerado com " + pacote.total + " notícia(s).\n\n" +
-          "Ele foi colocado no campo de texto à direita. Agora você pode copiar ou abrir o GPT."
+          "Prompt gerado com " + pacote.total + " notícia(s)." +
+          extra +
+          "\n\nEle foi colocado no campo de texto à direita. Agora você pode copiar ou abrir o GPT."
         );
       }
     };
@@ -1483,7 +1643,11 @@ Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
           "Agora abra o GPT ClippIA e cole para ele pesquisar as notícias mais recentes."
         );
       } else {
-        alert("Prompt copiado com " + pacote.total + " notícia(s).");
+        const extra = pacote.totalOriginal > pacote.total
+          ? "\n\nAtenção: havia " + pacote.totalOriginal + " itens no escopo, mas foram copiados os primeiros " + pacote.total + "."
+          : "";
+
+        alert("Prompt copiado com " + pacote.total + " notícia(s)." + extra);
       }
     };
 
@@ -1503,19 +1667,24 @@ Entregue uma resposta organizada, profissional e pronta para arquivamento.`;
           "Ele deverá pesquisar as últimas 24 horas sobre Econoroeste, EcoNoroeste, Ecovias Noroeste Paulista e Free Flow."
         );
       } else {
+        const extra = pacote.totalOriginal > pacote.total
+          ? "\n\nAtenção: havia " + pacote.totalOriginal + " itens no escopo, mas foram enviados os primeiros " + pacote.total + "."
+          : "";
+
         alert(
-          "Prompt copiado com " + pacote.total + " notícia(s).\n\n" +
-          "Agora cole dentro do seu GPT ClippIA."
+          "Prompt copiado com " + pacote.total + " notícia(s)." +
+          extra +
+          "\n\nAgora cole dentro do seu GPT ClippIA."
         );
       }
     };
 
     window.abrirGPTClippIA = function() {
-  const urlGPT = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
-  window.open(urlGPT, "_blank", "noopener,noreferrer");
-};
+      const urlGPT = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
+      window.open(urlGPT, "_blank", "noopener,noreferrer");
+    };
 
-    function montarPromptGPT(itens) {
+    function montarPromptGPT(itens, totalOriginal) {
       const dados = itens.map((n, i) => `
 ITEM ${i + 1}
 TÍTULO: ${n.title || ""}
@@ -1530,7 +1699,13 @@ CATEGORIA DO PAINEL: ${n.category || ""}
 TERMO ENCONTRADO: ${n.term || ""}
 `).join("\n");
 
+      const avisoLimite = totalOriginal && totalOriginal > itens.length
+        ? `\nOBSERVAÇÃO: O painel tinha ${totalOriginal} itens no escopo, mas este prompt envia ${itens.length} itens para evitar excesso de tamanho. Informe isso no relatório como limitação operacional.\n`
+        : "";
+
       return `Faça uma clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste com os itens abaixo.
+
+${avisoLimite}
 
 Regras obrigatórias:
 - Pesquise na web para confirmar as informações importantes.
@@ -1580,6 +1755,8 @@ RELATÓRIO DE CLIPAGEM
         <div class="pdfBrand">
           <h2 style="margin:0;color:#f8fafc;">ClippIA Econoroeste</h2>
           <div>Relatório visual de reportagens — ${new Date().toLocaleString("pt-BR")}</div>
+          <div>Total exportado: ${itens.length}</div>
+          <div>Observação: relatório gerado a partir de links públicos coletados. Revise as fontes antes de publicar.</div>
         </div>
         ${itens.map(n => montarCardPDF(n)).join("")}
         <div class="pdfBrand">Powered by thIAguinho Soluções Digitais</div>
@@ -1660,6 +1837,7 @@ RELATÓRIO DE CLIPAGEM
 
           <div class="meta" style="margin-top:10px;">
             <b>Link:</b> ${escapeHtml(n.link || "")}<br>
+            ${n.resolved_link ? `<b>Link resolvido:</b> ${escapeHtml(n.resolved_link || "")}<br>` : ""}
             ${n.image_url ? `<b>Imagem:</b> ${escapeHtml(n.image_url || "")}<br>` : ""}
             ${n.image_source ? `<b>Fonte da imagem:</b> ${escapeHtml(n.image_source || "")}` : ""}
           </div>
@@ -1822,7 +2000,15 @@ RELATÓRIO DE CLIPAGEM
         }
 
         addText((idx + 1) + ". " + (c.titulo || "Sem título"), 12, true, 4);
-        addText("Risco: " + (c.risco || "baixo") + " | Status: " + (c.status || "NOVO"), 9, false, 6);
+        addText("ID: " + (c.id || ""), 8);
+        addText("Origem: " + (c.origem || "manual") + " | Risco: " + (c.risco || "baixo") + " | Status: " + (c.status || "NOVO"), 9, false, 4);
+
+        if (c.periodo) addText("Período: " + c.periodo, 9, false, 4);
+        if (c.categoria) addText("Categoria: " + c.categoria, 9, false, 4);
+        if (c.recomendacao) addText("Recomendação: " + c.recomendacao, 9, false, 4);
+        if (c.resumo_executivo) addText("Resumo executivo: " + c.resumo_executivo, 9, false, 8);
+        if (c.texto_postagem) addText("Texto de postagem: " + c.texto_postagem, 9, false, 8);
+
         addText(c.relatorio || "", 9, false, 12);
       });
 
@@ -1838,38 +2024,111 @@ RELATÓRIO DE CLIPAGEM
       }
 
       const titulo = document.getElementById("tituloManual").value.trim() || "Clipagem sem título";
+      const periodo = document.getElementById("periodoManual").value.trim();
       const risco = document.getElementById("riscoManual").value;
+      const categoria = document.getElementById("categoriaManual").value.trim() || "clipagem";
+      const recomendacao = document.getElementById("recomendacaoManual").value.trim();
+      const resumoExecutivo = document.getElementById("resumoManual").value.trim();
+      const textoPostagem = document.getElementById("textoPostagemManual").value.trim();
       const relatorio = document.getElementById("relatorioGPT").value.trim();
 
-      if (!relatorio) {
-        return alert("Cole o relatório do GPT antes de salvar.");
+      if (!relatorio && !resumoExecutivo && !textoPostagem) {
+        return alert("Cole o relatório do GPT ou preencha resumo/texto antes de salvar.");
       }
 
+      const agora = new Date().toISOString();
+
       const item = {
-        titulo,
-        risco,
-        relatorio,
+        origem: "painel_manual",
         status: "NOVO",
+        titulo,
+        periodo,
+        risco,
+        categoria,
+        resumo_executivo: resumoExecutivo,
+        relatorio,
+        texto_postagem: textoPostagem,
+        recomendacao,
+        fontes: [],
+        imagens: [],
+        noticias: [],
+        criado_em: agora,
+        atualizado_em: agora,
+        salvo_por: "Painel Web",
         userUid: window.ClippIA.user.uid,
         userEmail: window.ClippIA.user.email || "",
-        createdAtLocal: new Date().toISOString()
+        versao_painel: "2.0.0-realtime"
       };
 
       try {
-        await addDoc(collection(window.ClippIA.db, "clipagens"), {
-          ...item,
-          createdAt: serverTimestamp()
-        });
+        const novoRef = push(ref(window.ClippIA.db, "clipagens"));
+        await set(novoRef, item);
 
         await carregarClipagens();
         limparFormulario();
 
-        alert("Clipagem salva no Firebase.");
+        alert(
+          "Clipagem salva no Firebase Realtime Database.\n\n" +
+          "ID: " + novoRef.key + "\n" +
+          "Caminho: /clipagens/" + novoRef.key
+        );
       } catch (e) {
         console.error(e);
-        alert("Erro ao salvar no Firebase: " + traduzirErroFirebase(e.message));
+        alert("Erro ao salvar no Firebase Realtime Database: " + traduzirErroFirebase(e.message));
       }
     };
+
+    function iniciarEscutaClipagens() {
+      if (!window.ClippIA.user || !window.ClippIA.db) return;
+
+      pararEscutaClipagens();
+
+      const clipagensRef = ref(window.ClippIA.db, "clipagens");
+
+      window.ClippIA.unsubscribeClipagens = onValue(
+        clipagensRef,
+        (snapshot) => {
+          const val = snapshot.val() || {};
+          const arr = Object.keys(val).map(id => ({
+            id,
+            path: "/clipagens/" + id,
+            ...val[id]
+          }));
+
+          arr.sort((a, b) => {
+            const da =
+              a.criado_em ||
+              a.createdAtLocal ||
+              a.created_at ||
+              a.createdAt ||
+              a.atualizado_em ||
+              "";
+
+            const db =
+              b.criado_em ||
+              b.createdAtLocal ||
+              b.created_at ||
+              b.createdAt ||
+              b.atualizado_em ||
+              "";
+
+            return String(db).localeCompare(String(da));
+          });
+
+          window.ClippIA.clipagens = arr;
+          renderClipagens();
+          renderStats();
+        },
+        (error) => {
+          console.error(error);
+          const el = document.getElementById("listaClipagens");
+          if (el) {
+            el.innerHTML =
+              "<div class='card small'>Erro ao carregar clipagens do Realtime Database. Verifique as regras do Firebase Realtime Database.</div>";
+          }
+        }
+      );
+    }
 
     window.carregarClipagens = async function() {
       if (!window.ClippIA.user) {
@@ -1879,19 +2138,33 @@ RELATÓRIO DE CLIPAGEM
       }
 
       try {
-        const q = query(
-          collection(window.ClippIA.db, "clipagens"),
-          where("userUid", "==", window.ClippIA.user.uid)
-        );
+        const snap = await get(ref(window.ClippIA.db, "clipagens"));
+        const val = snap.val() || {};
+        const arr = Object.keys(val).map(id => ({
+          id,
+          path: "/clipagens/" + id,
+          ...val[id]
+        }));
 
-        const snap = await getDocs(q);
-        const arr = [];
+        arr.sort((a, b) => {
+          const da =
+            a.criado_em ||
+            a.createdAtLocal ||
+            a.created_at ||
+            a.createdAt ||
+            a.atualizado_em ||
+            "";
 
-        snap.forEach(d => {
-          arr.push({ id: d.id, ...d.data() });
+          const db =
+            b.criado_em ||
+            b.createdAtLocal ||
+            b.created_at ||
+            b.createdAt ||
+            b.atualizado_em ||
+            "";
+
+          return String(db).localeCompare(String(da));
         });
-
-        arr.sort((a, b) => String(b.createdAtLocal || "").localeCompare(String(a.createdAtLocal || "")));
 
         window.ClippIA.clipagens = arr;
         renderClipagens();
@@ -1899,7 +2172,7 @@ RELATÓRIO DE CLIPAGEM
       } catch (e) {
         console.error(e);
         document.getElementById("listaClipagens").innerHTML =
-          "<div class='card small'>Erro ao carregar clipagens. Verifique as regras do Firestore.</div>";
+          "<div class='card small'>Erro ao carregar clipagens. Verifique as regras do Realtime Database.</div>";
       }
     };
 
@@ -1915,40 +2188,158 @@ RELATÓRIO DE CLIPAGEM
         return;
       }
 
-      el.innerHTML = arr.map(c => `
+      el.innerHTML = arr.map(c => montarCardClipagem(c)).join("");
+
+      renderStats();
+    };
+
+    function montarCardClipagem(c) {
+      const risco = normalizarRisco(c.risco);
+      const status = c.status || "NOVO";
+      const origem = c.origem || "manual";
+      const data = c.criado_em || c.createdAtLocal || c.created_at || c.atualizado_em || "";
+      const path = c.path || (c.id ? "/clipagens/" + c.id : "");
+
+      return `
         <div class="card">
           <h3>${escapeHtml(c.titulo || "Sem título")}</h3>
 
-          <span class="pill ${c.risco === "alto" ? "high" : c.risco === "medio" ? "medium" : "low"}">
-            Risco: ${escapeHtml(c.risco || "baixo")}
-          </span>
+          <div>
+            <span class="pill info">ID: ${escapeHtml(c.id || "")}</span>
+            <span class="pill info">${escapeHtml(path)}</span>
+            <span class="pill ${risco.cls}">Risco: ${escapeHtml(risco.nome)}</span>
+            <span class="pill">Status: ${escapeHtml(status)}</span>
+            <span class="pill">Origem: ${escapeHtml(origem)}</span>
+          </div>
 
-          <span class="pill">Status: ${escapeHtml(c.status || "NOVO")}</span>
+          <div class="clipMetaBox small">
+            ${data ? `<b>Data:</b> ${escapeHtml(formatarDataLeitura(data))}<br>` : ""}
+            ${c.periodo ? `<b>Período:</b> ${escapeHtml(c.periodo)}<br>` : ""}
+            ${c.categoria ? `<b>Categoria:</b> ${escapeHtml(c.categoria)}<br>` : ""}
+            ${c.recomendacao ? `<b>Recomendação:</b> ${escapeHtml(c.recomendacao)}<br>` : ""}
+            ${c.salvo_por ? `<b>Salvo por:</b> ${escapeHtml(c.salvo_por)}<br>` : ""}
+            ${c.userEmail ? `<b>Usuário:</b> ${escapeHtml(c.userEmail)}<br>` : ""}
+          </div>
 
-          <pre>${escapeHtml(c.relatorio || "")}</pre>
+          ${c.resumo_executivo ? `
+            <div class="clipBlock">
+              <h4>Resumo executivo</h4>
+              <div class="small">${escapeHtml(c.resumo_executivo)}</div>
+            </div>
+          ` : ""}
+
+          ${c.texto_postagem ? `
+            <div class="clipBlock">
+              <h4>Texto para postagem</h4>
+              <div class="small">${escapeHtml(c.texto_postagem)}</div>
+            </div>
+          ` : ""}
+
+          ${renderListaLinks("Fontes", c.fontes)}
+          ${renderListaLinks("Imagens", c.imagens)}
+          ${renderNoticiasClipagem(c.noticias)}
+
+          ${c.relatorio ? `<pre>${escapeHtml(c.relatorio || "")}</pre>` : ""}
 
           <div class="clipActions">
             <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>📋 Copiar relatório</button>
 
             <select onchange='mudarStatus(${JSON.stringify(c.id)}, this.value)'>
-              <option value="NOVO" ${c.status === "NOVO" ? "selected" : ""}>Status: novo</option>
-              <option value="REVISAR" ${c.status === "REVISAR" ? "selected" : ""}>Status: revisar</option>
-              <option value="PUBLICADO" ${c.status === "PUBLICADO" ? "selected" : ""}>Status: publicado</option>
+              <option value="NOVO" ${status === "NOVO" ? "selected" : ""}>Status: novo</option>
+              <option value="REVISAR" ${status === "REVISAR" ? "selected" : ""}>Status: revisar</option>
+              <option value="PUBLICADO" ${status === "PUBLICADO" ? "selected" : ""}>Status: publicado</option>
+              <option value="ARQUIVADO" ${status === "ARQUIVADO" ? "selected" : ""}>Status: arquivado</option>
             </select>
 
             <button class="bad" onclick='apagarClipagem(${JSON.stringify(c.id)})'>🗑️ Apagar</button>
           </div>
         </div>
-      `).join("");
+      `;
+    }
 
-      renderStats();
-    };
+    function normalizarRisco(risco) {
+      const r = String(risco || "baixo").toLowerCase();
+
+      if (r === "alto" || r === "alta" || r.includes("alto")) {
+        return { nome: "alto", cls: "high" };
+      }
+
+      if (r === "medio" || r === "médio" || r === "media" || r === "média" || r.includes("médio") || r.includes("medio")) {
+        return { nome: "médio", cls: "medium" };
+      }
+
+      return { nome: "baixo", cls: "low" };
+    }
+
+    function renderListaLinks(titulo, arr) {
+      const lista = Array.isArray(arr) ? arr.filter(Boolean) : [];
+
+      if (!lista.length) return "";
+
+      return `
+        <div class="clipBlock">
+          <h4>${escapeHtml(titulo)}</h4>
+          <ul class="linkList">
+            ${lista.map(item => {
+              const txt = typeof item === "string" ? item : JSON.stringify(item);
+              return `<li>${escapeHtml(txt)}</li>`;
+            }).join("")}
+          </ul>
+        </div>
+      `;
+    }
+
+    function renderNoticiasClipagem(noticias) {
+      const lista = Array.isArray(noticias) ? noticias.filter(Boolean) : [];
+
+      if (!lista.length) return "";
+
+      return `
+        <div class="clipBlock">
+          <h4>Notícias registradas</h4>
+          <ul class="linkList">
+            ${lista.slice(0, 20).map(item => {
+              if (typeof item === "string") {
+                return `<li>${escapeHtml(item)}</li>`;
+              }
+
+              const titulo = item.titulo || item.title || "Sem título";
+              const fonte = item.fonte || item.source || "";
+              const link = item.link || "";
+              const risco = item.risco || "";
+
+              return `<li>${escapeHtml(titulo)} ${fonte ? "— " + escapeHtml(fonte) : ""} ${risco ? "— risco: " + escapeHtml(risco) : ""} ${link ? "— " + escapeHtml(link) : ""}</li>`;
+            }).join("")}
+          </ul>
+          ${lista.length > 20 ? `<div class="small">Mostrando 20 de ${lista.length} notícia(s).</div>` : ""}
+        </div>
+      `;
+    }
 
     window.copiarRelatorio = async function(id) {
       const c = window.ClippIA.clipagens.find(x => x.id === id);
       if (!c) return;
 
-      await navigator.clipboard.writeText(c.relatorio || "");
+      const txt =
+`TÍTULO: ${c.titulo || ""}
+ID: ${c.id || ""}
+CAMINHO: ${c.path || "/clipagens/" + (c.id || "")}
+ORIGEM: ${c.origem || ""}
+PERÍODO: ${c.periodo || ""}
+RISCO: ${c.risco || ""}
+CATEGORIA: ${c.categoria || ""}
+RECOMENDAÇÃO: ${c.recomendacao || ""}
+
+RESUMO EXECUTIVO:
+${c.resumo_executivo || ""}
+
+TEXTO DE POSTAGEM:
+${c.texto_postagem || ""}
+
+RELATÓRIO:
+${c.relatorio || ""}`;
+
+      await navigator.clipboard.writeText(txt);
       alert("Relatório copiado.");
     };
 
@@ -1956,7 +2347,11 @@ RELATÓRIO DE CLIPAGEM
       if (!status || !window.ClippIA.user) return;
 
       try {
-        await updateDoc(doc(window.ClippIA.db, "clipagens", id), { status });
+        await update(ref(window.ClippIA.db, "clipagens/" + id), {
+          status,
+          atualizado_em: new Date().toISOString()
+        });
+
         await carregarClipagens();
       } catch (e) {
         alert("Erro ao mudar status: " + traduzirErroFirebase(e.message));
@@ -1966,10 +2361,10 @@ RELATÓRIO DE CLIPAGEM
     window.apagarClipagem = async function(id) {
       if (!window.ClippIA.user) return;
 
-      if (!confirm("Apagar esta clipagem?")) return;
+      if (!confirm("Apagar esta clipagem do Firebase Realtime Database?")) return;
 
       try {
-        await deleteDoc(doc(window.ClippIA.db, "clipagens", id));
+        await remove(ref(window.ClippIA.db, "clipagens/" + id));
         await carregarClipagens();
       } catch (e) {
         alert("Erro ao apagar: " + traduzirErroFirebase(e.message));
@@ -1978,7 +2373,12 @@ RELATÓRIO DE CLIPAGEM
 
     window.limparFormulario = function() {
       document.getElementById("tituloManual").value = "";
+      document.getElementById("periodoManual").value = "";
       document.getElementById("riscoManual").value = "baixo";
+      document.getElementById("categoriaManual").value = "";
+      document.getElementById("recomendacaoManual").value = "";
+      document.getElementById("resumoManual").value = "";
+      document.getElementById("textoPostagemManual").value = "";
       document.getElementById("relatorioGPT").value = "";
     };
 
@@ -2018,8 +2418,11 @@ RELATÓRIO DE CLIPAGEM
     window.baixarBackup = function() {
       const data = {
         noticias: window.ClippIA.noticias,
+        noticiasRaw: window.ClippIA.noticiasRaw,
         clipagens: window.ClippIA.clipagens,
-        geradoEm: new Date().toISOString()
+        geradoEm: new Date().toISOString(),
+        banco: "Firebase Realtime Database",
+        caminhoClipagens: "/clipagens"
       };
 
       const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
@@ -2028,6 +2431,7 @@ RELATÓRIO DE CLIPAGEM
       a.href = URL.createObjectURL(blob);
       a.download = "backup-clippia-econoroeste.json";
       a.click();
+      URL.revokeObjectURL(a.href);
     };
 
     function limparTextoPDF(txt) {
@@ -2057,7 +2461,9 @@ RELATÓRIO DE CLIPAGEM
       if (m.includes("auth/email-already-in-use")) return "este e-mail já está cadastrado.";
       if (m.includes("auth/weak-password")) return "senha fraca. Use pelo menos 6 caracteres.";
       if (m.includes("auth/invalid-email")) return "e-mail inválido.";
-      if (m.includes("permission-denied")) return "sem permissão. Verifique as regras do Firestore.";
+      if (m.includes("permission-denied")) return "sem permissão. Verifique as regras do Firebase Realtime Database.";
+      if (m.includes("PERMISSION_DENIED")) return "sem permissão. Verifique as regras do Firebase Realtime Database.";
+      if (m.includes("Firebase: Error")) return m.replace("Firebase: Error", "Erro Firebase");
 
       return m;
     }
