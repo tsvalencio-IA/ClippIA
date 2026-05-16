@@ -1953,6 +1953,13 @@ RELATÓRIO DE CLIPAGEM
       gerarPDFClipagensTexto(arr);
     };
 
+    window.exportarPDFClipagemUnica = function(id) {
+      const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
+      if (!c) return alert("Clipagem não encontrada.");
+
+      gerarPDFClipagensTexto([c]);
+    };
+
     function gerarPDFClipagensTexto(arr) {
       const { jsPDF } = window.jspdf;
       const doc = new jsPDF({ unit: "pt", format: "a4" });
@@ -2001,6 +2008,7 @@ RELATÓRIO DE CLIPAGEM
 
         addText((idx + 1) + ". " + (c.titulo || "Sem título"), 12, true, 4);
         addText("ID: " + (c.id || ""), 8);
+        addText("Caminho: " + (c.path || "/clipagens/" + (c.id || "")), 8);
         addText("Origem: " + (c.origem || "manual") + " | Risco: " + (c.risco || "baixo") + " | Status: " + (c.status || "NOVO"), 9, false, 4);
 
         if (c.periodo) addText("Período: " + c.periodo, 9, false, 4);
@@ -2008,6 +2016,18 @@ RELATÓRIO DE CLIPAGEM
         if (c.recomendacao) addText("Recomendação: " + c.recomendacao, 9, false, 4);
         if (c.resumo_executivo) addText("Resumo executivo: " + c.resumo_executivo, 9, false, 8);
         if (c.texto_postagem) addText("Texto de postagem: " + c.texto_postagem, 9, false, 8);
+
+        const noticias = obterNoticiasOperacionaisDaClipagem(c);
+        if (noticias.length) {
+          addText("Notícias / fontes salvas:", 10, true, 4);
+          noticias.forEach((n, nidx) => {
+            addText((nidx + 1) + ". " + (n.title || n.titulo || "Sem título"), 9, true, 2);
+            if (n.source || n.fonte) addText("Fonte: " + (n.source || n.fonte), 8, false, 2);
+            if (n.published || n.data) addText("Data: " + (n.published || n.data), 8, false, 2);
+            if (n.link) addText("Link: " + n.link, 8, false, 2);
+            if (n.image_url || n.imagem) addText("Imagem: " + (n.image_url || n.imagem), 8, false, 4);
+          });
+        }
 
         addText(c.relatorio || "", 9, false, 12);
       });
@@ -2038,6 +2058,30 @@ RELATÓRIO DE CLIPAGEM
 
       const agora = new Date().toISOString();
 
+      const noticiasOperacionais = obterNoticiasPorEscopo({ silencioso: true }).map(n => ({
+        id: n.id || "",
+        titulo: n.title || "",
+        title: n.title || "",
+        fonte: n.source || "",
+        source: n.source || "",
+        data: n.published || n.published_raw || "",
+        published: n.published || "",
+        link: n.link || "",
+        resolved_link: n.resolved_link || "",
+        imagem: n.image_url || "",
+        image_url: n.image_url || "",
+        image_source: n.image_source || "",
+        categoria: n.category || "",
+        category: n.category || "",
+        risco: classificarRiscoTexto(textoBusca(n)).nome,
+        trecho: n.snippet || "",
+        snippet: n.snippet || "",
+        term: n.term || ""
+      }));
+
+      const fontes = [...new Set(noticiasOperacionais.map(n => n.link).filter(Boolean))];
+      const imagens = [...new Set(noticiasOperacionais.map(n => n.imagem || n.image_url).filter(Boolean))];
+
       const item = {
         origem: "painel_manual",
         status: "NOVO",
@@ -2049,15 +2093,15 @@ RELATÓRIO DE CLIPAGEM
         relatorio,
         texto_postagem: textoPostagem,
         recomendacao,
-        fontes: [],
-        imagens: [],
-        noticias: [],
+        fontes,
+        imagens,
+        noticias: noticiasOperacionais,
         criado_em: agora,
         atualizado_em: agora,
         salvo_por: "Painel Web",
         userUid: window.ClippIA.user.uid,
         userEmail: window.ClippIA.user.email || "",
-        versao_painel: "2.0.0-realtime"
+        versao_painel: "2.1.0-realtime-operacional"
       };
 
       try {
@@ -2197,7 +2241,7 @@ RELATÓRIO DE CLIPAGEM
       const risco = normalizarRisco(c.risco);
       const status = c.status || "NOVO";
       const origem = c.origem || "manual";
-      const data = c.criado_em || c.createdAtLocal || c.created_at || c.atualizado_em || "";
+      const data = c.criado_em || c.createdAtLocal || c.created_at || c.createdAt || c.atualizado_em || "";
       const path = c.path || (c.id ? "/clipagens/" + c.id : "");
 
       return `
@@ -2221,6 +2265,22 @@ RELATÓRIO DE CLIPAGEM
             ${c.userEmail ? `<b>Usuário:</b> ${escapeHtml(c.userEmail)}<br>` : ""}
           </div>
 
+          <div class="clipActions">
+            <button class="ok" onclick='usarClipagemNoPainel(${JSON.stringify(c.id)})'>📌 Usar no painel</button>
+            <button class="secondary" onclick='copiarNoticiasDaClipagem(${JSON.stringify(c.id)})'>🤖 Copiar notícias para GPT</button>
+            <button class="secondary" onclick='exportarPDFClipagemUnica(${JSON.stringify(c.id)})'>📄 PDF desta clipagem</button>
+            <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>📋 Copiar relatório</button>
+
+            <select onchange='mudarStatus(${JSON.stringify(c.id)}, this.value)'>
+              <option value="NOVO" ${status === "NOVO" ? "selected" : ""}>Status: novo</option>
+              <option value="REVISAR" ${status === "REVISAR" ? "selected" : ""}>Status: revisar</option>
+              <option value="PUBLICADO" ${status === "PUBLICADO" ? "selected" : ""}>Status: publicado</option>
+              <option value="ARQUIVADO" ${status === "ARQUIVADO" ? "selected" : ""}>Status: arquivado</option>
+            </select>
+
+            <button class="bad" onclick='apagarClipagem(${JSON.stringify(c.id)})'>🗑️ Apagar</button>
+          </div>
+
           ${c.resumo_executivo ? `
             <div class="clipBlock">
               <h4>Resumo executivo</h4>
@@ -2235,26 +2295,219 @@ RELATÓRIO DE CLIPAGEM
             </div>
           ` : ""}
 
-          ${renderListaLinks("Fontes", c.fontes)}
-          ${renderListaLinks("Imagens", c.imagens)}
-          ${renderNoticiasClipagem(c.noticias)}
+          ${renderNoticiasOperacionaisDaClipagem(c)}
+          ${renderMidiasDaClipagem(c)}
 
-          ${c.relatorio ? `<pre>${escapeHtml(c.relatorio || "")}</pre>` : ""}
+          ${c.relatorio ? `
+            <details class="advanced" style="margin-top:10px;">
+              <summary>📄 Ver relatório completo</summary>
+              <pre>${escapeHtml(c.relatorio || "")}</pre>
+            </details>
+          ` : ""}
+        </div>
+      `;
+    }
 
-          <div class="clipActions">
-            <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>📋 Copiar relatório</button>
+    function renderNoticiasOperacionaisDaClipagem(c) {
+      const noticias = obterNoticiasOperacionaisDaClipagem(c);
 
-            <select onchange='mudarStatus(${JSON.stringify(c.id)}, this.value)'>
-              <option value="NOVO" ${status === "NOVO" ? "selected" : ""}>Status: novo</option>
-              <option value="REVISAR" ${status === "REVISAR" ? "selected" : ""}>Status: revisar</option>
-              <option value="PUBLICADO" ${status === "PUBLICADO" ? "selected" : ""}>Status: publicado</option>
-              <option value="ARQUIVADO" ${status === "ARQUIVADO" ? "selected" : ""}>Status: arquivado</option>
-            </select>
+      if (!noticias.length) {
+        return `
+          <div class="clipBlock">
+            <h4>Notícias e fontes salvas</h4>
+            <div class="small">
+              Nenhuma notícia estruturada foi salva nesta clipagem.
+              Se houver links dentro do relatório, o painel tentará extraí-los automaticamente em novas versões.
+            </div>
+          </div>
+        `;
+      }
 
-            <button class="bad" onclick='apagarClipagem(${JSON.stringify(c.id)})'>🗑️ Apagar</button>
+      return `
+        <div class="clipBlock">
+          <h4>Notícias e fontes salvas</h4>
+          <div class="small" style="margin-bottom:8px;">
+            ${noticias.length} item(ns) utilizável(is) nesta clipagem.
+          </div>
+
+          ${noticias.map((n, idx) => {
+            const titulo = n.title || n.titulo || "Sem título";
+            const fonte = n.source || n.fonte || "Fonte não identificada";
+            const data = n.published || n.data || n.published_raw || "";
+            const link = n.link || n.url || "";
+            const imagem = n.image_url || n.imagem || "";
+            const categoria = n.category || n.categoria || "";
+            const risco = n.risco || n.risco_imagem || "";
+            const trecho = n.snippet || n.trecho || n.resumo || "";
+
+            return `
+              <div class="card" style="background:rgba(2,6,23,.35);">
+                <h3 style="font-size:15px;">${idx + 1}. ${escapeHtml(titulo)}</h3>
+
+                <div class="meta">
+                  <b>Fonte:</b> ${escapeHtml(fonte)}<br>
+                  ${data ? `<b>Data:</b> ${escapeHtml(formatarDataLeitura(data))}<br>` : ""}
+                  ${categoria ? `<b>Categoria:</b> ${escapeHtml(categoria)}<br>` : ""}
+                  ${risco ? `<b>Risco:</b> ${escapeHtml(risco)}<br>` : ""}
+                </div>
+
+                ${imagem ? `
+                  <a href="${escapeAttr(imagem)}" target="_blank" rel="noopener">
+                    <img class="thumb" src="${escapeAttr(imagem)}" alt="Imagem da notícia" crossorigin="anonymous" onerror="this.style.display='none'">
+                  </a>
+                ` : ""}
+
+                ${trecho ? `<p class="small">${escapeHtml(trecho)}</p>` : ""}
+
+                ${link ? `
+                  <div class="row" style="margin-top:10px;">
+                    <a class="btn secondary" href="${escapeAttr(link)}" target="_blank" rel="noopener">🔗 Abrir fonte</a>
+                    <button class="ghost" onclick='copiarTextoLivre(${JSON.stringify(link)})'>📋 Copiar link</button>
+                  </div>
+                ` : `
+                  <div class="small">Link não salvo neste item.</div>
+                `}
+              </div>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderMidiasDaClipagem(c) {
+      const imagens = normalizarArray(c.imagens).filter(Boolean);
+
+      if (!imagens.length) return "";
+
+      return `
+        <div class="clipBlock">
+          <h4>Imagens salvas</h4>
+          <div class="gallery">
+            ${imagens.map((item, idx) => {
+              const url = typeof item === "string" ? item : (item.url || item.link || item.imagem || item.image_url || "");
+              const fonte = typeof item === "string" ? "" : (item.fonte || item.source || item.credito || "");
+              const titulo = typeof item === "string" ? "Imagem " + (idx + 1) : (item.titulo || item.title || "Imagem " + (idx + 1));
+
+              if (!url) return "";
+
+              return `
+                <a href="${escapeAttr(url)}" target="_blank" rel="noopener">
+                  <img src="${escapeAttr(url)}" alt="${escapeAttr(titulo)}" crossorigin="anonymous" onerror="this.style.display='none'">
+                  <span>
+                    ${escapeHtml(titulo)}<br>
+                    ${fonte ? "Fonte: " + escapeHtml(fonte) : "Clique para abrir a imagem"}
+                  </span>
+                </a>
+              `;
+            }).join("")}
           </div>
         </div>
       `;
+    }
+
+    function obterNoticiasOperacionaisDaClipagem(c) {
+      const saida = [];
+      const vistos = new Set();
+
+      function add(n) {
+        if (!n) return;
+
+        if (typeof n === "string") {
+          const links = extrairLinksDoTexto(n);
+          if (!links.length && n.startsWith("http")) {
+            links.push(n);
+          }
+          links.forEach(link => add({ titulo: link, fonte: "Link extraído", link }));
+          return;
+        }
+
+        const titulo = n.title || n.titulo || n.nome || "";
+        const link = n.link || n.url || n.fonte_url || "";
+        const imagem = n.image_url || n.imagem || "";
+        const fonte = n.source || n.fonte || "";
+
+        const chave = (link || titulo || imagem).trim();
+        if (!chave || vistos.has(chave)) return;
+
+        vistos.add(chave);
+
+        saida.push({
+          id: n.id || gerarIdSimples(chave),
+          title: titulo || link || imagem,
+          titulo: titulo || link || imagem,
+          source: fonte,
+          fonte,
+          link,
+          image_url: imagem,
+          imagem,
+          published: n.published || n.data || "",
+          data: n.data || n.published || "",
+          category: n.category || n.categoria || "",
+          categoria: n.categoria || n.category || "",
+          risco: n.risco || n.risco_imagem || "",
+          snippet: n.snippet || n.trecho || n.resumo || ""
+        });
+      }
+
+      normalizarArray(c.noticias).forEach(add);
+
+      normalizarArray(c.fontes).forEach(item => {
+        if (typeof item === "string") {
+          add({
+            titulo: item,
+            fonte: "Fonte salva",
+            link: item
+          });
+        } else {
+          add(item);
+        }
+      });
+
+      normalizarArray(c.imagens).forEach(item => {
+        if (typeof item === "string") {
+          add({
+            titulo: "Imagem salva",
+            fonte: "Imagem",
+            link: item,
+            imagem: item
+          });
+        } else {
+          add({
+            ...item,
+            imagem: item.imagem || item.image_url || item.url || item.link || ""
+          });
+        }
+      });
+
+      extrairLinksDoTexto(c.relatorio || "").forEach(link => {
+        add({
+          titulo: link,
+          fonte: "Link extraído do relatório",
+          link
+        });
+      });
+
+      return saida;
+    }
+
+    function normalizarArray(v) {
+      if (!v) return [];
+      if (Array.isArray(v)) return v;
+      return [v];
+    }
+
+    function extrairLinksDoTexto(txt) {
+      const texto = String(txt || "");
+      const re = /(https?:\/\/[^\s)>\]"']+)/g;
+      const encontrados = texto.match(re) || [];
+      return [...new Set(encontrados.map(l => l.replace(/[.,;]+$/g, "")))];
+    }
+
+    function gerarIdSimples(txt) {
+      return "id_" + String(txt || "")
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "_")
+        .slice(0, 80);
     }
 
     function normalizarRisco(risco) {
@@ -2271,50 +2524,104 @@ RELATÓRIO DE CLIPAGEM
       return { nome: "baixo", cls: "low" };
     }
 
-    function renderListaLinks(titulo, arr) {
-      const lista = Array.isArray(arr) ? arr.filter(Boolean) : [];
+    window.usarClipagemNoPainel = function(id) {
+      const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
+      if (!c) return alert("Clipagem não encontrada.");
 
-      if (!lista.length) return "";
+      const noticias = obterNoticiasOperacionaisDaClipagem(c);
 
-      return `
-        <div class="clipBlock">
-          <h4>${escapeHtml(titulo)}</h4>
-          <ul class="linkList">
-            ${lista.map(item => {
-              const txt = typeof item === "string" ? item : JSON.stringify(item);
-              return `<li>${escapeHtml(txt)}</li>`;
-            }).join("")}
-          </ul>
-        </div>
-      `;
-    }
+      if (!noticias.length) {
+        return alert("Esta clipagem não tem notícias, fontes ou links utilizáveis.");
+      }
 
-    function renderNoticiasClipagem(noticias) {
-      const lista = Array.isArray(noticias) ? noticias.filter(Boolean) : [];
+      const itens = noticias.map((n, idx) => ({
+        id: "clip_" + id + "_" + idx,
+        title: n.title || n.titulo || "Sem título",
+        source: n.source || n.fonte || "Fonte não identificada",
+        link: n.link || "",
+        resolved_link: n.resolved_link || "",
+        published: n.published || n.data || "",
+        published_raw: n.published_raw || "",
+        snippet: n.snippet || n.resumo || "",
+        term: "clipagem salva",
+        category: n.category || n.categoria || "clipagem salva",
+        image_url: n.image_url || n.imagem || "",
+        image_source: n.image_source || "",
+        collected_at: new Date().toISOString()
+      }));
 
-      if (!lista.length) return "";
+      window.ClippIA.noticiasRaw = itens;
+      window.ClippIA.noticias = itens;
+      window.ClippIA.ultimaLista = itens;
+      window.ClippIA.selecionadas = new Set(itens.map(n => n.id));
+      window.ClippIA.filtro = "todas";
 
-      return `
-        <div class="clipBlock">
-          <h4>Notícias registradas</h4>
-          <ul class="linkList">
-            ${lista.slice(0, 20).map(item => {
-              if (typeof item === "string") {
-                return `<li>${escapeHtml(item)}</li>`;
-              }
+      const busca = document.getElementById("busca");
+      if (busca) busca.value = "";
 
-              const titulo = item.titulo || item.title || "Sem título";
-              const fonte = item.fonte || item.source || "";
-              const link = item.link || "";
-              const risco = item.risco || "";
+      renderNoticias();
 
-              return `<li>${escapeHtml(titulo)} ${fonte ? "— " + escapeHtml(fonte) : ""} ${risco ? "— risco: " + escapeHtml(risco) : ""} ${link ? "— " + escapeHtml(link) : ""}</li>`;
-            }).join("")}
-          </ul>
-          ${lista.length > 20 ? `<div class="small">Mostrando 20 de ${lista.length} notícia(s).</div>` : ""}
-        </div>
-      `;
-    }
+      window.scrollTo({ top: 0, behavior: "smooth" });
+
+      alert(
+        "Notícias da clipagem carregadas no painel.\n\n" +
+        "Itens carregados: " + itens.length + "\n" +
+        "Agora você pode abrir fontes, exportar PDF ou gerar novo prompt."
+      );
+    };
+
+    window.copiarNoticiasDaClipagem = async function(id) {
+      const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
+      if (!c) return alert("Clipagem não encontrada.");
+
+      const noticias = obterNoticiasOperacionaisDaClipagem(c);
+
+      if (!noticias.length) {
+        return alert("Esta clipagem não tem notícias, fontes ou links utilizáveis.");
+      }
+
+      const texto = `Faça uma nova análise profissional da clipagem salva abaixo.
+
+TÍTULO DA CLIPAGEM:
+${c.titulo || ""}
+
+PERÍODO:
+${c.periodo || ""}
+
+RISCO:
+${c.risco || ""}
+
+RECOMENDAÇÃO:
+${c.recomendacao || ""}
+
+NOTÍCIAS / FONTES SALVAS:
+${noticias.map((n, idx) => `
+ITEM ${idx + 1}
+TÍTULO: ${n.title || n.titulo || ""}
+FONTE: ${n.source || n.fonte || ""}
+DATA: ${n.published || n.data || ""}
+LINK: ${n.link || ""}
+IMAGEM: ${n.image_url || n.imagem || ""}
+CATEGORIA: ${n.category || n.categoria || ""}
+RISCO: ${n.risco || ""}
+TRECHO: ${n.snippet || ""}
+`).join("\n")}
+
+REGRAS:
+- Confirme na web quando possível.
+- Não invente dados.
+- Separe fato confirmado, imprensa e não confirmado.
+- Gere alertas de risco, oportunidades, texto para postagem e recomendação final.`;
+
+      await navigator.clipboard.writeText(texto);
+
+      alert("Notícias da clipagem copiadas para usar no GPT.");
+    };
+
+    window.copiarTextoLivre = async function(txt) {
+      await navigator.clipboard.writeText(String(txt || ""));
+      alert("Copiado.");
+    };
 
     window.copiarRelatorio = async function(id) {
       const c = window.ClippIA.clipagens.find(x => x.id === id);
