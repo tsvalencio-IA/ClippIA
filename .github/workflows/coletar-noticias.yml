@@ -3,7 +3,6 @@ name: Coletar notícias Econoroeste
 on:
   workflow_dispatch:
   schedule:
-    # Roda a cada 6 horas em UTC. No Brasil, pode aparecer com 3h de diferença.
     - cron: "0 */6 * * *"
 
 permissions:
@@ -12,7 +11,6 @@ permissions:
 jobs:
   coletar:
     runs-on: ubuntu-latest
-
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
@@ -25,10 +23,10 @@ jobs:
       - name: Rodar coletor
         run: python scripts/coletar_noticias.py
 
-      - name: Salvar arquivo atualizado no GitHub
+      - name: Salvar JSON no GitHub
         run: |
           git config user.name "clippia-bot"
           git config user.email "clippia-bot@users.noreply.github.com"
           git add data/noticias.json
-          git diff --cached --quiet && echo "Sem mudanças para salvar" || git commit -m "Atualiza notícias da clipagem"
+          git diff --cached --quiet && echo "Sem mudanças" || git commit -m "Atualiza notícias ClippIA"
           git push
