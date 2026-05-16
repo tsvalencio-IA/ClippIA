@@ -206,7 +206,7 @@
 
     .actiongrid {
       display: grid;
-      grid-template-columns: 170px 1fr 1fr 1fr;
+      grid-template-columns: 170px repeat(5, 1fr);
       gap: 8px;
     }
 
@@ -612,7 +612,9 @@
             </select>
 
             <button onclick="carregarNoticias()">🔄 Pesquisar de novo</button>
-            <button onclick="copiarPromptGPTPorEscopo()">🤖 Copiar para GPT</button>
+            <button onclick="gerarPromptGPTPorEscopo()">🧠 Gerar prompt</button>
+            <button onclick="copiarPromptGPTPorEscopo()">📋 Copiar prompt</button>
+            <button onclick="copiarPromptEAbrirGPT()">🚀 Copiar e abrir GPT</button>
             <button class="ok" onclick="exportarPDFNoticias()">📄 Exportar PDF</button>
           </div>
 
@@ -1246,14 +1248,93 @@ TERMO: ${n.term || ""}`;
       alert("Notícia copiada.");
     };
 
-    window.copiarPromptGPTPorEscopo = async function() {
+    function gerarPacotePromptGPT() {
       const itens = obterNoticiasPorEscopo();
-      if (!itens.length) return;
 
+      if (!itens.length) {
+        return null;
+      }
+
+      const limite = Math.min(itens.length, 40);
       const prompt = montarPromptGPT(itens.slice(0, 40));
-      await navigator.clipboard.writeText(prompt);
 
-      alert("Prompt copiado com " + Math.min(itens.length, 40) + " notícia(s). Abra o GPT ClippIA e cole.");
+      return {
+        prompt,
+        total: limite
+      };
+    }
+
+    window.gerarPromptGPTPorEscopo = function() {
+      const pacote = gerarPacotePromptGPT();
+
+      if (!pacote) return;
+
+      const campoRelatorio = document.getElementById("relatorioGPT");
+      const campoTitulo = document.getElementById("tituloManual");
+
+      if (campoRelatorio) {
+        campoRelatorio.value = pacote.prompt;
+        campoRelatorio.focus();
+      }
+
+      if (campoTitulo && !campoTitulo.value.trim()) {
+        campoTitulo.value = "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
+      }
+
+      alert(
+        "Prompt gerado com " + pacote.total + " notícia(s).\n\n" +
+        "Ele foi colocado no campo de texto à direita. Agora você pode copiar ou abrir o GPT."
+      );
+    };
+
+    window.copiarPromptGPTPorEscopo = async function() {
+      const pacote = gerarPacotePromptGPT();
+
+      if (!pacote) return;
+
+      await navigator.clipboard.writeText(pacote.prompt);
+
+      alert("Prompt copiado com " + pacote.total + " notícia(s).");
+    };
+
+    window.copiarPromptEAbrirGPT = async function() {
+      const pacote = gerarPacotePromptGPT();
+
+      if (!pacote) return;
+
+      await navigator.clipboard.writeText(pacote.prompt);
+
+      abrirGPTClippIA();
+
+      alert(
+        "Prompt copiado com " + pacote.total + " notícia(s).\n\n" +
+        "Agora cole dentro do seu GPT ClippIA."
+      );
+    };
+
+    window.abrirGPTClippIA = function() {
+      let urlGPT = localStorage.getItem("clippia_gpt_url") || "";
+
+      if (!urlGPT) {
+        const informado = prompt(
+          "Cole aqui o link do seu GPT ClippIA.\n\n" +
+          "Exemplo:\n" +
+          "https://chatgpt.com/g/g-xxxxxxxx-clippia-econoroeste\n\n" +
+          "Se você ainda não tiver o link, deixe em branco para abrir a página de GPTs.",
+          ""
+        );
+
+        if (informado && informado.trim()) {
+          urlGPT = informado.trim();
+          localStorage.setItem("clippia_gpt_url", urlGPT);
+        }
+      }
+
+      if (!urlGPT) {
+        urlGPT = "https://chatgpt.com/gpts";
+      }
+
+      window.open(urlGPT, "_blank", "noopener,noreferrer");
     };
 
     function montarPromptGPT(itens) {
