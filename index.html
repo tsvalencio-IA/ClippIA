@@ -1,1463 +1,955 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>ClippIA Econoroeste</title>
-  <meta name="theme-color" content="#0f172a">
-
   <style>
     :root {
-      --bg: #f3f7fb;
-      --panel: #ffffff;
-      --card: #ffffff;
-      --text: #0f172a;
-      --muted: #64748b;
-      --line: rgba(15, 23, 42, .12);
-      --brand: #0369a1;
-      --brand2: #0ea5e9;
-      --brandText: #ffffff;
-      --ok: #16a34a;
-      --warn: #d97706;
-      --bad: #dc2626;
-      --soft: #eaf6ff;
-      --input: #ffffff;
-      --shadow: 0 18px 50px rgba(15,23,42,.10);
-      --radius: 22px;
-      --pre: #0f172a;
-      --preText: #e2e8f0;
-    }
-
-    [data-theme="dark"] {
-      --bg: #020617;
-      --panel: #0f172a;
-      --card: #111827;
-      --text: #f8fafc;
+      --bg: #0f172a;
+      --panel: #111827;
+      --card: #1f2937;
       --muted: #94a3b8;
-      --line: rgba(255,255,255,.13);
+      --text: #f8fafc;
+      --line: rgba(255,255,255,.12);
       --brand: #38bdf8;
-      --brand2: #0284c7;
-      --brandText: #00111c;
-      --soft: #0b1220;
-      --input: #020617;
-      --shadow: 0 18px 48px rgba(0,0,0,.35);
-      --pre: #020617;
-      --preText: #dbeafe;
+      --brand2: #0ea5e9;
+      --ok: #22c55e;
+      --warn: #f59e0b;
+      --bad: #ef4444;
+      --ink: #00111c;
     }
-
     * { box-sizing: border-box; }
-
-    html { scroll-behavior: smooth; }
-
     body {
       margin: 0;
-      background:
-        radial-gradient(circle at top left, rgba(14,165,233,.18), transparent 30%),
-        linear-gradient(180deg, var(--bg), var(--bg));
-      color: var(--text);
       font-family: Arial, Helvetica, sans-serif;
-      -webkit-tap-highlight-color: transparent;
+      background: linear-gradient(135deg, #0f172a, #020617);
+      color: var(--text);
     }
-
-    button, input, textarea, select {
-      font-family: inherit;
-    }
-
     header {
+      padding: 18px 14px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(15,23,42,.96);
       position: sticky;
       top: 0;
-      z-index: 50;
-      background: rgba(255,255,255,.90);
-      backdrop-filter: blur(14px);
-      border-bottom: 1px solid var(--line);
+      z-index: 20;
+      backdrop-filter: blur(8px);
     }
-
-    [data-theme="dark"] header {
-      background: rgba(2,6,23,.90);
-    }
-
-    .wrap {
-      max-width: 1180px;
-      margin: 0 auto;
-      padding: 0 14px;
-    }
-
-    .topbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
-      padding: 13px 0;
-    }
-
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 11px;
-      min-width: 0;
-    }
-
-    .logo {
-      width: 46px;
-      height: 46px;
-      border-radius: 16px;
-      background: linear-gradient(135deg, var(--brand), var(--brand2));
-      color: var(--brandText);
-      display: grid;
-      place-items: center;
-      font-size: 22px;
-      font-weight: 900;
-      box-shadow: 0 12px 28px rgba(2,132,199,.22);
-      flex: 0 0 auto;
-    }
-
-    .brand h1 {
-      margin: 0;
-      font-size: 20px;
-      letter-spacing: -.03em;
-      line-height: 1.05;
-    }
-
-    .brand p {
-      margin: 3px 0 0;
-      color: var(--muted);
-      font-size: 12px;
-      line-height: 1.3;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 680px;
-    }
-
-    .topActions {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex: 0 0 auto;
-    }
-
-    .iconBtn {
-      min-width: 42px;
-      height: 42px;
-      border-radius: 15px;
-      border: 1px solid var(--line);
-      background: var(--panel);
-      color: var(--text);
-      font-weight: 800;
-      cursor: pointer;
-    }
-
-    .userBadge {
-      display: flex;
-      align-items: center;
-      gap: 7px;
-      border: 1px solid var(--line);
-      background: var(--panel);
-      border-radius: 999px;
-      padding: 9px 12px;
-      font-size: 12px;
-      font-weight: 800;
-      color: var(--muted);
-      max-width: 260px;
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
-
-    .dot {
-      width: 9px;
-      height: 9px;
-      border-radius: 50%;
-      background: var(--warn);
-      flex: 0 0 auto;
-    }
-
-    .dot.ok {
-      background: var(--ok);
-    }
-
-    .tabs {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 8px;
-      padding: 0 0 12px;
-    }
-
-    .tabBtn {
-      border: 1px solid var(--line);
-      background: var(--panel);
-      color: var(--text);
-      border-radius: 999px;
-      padding: 10px 8px;
-      font-weight: 800;
-      cursor: pointer;
-      font-size: 13px;
-    }
-
-    .tabBtn.active {
-      background: var(--brand);
-      color: var(--brandText);
-      border-color: transparent;
-    }
-
-    main {
-      padding: 16px 0 90px;
-    }
-
-    .screen {
-      display: none;
-    }
-
-    .screen.active {
-      display: block;
-    }
-
-    .hero {
+    .wrap { max-width: 1180px; margin: auto; }
+    h1 { margin: 0; font-size: 22px; letter-spacing: -.3px; }
+    .subtitle { margin-top: 5px; color: var(--muted); font-size: 13px; line-height: 1.4; }
+    .grid {
       display: grid;
       grid-template-columns: 1.15fr .85fr;
       gap: 14px;
-      margin-bottom: 14px;
-    }
-
-    .heroMain {
-      border-radius: 28px;
-      padding: 22px;
-      background: linear-gradient(135deg, #075985, #0284c7 60%, #38bdf8);
-      color: #ffffff;
-      box-shadow: var(--shadow);
-      overflow: hidden;
-      position: relative;
-    }
-
-    .heroMain::after {
-      content: "";
-      position: absolute;
-      width: 260px;
-      height: 260px;
-      right: -90px;
-      top: -110px;
-      background: rgba(255,255,255,.14);
-      border-radius: 50%;
-    }
-
-    .heroMain h2 {
-      margin: 0;
-      font-size: clamp(25px, 4vw, 42px);
-      letter-spacing: -.055em;
-      line-height: 1.02;
-      position: relative;
-      z-index: 1;
-    }
-
-    .heroMain p {
-      margin: 12px 0 0;
-      color: rgba(255,255,255,.88);
-      font-size: 15px;
-      line-height: 1.48;
-      max-width: 760px;
-      position: relative;
-      z-index: 1;
-    }
-
-    .heroBtns {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 9px;
-      margin-top: 18px;
-      position: relative;
-      z-index: 1;
-    }
-
-    .box, .card {
-      background: var(--panel);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
       padding: 14px;
-      box-shadow: var(--shadow);
     }
-
-    .card {
-      background: var(--card);
-      margin: 10px 0;
-      box-shadow: none;
+    @media(max-width: 920px) {
+      .grid { grid-template-columns: 1fr; padding: 10px; }
+      header { position: static; }
     }
-
-    h2 {
-      margin: 0 0 10px;
-      font-size: 18px;
-      letter-spacing: -.02em;
-    }
-
-    h3 {
-      margin: 0 0 8px;
-      font-size: 16px;
-      line-height: 1.3;
-    }
-
-    .small {
-      color: var(--muted);
-      font-size: 12px;
-      line-height: 1.45;
-    }
-
-    .note {
-      background: var(--soft);
+    .box {
+      background: rgba(17, 24, 39, .94);
       border: 1px solid var(--line);
-      border-left: 4px solid var(--brand);
-      color: var(--text);
-      border-radius: 16px;
-      padding: 11px;
-      font-size: 13px;
-      line-height: 1.45;
-      margin: 10px 0;
+      border-radius: 18px;
+      padding: 14px;
+      box-shadow: 0 15px 35px rgba(0,0,0,.25);
     }
-
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 14px;
-    }
-
+    .box h2 { margin: 0 0 10px; font-size: 17px; }
+    .small { font-size: 12px; color: var(--muted); line-height: 1.45; }
+    .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    .stack { display: grid; gap: 8px; }
     input, textarea, select {
       width: 100%;
+      padding: 11px;
+      border-radius: 12px;
       border: 1px solid var(--line);
-      border-radius: 15px;
-      background: var(--input);
+      background: #020617;
       color: var(--text);
-      padding: 13px;
       outline: none;
-      font-size: 16px;
+      min-height: 42px;
     }
-
-    input:focus, textarea:focus, select:focus {
-      border-color: var(--brand);
-      box-shadow: 0 0 0 4px rgba(14,165,233,.12);
-    }
-
-    textarea {
-      min-height: 180px;
-      resize: vertical;
-      line-height: 1.45;
-    }
-
-    label {
-      display: block;
-      font-size: 12px;
-      font-weight: 900;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: .04em;
-      margin: 10px 0 6px;
-    }
-
-    .checkLine {
-      display: flex;
-      align-items: center;
-      gap: 9px;
-      margin: 10px 0;
-      color: var(--muted);
-      font-size: 13px;
-      line-height: 1.35;
-    }
-
-    .checkLine input {
-      width: 18px;
-      height: 18px;
-      padding: 0;
-    }
-
-    button, a.btn {
+    textarea { min-height: 160px; resize: vertical; }
+    button, .btn {
       border: 0;
-      border-radius: 15px;
-      padding: 12px 14px;
+      border-radius: 12px;
+      padding: 11px 13px;
       background: var(--brand);
-      color: var(--brandText);
-      font-weight: 900;
+      color: var(--ink);
+      font-weight: 800;
       cursor: pointer;
       text-decoration: none;
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 7px;
-      min-height: 44px;
-      font-size: 14px;
+      gap: 6px;
+      min-height: 42px;
+      white-space: nowrap;
     }
-
-    button.secondary, a.secondary {
-      background: #334155;
-      color: #f8fafc;
-    }
-
-    button.ok {
-      background: var(--ok);
-      color: #f0fdf4;
-    }
-
-    button.warn {
-      background: var(--warn);
-      color: #fff7ed;
-    }
-
-    button.bad {
-      background: var(--bad);
-      color: #fff1f2;
-    }
-
-    button.ghost {
-      background: transparent;
-      color: var(--text);
-      border: 1px solid var(--line);
-    }
-
-    .row {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .row > button,
-    .row > a.btn {
-      flex: 1 1 auto;
-    }
-
-    .stats {
+    button.secondary { background: #334155; color: var(--text); }
+    button.ghost { background: transparent; color: #bfdbfe; border: 1px solid var(--line); }
+    button.ok { background: var(--ok); color: #052e16; }
+    button.warn { background: var(--warn); color: #422006; }
+    button.bad { background: var(--bad); color: #450a0a; }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    .topbar {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 8px;
-      margin: 10px 0 14px;
-    }
-
-    .stat {
-      background: var(--soft);
+      grid-template-columns: 1fr;
+      gap: 9px;
+      background: rgba(2,6,23,.42);
       border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 11px;
-      min-height: 74px;
+      border-radius: 16px;
+      padding: 10px;
+      margin: 10px 0;
     }
-
-    .stat span {
-      color: var(--muted);
-      font-size: 12px;
-      font-weight: 800;
+    .actiongrid {
+      display: grid;
+      grid-template-columns: 170px 1fr 1fr 1fr;
+      gap: 8px;
     }
-
-    .stat strong {
-      display: block;
-      font-size: 23px;
-      margin-top: 3px;
-      letter-spacing: -.04em;
+    @media(max-width: 860px) { .actiongrid { grid-template-columns: 1fr; } }
+    .tabs { display: flex; gap: 7px; flex-wrap: wrap; margin: 10px 0; }
+    .tabs button { background: #1e293b; color: var(--text); min-height: 36px; padding: 8px 10px; }
+    .tabs button.active { background: var(--brand); color: var(--ink); }
+    .card {
+      background: rgba(31,41,55,.88);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 13px;
+      margin: 10px 0;
     }
-
-    .pill {
-      display: inline-flex;
+    .card.selected {
+      outline: 2px solid var(--brand);
+      background: rgba(14,165,233,.12);
+    }
+    .cardHead {
+      display: grid;
+      grid-template-columns: 32px 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+    .checkwrap {
+      display: flex;
       align-items: center;
-      gap: 5px;
+      justify-content: center;
+      width: 30px;
+      height: 30px;
+      border-radius: 10px;
+      background: #020617;
+      border: 1px solid var(--line);
+      margin-top: 2px;
+    }
+    .checkwrap input { width: 18px; min-height: 18px; height: 18px; accent-color: #38bdf8; }
+    .card h3 { margin: 0 0 7px; font-size: 16px; line-height: 1.3; }
+    .meta { color: var(--muted); font-size: 12px; line-height: 1.5; }
+    .pill {
+      display: inline-block;
       padding: 5px 8px;
       border-radius: 999px;
       font-size: 12px;
       margin: 3px 4px 3px 0;
-      background: #e2e8f0;
-      color: #0f172a;
-      font-weight: 800;
-    }
-
-    [data-theme="dark"] .pill {
       background: #334155;
       color: #e2e8f0;
     }
-
-    .pill.alto {
-      background: rgba(220,38,38,.18);
-      color: #ef4444;
-    }
-
-    .pill.medio {
-      background: rgba(217,119,6,.18);
-      color: #f59e0b;
-    }
-
-    .pill.baixo {
-      background: rgba(22,163,74,.18);
-      color: #22c55e;
-    }
-
+    .pill.high { background: rgba(239,68,68,.25); color: #fecaca; }
+    .pill.medium { background: rgba(245,158,11,.25); color: #fde68a; }
+    .pill.low { background: rgba(34,197,94,.20); color: #bbf7d0; }
+    .mutedlink { color: #93c5fd; word-break: break-all; }
+    .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+    @media(max-width: 700px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+    .stat { background: #020617; padding: 12px; border-radius: 14px; border: 1px solid var(--line); }
+    .stat strong { font-size: 22px; display: block; }
     .thumb {
       width: 100%;
-      max-height: 230px;
+      max-height: 220px;
       object-fit: cover;
-      border-radius: 18px;
+      border-radius: 14px;
       border: 1px solid var(--line);
-      background: var(--soft);
-      margin: 10px 0;
+      background: #020617;
+      margin: 8px 0;
     }
-
-    .imageEmpty {
-      border: 1px dashed var(--line);
-      border-radius: 18px;
-      background: var(--soft);
-      padding: 18px;
-      text-align: center;
-      color: var(--muted);
-      font-size: 13px;
-      margin: 10px 0;
+    .newsFooter {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      align-items: center;
+      border-top: 1px solid var(--line);
+      margin-top: 10px;
+      padding-top: 10px;
+      flex-wrap: wrap;
     }
-
-    .link {
-      color: var(--brand);
-      word-break: break-all;
-      font-weight: 800;
+    .compactAction {
+      display: inline-flex;
+      gap: 6px;
+      align-items: center;
+      color: #bfdbfe;
       font-size: 12px;
-      line-height: 1.35;
+      text-decoration: none;
     }
-
+    details.advanced {
+      border: 1px solid var(--line);
+      background: rgba(2,6,23,.35);
+      border-radius: 14px;
+      padding: 9px 10px;
+    }
+    details.advanced summary { cursor: pointer; color: #bfdbfe; font-weight: 700; }
+    .gallery { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    @media(max-width: 700px) { .gallery { grid-template-columns: 1fr; } }
+    .gallery a {
+      display: block;
+      background: #020617;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+      text-decoration: none;
+      color: var(--text);
+    }
+    .gallery img { width: 100%; height: 130px; object-fit: cover; display: block; background: #020617; }
+    .gallery span { display: block; padding: 7px; font-size: 11px; color: var(--muted); line-height: 1.35; }
+    .footer { text-align: center; padding: 22px 12px 35px; color: var(--muted); font-size: 13px; }
+    .dangerNote {
+      border-left: 4px solid var(--warn);
+      background: rgba(245,158,11,.09);
+      padding: 10px;
+      border-radius: 12px;
+      margin: 10px 0;
+      color: #fde68a;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .okNote {
+      border-left: 4px solid var(--brand);
+      background: rgba(56,189,248,.08);
+      padding: 10px;
+      border-radius: 12px;
+      margin: 10px 0;
+      color: #dbeafe;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .hidden { display: none !important; }
     pre {
       white-space: pre-wrap;
       word-break: break-word;
-      background: var(--pre);
-      color: var(--preText);
+      background: #020617;
       border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 12px;
-      max-height: 320px;
+      border-radius: 12px;
+      padding: 10px;
+      max-height: 280px;
       overflow: auto;
-      font-size: 12px;
-      line-height: 1.45;
+      color: #dbeafe;
     }
-
-    .empty {
-      border: 1px dashed var(--line);
-      background: var(--soft);
-      color: var(--muted);
-      border-radius: 18px;
-      padding: 18px;
-      text-align: center;
-      font-size: 13px;
-      line-height: 1.45;
-      margin: 10px 0;
-    }
-
-    .toast {
-      position: fixed;
-      left: 50%;
-      bottom: 18px;
-      transform: translateX(-50%) translateY(20px);
-      opacity: 0;
-      pointer-events: none;
-      background: #0f172a;
-      color: #ffffff;
-      padding: 13px 16px;
-      border-radius: 999px;
-      box-shadow: 0 16px 45px rgba(15,23,42,.28);
-      z-index: 99;
-      font-size: 14px;
-      font-weight: 900;
-      transition: .2s ease;
-    }
-
-    .toast.show {
-      opacity: 1;
-      transform: translateX(-50%) translateY(0);
-    }
-
-    .bottomBar {
-      position: fixed;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      z-index: 60;
-      background: rgba(255,255,255,.92);
-      backdrop-filter: blur(12px);
-      border-top: 1px solid var(--line);
-      padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
-      display: none;
-    }
-
-    [data-theme="dark"] .bottomBar {
-      background: rgba(2,6,23,.92);
-    }
-
-    .bottomBar .row {
-      max-width: 700px;
-      margin: auto;
-    }
-
-    .footer {
-      text-align: center;
-      color: var(--muted);
-      font-size: 12px;
-      padding: 24px 12px;
-    }
-
-    @media (max-width: 860px) {
-      .hero,
-      .grid {
-        grid-template-columns: 1fr;
-      }
-
-      .stats {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .brand p {
-        max-width: 420px;
-      }
-    }
-
-    @media (max-width: 620px) {
-      .wrap {
-        padding: 0 10px;
-      }
-
-      .topbar {
-        align-items: flex-start;
-      }
-
-      .logo {
-        width: 42px;
-        height: 42px;
-        border-radius: 15px;
-      }
-
-      .brand h1 {
-        font-size: 18px;
-      }
-
-      .brand p {
-        font-size: 11px;
-        white-space: normal;
-      }
-
-      .userBadge {
-        display: none;
-      }
-
-      .tabs {
-        gap: 6px;
-      }
-
-      .tabBtn {
-        font-size: 12px;
-        padding: 10px 6px;
-        white-space: nowrap;
-      }
-
-      .heroMain {
-        border-radius: 23px;
-        padding: 18px;
-      }
-
-      .heroBtns .btnHideMobile {
-        display: none;
-      }
-
-      .box {
-        border-radius: 19px;
-        padding: 12px;
-      }
-
-      .row > button,
-      .row > a.btn {
-        width: 100%;
-        flex: 1 1 100%;
-      }
-
-      .desktopOnly {
-        display: none !important;
-      }
-
-      .bottomBar {
-        display: block;
-      }
-
-      main {
-        padding-bottom: 112px;
-      }
+    .clipActions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    @media(max-width: 520px) { .clipActions { grid-template-columns: 1fr; } }
+    @media print {
+      header, .topbar, .tabs, aside, .footer, button, input, select, textarea, details { display: none !important; }
+      body { background: #fff; color: #000; }
+      .grid { display: block; padding: 0; }
+      .box, .card { box-shadow: none; border: 1px solid #ddd; background: #fff; color: #000; }
+      .small, .meta { color: #333; }
+      .mutedlink { color: #000; }
     }
   </style>
 </head>
-
 <body>
-<header>
-  <div class="wrap">
-    <div class="topbar">
-      <div class="brand">
-        <div class="logo">C</div>
-        <div>
-          <h1>ClippIA Econoroeste</h1>
-          <p>Clipagem com links, imagens, Free Flow, pedágio, obras e análise por GPT.</p>
-        </div>
-      </div>
-
-      <div class="topActions">
-        <div class="userBadge">
-          <span id="loginDot" class="dot"></span>
-          <span id="userBadgeText">Não logado</span>
-        </div>
-        <button class="iconBtn" onclick="alternarTema()" id="themeBtn" title="Alternar tema">🌙</button>
+  <header>
+    <div class="wrap">
+      <h1>ClippIA Econoroeste</h1>
+      <div class="subtitle">
+        Clipagem profissional para Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste / Free Flow, com seleção, relatório e exportação em PDF.
       </div>
     </div>
+  </header>
 
-    <nav class="tabs">
-      <button id="tabNoticias" class="tabBtn active" onclick="abrirTela('noticias')">📰 Notícias</button>
-      <button id="tabGpt" class="tabBtn" onclick="abrirTela('gpt')">🤖 GPT</button>
-      <button id="tabSalvar" class="tabBtn" onclick="abrirTela('salvar')">💾 Salvar</button>
-      <button id="tabClipagens" class="tabBtn" onclick="abrirTela('clipagens')">📁 Salvas</button>
-    </nav>
-  </div>
-</header>
+  <main class="wrap">
+    <div class="grid">
+      <section class="box">
+        <h2>1. Notícias coletadas</h2>
+        <div class="dangerNote">
+          Coleta pública de links, imagens e fontes. Antes de publicar, use o GPT para confirmar e revise o material humano/juridicamente.
+        </div>
 
-<main class="wrap">
+        <div class="stats">
+          <div class="stat"><span class="small">Notícias</span><strong id="statNoticias">0</strong></div>
+          <div class="stat"><span class="small">Fontes</span><strong id="statFontes">0</strong></div>
+          <div class="stat"><span class="small">Hoje</span><strong id="statHoje">0</strong></div>
+          <div class="stat"><span class="small">Selecionadas</span><strong id="statSelecionadas">0</strong></div>
+        </div>
 
-  <section id="screenNoticias" class="screen active">
-    <div class="hero">
-      <div class="heroMain">
-        <h2>Clipagem profissional sem complicação</h2>
-        <p>
-          Atualize as notícias, copie para o GPT, revise o relatório e salve tudo no Firebase Realtime Database.
+        <div class="topbar">
+          <div class="actiongrid">
+            <select id="escopoAcao" title="Escolha o que será usado nas ações">
+              <option value="selecionadas">Usar selecionadas</option>
+              <option value="filtradas">Usar todas filtradas</option>
+              <option value="todas">Usar todas do sistema</option>
+            </select>
+            <button onclick="carregarNoticias()">Atualizar notícias</button>
+            <button onclick="copiarPromptGPTPorEscopo()">Copiar para GPT</button>
+            <button class="ok" onclick="exportarPDFNoticias()">Exportar PDF</button>
+          </div>
+          <div class="row">
+            <button class="ghost" onclick="selecionarVisiveis()">Selecionar visíveis</button>
+            <button class="ghost" onclick="limparSelecao()">Limpar seleção</button>
+            <span class="small" id="infoEscopo">Selecione notícias nos cards ou altere o escopo acima.</span>
+          </div>
+          <details class="advanced">
+            <summary>Ações avançadas</summary>
+            <div style="height:8px"></div>
+            <div class="row">
+              <button class="secondary" onclick="verGaleriaImagens()">Ver galeria de imagens</button>
+              <button class="secondary" onclick="baixarBackup()">Baixar backup JSON</button>
+              <button class="secondary" onclick="exportarPDFClipagens()">Exportar PDF das clipagens salvas</button>
+            </div>
+          </details>
+        </div>
+
+        <input id="busca" placeholder="Filtrar por título, fonte, rodovia, free flow, pedágio..." oninput="renderNoticias()"/>
+
+        <div class="tabs">
+          <button class="active" id="tabTodas" onclick="setFiltro('todas')">Todas</button>
+          <button id="tabFreeFlow" onclick="setFiltro('freeflow')">Free Flow</button>
+          <button id="tabPedagio" onclick="setFiltro('pedagio')">Pedágio</button>
+          <button id="tabAcidente" onclick="setFiltro('acidente')">Acidente/risco</button>
+          <button id="tabObras" onclick="setFiltro('obras')">Obras/interdição</button>
+        </div>
+
+        <div id="listaNoticias"></div>
+      </section>
+
+      <aside class="box">
+        <h2>2. Firebase e login</h2>
+        <p class="small">
+          Sem Firebase, o painel salva localmente no navegador. Com Firebase configurado, salva as clipagens na nuvem.
         </p>
 
-        <div class="heroBtns">
-          <button onclick="carregarNoticias()">🔄 Atualizar notícias</button>
-          <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
-          <button class="secondary btnHideMobile" onclick="abrirTela('salvar')">🔐 Login / salvar</button>
-        </div>
-      </div>
+        <div id="firebaseStatus" class="dangerNote">Firebase ainda não conectado.</div>
 
-      <div class="box">
-        <h2>Resumo do painel</h2>
-        <div class="stats">
-          <div class="stat"><span>Notícias</span><strong id="statNoticias">0</strong></div>
-          <div class="stat"><span>Imagens</span><strong id="statImagens">0</strong></div>
-          <div class="stat"><span>Salvas</span><strong id="statClipagens">0</strong></div>
-          <div class="stat"><span>Login</span><strong id="statLogin">OFF</strong></div>
+        <div id="loginBox" class="stack">
+          <input id="email" placeholder="Seu e-mail" type="email"/>
+          <input id="senha" placeholder="Senha" type="password"/>
+          <div class="row">
+            <button onclick="login()">Entrar</button>
+            <button class="secondary" onclick="criarConta()">Criar conta</button>
+            <button class="secondary" onclick="logout()">Sair</button>
+          </div>
         </div>
 
-        <div class="note">
-          Primeiro rode o GitHub Action para atualizar o arquivo <b>data/noticias.json</b>. Depois clique em atualizar notícias.
+        <hr style="border-color:var(--line); margin:16px 0;">
+
+        <h2>3. Salvar análise do GPT</h2>
+        <p class="small">Cole aqui o relatório gerado pelo GPT para arquivar e acompanhar o status.</p>
+
+        <div class="stack">
+          <input id="tituloManual" placeholder="Título interno da clipagem"/>
+          <select id="riscoManual">
+            <option value="baixo">Risco baixo</option>
+            <option value="medio">Risco médio</option>
+            <option value="alto">Risco alto</option>
+          </select>
+          <textarea id="relatorioGPT" placeholder="Cole aqui o relatório completo gerado pelo GPT"></textarea>
+          <div class="row">
+            <button class="ok" onclick="salvarClipagem()">Salvar clipagem</button>
+            <button class="secondary" onclick="limparFormulario()">Limpar</button>
+          </div>
         </div>
-      </div>
+
+        <hr style="border-color:var(--line); margin:16px 0;">
+
+        <h2>4. Clipagens salvas</h2>
+        <div class="small" id="statClipagensTexto">0 clipagens salvas.</div>
+        <div id="listaClipagens"></div>
+      </aside>
     </div>
 
-    <div class="box">
-      <h2>Notícias coletadas</h2>
-
-      <div class="row desktopOnly">
-        <button onclick="carregarNoticias()">🔄 Atualizar notícias</button>
-        <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
-        <button class="secondary" onclick="copiarPrompt()">📋 Só copiar prompt</button>
-      </div>
-
-      <div style="height:10px"></div>
-
-      <input id="busca" placeholder="Filtrar por free flow, pedágio, acidente, obras, ARTESP..." oninput="renderNoticias()">
-
-      <div id="listaNoticias"></div>
+    <div class="footer">
+      Powered by thIAguinho Soluções Digitais
     </div>
-  </section>
+  </main>
 
-  <section id="screenGpt" class="screen">
-    <div class="box">
-      <h2>Enviar para o GPT</h2>
+  <script src="./firebase-config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
 
-      <div class="note">
-        Este botão copia o prompt completo e abre seu GPT ClippIA. Depois que o GPT gerar a clipagem, ele pode salvar pela Action ou você pode colar manualmente na tela Salvar.
-      </div>
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
+    import {
+      getFirestore, collection, addDoc, getDocs, doc, updateDoc, deleteDoc,
+      query, orderBy, serverTimestamp
+    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-firestore.js";
+    import {
+      getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,
+      signOut, onAuthStateChanged
+    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
 
-      <div class="row">
-        <button onclick="copiarEAbrirGPT()">🤖 Copiar e abrir GPT</button>
-        <button class="secondary" onclick="copiarPrompt()">📋 Só copiar prompt</button>
-        <button class="ghost" onclick="mostrarPrompt()">👁️ Ver prévia</button>
-      </div>
+    window.ClippIA = {
+      firebaseAtivo: false,
+      app: null,
+      db: null,
+      auth: null,
+      user: null,
+      noticias: [],
+      clipagens: [],
+      filtro: "todas",
+      selecionadas: new Set(),
+      ultimaLista: []
+    };
 
-      <div style="height:10px"></div>
+    const cfg = window.firebaseConfig || {};
+    const configurado = cfg && cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI");
 
-      <textarea id="promptPreview" readonly placeholder="Clique em 'Ver prévia' para visualizar o prompt que será enviado ao GPT."></textarea>
-    </div>
-  </section>
+    if (configurado) {
+      try {
+        window.ClippIA.app = initializeApp(cfg);
+        window.ClippIA.db = getFirestore(window.ClippIA.app);
+        window.ClippIA.auth = getAuth(window.ClippIA.app);
+        window.ClippIA.firebaseAtivo = true;
 
-  <section id="screenSalvar" class="screen">
-    <div class="grid">
-      <div class="box">
-        <h2>Login Firebase</h2>
-
-        <div id="statusFirebase" class="note">
-          Firebase ainda não conectado. Verifique se o arquivo firebase-config.js está no mesmo local do index.
-        </div>
-
-        <label for="email">E-mail</label>
-        <input id="email" placeholder="seuemail@exemplo.com" type="email" autocomplete="email">
-
-        <label for="senha">Senha</label>
-        <input id="senha" placeholder="Digite sua senha" type="password" autocomplete="current-password">
-
-        <label class="checkLine">
-          <input id="lembrarLogin" type="checkbox" checked>
-          <span>Lembrar meu login neste aparelho</span>
-        </label>
-
-        <div class="small">
-          Por segurança, o sistema não salva sua senha escrita. Ele mantém a sessão pelo Firebase e lembra apenas o e-mail.
-        </div>
-
-        <div style="height:10px"></div>
-
-        <div class="row">
-          <button onclick="login()">🔓 Entrar</button>
-          <button class="secondary" onclick="criarConta()">➕ Criar conta</button>
-          <button class="ghost" onclick="sair()">🚪 Sair</button>
-        </div>
-      </div>
-
-      <div class="box">
-        <h2>Salvar manualmente</h2>
-
-        <div class="note">
-          Use esta área quando o GPT gerar o relatório e você quiser salvar direto no Realtime Database.
-        </div>
-
-        <label for="tituloManual">Título da clipagem</label>
-        <input id="tituloManual" placeholder="Ex: Clipagem Free Flow de hoje">
-
-        <label for="riscoManual">Risco principal</label>
-        <select id="riscoManual">
-          <option value="baixo">🟢 Risco baixo</option>
-          <option value="medio">🟡 Risco médio</option>
-          <option value="alto">🔴 Risco alto</option>
-        </select>
-
-        <label for="relatorioManual">Relatório do GPT</label>
-        <textarea id="relatorioManual" placeholder="Cole aqui a resposta completa do GPT"></textarea>
-
-        <div style="height:8px"></div>
-
-        <button class="ok" onclick="salvarManual()">💾 Salvar clipagem</button>
-      </div>
-    </div>
-  </section>
-
-  <section id="screenClipagens" class="screen">
-    <div class="box">
-      <h2>Clipagens salvas</h2>
-
-      <div class="row">
-        <button onclick="abrirTela('noticias')" class="secondary">⬅️ Voltar para notícias</button>
-        <button onclick="renderClipagens()">🔄 Atualizar lista</button>
-      </div>
-
-      <div id="listaClipagens"></div>
-    </div>
-  </section>
-
-  <div class="footer">Powered by thIAguinho Soluções Digitais</div>
-</main>
-
-<div class="bottomBar">
-  <div class="row">
-    <button onclick="carregarNoticias()">🔄 Atualizar</button>
-    <button onclick="copiarEAbrirGPT()">🤖 Abrir GPT</button>
-  </div>
-</div>
-
-<div id="toast" class="toast">Pronto</div>
-
-<script src="./firebase-config.js"></script>
-
-<script type="module">
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-
-import {
-  getAuth,
-  createUserWithEmailAndPassword,
-  signInWithEmailAndPassword,
-  signOut,
-  onAuthStateChanged,
-  setPersistence,
-  browserLocalPersistence,
-  browserSessionPersistence
-} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
-
-import {
-  getDatabase,
-  ref,
-  push,
-  onValue,
-  update,
-  remove
-} from "https://www.gstatic.com/firebasejs/12.13.0/firebase-database.js";
-
-const GPT_URL = "https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste";
-
-window.appState = {
-  noticias: [],
-  clipagens: [],
-  app: null,
-  auth: null,
-  db: null,
-  user: null,
-  firebaseOk: false,
-  ouvindoClipagens: false
-};
-
-function toast(msg) {
-  const el = document.getElementById("toast");
-  el.textContent = msg;
-  el.classList.add("show");
-  setTimeout(() => el.classList.remove("show"), 2200);
-}
-
-function aplicarTemaInicial() {
-  const salvo = localStorage.getItem("clippia_theme");
-  const tema = salvo || "dark";
-  document.documentElement.setAttribute("data-theme", tema);
-  document.getElementById("themeBtn").textContent = tema === "dark" ? "☀️" : "🌙";
-}
-
-window.alternarTema = function() {
-  const atual = document.documentElement.getAttribute("data-theme") || "dark";
-  const novo = atual === "dark" ? "light" : "dark";
-  document.documentElement.setAttribute("data-theme", novo);
-  localStorage.setItem("clippia_theme", novo);
-  document.getElementById("themeBtn").textContent = novo === "dark" ? "☀️" : "🌙";
-};
-
-aplicarTemaInicial();
-
-function carregarLoginLembrado() {
-  const email = localStorage.getItem("clippia_email_lembrado") || "";
-  const lembrar = localStorage.getItem("clippia_lembrar_login");
-
-  if (email) {
-    document.getElementById("email").value = email;
-  }
-
-  document.getElementById("lembrarLogin").checked = lembrar !== "nao";
-}
-
-carregarLoginLembrado();
-
-window.abrirTela = function(nome) {
-  ["noticias", "gpt", "salvar", "clipagens"].forEach(t => {
-    document.getElementById("screen" + cap(t)).classList.remove("active");
-    document.getElementById("tab" + cap(t)).classList.remove("active");
-  });
-
-  document.getElementById("screen" + cap(nome)).classList.add("active");
-  document.getElementById("tab" + cap(nome)).classList.add("active");
-  window.scrollTo({ top: 0, behavior: "smooth" });
-};
-
-function cap(s) {
-  return s.charAt(0).toUpperCase() + s.slice(1);
-}
-
-function atualizarStatusLogin(user) {
-  const loginDot = document.getElementById("loginDot");
-  const userBadgeText = document.getElementById("userBadgeText");
-  const statLogin = document.getElementById("statLogin");
-
-  if (user) {
-    loginDot.classList.add("ok");
-    userBadgeText.textContent = user.email || "Logado";
-    statLogin.textContent = "ON";
-  } else {
-    loginDot.classList.remove("ok");
-    userBadgeText.textContent = "Não logado";
-    statLogin.textContent = "OFF";
-  }
-}
-
-function iniciarFirebase() {
-  const cfg = window.firebaseConfig || {};
-
-  if (!cfg.apiKey || String(cfg.apiKey).includes("COLE_AQUI")) {
-    document.getElementById("statusFirebase").innerHTML =
-      "Firebase não conectado. O index está correto, mas o arquivo <b>firebase-config.js</b> precisa estar configurado.";
-    atualizarStatusLogin(null);
-    carregarClipagensLocais();
-    return;
-  }
-
-  try {
-    window.appState.app = initializeApp(cfg);
-    window.appState.auth = getAuth(window.appState.app);
-    window.appState.db = getDatabase(window.appState.app);
-    window.appState.firebaseOk = true;
-
-    document.getElementById("statusFirebase").innerHTML =
-      "Firebase conectado. Faça login para salvar e ver clipagens na nuvem.";
-
-    onAuthStateChanged(window.appState.auth, (user) => {
-      window.appState.user = user || null;
-      atualizarStatusLogin(user);
-
-      if (user) {
-        document.getElementById("statusFirebase").innerHTML =
-          "Firebase conectado. Logado como <b>" + esc(user.email) + "</b>.";
-        ouvirClipagens();
-      } else {
-        document.getElementById("statusFirebase").innerHTML =
-          "Firebase conectado. Faça login para salvar no Realtime Database.";
-        carregarClipagensLocais();
+        onAuthStateChanged(window.ClippIA.auth, async (user) => {
+          window.ClippIA.user = user;
+          document.getElementById("firebaseStatus").innerHTML = user
+            ? "Firebase conectado. Logado como: <b>" + escapeHtml(user.email) + "</b>"
+            : "Firebase conectado. Faça login para salvar em nuvem.";
+          await carregarClipagens();
+        });
+      } catch (e) {
+        console.error(e);
+        document.getElementById("firebaseStatus").textContent = "Erro ao conectar Firebase. Verifique firebase-config.js.";
       }
+    }
+
+    window.login = async function() {
+      if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado. O painel salvará só localmente.");
+      const email = document.getElementById("email").value.trim();
+      const senha = document.getElementById("senha").value.trim();
+      if (!email || !senha) return alert("Preencha e-mail e senha.");
+      try { await signInWithEmailAndPassword(window.ClippIA.auth, email, senha); }
+      catch (e) { alert("Erro ao entrar: " + e.message); }
+    }
+
+    window.criarConta = async function() {
+      if (!window.ClippIA.firebaseAtivo) return alert("Firebase não configurado.");
+      const email = document.getElementById("email").value.trim();
+      const senha = document.getElementById("senha").value.trim();
+      if (!email || !senha) return alert("Preencha e-mail e senha.");
+      try { await createUserWithEmailAndPassword(window.ClippIA.auth, email, senha); }
+      catch (e) { alert("Erro ao criar conta: " + e.message); }
+    }
+
+    window.logout = async function() {
+      if (window.ClippIA.auth) await signOut(window.ClippIA.auth);
+    }
+
+    window.carregarNoticias = async function() {
+      try {
+        const res = await fetch("./data/noticias.json?cache=" + Date.now());
+        const data = await res.json();
+        window.ClippIA.noticias = Array.isArray(data.items) ? data.items : [];
+        limparSelecao(false);
+        renderNoticias();
+      } catch (e) {
+        console.error(e);
+        document.getElementById("listaNoticias").innerHTML = "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action ou suba o arquivo inicial.</div>";
+      }
+    }
+
+    window.setFiltro = function(filtro) {
+      window.ClippIA.filtro = filtro;
+      ["Todas","FreeFlow","Pedagio","Acidente","Obras"].forEach(x => {
+        const el = document.getElementById("tab"+x);
+        if (el) el.classList.remove("active");
+      });
+      const map = { todas:"Todas", freeflow:"FreeFlow", pedagio:"Pedagio", acidente:"Acidente", obras:"Obras" };
+      document.getElementById("tab"+map[filtro]).classList.add("active");
+      renderNoticias();
+    }
+
+    function textoBusca(n) {
+      return [
+        n.title, n.source, n.link, n.resolved_link, n.snippet, n.term, n.category, n.published, n.image_url, n.image_source
+      ].join(" ").toLowerCase();
+    }
+
+    function noticiasFiltradas() {
+      const termo = document.getElementById("busca").value.toLowerCase().trim();
+      let items = window.ClippIA.noticias || [];
+
+      if (termo) items = items.filter(n => textoBusca(n).includes(termo));
+
+      const filtro = window.ClippIA.filtro;
+      if (filtro !== "todas") {
+        items = items.filter(n => {
+          const t = textoBusca(n);
+          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("pedágio digital") || t.includes("pedagio digital") || t.includes("pórtico") || t.includes("portico");
+          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("pedagio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag") || t.includes("duf") || t.includes("cobrança");
+          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia") || t.includes("denuncia");
+          if (filtro === "obras") return t.includes("obra") || t.includes("interdição") || t.includes("interdicao") || t.includes("bloqueio") || t.includes("manutenção") || t.includes("manutencao");
+          return true;
+        });
+      }
+      return items;
+    }
+
+    window.renderNoticias = function() {
+      const lista = document.getElementById("listaNoticias");
+      const items = noticiasFiltradas();
+      window.ClippIA.ultimaLista = items;
+      renderStats();
+
+      if (!items.length) {
+        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada neste filtro.</div>";
+        return;
+      }
+
+      lista.innerHTML = items.map(n => {
+        const risco = classificarRiscoTexto(textoBusca(n));
+        const checked = window.ClippIA.selecionadas.has(n.id) ? "checked" : "";
+        const selected = checked ? " selected" : "";
+        return `
+          <div class="card${selected}" id="card_${escapeAttr(n.id)}">
+            <div class="cardHead">
+              <label class="checkwrap" title="Selecionar notícia">
+                <input type="checkbox" ${checked} onchange='toggleSelecionada(${JSON.stringify(n.id)}, this.checked)'>
+              </label>
+              <div>
+                <h3>${escapeHtml(n.title || "Sem título")}</h3>
+                <div class="meta">
+                  Fonte: <b>${escapeHtml(n.source || "Não identificada")}</b><br>
+                  Publicado: ${escapeHtml(formatarDataLeitura(n.published || n.published_raw || "sem data"))}<br>
+                  Termo: ${escapeHtml(n.term || "")}
+                </div>
+                <div>
+                  <span class="pill ${risco.cls}">Risco provável: ${risco.nome}</span>
+                  <span class="pill">${escapeHtml(n.category || "notícia")}</span>
+                  ${n.image_url ? `<span class="pill low">imagem</span>` : `<span class="pill">sem imagem</span>`}
+                </div>
+              </div>
+            </div>
+            ${n.image_url ? `<a href="${escapeAttr(n.image_url)}" target="_blank" rel="noopener"><img class="thumb" src="${escapeAttr(n.image_url)}" alt="Imagem da notícia" onerror="this.style.display='none'"></a>` : `<div class="small" style="margin-top:8px">Imagem: não encontrada automaticamente nesta fonte.</div>`}
+            <p class="small">${escapeHtml(n.snippet || "")}</p>
+            ${n.image_url ? `<div class="small">Imagem coletada de metadados públicos: ${escapeHtml(n.image_source || "fonte não identificada")}</div>` : ""}
+            <div class="newsFooter">
+              <a class="compactAction" href="${escapeAttr(n.link || "#")}" target="_blank" rel="noopener">Abrir fonte original</a>
+              <span class="small">Para usar no GPT/PDF, marque a caixa do card.</span>
+            </div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function renderStats() {
+      const fontes = new Set((window.ClippIA.noticias || []).map(n => n.source).filter(Boolean));
+      const hoje = new Date().toISOString().slice(0,10);
+      const hojeCount = (window.ClippIA.noticias || []).filter(n => String(n.collected_at || "").startsWith(hoje)).length;
+      document.getElementById("statNoticias").textContent = (window.ClippIA.noticias || []).length;
+      document.getElementById("statFontes").textContent = fontes.size;
+      document.getElementById("statHoje").textContent = hojeCount;
+      document.getElementById("statSelecionadas").textContent = window.ClippIA.selecionadas.size;
+      document.getElementById("statClipagensTexto").textContent = (window.ClippIA.clipagens || []).length + " clipagem(ns) salva(s).";
+      const escopo = document.getElementById("escopoAcao")?.value || "selecionadas";
+      const totalEscopo = escopo === "todas" ? (window.ClippIA.noticias || []).length : escopo === "filtradas" ? (window.ClippIA.ultimaLista || []).length : window.ClippIA.selecionadas.size;
+      const textoEscopo = escopo === "todas" ? "todas do sistema" : escopo === "filtradas" ? "todas filtradas" : "selecionadas";
+      document.getElementById("infoEscopo").textContent = "Escopo atual: " + textoEscopo + " (" + totalEscopo + ").";
+    }
+
+    document.addEventListener("change", (ev) => {
+      if (ev.target && ev.target.id === "escopoAcao") renderStats();
     });
 
-  } catch(e) {
-    window.appState.firebaseOk = false;
-    document.getElementById("statusFirebase").textContent = "Erro no Firebase: " + e.message;
-    atualizarStatusLogin(null);
-    carregarClipagensLocais();
-  }
-}
-
-window.login = async function() {
-  if (!window.appState.firebaseOk) {
-    toast("Configure o firebase-config.js primeiro.");
-    return;
-  }
-
-  const email = document.getElementById("email").value.trim();
-  const senha = document.getElementById("senha").value.trim();
-  const lembrar = document.getElementById("lembrarLogin").checked;
-
-  if (!email || !senha) {
-    toast("Preencha e-mail e senha.");
-    return;
-  }
-
-  try {
-    await setPersistence(
-      window.appState.auth,
-      lembrar ? browserLocalPersistence : browserSessionPersistence
-    );
-
-    await signInWithEmailAndPassword(window.appState.auth, email, senha);
-
-    if (lembrar) {
-      localStorage.setItem("clippia_email_lembrado", email);
-      localStorage.setItem("clippia_lembrar_login", "sim");
-    } else {
-      localStorage.removeItem("clippia_email_lembrado");
-      localStorage.setItem("clippia_lembrar_login", "nao");
+    window.toggleSelecionada = function(id, checked) {
+      if (checked) window.ClippIA.selecionadas.add(id);
+      else window.ClippIA.selecionadas.delete(id);
+      const card = document.getElementById("card_" + cssId(id));
+      if (card) card.classList.toggle("selected", checked);
+      renderStats();
     }
 
-    toast("Login realizado.");
-  } catch(e) {
-    toast("Erro ao entrar. Verifique e-mail e senha.");
-    alert("Erro ao entrar: " + e.message);
-  }
-};
-
-window.criarConta = async function() {
-  if (!window.appState.firebaseOk) {
-    toast("Configure o firebase-config.js primeiro.");
-    return;
-  }
-
-  const email = document.getElementById("email").value.trim();
-  const senha = document.getElementById("senha").value.trim();
-  const lembrar = document.getElementById("lembrarLogin").checked;
-
-  if (!email || !senha) {
-    toast("Preencha e-mail e senha.");
-    return;
-  }
-
-  if (senha.length < 6) {
-    toast("A senha precisa ter pelo menos 6 caracteres.");
-    return;
-  }
-
-  try {
-    await setPersistence(
-      window.appState.auth,
-      lembrar ? browserLocalPersistence : browserSessionPersistence
-    );
-
-    await createUserWithEmailAndPassword(window.appState.auth, email, senha);
-
-    if (lembrar) {
-      localStorage.setItem("clippia_email_lembrado", email);
-      localStorage.setItem("clippia_lembrar_login", "sim");
+    window.selecionarVisiveis = function() {
+      (window.ClippIA.ultimaLista || []).forEach(n => { if (n.id) window.ClippIA.selecionadas.add(n.id); });
+      renderNoticias();
     }
 
-    toast("Conta criada e login realizado.");
-  } catch(e) {
-    toast("Erro ao criar conta.");
-    alert("Erro ao criar conta: " + e.message);
-  }
-};
-
-window.sair = async function() {
-  if (window.appState.auth) {
-    await signOut(window.appState.auth);
-    toast("Você saiu do sistema.");
-  }
-};
-
-window.carregarNoticias = async function() {
-  const el = document.getElementById("listaNoticias");
-  el.innerHTML = "<div class='empty'>Carregando notícias...</div>";
-
-  try {
-    const r = await fetch("./data/noticias.json?cache=" + Date.now());
-
-    if (!r.ok) {
-      throw new Error("Arquivo data/noticias.json não encontrado.");
+    window.limparSelecao = function(render = true) {
+      window.ClippIA.selecionadas = new Set();
+      if (render) renderNoticias();
+      else renderStats();
     }
 
-    const j = await r.json();
-    window.appState.noticias = Array.isArray(j.items) ? j.items : [];
+    function obterNoticiasPorEscopo() {
+      const escopo = document.getElementById("escopoAcao").value;
+      let itens = [];
+      if (escopo === "todas") itens = window.ClippIA.noticias || [];
+      else if (escopo === "filtradas") itens = window.ClippIA.ultimaLista || [];
+      else itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(n.id));
+      if (!itens.length) {
+        alert("Nenhuma notícia no escopo escolhido. Selecione notícias ou mude o escopo para filtradas/todas.");
+      }
+      return itens;
+    }
 
-    renderNoticias();
-    toast("Notícias atualizadas.");
-  } catch(e) {
-    el.innerHTML =
-      "<div class='empty'>Não consegui carregar <b>data/noticias.json</b>.<br><br>Rode o GitHub Action ou confira se o arquivo existe.</div>";
-  }
-};
+    function classificarRiscoTexto(t) {
+      if (["morte","morre","ferido","acidente","denúncia","denuncia","processo","reclamação","reclamacao","cobrança indevida","cobranca indevida"].some(x => t.includes(x))) return {nome:"alto", cls:"high"};
+      if (["pedágio","pedagio","tarifa","reajuste","interdição","interdicao","bloqueio","free flow","freeflow","duf","cobrança","cobranca"].some(x => t.includes(x))) return {nome:"médio", cls:"medium"};
+      return {nome:"baixo", cls:"low"};
+    }
 
-function montarPrompt() {
-  const itens = window.appState.noticias.slice(0, 30).map((n, i) => `
-ITEM ${i + 1}
+    window.copiarPromptGPTPorEscopo = async function() {
+      const itens = obterNoticiasPorEscopo();
+      if (!itens.length) return;
+      const prompt = montarPromptGPT(itens.slice(0, 40));
+      await navigator.clipboard.writeText(prompt);
+      alert("Prompt copiado com " + Math.min(itens.length, 40) + " notícia(s). Abra o GPT ClippIA e cole.");
+    }
 
-TÍTULO:
-${n.title || ""}
+    function montarPromptGPT(itens) {
+      const dados = itens.map((n, i) => `
+ITEM ${i+1}
+TÍTULO: ${n.title || ""}
+FONTE: ${n.source || ""}
+DATA: ${formatarDataLeitura(n.published || n.published_raw || "")}
+LINK: ${n.link || ""}
+LINK RESOLVIDO: ${n.resolved_link || ""}
+IMAGEM COLETADA: ${n.image_url || "não encontrada automaticamente"}
+FONTE DA IMAGEM: ${n.image_source || ""}
+TRECHO: ${n.snippet || ""}
+CATEGORIA DO PAINEL: ${n.category || ""}
+TERMO ENCONTRADO: ${n.term || ""}
+`).join("\n");
 
-FONTE:
-${n.source || ""}
+      return `Faça uma clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste com os itens abaixo.
 
-DATA:
-${n.published || ""}
-
-LINK:
-${n.link || ""}
-
-IMAGEM:
-${n.image_url || "não encontrada"}
-
-TRECHO:
-${n.snippet || ""}
-
-TERMO:
-${n.term || ""}
-
-CATEGORIA PRÉVIA:
-${n.category || ""}
-`).join("\n-----------------------------\n");
-
-  return `Faça a clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste / Free Flow com os itens coletados abaixo.
-
-OBJETIVO:
-Gerar relatório verdadeiro, com links, fontes, imagens quando existirem, resumo factual, risco de imagem e texto profissional para postagem.
-
-REGRAS:
-- Pesquise na web para confirmar os pontos importantes.
-- Nunca invente fatos, fonte, data, imagem ou link.
+Regras obrigatórias:
+- Pesquise na web para confirmar as informações importantes.
+- Nunca invente fatos.
+- Traga fonte, data e link.
 - Separe fato confirmado, fato divulgado pela imprensa e informação não confirmada.
-- Trate Free Flow, pedágio eletrônico por câmeras, TAG, DUF, cobrança, tarifa, reajuste, acidente, morte, interdição, denúncia, reclamação e ARTESP com atenção especial.
-- Se tiver risco jurídico, reputacional ou informação sensível, recomende revisão humana.
-- Depois de gerar o relatório, salve no ClippIA usando a Action salvarClipagemNoClippIA, se a Action estiver disponível.
+- Dê atenção especial a Free Flow, pedágio inteligente por câmeras, tarifas, TAG, DUF, cobrança, obras, interdições, acidentes, reclamações, ARTESP e rodovias SP-310, SP-323, SP-326, SP-333, SP-351.
+- Classifique risco de imagem: baixo, médio ou alto.
+- Gere resumo factual.
+- Gere sugestão de postagem profissional, neutra e segura.
+- Se houver imagem, avalie se parece oficial, jornalística ou de divulgação, mas não afirme direito de uso sem confirmação.
+- Informe claramente o que precisa de revisão humana antes de publicar.
 
 ITENS COLETADOS PELO PAINEL:
-${itens}
+${dados}
 
-ENTREGUE:
+Entregue no formato:
+RELATÓRIO DE CLIPAGEM
 1. Resumo executivo
 2. Notícias encontradas
 3. Alertas de risco
 4. Oportunidades de postagem
-5. Texto profissional para postagem
-6. Hashtags sugeridas
+5. Texto pronto para postagem
+6. Hashtags
 7. Recomendação final`;
-}
+    }
 
-window.mostrarPrompt = function() {
-  const prompt = montarPrompt();
-  document.getElementById("promptPreview").value = prompt;
-};
+    window.exportarPDFNoticias = async function() {
+      const itens = obterNoticiasPorEscopo();
+      if (!itens.length) return;
+      await gerarPDFNoticias(itens, "noticias");
+    }
 
-window.copiarPrompt = async function() {
-  const prompt = montarPrompt();
-  await navigator.clipboard.writeText(prompt);
-  document.getElementById("promptPreview").value = prompt;
-  toast("Prompt copiado.");
-};
+    window.exportarPDFClipagens = async function() {
+      const arr = window.ClippIA.clipagens || [];
+      if (!arr.length) return alert("Nenhuma clipagem salva para exportar.");
+      await gerarPDFClipagens(arr);
+    }
 
-window.copiarEAbrirGPT = async function() {
-  const prompt = montarPrompt();
-  await navigator.clipboard.writeText(prompt);
-  window.open(GPT_URL, "_blank");
-  toast("Prompt copiado. GPT aberto.");
-};
+    async function gerarPDFNoticias(itens, tipo) {
+      const jspdf = window.jspdf;
+      if (!jspdf || !jspdf.jsPDF) {
+        return exportarViaImpressao(itens);
+      }
+      const { jsPDF } = jspdf;
+      const doc = new jsPDF({ unit: "pt", format: "a4" });
+      const margem = 42;
+      const largura = doc.internal.pageSize.getWidth() - margem * 2;
+      const altura = doc.internal.pageSize.getHeight();
+      let y = 46;
 
-window.renderNoticias = function() {
-  const q = document.getElementById("busca").value.toLowerCase().trim();
-  let arr = window.appState.noticias || [];
+      function addText(txt, size = 10, bold = false, gap = 4) {
+        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
+        const lineHeight = size + 4;
+        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
+        doc.setFont("helvetica", bold ? "bold" : "normal");
+        doc.setFontSize(size);
+        doc.text(linhas, margem, y);
+        y += linhas.length * lineHeight + gap;
+      }
+      function novaPagina() {
+        rodape();
+        doc.addPage();
+        y = 46;
+      }
+      function rodape() {
+        const p = doc.internal.getNumberOfPages();
+        doc.setFont("helvetica", "normal");
+        doc.setFontSize(8);
+        doc.setTextColor(110);
+        doc.text("Powered by thIAguinho Soluções Digitais", margem, altura - 24);
+        doc.text("Página " + p, doc.internal.pageSize.getWidth() - margem - 40, altura - 24);
+        doc.setTextColor(0);
+      }
 
-  if (q) {
-    arr = arr.filter(n => JSON.stringify(n).toLowerCase().includes(q));
-  }
+      addText("ClippIA Econoroeste - Relatório de notícias", 16, true, 8);
+      addText("Gerado em: " + new Date().toLocaleString("pt-BR"), 10, false, 2);
+      addText("Total de notícias exportadas: " + itens.length, 10, false, 10);
+      addText("Observação: relatório gerado a partir de links públicos coletados. Revise as fontes antes de publicar.", 9, false, 12);
 
-  document.getElementById("statNoticias").textContent = window.appState.noticias.length;
-  document.getElementById("statImagens").textContent = window.appState.noticias.filter(n => n.image_url).length;
-  document.getElementById("statClipagens").textContent = window.appState.clipagens.length;
+      itens.forEach((n, idx) => {
+        const risco = classificarRiscoTexto(textoBusca(n));
+        if (y > altura - 180) novaPagina();
+        addText((idx + 1) + ". " + (n.title || "Sem título"), 12, true, 6);
+        addText("Fonte: " + (n.source || "Não identificada"), 9);
+        addText("Data: " + formatarDataLeitura(n.published || n.published_raw || "sem data"), 9);
+        addText("Categoria: " + (n.category || "notícia") + " | Risco provável: " + risco.nome, 9);
+        addText("Link: " + (n.link || ""), 8);
+        if (n.resolved_link && n.resolved_link !== n.link) addText("Link resolvido: " + n.resolved_link, 8);
+        if (n.image_url) addText("Imagem: " + n.image_url, 8);
+        if (n.snippet) addText("Trecho: " + n.snippet, 9, false, 10);
+        y += 6;
+      });
+      rodape();
+      const data = new Date().toISOString().slice(0,10);
+      doc.save("clippia-econoroeste-noticias-" + data + ".pdf");
+    }
 
-  const el = document.getElementById("listaNoticias");
+    async function gerarPDFClipagens(arr) {
+      const jspdf = window.jspdf;
+      if (!jspdf || !jspdf.jsPDF) {
+        return exportarClipagensViaImpressao(arr);
+      }
+      const { jsPDF } = jspdf;
+      const doc = new jsPDF({ unit: "pt", format: "a4" });
+      const margem = 42;
+      const largura = doc.internal.pageSize.getWidth() - margem * 2;
+      const altura = doc.internal.pageSize.getHeight();
+      let y = 46;
+      function addText(txt, size = 10, bold = false, gap = 4) {
+        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
+        const lineHeight = size + 4;
+        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
+        doc.setFont("helvetica", bold ? "bold" : "normal");
+        doc.setFontSize(size);
+        doc.text(linhas, margem, y);
+        y += linhas.length * lineHeight + gap;
+      }
+      function novaPagina() { rodape(); doc.addPage(); y = 46; }
+      function rodape() {
+        const p = doc.internal.getNumberOfPages();
+        doc.setFont("helvetica", "normal");
+        doc.setFontSize(8);
+        doc.setTextColor(110);
+        doc.text("Powered by thIAguinho Soluções Digitais", margem, altura - 24);
+        doc.text("Página " + p, doc.internal.pageSize.getWidth() - margem - 40, altura - 24);
+        doc.setTextColor(0);
+      }
+      addText("ClippIA Econoroeste - Clipagens salvas", 16, true, 8);
+      addText("Gerado em: " + new Date().toLocaleString("pt-BR"), 10, false, 10);
+      arr.forEach((c, idx) => {
+        if (y > altura - 180) novaPagina();
+        addText((idx + 1) + ". " + (c.titulo || "Sem título"), 12, true, 4);
+        addText("Risco: " + (c.risco || "baixo") + " | Status: " + (c.status || "NOVO"), 9, false, 6);
+        addText(c.relatorio || "", 9, false, 12);
+      });
+      rodape();
+      const data = new Date().toISOString().slice(0,10);
+      doc.save("clippia-econoroeste-clipagens-" + data + ".pdf");
+    }
 
-  if (!arr.length) {
-    el.innerHTML = "<div class='empty'>Nenhuma notícia carregada. Clique em <b>Atualizar notícias</b>.</div>";
-    return;
-  }
+    function exportarViaImpressao(itens) {
+      const html = montarHTMLImpressaoNoticias(itens);
+      const w = window.open("", "_blank");
+      w.document.write(html);
+      w.document.close();
+      w.focus();
+      w.print();
+    }
 
-  el.innerHTML = arr.map(n => {
-    const risco = riscoProvavel(n);
-    const img = n.image_url
-      ? `<img class="thumb" src="${escAttr(n.image_url)}" alt="Imagem da notícia" onerror="this.outerHTML='<div class=&quot;imageEmpty&quot;>Imagem indisponível</div>'">`
-      : `<div class="imageEmpty">🖼️ Imagem não encontrada automaticamente</div>`;
+    function exportarClipagensViaImpressao(arr) {
+      const html = `<!doctype html><html><head><meta charset="utf-8"><title>Clipagens ClippIA</title><style>body{font-family:Arial;padding:24px;color:#111}h1{font-size:22px}.item{page-break-inside:avoid;border-bottom:1px solid #ddd;padding:14px 0}pre{white-space:pre-wrap;font-family:Arial}</style></head><body><h1>ClippIA Econoroeste - Clipagens salvas</h1><p>Gerado em ${new Date().toLocaleString("pt-BR")}</p>${arr.map((c,i)=>`<div class="item"><h2>${i+1}. ${escapeHtml(c.titulo||"")}</h2><p>Risco: ${escapeHtml(c.risco||"")} | Status: ${escapeHtml(c.status||"")}</p><pre>${escapeHtml(c.relatorio||"")}</pre></div>`).join("")}<p>Powered by thIAguinho Soluções Digitais</p></body></html>`;
+      const w = window.open("", "_blank");
+      w.document.write(html);
+      w.document.close();
+      w.focus();
+      w.print();
+    }
 
-    return `
-      <div class="card">
-        <h3>${esc(n.title || "Sem título")}</h3>
+    function montarHTMLImpressaoNoticias(itens) {
+      return `<!doctype html><html><head><meta charset="utf-8"><title>ClippIA PDF</title><style>body{font-family:Arial;padding:24px;color:#111}h1{font-size:22px}.item{page-break-inside:avoid;border-bottom:1px solid #ddd;padding:14px 0}img{max-width:100%;max-height:260px}a{color:#0645ad;word-break:break-all}.small{font-size:12px;color:#444}</style></head><body><h1>ClippIA Econoroeste - Relatório de notícias</h1><p>Gerado em ${new Date().toLocaleString("pt-BR")}</p><p>Total: ${itens.length}</p>${itens.map((n,i)=>`<div class="item"><h2>${i+1}. ${escapeHtml(n.title||"")}</h2><p><b>Fonte:</b> ${escapeHtml(n.source||"")}<br><b>Data:</b> ${escapeHtml(formatarDataLeitura(n.published||n.published_raw||""))}<br><b>Categoria:</b> ${escapeHtml(n.category||"")}</p>${n.image_url?`<img src="${escapeAttr(n.image_url)}"><p class="small">Imagem: ${escapeHtml(n.image_url)}</p>`:""}<p>${escapeHtml(n.snippet||"")}</p><p><b>Link:</b> <a href="${escapeAttr(n.link||"")}">${escapeHtml(n.link||"")}</a></p></div>`).join("")}<p>Powered by thIAguinho Soluções Digitais</p></body></html>`;
+    }
 
-        <span class="pill ${risco}">⚠️ Risco provável: ${risco}</span>
-        <span class="pill">🏷️ ${esc(n.category || "geral")}</span>
-        <span class="pill">🏢 ${esc(n.source || "fonte")}</span>
+    function limparTextoPDF(txt) {
+      return String(txt || "")
+        .replace(/[\u0000-\u001F\u007F]/g, " ")
+        .replace(/[–—]/g, "-")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
 
-        <div class="small" style="margin-top:6px;">
-          Data: ${esc(formatarData(n.published || ""))}<br>
-          Termo: ${esc(n.term || "")}
+    window.salvarClipagem = async function() {
+      const titulo = document.getElementById("tituloManual").value.trim() || "Clipagem sem título";
+      const risco = document.getElementById("riscoManual").value;
+      const relatorio = document.getElementById("relatorioGPT").value.trim();
+      if (!relatorio) return alert("Cole o relatório do GPT antes de salvar.");
+
+      const item = { titulo, risco, relatorio, status: "NOVO", createdAtLocal: new Date().toISOString() };
+
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        try {
+          await addDoc(collection(window.ClippIA.db, "clipagens"), {
+            ...item,
+            userEmail: window.ClippIA.user.email,
+            createdAt: serverTimestamp()
+          });
+          await carregarClipagens();
+          limparFormulario();
+          alert("Clipagem salva no Firebase.");
+          return;
+        } catch (e) {
+          alert("Erro no Firebase. Vou salvar localmente. Erro: " + e.message);
+        }
+      }
+
+      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+      item.id = "local_" + Date.now();
+      locais.unshift(item);
+      localStorage.setItem("clippia_clipagens", JSON.stringify(locais));
+      await carregarClipagens();
+      limparFormulario();
+      alert("Clipagem salva localmente no navegador.");
+    }
+
+    window.carregarClipagens = async function() {
+      let arr = [];
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        try {
+          const q = query(collection(window.ClippIA.db, "clipagens"), orderBy("createdAt", "desc"));
+          const snap = await getDocs(q);
+          snap.forEach(d => arr.push({ id: d.id, ...d.data() }));
+        } catch (e) { console.error(e); }
+      }
+      const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+      arr = [...arr, ...locais];
+      window.ClippIA.clipagens = arr;
+      renderClipagens();
+      renderStats();
+    }
+
+    window.renderClipagens = function() {
+      const el = document.getElementById("listaClipagens");
+      const arr = window.ClippIA.clipagens || [];
+      if (!arr.length) {
+        el.innerHTML = "<div class='card small'>Nenhuma clipagem salva ainda.</div>";
+        return;
+      }
+      el.innerHTML = arr.map(c => `
+        <div class="card">
+          <h3>${escapeHtml(c.titulo || "Sem título")}</h3>
+          <span class="pill ${c.risco === "alto" ? "high" : c.risco === "medio" ? "medium" : "low"}">Risco: ${escapeHtml(c.risco || "baixo")}</span>
+          <span class="pill">Status: ${escapeHtml(c.status || "NOVO")}</span>
+          <pre>${escapeHtml(c.relatorio || "")}</pre>
+          <div class="clipActions">
+            <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>Copiar relatório</button>
+            <select onchange='mudarStatus(${JSON.stringify(c.id)}, this.value)'>
+              <option value="NOVO" ${c.status === "NOVO" ? "selected" : ""}>Status: novo</option>
+              <option value="REVISAR" ${c.status === "REVISAR" ? "selected" : ""}>Status: revisar</option>
+              <option value="PUBLICADO" ${c.status === "PUBLICADO" ? "selected" : ""}>Status: publicado</option>
+            </select>
+            <button class="bad" onclick='apagarClipagem(${JSON.stringify(c.id)})'>Apagar</button>
+          </div>
         </div>
+      `).join("");
+    }
 
-        ${img}
+    window.copiarRelatorio = async function(id) {
+      const c = window.ClippIA.clipagens.find(x => x.id === id);
+      if (!c) return;
+      await navigator.clipboard.writeText(c.relatorio || "");
+      alert("Relatório copiado.");
+    }
 
-        <p class="small">${esc(n.snippet || "Sem trecho disponível. Abra o link original para conferir.")}</p>
+    window.mudarStatus = async function(id, status) {
+      if (!status) return;
+      if (String(id).startsWith("local_")) {
+        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+        const novo = locais.map(x => x.id === id ? {...x, status} : x);
+        localStorage.setItem("clippia_clipagens", JSON.stringify(novo));
+        await carregarClipagens();
+        return;
+      }
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        await updateDoc(doc(window.ClippIA.db, "clipagens", id), { status });
+        await carregarClipagens();
+      }
+    }
 
-        <a class="link" href="${escAttr(n.link || "#")}" target="_blank" rel="noopener">
-          🔗 Abrir fonte original
-        </a>
-      </div>
-    `;
-  }).join("");
-};
+    window.apagarClipagem = async function(id) {
+      if (!confirm("Apagar esta clipagem?")) return;
+      if (String(id).startsWith("local_")) {
+        const locais = JSON.parse(localStorage.getItem("clippia_clipagens") || "[]");
+        localStorage.setItem("clippia_clipagens", JSON.stringify(locais.filter(x => x.id !== id)));
+        await carregarClipagens();
+        return;
+      }
+      if (window.ClippIA.firebaseAtivo && window.ClippIA.user) {
+        await deleteDoc(doc(window.ClippIA.db, "clipagens", id));
+        await carregarClipagens();
+      }
+    }
 
-function riscoProvavel(n) {
-  const t = JSON.stringify(n || {}).toLowerCase();
+    window.limparFormulario = function() {
+      document.getElementById("tituloManual").value = "";
+      document.getElementById("riscoManual").value = "baixo";
+      document.getElementById("relatorioGPT").value = "";
+    }
 
-  if (["morte", "morre", "ferido", "acidente", "denúncia", "processo", "reclamação", "cobrança indevida", "multa"].some(x => t.includes(x))) {
-    return "alto";
-  }
+    window.verGaleriaImagens = function() {
+      const imagens = (window.ClippIA.noticias || []).filter(n => n.image_url);
+      const lista = document.getElementById("listaNoticias");
+      if (!imagens.length) {
+        lista.innerHTML = "<div class='card'>Nenhuma imagem foi encontrada automaticamente nos metadados das fontes coletadas. Isso pode acontecer quando o portal bloqueia robôs ou não publica og:image/twitter:image.</div>";
+        return;
+      }
+      lista.innerHTML = `
+        <div class="card">
+          <h3>Galeria de imagens coletadas</h3>
+          <p class="small">Imagens extraídas de metadados públicos das páginas. Antes de usar em postagem, confirme direito de uso, crédito e fonte original.</p>
+          <div class="gallery">
+            ${imagens.map(n => `
+              <a href="${escapeAttr(n.link || n.image_url)}" target="_blank" rel="noopener">
+                <img src="${escapeAttr(n.image_url)}" alt="Imagem coletada" onerror="this.style.display='none'">
+                <span>${escapeHtml(n.title || "Sem título")}<br>Fonte: ${escapeHtml(n.source || "")}<br>Imagem: ${escapeHtml(n.image_source || "")}</span>
+              </a>
+            `).join("")}
+          </div>
+        </div>
+      `;
+    }
 
-  if (["pedágio", "pedagio", "tarifa", "reajuste", "interdição", "interdicao", "bloqueio", "free flow", "freeflow", "duf", "tag", "cobrança", "cobranca"].some(x => t.includes(x))) {
-    return "medio";
-  }
+    window.baixarBackup = function() {
+      const data = { noticias: window.ClippIA.noticias, clipagens: window.ClippIA.clipagens, geradoEm: new Date().toISOString() };
+      const blob = new Blob([JSON.stringify(data, null, 2)], {type: "application/json"});
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "backup-clippia-econoroeste.json";
+      a.click();
+    }
 
-  return "baixo";
-}
+    function formatarDataLeitura(valor) {
+      if (!valor) return "sem data";
+      const d = new Date(valor);
+      if (!isNaN(d.getTime())) return d.toLocaleString("pt-BR");
+      return String(valor);
+    }
 
-function ouvirClipagens() {
-  if (!window.appState.firebaseOk || !window.appState.user) {
-    carregarClipagensLocais();
-    return;
-  }
+    function cssId(id) { return String(id || "").replace(/[^a-zA-Z0-9_-]/g, "_"); }
+    function escapeHtml(str) {
+      return String(str || "").replace(/[&<>"']/g, s => ({"&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"}[s]));
+    }
+    function escapeAttr(str) { return escapeHtml(str).replace(/`/g, "&#96;"); }
 
-  if (window.appState.ouvindoClipagens) {
-    return;
-  }
-
-  window.appState.ouvindoClipagens = true;
-
-  const r = ref(window.appState.db, "clipagens");
-
-  onValue(r, snap => {
-    const val = snap.val() || {};
-
-    window.appState.clipagens = Object.entries(val)
-      .map(([id, v]) => ({ id, ...v }))
-      .filter(c => {
-        if (!window.appState.user) return false;
-        if (!c.uid && !c.owner_uid && !c.salvo_por) return true;
-        return c.uid === window.appState.user.uid
-          || c.owner_uid === window.appState.user.uid
-          || c.salvo_por === window.appState.user.email;
-      })
-      .sort((a, b) => String(b.criado_em || "").localeCompare(String(a.criado_em || "")));
-
-    renderClipagens();
-    renderNoticias();
-  });
-}
-
-function carregarClipagensLocais() {
-  const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
-  window.appState.clipagens = Array.isArray(local) ? local : [];
-  renderClipagens();
-  renderNoticias();
-}
-
-function salvarLocal(item) {
-  const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
-  local.unshift({
-    ...item,
-    id: "local_" + Date.now()
-  });
-  localStorage.setItem("clippia_clipagens_locais", JSON.stringify(local));
-}
-
-window.salvarManual = async function() {
-  const item = {
-    origem: "painel_manual",
-    status: "NOVO",
-    titulo: document.getElementById("tituloManual").value.trim() || "Clipagem manual",
-    risco: document.getElementById("riscoManual").value,
-    relatorio: document.getElementById("relatorioManual").value.trim(),
-    criado_em: new Date().toISOString(),
-    atualizado_em: new Date().toISOString(),
-    salvo_por: window.appState.user ? window.appState.user.email : "local",
-    uid: window.appState.user ? window.appState.user.uid : "local"
-  };
-
-  if (!item.relatorio) {
-    toast("Cole o relatório do GPT.");
-    return;
-  }
-
-  if (window.appState.firebaseOk && window.appState.user) {
-    await push(ref(window.appState.db, "clipagens"), item);
-    toast("Salvo no Realtime Database.");
-  } else {
-    salvarLocal(item);
-    toast("Salvo localmente neste aparelho.");
-  }
-
-  document.getElementById("tituloManual").value = "";
-  document.getElementById("relatorioManual").value = "";
-
-  if (window.appState.user) {
-    ouvirClipagens();
-  } else {
-    carregarClipagensLocais();
-  }
-
-  abrirTela("clipagens");
-};
-
-window.mudarStatus = async function(id, status) {
-  if (String(id).startsWith("local_")) {
-    const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
-    const novo = local.map(c => c.id === id ? { ...c, status, atualizado_em: new Date().toISOString() } : c);
-    localStorage.setItem("clippia_clipagens_locais", JSON.stringify(novo));
-    carregarClipagensLocais();
-    toast("Status atualizado.");
-    return;
-  }
-
-  if (!window.appState.firebaseOk || !window.appState.user) {
-    toast("Faça login para atualizar.");
-    return;
-  }
-
-  await update(ref(window.appState.db, "clipagens/" + id), {
-    status,
-    atualizado_em: new Date().toISOString()
-  });
-
-  toast("Status atualizado.");
-};
-
-window.apagar = async function(id) {
-  if (!confirm("Apagar esta clipagem?")) return;
-
-  if (String(id).startsWith("local_")) {
-    const local = JSON.parse(localStorage.getItem("clippia_clipagens_locais") || "[]");
-    const novo = local.filter(c => c.id !== id);
-    localStorage.setItem("clippia_clipagens_locais", JSON.stringify(novo));
-    carregarClipagensLocais();
-    toast("Clipagem apagada.");
-    return;
-  }
-
-  if (!window.appState.firebaseOk || !window.appState.user) {
-    toast("Faça login para apagar.");
-    return;
-  }
-
-  await remove(ref(window.appState.db, "clipagens/" + id));
-  toast("Clipagem apagada.");
-};
-
-window.copiarRelatorio = async function(id) {
-  const c = window.appState.clipagens.find(x => x.id === id);
-  if (!c) return;
-
-  await navigator.clipboard.writeText(c.relatorio || c.resumo_executivo || c.texto_postagem || "");
-  toast("Relatório copiado.");
-};
-
-window.renderClipagens = function() {
-  const el = document.getElementById("listaClipagens");
-  const arr = window.appState.clipagens || [];
-
-  document.getElementById("statClipagens").textContent = arr.length;
-
-  if (!arr.length) {
-    el.innerHTML = "<div class='empty'>Nenhuma clipagem salva ainda.</div>";
-    return;
-  }
-
-  el.innerHTML = arr.map(c => `
-    <div class="card">
-      <h3>${esc(c.titulo || "Sem título")}</h3>
-
-      <span class="pill ${esc(c.risco || "medio")}">Risco: ${esc(c.risco || "medio")}</span>
-      <span class="pill">Status: ${esc(c.status || "NOVO")}</span>
-
-      <div class="small" style="margin-top:6px;">
-        Criado em: ${esc(formatarData(c.criado_em || ""))}<br>
-        Origem: ${esc(c.origem || "")}<br>
-        Salvo por: ${esc(c.salvo_por || "")}
-      </div>
-
-      <pre>${esc(c.relatorio || c.resumo_executivo || c.texto_postagem || "")}</pre>
-
-      <div class="row">
-        <button class="secondary" onclick="copiarRelatorio('${escAttr(c.id)}')">📋 Copiar</button>
-        <button class="ok" onclick="mudarStatus('${escAttr(c.id)}','PUBLICADO')">✅ Publicado</button>
-        <button class="warn" onclick="mudarStatus('${escAttr(c.id)}','REVISAR')">👀 Revisar</button>
-        <button class="bad" onclick="apagar('${escAttr(c.id)}')">🗑️ Apagar</button>
-      </div>
-    </div>
-  `).join("");
-};
-
-function formatarData(s) {
-  if (!s) return "";
-
-  try {
-    const d = new Date(s);
-    if (isNaN(d.getTime())) return s;
-    return d.toLocaleString("pt-BR");
-  } catch(e) {
-    return s;
-  }
-}
-
-function esc(s) {
-  return String(s || "").replace(/[&<>"']/g, m => ({
-    "&": "&amp;",
-    "<": "&lt;",
-    ">": "&gt;",
-    '"': "&quot;",
-    "'": "&#39;"
-  }[m]));
-}
-
-function escAttr(s) {
-  return esc(s).replace(/`/g, "&#96;");
-}
-
-iniciarFirebase();
-await carregarNoticias();
-</script>
+    await carregarNoticias();
+    await carregarClipagens();
+  </script>
 </body>
 </html>
