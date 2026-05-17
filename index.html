@@ -286,23 +286,23 @@
     </div>
   </header>
 
-  <section id="lockedPanel" class="locked hidden">
+  <section id="lockedPanel" class="locked">
     <div class="loginCard">
       <div class="loginIcon">🔐</div>
       <h2 style="margin:0 0 6px;">Acesso restrito</h2>
       <p class="small">Faça login para visualizar as reportagens, imagens, links e clipagens salvas.</p>
       <div id="lockStatus" class="dangerNote">Verificando Firebase...</div>
       <div class="stack">
-        <input id="loginEmail" placeholder="E-mail" type="email"/>
-        <input id="loginSenha" placeholder="Senha" type="password"/>
+        <input id="lockedLoginEmail" placeholder="E-mail" type="email"/>
+        <input id="lockedLoginSenha" placeholder="Senha" type="password"/>
         <button onclick="login()">🔓 Entrar</button>
         <button class="secondary" onclick="criarConta()">👤 Criar conta</button>
       </div>
-      <p class="small" style="margin-top:12px;">O painel abre mesmo sem login. Sem login, as clipagens ficam salvas localmente neste navegador.</p>
+      <p class="small" style="margin-top:12px;">O painel só libera notícias e clipagens após login válido no Firebase.</p>
     </div>
   </section>
 
-  <main id="appPanel" class="wrap">
+  <main id="appPanel" class="wrap hidden">
     <div class="grid">
       <section class="box">
         <h2>1. Notícias coletadas</h2>
@@ -367,9 +367,9 @@
       <aside class="box">
         <h2>2. Firebase e login</h2>
         <p class="small">
-          O painel funciona mesmo sem login. Sem login, salva localmente no navegador. Com Firebase/Auth válido, salva também na nuvem.
+          Acesso restrito: somente usuário logado consegue visualizar notícias, clipagens e relatórios. As clipagens ficam vinculadas ao usuário autenticado.
         </p>
-        <div id="firebaseStatus" class="okNote">Inicializando painel...</div>
+        <div id="firebaseStatus" class="okNote">Área protegida por login.</div>
         <div id="loginBox" class="stack">
           <input id="loginEmail" placeholder="E-mail" type="email"/>
           <input id="loginSenha" placeholder="Senha" type="password"/>
@@ -413,21 +413,16 @@
   </main>
 
   <script src="./firebase-config.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-database-compat.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
 
-  <script type="module">
-    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-app.js";
-    import {
-      getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,
-      signOut, onAuthStateChanged
-    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-auth.js";
-    import {
-      getDatabase, ref, push, set, get, update, remove, serverTimestamp
-    } from "https://www.gstatic.com/firebasejs/12.13.0/firebase-database.js";
+  <script>
+    "use strict";
 
-    const STORAGE_KEY = "clippia_econoroeste_clipagens_v2";
-    const cfg = window.firebaseConfig || {};
-    const configurado = cfg && cfg.apiKey && !String(cfg.apiKey).includes("COLE_AQUI");
+    const STORAGE_KEY = "clippia_econoroeste_clipagens_realtime_v3";
+    const CLIPAGENS_PATH = "clipagens";
 
     window.ClippIA = {
       firebaseAtivo: false,
@@ -441,121 +436,167 @@
       filtro: "todas",
       selecionadas: new Set(),
       clipagensSelecionadas: new Set(),
-      ultimaLista: []
+      ultimaLista: [],
+      iniciado: false
     };
 
-    iniciarPainel();
+    document.addEventListener("DOMContentLoaded", iniciarPainel);
 
     function iniciarPainel() {
-      liberarTela();
-      iniciarFirebaseOpcional();
-      carregarClipagensLocais();
-      carregarNoticias();
-      renderClipagens();
-      renderStats();
+      if (window.ClippIA.iniciado) return;
+      window.ClippIA.iniciado = true;
+      bloquearTela("Verificando Firebase e autenticação...");
+      renderStatsSeguro();
+      iniciarFirebaseObrigatorio();
     }
 
-    function iniciarFirebaseOpcional() {
+    function iniciarFirebaseObrigatorio() {
+      const cfg = window.firebaseConfig || {};
+      const configurado = cfg && cfg.apiKey && cfg.databaseURL && !String(cfg.apiKey).includes("COLE_AQUI");
+
       if (!configurado) {
-        atualizarStatusFirebase("Painel em modo local. Configure firebase-config.js para login e nuvem.", "dangerNote");
+        limparDadosProtegidos();
+        bloquearTela("Firebase Realtime Database não configurado. Configure firebase-config.js com apiKey, authDomain e databaseURL.");
+        return;
+      }
+
+      if (!window.firebase || !firebase.initializeApp || !firebase.auth || !firebase.database) {
+        limparDadosProtegidos();
+        bloquearTela("Firebase não carregou no navegador. Verifique a internet/CDN e recarregue a página.");
         return;
       }
 
       try {
-        window.ClippIA.app = initializeApp(cfg);
-        window.ClippIA.auth = getAuth(window.ClippIA.app);
-        window.ClippIA.rtdb = getDatabase(window.ClippIA.app);
+        if (!firebase.apps.length) {
+          window.ClippIA.app = firebase.initializeApp(cfg);
+        } else {
+          window.ClippIA.app = firebase.app();
+        }
+
+        window.ClippIA.auth = firebase.auth();
+        window.ClippIA.rtdb = firebase.database();
         window.ClippIA.firebaseAtivo = true;
         window.ClippIA.realtimeAtivo = true;
 
-        onAuthStateChanged(window.ClippIA.auth, async (user) => {
+        window.ClippIA.auth.onAuthStateChanged(async function(user) {
           window.ClippIA.user = user || null;
-          if (user) {
-            atualizarStatusFirebase("✅ Logado como: <b>" + escapeHtml(user.email || "usuário") + "</b>. Salvamento local + nuvem ativo.", "okNote", true);
-            await carregarClipagens();
-          } else {
-            atualizarStatusFirebase("Firebase conectado. Faça login para salvar também na nuvem. Sem login, o salvamento local continua funcionando.", "okNote");
-            carregarClipagensLocais();
-            renderClipagens();
-            renderStats();
+
+          if (!user) {
+            limparDadosProtegidos();
+            bloquearTela("Firebase conectado. Faça login para visualizar notícias, cards, KPIs e clipagens.");
+            return;
           }
+
+          liberarTela(user);
+          await carregarNoticias();
+          await carregarClipagens();
         });
       } catch (e) {
         console.error(e);
-        atualizarStatusFirebase("Erro ao iniciar Firebase. O painel continua funcionando em modo local.", "dangerNote");
+        limparDadosProtegidos();
+        bloquearTela("Erro ao iniciar Firebase Realtime Database: " + traduzirErroFirebase(e.message));
       }
     }
 
-    function liberarTela() {
+    function bloquearTela(msg) {
+      const locked = document.getElementById("lockedPanel");
+      const app = document.getElementById("appPanel");
+      if (locked) locked.classList.remove("hidden");
+      if (app) app.classList.add("hidden");
+      const status = document.getElementById("lockStatus");
+      if (status) status.textContent = msg || "Acesso bloqueado.";
+    }
+
+    function liberarTela(user) {
       const locked = document.getElementById("lockedPanel");
       const app = document.getElementById("appPanel");
       if (locked) locked.classList.add("hidden");
       if (app) app.classList.remove("hidden");
+      atualizarStatusFirebase("✅ Logado como: <b>" + escapeHtml(user.email || "usuário") + "</b>. Área protegida liberada.", "okNote", true);
     }
 
-    function atualizarStatusFirebase(msg, classe = "okNote", htmlSeguro = false) {
+    function limparDadosProtegidos() {
+      window.ClippIA.noticias = [];
+      window.ClippIA.clipagens = [];
+      window.ClippIA.selecionadas = new Set();
+      window.ClippIA.clipagensSelecionadas = new Set();
+      window.ClippIA.ultimaLista = [];
+      const lista = document.getElementById("listaNoticias");
+      if (lista) lista.innerHTML = "";
+      const clips = document.getElementById("listaClipagens");
+      if (clips) clips.innerHTML = "";
+      renderStatsSeguro();
+    }
+
+    function atualizarStatusFirebase(msg, classe, htmlSeguro) {
       const st = document.getElementById("firebaseStatus");
       if (!st) return;
-      st.className = classe;
+      st.className = classe || "okNote";
       if (htmlSeguro) st.innerHTML = msg;
       else st.textContent = msg;
     }
 
-    function caminhoUsuario() {
-      return "clipagens/" + (window.ClippIA.user ? window.ClippIA.user.uid : "local");
+    function storageKeyUsuario() {
+      return window.ClippIA.user ? STORAGE_KEY + "_" + window.ClippIA.user.uid : null;
     }
 
-    function carregarClipagensLocais() {
-      try {
-        const raw = localStorage.getItem(STORAGE_KEY);
-        const arr = raw ? JSON.parse(raw) : [];
-        window.ClippIA.clipagens = Array.isArray(arr) ? arr : [];
-      } catch {
-        window.ClippIA.clipagens = [];
+    function refClipagens(id) {
+      if (!window.ClippIA.rtdb) return null;
+      return id ? window.ClippIA.rtdb.ref(CLIPAGENS_PATH + "/" + id) : window.ClippIA.rtdb.ref(CLIPAGENS_PATH);
+    }
+
+    function exigirLogin() {
+      if (!window.ClippIA.user) {
+        bloquearTela("Faça login para acessar o ClippIA.");
+        alert("Faça login para usar esta função.");
+        return false;
       }
-      ordenarClipagens();
-    }
-
-    function salvarClipagensLocais() {
-      try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(window.ClippIA.clipagens || []));
-      } catch (e) {
-        console.error("Erro ao salvar localStorage", e);
-      }
-    }
-
-    function ordenarClipagens() {
-      window.ClippIA.clipagens.sort((a, b) => String(b.createdAtLocal || b.createdAt || "").localeCompare(String(a.createdAtLocal || a.createdAt || "")));
+      return true;
     }
 
     window.login = async function() {
-      if (!window.ClippIA.firebaseAtivo || !window.ClippIA.auth) {
-        return alert("Firebase não configurado. O painel continuará salvando localmente.");
-      }
-      const email = (document.getElementById("loginEmail") || document.getElementById("email"))?.value.trim();
-      const senha = (document.getElementById("loginSenha") || document.getElementById("senha"))?.value.trim();
+      const email = valorCampo(["loginEmail", "email"]);
+      const senha = valorCampo(["loginSenha", "senha"]);
+      if (!window.ClippIA.auth) return alert("Firebase Auth não iniciou. Verifique firebase-config.js e recarregue.");
       if (!email || !senha) return alert("Preencha e-mail e senha.");
-      try { await signInWithEmailAndPassword(window.ClippIA.auth, email, senha); }
-      catch (e) { alert("Erro ao entrar: " + traduzirErroFirebase(e.message)); }
+      try {
+        await window.ClippIA.auth.signInWithEmailAndPassword(email, senha);
+      } catch (e) {
+        alert("Erro ao entrar: " + traduzirErroFirebase(e.message));
+      }
     };
 
     window.criarConta = async function() {
-      if (!window.ClippIA.firebaseAtivo || !window.ClippIA.auth) return alert("Firebase não configurado.");
-      const email = (document.getElementById("loginEmail") || document.getElementById("email"))?.value.trim();
-      const senha = (document.getElementById("loginSenha") || document.getElementById("senha"))?.value.trim();
+      const email = valorCampo(["loginEmail", "email"]);
+      const senha = valorCampo(["loginSenha", "senha"]);
+      if (!window.ClippIA.auth) return alert("Firebase Auth não iniciou. Verifique firebase-config.js e recarregue.");
       if (!email || !senha) return alert("Preencha e-mail e senha.");
       if (senha.length < 6) return alert("A senha precisa ter pelo menos 6 caracteres.");
-      try { await createUserWithEmailAndPassword(window.ClippIA.auth, email, senha); }
-      catch (e) { alert("Erro ao criar conta: " + traduzirErroFirebase(e.message)); }
+      try {
+        await window.ClippIA.auth.createUserWithEmailAndPassword(email, senha);
+      } catch (e) {
+        alert("Erro ao criar conta: " + traduzirErroFirebase(e.message));
+      }
     };
 
     window.logout = async function() {
-      if (window.ClippIA.auth) await signOut(window.ClippIA.auth);
+      if (window.ClippIA.auth) await window.ClippIA.auth.signOut();
     };
 
+    function valorCampo(ids) {
+      for (const id of ids) {
+        const el = document.getElementById(id);
+        if (el && String(el.value || "").trim()) return String(el.value || "").trim();
+      }
+      return "";
+    }
+
     window.carregarNoticias = async function() {
+      if (!exigirLogin()) return;
+      const lista = document.getElementById("listaNoticias");
       try {
-        const res = await fetch("./data/noticias.json?cache=" + Date.now());
+        if (lista) lista.innerHTML = "<div class='card small'>Atualizando notícias...</div>";
+        const res = await fetch("./data/noticias.json?cache=" + Date.now(), { cache: "no-store" });
         if (!res.ok) throw new Error("Arquivo data/noticias.json não encontrado ou indisponível.");
         const data = await res.json();
         window.ClippIA.noticias = Array.isArray(data.items) ? data.items : [];
@@ -563,62 +604,43 @@
         renderNoticias();
       } catch (e) {
         console.error(e);
-        const lista = document.getElementById("listaNoticias");
-        if (lista) lista.innerHTML = "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action ou suba o arquivo inicial.</div>";
-        renderStats();
+        if (lista) lista.innerHTML = "<div class='card'>Não consegui carregar data/noticias.json. Rode a Action ou suba o arquivo inicial. Erro: " + escapeHtml(e.message) + "</div>";
+        renderStatsSeguro();
       }
     };
 
-    window.setFiltro = function(filtro) {
-      window.ClippIA.filtro = filtro;
-      ["Todas","FreeFlow","Pedagio","Acidente","Obras"].forEach(x => {
-        const el = document.getElementById("tab"+x);
-        if (el) el.classList.remove("active");
-      });
-      const map = { todas:"Todas", freeflow:"FreeFlow", pedagio:"Pedagio", acidente:"Acidente", obras:"Obras" };
-      const tab = document.getElementById("tab"+map[filtro]);
-      if (tab) tab.classList.add("active");
-      renderNoticias();
-    };
+    function dataItemMs(n) {
+      const valores = [n && n.published, n && n.published_raw, n && n.collected_at, n && n.created_at];
+      for (const v of valores) {
+        if (!v) continue;
+        const d = new Date(v);
+        if (!isNaN(d.getTime())) return d.getTime();
+      }
+      return 0;
+    }
+
+    function passaJanelaTempo(n) {
+      const el = document.getElementById("janelaTempo");
+      const janela = el ? el.value : "24h";
+      if (janela === "todas") return true;
+      const ms = dataItemMs(n);
+      if (!ms) return janela !== "24h";
+      const agora = Date.now();
+      const limite = janela === "7d" ? 7 * 24 * 60 * 60 * 1000 : 24 * 60 * 60 * 1000;
+      return (agora - ms) <= limite;
+    }
 
     function textoBusca(n) {
       return [
-        n.title, n.source, n.link, n.resolved_link, n.snippet, n.term, n.category,
-        n.published, n.published_raw, n.image_url, n.image_source
+        n && n.title, n && n.source, n && n.link, n && n.resolved_link, n && n.snippet,
+        n && n.term, n && n.category, n && n.published, n && n.image_url, n && n.image_source
       ].join(" ").toLowerCase();
     }
 
-    function parseData(valor) {
-      if (!valor) return null;
-      const d = new Date(valor);
-      return isNaN(d.getTime()) ? null : d;
-    }
-
-    function dentroDaJanela(n, janela) {
-      if (janela === "todas") return true;
-      const horas = janela === "7d" ? 24 * 7 : 24;
-      const agora = Date.now();
-      const limite = horas * 60 * 60 * 1000;
-      const publicada = parseData(n.published || n.published_raw);
-      const coletada = parseData(n.collected_at);
-
-      if (publicada && (agora - publicada.getTime()) <= limite) return true;
-
-      // Segurança operacional: enquanto o coletor antigo ainda tiver itens publicados fora da janela,
-      // mostra itens coletados na janela, mas o prompt/PDF deixa claro que a data publicada deve ser revisada.
-      if (coletada && (agora - coletada.getTime()) <= limite) return true;
-
-      return false;
-    }
-
-    function noticiasDaJanela(janela = "24h") {
-      return (window.ClippIA.noticias || []).filter(n => dentroDaJanela(n, janela));
-    }
-
     function noticiasFiltradas() {
-      const termo = (document.getElementById("busca")?.value || "").toLowerCase().trim();
-      const janela = document.getElementById("janelaTempo")?.value || "24h";
-      let items = noticiasDaJanela(janela);
+      const busca = document.getElementById("busca");
+      const termo = busca ? busca.value.toLowerCase().trim() : "";
+      let items = (window.ClippIA.noticias || []).filter(passaJanelaTempo);
 
       if (termo) items = items.filter(n => textoBusca(n).includes(termo));
 
@@ -626,45 +648,61 @@
       if (filtro !== "todas") {
         items = items.filter(n => {
           const t = textoBusca(n);
-          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("pedágio digital") || t.includes("pedagio digital") || t.includes("pedágio eletrônico") || t.includes("pedagio eletronico") || t.includes("sem cancela") || t.includes("pórtico") || t.includes("portico");
-          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("pedagio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag") || t.includes("duf") || t.includes("cobrança") || t.includes("cobranca") || t.includes("placa");
-          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia") || t.includes("denuncia");
+          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("sem cancela") || t.includes("pórtico") || t.includes("portico") || t.includes("pedágio digital") || t.includes("pedagio digital") || t.includes("pedágio inteligente") || t.includes("pedagio inteligente") || t.includes("pedágio eletrônico") || t.includes("pedagio eletronico");
+          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("pedagio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag") || t.includes("duf") || t.includes("cobrança") || t.includes("cobranca") || t.includes("placa") || t.includes("multa");
+          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("morre") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia") || t.includes("denuncia") || t.includes("reclamação") || t.includes("reclamacao");
           if (filtro === "obras") return t.includes("obra") || t.includes("interdição") || t.includes("interdicao") || t.includes("bloqueio") || t.includes("manutenção") || t.includes("manutencao");
           return true;
         });
       }
+      items.sort((a, b) => dataItemMs(b) - dataItemMs(a));
       return items;
     }
 
+    window.setFiltro = function(filtro) {
+      if (!exigirLogin()) return;
+      window.ClippIA.filtro = filtro;
+      ["Todas", "FreeFlow", "Pedagio", "Acidente", "Obras"].forEach(x => {
+        const el = document.getElementById("tab" + x);
+        if (el) el.classList.remove("active");
+      });
+      const map = { todas: "Todas", freeflow: "FreeFlow", pedagio: "Pedagio", acidente: "Acidente", obras: "Obras" };
+      const tab = document.getElementById("tab" + map[filtro]);
+      if (tab) tab.classList.add("active");
+      renderNoticias();
+    };
+
     window.renderNoticias = function() {
+      if (!window.ClippIA.user) return;
       const lista = document.getElementById("listaNoticias");
+      if (!lista) return;
       const items = noticiasFiltradas();
       window.ClippIA.ultimaLista = items;
-      renderStats();
+      renderStatsSeguro();
 
-      if (!lista) return;
       if (!items.length) {
         const janela = document.getElementById("janelaTempo")?.value || "24h";
-        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada no filtro/período atual (" + escapeHtml(janela) + "). Use “Gerar prompt” ou “Copiar e abrir GPT” para pesquisar do zero na web.</div>";
+        lista.innerHTML = "<div class='card'>Nenhuma notícia encontrada no filtro atual (" + escapeHtml(janela) + "). Use “Gerar prompt” ou rode a Action para pesquisar as últimas 24 horas.</div>";
         return;
       }
 
       lista.innerHTML = items.map(n => {
+        const id = n.id || gerarIdNoticia(n);
+        n.id = id;
         const risco = classificarRiscoTexto(textoBusca(n));
-        const checked = window.ClippIA.selecionadas.has(n.id) ? "checked" : "";
+        const checked = window.ClippIA.selecionadas.has(id) ? "checked" : "";
         const selected = checked ? " selected" : "";
         return `
-          <div class="card${selected}" id="card_${escapeAttr(cssId(n.id))}">
+          <div class="card${selected}" id="card_${escapeAttr(cssId(id))}">
             <div class="cardHead">
               <label class="checkwrap" title="Selecionar notícia">
-                <input type="checkbox" ${checked} onchange='toggleSelecionada(${JSON.stringify(n.id)}, this.checked)'>
+                <input type="checkbox" ${checked} onchange='toggleSelecionada(${JSON.stringify(id)}, this.checked)'>
               </label>
               <div>
                 <h3>${escapeHtml(n.title || "Sem título")}</h3>
                 <div class="meta">
                   Fonte: <b>${escapeHtml(n.source || "Não identificada")}</b><br>
                   Publicado: ${escapeHtml(formatarDataLeitura(n.published || n.published_raw || "sem data"))}<br>
-                  Coletado: ${escapeHtml(formatarDataLeitura(n.collected_at || ""))}<br>
                   Termo: ${escapeHtml(n.term || "")}
                 </div>
                 <div>
@@ -686,71 +724,75 @@
       }).join("");
     };
 
-    function renderStats() {
-      const noticias = window.ClippIA.noticias || [];
-      const listaAtual = window.ClippIA.ultimaLista || [];
-      const fontes = new Set(noticias.map(n => n.source).filter(Boolean));
-      const ultimas24 = noticias.filter(n => dentroDaJanela(n, "24h")).length;
+    function gerarIdNoticia(n) {
+      return "news_" + btoa(unescape(encodeURIComponent(String((n.title || "") + "|" + (n.link || ""))))).replace(/[^a-zA-Z0-9]/g, "").slice(0, 40);
+    }
 
-      setText("statNoticias", noticias.length);
+    function renderStatsSeguro() {
+      try { renderStats(); } catch (e) { console.warn(e); }
+    }
+
+    function renderStats() {
+      const todas = window.ClippIA.noticias || [];
+      const filtradasTempo = todas.filter(passaJanelaTempo);
+      const fontes = new Set(filtradasTempo.map(n => n.source).filter(Boolean));
+      const ultimas24 = todas.filter(n => {
+        const ms = dataItemMs(n);
+        return ms && (Date.now() - ms) <= 24 * 60 * 60 * 1000;
+      }).length;
+      setText("statNoticias", filtradasTempo.length);
       setText("statFontes", fontes.size);
       setText("statHoje", ultimas24);
       setText("statSelecionadas", window.ClippIA.selecionadas.size);
-      setText("statClipagensTexto", (window.ClippIA.clipagens || []).length + " clipagem(ns) salva(s). " + window.ClippIA.clipagensSelecionadas.size + " selecionada(s).");
+
+      const clipTexto = (window.ClippIA.clipagens || []).length + " clipagem(ns) salva(s)." + (window.ClippIA.clipagensSelecionadas.size ? " Selecionadas: " + window.ClippIA.clipagensSelecionadas.size + "." : "");
+      setText("statClipagensTexto", clipTexto);
 
       const escopo = document.getElementById("escopoAcao")?.value || "selecionadas";
-      const totalEscopo = escopo === "todas" ? noticias.length : escopo === "filtradas" ? listaAtual.length : window.ClippIA.selecionadas.size;
+      const totalEscopo = escopo === "todas" ? (window.ClippIA.noticias || []).length : escopo === "filtradas" ? (window.ClippIA.ultimaLista || []).length : window.ClippIA.selecionadas.size;
       const textoEscopo = escopo === "todas" ? "todas do sistema" : escopo === "filtradas" ? "todas filtradas" : "selecionadas";
-      setText("infoEscopo", "Escopo atual: " + textoEscopo + " (" + totalEscopo + "). Período: " + (document.getElementById("janelaTempo")?.value || "24h") + ".");
+      setText("infoEscopo", "Escopo atual: " + textoEscopo + " (" + totalEscopo + ").");
     }
 
-    function setText(id, valor) {
+    function setText(id, value) {
       const el = document.getElementById(id);
-      if (el) el.textContent = valor;
+      if (el) el.textContent = String(value);
     }
 
-    document.addEventListener("change", (ev) => {
-      if (ev.target && (ev.target.id === "escopoAcao" || ev.target.id === "janelaTempo")) renderStats();
+    document.addEventListener("change", function(ev) {
+      if (ev.target && ev.target.id === "escopoAcao") renderStatsSeguro();
+      if (ev.target && ev.target.id === "janelaTempo") renderNoticias();
     });
 
     window.toggleSelecionada = function(id, checked) {
+      if (!exigirLogin()) return;
       if (checked) window.ClippIA.selecionadas.add(id);
       else window.ClippIA.selecionadas.delete(id);
       const card = document.getElementById("card_" + cssId(id));
       if (card) card.classList.toggle("selected", checked);
-      renderStats();
-    };
-
-    window.toggleClipagemSelecionada = function(id, checked) {
-      if (checked) window.ClippIA.clipagensSelecionadas.add(id);
-      else window.ClippIA.clipagensSelecionadas.delete(id);
-      const card = document.getElementById("clip_" + cssId(id));
-      if (card) card.classList.toggle("selected", checked);
-      renderStats();
+      renderStatsSeguro();
     };
 
     window.selecionarVisiveis = function() {
+      if (!exigirLogin()) return;
       (window.ClippIA.ultimaLista || []).forEach(n => { if (n.id) window.ClippIA.selecionadas.add(n.id); });
       renderNoticias();
     };
 
-    window.limparSelecao = function(render = true) {
+    window.limparSelecao = function(render) {
       window.ClippIA.selecionadas = new Set();
-      if (render) renderNoticias();
-      else renderStats();
+      if (render === false) renderStatsSeguro();
+      else renderNoticias();
     };
 
-    function obterNoticiasPorEscopo(opcoes = {}) {
+    function obterNoticiasPorEscopo(opcoes) {
+      opcoes = opcoes || {};
       const escopo = document.getElementById("escopoAcao")?.value || "selecionadas";
       let itens = [];
-
       if (escopo === "todas") itens = window.ClippIA.noticias || [];
       else if (escopo === "filtradas") itens = window.ClippIA.ultimaLista || [];
       else itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(n.id));
-
-      if (!itens.length && !opcoes.silencioso) {
-        alert("Nenhuma notícia no escopo escolhido. Selecione notícias, mude para filtradas/todas, ou use o prompt de pesquisa do zero para o GPT.");
-      }
+      if (!itens.length && !opcoes.silencioso) alert("Nenhuma notícia no escopo escolhido. Selecione notícias ou mude para filtradas/todas.");
       return itens;
     }
 
@@ -760,96 +802,94 @@
       return { prompt: montarPromptGPT(itens.slice(0, 40)), total: Math.min(itens.length, 40), modo: "analise_itens" };
     }
 
+    window.gerarPromptGPTPorEscopo = function() {
+      if (!exigirLogin()) return;
+      const pacote = gerarPacotePromptGPT();
+      const campoRelatorio = document.getElementById("relatorioGPT");
+      const campoTitulo = document.getElementById("tituloManual");
+      if (campoRelatorio) {
+        campoRelatorio.value = pacote.prompt;
+        campoRelatorio.focus();
+      }
+      if (campoTitulo && !campoTitulo.value.trim()) {
+        campoTitulo.value = pacote.modo === "pesquisa_zero" ? "Prompt de pesquisa inicial — " + new Date().toLocaleString("pt-BR") : "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
+      }
+      alert(pacote.modo === "pesquisa_zero" ? "Prompt de PESQUISA DO ZERO gerado." : "Prompt gerado com " + pacote.total + " notícia(s).");
+    };
+
+    window.copiarPromptGPTPorEscopo = async function() {
+      if (!exigirLogin()) return;
+      const pacote = gerarPacotePromptGPT();
+      await copiarTexto(pacote.prompt);
+      alert(pacote.modo === "pesquisa_zero" ? "Prompt de PESQUISA DO ZERO copiado." : "Prompt copiado com " + pacote.total + " notícia(s).");
+    };
+
+    window.copiarPromptEAbrirGPT = async function() {
+      if (!exigirLogin()) return;
+      const pacote = gerarPacotePromptGPT();
+      await copiarTexto(pacote.prompt);
+      window.open("https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste", "_blank", "noopener,noreferrer");
+      alert("Prompt copiado. Cole dentro do GPT ClippIA.");
+    };
+
     function montarPromptPesquisaZero() {
       const agora = new Date().toLocaleString("pt-BR");
       return `Você é o ClippIA Econoroeste, agente profissional de clipagem, inteligência de mídia, reputação institucional e apoio à comunicação corporativa.
 
-Neste momento o painel está zerado, vazio ou sem notícias selecionadas.
-
-Sua tarefa agora é PESQUISAR DO ZERO NA WEB as notícias mais recentes das ÚLTIMAS 24 HORAS relacionadas à Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste, Ecovias Noroeste, Free Flow e pedágio inteligente/digital.
+Tarefa: PESQUISAR DO ZERO NA WEB as notícias, links e imagens públicas mais recentes sobre Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste, Ecovias Noroeste e Free Flow.
 
 DATA/HORA DA SOLICITAÇÃO:
 ${agora}
 
-PERÍODO OBRIGATÓRIO:
-- Prioridade absoluta: últimas 24 horas.
-- Se não houver notícia relevante nas últimas 24 horas, diga claramente que não encontrou material suficiente no período.
-- Não misture notícia antiga como se fosse de hoje.
+PERÍODO PRIORITÁRIO:
+- Pesquise primeiro as últimas 24 horas.
+- Se não houver material suficiente, amplie para os últimos 7 dias e avise claramente.
 
-TERMOS OBRIGATÓRIOS DE BUSCA:
+TERMOS OBRIGATÓRIOS:
 - "Ecovias Noroeste Paulista"
 - "EcoNoroeste"
 - "Econoroeste"
 - "Ecovias Noroeste"
-- "Ecovias Noroeste Paulista" "Free Flow"
 - "Free Flow" "Ecovias Noroeste"
 - "freeflow" "Ecovias Noroeste"
 - "pedágio inteligente" "Ecovias Noroeste"
 - "pedágio digital" "Ecovias Noroeste"
 - "pedágio eletrônico" "Ecovias Noroeste"
-- "pedágio sem cancela" "Ecovias Noroeste"
+- "sem cancela" "Ecovias Noroeste"
 - "pórtico" "Ecovias Noroeste"
 - "cobrança por placa" "Ecovias Noroeste"
-- "TAG" "Ecovias Noroeste"
-- "DUF" "Ecovias Noroeste"
-- "multa" "Ecovias Noroeste" "Free Flow"
-- "reclamação" "Ecovias Noroeste"
-- "ARTESP" "Ecovias Noroeste"
+- "Ecovias Noroeste Paulista" TAG
+- "Ecovias Noroeste Paulista" DUF
+- "Ecovias Noroeste Paulista" multa
+- "Ecovias Noroeste Paulista" reclamação
+- "Ecovias Noroeste Paulista" tarifa
+- "Ecovias Noroeste Paulista" reajuste
+- "Ecovias Noroeste Paulista" obras
+- "Ecovias Noroeste Paulista" interdição
+- "Ecovias Noroeste Paulista" acidente
+- "Ecovias Noroeste Paulista" ARTESP
 - "SP-310" "Ecovias Noroeste"
 - "SP-323" "Ecovias Noroeste"
 - "SP-326" "Ecovias Noroeste"
 - "SP-333" "Ecovias Noroeste"
 - "SP-351" "Ecovias Noroeste"
 
-FONTES PRIORITÁRIAS:
-1. Site oficial da Ecovias Noroeste Paulista.
-2. Site oficial do Free Flow da Ecovias Noroeste Paulista.
-3. ARTESP.
-4. EcoRodovias.
-5. Diário Oficial / órgãos públicos.
-6. Portais jornalísticos regionais.
-7. Portais nacionais, quando houver relevância.
-8. Redes sociais públicas somente como alerta, nunca como fato confirmado sem outra fonte.
-
-REGRAS ABSOLUTAS:
+REGRAS:
 1. Nunca invente fatos.
-2. Nunca diga que encontrou algo se não encontrou.
-3. Sempre informe fonte, data e link.
-4. Sempre diferencie fato confirmado, fato divulgado pela imprensa e informação não confirmada.
-5. Se a fonte for oficial, classifique como confiança alta.
-6. Se vier de imprensa regional, classifique conforme clareza, fonte e data.
-7. Se vier de rede social ou comentário, classifique como não confirmado.
-8. Em temas sensíveis, recomende revisão humana antes de publicar.
-9. Não use linguagem sensacionalista.
-10. Não acuse ninguém sem fonte confiável.
-11. Não publique informação de imagem como se tivesse direito de uso garantido.
-12. Quando houver imagem pública vinculada à notícia, informe o link da página original e diga se parece imagem oficial, jornalística ou apenas ilustrativa.
-13. Se não encontrar notícias relevantes, diga claramente que não encontrou material suficiente no período pesquisado.
+2. Sempre informe fonte, data e link.
+3. Diferencie fonte oficial, imprensa e informação não confirmada.
+4. Em temas sensíveis, recomende revisão humana.
+5. Não afirme direito de uso de imagens.
 
-FORMATO OBRIGATÓRIO DA RESPOSTA:
-
+FORMATO:
 # RELATÓRIO DE CLIPAGEM — ECONOROESTE
-
 Data da análise:
 Período pesquisado:
 Termos pesquisados:
 
 ## 1. Resumo executivo
 ## 2. Notícias encontradas
-Para cada notícia:
-- Título:
-- Fonte:
-- Data:
-- Link:
-- Imagem ou referência visual, se houver:
-- Categoria:
-- Nível de confiança:
-- Risco de imagem:
-- Resumo factual:
-- O que foi confirmado:
-- O que não foi confirmado:
-- Recomendação:
-
+Para cada item: título, fonte, data, link, imagem/referência visual, categoria, confiança, risco de imagem, resumo factual, confirmado/não confirmado, recomendação.
 ## 3. Alertas de risco
 ## 4. Oportunidades de postagem
 ## 5. Texto profissional para postagem
@@ -859,11 +899,10 @@ Para cada notícia:
 
     function montarPromptGPT(itens) {
       const dados = itens.map((n, i) => `
-ITEM ${i+1}
+ITEM ${i + 1}
 TÍTULO: ${n.title || ""}
 FONTE: ${n.source || ""}
-DATA PUBLICADA: ${formatarDataLeitura(n.published || n.published_raw || "")}
-DATA COLETADA: ${formatarDataLeitura(n.collected_at || "")}
+DATA: ${formatarDataLeitura(n.published || n.published_raw || "")}
 LINK: ${n.link || ""}
 LINK RESOLVIDO: ${n.resolved_link || ""}
 IMAGEM COLETADA: ${n.image_url || "não encontrada automaticamente"}
@@ -876,12 +915,11 @@ TERMO ENCONTRADO: ${n.term || ""}
       return `Faça uma clipagem profissional da Ecovias Noroeste Paulista / EcoNoroeste / Econoroeste com os itens abaixo.
 
 Regras obrigatórias:
-- Confirme na web as informações importantes.
-- Trabalhe como recorte das últimas 24 horas sempre que a data publicada permitir.
+- Pesquise na web para confirmar as informações importantes.
 - Nunca invente fatos.
 - Traga fonte, data e link.
 - Separe fato confirmado, fato divulgado pela imprensa e informação não confirmada.
-- Dê atenção especial a Free Flow, pedágio inteligente por câmeras, tarifas, TAG, DUF, cobrança por placa, obras, interdições, acidentes, reclamações, ARTESP e rodovias SP-310, SP-323, SP-326, SP-333, SP-351.
+- Dê atenção especial a Free Flow, pedágio inteligente por câmeras, tarifas, TAG, DUF, cobrança, obras, interdições, acidentes, reclamações, ARTESP e rodovias SP-310, SP-323, SP-326, SP-333, SP-351.
 - Classifique risco de imagem: baixo, médio ou alto.
 - Gere resumo factual.
 - Gere sugestão de postagem profissional, neutra e segura.
@@ -902,87 +940,30 @@ RELATÓRIO DE CLIPAGEM
 7. Recomendação final`;
     }
 
-    window.gerarPromptGPTPorEscopo = function() {
-      const pacote = gerarPacotePromptGPT();
-      const campoRelatorio = document.getElementById("relatorioGPT");
-      const campoTitulo = document.getElementById("tituloManual");
-      if (campoRelatorio) {
-        campoRelatorio.value = pacote.prompt;
-        campoRelatorio.focus();
-      }
-      if (campoTitulo && !campoTitulo.value.trim()) {
-        campoTitulo.value = pacote.modo === "pesquisa_zero"
-          ? "Prompt de pesquisa 24h — " + new Date().toLocaleString("pt-BR")
-          : "Prompt para análise GPT — " + new Date().toLocaleString("pt-BR");
-      }
-      alert(pacote.modo === "pesquisa_zero"
-        ? "Prompt de PESQUISA 24H gerado. Copie ou use ‘Copiar e abrir GPT’."
-        : "Prompt gerado com " + pacote.total + " notícia(s). Copie ou use ‘Copiar e abrir GPT’.");
-    };
-
-    window.copiarPromptGPTPorEscopo = async function() {
-      const pacote = gerarPacotePromptGPT();
-      await copiarTexto(pacote.prompt);
-      alert(pacote.modo === "pesquisa_zero"
-        ? "Prompt de PESQUISA 24H copiado. Abra o GPT ClippIA e cole."
-        : "Prompt copiado com " + pacote.total + " notícia(s). Abra o GPT ClippIA e cole.");
-    };
-
-    window.copiarPromptEAbrirGPT = async function() {
-      const pacote = gerarPacotePromptGPT();
-      await copiarTexto(pacote.prompt);
-      abrirGPTClippIA();
-      alert(pacote.modo === "pesquisa_zero"
-        ? "Prompt de PESQUISA 24H copiado. Agora cole dentro do GPT ClippIA."
-        : "Prompt copiado com " + pacote.total + " notícia(s). Agora cole dentro do GPT ClippIA.");
-    };
-
-    async function copiarTexto(txt) {
-      try {
-        await navigator.clipboard.writeText(txt);
-      } catch {
-        const ta = document.createElement("textarea");
-        ta.value = txt;
-        document.body.appendChild(ta);
-        ta.select();
-        document.execCommand("copy");
-        ta.remove();
-      }
-    }
-
-    function abrirGPTClippIA() {
-      window.open("https://chatgpt.com/g/g-6a07ca94c5888191a5d04ebec761be9d-clippia-econoroeste", "_blank", "noopener,noreferrer");
-    }
-
-    function classificarRiscoTexto(t) {
-      if (["morte","morre","ferido","acidente","denúncia","denuncia","processo","reclamação","reclamacao","cobrança indevida","cobranca indevida","multa"].some(x => t.includes(x))) return {nome:"alto", cls:"high"};
-      if (["pedágio","pedagio","tarifa","reajuste","interdição","interdicao","bloqueio","free flow","freeflow","duf","cobrança","cobranca","tag","placa"].some(x => t.includes(x))) return {nome:"médio", cls:"medium"};
-      return {nome:"baixo", cls:"low"};
-    }
-
     window.exportarPDFNoticias = async function() {
+      if (!exigirLogin()) return;
       const itens = obterNoticiasPorEscopo();
       if (!itens.length) return;
-      await gerarPDFNoticias(itens, "noticias");
+      await gerarPDFNoticias(itens);
     };
 
     window.exportarPDFClipagens = async function() {
-      const arr = obterClipagensSelecionadasOuTodas();
+      if (!exigirLogin()) return;
+      let arr = obterClipagensSelecionadas();
+      if (!arr.length) arr = window.ClippIA.clipagens || [];
       if (!arr.length) return alert("Nenhuma clipagem salva para exportar.");
       await gerarPDFClipagens(arr);
     };
 
     window.exportarClipagemUnica = async function(id) {
+      if (!exigirLogin()) return;
       const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
       if (!c) return alert("Clipagem não encontrada.");
-      await gerarPDFClipagens([c], "clipagem-unica");
+      await gerarPDFClipagens([c]);
     };
 
-    function obterClipagensSelecionadasOuTodas() {
-      const arr = window.ClippIA.clipagens || [];
-      const ids = window.ClippIA.clipagensSelecionadas;
-      if (ids && ids.size) return arr.filter(c => ids.has(c.id));
-      return arr;
+    function obterClipagensSelecionadas() {
+      return (window.ClippIA.clipagens || []).filter(c => window.ClippIA.clipagensSelecionadas.has(c.id));
     }
 
     async function gerarPDFNoticias(itens) {
@@ -994,53 +975,43 @@ RELATÓRIO DE CLIPAGEM
       const largura = doc.internal.pageSize.getWidth() - margem * 2;
       const altura = doc.internal.pageSize.getHeight();
       let y = 46;
-
-      function addText(txt, size = 10, bold = false, gap = 4) {
-        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
-        const lineHeight = size + 4;
-        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
-        doc.setFont("helvetica", bold ? "bold" : "normal");
-        doc.setFontSize(size);
-        doc.text(linhas, margem, y);
-        y += linhas.length * lineHeight + gap;
-      }
       function novaPagina() { rodape(); doc.addPage(); y = 46; }
       function rodape() {
         const p = doc.internal.getNumberOfPages();
-        doc.setFont("helvetica", "normal");
-        doc.setFontSize(8);
-        doc.setTextColor(110);
+        doc.setFont("helvetica", "normal"); doc.setFontSize(8); doc.setTextColor(110);
         doc.text("Powered by thIAguinho Soluções Digitais", margem, altura - 24);
         doc.text("Página " + p, doc.internal.pageSize.getWidth() - margem - 40, altura - 24);
         doc.setTextColor(0);
       }
-
+      function addText(txt, size, bold, gap) {
+        size = size || 10; gap = gap === undefined ? 4 : gap;
+        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
+        const lineHeight = size + 4;
+        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
+        doc.setFont("helvetica", bold ? "bold" : "normal"); doc.setFontSize(size); doc.text(linhas, margem, y);
+        y += linhas.length * lineHeight + gap;
+      }
       addText("ClippIA Econoroeste - Relatório de notícias", 16, true, 8);
       addText("Gerado em: " + new Date().toLocaleString("pt-BR"), 10, false, 2);
       addText("Total de notícias exportadas: " + itens.length, 10, false, 10);
-      addText("Observação: relatório gerado a partir de links públicos coletados. Revise fonte, data, imagem e direito de uso antes de publicar.", 9, false, 12);
-
+      addText("Observação: relatório gerado a partir de links públicos coletados. Revise as fontes antes de publicar.", 9, false, 12);
       itens.forEach((n, idx) => {
         const risco = classificarRiscoTexto(textoBusca(n));
         if (y > altura - 180) novaPagina();
         addText((idx + 1) + ". " + (n.title || "Sem título"), 12, true, 6);
         addText("Fonte: " + (n.source || "Não identificada"), 9);
         addText("Publicado: " + formatarDataLeitura(n.published || n.published_raw || "sem data"), 9);
-        addText("Coletado: " + formatarDataLeitura(n.collected_at || ""), 9);
         addText("Categoria: " + (n.category || "notícia") + " | Risco provável: " + risco.nome, 9);
         addText("Link: " + (n.link || ""), 8);
-        if (n.resolved_link && n.resolved_link !== n.link) addText("Link resolvido: " + n.resolved_link, 8);
         if (n.image_url) addText("Imagem: " + n.image_url, 8);
         if (n.snippet) addText("Trecho: " + n.snippet, 9, false, 10);
         y += 6;
       });
-
       rodape();
-      const data = new Date().toISOString().slice(0,10);
-      doc.save("clippia-econoroeste-noticias-" + data + ".pdf");
+      doc.save("clippia-econoroeste-noticias-" + new Date().toISOString().slice(0, 10) + ".pdf");
     }
 
-    async function gerarPDFClipagens(arr, tipo = "clipagens") {
+    async function gerarPDFClipagens(arr) {
       const jspdf = window.jspdf;
       if (!jspdf || !jspdf.jsPDF) return exportarClipagensViaImpressao(arr);
       const { jsPDF } = jspdf;
@@ -1049,60 +1020,47 @@ RELATÓRIO DE CLIPAGEM
       const largura = doc.internal.pageSize.getWidth() - margem * 2;
       const altura = doc.internal.pageSize.getHeight();
       let y = 46;
-
-      function addText(txt, size = 10, bold = false, gap = 4) {
-        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
-        const lineHeight = size + 4;
-        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
-        doc.setFont("helvetica", bold ? "bold" : "normal");
-        doc.setFontSize(size);
-        doc.text(linhas, margem, y);
-        y += linhas.length * lineHeight + gap;
-      }
       function novaPagina() { rodape(); doc.addPage(); y = 46; }
       function rodape() {
         const p = doc.internal.getNumberOfPages();
-        doc.setFont("helvetica", "normal");
-        doc.setFontSize(8);
-        doc.setTextColor(110);
+        doc.setFont("helvetica", "normal"); doc.setFontSize(8); doc.setTextColor(110);
         doc.text("Powered by thIAguinho Soluções Digitais", margem, altura - 24);
         doc.text("Página " + p, doc.internal.pageSize.getWidth() - margem - 40, altura - 24);
         doc.setTextColor(0);
       }
-
-      addText("ClippIA Econoroeste - Clipagens salvas", 16, true, 8);
+      function addText(txt, size, bold, gap) {
+        size = size || 10; gap = gap === undefined ? 4 : gap;
+        const linhas = doc.splitTextToSize(limparTextoPDF(txt), largura);
+        const lineHeight = size + 4;
+        if (y + linhas.length * lineHeight > altura - 54) novaPagina();
+        doc.setFont("helvetica", bold ? "bold" : "normal"); doc.setFontSize(size); doc.text(linhas, margem, y);
+        y += linhas.length * lineHeight + gap;
+      }
+      addText("ClippIA Econoroeste - Clipagens", 16, true, 8);
       addText("Gerado em: " + new Date().toLocaleString("pt-BR"), 10, false, 10);
       addText("Total exportado: " + arr.length, 10, false, 10);
-
       arr.forEach((c, idx) => {
         if (y > altura - 180) novaPagina();
         addText((idx + 1) + ". " + (c.titulo || "Sem título"), 12, true, 4);
         addText("Risco: " + (c.risco || "baixo") + " | Status: " + (c.status || "NOVO"), 9, false, 6);
-        addText("Criada em: " + formatarDataLeitura(c.createdAtLocal || c.createdAt || ""), 9, false, 8);
-        addText(c.relatorio || "", 9, false, 12);
+        addText(c.relatorio || c.resumo_executivo || c.texto_postagem || "", 9, false, 12);
       });
-
       rodape();
-      const data = new Date().toISOString().slice(0,10);
-      doc.save("clippia-econoroeste-" + tipo + "-" + data + ".pdf");
+      doc.save("clippia-econoroeste-clipagens-" + new Date().toISOString().slice(0, 10) + ".pdf");
     }
 
     function exportarViaImpressao(itens) {
       const html = montarHTMLImpressaoNoticias(itens);
       const w = window.open("", "_blank");
-      w.document.write(html);
-      w.document.close();
-      w.focus();
-      w.print();
+      if (!w) return alert("O navegador bloqueou a janela de impressão/PDF.");
+      w.document.write(html); w.document.close(); w.focus(); w.print();
     }
 
     function exportarClipagensViaImpressao(arr) {
-      const html = `<!doctype html><html><head><meta charset="utf-8"><title>Clipagens ClippIA</title><style>body{font-family:Arial;padding:24px;color:#111}h1{font-size:22px}.item{page-break-inside:avoid;border-bottom:1px solid #ddd;padding:14px 0}pre{white-space:pre-wrap;font-family:Arial}</style></head><body><h1>ClippIA Econoroeste - Clipagens salvas</h1><p>Gerado em ${new Date().toLocaleString("pt-BR")}</p><p>Total: ${arr.length}</p>${arr.map((c,i)=>`<div class="item"><h2>${i+1}. ${escapeHtml(c.titulo||"")}</h2><p>Risco: ${escapeHtml(c.risco||"")} | Status: ${escapeHtml(c.status||"")}</p><pre>${escapeHtml(c.relatorio||"")}</pre></div>`).join("")}<p>Powered by thIAguinho Soluções Digitais</p></body></html>`;
+      const html = `<!doctype html><html><head><meta charset="utf-8"><title>Clipagens ClippIA</title><style>body{font-family:Arial;padding:24px;color:#111}h1{font-size:22px}.item{page-break-inside:avoid;border-bottom:1px solid #ddd;padding:14px 0}pre{white-space:pre-wrap;font-family:Arial}</style></head><body><h1>ClippIA Econoroeste - Clipagens</h1><p>Gerado em ${new Date().toLocaleString("pt-BR")}</p><p>Total: ${arr.length}</p>${arr.map((c,i)=>`<div class="item"><h2>${i+1}. ${escapeHtml(c.titulo||"")}</h2><p>Risco: ${escapeHtml(c.risco||"")} | Status: ${escapeHtml(c.status||"")}</p><pre>${escapeHtml(c.relatorio || c.resumo_executivo || c.texto_postagem || "")}</pre></div>`).join("")}<p>Powered by thIAguinho Soluções Digitais</p></body></html>`;
       const w = window.open("", "_blank");
-      w.document.write(html);
-      w.document.close();
-      w.focus();
-      w.print();
+      if (!w) return alert("O navegador bloqueou a janela de impressão/PDF.");
+      w.document.write(html); w.document.close(); w.focus(); w.print();
     }
 
     function montarHTMLImpressaoNoticias(itens) {
@@ -1110,98 +1068,99 @@ RELATÓRIO DE CLIPAGEM
     }
 
     window.salvarClipagem = async function() {
-      const titulo = document.getElementById("tituloManual").value.trim() || "Clipagem sem título";
-      const risco = document.getElementById("riscoManual").value;
-      const relatorio = document.getElementById("relatorioGPT").value.trim();
+      if (!exigirLogin()) return;
+      const titulo = document.getElementById("tituloManual")?.value.trim() || "Clipagem sem título";
+      const risco = document.getElementById("riscoManual")?.value || "baixo";
+      const relatorio = document.getElementById("relatorioGPT")?.value.trim() || "";
       if (!relatorio) return alert("Cole o relatório do GPT antes de salvar.");
 
       const item = {
-        id: "clip_" + Date.now() + "_" + Math.random().toString(16).slice(2),
         titulo,
         risco,
         relatorio,
         status: "NOVO",
-        userUid: window.ClippIA.user?.uid || "local",
-        userEmail: window.ClippIA.user?.email || "",
-        origem: window.ClippIA.user ? "firebase_realtime" : "local",
-        createdAtLocal: new Date().toISOString()
+        origem: "painel_manual",
+        userUid: window.ClippIA.user.uid,
+        userEmail: window.ClippIA.user.email || "",
+        criado_em: new Date().toISOString(),
+        atualizado_em: new Date().toISOString()
       };
 
-      window.ClippIA.clipagens.unshift(item);
-      salvarClipagensLocais();
-      renderClipagens();
-      renderStats();
-
-      let salvoNuvem = false;
-      if (window.ClippIA.user && window.ClippIA.rtdb) {
-        try {
-          const novoRef = push(ref(window.ClippIA.rtdb, caminhoUsuario()));
-          const firebaseId = novoRef.key;
-          const itemFirebase = {
-            ...item,
-            id: firebaseId,
-            localId: item.id,
-            createdAt: serverTimestamp()
-          };
-          await set(novoRef, itemFirebase);
-          item.id = firebaseId;
-          item.origem = "firebase_realtime";
-          salvarClipagensLocais();
-          salvoNuvem = true;
-          await carregarClipagens();
-        } catch (e) {
-          console.error(e);
-          atualizarStatusFirebase("Não consegui salvar na nuvem agora. A clipagem ficou salva localmente. Erro: " + traduzirErroFirebase(e.message), "dangerNote");
-        }
+      try {
+        if (!window.ClippIA.rtdb) throw new Error("Realtime Database não iniciou.");
+        const novoRef = refClipagens().push();
+        item.id = novoRef.key;
+        await novoRef.set(item);
+        await carregarClipagens();
+        limparFormulario();
+        alert("Clipagem salva no Firebase Realtime Database.");
+      } catch (e) {
+        console.error(e);
+        item.id = "local_" + Date.now() + "_" + Math.random().toString(16).slice(2);
+        item.origem = "backup_local_pos_login";
+        window.ClippIA.clipagens.unshift(item);
+        salvarClipagensLocais();
+        renderClipagens();
+        renderStatsSeguro();
+        alert("Não consegui salvar na nuvem. Salvei backup local protegido por login neste aparelho. Erro: " + traduzirErroFirebase(e.message));
       }
-
-      limparFormulario();
-      alert(salvoNuvem ? "Clipagem salva localmente e no Firebase." : "Clipagem salva localmente neste navegador.");
     };
 
     window.carregarClipagens = async function() {
-      if (!window.ClippIA.user || !window.ClippIA.rtdb) {
-        carregarClipagensLocais();
-        renderClipagens();
-        renderStats();
-        return;
-      }
-
+      if (!exigirLogin()) return;
       try {
-        const snap = await get(ref(window.ClippIA.rtdb, caminhoUsuario()));
-        const val = snap.exists() ? snap.val() : {};
-        const nuvem = Object.entries(val || {}).map(([id, v]) => ({ id, ...(v || {}) }));
-        if (nuvem.length) {
-          window.ClippIA.clipagens = nuvem;
-          ordenarClipagens();
-          salvarClipagensLocais();
-        } else {
-          carregarClipagensLocais();
-        }
+        if (!window.ClippIA.rtdb) throw new Error("Realtime Database não iniciou.");
+        const snap = await refClipagens().once("value");
+        const val = snap.val() || {};
+        const arr = Object.entries(val).map(([id, v]) => ({ id, ...(v || {}) }));
+        window.ClippIA.clipagens = arr;
+        ordenarClipagens();
+        salvarClipagensLocais();
+        atualizarStatusFirebase("✅ Logado como: <b>" + escapeHtml(window.ClippIA.user.email || "usuário") + "</b>. Clipagens carregadas do Realtime Database.", "okNote", true);
       } catch (e) {
         console.error(e);
         carregarClipagensLocais();
-        atualizarStatusFirebase("Erro ao carregar nuvem. Mostrando clipagens locais. " + traduzirErroFirebase(e.message), "dangerNote");
+        atualizarStatusFirebase("Erro ao carregar Realtime Database. Mostrando backup local deste usuário. " + traduzirErroFirebase(e.message), "dangerNote");
       }
-
       renderClipagens();
-      renderStats();
+      renderStatsSeguro();
     };
+
+    function ordenarClipagens() {
+      window.ClippIA.clipagens.sort((a, b) => String(b.atualizado_em || b.criado_em || b.createdAtLocal || "").localeCompare(String(a.atualizado_em || a.criado_em || a.createdAtLocal || "")));
+    }
+
+    function salvarClipagensLocais() {
+      const key = storageKeyUsuario();
+      if (!key) return;
+      try { localStorage.setItem(key, JSON.stringify(window.ClippIA.clipagens || [])); } catch (e) { console.warn(e); }
+    }
+
+    function carregarClipagensLocais() {
+      const key = storageKeyUsuario();
+      if (!key) { window.ClippIA.clipagens = []; return; }
+      try {
+        const raw = localStorage.getItem(key);
+        window.ClippIA.clipagens = raw ? JSON.parse(raw) : [];
+      } catch (e) {
+        window.ClippIA.clipagens = [];
+      }
+      ordenarClipagens();
+    }
 
     window.renderClipagens = function() {
       const el = document.getElementById("listaClipagens");
       if (!el) return;
       const arr = window.ClippIA.clipagens || [];
       window.ClippIA.clipagensSelecionadas = new Set([...window.ClippIA.clipagensSelecionadas].filter(id => arr.some(c => c.id === id)));
-
       if (!arr.length) {
         el.innerHTML = "<div class='card small'>Nenhuma clipagem salva ainda.</div>";
         return;
       }
-
       el.innerHTML = arr.map(c => {
         const checked = window.ClippIA.clipagensSelecionadas.has(c.id) ? "checked" : "";
         const selected = checked ? " selected" : "";
+        const corpo = c.relatorio || c.resumo_executivo || c.texto_postagem || c.recomendacao || "";
         return `
           <div class="card${selected}" id="clip_${escapeAttr(cssId(c.id))}">
             <div class="cardHead">
@@ -1209,13 +1168,13 @@ RELATÓRIO DE CLIPAGEM
                 <input type="checkbox" ${checked} onchange='toggleClipagemSelecionada(${JSON.stringify(c.id)}, this.checked)'>
               </label>
               <div>
-                <h3>${escapeHtml(c.titulo || "Sem título")}</h3>
-                <span class="pill ${c.risco === "alto" ? "high" : c.risco === "medio" ? "medium" : "low"}">Risco: ${escapeHtml(c.risco || "baixo")}</span>
+                <h3>${escapeHtml(c.titulo || c.title || "Sem título")}</h3>
+                <span class="pill ${c.risco === "alto" ? "high" : c.risco === "medio" || c.risco === "médio" ? "medium" : "low"}">Risco: ${escapeHtml(c.risco || "baixo")}</span>
                 <span class="pill">Status: ${escapeHtml(c.status || "NOVO")}</span>
-                <span class="pill">${escapeHtml(c.origem || "local")}</span>
+                <span class="pill">${escapeHtml(c.origem || "firebase_realtime")}</span>
               </div>
             </div>
-            <pre>${escapeHtml(c.relatorio || "")}</pre>
+            <pre>${escapeHtml(corpo)}</pre>
             <div class="clipActions">
               <button class="secondary" onclick='copiarRelatorio(${JSON.stringify(c.id)})'>Copiar relatório</button>
               <button class="ok" onclick='exportarClipagemUnica(${JSON.stringify(c.id)})'>Exportar esta</button>
@@ -1231,56 +1190,66 @@ RELATÓRIO DE CLIPAGEM
       }).join("");
     };
 
+    window.toggleClipagemSelecionada = function(id, checked) {
+      if (!exigirLogin()) return;
+      if (checked) window.ClippIA.clipagensSelecionadas.add(id);
+      else window.ClippIA.clipagensSelecionadas.delete(id);
+      const card = document.getElementById("clip_" + cssId(id));
+      if (card) card.classList.toggle("selected", checked);
+      renderStatsSeguro();
+    };
+
     window.copiarRelatorio = async function(id) {
+      if (!exigirLogin()) return;
       const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
       if (!c) return;
-      await copiarTexto(c.relatorio || "");
+      await copiarTexto(c.relatorio || c.resumo_executivo || c.texto_postagem || "");
       alert("Relatório copiado.");
     };
 
     window.mudarStatus = async function(id, status) {
-      if (!status) return;
+      if (!exigirLogin()) return;
       const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
-      if (!c) return;
+      if (!c || !status) return;
       c.status = status;
+      c.atualizado_em = new Date().toISOString();
       salvarClipagensLocais();
       renderClipagens();
-      renderStats();
-
-      if (window.ClippIA.user && window.ClippIA.rtdb && c.origem === "firebase_realtime") {
-        try {
-          await update(ref(window.ClippIA.rtdb, caminhoUsuario() + "/" + id), { status });
-        } catch (e) {
-          alert("Status salvo localmente, mas não consegui atualizar a nuvem: " + traduzirErroFirebase(e.message));
-        }
+      renderStatsSeguro();
+      try {
+        if (window.ClippIA.rtdb && id && !String(id).startsWith("local_")) await refClipagens(id).update({ status, atualizado_em: c.atualizado_em });
+      } catch (e) {
+        alert("Status alterado na tela, mas não consegui atualizar a nuvem: " + traduzirErroFirebase(e.message));
       }
     };
 
     window.apagarClipagem = async function(id) {
+      if (!exigirLogin()) return;
       if (!confirm("Apagar esta clipagem?")) return;
-      const c = (window.ClippIA.clipagens || []).find(x => x.id === id);
-      window.ClippIA.clipagens = (window.ClippIA.clipagens || []).filter(x => x.id !== id);
+      const old = window.ClippIA.clipagens || [];
+      window.ClippIA.clipagens = old.filter(x => x.id !== id);
       window.ClippIA.clipagensSelecionadas.delete(id);
       salvarClipagensLocais();
       renderClipagens();
-      renderStats();
-
-      if (window.ClippIA.user && window.ClippIA.rtdb && c && c.origem === "firebase_realtime") {
-        try {
-          await remove(ref(window.ClippIA.rtdb, caminhoUsuario() + "/" + id));
-        } catch (e) {
-          alert("Clipagem apagada localmente, mas não consegui apagar da nuvem: " + traduzirErroFirebase(e.message));
-        }
+      renderStatsSeguro();
+      try {
+        if (window.ClippIA.rtdb && id && !String(id).startsWith("local_")) await refClipagens(id).remove();
+      } catch (e) {
+        alert("Apaguei da tela/local, mas não consegui apagar da nuvem: " + traduzirErroFirebase(e.message));
       }
     };
 
     window.limparFormulario = function() {
-      document.getElementById("tituloManual").value = "";
-      document.getElementById("riscoManual").value = "baixo";
-      document.getElementById("relatorioGPT").value = "";
+      const titulo = document.getElementById("tituloManual");
+      const risco = document.getElementById("riscoManual");
+      const relatorio = document.getElementById("relatorioGPT");
+      if (titulo) titulo.value = "";
+      if (risco) risco.value = "baixo";
+      if (relatorio) relatorio.value = "";
     };
 
     window.verGaleriaImagens = function() {
+      if (!exigirLogin()) return;
       const imagens = (window.ClippIA.noticias || []).filter(n => n.image_url);
       const lista = document.getElementById("listaNoticias");
       if (!lista) return;
@@ -1305,30 +1274,45 @@ RELATÓRIO DE CLIPAGEM
     };
 
     window.baixarBackup = function() {
-      const data = { noticias: window.ClippIA.noticias, clipagens: window.ClippIA.clipagens, geradoEm: new Date().toISOString() };
-      const blob = new Blob([JSON.stringify(data, null, 2)], {type: "application/json"});
+      if (!exigirLogin()) return;
+      const data = { noticias: window.ClippIA.noticias, clipagens: window.ClippIA.clipagens, usuario: window.ClippIA.user.email || window.ClippIA.user.uid, geradoEm: new Date().toISOString() };
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
       const a = document.createElement("a");
       a.href = URL.createObjectURL(blob);
       a.download = "backup-clippia-econoroeste.json";
       a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 1000);
     };
 
-    function limparTextoPDF(txt) {
-      return String(txt || "")
-        .replace(/[\u0000-\u001F\u007F]/g, " ")
-        .replace(/[–—]/g, "-")
-        .replace(/\s+/g, " ")
-        .trim();
+    async function copiarTexto(txt) {
+      txt = String(txt || "");
+      try {
+        if (navigator.clipboard && window.isSecureContext) {
+          await navigator.clipboard.writeText(txt);
+          return;
+        }
+      } catch (e) { console.warn(e); }
+      const ta = document.createElement("textarea");
+      ta.value = txt;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
     }
 
-    function traduzirErroFirebase(msg) {
-      const m = String(msg || "");
-      if (m.includes("auth/invalid-credential")) return "e-mail ou senha incorretos.";
-      if (m.includes("auth/email-already-in-use")) return "este e-mail já está cadastrado.";
-      if (m.includes("auth/weak-password")) return "senha fraca. Use pelo menos 6 caracteres.";
-      if (m.includes("auth/invalid-email")) return "e-mail inválido.";
-      if (m.includes("permission-denied") || m.includes("PERMISSION_DENIED")) return "sem permissão. Verifique as regras do Firebase Realtime Database.";
-      return m;
+    function classificarRiscoTexto(t) {
+      t = String(t || "").toLowerCase();
+      if (["morte", "morre", "ferido", "acidente", "denúncia", "denuncia", "processo", "reclamação", "reclamacao", "cobrança indevida", "cobranca indevida"].some(x => t.includes(x))) return { nome: "alto", cls: "high" };
+      if (["pedágio", "pedagio", "tarifa", "reajuste", "interdição", "interdicao", "bloqueio", "free flow", "freeflow", "duf", "cobrança", "cobranca", "tag", "pórtico", "portico"].some(x => t.includes(x))) return { nome: "médio", cls: "medium" };
+      return { nome: "baixo", cls: "low" };
+    }
+
+    function limparTextoPDF(txt) {
+      return String(txt || "").replace(/[\u0000-\u001F\u007F]/g, " ").replace(/[–—]/g, "-").replace(/\s+/g, " ").trim();
     }
 
     function formatarDataLeitura(valor) {
@@ -1338,9 +1322,20 @@ RELATÓRIO DE CLIPAGEM
       return String(valor);
     }
 
+    function traduzirErroFirebase(msg) {
+      const m = String(msg || "");
+      if (m.includes("auth/invalid-credential") || m.includes("auth/wrong-password") || m.includes("auth/user-not-found")) return "e-mail ou senha incorretos.";
+      if (m.includes("auth/email-already-in-use")) return "este e-mail já está cadastrado.";
+      if (m.includes("auth/weak-password")) return "senha fraca. Use pelo menos 6 caracteres.";
+      if (m.includes("auth/invalid-email")) return "e-mail inválido.";
+      if (m.includes("permission_denied") || m.includes("permission-denied")) return "sem permissão no Realtime Database. Verifique as regras do Firebase.";
+      if (m.includes("databaseURL")) return "databaseURL ausente ou incorreto no firebase-config.js.";
+      return m;
+    }
+
     function cssId(id) { return String(id || "").replace(/[^a-zA-Z0-9_-]/g, "_"); }
     function escapeHtml(str) {
-      return String(str || "").replace(/[&<>"']/g, s => ({"&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"}[s]));
+      return String(str || "").replace(/[&<>"']/g, s => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[s]));
     }
     function escapeAttr(str) { return escapeHtml(str).replace(/`/g, "&#96;"); }
   </script>
