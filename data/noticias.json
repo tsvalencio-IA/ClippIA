@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-17T15:55:32.463796+00:00",
+  "updated_at": "2026-05-17T18:52:40.144935+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-17T15:55:16.040534+00:00"
+      "collected_at": "2026-05-17T18:52:21.852660+00:00"
     },
     {
       "id": "db9a1ec740b85ab5cdea5149f3eba941692598d32e5e9a3a00d66e69e22f86f2",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-17T15:55:16.592327+00:00"
-    },
-    {
-      "id": "3d1fff4c404bd6de6c1a4a984f492dcbf785558f97c1a9cadaec0e5198d28d5a",
-      "title": "Concessionária registra redução de 58% de incêndios às margens das rodovias da região - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1Jic2YtUnJnNWZwcENjNENvQjVrNm9SVnZ1VGItZWdheU11NmZfYnBqd3ZudnR0U2JiVXFZd1ZOSEthMVltZjFFMThIbm1OdWQ2OXVENlU0WTh5SUsxWTU1NlZLb0FNTERBeEtYYmNaNk0zQzNab0xaR2U5UkdCQUlFZ3pUT2VkRGM4SUpCamlaaE9Wa2tiT3pPNDBXMDRyOW9pclg5ZnNFb3RJNkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-16T17:38:17+00:00",
-      "published_raw": "Sat, 16 May 2026 17:38:17 GMT",
-      "snippet": "Concessionária registra redução de 58% de incêndios às margens das rodovias da região OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-17T15:55:16.040441+00:00"
+      "collected_at": "2026-05-17T18:52:22.448592+00:00"
     }
   ]
 }
