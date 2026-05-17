@@ -325,7 +325,7 @@
               <option value="todas">Usar todas do sistema</option>
             </select>
             <select id="janelaTempo" title="Período exibido" onchange="renderNoticias()">
-              <option value="24h" selected>Últimas 24h</option>
+              <option value="24h" selected>Somente últimas 24h</option>
               <option value="7d">Últimos 7 dias</option>
               <option value="todas">Todas coletadas</option>
             </select>
@@ -346,12 +346,12 @@
             <div class="row">
               <button class="secondary" onclick="verGaleriaImagens()">Ver galeria de imagens</button>
               <button class="secondary" onclick="baixarBackup()">Baixar backup JSON</button>
-              <button class="secondary" onclick="exportarPDFClipagens()">Exportar clipagens selecionadas/todas</button>
+              <button class="secondary" onclick="exportarPDFClipagens()">Exportar clipagens selecionadas</button>
             </div>
           </details>
         </div>
 
-        <input id="busca" placeholder="Filtrar por título, fonte, rodovia, free flow, pedágio..." oninput="renderNoticias()"/>
+        <input id="busca" placeholder="Filtrar dentro do período escolhido: título, fonte, rodovia, free flow, pedágio..." oninput="renderNoticias()"/>
 
         <div class="tabs">
           <button class="active" id="tabTodas" onclick="setFiltro('todas')">Todas</button>
@@ -610,11 +610,12 @@
       if (!exigirLogin()) return;
       const lista = document.getElementById("listaNoticias");
       try {
-        if (lista) lista.innerHTML = "<div class='card small'>Atualizando notícias...</div>";
+        if (lista) lista.innerHTML = "<div class='card small'>Atualizando notícias sem duplicar itens...</div>";
         const res = await fetch("./data/noticias.json?cache=" + Date.now(), { cache: "no-store" });
         if (!res.ok) throw new Error("Arquivo data/noticias.json não encontrado ou indisponível.");
         const data = await res.json();
-        window.ClippIA.noticias = Array.isArray(data.items) ? data.items : [];
+        const brutas = Array.isArray(data.items) ? data.items : [];
+        window.ClippIA.noticias = deduplicarNoticias(brutas);
         limparSelecao(false);
         renderNoticias();
       } catch (e) {
@@ -634,6 +635,91 @@
       return 0;
     }
 
+
+    function normalizarTextoChave(valor) {
+      return String(valor || "")
+        .toLowerCase()
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        .replace(/https?:\/\/[^\s]+/g, "")
+        .replace(/[^a-z0-9]+/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function normalizarUrlChave(url) {
+      let u = String(url || "").trim();
+      if (!u) return "";
+      try {
+        const obj = new URL(u);
+        ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "oc"].forEach(p => obj.searchParams.delete(p));
+        obj.hash = "";
+        return obj.origin.toLowerCase() + obj.pathname.replace(/\/$/, "") + (obj.search ? obj.search : "");
+      } catch (e) {
+        return u.toLowerCase().replace(/[?#].*$/, "").replace(/\/$/, "");
+      }
+    }
+
+    function chaveNoticia(n) {
+      const link = normalizarUrlChave((n && (n.resolved_link || n.link)) || "");
+      const tituloFonte = normalizarTextoChave((n && n.title) || "") + "|" + normalizarTextoChave((n && n.source) || "");
+      return link || tituloFonte || String((n && n.id) || "");
+    }
+
+    function escolherNoticiaMaisCompleta(atual, nova) {
+      if (!atual) return nova;
+      const score = (x) =>
+        (x.image_url ? 4 : 0) +
+        (x.resolved_link ? 3 : 0) +
+        (x.snippet ? Math.min(String(x.snippet).length, 200) / 100 : 0) +
+        (x.term ? 1 : 0) +
+        (dataItemMs(x) ? 1 : 0);
+      const aMs = dataItemMs(atual);
+      const nMs = dataItemMs(nova);
+      const base = score(nova) >= score(atual) ? { ...atual, ...nova } : { ...nova, ...atual };
+      const termos = new Set([atual.term, nova.term, atual.terms, nova.terms].flat().filter(Boolean));
+      if (termos.size) base.terms = Array.from(termos);
+      if (nMs && (!aMs || nMs > aMs)) return { ...base, published: nova.published || base.published, published_raw: nova.published_raw || base.published_raw };
+      return base;
+    }
+
+    function deduplicarNoticias(items) {
+      const mapa = new Map();
+      (items || []).forEach(n => {
+        if (!n) return;
+        const chave = chaveNoticia(n);
+        if (!chave) return;
+        mapa.set(chave, escolherNoticiaMaisCompleta(mapa.get(chave), n));
+      });
+      return Array.from(mapa.values()).sort((a, b) => (dataItemMs(b) || 0) - (dataItemMs(a) || 0));
+    }
+
+    function janelaTempoAtual() {
+      return document.getElementById("janelaTempo")?.value || "24h";
+    }
+
+    function nomeJanelaTempo() {
+      const janela = janelaTempoAtual();
+      if (janela === "24h") return "somente últimas 24 horas";
+      if (janela === "7d") return "últimos 7 dias";
+      return "todas coletadas";
+    }
+
+    function filtrarPorJanelaTempo(items) {
+      const janela = janelaTempoAtual();
+      const lista = deduplicarNoticias(items || []);
+      if (janela === "todas") return lista;
+
+      const agora = Date.now();
+      const limite = janela === "7d" ? 7 * 24 * 60 * 60 * 1000 : 24 * 60 * 60 * 1000;
+      const toleranciaFuturo = 15 * 60 * 1000;
+
+      return lista.filter(n => {
+        const ms = dataItemMs(n);
+        if (!ms) return false;
+        return ms >= (agora - limite) && ms <= (agora + toleranciaFuturo);
+      });
+    }
+
     function textoBusca(n) {
       return [
         n && n.title, n && n.source, n && n.link, n && n.resolved_link, n && n.snippet,
@@ -644,7 +730,7 @@
     function noticiasFiltradas() {
       const buscaEl = document.getElementById("busca");
       const termo = buscaEl ? buscaEl.value.toLowerCase().trim() : "";
-      let items = window.ClippIA.noticias || [];
+      let items = filtrarPorJanelaTempo(window.ClippIA.noticias || []);
 
       if (termo) items = items.filter(n => textoBusca(n).includes(termo));
 
@@ -652,14 +738,14 @@
       if (filtro !== "todas") {
         items = items.filter(n => {
           const t = textoBusca(n);
-          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("pedágio digital") || t.includes("pedagio digital") || t.includes("pedágio eletrônico") || t.includes("pedagio eletronico") || t.includes("pedágio inteligente") || t.includes("pedagio inteligente") || t.includes("pórtico") || t.includes("portico") || t.includes("sem cancela");
-          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("pedagio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag") || t.includes("duf") || t.includes("cobrança") || t.includes("cobranca") || t.includes("multa");
-          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia") || t.includes("denuncia") || t.includes("reclamação") || t.includes("reclamacao");
-          if (filtro === "obras") return t.includes("obra") || t.includes("interdição") || t.includes("interdicao") || t.includes("bloqueio") || t.includes("manutenção") || t.includes("manutencao");
+          if (filtro === "freeflow") return t.includes("free flow") || t.includes("freeflow") || t.includes("free-flow") || t.includes("pedágio digital") || t.includes("pedagio digital") || t.includes("pedágio eletrônico") || t.includes("pedagio eletronico") || t.includes("pedágio inteligente") || t.includes("pedagio inteligente") || t.includes("pedágio sem cancela") || t.includes("pedagio sem cancela") || t.includes("pórtico") || t.includes("portico") || t.includes("sem cancela") || t.includes("cobrança por placa") || t.includes("cobranca por placa");
+          if (filtro === "pedagio") return t.includes("pedágio") || t.includes("pedagio") || t.includes("tarifa") || t.includes("reajuste") || t.includes("tag") || t.includes("duf") || t.includes("cobrança") || t.includes("cobranca") || t.includes("multa") || t.includes("praça de pedágio") || t.includes("praca de pedagio");
+          if (filtro === "acidente") return t.includes("acidente") || t.includes("morte") || t.includes("ferido") || t.includes("risco") || t.includes("denúncia") || t.includes("denuncia") || t.includes("reclamação") || t.includes("reclamacao") || t.includes("queixa");
+          if (filtro === "obras") return t.includes("obra") || t.includes("interdição") || t.includes("interdicao") || t.includes("bloqueio") || t.includes("manutenção") || t.includes("manutencao") || t.includes("desvio") || t.includes("faixa interditada");
           return true;
         });
       }
-      return items;
+      return deduplicarNoticias(items);
     }
 
     window.setFiltro = function(filtro) {
@@ -726,29 +812,30 @@
     };
 
     function idNoticia(n) {
-      return String((n && (n.id || n.link || n.title)) || Math.random().toString(36).slice(2));
+      return chaveNoticia(n) || String((n && n.id) || "");
     }
 
     function renderStatsSeguro() {
-      const noticias = window.ClippIA.noticias || [];
-      const fontes = new Set(noticias.map(n => n.source).filter(Boolean));
+      const noticiasBase = deduplicarNoticias(window.ClippIA.noticias || []);
+      const noticiasJanela = filtrarPorJanelaTempo(noticiasBase);
+      const fontes = new Set(noticiasJanela.map(n => n.source).filter(Boolean));
       const agora = Date.now();
       const diaMs = 24 * 60 * 60 * 1000;
-      const hojeCount = noticias.filter(n => {
+      const hojeCount = noticiasBase.filter(n => {
         const ms = dataItemMs(n);
-        return ms && (agora - ms <= diaMs);
+        return ms && ms >= (agora - diaMs) && ms <= (agora + 15 * 60 * 1000);
       }).length;
 
-      setText("statNoticias", noticias.length);
+      setText("statNoticias", noticiasJanela.length);
       setText("statFontes", fontes.size);
       setText("statHoje", hojeCount);
       setText("statSelecionadas", window.ClippIA.selecionadas.size);
-      setText("statClipagensTexto", (window.ClippIA.clipagens || []).length + " clipagem(ns) salva(s).");
+      setText("statClipagensTexto", (window.ClippIA.clipagens || []).length + " clipagem(ns) salva(s). Sem duplicar relatório igual.");
 
       const escopo = document.getElementById("escopoAcao")?.value || "selecionadas";
-      const totalEscopo = escopo === "todas" ? noticias.length : escopo === "filtradas" ? (window.ClippIA.ultimaLista || []).length : window.ClippIA.selecionadas.size;
-      const textoEscopo = escopo === "todas" ? "todas do sistema" : escopo === "filtradas" ? "todas filtradas" : "selecionadas";
-      setText("infoEscopo", "Escopo atual: " + textoEscopo + " (" + totalEscopo + ").");
+      const totalEscopo = escopo === "todas" ? noticiasJanela.length : escopo === "filtradas" ? (window.ClippIA.ultimaLista || []).length : window.ClippIA.selecionadas.size;
+      const textoEscopo = escopo === "todas" ? "todas da janela" : escopo === "filtradas" ? "todas filtradas" : "selecionadas";
+      setText("infoEscopo", "Janela: " + nomeJanelaTempo() + " | Escopo atual: " + textoEscopo + " (" + totalEscopo + "). Duplicadas são ocultadas automaticamente.");
     }
 
     function setText(id, texto) {
@@ -757,7 +844,12 @@
     }
 
     document.addEventListener("change", function(ev) {
-      if (ev.target && ev.target.id === "escopoAcao") renderStatsSeguro();
+      if (!ev.target) return;
+      if (ev.target.id === "escopoAcao") renderStatsSeguro();
+      if (ev.target.id === "janelaTempo") {
+        limparSelecao(false);
+        renderNoticias();
+      }
     });
 
     window.toggleSelecionada = function(id, checked) {
@@ -783,14 +875,17 @@
     function obterNoticiasPorEscopo(opcoes = {}) {
       const escopoEl = document.getElementById("escopoAcao");
       const escopo = escopoEl ? escopoEl.value : "selecionadas";
+      const baseJanela = filtrarPorJanelaTempo(window.ClippIA.noticias || []);
       let itens = [];
 
-      if (escopo === "todas") itens = window.ClippIA.noticias || [];
+      if (escopo === "todas") itens = baseJanela;
       else if (escopo === "filtradas") itens = window.ClippIA.ultimaLista || [];
-      else itens = (window.ClippIA.noticias || []).filter(n => window.ClippIA.selecionadas.has(idNoticia(n)));
+      else itens = baseJanela.filter(n => window.ClippIA.selecionadas.has(idNoticia(n)));
+
+      itens = deduplicarNoticias(itens);
 
       if (!itens.length && !opcoes.silencioso) {
-        alert("Nenhuma notícia no escopo escolhido. Selecione notícias, mude para filtradas/todas, ou use o prompt de pesquisa do zero para o GPT.");
+        alert("Nenhuma notícia no escopo escolhido dentro de " + nomeJanelaTempo() + ". Selecione notícias, mude o escopo ou gere o prompt de pesquisa 24h.");
       }
       return itens;
     }
@@ -854,55 +949,103 @@
 
     function montarPromptPesquisaZero() {
       const agora = new Date().toLocaleString("pt-BR");
+      const janela = janelaTempoAtual();
+      const periodoSolicitado = janela === "24h"
+        ? "SOMENTE as últimas 24 horas, sem ampliar para dias anteriores"
+        : janela === "7d"
+          ? "Últimos 7 dias"
+          : "Todas as notícias recentes disponíveis, priorizando as últimas 24 horas";
+      const regraPeriodo = janela === "24h"
+        ? `- Pesquise EXCLUSIVAMENTE notícias publicadas nas últimas 24 horas.
+- NÃO amplie para 7 dias.
+- NÃO inclua notícia antiga só porque apareceu no Google News.
+- Se não encontrar notícia relevante nas últimas 24 horas, diga claramente que não encontrou material suficiente no período.`
+        : janela === "7d"
+          ? `- Pesquise notícias publicadas nos últimos 7 dias.
+- Priorize as últimas 24 horas dentro desse período.
+- Informe claramente a data de cada fonte.`
+          : `- Priorize as últimas 24 horas.
+- Se usar notícia mais antiga, destaque a data exata e explique por que ela ainda é relevante.`;
+
       return `Você é o ClippIA Econoroeste, agente profissional de clipagem, inteligência de mídia, reputação institucional e apoio à comunicação corporativa.
 
 Neste momento o painel está zerado, vazio ou sem notícias selecionadas.
 
-Sua tarefa agora é PESQUISAR DO ZERO NA WEB as notícias mais recentes relacionadas à Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste e Free Flow.
+Sua tarefa agora é PESQUISAR DO ZERO NA WEB as notícias mais recentes relacionadas à Ecovias Noroeste Paulista, EcoNoroeste, Econoroeste, Ecovias Noroeste e Free Flow.
 
 DATA/HORA DA SOLICITAÇÃO:
 ${agora}
 
-PERÍODO PRIORITÁRIO:
-- Pesquise primeiro as últimas 24 horas.
-- Se não houver notícias relevantes nas últimas 24 horas, amplie para os últimos 7 dias.
-- Se ampliar o período, avise claramente no relatório.
+PERÍODO SOLICITADO PELO PAINEL:
+${periodoSolicitado}
 
-TERMOS OBRIGATÓRIOS DE BUSCA:
+REGRAS DE PERÍODO:
+${regraPeriodo}
+
+TERMOS OBRIGATÓRIOS DE BUSCA — USE O MÁXIMO POSSÍVEL:
 - "Ecovias Noroeste Paulista"
+- "Ecovias Noroeste Paulista S.A."
 - "EcoNoroeste"
 - "Econoroeste"
 - "Ecovias Noroeste"
+- "EcoRodovias" "Noroeste Paulista"
 - "Free Flow" "Ecovias Noroeste"
 - "freeflow" "Ecovias Noroeste"
+- "free-flow" "Ecovias Noroeste"
+- "Free Flow" "EcoNoroeste"
+- "pedágio free flow" "EcoNoroeste"
 - "pedágio inteligente" "Ecovias Noroeste"
 - "pedágio digital" "Ecovias Noroeste"
 - "pedágio eletrônico" "Ecovias Noroeste"
 - "pedágio sem cancela" "Ecovias Noroeste"
 - "pórtico" "Ecovias Noroeste"
 - "cobrança por placa" "Ecovias Noroeste"
+- "leitura de placa" "Ecovias Noroeste"
 - "TAG" "Ecovias Noroeste"
 - "DUF" "Ecovias Noroeste"
-- "multa" "Ecovias Noroeste"
-- "reclamação" "Ecovias Noroeste"
-- "Ecovias Noroeste Paulista" tarifa
-- "Ecovias Noroeste Paulista" reajuste
-- "Ecovias Noroeste Paulista" obras
-- "Ecovias Noroeste Paulista" interdição
-- "Ecovias Noroeste Paulista" acidente
-- "Ecovias Noroeste Paulista" ARTESP
+- "prazo de pagamento" "Free Flow" "Ecovias Noroeste"
+- "multa" "Free Flow" "Ecovias Noroeste"
+- "reclamação" "Free Flow" "Ecovias Noroeste"
+- "cobrança indevida" "Ecovias Noroeste"
+- "tarifa" "Ecovias Noroeste Paulista"
+- "reajuste" "Ecovias Noroeste Paulista"
+- "obras" "Ecovias Noroeste Paulista"
+- "interdição" "Ecovias Noroeste Paulista"
+- "acidente" "Ecovias Noroeste Paulista"
+- "trânsito" "Ecovias Noroeste Paulista"
+- "ARTESP" "Ecovias Noroeste Paulista"
 - "SP-310" "Ecovias Noroeste"
 - "SP-323" "Ecovias Noroeste"
 - "SP-326" "Ecovias Noroeste"
 - "SP-333" "Ecovias Noroeste"
 - "SP-351" "Ecovias Noroeste"
+- "Washington Luís" "EcoNoroeste"
+- "São José do Rio Preto" "EcoNoroeste"
+- "Mirassol" "EcoNoroeste"
+- "Catanduva" "EcoNoroeste"
+- "Araraquara" "EcoNoroeste"
+- "São Carlos" "EcoNoroeste"
+- "Barretos" "EcoNoroeste"
+
+FONTES PRIORITÁRIAS:
+1. Site oficial da Ecovias Noroeste Paulista.
+2. Site oficial do Free Flow da Ecovias Noroeste Paulista.
+3. ARTESP.
+4. EcoRodovias.
+5. Diário Oficial / órgãos públicos.
+6. Portais jornalísticos regionais.
+7. Portais nacionais, quando houver relevância.
+8. Redes sociais públicas apenas como alerta, nunca como fato confirmado sem outra fonte.
 
 REGRAS ABSOLUTAS:
 1. Nunca invente fatos.
-2. Sempre informe fonte, data e link.
-3. Diferencie fato confirmado, imprensa e informação não confirmada.
-4. Em tema sensível, recomende revisão humana.
-5. Não afirme direito de uso de imagem sem confirmação.
+2. Nunca diga que encontrou algo se não encontrou.
+3. Sempre informe fonte, data e link.
+4. Não duplique notícias com o mesmo link, mesmo título ou mesma fonte.
+5. Diferencie fato confirmado, imprensa e informação não confirmada.
+6. Em tema sensível, recomende revisão humana.
+7. Não afirme direito de uso de imagem sem confirmação.
+8. Se o período for 24h, descarte qualquer notícia fora das últimas 24 horas.
 
 FORMATO OBRIGATÓRIO:
 # RELATÓRIO DE CLIPAGEM — ECONOROESTE
@@ -978,9 +1121,8 @@ RELATÓRIO DE CLIPAGEM
 
     window.exportarPDFClipagens = async function() {
       if (!exigirLogin()) return;
-      const selecionadas = obterClipagensSelecionadas();
-      const arr = selecionadas.length ? selecionadas : (window.ClippIA.clipagens || []);
-      if (!arr.length) return alert("Nenhuma clipagem salva para exportar.");
+      const arr = obterClipagensSelecionadas();
+      if (!arr.length) return alert("Selecione pelo menos uma clipagem para exportar. Assim o sistema não exporta todas por engano.");
       await gerarPDFClipagens(arr);
     };
 
@@ -1096,6 +1238,27 @@ RELATÓRIO DE CLIPAGEM
       w.print();
     }
 
+    function chaveClipagem(c) {
+      return normalizarTextoChave((c && c.titulo) || "") + "|" + normalizarTextoChave((c && c.relatorio) || "");
+    }
+
+    function deduplicarClipagens(arr) {
+      const mapa = new Map();
+      (arr || []).forEach(c => {
+        if (!c) return;
+        const chave = chaveClipagem(c);
+        if (!chave || chave === "|") return;
+        const atual = mapa.get(chave);
+        if (!atual) mapa.set(chave, c);
+        else {
+          const cMs = Number(c.createdAt || 0) || Date.parse(c.createdAtLocal || "") || 0;
+          const aMs = Number(atual.createdAt || 0) || Date.parse(atual.createdAtLocal || "") || 0;
+          if (cMs > aMs) mapa.set(chave, c);
+        }
+      });
+      return Array.from(mapa.values());
+    }
+
     window.salvarClipagem = async function() {
       if (!exigirLogin()) return;
 
@@ -1116,6 +1279,12 @@ RELATÓRIO DE CLIPAGEM
         createdAtLocal: new Date().toISOString(),
         updatedAtLocal: new Date().toISOString()
       };
+
+      const chaveNova = chaveClipagem(item);
+      const duplicada = (window.ClippIA.clipagens || []).find(c => chaveClipagem(c) === chaveNova);
+      if (duplicada) {
+        return alert("Esta clipagem já existe. O sistema bloqueou a duplicação para não salvar o mesmo relatório de novo.");
+      }
 
       try {
         await refClipagensUsuario().push({
@@ -1140,6 +1309,7 @@ RELATÓRIO DE CLIPAGEM
         snap.forEach(child => {
           arr.push({ id: child.key, ...child.val() });
         });
+        arr = deduplicarClipagens(arr);
         arr.sort((a, b) => {
           const ad = Number(a.createdAt || 0) || Date.parse(a.createdAtLocal || "") || 0;
           const bd = Number(b.createdAt || 0) || Date.parse(b.createdAtLocal || "") || 0;
