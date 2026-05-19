@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-19T17:33:15.094224+00:00",
+  "updated_at": "2026-05-19T19:41:47.770984+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-19T17:32:58.436145+00:00"
+      "collected_at": "2026-05-19T19:41:32.100026+00:00"
     },
     {
       "id": "276cd6f1fd55aa654d6f77d13e50d9d7411549c850adb026c8eb12856a3f7bfe",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-19T17:32:57.866417+00:00"
+      "collected_at": "2026-05-19T19:41:31.530719+00:00"
     },
     {
       "id": "22c35548a2ccfe097bbacadbf54a345b13dc0584448533f77c14ae1578576d17",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-19T17:32:57.866328+00:00"
-    },
-    {
-      "id": "8336316fa99c9c86137dd032f8cb0e7c79082d2b79293cec3e5a885e6f31fe10",
-      "title": "Obras na Washington Luís afetam tráfego entre Mirassol e Rio Preto nesta semana - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGp6ZXRwY3JoZTVLRlBXZlVNSExkMC05MEpRb0x5SmpmTFpYMkVBY2k2RXlnUHctMFBWODYxUUlzSjlBdzM5N0dUeC1ORDE5X1pvazZ2dGh6SHRUWG5uSUJkUmx0b2VZcEpkRHAzcFl2MHQ1eUp4cGxQR09JU2trTTZmWS1Za05iV3p2bUZoNzU2ek8zMHU1blI3dmRVeTRoM3g2cHZ6V0NGa0pFRWlobzRlenU4cGZZbDhrUnI0TDhmR2dNWW0xUm1NX3hDeWdycXc?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-18T17:40:33+00:00",
-      "published_raw": "Mon, 18 May 2026 17:40:33 GMT",
-      "snippet": "Obras na Washington Luís afetam tráfego entre Mirassol e Rio Preto nesta semana Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-19T17:32:57.866506+00:00"
+      "collected_at": "2026-05-19T19:41:31.530653+00:00"
     }
   ]
 }
