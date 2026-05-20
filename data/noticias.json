@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-20T14:53:20.106108+00:00",
+  "updated_at": "2026-05-20T17:49:09.122256+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-20T14:53:03.816933+00:00"
-    },
-    {
-      "id": "65cb3c114f4cfe4e4e238144ae4e5026470d383468da2b0e7b664ed67d6ab40d",
-      "title": "Concessionária faz mutirão de obras em rodovias; veja trechos com bloqueios - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEJGd3drZW5lNzNTcXJHTi1VbmI2RGZPSGdEQThLYkZBSU04d3puQVBDZmtrTGRrUm1YTmxMVk0tcEdRb3lNZTlOUWxQMnA2cnZqTUdZY3hfWmFSSjMwZDBTRldVbllZQ2dfYWZQQ0h1R0V1NFlhRnZJUkpuYkVtWWFuN3IwajFjdWVjM0tmRHZpUl9aZEFEMDZaODBXUlRKNURfZg?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-19T15:47:00+00:00",
-      "published_raw": "Tue, 19 May 2026 15:47:00 GMT",
-      "snippet": "Concessionária faz mutirão de obras em rodovias; veja trechos com bloqueios Região Noroeste",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-20T14:53:04.349294+00:00"
+      "collected_at": "2026-05-20T17:48:51.004732+00:00"
     }
   ]
 }
