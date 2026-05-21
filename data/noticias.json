@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-21T12:12:10.499319+00:00",
+  "updated_at": "2026-05-21T17:26:33.835606+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-21T12:11:54.845231+00:00"
+      "collected_at": "2026-05-21T17:26:17.347955+00:00"
     },
     {
       "id": "00c0fdf1460e50b138a7a5ad0baa5c912048b1dd17dabf0d9ee00eb2daa69d64",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-21T12:11:54.845145+00:00"
-    },
-    {
-      "id": "b6aa8724e6d9288e36200112bd0537c183e47633ff8e8cd36f1c61bbb6b2ee74",
-      "title": "Governo BR suspende 3,4 milhões de multas do Free Flow - CPG Click Petróleo e Gás",
-      "source": "CPG Click Petróleo e Gás",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJjbGdFRmpaNXZJdm8wTjVHb1kwMXpPcTEyazdNNWtkRTd0SWx1ZEF4TzhVd2lKb0tGVTNWZVpJWElpQVdka2RUZ3NtX1BVdlJvNXdmQno5M1Y1cUNFT09yNThzRnY1M00zdDlWSU50aUZuTGtsM1VGN3BhLXZMUlZKd1RNZkppWl9mcHdjV2VjWTFabmVZMXIzWVRrTXg5QlcwUUNfTEpqMnBoVWc?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-20T14:30:00+00:00",
-      "published_raw": "Wed, 20 May 2026 14:30:00 GMT",
-      "snippet": "Governo BR suspende 3,4 milhões de multas do Free Flow CPG Click Petróleo e Gás",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-21T12:11:54.845034+00:00"
+      "collected_at": "2026-05-21T17:26:17.347849+00:00"
     }
   ]
 }
