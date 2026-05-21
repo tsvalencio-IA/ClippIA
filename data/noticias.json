@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-21T02:07:06.701695+00:00",
+  "updated_at": "2026-05-21T02:53:05.367253+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "dc26277ac8eaaf9b97265cf91a72732a161b917eeb494d1feab071b7fe5615b7",
-      "title": "Palestras em escolas municipais de Ibaté reforçam educação e segurança no trânsito - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWJpYXAzUHdRMVZBcEtUSUM4ZDNDTUJjSTNFMzVtVlBYQkR6aDFYQmRFeEtGWmdwa2R6VElGUmlZWGRaUGlJTzVlMmw3RXk0em1UM0F6LXZVa0d3UlBCZEhMbEV0ZTljRmc4LXlsaDA1cEE3QkJEaXlWZ1BzOWZrV0dxaWJNclZwUUY3ZllMV21Pc1lIeFRJMjVGTW5vYXIzSzJLajNvUkZEYmRKanZiclpHMm4?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-20T20:16:42+00:00",
-      "published_raw": "Wed, 20 May 2026 20:16:42 GMT",
-      "snippet": "Palestras em escolas municipais de Ibaté reforçam educação e segurança no trânsito Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-21T02:06:49.441547+00:00"
-    },
-    {
       "id": "00c0fdf1460e50b138a7a5ad0baa5c912048b1dd17dabf0d9ee00eb2daa69d64",
       "title": "Palestras nas escolas municipais de Ibaté reforçam conscientização e segurança no trânsito - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -77,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-21T02:06:49.441467+00:00"
+      "collected_at": "2026-05-21T02:52:48.985505+00:00"
     },
     {
       "id": "b6aa8724e6d9288e36200112bd0537c183e47633ff8e8cd36f1c61bbb6b2ee74",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-21T02:06:49.441363+00:00"
+      "collected_at": "2026-05-21T02:52:48.985405+00:00"
     }
   ]
 }
