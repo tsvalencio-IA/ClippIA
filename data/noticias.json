@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-21T17:29:27.723285+00:00",
+  "updated_at": "2026-05-21T19:42:28.799827+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-21T17:29:11.834708+00:00"
-    },
-    {
-      "id": "00c0fdf1460e50b138a7a5ad0baa5c912048b1dd17dabf0d9ee00eb2daa69d64",
-      "title": "Palestras nas escolas municipais de Ibaté reforçam conscientização e segurança no trânsito - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWFNpM05TTFJlMkxNSmlsdWFXbDlGNGZqck5zVDg1d0tMeUdEWlNFeTdFRkVfTlNPNUNkR1FieUpGWGx0OTBJSzNVV3JIN0RhczRzZEctNmlpX2Y5Ul91LUY0elFSM3cxQ0p1dk9RQWV5OWMxX3JockVUWmhYQnJVYVJFZXlQTkYzQk9VMzJtRVMxOU90Sm5aeXRlNllkV0l6cnJ4UGJYTWdtb3RIQUZ6eGpMcVBfUHRURWFiUEc2MS1FRnFUY3ZLSDBUYzk?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-20T18:20:08+00:00",
-      "published_raw": "Wed, 20 May 2026 18:20:08 GMT",
-      "snippet": "Palestras nas escolas municipais de Ibaté reforçam conscientização e segurança no trânsito Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-21T17:29:11.834611+00:00"
+      "collected_at": "2026-05-21T19:42:12.651844+00:00"
     }
   ]
 }
