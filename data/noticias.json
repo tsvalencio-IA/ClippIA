@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T17:05:54.877332+00:00",
+  "updated_at": "2026-05-22T19:21:52.093324+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 1,
@@ -54,13 +54,13 @@
       "published": "2026-05-22T12:57:59+00:00",
       "published_raw": "Fri, 22 May 2026 12:57:59 GMT",
       "snippet": "Motociclista morre após ser atropelado por carreta na Washington, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-22T17:05:37.654668+00:00"
+      "collected_at": "2026-05-22T19:21:36.184915+00:00"
     }
   ]
 }
