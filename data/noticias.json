@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-24T15:58:40.687249+00:00",
+  "updated_at": "2026-05-24T18:59:23.893441+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "d51f29c3725d0854193cf2a3176a53e712f3a9425df2bce4fcdf1ecb9056b78b",
-      "title": "Obras da Ecovias Noroeste Paulista provocam interdições e alterações no tráfego neste sábado (23) e domingo (24) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONTl2aVM2VDhCQjI0VkVfV1hYbnlUUnd3M1RvcXRHZEdMWmtqM293S08wVFZDaFcyVGN4Wm5TUnZRVmFEd0Z3UUhVR0VpNE4wZUZqbkZQbXpjT0YtNmE3TklaUWRuWTBSMkVMd2xueTlodmlYMmd0b1lUcm8wam1IZy1LU3FmamlTSWpZSktiN3pENWVXZng2M2t3cWcwYkZZaG1yamRnTzJKbVlRUkxhMl9OYW5uSERqc2NCSVFQdTVXLThPX3hKOWN1UzJDSjZFNDJEclBONGZnQXpaVVJBWWdrQXdmODRoS20yTXZab9IB7wFBVV95cUxONTl2aVM2VDhCQjI0VkVfV1hYbnlUUnd3M1RvcXRHZEdMWmtqM293S08wVFZDaFcyVGN4Wm5TUnZRVmFEd0Z3UUhVR0VpNE4wZUZqbkZQbXpjT0YtNmE3TklaUWRuWTBSMkVMd2xueTlodmlYMmd0b1lUcm8wam1IZy1LU3FmamlTSWpZSktiN3pENWVXZng2M2t3cWcwYkZZaG1yamRnTzJKbVlRUkxhMl9OYW5uSERqc2NCSVFQdTVXLThPX3hKOWN1UzJDSjZFNDJEclBONGZnQXpaVVJBWWdrQXdmODRoS20yTXZabw?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-23T18:00:18+00:00",
-      "published_raw": "Sat, 23 May 2026 18:00:18 GMT",
-      "snippet": "Obras da Ecovias Noroeste Paulista provocam interdições e alterações no tráfego neste sábado (23) e domingo (24) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-24T15:58:24.542437+00:00"
-    }
-  ]
+  "items": []
 }
