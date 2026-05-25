@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-25T19:23:31.870771+00:00",
+  "updated_at": "2026-05-25T22:01:07.576616+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 4,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "c12f4bac9d47cf47b26b7a1c12052f1902684e50ebd7965683285137192ecb88",
+      "title": "Obras na Washington Luís começam em Rio Preto (SP) com construção de viadutos e ampliação de pistas - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTTlqOVBQamRpZTk2S0tXUHlJbEFNdld4dkZyWGprdmFLbk5YY2VfdjQ1czlDLVJON2h0ZzZ3UlVyUzNMNlhlUGZGQmdrd3FRZ0JSREZHazJBRlU3NXhmSmlSRy1KZGJ5MXdGRjN5UkdpR2xXNmdJUFFxRl9pbmpRdWFPQVpLRkNsZzNsV1BieldZS25tUl9pbW54TGduYTNDOFdSc3hIVXdnblRJN0Q3RXNlNExuaEcyWG1OQWI5RWZDR1BXUjgzbXVXT045dTls?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-25T20:40:35+00:00",
+      "published_raw": "Mon, 25 May 2026 20:40:35 GMT",
+      "snippet": "Obras na Washington Luís começam em Rio Preto (SP) com construção de viadutos e ampliação de pistas gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-25T22:00:50.192003+00:00"
+    },
+    {
+      "id": "2fadb1694d746a8080a7922fc8a44e97027b968cbb11c5fe775524b821690198",
+      "title": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkJRUmdKUHpKUGgtNy1DNzBKQWVoZERxS29KZElFa3VFMW9lZ2czVmROUmJheERybW1xTjRHR1BLOXp6OUdncXA4Tk8wSDNNNmJJTGp4OG9Qd2ZFQXlSSUU0MlkwZTlzeVl5SDA0X1ZwVUdSUEUxMHlHUXN1X1pRLUUwUzRaTjBPQmdrRUVxT3E0Z21LQ0JISW1kd0kzWC1kZVRJZGxhTDVXSko2MjVZ?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-25T19:56:45+00:00",
+      "published_raw": "Mon, 25 May 2026 19:56:45 GMT",
+      "snippet": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-25T22:00:50.191921+00:00"
+    },
+    {
+      "id": "43c4166bf3aa0444fa7f21fa36a4a669b65a2c913c67a273f589891f7c6d078d",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEN1V0E0Q1ZiLW82TlFSS1BGdGxPLUMxZG1ic2F3VnVXc2pEeUFzMXVDYmF1aDQtTzg0b0JZemJiYnJRUXZNazQteEdqZGtxdnBHdlJBNG15SFkxNXFPd0hNX09pbnQ3dEJta29zd0Q4Q0ZhMUotNzc1ODdPYkVxNkF0c3RGYlB3c0p6ZEtUeENQNXZzMGtGTmt0OUY3Zmk0ZTR3eU1LZmlfWmM5LWxJOTFkN3ZRaXB0WDlVeWd3?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-25T16:40:54+00:00",
+      "published_raw": "Mon, 25 May 2026 16:40:54 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-25T22:00:50.191826+00:00"
+    },
+    {
       "id": "d85c48ba6be38d18e97b9c83b2d49904af9b86cc07d83479c485e6c1de152c38",
       "title": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -54,13 +105,13 @@
       "published": "2026-05-25T16:06:05+00:00",
       "published_raw": "Mon, 25 May 2026 16:06:05 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-25T19:23:16.006087+00:00"
+      "collected_at": "2026-05-25T22:01:02.954072+00:00"
     }
   ]
 }
