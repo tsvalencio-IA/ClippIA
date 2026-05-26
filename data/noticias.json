@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T19:53:58.111135+00:00",
+  "updated_at": "2026-05-26T20:12:18.590457+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 13,
@@ -54,13 +54,13 @@
       "published": "2026-05-26T17:51:00+00:00",
       "published_raw": "Tue, 26 May 2026 17:51:00 GMT",
       "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:41.675035+00:00"
+      "collected_at": "2026-05-26T20:12:03.037343+00:00"
     },
     {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:55.474104+00:00"
+      "collected_at": "2026-05-26T20:12:15.720191+00:00"
+    },
+    {
+      "id": "01d365ff36f69a1493a67c51509427b4f8a07ec193b4b9847ebedc3976b873f4",
+      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS1NPemVlWFBiZ0JMTUxIMmE3V2ZNNHgyR2xQUTlPNDdjbWlEeXYzNDJzNDBuTEN1eDVFc0Y1Q0VfOXVUNGVjYkRTTW9GM3RKWG1XTWFOcjhMekNlcEU4WEFlcFNoZjFBT2RaN1pEMTNRU0poOGxqbzV4RGYxSm16eFBHUmtDNGtZdUV0NGVJd3NDelhNb2lyMDFoS0h5bWQxWjR1WnJPaDl3MG5oR1R6Mkh0ZnRxSlJwdzIwVG52eEdtckRjNDh4UWRsX08zLVlqUzVEZFAwdG80V0tVd0ZzektHWlo?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T15:59:12+00:00",
+      "published_raw": "Tue, 26 May 2026 15:59:12 GMT",
+      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T20:12:01.356878+00:00"
     },
     {
       "id": "329de6102ccd6ee24a584dbd84ff397aa15f8449a7baf8509cb8ecd1d57ae9e9",
@@ -88,13 +105,13 @@
       "published": "2026-05-26T14:18:00+00:00",
       "published_raw": "Tue, 26 May 2026 14:18:00 GMT",
       "snippet": "Um ano depois, ampliação da Washington Luís já soma mais de 10 km de novas faixas São Carlos Agora",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:55.474390+00:00"
+      "collected_at": "2026-05-26T20:12:12.221138+00:00"
     },
     {
       "id": "9efb8dbd24d518bacd2f88b67023c2f8e8260c93ace11322663a4a55cca21ea2",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:41.675105+00:00"
+      "collected_at": "2026-05-26T20:12:01.357268+00:00"
     },
     {
       "id": "d320c00e1a844d24926978429099623f2a8b66eea03b1fa4ede04fdf35e08460",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:53.225904+00:00"
+      "collected_at": "2026-05-26T20:12:13.387060+00:00"
     },
     {
       "id": "7533dbe6f518357463f3a0fca14fd45b53261759c660730a3cc747e27e034ac8",
@@ -139,13 +156,13 @@
       "published": "2026-05-26T14:01:26+00:00",
       "published_raw": "Tue, 26 May 2026 14:01:26 GMT",
       "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:43.362603+00:00"
+      "collected_at": "2026-05-26T20:12:13.386797+00:00"
     },
     {
       "id": "f766622fb57f11b8a590c6f9e7b6d41defdf7121b51d423feccfb5e9fa8c8c25",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:41.674933+00:00"
+      "collected_at": "2026-05-26T20:12:01.357181+00:00"
     },
     {
       "id": "c189571e450409f75115a316161295d041674fa4912d2e296636208564fa3840",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:41.674748+00:00"
+      "collected_at": "2026-05-26T20:12:01.357094+00:00"
     },
     {
       "id": "27a39461fc38ecf2e4998eadbedb55e269b12a6fdd3459c4b1e8e010c7951e6c",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:43.928823+00:00"
+      "collected_at": "2026-05-26T20:12:03.641475+00:00"
     },
     {
       "id": "dc792978b9f2242b107516aba8fa81cb12bc33f26133d3477803658ee0f4834b",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:41.674663+00:00"
+      "collected_at": "2026-05-26T20:12:01.357009+00:00"
     },
     {
       "id": "c12f4bac9d47cf47b26b7a1c12052f1902684e50ebd7965683285137192ecb88",
@@ -224,13 +241,13 @@
       "published": "2026-05-25T20:40:35+00:00",
       "published_raw": "Mon, 25 May 2026 20:40:35 GMT",
       "snippet": "Obras na Washington Luís começam em Rio Preto (SP) com construção de viadutos e ampliação de pistas gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:43.363104+00:00"
+      "collected_at": "2026-05-26T20:12:01.357359+00:00"
     },
     {
       "id": "fffed2c51fd857d8c02c274e4c602cb6172bc37ca6997fee5e461ff8c72d7393",
@@ -247,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T19:53:50.481512+00:00"
-    },
-    {
-      "id": "2fadb1694d746a8080a7922fc8a44e97027b968cbb11c5fe775524b821690198",
-      "title": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkJRUmdKUHpKUGgtNy1DNzBKQWVoZERxS29KZElFa3VFMW9lZ2czVmROUmJheERybW1xTjRHR1BLOXp6OUdncXA4Tk8wSDNNNmJJTGp4OG9Qd2ZFQXlSSUU0MlkwZTlzeVl5SDA0X1ZwVUdSUEUxMHlHUXN1X1pRLUUwUzRaTjBPQmdrRUVxT3E0Z21LQ0JISW1kd0kzWC1kZVRJZGxhTDVXSko2MjVZ?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-25T19:56:45+00:00",
-      "published_raw": "Mon, 25 May 2026 19:56:45 GMT",
-      "snippet": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-26T19:53:43.363039+00:00"
+      "collected_at": "2026-05-26T20:12:10.599512+00:00"
     }
   ]
 }
