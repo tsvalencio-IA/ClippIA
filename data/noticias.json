@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-26T06:42:52.572554+00:00",
+  "updated_at": "2026-05-26T14:40:05.564750+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 9,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "f766622fb57f11b8a590c6f9e7b6d41defdf7121b51d423feccfb5e9fa8c8c25",
+      "title": "Concessionária inicia obras de novos viadutos no acesso ao aeroporto de Rio Preto - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3l2QmtmTDJSSlkwcVVQcEpVZkZ4QklmSmx4Mmd3Q3o2U29Pc0dCNHduZ25hbml2RVVjSDRBTWNSRVY1NmloNkNPSUFhR3hLRFNsTDJMX3QtSURlODI0UkMxb1JHOFlaQnFxdXZSZ095blRwdnRncGE3bFcyZDlWMVRrdFVfc1FQQXpQWlZ0WGR6a3RkWnNJUTI2NGYwWmprYVB2Z3cwcmdWNHlqbHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T12:24:00+00:00",
+      "published_raw": "Tue, 26 May 2026 12:24:00 GMT",
+      "snippet": "Concessionária inicia obras de novos viadutos no acesso ao aeroporto de Rio Preto Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T14:39:49.045078+00:00"
+    },
+    {
+      "id": "c189571e450409f75115a316161295d041674fa4912d2e296636208564fa3840",
+      "title": "Nova fase das obras chega ao acesso do aeroporto e trecho de Mirassol - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTVLaVpXcDlvZ0FJZm9GN3lxOEFlSXBOWGwtc2l1MVkyZFFmcXFnZV9DVU1oVHduOGRlYWVMNG9EemJpRXAxNlg3M2ZNTThKcmlsV01jcXdEZzJvT1ZKX3VnRTFOTlJqelRmWGZIT0NEaDZKVjJUYjlyUTRTRVZBLVRXaXdtakJZSW9sc1JySWtpdTBMX0R5eWl6RW1JMUl0M1E1a1kzSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T11:34:00+00:00",
+      "published_raw": "Tue, 26 May 2026 11:34:00 GMT",
+      "snippet": "Nova fase das obras chega ao acesso do aeroporto e trecho de Mirassol Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T14:39:49.044994+00:00"
+    },
+    {
+      "id": "27a39461fc38ecf2e4998eadbedb55e269b12a6fdd3459c4b1e8e010c7951e6c",
+      "title": "TORPEDOS – 26/05/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82Sk1wQzI1dmFsaUFiODdkMEx2Rk1nNThvUFFWYkhIRl9fZUt0b09YejE0anpleHQ2TWt5Zm1jSDBPQl92T2w0YlItV2s4QXNqR0U4NlhweUExd1NSZ1R4Q3pzMlRabmMyMnB3MjVsTQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T02:57:21+00:00",
+      "published_raw": "Tue, 26 May 2026 02:57:21 GMT",
+      "snippet": "TORPEDOS – 26/05/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T14:39:51.293070+00:00"
+    },
+    {
       "id": "dc792978b9f2242b107516aba8fa81cb12bc33f26133d3477803658ee0f4834b",
       "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo a partir desta segunda-feira (25) - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:48.063090+00:00"
+      "collected_at": "2026-05-26T14:40:01.254946+00:00"
     },
     {
       "id": "c12f4bac9d47cf47b26b7a1c12052f1902684e50ebd7965683285137192ecb88",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:35.534259+00:00"
+      "collected_at": "2026-05-26T14:39:49.045235+00:00"
     },
     {
       "id": "fffed2c51fd857d8c02c274e4c602cb6172bc37ca6997fee5e461ff8c72d7393",
@@ -88,13 +139,13 @@
       "published": "2026-05-25T20:26:48+00:00",
       "published_raw": "Mon, 25 May 2026 20:26:48 GMT",
       "snippet": "“DONOS DA FAIXA ESQUERDA”: imprudência silenciosa transforma trânsito urbano em campo de risco - São Carlos São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reclamação | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" reclamação | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:44.681486+00:00"
+      "collected_at": "2026-05-26T14:39:57.942650+00:00"
     },
     {
       "id": "2fadb1694d746a8080a7922fc8a44e97027b968cbb11c5fe775524b821690198",
@@ -105,47 +156,47 @@
       "published": "2026-05-25T19:56:45+00:00",
       "published_raw": "Mon, 25 May 2026 19:56:45 GMT",
       "snippet": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:35.534079+00:00"
+      "collected_at": "2026-05-26T14:39:59.520288+00:00"
     },
     {
       "id": "2d1a708a90d5611107afd05baa2a5d08f5797d71081df1aec1bca6effa25cd6e",
       "title": "Batida traseira entre carretas provoca congestionamento e paralisação na SP-310 - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObF92LTBwRi0zejFnV1dxZTdBUUdYNUcxOW1OeS1WTHlOYkZnMzM4M3VVNHNnUEhJVjI5RHVvX3JDYjlZMTFZcElHdnN1OWozVkdNbThLc0FnS3U1UmE2MGZaRi1mNHZNZjlsYldZSGVZUGNsY0FYYUFLaVVCSEUzdXJjb05ucVlScVJUUGxubHVjOGxrNS0tUlp6SVdlSFoyQ2U2eFdqaFI1a3lGM2fSAbMBQVVfeXFMTXNBX3NOXzNKZTkyMTVIRzFzbFFkaTM0QW1HTUdZVVo2bXFSWTU5ckpjeExFM01YanRwTF9jUldxaFpvQkFlaDhXanNteFItUlB4QTlaN3JiWjFBRWctY3hCU0tWdjFCVnNtWDdmYmZ3dS1ZTkxhWTBwOXhleXlXTjVEXzFyMUpja1dXQmNsUUl2TG5BWlpHU0dKTDk1RlZpVjdQQlJhQVREUTNEaThaQ0F6UW8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0Ffc05fM0plOTIxNUhHMXNsUWRpMzRBbUdNR1lVWjZtcVJZNTlySmN4TEUzTVhqdHBMX2NSV3FoWm9CQWVoOFdqc214Ui1SUHhBOVo3cmJaMUFFZy1jeEJTS1Z2MUJWc21YN2ZiZnd1LVlOTGFZMHA5eGV5eVdONURfMXIxSmNrV1dCY2xRSXZMbkFaWkdTR0pMOTVGVmlWN1BCUmFBVERRM0RpOFpDQXpRb9IBswFBVV95cUxNc0Ffc05fM0plOTIxNUhHMXNsUWRpMzRBbUdNR1lVWjZtcVJZNTlySmN4TEUzTVhqdHBMX2NSV3FoWm9CQWVoOFdqc214Ui1SUHhBOVo3cmJaMUFFZy1jeEJTS1Z2MUJWc21YN2ZiZnd1LVlOTGFZMHA5eGV5eVdONURfMXIxSmNrV1dCY2xRSXZMbkFaWkdTR0pMOTVGVmlWN1BCUmFBVERRM0RpOFpDQXpRbw?oc=5",
       "resolved_link": "",
-      "published": "2026-05-25T18:35:18+00:00",
-      "published_raw": "Mon, 25 May 2026 18:35:18 GMT",
+      "published": "2026-05-25T19:42:20+00:00",
+      "published_raw": "Mon, 25 May 2026 19:42:20 GMT",
       "snippet": "Batida traseira entre carretas provoca congestionamento e paralisação na SP-310 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:35.534181+00:00"
+      "collected_at": "2026-05-26T14:39:49.045159+00:00"
     },
     {
-      "id": "43c4166bf3aa0444fa7f21fa36a4a669b65a2c913c67a273f589891f7c6d078d",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
+      "id": "0eb113972b9afa91b7adea477ec1b36b41ea0233649b46c4d787961b4f8b4af9",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 - saocarlosdiaenoite.com.br",
+      "source": "saocarlosdiaenoite.com.br",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEN1V0E0Q1ZiLW82TlFSS1BGdGxPLUMxZG1ic2F3VnVXc2pEeUFzMXVDYmF1aDQtTzg0b0JZemJiYnJRUXZNazQteEdqZGtxdnBHdlJBNG15SFkxNXFPd0hNX09pbnQ3dEJta29zd0Q4Q0ZhMUotNzc1ODdPYkVxNkF0c3RGYlB3c0p6ZEtUeENQNXZzMGtGTmt0OUY3Zmk0ZTR3eU1LZmlfWmM5LWxJOTFkN3ZRaXB0WDlVeWd3?oc=5",
       "resolved_link": "",
       "published": "2026-05-25T16:40:54+00:00",
       "published_raw": "Mon, 25 May 2026 16:40:54 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 Portal SCDN - Porque a informação não para!",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 25/5 a 31/5/2026 saocarlosdiaenoite.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T06:42:35.533980+00:00"
+      "collected_at": "2026-05-26T14:39:49.044863+00:00"
     }
   ]
 }
