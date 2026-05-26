@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-26T17:51:18.371416+00:00",
+  "updated_at": "2026-05-26T17:58:02.334878+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 14,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:15.646764+00:00"
+      "collected_at": "2026-05-26T17:57:59.543219+00:00"
     },
     {
       "id": "329de6102ccd6ee24a584dbd84ff397aa15f8449a7baf8509cb8ecd1d57ae9e9",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:11.987515+00:00"
+      "collected_at": "2026-05-26T17:57:55.931085+00:00"
     },
     {
       "id": "9efb8dbd24d518bacd2f88b67023c2f8e8260c93ace11322663a4a55cca21ea2",
@@ -94,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.697091+00:00"
+      "collected_at": "2026-05-26T17:57:45.183071+00:00"
+    },
+    {
+      "id": "d320c00e1a844d24926978429099623f2a8b66eea03b1fa4ede04fdf35e08460",
+      "title": "Mortes por acidentes de transporte no Brasil atingem maior nível desde 2019 - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2Z2WWo3cFZReTZheXJXS2FBNW5Zd3B1RFdyWmYtTUJBNDN5RDV1b2RYcVVGZy1ULWVqZHBYSnBXcjdySDl0N3lpWnJRajlZdzNXc1UwRXJuODhDTmc4M1E5YWdmcVRVWV9TYWZ6NGVnUTkwT3NZU1Itb1BsOWNzQm5LZ2JWRUNmQ3VJWGZva0lMZTjSAZMBQVVfeXFMUF9mdllqN3BWUXk2YXlyV0thQTVuWXdwdURXclpmLU1CQTQzeUQ1dW9kWHFVRmctVC1lamRwWEpwV3I3ckg5dDd5aVpyUWo5WXczV3NVMEVybjg4Q05nODNROWFnZnFUVVlfU2FmejRlZ1E5ME9zWVNSLW9QbDljc0JuS2diVkVDZkN1SVhmb2tJTGU4?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T14:12:06+00:00",
+      "published_raw": "Tue, 26 May 2026 14:12:06 GMT",
+      "snippet": "Mortes por acidentes de transporte no Brasil atingem maior nível desde 2019 Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T17:57:57.135101+00:00"
     },
     {
       "id": "7533dbe6f518357463f3a0fca14fd45b53261759c660730a3cc747e27e034ac8",
@@ -105,13 +122,13 @@
       "published": "2026-05-26T14:01:26+00:00",
       "published_raw": "Tue, 26 May 2026 14:01:26 GMT",
       "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.696709+00:00"
+      "collected_at": "2026-05-26T17:57:46.841751+00:00"
     },
     {
       "id": "f766622fb57f11b8a590c6f9e7b6d41defdf7121b51d423feccfb5e9fa8c8c25",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.696952+00:00"
+      "collected_at": "2026-05-26T17:57:45.182921+00:00"
     },
     {
       "id": "c189571e450409f75115a316161295d041674fa4912d2e296636208564fa3840",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.696885+00:00"
+      "collected_at": "2026-05-26T17:57:45.182843+00:00"
     },
     {
       "id": "d498dc1b971f30dbcffb65c978c78be06b7c0d0933acdde9092cb45840debc9a",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:15.646924+00:00"
+      "collected_at": "2026-05-26T17:57:59.543437+00:00"
     },
     {
       "id": "27a39461fc38ecf2e4998eadbedb55e269b12a6fdd3459c4b1e8e010c7951e6c",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:03.089519+00:00"
+      "collected_at": "2026-05-26T17:57:47.434106+00:00"
     },
     {
       "id": "dc792978b9f2242b107516aba8fa81cb12bc33f26133d3477803658ee0f4834b",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.696816+00:00"
+      "collected_at": "2026-05-26T17:57:45.182758+00:00"
     },
     {
       "id": "c12f4bac9d47cf47b26b7a1c12052f1902684e50ebd7965683285137192ecb88",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.697157+00:00"
+      "collected_at": "2026-05-26T17:57:45.183142+00:00"
     },
     {
       "id": "fffed2c51fd857d8c02c274e4c602cb6172bc37ca6997fee5e461ff8c72d7393",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:10.151993+00:00"
+      "collected_at": "2026-05-26T17:57:54.234635+00:00"
     },
     {
       "id": "2fadb1694d746a8080a7922fc8a44e97027b968cbb11c5fe775524b821690198",
@@ -241,13 +258,13 @@
       "published": "2026-05-25T19:56:45+00:00",
       "published_raw": "Mon, 25 May 2026 19:56:45 GMT",
       "snippet": "Ecovias inicia construção de viadutos no acesso ao aeroporto de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:11.987651+00:00"
+      "collected_at": "2026-05-26T17:57:46.842196+00:00"
     },
     {
       "id": "2d1a708a90d5611107afd05baa2a5d08f5797d71081df1aec1bca6effa25cd6e",
@@ -264,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:51:00.697025+00:00"
+      "collected_at": "2026-05-26T17:57:45.183000+00:00"
     }
   ]
 }
