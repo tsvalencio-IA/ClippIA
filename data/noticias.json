@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-26T17:58:02.334878+00:00",
+  "updated_at": "2026-05-26T19:53:58.111135+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 13,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "c30e398dc986643ebdf42a35fc3bfc2b56220e64285343d6d6974df5187fb55c",
+      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTc4dDdCbjVqR0RpOUJIeTZESWpVTmRMQXl1VnNBR3pDVU1ET0VHR1g0Z28xR2FDQmNtbi1IVldxZWNmcXU5cncyUldUeEgwX0FoMGFIOVp0X29pUUxZdDhzclRlT2VvaVozNFNnMkx4VmdFOVdfT3NCTlh4aXRZNnE3al9jRzV3S050Y3gxYUZqQmFENXhzdThOVFJKXzVYTFFBdm1JUmQ3SzJyOXNuWEtLUFFoSnfSAbwBQVVfeXFMTzJwU3RNVDlRbHJaVlRmWUtwY2FqSHk5dU5GRXdSNUFYajFDamkyeTlWNVpYU01NYVlfakk1OHYyUy1SVnJJYm1mS0xsc3M4eGg1bUlPNEFxeE85Vmxubnlkc2tkalE4YnRiMEg3cmU3YnhLZ3RiTWJ5MFhGZl9NVWlmR2JaRnNFQzh1WHU0RmQ1SmpJdmRZVkVXVmdtUnhQS0tWLXRIbG5zTTB4a2ZFd09MODJBdG9wQUZHRno?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-26T17:51:00+00:00",
+      "published_raw": "Tue, 26 May 2026 17:51:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-26T19:53:41.675035+00:00"
+    },
+    {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
       "title": "Confira o cronograma de obras nas rodovias da região - OExtra.net",
       "source": "OExtra.net",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:59.543219+00:00"
+      "collected_at": "2026-05-26T19:53:55.474104+00:00"
     },
     {
       "id": "329de6102ccd6ee24a584dbd84ff397aa15f8449a7baf8509cb8ecd1d57ae9e9",
       "title": "Um ano depois, ampliação da Washington Luís já soma mais de 10 km de novas faixas - São Carlos Agora",
       "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3ZOZGt2eXJZalgzWTdSODNNV1BEaHd1clNmYmRNVEhBNS01NnhEak1MWmdWTFpkRFNUSV9BNDFsRklKaTk2ZWpYZ2czUE4tbDVtSWFXNVNCa1JMdXNCYkk1eWszSHNya3h2MlhzRDNGZTZ4Y2dseEx2M29qd1gwTDRBTXk3Y2xzRXp6bFlEZDJQR0pSbTE3LUlzR2FPcGZKWEVTSjVPMC1HRVBZNTh4WFJXNk5IQ3pNZ050SNIBvAFBVV95cUxNb3ZOZGt2eXJZalgzWTdSODNNV1BEaHd1clNmYmRNVEhBNS01NnhEak1MWmdWTFpkRFNUSV9BNDFsRklKaTk2ZWpYZ2czUE4tbDVtSWFXNVNCa1JMdXNCYkk1eWszSHNya3h2MlhzRDNGZTZ4Y2dseEx2M29qd1gwTDRBTXk3Y2xzRXp6bFlEZDJQR0pSbTE3LUlzR2FPcGZKWEVTSjVPMC1HRVBZNTh4WFJXNk5IQ3pNZ050SA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yRjZ1a05kNUVXQll3TEVkNk5DSXhHRDdDMzdJWFJTMjFjWklJZnFjcnBIOWJBcENUdldPSTVpb2hxMTdael9HVmlYOU1JeGlPM1pOVGU4cDdGQVNpVnNVbGVyTjkwUUNjSE5CMHFrSTZyMEN1cFQwN25kd2NMUk1xSEUweWplM2pFVFVzdkR6YnRMb3RBVnRhbFFKS1JiSEhkT2RKNDg4ekVmNHgwMWo4azRWaU3SAbwBQVVfeXFMTW92TmRrdnlyWWpYM1k3UjgzTVdQRGh3dXJTZmJkTVRIQTUtNTZ4RGpNTFpnVkxaZERTVElfQTQxbEZJSmk5NmVqWGdnM1BOLWw1bUlhVzVTQmtSTHVzQmJJNXlrM0hzcmt4djJYc0QzRmU2eGNnbHhMdjNvandYMEw0QU15N2Nsc0V6emxZRGQyUEdKUm0xNy1Jc0dhT3BmSlhFU0o1TzAtR0VQWTU4eFhSVzZOSEN6TWdOdEg?oc=5",
       "resolved_link": "",
-      "published": "2026-05-26T14:47:23+00:00",
-      "published_raw": "Tue, 26 May 2026 14:47:23 GMT",
+      "published": "2026-05-26T14:18:00+00:00",
+      "published_raw": "Tue, 26 May 2026 14:18:00 GMT",
       "snippet": "Um ano depois, ampliação da Washington Luís já soma mais de 10 km de novas faixas São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:55.931085+00:00"
+      "collected_at": "2026-05-26T19:53:55.474390+00:00"
     },
     {
       "id": "9efb8dbd24d518bacd2f88b67023c2f8e8260c93ace11322663a4a55cca21ea2",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.183071+00:00"
+      "collected_at": "2026-05-26T19:53:41.675105+00:00"
     },
     {
       "id": "d320c00e1a844d24926978429099623f2a8b66eea03b1fa4ede04fdf35e08460",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:57.135101+00:00"
+      "collected_at": "2026-05-26T19:53:53.225904+00:00"
     },
     {
       "id": "7533dbe6f518357463f3a0fca14fd45b53261759c660730a3cc747e27e034ac8",
@@ -122,13 +139,13 @@
       "published": "2026-05-26T14:01:26+00:00",
       "published_raw": "Tue, 26 May 2026 14:01:26 GMT",
       "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:46.841751+00:00"
+      "collected_at": "2026-05-26T19:53:43.362603+00:00"
     },
     {
       "id": "f766622fb57f11b8a590c6f9e7b6d41defdf7121b51d423feccfb5e9fa8c8c25",
@@ -139,13 +156,13 @@
       "published": "2026-05-26T12:24:00+00:00",
       "published_raw": "Tue, 26 May 2026 12:24:00 GMT",
       "snippet": "Concessionária inicia obras de novos viadutos no acesso ao aeroporto de Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.182921+00:00"
+      "collected_at": "2026-05-26T19:53:41.674933+00:00"
     },
     {
       "id": "c189571e450409f75115a316161295d041674fa4912d2e296636208564fa3840",
@@ -162,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.182843+00:00"
-    },
-    {
-      "id": "d498dc1b971f30dbcffb65c978c78be06b7c0d0933acdde9092cb45840debc9a",
-      "title": "São Carlos receberá R$ 1,8 bilhão em investimentos com o UniversalizaSP - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnZuSWNlRndyeldoMi1VcnNWY0M4ZFRIY2dOd1piMUlNNGx6a0JmaGRxa2NXRGhtUGg4TkQ3U1RPbkxYZmxEQTNfMjdtbGNuWVZ4TUEyZk56SjZHRGpYRzdWUWVHanptWURtc0JpakwzUVNJTm9xNEU3TzFBekQ2Ni13dEFlTU5zOFFLMGQzRlpSNVBLZUI3elduUWtfeTZNcFc3R0Y0RU5yMndxanM4U0Y5SHUwcXFqN0dRc0Zxdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-26T11:24:28+00:00",
-      "published_raw": "Tue, 26 May 2026 11:24:28 GMT",
-      "snippet": "São Carlos receberá R$ 1,8 bilhão em investimentos com o UniversalizaSP Portal SCDN - Porque a informação não para!",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-26T17:57:59.543437+00:00"
+      "collected_at": "2026-05-26T19:53:41.674748+00:00"
     },
     {
       "id": "27a39461fc38ecf2e4998eadbedb55e269b12a6fdd3459c4b1e8e010c7951e6c",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:47.434106+00:00"
+      "collected_at": "2026-05-26T19:53:43.928823+00:00"
     },
     {
       "id": "dc792978b9f2242b107516aba8fa81cb12bc33f26133d3477803658ee0f4834b",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.182758+00:00"
+      "collected_at": "2026-05-26T19:53:41.674663+00:00"
     },
     {
       "id": "c12f4bac9d47cf47b26b7a1c12052f1902684e50ebd7965683285137192ecb88",
@@ -224,13 +224,13 @@
       "published": "2026-05-25T20:40:35+00:00",
       "published_raw": "Mon, 25 May 2026 20:40:35 GMT",
       "snippet": "Obras na Washington Luís começam em Rio Preto (SP) com construção de viadutos e ampliação de pistas gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.183142+00:00"
+      "collected_at": "2026-05-26T19:53:43.363104+00:00"
     },
     {
       "id": "fffed2c51fd857d8c02c274e4c602cb6172bc37ca6997fee5e461ff8c72d7393",
@@ -241,13 +241,13 @@
       "published": "2026-05-25T20:26:48+00:00",
       "published_raw": "Mon, 25 May 2026 20:26:48 GMT",
       "snippet": "“DONOS DA FAIXA ESQUERDA”: imprudência silenciosa transforma trânsito urbano em campo de risco - São Carlos São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" reclamação | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" reclamação",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:54.234635+00:00"
+      "collected_at": "2026-05-26T19:53:50.481512+00:00"
     },
     {
       "id": "2fadb1694d746a8080a7922fc8a44e97027b968cbb11c5fe775524b821690198",
@@ -264,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-26T17:57:46.842196+00:00"
-    },
-    {
-      "id": "2d1a708a90d5611107afd05baa2a5d08f5797d71081df1aec1bca6effa25cd6e",
-      "title": "Batida traseira entre carretas provoca congestionamento e paralisação na SP-310 - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0Ffc05fM0plOTIxNUhHMXNsUWRpMzRBbUdNR1lVWjZtcVJZNTlySmN4TEUzTVhqdHBMX2NSV3FoWm9CQWVoOFdqc214Ui1SUHhBOVo3cmJaMUFFZy1jeEJTS1Z2MUJWc21YN2ZiZnd1LVlOTGFZMHA5eGV5eVdONURfMXIxSmNrV1dCY2xRSXZMbkFaWkdTR0pMOTVGVmlWN1BCUmFBVERRM0RpOFpDQXpRb9IBswFBVV95cUxNc0Ffc05fM0plOTIxNUhHMXNsUWRpMzRBbUdNR1lVWjZtcVJZNTlySmN4TEUzTVhqdHBMX2NSV3FoWm9CQWVoOFdqc214Ui1SUHhBOVo3cmJaMUFFZy1jeEJTS1Z2MUJWc21YN2ZiZnd1LVlOTGFZMHA5eGV5eVdONURfMXIxSmNrV1dCY2xRSXZMbkFaWkdTR0pMOTVGVmlWN1BCUmFBVERRM0RpOFpDQXpRbw?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-25T19:42:20+00:00",
-      "published_raw": "Mon, 25 May 2026 19:42:20 GMT",
-      "snippet": "Batida traseira entre carretas provoca congestionamento e paralisação na SP-310 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-26T17:57:45.183000+00:00"
+      "collected_at": "2026-05-26T19:53:43.363039+00:00"
     }
   ]
 }
