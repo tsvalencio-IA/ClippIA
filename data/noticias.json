@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T02:12:48.601374+00:00",
+  "updated_at": "2026-05-27T02:57:08.667850+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 15,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:43.195464+00:00"
+      "collected_at": "2026-05-27T02:57:03.815380+00:00"
     },
     {
       "id": "c2011e0c947b08c450efe490c9daff3c4a2f619ab55f34baf012f9953e53f99b",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:43.195533+00:00"
+      "collected_at": "2026-05-27T02:57:03.815443+00:00"
     },
     {
       "id": "db0e74c4f428f21ca58733485ec3afa992d0299597c05a5b2c766fbf6024641d",
@@ -88,13 +88,13 @@
       "published": "2026-05-26T23:04:23+00:00",
       "published_raw": "Tue, 26 May 2026 23:04:23 GMT",
       "snippet": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:30.156966+00:00"
+      "collected_at": "2026-05-27T02:56:54.006294+00:00"
     },
     {
       "id": "cf48a14f7eb564a2465b31f500047a5a01f9672521abc49b777c3536d6d02082",
@@ -105,13 +105,13 @@
       "published": "2026-05-26T21:00:00+00:00",
       "published_raw": "Tue, 26 May 2026 21:00:00 GMT",
       "snippet": "Concessionária realiza mutirão de obras e manutenções em rodovias do interior paulista nesta semana Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:30.157065+00:00"
+      "collected_at": "2026-05-27T02:56:52.402970+00:00"
     },
     {
       "id": "63c7072eff592422fc0ea2a86132c84033907563458f6bad67fa438973c17cc5",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:39.397745+00:00"
+      "collected_at": "2026-05-27T02:57:00.470780+00:00"
     },
     {
       "id": "c30e398dc986643ebdf42a35fc3bfc2b56220e64285343d6d6974df5187fb55c",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:30.157211+00:00"
+      "collected_at": "2026-05-27T02:56:52.403255+00:00"
     },
     {
       "id": "2c4ef280e0c90822c59902bc463f9b369f9f423004d4e49252599fd84e3f0597",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:32.598826+00:00"
+      "collected_at": "2026-05-27T02:56:54.553008+00:00"
     },
     {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:41.973322+00:00"
+      "collected_at": "2026-05-27T02:57:02.633375+00:00"
     },
     {
       "id": "329de6102ccd6ee24a584dbd84ff397aa15f8449a7baf8509cb8ecd1d57ae9e9",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:41.973584+00:00"
+      "collected_at": "2026-05-27T02:57:02.633587+00:00"
     },
     {
       "id": "9efb8dbd24d518bacd2f88b67023c2f8e8260c93ace11322663a4a55cca21ea2",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:30.157284+00:00"
+      "collected_at": "2026-05-27T02:56:52.403371+00:00"
     },
     {
       "id": "d320c00e1a844d24926978429099623f2a8b66eea03b1fa4ede04fdf35e08460",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:43.195598+00:00"
+      "collected_at": "2026-05-27T02:57:03.815505+00:00"
     },
     {
       "id": "7533dbe6f518357463f3a0fca14fd45b53261759c660730a3cc747e27e034ac8",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:43.195206+00:00"
+      "collected_at": "2026-05-27T02:57:03.815182+00:00"
     },
     {
       "id": "f766622fb57f11b8a590c6f9e7b6d41defdf7121b51d423feccfb5e9fa8c8c25",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:31.920931+00:00"
+      "collected_at": "2026-05-27T02:56:54.006436+00:00"
     },
     {
       "id": "c189571e450409f75115a316161295d041674fa4912d2e296636208564fa3840",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:30.157138+00:00"
+      "collected_at": "2026-05-27T02:56:52.403132+00:00"
     },
     {
       "id": "27a39461fc38ecf2e4998eadbedb55e269b12a6fdd3459c4b1e8e010c7951e6c",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T02:12:32.599853+00:00"
+      "collected_at": "2026-05-27T02:56:54.558828+00:00"
     }
   ]
 }
