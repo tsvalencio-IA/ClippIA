@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-27T17:56:00.599724+00:00",
+  "updated_at": "2026-05-27T19:57:54.678762+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 13,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:54.424944+00:00"
+      "collected_at": "2026-05-27T19:57:48.681699+00:00"
     },
     {
       "id": "e9ed96e5c4b1a8b3336adea4fc2974d20a3cb5aa40f19e8741ca0f4d6a1eb613",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:54.425011+00:00"
+      "collected_at": "2026-05-27T19:57:48.681772+00:00"
     },
     {
       "id": "0b94a0a59475c96203de52f21f6fe7cbecbb2c4f1038680e0c146571ed779800",
@@ -94,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:56.214232+00:00"
+      "collected_at": "2026-05-27T19:57:50.433391+00:00"
     },
     {
-      "id": "cef698d2e910981ffc618e16be396c4a89e5f9a8d867f6479e291c74a1dc8901",
-      "title": "Motorista morre após batida entre dois carros na Rodovia Washington Luís - band.com.br",
+      "id": "2fec338dfb8e6eea6107d591b7237551d8d84389129891140f383c8ab1adf3d2",
+      "title": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís - band.com.br",
       "source": "band.com.br",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQUtKelFjUEZqcVlCSVRGQ2RjU0ZTbkVCYWtRUk1IMFRpWS1MZjNIVHF1dmFWOUJSX0NHaFVOYTdEbGFkSVVDRmRncEJGMDVteWxYSlNveXVWS0RNc3ZVcXdncVZWZzhaQllPdjlXcWVfVGFVXzFKSXVMNHhwNE00bXFqbVJCSDc1S014UWJLb1ZySUV6Tkt4RW02cHV0ckw1dzNoWXl0cV9QY3FkU0RuZTNqLVdqeW9pY18xSy11YVNRVllrMWZKajFVcFdFdHI1a0txb09ZYjRCSkZJaWdSc2x5dWxVdw?oc=5",
       "resolved_link": "",
       "published": "2026-05-27T12:31:19+00:00",
       "published_raw": "Wed, 27 May 2026 12:31:19 GMT",
-      "snippet": "Motorista morre após batida entre dois carros na Rodovia Washington Luís band.com.br",
+      "snippet": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís band.com.br",
       "term": "\"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:57.934058+00:00"
+      "collected_at": "2026-05-27T19:57:52.121408+00:00"
     },
     {
       "id": "daa90e3217b47375e10235f1c563144340d37cd75304dc3be659a89f90e21948",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647474+00:00"
+      "collected_at": "2026-05-27T19:57:38.250093+00:00"
     },
     {
       "id": "761956fd0e65ce5bb339e1e215d1de59e5d1d3d7c74e69cd4e2f9cb2b80ba166",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:56.214167+00:00"
+      "collected_at": "2026-05-27T19:57:50.433453+00:00"
     },
     {
       "id": "b18fcf0ca374f285e4b3c59f7b581022a26929ee27fe2ab2591105fe3bdf115b",
@@ -156,13 +156,13 @@
       "published": "2026-05-27T10:13:00+00:00",
       "published_raw": "Wed, 27 May 2026 10:13:00 GMT",
       "snippet": "Mulher morre após perder controle de carro e invadir pista contrária na região Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:55.649390+00:00"
+      "collected_at": "2026-05-27T19:57:38.249973+00:00"
     },
     {
       "id": "a3a7593438a3937cbe3b1790ca127a35d817450de175b73d87dd52b84cf9d48b",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:45.354077+00:00"
+      "collected_at": "2026-05-27T19:57:39.924340+00:00"
     },
     {
       "id": "32cded4e28a66172544f487f4f66df5fd2a928797b6b59650b826e25337974e9",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647242+00:00"
+      "collected_at": "2026-05-27T19:57:38.249664+00:00"
     },
     {
       "id": "2e6335f27d70344f2ffd0ad2ce5ed04f4f1f07b80cb39bae4461fdf8b382cd80",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647602+00:00"
+      "collected_at": "2026-05-27T19:57:38.250204+00:00"
     },
     {
       "id": "c2011e0c947b08c450efe490c9daff3c4a2f619ab55f34baf012f9953e53f99b",
@@ -224,13 +224,13 @@
       "published": "2026-05-26T23:41:01+00:00",
       "published_raw": "Tue, 26 May 2026 23:41:01 GMT",
       "snippet": "Motorista morre em acidente entre dois carros na Washington Luís em Catanduva (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:55.649566+00:00"
+      "collected_at": "2026-05-27T19:57:49.836884+00:00"
     },
     {
       "id": "db0e74c4f428f21ca58733485ec3afa992d0299597c05a5b2c766fbf6024641d",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647333+00:00"
+      "collected_at": "2026-05-27T19:57:38.249836+00:00"
     },
     {
       "id": "cf48a14f7eb564a2465b31f500047a5a01f9672521abc49b777c3536d6d02082",
@@ -264,41 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647411+00:00"
-    },
-    {
-      "id": "63c7072eff592422fc0ea2a86132c84033907563458f6bad67fa438973c17cc5",
-      "title": "Governo de SP endurece punições para maus-tratos a animais e multas podem chegar a R$ 50 mil - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVA2YTNBcGs2Tm51d2RFX3N0bHoyaWtjd21sU29SX1BGR2RiWXBlY05XOURpSTB3c0JaQkdCT21EdzZ4Y3hhVjhCVE1PZWMwYjRaUjJhMm5HMDRId1RoRENleXVRMUxHWGhxUENEelBkZ2ktcWlSU09yRWhzUnFLTm5MOXlKeF9qZ2ZCeG5seXV0RlVYRWVPbzUxNm5BU3J6bWtZRVVFUG1DS2lxWE5MTFJMaEx4MWk2eFpxMDRjR3FiRmFPNWU3LVZsT1ZBQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-26T18:22:04+00:00",
-      "published_raw": "Tue, 26 May 2026 18:22:04 GMT",
-      "snippet": "Governo de SP endurece punições para maus-tratos a animais e multas podem chegar a R$ 50 mil Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-27T17:55:52.034427+00:00"
-    },
-    {
-      "id": "c30e398dc986643ebdf42a35fc3bfc2b56220e64285343d6d6974df5187fb55c",
-      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnBTdE1UOVFsclpWVGZZS3BjYWpIeTl1TkZFd1I1QVhqMUNqaTJ5OVY1WlhTTU1hWV9qSTU4djJTLVJWcklibWZLTGxzczh4aDVtSU80QXF4TzlWbG5ueWRza2RqUThidGIwSDdyZTdieEtndGJNYnkwWEZmX01VaWZHYlpGc0VDOHVYdTRGZDVKakl2ZFlWRVdWZ21SeFBLS1YtdEhsbnNNMHhrZkV3T0w4MkF0b3BBRkdGetIBvAFBVV95cUxPMnBTdE1UOVFsclpWVGZZS3BjYWpIeTl1TkZFd1I1QVhqMUNqaTJ5OVY1WlhTTU1hWV9qSTU4djJTLVJWcklibWZLTGxzczh4aDVtSU80QXF4TzlWbG5ueWRza2RqUThidGIwSDdyZTdieEtndGJNYnkwWEZmX01VaWZHYlpGc0VDOHVYdTRGZDVKakl2ZFlWRVdWZ21SeFBLS1YtdEhsbnNNMHhrZkV3T0w4MkF0b3BBRkdGeg?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-26T18:11:54+00:00",
-      "published_raw": "Tue, 26 May 2026 18:11:54 GMT",
-      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-27T17:55:43.647543+00:00"
+      "collected_at": "2026-05-27T19:57:38.249523+00:00"
     }
   ]
 }
