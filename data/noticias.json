@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T12:23:15.830815+00:00",
+  "updated_at": "2026-05-28T17:55:38.532546+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 6,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,47 +54,13 @@
       "published": "2026-05-28T07:23:12+00:00",
       "published_raw": "Thu, 28 May 2026 07:23:12 GMT",
       "snippet": "Semáforos entram em operação na Avenida Comendador Alfredo Maffei Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:23:11.472972+00:00"
-    },
-    {
-      "id": "cfae88ed0c6445c2d278ea268f2c09f5948a543c2f5aff150244b3f51cd6b166",
-      "title": "CCJ adia novamente análise de PEC sobre redução da maioridade penal - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlludC1JTGVHYV84aE5HSVJ2dTgtVnJJdjdSNmR3X2NhRlh1ZGVyWGhrQlRReWJlVi1SY2lTVTBVTFdLR3lXcEdVTnBqM0hZUXVoZGlsSDEyU0pLdVJULTNKNVJsdy1SOEdsaTY3QXQ2RFNuRnJuZ01feEVTa0NCaDM3WEtuV0RxRjBtWnZUVDF4NjA0NnZmVXZEU1BEZ3ZsYTh0cW5PMGJDZlBKR3JOZ1BjUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-28T05:07:24+00:00",
-      "published_raw": "Thu, 28 May 2026 05:07:24 GMT",
-      "snippet": "CCJ adia novamente análise de PEC sobre redução da maioridade penal Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:23:09.780581+00:00"
-    },
-    {
-      "id": "6bc385917ce2926394e285dc5ddde9c7872c670308e756c31125a654ec4c607f",
-      "title": "Mulheres de 45 a 64 anos lideram mercado de cannabis medicinal no país - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUZBdW5CMDAtTmdUMUtKbnE3bEV5d1dmT0ItbGdFbE5IRGYtTl93aVNzUkJkQTJ6eExMZ2xQNmNnUzJreGVUSW5IeWVEQjktZjBGSUpadHc3bURYdmJ5V29RT25Eb1lBeEltVGxSWk42S1ZiV2pLRDl4TEpwcXo0QWstR3VLbjlQZ2MtdFFuRElXM2s5ZkhZSWliczJDNUdPR3I1c3pBWUFock9kT1VmWGptRUl6NmpCdVpzaDdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-28T04:56:22+00:00",
-      "published_raw": "Thu, 28 May 2026 04:56:22 GMT",
-      "snippet": "Mulheres de 45 a 64 anos lideram mercado de cannabis medicinal no país Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:23:09.780519+00:00"
+      "collected_at": "2026-05-28T17:55:21.195482+00:00"
     },
     {
       "id": "0390ae1b2cf78fd0486969358949dd66ba181812ec4ca1b366a5a1aba9afccb3",
@@ -111,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212246+00:00"
+      "collected_at": "2026-05-28T17:55:21.195239+00:00"
     },
     {
       "id": "be9e149ff3020e12e4af23e9346d245e1dc8907d721b844590a52a25cf1b8690",
@@ -128,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:23:00.951242+00:00"
+      "collected_at": "2026-05-28T17:55:22.961353+00:00"
     },
     {
       "id": "84c05f9bd23b5338812d33eccc4869ed9e09bdc5aa453746e52eebb558ef55fb",
@@ -139,13 +105,13 @@
       "published": "2026-05-27T21:24:25+00:00",
       "published_raw": "Wed, 27 May 2026 21:24:25 GMT",
       "snippet": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - Folha folharegionalnet.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212627+00:00"
+      "collected_at": "2026-05-28T17:55:21.195573+00:00"
     },
     {
       "id": "f0245fe4005b32fe288270099498d0b1acd3c3c5e55a3e19e435ba7cd3921fd4",
@@ -162,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.789443+00:00"
+      "collected_at": "2026-05-28T17:55:21.786905+00:00"
     },
     {
       "id": "473445de5dd367dda802aa7886f94940a6dfb89f2a3e90a45f35c5a2d1fe44f7",
@@ -179,92 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212344+00:00"
-    },
-    {
-      "id": "360d76f1c0fdd96ef39612deb512904d6a61ea634bb9674ac1181e7aa83e0e0b",
-      "title": "Rodovia Washington Luís terá nova marginal em trecho de Mirassol - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjZ6dDFlU0ZPSUlHY0tvS2ZzVkRWalFucFBaMHVmMGVPRzFBX2dpcDQxTXVsVjNncHJ0LUJrWGtPaWJtWTFxcm9mZDk3WHFOOFA2ZnplN3hKWGg5OEItYXUzWEZ6Umc4WFo4ZjlicFBGbXF1ZUlIMXZfaFFWdDJqcC15aGlkVmIxSm5YWERlWWFBR05wWG9uQjREUTJ4OGNhSFZj?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T17:37:52+00:00",
-      "published_raw": "Wed, 27 May 2026 17:37:52 GMT",
-      "snippet": "Rodovia Washington Luís terá nova marginal em trecho de Mirassol Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212490+00:00"
-    },
-    {
-      "id": "e9ed96e5c4b1a8b3336adea4fc2974d20a3cb5aa40f19e8741ca0f4d6a1eb613",
-      "title": "Marginal da Washington Luís é iniciada no trecho de Mirassol - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWw0REozU3BOVHU2UTE0bE85RlFjcFlRSlZkdFU1MjlHYnhjLW1UZGhMY0tkLVFzc2FNNEJkUE9UU1RUeU9lTW5RYUFpZDNweGRJaUI0VmJMdGdwVVV5YW14SjVSUENwM3VoRFZrOExCVjhLdVlWX0F6SHNnMVR5WlUtTDhyXzM5bDR5d0Qwc09XdWtXQVpPbEgxcmx4cUJXeGdWS1JuelZIZXhQYjMzYTRkcFR2NWtU?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T15:19:08+00:00",
-      "published_raw": "Wed, 27 May 2026 15:19:08 GMT",
-      "snippet": "Marginal da Washington Luís é iniciada no trecho de Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212559+00:00"
-    },
-    {
-      "id": "0b94a0a59475c96203de52f21f6fe7cbecbb2c4f1038680e0c146571ed779800",
-      "title": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0RFYnRFUXhqM0FUdnR6eUNMUHpyc3BFcWZNdXlsZi1Eek5qbDF3LTl6OUdkenVMd2s2YzFHTnNKZjJKT2h1WTVTd0QwT0pqdEI1VXBfbnItbERfb3IwR3VxcXBUcDZzTEk4MTdSOHhJVVJicTU2cnc4dXh1TS1VVnhlVEpSbWZvVzBKNmptVjhxb2tDY1pzaXpWWQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T13:45:20+00:00",
-      "published_raw": "Wed, 27 May 2026 13:45:20 GMT",
-      "snippet": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:23:11.473037+00:00"
-    },
-    {
-      "id": "2fec338dfb8e6eea6107d591b7237551d8d84389129891140f383c8ab1adf3d2",
-      "title": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís - band.com.br",
-      "source": "band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQUtKelFjUEZqcVlCSVRGQ2RjU0ZTbkVCYWtRUk1IMFRpWS1MZjNIVHF1dmFWOUJSX0NHaFVOYTdEbGFkSVVDRmRncEJGMDVteWxYSlNveXVWS0RNc3ZVcXdncVZWZzhaQllPdjlXcWVfVGFVXzFKSXVMNHhwNE00bXFqbVJCSDc1S014UWJLb1ZySUV6Tkt4RW02cHV0ckw1dzNoWXl0cV9QY3FkU0RuZTNqLVdqeW9pY18xSy11YVNRVllrMWZKajFVcFdFdHI1a0txb09ZYjRCSkZJaWdSc2x5dWxVdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T12:31:19+00:00",
-      "published_raw": "Wed, 27 May 2026 12:31:19 GMT",
-      "snippet": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís band.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:23:13.202381+00:00"
-    },
-    {
-      "id": "daa90e3217b47375e10235f1c563144340d37cd75304dc3be659a89f90e21948",
-      "title": "Mulher morre em acidente após carro atravessar canteiro central na Rodovia Washington Luís - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWtJNVdnV2M0MnVVYnpJUzZseThXWjVLZkxETTBVLTNTenRMVjMxTE5NTkJza2xVTDlSUzJPY3VnV2Z6dXY4R0tNanRJMzFJT2lXejgtdi1mUXRtSUdCWUZLU2ZNU2Yxb2JoeVdKR3dPVDlTbktBc09mWmNfZE93UHlZeWZTNk1HRlg1SHhrV0JHYVhral9rNEloejhGbWl0YXNXUXJaZF9NeUVodFhid015LWRHZVNoU3c?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T12:30:00+00:00",
-      "published_raw": "Wed, 27 May 2026 12:30:00 GMT",
-      "snippet": "Mulher morre em acidente após carro atravessar canteiro central na Rodovia Washington Luís Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T12:22:59.212418+00:00"
+      "collected_at": "2026-05-28T17:55:21.195387+00:00"
     }
   ]
 }
