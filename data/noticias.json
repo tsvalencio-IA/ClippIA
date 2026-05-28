@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T20:08:36.369702+00:00",
+  "updated_at": "2026-05-28T22:25:39.592051+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 3,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -49,7 +49,7 @@
       "id": "ac85bf2425d06968c330430468ce398ada27c4bb94bd8e707520f97563964427",
       "title": "Semáforos entram em operação na Avenida Comendador Alfredo Maffei - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVPVEFWTU5UQWxYZEt2X29PcElTaWdxX01UZ1NaNWhUSjVFVVhiSEFRSWJiX0tiTHlPZ3AzdWt6NDV2Ny00Nl9xaDAwdUJBUlhZZXJIVU53V0psMUgxYll4QkxRSU0xRC16VjJIRURMWFBCdENoVHdaT2l5djU5cTU4NURfNmZzX2xpa0NxVjN1OGg4RF9QeXFHcDlOUWdmbGl5YjFvb1RmLTBHeHlDNVROMnZDUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUwyYmM5X3FyVXN4RV90RHhyVmluTHl3bEZQQ2lXbW9sTTAtVEtyQXhNa2J0OXQ1WFNXY0ZMN0xCRldZVWxGeS0yeXdvdEVlUkJ1cERTZDlpUE4tU0FEcFVla1VKWURfcVJwNnhicGZjaGNCd3BnMVBKazVzZDg2TWJRTndSYW1lTlBzSEZ6Y1F2aGRxUFFmRlRMRFprSUxKTW85Z09FSnNycnpWRmY1Ng?oc=5",
       "resolved_link": "",
       "published": "2026-05-28T07:23:12+00:00",
       "published_raw": "Thu, 28 May 2026 07:23:12 GMT",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T20:08:16.972765+00:00"
+      "collected_at": "2026-05-28T22:25:23.043069+00:00"
     },
     {
       "id": "0390ae1b2cf78fd0486969358949dd66ba181812ec4ca1b366a5a1aba9afccb3",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T20:08:16.972666+00:00"
+      "collected_at": "2026-05-28T22:25:23.042979+00:00"
     },
     {
       "id": "be9e149ff3020e12e4af23e9346d245e1dc8907d721b844590a52a25cf1b8690",
@@ -94,58 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T20:08:18.981454+00:00"
-    },
-    {
-      "id": "84c05f9bd23b5338812d33eccc4869ed9e09bdc5aa453746e52eebb558ef55fb",
-      "title": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - Folha - folharegionalnet.com.br",
-      "source": "folharegionalnet.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ3ZackpKaFJuYnBvbWZ6Q2xlQXZKS0RrUGdTM0dhX3NneE0wTnBpc1RJRGp3Y3FBNGNjNTNiUnRRajlfS1pIUjZma0wyaVBtR2xtdmMyZzR3cDdGYVpFbWVXN3R6VGFYdDZNOHJZNlU3Vk9JOGJYQ1A0bk9GQjY4dU41b2pYYVhoTlBaS21RaDRuLVU0NW5CMHVqSWllazdhMFpXNy1KS0pRTHdZT1o4YWJYRElUb3FIRzVGRkZZZk9yN0JuTE1uakNJY3VpbHhrdXpKQThoWDVod3U3aHfSAd4BQVVfeXFMTUN2WnJKSmhSbmJwb21mekNsZUF2SktEa1BnUzNHYV9zZ3hNME5waXNUSURqd2NxQTRjYzUzYlJ0UWo5X0taSFI2ZmtMMmlQbUdsbXZjMmc0d3A3RmFaRW1lVzd0elRhWHQ2TThyWTZVN1ZPSThiWENQNG5PRkI2OHVONW9qWGFYaE5QWkttUWg0bi1VNDVuQjB1aklpZWs3YTBaVzctSktKUUx3WU9aOGFiWERJVG9xSEc1RkZGWWZPcjdCbkxNbmpDSWN1aWx4a3V6SkE4aFg1aHd1N2h3?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T21:24:25+00:00",
-      "published_raw": "Wed, 27 May 2026 21:24:25 GMT",
-      "snippet": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - Folha folharegionalnet.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T20:08:16.972968+00:00"
-    },
-    {
-      "id": "cfebf2fcd77f1498c590df76b1152daab5faf3afe3c1046fd7d5a039a82f8975",
-      "title": "Rodovia Washington Luís ganha nova via marginal para melhorar o trânsito entre Mirassol e Rio Preto - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjZOUFhFYldxeHJ2akVpZjBJWkZoOTc1dTVkRFhWeDRKSWdGR3hyUVIxRHA4aHllUy1tNVQ3THhTNTY5STdtZU81dTl5XzF5RVkxUjZ3REQ3QXNFaVNFQVZjX0oyaWxKQldHUTVxZUxjbnlOcEdwc0h5WTl1VVFnMWtlNmxfRlVJSWhTelVwNERYTlF4N0FKTmpVUTBWYTlZTGFzaG0zZ1lxcmNzMWttRmx2ZFJIeGx4TU9Ra01KQVVYUnNDTF9J?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T21:00:00+00:00",
-      "published_raw": "Wed, 27 May 2026 21:00:00 GMT",
-      "snippet": "Rodovia Washington Luís ganha nova via marginal para melhorar o trânsito entre Mirassol e Rio Preto Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T20:08:16.972884+00:00"
-    },
-    {
-      "id": "f0245fe4005b32fe288270099498d0b1acd3c3c5e55a3e19e435ba7cd3921fd4",
-      "title": "ANTT cancela 800 mil multas de pedágios free flow na Rio-Santos após falhas no sistema - Perfil Brasil",
-      "source": "Perfil Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnhPa1RVb1VTNGtLbFBRUWFnY2toZW5ZMDktM1VrYzdKRUR0LVZyMGRydFBSZmhoZHAyWGRKM0lqeHJ1Yy1fWHMtTnhSTlB0bW9GWmNPQ0NESVpWU01ybDVlNVBleVJVOWxiZ3VlVW5Ha2JSZkZXMmwxbkFQNXJlMXl1Yy1HRmdQeTNxeWp1Vkg2QkRVNlJyekMzS2F5a05ZN3dTM3NFejRvQU9xdkJfd0Z0WHo1X3J2NU93TnFaQmlNT00?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T20:09:55+00:00",
-      "published_raw": "Wed, 27 May 2026 20:09:55 GMT",
-      "snippet": "ANTT cancela 800 mil multas de pedágios free flow na Rio-Santos após falhas no sistema Perfil Brasil",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T20:08:17.655428+00:00"
+      "collected_at": "2026-05-28T22:25:24.706826+00:00"
     }
   ]
 }
