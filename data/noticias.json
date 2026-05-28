@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-05-27T22:32:11.981865+00:00",
+  "updated_at": "2026-05-28T01:56:06.484835+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 15,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 15,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,261 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "0390ae1b2cf78fd0486969358949dd66ba181812ec4ca1b366a5a1aba9afccb3",
+      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNG9KeGYyNFBuX1VRalE2c25Nbnh2Y0RjaG5adTZPNG9qM1l0QjBZYU15Wm5qTG9nYXFOQ2ZQaFNLR292ZWs1Q2lKbWh0NWUwalZ3M2RwQzdwbXJCY0RLd1BvWTRIdnd2YWFFYmRjRHFmamVDcVREYURfejJKaVo2R0FleXZfbTg4NDBhekIyUUJ6V19FOTdINVNVUjNCQk9CRm4zNmZDRV9Wdl9xRnc0Y1ViLVRldUhIYUNzSlBVc0pESnFFMC1oRkVsWlhhcWJTakNzVGNoMW1pZGJoSC0xWjRpOUEzb0xRb2fSAe8BQVVfeXFMTWVMSFJXVnVIMENTQTQ4TXBEdFZFeFBMM2daS3ByLURIdktRNWRqdktucVktV0tSVFhWdUx3eUs3VGpOMDY3NGRYSXRhS1ZuWDRfSFRkSENkN1lmZEk0UUxKVXlnT0FjeC1kUzMxaVp4cjRyMVFpUmpDY01pc2ZRWjhpRG85QjhtczRSWG5raTVHVFdIS3ZSZEZOWVRRX3labHZFSkVGVHpsYm5KTllaNFgtWTNoelJJaUVfOUlfZ0dKWTNzWEpxMFRrelVsZUZkY2htZzM4Znd1aE9SSF9xWnRsLTgteVgwR3ByVW02bVk?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-28T01:04:37+00:00",
+      "published_raw": "Thu, 28 May 2026 01:04:37 GMT",
+      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682199+00:00"
+    },
+    {
+      "id": "84c05f9bd23b5338812d33eccc4869ed9e09bdc5aa453746e52eebb558ef55fb",
+      "title": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - Folha - folharegionalnet.com.br",
+      "source": "folharegionalnet.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ3ZackpKaFJuYnBvbWZ6Q2xlQXZKS0RrUGdTM0dhX3NneE0wTnBpc1RJRGp3Y3FBNGNjNTNiUnRRajlfS1pIUjZma0wyaVBtR2xtdmMyZzR3cDdGYVpFbWVXN3R6VGFYdDZNOHJZNlU3Vk9JOGJYQ1A0bk9GQjY4dU41b2pYYVhoTlBaS21RaDRuLVU0NW5CMHVqSWllazdhMFpXNy1KS0pRTHdZT1o4YWJYRElUb3FIRzVGRkZZZk9yN0JuTE1uakNJY3VpbHhrdXpKQThoWDVod3U3aHfSAd4BQVVfeXFMTUN2WnJKSmhSbmJwb21mekNsZUF2SktEa1BnUzNHYV9zZ3hNME5waXNUSURqd2NxQTRjYzUzYlJ0UWo5X0taSFI2ZmtMMmlQbUdsbXZjMmc0d3A3RmFaRW1lVzd0elRhWHQ2TThyWTZVN1ZPSThiWENQNG5PRkI2OHVONW9qWGFYaE5QWkttUWg0bi1VNDVuQjB1aklpZWs3YTBaVzctSktKUUx3WU9aOGFiWERJVG9xSEc1RkZGWWZPcjdCbkxNbmpDSWN1aWx4a3V6SkE4aFg1aHd1N2h3?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T21:24:25+00:00",
+      "published_raw": "Wed, 27 May 2026 21:24:25 GMT",
+      "snippet": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - Folha folharegionalnet.com.br",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:56:01.013160+00:00"
+    },
+    {
+      "id": "f0245fe4005b32fe288270099498d0b1acd3c3c5e55a3e19e435ba7cd3921fd4",
+      "title": "ANTT cancela 800 mil multas de pedágios free flow na Rio-Santos após falhas no sistema - Perfil Brasil",
+      "source": "Perfil Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnhPa1RVb1VTNGtLbFBRUWFnY2toZW5ZMDktM1VrYzdKRUR0LVZyMGRydFBSZmhoZHAyWGRKM0lqeHJ1Yy1fWHMtTnhSTlB0bW9GWmNPQ0NESVpWU01ybDVlNVBleVJVOWxiZ3VlVW5Ha2JSZkZXMmwxbkFQNXJlMXl1Yy1HRmdQeTNxeWp1Vkg2QkRVNlJyekMzS2F5a05ZN3dTM3NFejRvQU9xdkJfd0Z0WHo1X3J2NU93TnFaQmlNT00?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T20:09:55+00:00",
+      "published_raw": "Wed, 27 May 2026 20:09:55 GMT",
+      "snippet": "ANTT cancela 800 mil multas de pedágios free flow na Rio-Santos após falhas no sistema Perfil Brasil",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:48.260721+00:00"
+    },
+    {
+      "id": "473445de5dd367dda802aa7886f94940a6dfb89f2a3e90a45f35c5a2d1fe44f7",
+      "title": "Rodovia Washington Luís ganha nova via marginal para melhorar o trânsito entre Mirassol e Rio Preto - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmc1end6M294SHRnVVR6Yl9OZ0NYLUhUSXBSLVphYXhLRXBIRzc0bEZRbUFJZVZNQXZ0NGdTTHlUM3dGMXZUcEJMWEYwc3FobWY4WkM3S041N01mSURIQXVheWRxUFpPZEpOWk9NNmtVaXQwMERpcDRXQ2x3NjVBaEhzWHVVVTlZWktiYUdjUXBwekxlNjJ3SGY0aFRsZ18zLXhDLXNVSzZ4Z0lubEVjdk1Jd2VKMVRTY01UbWNZbkpWZ0Y4QXc?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T20:07:00+00:00",
+      "published_raw": "Wed, 27 May 2026 20:07:00 GMT",
+      "snippet": "Rodovia Washington Luís ganha nova via marginal para melhorar o trânsito entre Mirassol e Rio Preto Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682300+00:00"
+    },
+    {
+      "id": "360d76f1c0fdd96ef39612deb512904d6a61ea634bb9674ac1181e7aa83e0e0b",
+      "title": "Rodovia Washington Luís terá nova marginal em trecho de Mirassol - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjZ6dDFlU0ZPSUlHY0tvS2ZzVkRWalFucFBaMHVmMGVPRzFBX2dpcDQxTXVsVjNncHJ0LUJrWGtPaWJtWTFxcm9mZDk3WHFOOFA2ZnplN3hKWGg5OEItYXUzWEZ6Umc4WFo4ZjlicFBGbXF1ZUlIMXZfaFFWdDJqcC15aGlkVmIxSm5YWERlWWFBR05wWG9uQjREUTJ4OGNhSFZj?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T17:37:52+00:00",
+      "published_raw": "Wed, 27 May 2026 17:37:52 GMT",
+      "snippet": "Rodovia Washington Luís terá nova marginal em trecho de Mirassol Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682657+00:00"
+    },
+    {
+      "id": "e9ed96e5c4b1a8b3336adea4fc2974d20a3cb5aa40f19e8741ca0f4d6a1eb613",
+      "title": "Marginal da Washington Luís é iniciada no trecho de Mirassol - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWw0REozU3BOVHU2UTE0bE85RlFjcFlRSlZkdFU1MjlHYnhjLW1UZGhMY0tkLVFzc2FNNEJkUE9UU1RUeU9lTW5RYUFpZDNweGRJaUI0VmJMdGdwVVV5YW14SjVSUENwM3VoRFZrOExCVjhLdVlWX0F6SHNnMVR5WlUtTDhyXzM5bDR5d0Qwc09XdWtXQVpPbEgxcmx4cUJXeGdWS1JuelZIZXhQYjMzYTRkcFR2NWtU?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T15:19:08+00:00",
+      "published_raw": "Wed, 27 May 2026 15:19:08 GMT",
+      "snippet": "Marginal da Washington Luís é iniciada no trecho de Mirassol Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:59.654490+00:00"
+    },
+    {
+      "id": "0b94a0a59475c96203de52f21f6fe7cbecbb2c4f1038680e0c146571ed779800",
+      "title": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0RFYnRFUXhqM0FUdnR6eUNMUHpyc3BFcWZNdXlsZi1Eek5qbDF3LTl6OUdkenVMd2s2YzFHTnNKZjJKT2h1WTVTd0QwT0pqdEI1VXBfbnItbERfb3IwR3VxcXBUcDZzTEk4MTdSOHhJVVJicTU2cnc4dXh1TS1VVnhlVEpSbWZvVzBKNmptVjhxb2tDY1pzaXpWWQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T13:45:20+00:00",
+      "published_raw": "Wed, 27 May 2026 13:45:20 GMT",
+      "snippet": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté | Região em Destake",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:56:01.748216+00:00"
+    },
+    {
+      "id": "2fec338dfb8e6eea6107d591b7237551d8d84389129891140f383c8ab1adf3d2",
+      "title": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís - band.com.br",
+      "source": "band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQUtKelFjUEZqcVlCSVRGQ2RjU0ZTbkVCYWtRUk1IMFRpWS1MZjNIVHF1dmFWOUJSX0NHaFVOYTdEbGFkSVVDRmRncEJGMDVteWxYSlNveXVWS0RNc3ZVcXdncVZWZzhaQllPdjlXcWVfVGFVXzFKSXVMNHhwNE00bXFqbVJCSDc1S014UWJLb1ZySUV6Tkt4RW02cHV0ckw1dzNoWXl0cV9QY3FkU0RuZTNqLVdqeW9pY18xSy11YVNRVllrMWZKajFVcFdFdHI1a0txb09ZYjRCSkZJaWdSc2x5dWxVdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T12:31:19+00:00",
+      "published_raw": "Wed, 27 May 2026 12:31:19 GMT",
+      "snippet": "Motorista morre após batida entre dois veículos na Rodovia Washington Luís band.com.br",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:56:03.616479+00:00"
+    },
+    {
+      "id": "daa90e3217b47375e10235f1c563144340d37cd75304dc3be659a89f90e21948",
+      "title": "Mulher morre em acidente após carro atravessar canteiro central na Rodovia Washington Luís - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWtJNVdnV2M0MnVVYnpJUzZseThXWjVLZkxETTBVLTNTenRMVjMxTE5NTkJza2xVTDlSUzJPY3VnV2Z6dXY4R0tNanRJMzFJT2lXejgtdi1mUXRtSUdCWUZLU2ZNU2Yxb2JoeVdKR3dPVDlTbktBc09mWmNfZE93UHlZeWZTNk1HRlg1SHhrV0JHYVhral9rNEloejhGbWl0YXNXUXJaZF9NeUVodFhid015LWRHZVNoU3c?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T12:30:00+00:00",
+      "published_raw": "Wed, 27 May 2026 12:30:00 GMT",
+      "snippet": "Mulher morre em acidente após carro atravessar canteiro central na Rodovia Washington Luís Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682588+00:00"
+    },
+    {
+      "id": "761956fd0e65ce5bb339e1e215d1de59e5d1d3d7c74e69cd4e2f9cb2b80ba166",
+      "title": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjZrdjUxNUYtY3UyeGx3NlZiTjQyODZhWHM5a2c5THYzM25CUGM2RU1uWlFOdkExd3N2dHhqcDczeXFtekhOaW1SdXZ2eTBvOVE0UDNBNXdtQ09yN0d2QXY5dDRPSXVhaDZMYzJabEcyOVJFbzJrLXBGLVRzUzJGMFUxYTk2WktNLTJ0NTR5VmFrd2NvOExPQjJMNVptV0FLcWFCMWF1UGM?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T10:57:52+00:00",
+      "published_raw": "Wed, 27 May 2026 10:57:52 GMT",
+      "snippet": "Conscientização no trânsito marca ação do Maio Amarelo em Ibaté Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:56:01.748287+00:00"
+    },
+    {
+      "id": "a19bc53e9775261c652676f25fd5d8f88e7bfb7182fecb082fc0f40fd9a23b05",
+      "title": "Mulher morre em grave acidente na Washington Luís; três pessoas ficam feridas - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcW5Md2JFM3FsUEhZMnl5WEFab2xDdV9vRXZ5TGdVd1YwTExRYUhEb3ZyVmZMelpkRlpwN241OFBwMmhqYWpydFBMaFg5ajNvQUluUzRZWE9jNW5Ea01obDlJanM4a2JidmNtN2RDVEpBRDdFN2NwemFIRVhqYU41UU9TaEJTQVQyMzk1ZWlEX0VhdGp0emhkeDJlcDJBQVlOYll1RVpscGlaQUxLazVwUVJreWpPUUxkSFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T10:47:32+00:00",
+      "published_raw": "Wed, 27 May 2026 10:47:32 GMT",
+      "snippet": "Mulher morre em grave acidente na Washington Luís; três pessoas ficam feridas Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:56:01.012807+00:00"
+    },
+    {
+      "id": "d5c63776b15cef32848c8356a22768bc1b7c50f77c66865d0d3cc63d7f38c8a6",
+      "title": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP - AtaNews",
+      "source": "AtaNews",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUtfS2Fuc09XZXE0SkV0Wl9JS0pLQW1hdlp6QjBuWHJjVWVadGt5LUdnM21Wd2J4ajB6a1pQbjhpQjFZZFBRWFBabG9FanNYWEw4NVBRTmFoMU01aUlTYkhMTTRNXzc1MXEyY1dKeHBwX1dCNWt2SjBaN0FyckFKZm5kT1pULUI1Q3JiMWFlUEZLUHFHN3JJNDY4dWx3NEY4blBHdUIwSk9ST0thRGVmVW9Ca0JqYVUxZU9EWlpENEVGcG4xRUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T10:42:39+00:00",
+      "published_raw": "Wed, 27 May 2026 10:42:39 GMT",
+      "snippet": "Motorista morre após atravessar canteiro de rodovia e bater carro contra picape no interior de SP AtaNews",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682519+00:00"
+    },
+    {
+      "id": "b18fcf0ca374f285e4b3c59f7b581022a26929ee27fe2ab2591105fe3bdf115b",
+      "title": "Mulher morre após perder controle de carro e invadir pista contrária na região - Jornal CidadãoNET",
+      "source": "Jornal CidadãoNET",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3VUc1RLVkhUVlNmdkRNTFlzRFl2VnRBQXp2aS1qSWcwNEcwQ0hCaWsydUJzSlpDa3BYd1UzZ3JTRWYxNDlEVGpaWEc5WjFLbEs5a0pBeWxzaEw0eFhQNjNqNGd1VUpGQ090Ti16cWtDYUppd0c1aVFEOGJkWm54TjJENDdTZmUwNEJiVU9wbEtoMzE0dU1DUC1lSnBUSlpzeXBHTzFCd0tOMDVmTUwwOWFObVdxN2s?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T10:13:00+00:00",
+      "published_raw": "Wed, 27 May 2026 10:13:00 GMT",
+      "snippet": "Mulher morre após perder controle de carro e invadir pista contrária na região Jornal CidadãoNET",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682449+00:00"
+    },
+    {
+      "id": "a3a7593438a3937cbe3b1790ca127a35d817450de175b73d87dd52b84cf9d48b",
+      "title": "Acidente na Washington Luís deixa uma pessoa morta e três feridas - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQndYWmFmV1psUmw4UjA5cGFfWjR0LUdVTGVueERiVGtlSkhvdEZYNkJnRm03M0RRaWROdkZ6YzhISjJNWkpfMWJ6ZnV6bGZpMHFUQUV3T185TUUyeGVIVFl6TmU2R3V4SldmZ2EtZzhKN09nbUhxcW1aRFRnTUliVDVCbGhoc2M1cTRuQ0diUzJDYlRFRlZxZGFTV3ZtamNiWkJBRDJVa2F4Y0hmVUdqSWpfWTEzU255TUhEVGpwMWRHRFdBeHfSAboBQVVfeXFMTXB1OC1UX183RkNPSllsV2JJNFM2TUxvQXhqQkxjQWQ3ek05VjlRblpqcXdPSHNTRWplN1IzaUxWdkwwRUQtajlxN0dTMzAyOFJ4UjI4YVlPX1FReG1xTV9nc1dOdkd0RkxnaS1adEI3Z1ZyamxPdFY3VTFQdkhXVDdGTExTcUJWU3FTN18xdGxMdjdLTEtWTF9LUVVUNG9IQ0hkc3kwQkhBTE1LRTBNTGE4b00wWUloNmt3?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T08:53:00+00:00",
+      "published_raw": "Wed, 27 May 2026 08:53:00 GMT",
+      "snippet": "Acidente na Washington Luís deixa uma pessoa morta e três feridas São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:49.474643+00:00"
+    },
+    {
+      "id": "32cded4e28a66172544f487f4f66df5fd2a928797b6b59650b826e25337974e9",
+      "title": "Começa construção de viadutos e marginal na rodovia Washington Luís - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWJaQ29MZE9ZbjZYeTRlQ1ZBZVRjMHFUUVNFb2pvVXVvVnZLYUs4dEtBUTJ2VzFxOFh4Mm1JZGpjWW83YWFydXIxRTh3SUJEZHJ5c1VYNHBLbkFPZG5iRmJOUFJIQUpUWGJITUlOZnlseFNQb2tVZVhXS0dKY1JvTENIZG9FMjIwZ1pWUGI5ZFQxeVFBa19mUUVIZ0hkV04xbHFfeWFhWU16TDNDTHh3?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-27T02:46:15+00:00",
+      "published_raw": "Wed, 27 May 2026 02:46:15 GMT",
+      "snippet": "Começa construção de viadutos e marginal na rodovia Washington Luís O Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-28T01:55:47.682378+00:00"
+    }
+  ]
 }
