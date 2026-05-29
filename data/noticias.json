@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-29T12:12:22.860932+00:00",
+  "updated_at": "2026-05-29T18:00:13.545264+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 3,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-29T12:12:06.584410+00:00"
+      "collected_at": "2026-05-29T17:59:56.439890+00:00"
     },
     {
       "id": "93d9da8d68ad6f7492cd1e859b43f6c7f895b5e45c36c987effec8c867d5ee86",
@@ -68,8 +68,8 @@
       "source": "Região em Destake",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlhGRkJETUVBQ1dEX2pLbnFoVEEzNDhnVVBBTWlvVENEbGtYYmRfSXJUUW00ak56Y3pRYm9Rd3U1YjFlcEo0S29WNFlCdW41em13TkliYWN2R2hESERPMUlndlREdHNIeDZWRUZPSUpES1hnZmxXbVRnclZSOHZkbHlRbEVXTGlQaGdUYUcxY21UNG1oSTFyS09XbjNoUQ?oc=5",
       "resolved_link": "",
-      "published": "2026-05-29T09:18:19+00:00",
-      "published_raw": "Fri, 29 May 2026 09:18:19 GMT",
+      "published": "2026-05-29T09:17:53+00:00",
+      "published_raw": "Fri, 29 May 2026 09:17:53 GMT",
       "snippet": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | Região em Destake",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-29T12:12:06.584565+00:00"
-    },
-    {
-      "id": "0713109ecdbbf7acbf69105ddd4776186eba460837b71f95451f4400294c3f0a",
-      "title": "Equipe do Canil flagra comércio de crack e mulher acaba presa em São Carlos - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMUhjMV9FN25RY1hrLXlRbnpqbGhWX3RybjdYbzQwWDI1akNFMjhrNmt5eDRWU0ZnclFDLXg2NjR2M0xMYnI4amstOGRLOXN1UktwYzdfZzhKYzhqQXA4VTFNU19RZHU1R21sV0IweW9oamZzczVUME9lbG9rVjZEa2I5cUY0WUNhMDZncTBEcXJaWkI2TklYb0E0RjNaMHB4WkVOOGZoUXhCU2hGY1A4N2lJdXJZTmF2OGt3bDBTREJ1aUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-29T08:30:34+00:00",
-      "published_raw": "Fri, 29 May 2026 08:30:34 GMT",
-      "snippet": "Equipe do Canil flagra comércio de crack e mulher acaba presa em São Carlos Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-29T12:12:06.584688+00:00"
+      "collected_at": "2026-05-29T17:59:56.440026+00:00"
     },
     {
       "id": "5193aaeca250593a3bff0d9327095a99b23806f9bc04b5d37cd8d3b0c4499f02",
@@ -111,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-29T12:12:06.584815+00:00"
-    },
-    {
-      "id": "264fefca07cfb60bfe3d0ea25f24be96972517fc9c2d48fa512660aa5f6bd891",
-      "title": "DuckDuckGo cresce após mudanças com IA no Google; entenda o motivo - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmtWM1VYWVd1Y0xjTjdmWU12eEJoS0NSOUpPRXVCenh2TUhvZUw4VF94cExGX0FWYlBUZ2pZa2JiWHlCNEpSR3dTSHVzTkFORm5PWkNYMVFmYUV5MVJQZnRlcW15dloyS1U0R3VQbmhBNzJvNFBTLWNmTGxvVkpJbnQzOFY2cTJEV0tLenlPSHN5dnVZOWRmOGdGNzNORFJlZ0I4ekFTOF9KRnlDX2NLV180ZlNodW8zN0RFcw?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-29T05:43:17+00:00",
-      "published_raw": "Fri, 29 May 2026 05:43:17 GMT",
-      "snippet": "DuckDuckGo cresce após mudanças com IA no Google; entenda o motivo Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-29T12:12:06.584922+00:00"
+      "collected_at": "2026-05-29T17:59:56.440116+00:00"
     }
   ]
 }
