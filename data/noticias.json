@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T22:40:02.573752+00:00",
+  "updated_at": "2026-05-29T02:04:21.996990+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,10 +46,27 @@
   ],
   "items": [
     {
+      "id": "832119d2218b5212b01e13e5988b65a8e6913115d23ae3702e07e398e390b1c4",
+      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcFQ1Y1g3RklDdnBXdlFfV2wzZXk1YmRnN1RhOU9mSnExeWVaUENid1dUaHF6ekYxcTZvUzJ1NU4xNUFzLWpmSTF1eUhvRVJoRm8xa0VQZWZjME5kLUpnSkJreDBzdjlkNzl2bjFUaDVNT1BMcTJ6X0FtZVRRME9MNFp1S241VDE5Qi1ibE90OTR0TVdhMUFjMkRwWkNJZjA2Zk4xb0I1Q3Nyc3MxUF82Smc5QUxQT0RjYlhfdWN5TkZKUE42VjAxb3FiVkw2OWFXNGFVUG1HWGgwVjZJa0pMeXZtSFQ0T3pOS19qbm9qNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-28T07:51:49+00:00",
+      "published_raw": "Thu, 28 May 2026 07:51:49 GMT",
+      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-29T02:04:04.665884+00:00"
+    },
+    {
       "id": "ac85bf2425d06968c330430468ce398ada27c4bb94bd8e707520f97563964427",
       "title": "Semáforos entram em operação na Avenida Comendador Alfredo Maffei - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUwyYmM5X3FyVXN4RV90RHhyVmluTHl3bEZQQ2lXbW9sTTAtVEtyQXhNa2J0OXQ1WFNXY0ZMN0xCRldZVWxGeS0yeXdvdEVlUkJ1cERTZDlpUE4tU0FEcFVla1VKWURfcVJwNnhicGZjaGNCd3BnMVBKazVzZDg2TWJRTndSYW1lTlBzSEZ6Y1F2aGRxUFFmRlRMRFprSUxKTW85Z09FSnNycnpWRmY1Ng?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVPVEFWTU5UQWxYZEt2X29PcElTaWdxX01UZ1NaNWhUSjVFVVhiSEFRSWJiX0tiTHlPZ3AzdWt6NDV2Ny00Nl9xaDAwdUJBUlhZZXJIVU53V0psMUgxYll4QkxRSU0xRC16VjJIRURMWFBCdENoVHdaT2l5djU5cTU4NURfNmZzX2xpa0NxVjN1OGg4RF9QeXFHcDlOUWdmbGl5YjFvb1RmLTBHeHlDNVROMnZDUQ?oc=5",
       "resolved_link": "",
       "published": "2026-05-28T07:23:12+00:00",
       "published_raw": "Thu, 28 May 2026 07:23:12 GMT",
@@ -60,41 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-28T22:39:44.918478+00:00"
-    },
-    {
-      "id": "0390ae1b2cf78fd0486969358949dd66ba181812ec4ca1b366a5a1aba9afccb3",
-      "title": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNG9KeGYyNFBuX1VRalE2c25Nbnh2Y0RjaG5adTZPNG9qM1l0QjBZYU15Wm5qTG9nYXFOQ2ZQaFNLR292ZWs1Q2lKbWh0NWUwalZ3M2RwQzdwbXJCY0RLd1BvWTRIdnd2YWFFYmRjRHFmamVDcVREYURfejJKaVo2R0FleXZfbTg4NDBhekIyUUJ6V19FOTdINVNVUjNCQk9CRm4zNmZDRV9Wdl9xRnc0Y1ViLVRldUhIYUNzSlBVc0pESnFFMC1oRkVsWlhhcWJTakNzVGNoMW1pZGJoSC0xWjRpOUEzb0xRb2fSAe8BQVVfeXFMTWVMSFJXVnVIMENTQTQ4TXBEdFZFeFBMM2daS3ByLURIdktRNWRqdktucVktV0tSVFhWdUx3eUs3VGpOMDY3NGRYSXRhS1ZuWDRfSFRkSENkN1lmZEk0UUxKVXlnT0FjeC1kUzMxaVp4cjRyMVFpUmpDY01pc2ZRWjhpRG85QjhtczRSWG5raTVHVFdIS3ZSZEZOWVRRX3labHZFSkVGVHpsYm5KTllaNFgtWTNoelJJaUVfOUlfZ0dKWTNzWEpxMFRrelVsZUZkY2htZzM4Znd1aE9SSF9xWnRsLTgteVgwR3ByVW02bVk?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-28T01:04:37+00:00",
-      "published_raw": "Thu, 28 May 2026 01:04:37 GMT",
-      "snippet": "Ecovias Noroeste Paulista completa um ano de obras na SP-310 em São Carlos com cronograma dentro do previsto Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T22:39:44.918338+00:00"
-    },
-    {
-      "id": "be9e149ff3020e12e4af23e9346d245e1dc8907d721b844590a52a25cf1b8690",
-      "title": "EcoRodovias (ECOR3): lucro líquido recorrente soma R$ 241,8 mi no 4T25, alta de 16,9% - Estadão",
-      "source": "Estadão",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSEhWejdwREpzeWVFWU1oTlJmYUpkQ3J4SDRRa3RyN0ozVEZmNksyMlhFMkZnYkpMMnc2NlRIa1Bnd0ktYU9fTFFkd0h3cDBnMnRtaDlVZDA5OEVVVDZTbzUzcmNyeWUwd2tmUTZpMktYOE9uR0NYc05YcHNwbHFnSmJBV2tMdmNIdVR3dVhRcE1vRFQ1WE9FSG4xTHBYZ9IBowFBVV95cUxNNDdhUWx4WTZqeUpEbkVPc2JSZGdkeEVYS0Jfelk1YUNCa0FhZ0F6YmQ0azRrU2N2bUFCVzdNYXlteHd1Sm5Delg2QnpqeU9lazJnY2tIQXY4S0h0QV8ySFFmTHVNX1B5d05IRTJlZmNGM2U2MWk3OGdUMVFIbGgtZW4tZTNBenE5V3dyTXlYX01QUDFvV3BVZ0lDWUtGeXRhTUFV?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-27T23:38:00+00:00",
-      "published_raw": "Wed, 27 May 2026 23:38:00 GMT",
-      "snippet": "EcoRodovias (ECOR3): lucro líquido recorrente soma R$ 241,8 mi no 4T25, alta de 16,9% Estadão",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-28T22:39:46.672822+00:00"
+      "collected_at": "2026-05-29T02:04:04.665975+00:00"
     }
   ]
 }
