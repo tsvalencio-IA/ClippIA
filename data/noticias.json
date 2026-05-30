@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-30T06:20:45.755586+00:00",
+  "updated_at": "2026-05-30T10:43:24.281981+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 0,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,57 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "dd7ffc093c814b859ef8de7f4ffe7c3b627026ba48d6185779c529264b4b6647",
-      "title": "Conscientização marcou ação do Maio Amarelo em Ibaté - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpmbmRaUVV0a29CUWlndVRZTmxXelVLM1E5R20zT3Q3dkZDTHNHQzFKa2RqWXhfRUNTME9FVEdJMmNPOGV0VDBfS0ZWM3JCYTZRY1pQb05TTnFqTHJIbWs3TklXMkg5bWhELWpGYXdybmluR1hzaGdrWEpmMlBVb3I4RkQwZElTNVZIaDQ5NWRUOXJiT0xPYkdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-29T10:27:05+00:00",
-      "published_raw": "Fri, 29 May 2026 10:27:05 GMT",
-      "snippet": "Conscientização marcou ação do Maio Amarelo em Ibaté Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-30T06:20:29.894875+00:00"
-    },
-    {
-      "id": "93d9da8d68ad6f7492cd1e859b43f6c7f895b5e45c36c987effec8c867d5ee86",
-      "title": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlhGRkJETUVBQ1dEX2pLbnFoVEEzNDhnVVBBTWlvVENEbGtYYmRfSXJUUW00ak56Y3pRYm9Rd3U1YjFlcEo0S29WNFlCdW41em13TkliYWN2R2hESERPMUlndlREdHNIeDZWRUZPSUpES1hnZmxXbVRnclZSOHZkbHlRbEVXTGlQaGdUYUcxY21UNG1oSTFyS09XbjNoUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-29T09:17:53+00:00",
-      "published_raw": "Fri, 29 May 2026 09:17:53 GMT",
-      "snippet": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-30T06:20:29.895030+00:00"
-    },
-    {
-      "id": "5193aaeca250593a3bff0d9327095a99b23806f9bc04b5d37cd8d3b0c4499f02",
-      "title": "Prefeitos da Região de São José do Rio Preto são reconhecidos com o título de Prefeito Inovador - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGx1dmRKOUdnZk1fUDRSQ2t0b2VuY2NYaWktMlJza2g0alJwSWxLMlc2SVBJR0F0bDFaVDZFbzlucjZPNlhLVU1sWjlVM1ZtZzF5bTlqUkxRM1RhLWY3OGJDZTlfaGFobWxJVEhRUHp1NTF6eUdpbG5ZVi1kMW9FWV9oMEt3c2tKMW5YZGYtYXQ0Zmd6T01kQ0VJWUh0ckUtaDZQbDlPQTZjelY2bkwzS25TT01iWkQzU3hFLTVyNVcyRTRJU1NINFN5WTRMWEpBdFVfMEg1QlRfSmhpVXllSlJR?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-29T06:35:32+00:00",
-      "published_raw": "Fri, 29 May 2026 06:35:32 GMT",
-      "snippet": "Prefeitos da Região de São José do Rio Preto são reconhecidos com o título de Prefeito Inovador Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-30T06:20:29.895181+00:00"
-    }
-  ]
+  "items": []
 }
