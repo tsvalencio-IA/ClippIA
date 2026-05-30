@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-30T19:06:19.937931+00:00",
+  "updated_at": "2026-05-30T21:50:25.422576+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "ddedba72b8959dedc79efc8bf88ffe5bd48df05f64258986eb213db5a2a005f3",
+      "title": "Governador Tarcísio de Freitas é aguardado para oficial em Barretos - regiaonews.net.br",
+      "source": "regiaonews.net.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2NFdVVZWnJ4UkY4c2lTV1F0eExQNDRLWWQ5YnR1aUlnNkI3N0xPVnFpT3pQX1ZfeEdCdTYzUVJhci0zZ0IwOTl3QWFzUmR5MGRPSks5RmNreV9kdXVFVy1heVJ4dTJEQ3RXRW9lR0g0T25xY082NHRqNVFycWYyZjQyaXZjTld3WXNER05iOXhPdkl3cHlMZEZjTWQzSzlEaWRhdzd6WE1sdmphaGNn?oc=5",
+      "resolved_link": "",
+      "published": "2026-05-30T20:17:04+00:00",
+      "published_raw": "Sat, 30 May 2026 20:17:04 GMT",
+      "snippet": "Governador Tarcísio de Freitas é aguardado para oficial em Barretos regiaonews.net.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-05-30T21:50:08.776245+00:00"
+    },
+    {
       "id": "77e640c8f23db9663c257422c78158791ad1b5a0f0c73f0f7e4c4d3b8aae66da",
       "title": "Motociclista morre após acidente na Rodovia Carlos Tonanni, entre Sertãozinho e Barrinha - G1",
       "source": "G1",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-30T19:06:03.778175+00:00"
+      "collected_at": "2026-05-30T21:50:08.776150+00:00"
     }
   ]
 }
