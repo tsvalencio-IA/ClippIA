@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-31T19:10:09.733361+00:00",
+  "updated_at": "2026-05-31T21:47:59.699383+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-05-31T19:09:52.812587+00:00"
-    },
-    {
-      "id": "c1073719a1362c38d481c7a91a1daddca731010d77a9f5beda2f4d0c5d5be7b9",
-      "title": "Governador Tarcísio de Freitas é aguardado para agenda oficial em Barretos - regiaonews.net.br",
-      "source": "regiaonews.net.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2NFdVVZWnJ4UkY4c2lTV1F0eExQNDRLWWQ5YnR1aUlnNkI3N0xPVnFpT3pQX1ZfeEdCdTYzUVJhci0zZ0IwOTl3QWFzUmR5MGRPSks5RmNreV9kdXVFVy1heVJ4dTJEQ3RXRW9lR0g0T25xY082NHRqNVFycWYyZjQyaXZjTld3WXNER05iOXhPdkl3cHlMZEZjTWQzSzlEaWRhdzd6WE1sdmphaGNn?oc=5",
-      "resolved_link": "",
-      "published": "2026-05-30T20:17:04+00:00",
-      "published_raw": "Sat, 30 May 2026 20:17:04 GMT",
-      "snippet": "Governador Tarcísio de Freitas é aguardado para agenda oficial em Barretos regiaonews.net.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-05-31T19:09:52.812444+00:00"
+      "collected_at": "2026-05-31T21:47:42.630596+00:00"
     }
   ]
 }
