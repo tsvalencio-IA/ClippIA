@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T17:30:17.599246+00:00",
+  "updated_at": "2026-06-01T19:51:34.035986+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -54,13 +54,13 @@
       "published": "2026-06-01T17:01:32+00:00",
       "published_raw": "Mon, 01 Jun 2026 17:01:32 GMT",
       "snippet": "Ecovias prevê fluxo de 627 mil veículos nas rodovias da região no feriadão OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" trânsito",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:03.363613+00:00"
+      "collected_at": "2026-06-01T19:51:29.462142+00:00"
     },
     {
       "id": "147b0b07bac3f438249ad4d5cc357569315631cb9c3186797bfcd5885eb2f0b5",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.132381+00:00"
+      "collected_at": "2026-06-01T19:51:15.813237+00:00"
     },
     {
       "id": "a5cb3f2e43099d93a43edd9e5794b89d1d390c18a4ce75410d2ecb4a91e81d88",
@@ -88,13 +88,30 @@
       "published": "2026-06-01T16:15:12+00:00",
       "published_raw": "Mon, 01 Jun 2026 16:15:12 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 1/6 a 7/6/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:11.684398+00:00"
+      "collected_at": "2026-06-01T19:51:15.812860+00:00"
+    },
+    {
+      "id": "62a3024f4dfe4fdd83b7533eef1736139b1cd58f9509f3a02bcac9e5527a0515",
+      "title": "Mensagens apreendidas pela PF apontam tentativa de pressão sobre Kassab para retirar vídeo com críticas ao - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXRYdE1WbGRBMlpUUXd0aWVpajhCLVVLRFV5UjlCaHEtZHUzQ1o4Ui1MQS1rdjBYM0lSY2dMaTJVdDZPUGE3THhEejNrbUJjcWpTcjg0RU03TEVtZXd5a1NfbUtvRlgwZHJ3Rm0xeVFZazFIdnhCaU9uVGxwNnI3aHhXRFJla2VVSUtDX1E1VFRFRW5aOVo0REV0VnRYZHJwTXVnaWpLRFpja3NCV19mbDkwUWVLRUdkWUJ5aUl4Q3RHOUs3c3hCRzFzVmNCMFlER3R5d3REbG1IV1N3RGdHRjBLbVdEai020gHoAUFVX3lxTE9JdFh0TVZsZEEyWlRRd3RpZWlqOEItVUtEVXlSOUJocS1kdTNDWjhSLUxBLWt2MFgzSVJjZ0xpMlV0Nk9QYTdMeER6M2ttQmNxalNyODRFTTdMRW1ld3lrU19tS29GWDBkcndGbTF5UVlrMUh2eEJpT25UbHA2cjdoeFdEUmVrZVVJS0NfUTVUVEVFblo5WjRERXRWdFhkcnBNdWdpaktEWmNrc0JXX2ZsOTBRZUtFR2RZQnlpSXhDdEc5SzdzeEJHMXNWY0IwWURHdHl3dERsbUhXU3dEZ0dGMEttV0RqLTY?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-01T15:13:28+00:00",
+      "published_raw": "Mon, 01 Jun 2026 15:13:28 GMT",
+      "snippet": "Mensagens apreendidas pela PF apontam tentativa de pressão sobre Kassab para retirar vídeo com críticas ao São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-01T19:51:28.843902+00:00"
     },
     {
       "id": "0bbff55d6ab91be607dfc6c8edb912973f63f79086db6bb8a87addae1f2f278d",
@@ -105,13 +122,13 @@
       "published": "2026-06-01T15:08:55+00:00",
       "published_raw": "Mon, 01 Jun 2026 15:08:55 GMT",
       "snippet": "USP e UFSCar perdem posições em ranking mundial das melhores universidades - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.132219+00:00"
+      "collected_at": "2026-06-01T19:51:15.813073+00:00"
     },
     {
       "id": "0f43ec4f986e778843108de6f4476e674717c4e303c02d5eed8cd537716f82e0",
@@ -122,13 +139,13 @@
       "published": "2026-06-01T14:43:26+00:00",
       "published_raw": "Mon, 01 Jun 2026 14:43:26 GMT",
       "snippet": "Brahma promete cerveja grátis se Brasil conquistar o hexacampeonato da Copa do Mundo - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:02.816166+00:00"
+      "collected_at": "2026-06-01T19:51:15.813154+00:00"
     },
     {
       "id": "8cf5673ba7b99434d7d5f485c9e29f020f9722b283d762864e8eaadee7ecee8d",
@@ -139,30 +156,13 @@
       "published": "2026-06-01T14:09:22+00:00",
       "published_raw": "Mon, 01 Jun 2026 14:09:22 GMT",
       "snippet": "Ecovias Noroeste Paulista prevê fluxo de 627 mil veículos Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.131933+00:00"
-    },
-    {
-      "id": "7ee94839d4332471116a76a23722bea6f7a525e19f1f99b62c514974b359682b",
-      "title": "“Operação feriado de Corpus Christi”: Ecovias Noroeste Paulista prevê fluxo de 627 mil veículos - São Carlos - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVjhpdWdCLTZmR3JNQ3NVU1N5VEpCbi1pVjdtR05rSlp4X3ZPTFNlb285VTlqRDdZQkF3TEYwVUxibEpTS3lwZUJpeUxybjV0ZnNRXzVDUXY3TG5TakUwWldSX2M5WU5yWjVneHhkMlVJTXl5NTQ3WXhYZzNObHpvV2hodzJHaXhreU9NUE1OS3Q1MUc5ZVNWSk9sajYxRHRzeTR1a1JUX0hkTGdmc1lnczh0ZHRYTWtYR3daUW90UdIBxAFBVV95cUxNQ2JnMVVpTFNrY1RGb0RzcHZZV3ViWkU2TUdSQnNWcU5EM0hrLTdtS1BjaGQxLThoYkNyZWJ5R3NaUmF2OWVVeTRwcXEzRUFNeDBvQWpjMzZSbkV4M1lWT0lxVzVYS1poQVktd2ltUk1VRlk0c1lYMExEUm9vMUdzUW41d0JaZS1HbTBmWk9VRXNWREN1bXY4Wml1eG5XTG5RT2ZjMEVabzBqVmZSZEpLRmg0OVRBQ1FFMzh0ZGd1TUt1VjNO?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-01T14:02:23+00:00",
-      "published_raw": "Mon, 01 Jun 2026 14:02:23 GMT",
-      "snippet": "“Operação feriado de Corpus Christi”: Ecovias Noroeste Paulista prevê fluxo de 627 mil veículos - São Carlos São Carlos no Toque",
-      "term": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-01T17:30:03.929674+00:00"
+      "collected_at": "2026-06-01T19:51:15.812760+00:00"
     },
     {
       "id": "e68c2afe315e67e4f9799211bdaf4aa651410873ceb74fb2ce01a8190a97291e",
@@ -173,13 +173,13 @@
       "published": "2026-06-01T11:54:12+00:00",
       "published_raw": "Mon, 01 Jun 2026 11:54:12 GMT",
       "snippet": "Caminhão tomba e interdita a SP-225 em Itirapina Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" reajuste",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.132297+00:00"
+      "collected_at": "2026-06-01T19:51:27.077484+00:00"
     },
     {
       "id": "feb7c116af4c135fbdad82ed7512eebb2fe8ccdf5dcb2e066e565659b2e80196",
@@ -190,13 +190,13 @@
       "published": "2026-06-01T11:41:32+00:00",
       "published_raw": "Mon, 01 Jun 2026 11:41:32 GMT",
       "snippet": "Reajuste nas tarifas da Eixo SP entra em vigor dia 4 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" tarifa",
+      "term": "\"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.132135+00:00"
+      "collected_at": "2026-06-01T19:51:24.071936+00:00"
     },
     {
       "id": "44b754b956e2a801c17a56bce0795a4a027ef08c7cf87e596a2ff1c91fee2be3",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-01T17:30:01.132048+00:00"
+      "collected_at": "2026-06-01T19:51:15.812991+00:00"
     }
   ]
 }
