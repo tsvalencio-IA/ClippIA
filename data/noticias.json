@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-02T03:32:56.257811+00:00",
+  "updated_at": "2026-06-02T07:16:11.510841+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 11,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:39.850506+00:00"
+      "collected_at": "2026-06-02T07:15:55.459806+00:00"
     },
     {
       "id": "eb9a472362e2e8a8a5e32b3f6469f832733e0b5c0fe4a8732e68999dc261d6bf",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:50.302034+00:00"
-    },
-    {
-      "id": "f51c88116725da44ade3de0ba6109b42c7d200bed48d8eabd2d433ebf1721264",
-      "title": "Golpe da visualização única: criminosos usam WhatsApp para extorquir vítimas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnFGakVLcl82VUkwMGpiTjFoS1F0YjJvbGx0RzBJaUNDa2wyd3FQOU12MktzUVQ4bHo3LVpwdTB4cXA1bDNzWWNIcC1JMkxnNTNXc3ppSGozekRBNFVndmVoV05SUmpvNGtSR2dERE5KWmxxVjlmcWVuTEJkdGh3ZUFkSVgyaEFUb3V4dkY0NzVrX3N2YnZ0VzU4Q1RMdE9zdE9hYVdMUmZtT3RkemfSAa4BQVVfeXFMTkJxRmpFS3JfNlVJMDBqYk4xaEtRdGIyb2xsdEcwSWlDQ2tsMndxUDlNdjJLc1FUOGx6Ny1acHUweHFwNWwzc1ljSHAtSTJMZzUzV3N6aUhqM3pEQTRVZ3ZlaFdOUlJqbzRrUkdnREROSlpscVY5ZnFlbkxCZHRod2VBZElYMmhBVG91eHZGNDc1a19zdmJ2dFc1OENUTHRPc3RPYWFXTFJmbU90ZHpn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-01T17:26:39+00:00",
-      "published_raw": "Mon, 01 Jun 2026 17:26:39 GMT",
-      "snippet": "Golpe da visualização única: criminosos usam WhatsApp para extorquir vítimas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-02T03:32:50.302150+00:00"
+      "collected_at": "2026-06-02T07:16:05.582740+00:00"
     },
     {
       "id": "60bcf20044007e69e84e6dd2aed16404711f53f01b88eba277ec37f37cd2b8fb",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:52.034419+00:00"
+      "collected_at": "2026-06-02T07:16:07.199714+00:00"
     },
     {
       "id": "4e98a19aa8521292702ffc671ed26834710b64b16a02a9dabfc158ad6b475ab2",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:39.850701+00:00"
+      "collected_at": "2026-06-02T07:15:55.459982+00:00"
     },
     {
       "id": "147b0b07bac3f438249ad4d5cc357569315631cb9c3186797bfcd5885eb2f0b5",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:51.447975+00:00"
+      "collected_at": "2026-06-02T07:16:06.664614+00:00"
     },
     {
       "id": "62a3024f4dfe4fdd83b7533eef1736139b1cd58f9509f3a02bcac9e5527a0515",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:51.447895+00:00"
+      "collected_at": "2026-06-02T07:16:06.664546+00:00"
     },
     {
       "id": "0bbff55d6ab91be607dfc6c8edb912973f63f79086db6bb8a87addae1f2f278d",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:39.850847+00:00"
+      "collected_at": "2026-06-02T07:15:55.460054+00:00"
     },
     {
       "id": "0f43ec4f986e778843108de6f4476e674717c4e303c02d5eed8cd537716f82e0",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:51.447694+00:00"
+      "collected_at": "2026-06-02T07:16:06.664379+00:00"
     },
     {
       "id": "8cf5673ba7b99434d7d5f485c9e29f020f9722b283d762864e8eaadee7ecee8d",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:39.850613+00:00"
+      "collected_at": "2026-06-02T07:15:55.459904+00:00"
     },
     {
       "id": "e68c2afe315e67e4f9799211bdaf4aa651410873ceb74fb2ce01a8190a97291e",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:49.686380+00:00"
+      "collected_at": "2026-06-02T07:16:05.026533+00:00"
     },
     {
       "id": "feb7c116af4c135fbdad82ed7512eebb2fe8ccdf5dcb2e066e565659b2e80196",
@@ -247,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T03:32:47.011430+00:00"
+      "collected_at": "2026-06-02T07:16:02.388398+00:00"
     }
   ]
 }
