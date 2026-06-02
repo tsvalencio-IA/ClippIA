@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-02T10:15:28.151800+00:00",
+  "updated_at": "2026-06-02T12:33:41.031768+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 9,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:11.733238+00:00"
+      "collected_at": "2026-06-02T12:33:24.143323+00:00"
     },
     {
       "id": "0b2d8d07c49da057537c8d43ebdb93718baeef3f78cc2e733426d3c8336f01e2",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:23.311218+00:00"
+      "collected_at": "2026-06-02T12:33:36.020855+00:00"
     },
     {
       "id": "6869bd75318667187159ba31c808c74765965df7c0bc9c6c4703c9fa10ac5aec",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:11.737219+00:00"
+      "collected_at": "2026-06-02T12:33:24.150012+00:00"
     },
     {
       "id": "c9d0f7aa747b51e55d4381b84b40ddaa14882858704843aa915c52c49e26852c",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:11.733368+00:00"
+      "collected_at": "2026-06-02T12:33:24.143466+00:00"
     },
     {
       "id": "eb9a472362e2e8a8a5e32b3f6469f832733e0b5c0fe4a8732e68999dc261d6bf",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:22.147710+00:00"
+      "collected_at": "2026-06-02T12:33:34.861083+00:00"
     },
     {
       "id": "4e98a19aa8521292702ffc671ed26834710b64b16a02a9dabfc158ad6b475ab2",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:11.737310+00:00"
+      "collected_at": "2026-06-02T12:33:24.150093+00:00"
     },
     {
       "id": "147b0b07bac3f438249ad4d5cc357569315631cb9c3186797bfcd5885eb2f0b5",
@@ -156,13 +156,13 @@
       "published": "2026-06-01T16:23:57+00:00",
       "published_raw": "Mon, 01 Jun 2026 16:23:57 GMT",
       "snippet": "Rodovia Washington Luís deve receber quase 100 mil veículos na região de Rio Preto (SP) durante feriado de Corpus Christi gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:23.916657+00:00"
+      "collected_at": "2026-06-02T12:33:36.020993+00:00"
     },
     {
       "id": "0bbff55d6ab91be607dfc6c8edb912973f63f79086db6bb8a87addae1f2f278d",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:23.311296+00:00"
+      "collected_at": "2026-06-02T12:33:36.020922+00:00"
     },
     {
       "id": "8cf5673ba7b99434d7d5f485c9e29f020f9722b283d762864e8eaadee7ecee8d",
@@ -196,41 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T10:15:13.917766+00:00"
-    },
-    {
-      "id": "e68c2afe315e67e4f9799211bdaf4aa651410873ceb74fb2ce01a8190a97291e",
-      "title": "Caminhão tomba e interdita a SP-225 em Itirapina - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbEx1RzRaTWl6VG85VmFEdXdOQTFLOWlmcnN1LVNadGVJd3ppMWZrbmZSQW9hcnIxSF80R2x4OTFKdnRmVUZ6UlVsSDdxYVh4amlocWd0R0h1cmhlMmI0UmhuS2Y1UnI4TzJhMGJLTURkYzJ6eVhQcjc3XzE2XzdPYXN3WTJNbVJwQVc1S2pDUDU1X25GV3Y4ZGNfeE1wb3Ru?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-01T11:54:12+00:00",
-      "published_raw": "Mon, 01 Jun 2026 11:54:12 GMT",
-      "snippet": "Caminhão tomba e interdita a SP-225 em Itirapina Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" reajuste",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-02T10:15:21.561494+00:00"
-    },
-    {
-      "id": "feb7c116af4c135fbdad82ed7512eebb2fe8ccdf5dcb2e066e565659b2e80196",
-      "title": "Reajuste nas tarifas da Eixo SP entra em vigor dia 4 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTy1oR1A0TUJNT1F2a2N4d2ZlOTVGcFFNbzU0Vng2LVpKSWhQMzVjZlNmajIwc1RpTTdvNkk3RkVOM1Q0RTN5OTg0RmloSm1HaW9kYXRSOHAzYUxZWGExNDBHa0NIMHhnTEtVVC03UzlFdVVsXzVfSVlxc1pnYjFOWWlXdXlGWHhORWdHUkZUV1pSUHh4eXVtMnkySGRLLXVrUGRqQnRnYw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-01T11:41:32+00:00",
-      "published_raw": "Mon, 01 Jun 2026 11:41:32 GMT",
-      "snippet": "Reajuste nas tarifas da Eixo SP entra em vigor dia 4 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-02T10:15:18.745545+00:00"
+      "collected_at": "2026-06-02T12:33:26.466842+00:00"
     }
   ]
 }
