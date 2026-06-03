@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-02T22:59:42.750067+00:00",
+  "updated_at": "2026-06-03T02:41:03.931404+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 13,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "0b2d8d07c49da057537c8d43ebdb93718baeef3f78cc2e733426d3c8336f01e2",
+      "title": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' - Notícias da TV",
+      "source": "Notícias da TV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVlYY0J6N2R0aGVWV0Z6YldwVjZmN0ZSa2VYemhxSS1VN2lFMlNsaWRrWVlhVnlZYW5heHVtSFR3dVF5M0JvYzA0enpBNm1FZjh6LTVDWE5MQlByNS15UG5CWVpVWDhfUEIwOEVNYVFsYTh2QV9FdlFkbkNtZ1ppVnViNVVoZmtWQk4tN29OeVNKcU93YlVQUUZuWVJuTm9BZGRBWjVYRmROaE1VdlRLd3haX2p3YXZvczNqcHBMTGpNM1p6eDFxMjJtMTBrd9IB3AFBVV95cUxPREZmckU2RWY1NmVZeFUzd0thMlhyX2RZTTJwbU1qNHkwNGVCdTJNXzhnaFpGLXdhZEFTSHIxNjc1X3l0OFZ1eFM0dUN4X0R0WVU4QWNWdlIwLUx4TVkwUmlLcDZ3MU5mTlJ3Mk0zV1pabWhQanpSSkowbDlVS1dscWl1SUIxUjFvZGhvLTRpVnRDUExUN2RLTEVMR2t4WUttRUZJYXlrc09Cb2hYTUtBZ0tTNWdtMTZQX05LMlNWUU1vVmZFMEstZFdNQTFhX3dyUDNNQXN1Q1dsS1Nm?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-02T22:10:31+00:00",
+      "published_raw": "Tue, 02 Jun 2026 22:10:31 GMT",
+      "snippet": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' Notícias da TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-03T02:40:47.639635+00:00"
+    },
+    {
+      "id": "f686e19383a97816d78f81a9b50fe23b91f12ed68a3da8c41e2a97a924619cd3",
+      "title": "Acidente entre SUV e Ecosport provoca congestionamento na Washington Luís, em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbVB6U3BTenRsNDFmMlE0NThvVmRLUWx1UERsRG1iTFp6ZGRBNE9aSlUzdjd1Z1BWVWxoeEttRUtVUi1rb1VvWXdlbmY4dmw2aU4xVEdoWHpKS1NLUUZfendBeENlTW1fTjN3S2N2ODdmVk05OFNPSTR5TS1ubXRzTVBtcFFabTRGX0tFWFYzaFdzV3JaaFJ2ZUhOTlJGcTVHWFdkZG02OEJidGMyNFpQVzNqYV9IUnFY0gG-AUFVX3lxTE5GdmszMGp5QXY4SUhyQUdaRTZrY010UE1PWk5STWtsTHRkSkdVQ2VkQXoxbUlvNEI5TkFFQlNtR2ZTcWJBSmlBeWN2MUt1dkhBNDAwdmFFNFhVaFM1aG1CbWZqYXc1MzJCZGVFU0RmX0tNRXRYejliVnd0akpnWEtGNnhUakY3b2IwUEtnOG1lcmYwWTNBcndPSVJrQ0RBNzdpMUI0ZnBSQS1IU3ZTVTgzMXhjUW9FVUUxcVkwR3c?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-02T22:01:24+00:00",
+      "published_raw": "Tue, 02 Jun 2026 22:01:24 GMT",
+      "snippet": "Acidente entre SUV e Ecosport provoca congestionamento na Washington Luís, em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-03T02:40:49.280831+00:00"
+    },
+    {
       "id": "759066995685e1d36ef434f5822b788790bef50db597d81b02ca628df68aac98",
       "title": "Operação Corpus Christi tem início nesta quarta-feira e prevê aumento no tráfego - Portal da Cidade - Mirassol / SP",
       "source": "Portal da Cidade - Mirassol / SP",
@@ -54,13 +88,13 @@
       "published": "2026-06-02T21:35:34+00:00",
       "published_raw": "Tue, 02 Jun 2026 21:35:34 GMT",
       "snippet": "Operação Corpus Christi tem início nesta quarta-feira e prevê aumento no tráfego Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.926189+00:00"
+      "collected_at": "2026-06-03T02:40:47.639707+00:00"
     },
     {
       "id": "17b5e2177ea0e43a802f7f183e592deca198584707b311cefa5f8fb2f203afeb",
@@ -71,13 +105,13 @@
       "published": "2026-06-02T20:30:00+00:00",
       "published_raw": "Tue, 02 Jun 2026 20:30:00 GMT",
       "snippet": "Ecovias Noroeste Paulista prevê fluxo de 627 mil veículos A Comarca | Home",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.925334+00:00"
+      "collected_at": "2026-06-03T02:40:47.639154+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -85,8 +119,8 @@
       "source": "Jornal de Barretos",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnZwRlQwSlQ3bVBwR3BqQ00ybk4wc2Jsd0ZQQUZhRGVlTlFXY2dPbk9rQjZCMmYtcGZYRlhHbjZYQlp6ZGxGYVVTZUY1LVBvckZsV013WUp6Tkx6d0RYaURwV0s0enJ4YVJzOWFmNVE5UDVMZHdkeHlsTnhHcXZFT0RLOGFEZ1V5OGNGV3k4X2ozYlp4aWdUR2pmUUlXbDNienEySDRVLWlGcF92ZnlZSXJuQ0ZoOU80VmROZGVIbE9HWFNM?oc=5",
       "resolved_link": "",
-      "published": "2026-06-02T18:10:55+00:00",
-      "published_raw": "Tue, 02 Jun 2026 18:10:55 GMT",
+      "published": "2026-06-02T18:10:31+00:00",
+      "published_raw": "Tue, 02 Jun 2026 18:10:31 GMT",
       "snippet": "Notícias Jornal de Barretos",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.925780+00:00"
+      "collected_at": "2026-06-03T02:40:47.639435+00:00"
     },
     {
       "id": "e4518ffd5a762babfcc208aae59d4ff832aae20428baf42051f7594e351f3d31",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:36.041321+00:00"
+      "collected_at": "2026-06-03T02:40:57.975862+00:00"
     },
     {
       "id": "34e0bcb23ed5822720d9a731a0c8a5b1dd6705cf3a0b92f123f10543298e4f24",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.926315+00:00"
+      "collected_at": "2026-06-03T02:40:47.639771+00:00"
     },
     {
       "id": "136533f896538584ab6d007039842c85ac90007de924898661fa6c84785c42bc",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:36.041235+00:00"
+      "collected_at": "2026-06-03T02:40:57.975801+00:00"
     },
     {
       "id": "6b99b21c4874a527bd6f35569f9a508bde4403484678ba35f09f1809f18f8179",
@@ -156,13 +190,13 @@
       "published": "2026-06-02T12:15:58+00:00",
       "published_raw": "Tue, 02 Jun 2026 12:15:58 GMT",
       "snippet": "Na região: Ecovias inicia obras de via marginal na Washington Luís e amplia pacote de melhorias entre Mirassol e Rio Preto odefensor.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.925921+00:00"
+      "collected_at": "2026-06-03T02:40:47.639575+00:00"
     },
     {
       "id": "a6fee4d253019b3f2cdf64dd58ad6c2dc179d61f630660e0591a03d6f7def92b",
@@ -179,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.925518+00:00"
-    },
-    {
-      "id": "0b2d8d07c49da057537c8d43ebdb93718baeef3f78cc2e733426d3c8336f01e2",
-      "title": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' - Notícias da TV",
-      "source": "Notícias da TV",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVlYY0J6N2R0aGVWV0Z6YldwVjZmN0ZSa2VYemhxSS1VN2lFMlNsaWRrWVlhVnlZYW5heHVtSFR3dVF5M0JvYzA0enpBNm1FZjh6LTVDWE5MQlByNS15UG5CWVpVWDhfUEIwOEVNYVFsYTh2QV9FdlFkbkNtZ1ppVnViNVVoZmtWQk4tN29OeVNKcU93YlVQUUZuWVJuTm9BZGRBWjVYRmROaE1VdlRLd3haX2p3YXZvczNqcHBMTGpNM1p6eDFxMjJtMTBrd9IB3AFBVV95cUxPREZmckU2RWY1NmVZeFUzd0thMlhyX2RZTTJwbU1qNHkwNGVCdTJNXzhnaFpGLXdhZEFTSHIxNjc1X3l0OFZ1eFM0dUN4X0R0WVU4QWNWdlIwLUx4TVkwUmlLcDZ3MU5mTlJ3Mk0zV1pabWhQanpSSkowbDlVS1dscWl1SUIxUjFvZGhvLTRpVnRDUExUN2RLTEVMR2t4WUttRUZJYXlrc09Cb2hYTUtBZ0tTNWdtMTZQX05LMlNWUU1vVmZFMEstZFdNQTFhX3dyUDNNQXN1Q1dsS1Nm?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-02T07:57:16+00:00",
-      "published_raw": "Tue, 02 Jun 2026 07:57:16 GMT",
-      "snippet": "Cantor Latino sai ileso após acidente de ônibus com sua equipe: 'Livramento' Notícias da TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.926047+00:00"
+      "collected_at": "2026-06-03T02:40:47.639334+00:00"
     },
     {
       "id": "d0baf4c2142d9a20ce0ec2c1dfcc407172fa2921285a3eae4c58857df1c287a9",
@@ -207,13 +224,30 @@
       "published": "2026-06-02T07:54:06+00:00",
       "published_raw": "Tue, 02 Jun 2026 07:54:06 GMT",
       "snippet": "EcoRodovias (ECOR3): lucro líquido cai 23,9% no 2º trimestre; veja como foi o balanço Estadão",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:25.850320+00:00"
+      "collected_at": "2026-06-03T02:40:47.639504+00:00"
+    },
+    {
+      "id": "c9d0f7aa747b51e55d4381b84b40ddaa14882858704843aa915c52c49e26852c",
+      "title": "Ecovias Noroeste Paulista divulga programação de obras entre 1º e 7 de junho em rodovias do interior de São Paulo - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWS1DeHhZbkQ0TUh3LTZvRHU0WVYyakIxbUdBTHVCcWQ5b2pVMFJxOXJTZXJVbk00eWpicTBvZmRFSFVxcXJwcURYX2NtMndFbV9IYV9qZXUzbVRDTThmU2xXMWdwYkZNQzdnMnRiM2tlTG8wdDJidndPZV9HbUVIcVNGZHhjNnRoTm9VRmFsTTJFZmkyc0VVS1N6RFJtcWcxRFpXdkRRRHdjdWlhMHdKQlNRajZWQTBQZ2RpN2lyMzlwNGRfR1JCVm9SZXFYLUdhUFBhOFpSUG1YeGtJTjBubmpPbG1kQlR1VGdrSVdIVC3SAfYBQVVfeXFMUERCVWdqUzk4V2RIYW9nd21ra0lYZGdIOEdXMVl2UDNRTUo2U0hMdWxIZkNvTy10LTdhNnN6SVBjcXRRd1pGcmJZMGhBTTh4N2VpTjBTREh6U01xcFZNUTBwaDZtUWs3MGxrSDF4d1J0NVA2OEZsMHNWZWVTck5ySVBmRFRBMnY1aF9pNVlMeDBWaUk1c0k0UFU1OEM4dXBoZDQ0a2tNcEs1ZF8tTC03NW1mdC1RZU1NbVVGYnZfV081X25uaEJVMmdqdl92ZnZSOFVQNDJqQmhCZ0FrRVlSN3ZFT0JYWkk4Ri1GZjI5WmJvYTdoT0hB?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-02T05:15:00+00:00",
+      "published_raw": "Tue, 02 Jun 2026 05:15:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga programação de obras entre 1º e 7 de junho em rodovias do interior de São Paulo Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-03T02:40:47.639258+00:00"
     },
     {
       "id": "6869bd75318667187159ba31c808c74765965df7c0bc9c6c4703c9fa10ac5aec",
@@ -224,30 +258,13 @@
       "published": "2026-06-02T04:36:10+00:00",
       "published_raw": "Tue, 02 Jun 2026 04:36:10 GMT",
       "snippet": "“Operação feriado de Corpus Christi”: Ecovias Noroeste Paulista prevê fluxo de 627 mil veículos Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-02T22:59:32.316497+00:00"
-    },
-    {
-      "id": "c9d0f7aa747b51e55d4381b84b40ddaa14882858704843aa915c52c49e26852c",
-      "title": "Ecovias Noroeste Paulista divulga programação de obras entre 1º e 7 de junho em rodovias do interior de São Paulo - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQREJVZ2pTOThXZEhhb2d3bWtrSVhkZ0g4R1cxWXZQM1FNSjZTSEx1bEhmQ29PLXQtN2E2c3pJUGNxdFF3WkZyYlkwaEFNOHg3ZWlOMFNESHpTTXFwVk1RMHBoNm1RazcwbGtIMXh3UnQ1UDY4Rmwwc1ZlZVNyTnJJUGZEVEEydjVoX2k1WUx4MFZpSTVzSTRQVTU4Qzh1cGhkNDRra01wSzVkXy1MLTc1bWZ0LVFlTU1tVUZidl9XTzVfbm5oQlUyZ2p2X3ZmdlI4VVA0MmpCaEJnQWtFWVI3dkVPQlhaSThGLUZmMjlaYm9hN2hPSEHSAfYBQVVfeXFMUERCVWdqUzk4V2RIYW9nd21ra0lYZGdIOEdXMVl2UDNRTUo2U0hMdWxIZkNvTy10LTdhNnN6SVBjcXRRd1pGcmJZMGhBTTh4N2VpTjBTREh6U01xcFZNUTBwaDZtUWs3MGxrSDF4d1J0NVA2OEZsMHNWZWVTck5ySVBmRFRBMnY1aF9pNVlMeDBWaUk1c0k0UFU1OEM4dXBoZDQ0a2tNcEs1ZF8tTC03NW1mdC1RZU1NbVVGYnZfV081X25uaEJVMmdqdl92ZnZSOFVQNDJqQmhCZ0FrRVlSN3ZFT0JYWkk4Ri1GZjI5WmJvYTdoT0hB?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-02T01:00:57+00:00",
-      "published_raw": "Tue, 02 Jun 2026 01:00:57 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga programação de obras entre 1º e 7 de junho em rodovias do interior de São Paulo Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-02T22:59:23.925676+00:00"
+      "collected_at": "2026-06-03T02:40:57.417634+00:00"
     }
   ]
 }
