@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-04T17:42:40.973331+00:00",
+  "updated_at": "2026-06-04T19:53:28.006308+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 3,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T17:42:24.232997+00:00"
+      "collected_at": "2026-06-04T19:53:11.683438+00:00"
     },
     {
       "id": "117201fcdf959520be7dfb1c1d915932ccfc1a2b68aaeede79bf4f78fecd095f",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T17:42:24.233153+00:00"
+      "collected_at": "2026-06-04T19:53:11.683580+00:00"
     },
     {
       "id": "022bc58bd494b907ad846271f5730f96eaa10f8b3c218e7c07c1f8fb113b8238",
@@ -94,41 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T17:42:24.233081+00:00"
-    },
-    {
-      "id": "958a5d2a3d2946895dd0588b2d5337f209c10af77fe0c6c6dfe2c2e05c14d206",
-      "title": "Obras na Brigadeiro Faria Lima são entregues em Barretos com investimento de R$ 40 milhões - CBN Ribeirão",
-      "source": "CBN Ribeirão",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXZUVDlia3RhcDFTTDZFOWVjOG41Q1cxbFJ6NEtCbjQtdVNvMXUtMWM2eUJWRXE5ZEIycGRuS3Z0M2k1TTNDM2p6Tm95dTh1UU8zZmk5MWtLbmcxbWFuTnBlUU9mNlFWTl8zNGozcVFjMEJ6VzJMYVltNy1WQ2xRZzlab2FFOTFad2l0UXlYTHFIdm13QmNsSFZCX0xOZlZzbGVvNmRhZkhaMUZqQlN2YVJvem5zRWJ0?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-03T18:56:34+00:00",
-      "published_raw": "Wed, 03 Jun 2026 18:56:34 GMT",
-      "snippet": "Obras na Brigadeiro Faria Lima são entregues em Barretos com investimento de R$ 40 milhões CBN Ribeirão",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-04T17:42:24.232918+00:00"
-    },
-    {
-      "id": "357f107d175cd40ee0568edfa22899ace8f8717375a43c64c07df0254fcc7dbe",
-      "title": "Previsão de fluxo de veículos no feriado prolongado - O Diário Interativo Online",
-      "source": "O Diário Interativo Online",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVN6RUtoaXJEQk96bkJDQm93anBsbTRvcm5Ib1NxYk1XTXpWTzZnejVGejZ5aUt6NkNPOV9KSmVwbUVXdGFHYklINDN0dzE1YXJFaWJEeGl1bVlrTjFNcWFRMVQyXzR3UmZuY0dFQTJ2WHpvNEQwdXZuZk1xMy1YNmZrMlVSVUZ5c0hDcU5B?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-03T18:37:51+00:00",
-      "published_raw": "Wed, 03 Jun 2026 18:37:51 GMT",
-      "snippet": "Previsão de fluxo de veículos no feriado prolongado O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-04T17:42:24.232818+00:00"
+      "collected_at": "2026-06-04T19:53:11.683664+00:00"
     }
   ]
 }
