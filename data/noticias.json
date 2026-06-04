@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-04T03:35:15.353979+00:00",
+  "updated_at": "2026-06-04T07:14:21.755329+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-06-03T23:14:38+00:00",
       "published_raw": "Wed, 03 Jun 2026 23:14:38 GMT",
       "snippet": "Governo do estado entrega marginais, ciclovia e acessos urbanos em Barretos regiaonews.net.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648581+00:00"
+      "collected_at": "2026-06-04T07:14:05.940600+00:00"
     },
     {
       "id": "958a5d2a3d2946895dd0588b2d5337f209c10af77fe0c6c6dfe2c2e05c14d206",
@@ -77,13 +77,30 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.647989+00:00"
+      "collected_at": "2026-06-04T07:14:05.940268+00:00"
+    },
+    {
+      "id": "357f107d175cd40ee0568edfa22899ace8f8717375a43c64c07df0254fcc7dbe",
+      "title": "Previsão de fluxo de veículos no feriado prolongado - O Diário Interativo Online",
+      "source": "O Diário Interativo Online",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVN6RUtoaXJEQk96bkJDQm93anBsbTRvcm5Ib1NxYk1XTXpWTzZnejVGejZ5aUt6NkNPOV9KSmVwbUVXdGFHYklINDN0dzE1YXJFaWJEeGl1bVlrTjFNcWFRMVQyXzR3UmZuY0dFQTJ2WHpvNEQwdXZuZk1xMy1YNmZrMlVSVUZ5c0hDcU5B?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-03T18:37:51+00:00",
+      "published_raw": "Wed, 03 Jun 2026 18:37:51 GMT",
+      "snippet": "Previsão de fluxo de veículos no feriado prolongado O Diário Interativo Online",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-04T07:14:05.940008+00:00"
     },
     {
       "id": "51677e15491f6d818a964b13f247bb6b23619e90c78b5946e48d0f6cd03eb02e",
       "title": "Governo de SP conclui obras de R$ 4,1 milhões na SP-326 em Barretos com marginais e ciclovia - diarioesp.com.br",
       "source": "diarioesp.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVN1WmQxa1RlLU92aHpva21sbFUzaENhX3Fyd1RXT3hyT1FsT3VReDBucUc2anF0QmJSYjEzNV9iY0VGUUJrTUJwVmZ6RmZITXZoQU5pU0JybTdnOUY4U3NwRHo3WTE4MEdzdUdON0pkZkxVX2pmUkFFQlU5Tk84YUJKblBBVVdKRmxxVHlMVFlRRkFieVZnRmZzQ3ExT0VJcDdVa1NUSVJpVGoya2hEVkJfTTNRRzdsT01jVXdPdERfOGRSREVqdGFmUnNEaGxJX0Y5eVVRckFfRGlHMzRWZFR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkN1dXdTX25BQl9SSDFVY1FNYmU0dmlxQUVzdXJOdlJfZzhsQjQ5QVVRcFNIRDkteV8xbklWNk1Vc2JfSHZLYUpYV2o4Z05YQWQteVVzV1VJYlpSLUhDWnN4TUswMEdDZUxjdTNDM1BDaXQtWkU2cDFzYy1XTjloVW9MUWw1QzBhQXF2enNBZExibVp6bEc5UmFkOW1JVXQzdGRRYmh1cUtFVnJmR29xeDZneXc3Z193cWZqWWtHV2Zqa1pjeFBPeE9xbXNtdkVtWktXNG9JRjZfOFpw?oc=5",
       "resolved_link": "",
       "published": "2026-06-03T16:30:00+00:00",
       "published_raw": "Wed, 03 Jun 2026 16:30:00 GMT",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648502+00:00"
+      "collected_at": "2026-06-04T07:14:05.940533+00:00"
     },
     {
       "id": "22d1e3e47c22947b61662196df5b237eb6452acf1c738c22c8a94a424d19a496",
@@ -111,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648671+00:00"
+      "collected_at": "2026-06-04T07:14:05.940673+00:00"
     },
     {
-      "id": "9fa691556d4fa6ecfb686a085a8bf068c56bcfcc701fb3440c0c39d8e0585751",
-      "title": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos - BOM DIA SOROCABA",
-      "source": "BOM DIA SOROCABA",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS1E0QXBSdEpKOUk3ejNoU1l3ekthM3hZMkw0V0FEWHc2Z0J2U1E4bERVWTg1SEdXSEZ6QzlmcjR0a1V6NGJfY2R4YnZRX3BkQjhvMGpTTDlkQko5UzBvalhQUy1zYllBd3psVUV3bnVaRzdYT0J2Nkd5WlJudTgtNW50Tk5nR1IzdVdEZUhBSUVPVUJHSWVzOG5MbHl5cjA5NGRrUkk3Tm41b3VIMDhYYURfTnhneEgtdlFIX2JrNUF1ZjBBNUJsZF9zc1ItckNKU1lRaXZjRHUxdw?oc=5",
+      "id": "ebec38babb5fcea7bc0b222a5ee7db331a0809cd8bcfaaf059a4d1c476fbf07c",
+      "title": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos - BOM DIA GUARULHOS",
+      "source": "BOM DIA GUARULHOS",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORy1jTHVaZ2ZRanlHY1dvT3d1dWo1cE91MGlDWG9TVGhqVWZYVVk1dFpWN0FYNS1scWlCMm8yRjZOUlJXbHd0SGY3dGVNZ2RZeFhhbmMyU3AzQXZxQTQ0WDMySWtiWTZhNWxfTy1MMmIweTRoQTltemJYazZJbUVMVTBTbVAtbHliR0tlbjl4M2hQbU55SWJSZHJmNEVRRF9zS01iaVVOY2pqVWVneU1GMzAtaFZYSXhQeE9MdTFfcW5JakxhNWhaczRFbzhIQ3kzdWhzd1NETXpXLUE?oc=5",
       "resolved_link": "",
-      "published": "2026-06-03T15:45:00+00:00",
-      "published_raw": "Wed, 03 Jun 2026 15:45:00 GMT",
-      "snippet": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos BOM DIA SOROCABA",
+      "published": "2026-06-03T15:39:00+00:00",
+      "published_raw": "Wed, 03 Jun 2026 15:39:00 GMT",
+      "snippet": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos BOM DIA GUARULHOS",
       "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:35:09.251425+00:00"
+      "collected_at": "2026-06-04T07:14:15.890059+00:00"
     },
     {
       "id": "282a47833f4d41f571c809c49dd51f9709e38f42fe4e7348fe9b69ebd6dc2ec4",
@@ -139,13 +156,13 @@
       "published": "2026-06-03T15:26:49+00:00",
       "published_raw": "Wed, 03 Jun 2026 15:26:49 GMT",
       "snippet": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos Agência SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648092+00:00"
+      "collected_at": "2026-06-04T07:14:20.250581+00:00"
     },
     {
       "id": "0b2d8d07c49da057537c8d43ebdb93718baeef3f78cc2e733426d3c8336f01e2",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648415+00:00"
+      "collected_at": "2026-06-04T07:14:05.940458+00:00"
     },
     {
       "id": "63b171e04917e00746a7abb20887d8c6dc0cfb27b76232bea06f5cf90ab36b51",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648221+00:00"
+      "collected_at": "2026-06-04T07:14:05.940190+00:00"
     },
     {
       "id": "70fda5dbbca32fe62f94dca97248ebe06fbc88342d6255c3bf0a1bd068efd03c",
@@ -190,13 +207,13 @@
       "published": "2026-06-03T12:20:41+00:00",
       "published_raw": "Wed, 03 Jun 2026 12:20:41 GMT",
       "snippet": "Planejamento operacional: Operação especial para Corpus Christi prevê circulação de 627 mil veículos nas rodovias da região odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.648327+00:00"
+      "collected_at": "2026-06-04T07:14:05.940383+00:00"
     },
     {
       "id": "bbed30efc967ff778e9b3350a0b575341eb94e26cbf64b704eb46fb4eb176709",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T03:34:58.647874+00:00"
+      "collected_at": "2026-06-04T07:14:05.940104+00:00"
     }
   ]
 }
