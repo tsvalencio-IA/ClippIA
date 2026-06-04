@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-04T14:49:32.785446+00:00",
+  "updated_at": "2026-06-04T17:38:16.634921+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194795+00:00"
+      "collected_at": "2026-06-04T17:37:57.492738+00:00"
+    },
+    {
+      "id": "117201fcdf959520be7dfb1c1d915932ccfc1a2b68aaeede79bf4f78fecd095f",
+      "title": "Obras de readequação na Faria Lima são entregues - O Diário Interativo Online",
+      "source": "O Diário Interativo Online",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnRteVpzejJuMWhtcmI1ZEswNGxnZ2RnbEd0UFNtM25Xa2UtbjFac3BhcmhyNE5oM1Q2ZzNEV1locDBRYVd1N2ZLQkhiWndiV3d6RnpYWWUwZmpYNFNSOFZXRk9jNWJQOUpqQ01DU0pTcWN6MGozTkhoSXRoTGhTZHdNbzBnTENuLVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-03T23:12:47+00:00",
+      "published_raw": "Wed, 03 Jun 2026 23:12:47 GMT",
+      "snippet": "Obras de readequação na Faria Lima são entregues O Diário Interativo Online",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-04T17:37:57.492893+00:00"
+    },
+    {
+      "id": "022bc58bd494b907ad846271f5730f96eaa10f8b3c218e7c07c1f8fb113b8238",
+      "title": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos - Arena de Notícias",
+      "source": "Arena de Notícias",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWdRT3hPeWV0bl9tNUdMdEFnLXVsMGNLY0V2UXBMTUVRVkc4blItMlBxOGdvcTlVS195Z2Jxc2NxeVVBVG10YzZieGZvX0dxYWNvMWxXUHNueEdKV1hvWEhWaEtWTFduanByUzhzRE9tM1ZYTGFPdDU5TTNQazlVa3dRUko5SGtDZVNlendDYWdTYVFQTVFPemZaYnU0SFJMSFVnV0txYlJDUHIxUmNUSXBYTkxzY0p0eWg4NnUwbkxHNHdpaGFNNkcwb3hoM0lUakQ1V29tVUllNDZR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-03T20:51:07+00:00",
+      "published_raw": "Wed, 03 Jun 2026 20:51:07 GMT",
+      "snippet": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos Arena de Notícias",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-04T17:37:57.492822+00:00"
     },
     {
       "id": "958a5d2a3d2946895dd0588b2d5337f209c10af77fe0c6c6dfe2c2e05c14d206",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194861+00:00"
+      "collected_at": "2026-06-04T17:37:57.492649+00:00"
     },
     {
       "id": "357f107d175cd40ee0568edfa22899ace8f8717375a43c64c07df0254fcc7dbe",
@@ -94,58 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194499+00:00"
-    },
-    {
-      "id": "51677e15491f6d818a964b13f247bb6b23619e90c78b5946e48d0f6cd03eb02e",
-      "title": "Governo de SP conclui obras de R$ 4,1 milhões na SP-326 em Barretos com marginais e ciclovia - diarioesp.com.br",
-      "source": "diarioesp.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVN1WmQxa1RlLU92aHpva21sbFUzaENhX3Fyd1RXT3hyT1FsT3VReDBucUc2anF0QmJSYjEzNV9iY0VGUUJrTUJwVmZ6RmZITXZoQU5pU0JybTdnOUY4U3NwRHo3WTE4MEdzdUdON0pkZkxVX2pmUkFFQlU5Tk84YUJKblBBVVdKRmxxVHlMVFlRRkFieVZnRmZzQ3ExT0VJcDdVa1NUSVJpVGoya2hEVkJfTTNRRzdsT01jVXdPdERfOGRSREVqdGFmUnNEaGxJX0Y5eVVRckFfRGlHMzRWZFR3?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-03T16:30:00+00:00",
-      "published_raw": "Wed, 03 Jun 2026 16:30:00 GMT",
-      "snippet": "Governo de SP conclui obras de R$ 4,1 milhões na SP-326 em Barretos com marginais e ciclovia diarioesp.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194735+00:00"
-    },
-    {
-      "id": "22d1e3e47c22947b61662196df5b237eb6452acf1c738c22c8a94a424d19a496",
-      "title": "Tarcísio entrega obras em Barretos e leva Caravana 3D para São Carlos e Araraquara na próxima semana - CBN Ribeirão",
-      "source": "CBN Ribeirão",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVUtckVkMldWSlBVLVk3Ml9HTHNIYzBxOGxDR1JkWTItamVpUGpCZnM0dDhkTmpTVkRUNldYdGxTMUd5NWFSZWl4RmJpekNIRE0ydHdCOXFsT2pMNTctTDV3WnJQeEdNWUNNeGRyaFFTSWl5b3Nzc0YzandwakxmeV93ZlVmMENOejhtYkd5amwySVJCNEZTencxQW5yVVFwaElqTVNxOXNXOWlIMXREZS05SW1HSFFrSU93bVpLN1MxVmI2UG1V?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-03T15:47:00+00:00",
-      "published_raw": "Wed, 03 Jun 2026 15:47:00 GMT",
-      "snippet": "Tarcísio entrega obras em Barretos e leva Caravana 3D para São Carlos e Araraquara na próxima semana CBN Ribeirão",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194592+00:00"
-    },
-    {
-      "id": "282a47833f4d41f571c809c49dd51f9709e38f42fe4e7348fe9b69ebd6dc2ec4",
-      "title": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos - Agência SP",
-      "source": "Agência SP",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnRjUi1iSnlmWUlUWkZ1MlpRYnVpQmVUbjkzTHczZHNmc2VRQjdtLVRpZEczbGx5MkdUY3RsY0ZtYmltQzRrZzBtQkQ2blV0Z0tkV1c4MGhJSGR6eXhocUlBX2JoRDBuQ1ZkQnhZSGRZRVVEV180SEpVSEM5VFBzYVZKNjY5c2NDbkdpWkQtcEpTcW9xYWFtUTNGX3ZwQXUzeWVxYU1DSVdaS1NwZ2RvV3BGZGlHZmd0X05jR0VLWVJGb3ZfNFhVMy1aSQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-03T15:26:49+00:00",
-      "published_raw": "Wed, 03 Jun 2026 15:26:49 GMT",
-      "snippet": "Caravana 3D: Governo de SP entrega marginais, ciclovia e novos acessos urbanos na SP-326 em Barretos Agência SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-04T14:49:15.194668+00:00"
+      "collected_at": "2026-06-04T17:37:57.492534+00:00"
     }
   ]
 }
