@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-06T10:51:43.126566+00:00",
+  "updated_at": "2026-06-06T13:05:26.284904+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "93d9da8d68ad6f7492cd1e859b43f6c7f895b5e45c36c987effec8c867d5ee86",
-      "title": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlhGRkJETUVBQ1dEX2pLbnFoVEEzNDhnVVBBTWlvVENEbGtYYmRfSXJUUW00ak56Y3pRYm9Rd3U1YjFlcEo0S29WNFlCdW41em13TkliYWN2R2hESERPMUlndlREdHNIeDZWRUZPSUpES1hnZmxXbVRnclZSOHZkbHlRbEVXTGlQaGdUYUcxY21UNG1oSTFyS09XbjNoUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-06T04:05:02+00:00",
-      "published_raw": "Sat, 06 Jun 2026 04:05:02 GMT",
-      "snippet": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-06T10:51:26.962501+00:00"
-    }
-  ]
+  "items": []
 }
