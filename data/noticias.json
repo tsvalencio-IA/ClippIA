@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-06T19:15:16.066788+00:00",
+  "updated_at": "2026-06-06T21:55:21.212437+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-06-06T16:24:15+00:00",
       "published_raw": "Sat, 06 Jun 2026 16:24:15 GMT",
       "snippet": "Concessionária destaca obras entregues na Faria Lima e prevê novos investimentos O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-06T19:14:57.345388+00:00"
+      "collected_at": "2026-06-06T21:55:05.685817+00:00"
     },
     {
       "id": "61cc7f23c8caaae0d7e8d97121cc6e4bb76724fd1cc0401f2b1734f26e6a693f",
@@ -71,30 +71,13 @@
       "published": "2026-06-06T13:45:14+00:00",
       "published_raw": "Sat, 06 Jun 2026 13:45:14 GMT",
       "snippet": "Ecovias Noroeste Paulista mantém obras neste sábado e suspende intervenções no domingo durante operação de Corpus Christi Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-06T19:14:57.345299+00:00"
-    },
-    {
-      "id": "93d9da8d68ad6f7492cd1e859b43f6c7f895b5e45c36c987effec8c867d5ee86",
-      "title": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlhGRkJETUVBQ1dEX2pLbnFoVEEzNDhnVVBBTWlvVENEbGtYYmRfSXJUUW00ak56Y3pRYm9Rd3U1YjFlcEo0S29WNFlCdW41em13TkliYWN2R2hESERPMUlndlREdHNIeDZWRUZPSUpES1hnZmxXbVRnclZSOHZkbHlRbEVXTGlQaGdUYUcxY21UNG1oSTFyS09XbjNoUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-06T04:05:02+00:00",
-      "published_raw": "Sat, 06 Jun 2026 04:05:02 GMT",
-      "snippet": "Ação do Maio Amarelo reforça conscientização no trânsito em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-06T19:14:57.345461+00:00"
+      "collected_at": "2026-06-06T21:55:05.685725+00:00"
     }
   ]
 }
