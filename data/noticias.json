@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-07T16:11:22.406315+00:00",
+  "updated_at": "2026-06-07T19:04:34.377836+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-07T16:11:05.207064+00:00"
-    },
-    {
-      "id": "425892fad8d90f4ad808fae8f35cfe96ff9ee99db7612020473d7553880c3a4d",
-      "title": "Concessionária destaca obras entregues na Faria Lima e prevê novos investimentos - O Diário Interativo Online",
-      "source": "O Diário Interativo Online",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ21mNl9CZWJqZDBFVWU1TWk2OG1hbFlFTWNZaHNzQU1VbEh0UnRrNWlrM0VZOGtLTXU0OFVVZlFoX1ljZTNlNXQ2RUVPVmp1NzZXdHpIejNCYVJ4UjZHek54TF9vRGljYVdUT0h1Qk5DQWlrcXozdkRzRjZDYzl5U3pxNW5odmNmcFI4aU02cjlXOHNWTzhZRnhWaWtXM05fSFRBSHFhYWpWUlBBc3I2TmZkdWI?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-06T16:24:15+00:00",
-      "published_raw": "Sat, 06 Jun 2026 16:24:15 GMT",
-      "snippet": "Concessionária destaca obras entregues na Faria Lima e prevê novos investimentos O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-07T16:11:05.206975+00:00"
+      "collected_at": "2026-06-07T19:04:06.235836+00:00"
     }
   ]
 }
