@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-07T13:43:27.295473+00:00",
+  "updated_at": "2026-06-07T16:05:27.946045+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-07T13:43:10.158572+00:00"
+      "collected_at": "2026-06-07T16:05:11.566047+00:00"
     },
     {
       "id": "425892fad8d90f4ad808fae8f35cfe96ff9ee99db7612020473d7553880c3a4d",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-07T13:43:10.158503+00:00"
-    },
-    {
-      "id": "61cc7f23c8caaae0d7e8d97121cc6e4bb76724fd1cc0401f2b1734f26e6a693f",
-      "title": "Ecovias Noroeste Paulista mantém obras neste sábado e suspende intervenções no domingo durante operação de Corpus Christi - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQV9JTzRWZkNHLTZFc3cyZkZEbHF1LUZDREJuNU5CcFNRRU5zZi1BanlJZkFpLUNsakRWNlNoM3J3TVFPNzI0RWRkLUU1UjR3QnRTQ1N6MGstc0VQb1Y2Rzh6bGRvcTZJOUdqbWZ0UlMwQlNWVkhoUlRaSW0teW9HTTJnWHk1YWZUMy11Y0NrN043Vll5R3BKczItZzg2YVRraGFyVjhZeURBRXQwTFhVZmQ2clFrLVIxYmZHWUt4Nm9CSjJtLTFzTlhSbXBDSWRDMGdlQ2lWUUg0M0M1UXA5azAtRHNUNExWaVpqOXBqSEVmaVBuRk9oTUJR0gH_AUFVX3lxTE85dG42TkxfT3RtV1lZbmR6QklJbEZJbUtrZ05yYnZVNnhlVno4SkpCT0IyY01tSTN5dlJ3RXRZOW5vY1p2N3BodHlIc0V5X0VDT1NhMHBJT3lIQXFHc0hRbW9KSHk0dU5kQzhDbzk0U0l4Y21sTmRhRmN2TUZiUmF1R1VkUDBMNjg3MG1qZGZtZVQwZlZwMWwtdHJDWEdSbnEyLVJXNDIxd2pQN1BxZTg3TzBuWkNobHRGYkpNQUFwZUlpZXRuRGJaZWU4alNqMGhvZktaTWVDbVMwbHB1SEp5ZWFkZ2kwODhkZ09vbnVqdFJVZHV2Q20yWTNYcnBRdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-06T13:45:14+00:00",
-      "published_raw": "Sat, 06 Jun 2026 13:45:14 GMT",
-      "snippet": "Ecovias Noroeste Paulista mantém obras neste sábado e suspende intervenções no domingo durante operação de Corpus Christi Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-07T13:43:10.158410+00:00"
+      "collected_at": "2026-06-07T16:05:11.565931+00:00"
     }
   ]
 }
