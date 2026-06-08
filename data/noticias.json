@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-08T03:33:17.518139+00:00",
+  "updated_at": "2026-06-08T07:22:36.570367+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "cd68937b0009307b634aaef5b83f512635b894b0e17bbc5cb4429f2284dcd749",
-      "title": "Mostra da Sustentabilidade reúne empresas, instituições e ações educativas - O Regional",
-      "source": "O Regional",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWRvTU5GcFAyQ1ZiZ1VxRUZvckFaMG5HVTRGUHUydXZPcUhsT3U2dFZ3cEJmdGcyMG96VVd2RGFjRWdqSEJMY1RRWTJmbVBjZUtwblFyN3Y4WE11cGdFVS03YUU0bWozdTFGVU83RXQzY3lxQU8xS1RQdnBNcmFUZXM3bjlPOUVpakJoS3dRcE4wVnk2ck5PVkxHWGs0dThvRVdBYzRQaDA0YXlLWUF4dkgwTHdUZEk?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-07T05:15:07+00:00",
-      "published_raw": "Sun, 07 Jun 2026 05:15:07 GMT",
-      "snippet": "Mostra da Sustentabilidade reúne empresas, instituições e ações educativas O Regional",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-08T03:33:01.862587+00:00"
-    }
-  ]
+  "items": []
 }
