@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-08T10:29:07.125943+00:00",
+  "updated_at": "2026-06-08T12:56:29.366330+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 2,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,40 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "473f326c53738700b57a708528a194e3c2a2681bbcf9e7fafa62251ee87e51c3",
+      "title": "Ecorodovias tem alta de 2,2% no tráfego de veículos nas suas rodovias em maio - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0RUX0RocUJLUnpuV0FTNktvZ0pjbVlWZEM5amdYTm8zZW53R2hQN1JJS0R1anpOQVpVRlFUay14NHgxUGVDbFNpMTVnbHVfWER3QXQzYkFwaVFVTXZHYlB0QmVmeEJELUlXNlpnbncyMkg4bVpTaHZjSFpzSTVtM3E3NlAxZHJjT0t1Wlp6ZVhqNW50eldTV3Y2dlVvZW1aVE9tOU4xSDBoY2dKb2xsQTBJZkRXd1hzMW1WZ2RCazh2X0ZTVHFnTHlPQTBSRHd5SzlnVE10RnJTRXB0LVdvcExFWG_SAfMBQVVfeXFMUGYwWkdENUdCd2tlZjRoU0psblJLcDJKMWlETXJfUGVJWVpfNUlwdEVoelF2NHF1SjNzV2VCOFhUYUd5anByNkZSZTNXU1pnMVVfTnFYdHg0OUpfbzlTd1J1am9IRkN0T1N6WXBWUEVpWVBreHJPb24wdlBvZnBfZkRSWVJZQmhoVS00RTBEdklnaEpwU213WkVEOW9nY25DZV9TZDRHb3UzYnBCT0hFXzRyakczOTF3VFM1RkdQVjdGdFpSWWNCZENGTXpsdjRiZ25fQnJKWkdvY3pjM2F0cXZjM2hTdWhkTXAtLUhILWVnczZ3?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-08T12:31:23+00:00",
+      "published_raw": "Mon, 08 Jun 2026 12:31:23 GMT",
+      "snippet": "Ecorodovias tem alta de 2,2% no tráfego de veículos nas suas rodovias em maio Valor Econômico",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-08T12:56:12.622104+00:00"
+    },
+    {
+      "id": "70903b1df3f6b4ff7825adb992150739d5553539cb725e3d8ea83a01d6d213a4",
+      "title": "EcoRodovias (ECOR3) registra alta de 2% no tráfego em maio de 2026 - Visno Invest",
+      "source": "Visno Invest",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1JTNVZ5S0RHYzRYZUpkNnpkU3RVS3JoTkpfN0tJZU1PcjVXQ1lLNTFoT2ZCb2NGNXMzWDZlUGJLRXlXUmFOVF9hVWw4cEowVUNET0Yzb2RzQzZVS3BFV3dyamNqV2pLUzVKWnMzTzZJLW1DR1VDdWhfVTJZd3lkWk9JQkZNMHhxWTA5UXFWT0ZHYjJEbF9faU9qNVBiM210MzFB?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-08T12:04:00+00:00",
+      "published_raw": "Mon, 08 Jun 2026 12:04:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) registra alta de 2% no tráfego em maio de 2026 Visno Invest",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-08T12:56:12.622202+00:00"
+    }
+  ]
 }
