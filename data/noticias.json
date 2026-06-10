@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-10T12:17:48.490768+00:00",
+  "updated_at": "2026-06-10T17:50:14.761442+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 7,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "45567611f7fcee1290f751e88165a105cfe4bc2a9138a97e5337047169a75d1e",
+      "title": "Bombeiros simulam explosão e mobilizam 200 participantes em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaUc2bzV4NmtsRUQ2RUhySk9YZG40cW9JZ1R3dHJBTDRTR3hWNlpMOURhY2JwTHRLNlc1dXdOcE1ZeHJPVnhsMFlnRklLdnctTUpPM3UyNnVwLWs1MEVucC14b3FjUERLdlFjLTE0YU1Tc2hvZEFnRHk4OW1TVkRSaTc5ZnJkUFMyVTZQTzZ6dFNWdzd6NjUxM2cyRHFBMnVPT2Z2eGVmY19yUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-10T17:19:17+00:00",
+      "published_raw": "Wed, 10 Jun 2026 17:19:17 GMT",
+      "snippet": "Bombeiros simulam explosão e mobilizam 200 participantes em Rio Preto Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-10T17:49:58.438413+00:00"
+    },
+    {
       "id": "a716adc0c6e6bfd8df33b2f670449d87224abccf6cf84643fd27e748b4410924",
       "title": "Homem é preso vendendo ingressos para show do aniversário de Ribeirão Preto - ACidade ON",
       "source": "ACidade ON",
@@ -54,13 +71,13 @@
       "published": "2026-06-09T19:20:08+00:00",
       "published_raw": "Tue, 09 Jun 2026 19:20:08 GMT",
       "snippet": "Homem é preso vendendo ingressos para show do aniversário de Ribeirão Preto ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:34.212405+00:00"
+      "collected_at": "2026-06-10T17:49:58.438563+00:00"
     },
     {
       "id": "8ba6e17ecc63c4ae492570be4faeeaa895baf59075c9eb4281544aafacb0462a",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010536+00:00"
+      "collected_at": "2026-06-10T17:49:58.438877+00:00"
     },
     {
       "id": "78299fbcc8d5cdccbea788d1d8a23a6e6450141ca58644c7e9b08aaa196bdf7a",
@@ -88,13 +105,13 @@
       "published": "2026-06-09T18:43:29+00:00",
       "published_raw": "Tue, 09 Jun 2026 18:43:29 GMT",
       "snippet": "CNH terá ‘radar’ de pedágio free flow e compra e venda de carros usados ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:34.212340+00:00"
+      "collected_at": "2026-06-10T17:49:58.438254+00:00"
     },
     {
       "id": "0357367b8f3fdee4cef12f383283a38ddf8d90f57916d17059e9b15076a1cd7f",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010055+00:00"
+      "collected_at": "2026-06-10T17:49:58.438730+00:00"
     },
     {
       "id": "f9f4642c8f8bea5f504f4a8aca3a5c3cd25bbc7c90c49db6b690fab8c8ca430a",
@@ -128,126 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010147+00:00"
+      "collected_at": "2026-06-10T17:49:58.437589+00:00"
     },
     {
-      "id": "406dae61230fc0d5159dbe4300f4fa32f5e89d72d2bb58506429baec9a761aa3",
-      "title": "Resgate salva 126 porcos após tombamento de carreta na região - Jornal CidadãoNET",
-      "source": "Jornal CidadãoNET",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdF9HVV9EM1psdFBRNjhxVnMtZHo5UFQ3cEZkMENWQXlJMVhWMFNyUmhkZVJJeU9Udkhvdkg5YVcwSHJNd3B3bFRkYzJJUldRQS14ZWUwMjUybFFkemlxYXdJeVY4REhPSW82blRnMW95ellrME1seDR1eVhQcEVOc2dvdThSeWpMWDI2bllxa1FYY3ZZaHp0M2RmUnp2N0lY?oc=5",
+      "id": "7e0943ee09b7f2e30aebb5ab60a24b3e792d6f13276f06670dca3774c8911b18",
+      "title": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3k2LTVKam11LW5Ub0JxN25hR2l4bWdieWdfMzhTdWZXOWZ5VFhNZS1kUms4LXVPSVZuSC1zRy1yZy1ad0toTkFfU3FtMThidjdRdHZZXzBtTWhhNWhWdGNac0NjVjhuUEJEekd3bmdueDRnYzl0cEZ2RjJDeVc5V2N2OHgteE9QemN4M1hVY3F5Wll5TnhoaVl0THdFcVRSdmhlbERLSTJVZ3cwY0JvVkVVbmRnRHJQamc?oc=5",
       "resolved_link": "",
-      "published": "2026-06-09T17:25:00+00:00",
-      "published_raw": "Tue, 09 Jun 2026 17:25:00 GMT",
-      "snippet": "Resgate salva 126 porcos após tombamento de carreta na região Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "published": "2026-06-09T17:50:00+00:00",
+      "published_raw": "Tue, 09 Jun 2026 17:50:00 GMT",
+      "snippet": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos Votunews",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010258+00:00"
-    },
-    {
-      "id": "d4e4c5b76fd24b73f2a7428a93ea480dec00b9e4b8c5d900ab8151f18a87acd8",
-      "title": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2p5SDI3UlNmU094a0Z3VDFiQU5fTHVEQTNVaUVaMW9vTGFtRDRuaklRbnNjX3JHakhtd0ozdGpubkNncUZ3eXB4bVNCSUJ3TjJhNHQzVHJsemp5UjRiRWZmZW1jU3FYQmMxWjJwbWlkeHRhb1pnZnF2X2tNX3gtaWl1RWpYc0NDSDRwRWNibGg3aW5UWnVoeE52R3FtOWtubjJidGhKOENaRFZzS3d4UHp5RS01OE13?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T17:05:00+00:00",
-      "published_raw": "Tue, 09 Jun 2026 17:05:00 GMT",
-      "snippet": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010478+00:00"
-    },
-    {
-      "id": "b0623fdcfd05dc4c94d788a34e8ef032be32bf6f062cdcc34de92fa5b7e59536",
-      "title": "Ecovias Noroeste Paulista divulga cronograma de obras em rodovias do interior paulista até 14 de junho - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeW13T1h4QVhlbkZrY3ByR1pKM05PZDdRNWwxX0E0eThwV2lBLWROTDFmMl9XQ05URU05elY5ampma1hBZDV3amQ4cERMNkV5Z01TaXI2OWt3VTRoNmU1OTNNT1VBMzlKMTBRbWEwbmdnWDhNcDFKNkN3VnNJbE1vaVE1Wk1RSGxoVzk2bDNUNDJtSUYySFQzazdDczY2b3V5bTJtT3ExOUQtOWpGMzRJdmFraDQyYjdqWjRSaGJoMGIyTXJkRnhOeElYYTJmSGJNRzkzQjBTSlRUQVF6MUFuRVpR0gHnAUFVX3lxTE4zRERfVWFfWGgzWVN4U0tHallDd2piYzBUamV3aEE0U3FQUzJfS19ZY1hmdVlySXZOaXdhdmtfeDlwWWFNYTVHU2MwM0kyZUNrNzdFTmhvNlZMY0Y3Z3JBWTk5QVVrSnQ4QnloQ2owMmstcjZ5aEpxZHpXMGR4QzF3X3AydXE0UkRMVnlWd200OEZsVjMyUkFIb0t0c253b2pHTThiWHR2Z1hDTU1TMC1GS0E5akc4dUFmanU0dUs1TGRtLUxTU0paVVg5clhGVTBHM1RjWlJNTmxOODdhdjJRa2tnUGpEMA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T17:02:36+00:00",
-      "published_raw": "Tue, 09 Jun 2026 17:02:36 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras em rodovias do interior paulista até 14 de junho Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.009858+00:00"
-    },
-    {
-      "id": "3ca19e421f6cb79120533fb54d3ac4df28ba895a62e9c7ce209dd08ba72b2a6a",
-      "title": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2RibURxRXg5RVc2V0Fnd3prVjV2SVczY2ZiNU1WTzNPd3pQNXNFS3ZNRG5nRFJfWUU2VnF2Tzl5ZEFlUFhuZlJ4eDZfQnBiNVROYUlubFhsYlpoUUxwQXRqOTdHNGdOaHRIUW96S2lTMVFRbzRUWDh4T0hjMVpCTHl3UVFtWjBiSXR0SVVVX0wteDJEUE9DZUh6dGtubmxyZGdvZF95SXY?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T15:22:40+00:00",
-      "published_raw": "Tue, 09 Jun 2026 15:22:40 GMT",
-      "snippet": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto Gazeta de Rio Preto",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:45.877280+00:00"
-    },
-    {
-      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFpqMWtYSDQ2WXFIZklYYjBnb2RHdkpJVjdUbVNHV205N3AxR09FV1hpZlN0WWNGa0RjaUlSeUJQTEpOS2NJT3JyVUR4ZkpaMEQ5Y3JScE9vS1ZTd2xOQ3hlNWdaYlU5ZUoyUUN4NU9QUXdGWkZqZVpRdUJnWl9nY1dod25lUjNRRDNkRTBCeHZaQm9D?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T14:45:46+00:00",
-      "published_raw": "Tue, 09 Jun 2026 14:45:46 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.009973+00:00"
-    },
-    {
-      "id": "dbd3c98ff79e1f84c72f0a3ffb07ee2450ec3aa65a14445277327f9e2f3c52da",
-      "title": "Porcos são levados a frigorífico de Nova Granada após tombamento de carreta em Rio Preto - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOajNneEJXYks4WjI2VWllQ19iZmttbVhITDljNnF2eHNlVHdaZGZhc3JPVk1oWHZHdWloUXNEVHM4dzVNdjBKa3RlR0NBbDJxLXY1VTNDbFg5dTlkR2VlSXdZbG50aHpLRXBsMjQ3TmZxQktsS3Zvc3dDUUpXRG1yTWRpd1VfMzZJWXNxZlV2Wmp5VmVoUndONFpEOFRqMTNGRTRxRnZOdkNFRzU5OGFpUnF0MW1iU3ZUd3JGamF2YndHRzhZT1dYYW81c3BOVThfWGJhYmFxbw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T12:53:57+00:00",
-      "published_raw": "Tue, 09 Jun 2026 12:53:57 GMT",
-      "snippet": "Porcos são levados a frigorífico de Nova Granada após tombamento de carreta em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:43.506796+00:00"
-    },
-    {
-      "id": "f939a6ebcaa98f424a180502c822beb673e1e0f98b1932a1398bd05174b3b02d",
-      "title": "Tacógrafo registra 70 km/h antes de tombamento de caminhão com porcos em Rio Preto - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0lvWk5wSnVoY0JyZmhpbV9XMmlLWHlYNno4cDZkdGI5OV9nX2szdlVZN0diX2tpdXo5czZGTGNKdm9fNUpkdGIwT0tMQ1RydE1OTGpUUWwxOVliU29HNzFhQ1dkNVZVN0lVZU91ZHN1RDdCekZGaFNVVnNwMEV1UVc1SmJmaE04bTE1YmllT09paE5kR2UxM3hrbnppUlBlajZqYV9xeEp3SG9MaFhZ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T12:27:00+00:00",
-      "published_raw": "Tue, 09 Jun 2026 12:27:00 GMT",
-      "snippet": "Tacógrafo registra 70 km/h antes de tombamento de caminhão com porcos em Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T12:17:32.010375+00:00"
+      "collected_at": "2026-06-10T17:49:58.439065+00:00"
     }
   ]
 }
