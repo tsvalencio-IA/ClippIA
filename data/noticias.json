@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-10T17:50:14.761442+00:00",
+  "updated_at": "2026-06-10T17:55:30.315998+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.438413+00:00"
+      "collected_at": "2026-06-10T17:55:13.370833+00:00"
     },
     {
       "id": "a716adc0c6e6bfd8df33b2f670449d87224abccf6cf84643fd27e748b4410924",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.438563+00:00"
+      "collected_at": "2026-06-10T17:55:13.370917+00:00"
     },
     {
       "id": "8ba6e17ecc63c4ae492570be4faeeaa895baf59075c9eb4281544aafacb0462a",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.438877+00:00"
+      "collected_at": "2026-06-10T17:55:13.371061+00:00"
     },
     {
       "id": "78299fbcc8d5cdccbea788d1d8a23a6e6450141ca58644c7e9b08aaa196bdf7a",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.438254+00:00"
+      "collected_at": "2026-06-10T17:55:13.370772+00:00"
     },
     {
       "id": "0357367b8f3fdee4cef12f383283a38ddf8d90f57916d17059e9b15076a1cd7f",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.438730+00:00"
+      "collected_at": "2026-06-10T17:55:13.371013+00:00"
     },
     {
       "id": "f9f4642c8f8bea5f504f4a8aca3a5c3cd25bbc7c90c49db6b690fab8c8ca430a",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.437589+00:00"
-    },
-    {
-      "id": "7e0943ee09b7f2e30aebb5ab60a24b3e792d6f13276f06670dca3774c8911b18",
-      "title": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3k2LTVKam11LW5Ub0JxN25hR2l4bWdieWdfMzhTdWZXOWZ5VFhNZS1kUms4LXVPSVZuSC1zRy1yZy1ad0toTkFfU3FtMThidjdRdHZZXzBtTWhhNWhWdGNac0NjVjhuUEJEekd3bmdueDRnYzl0cEZ2RjJDeVc5V2N2OHgteE9QemN4M1hVY3F5Wll5TnhoaVl0THdFcVRSdmhlbERLSTJVZ3cwY0JvVkVVbmRnRHJQamc?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-09T17:50:00+00:00",
-      "published_raw": "Tue, 09 Jun 2026 17:50:00 GMT",
-      "snippet": "Resgate de porcos após tombamento de caminhão em Rio Preto termina com 126 animais salvos Votunews",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T17:49:58.439065+00:00"
+      "collected_at": "2026-06-10T17:55:13.370691+00:00"
     }
   ]
 }
