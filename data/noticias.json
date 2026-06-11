@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-10T22:50:10.953613+00:00",
+  "updated_at": "2026-06-11T02:34:10.674770+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 2,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "c9933c38eb8e493da7d9468b41a86c99793f495dad8dc01e4812d9e266589f44",
-      "title": "Simulado de acidente mobiliza 200 pessoas na Vila Toninho, em Rio Preto - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVFFN2pLTVNBdlNuVTFnYlFCZFNzcG9wNm1YT3NMeGI4LW1rM242aS1Ka3FQSWZUbW83eUlEWUZuSjZudVBTU1hQZjBPc3pvd2VtWlRLY01MMUg0VmNlS3kwamVoZk1xRUloa2t4elRLb0xmV21tNU9scnNtSllsMjZwX3NEcjVkSUg0c2FzTHRwUFJlaWhFTk1vQTRteTlpRWRtbk5zSW4za2E3NWR5RjA3R1pLYjJpWXU4MTc0cjAzSkFT?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-10T20:12:26+00:00",
-      "published_raw": "Wed, 10 Jun 2026 20:12:26 GMT",
-      "snippet": "Simulado de acidente mobiliza 200 pessoas na Vila Toninho, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T22:49:54.719448+00:00"
-    },
-    {
       "id": "45567611f7fcee1290f751e88165a105cfe4bc2a9138a97e5337047169a75d1e",
       "title": "Bombeiros simulam explosão e mobilizam 200 participantes em Rio Preto - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -77,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T22:49:54.719364+00:00"
+      "collected_at": "2026-06-11T02:33:54.689433+00:00"
     },
     {
       "id": "1feb03a0848919c671d3534b88c0b764f2b4bfe647da256e5d5aac9ebedfbefd",
@@ -94,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-10T22:49:54.719262+00:00"
-    },
-    {
-      "id": "33ded5f08a53c4e1c5ae1535c16f5cf2d5c6594e5d59f257e69d5e5fbc323798",
-      "title": "Concessionária divulga cronograma de obras e interdições em rodovias do interior de SP - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnBwcGo1Rm5aa1UwQWlqU3gtUWJscl9QakNDMVdEOFJGYWR0ZnVNM2FTLWVkb1p6WlJubHBxdm1qaC1hTEM0MjVlQ3VVYlQwS2FMOUJNQ1lLTWJhUG4tbGRzbUNWQnpqbmZFWXZYNkpTRmNrcWJQM2ZtamZkSFhNaHVuYWtPVGNPOWxRdUtaOGFMLXJEMm9pem1od1ZadWVRZEUyN2FxUUJiRHkwTTBEX1JwNUQ2Zw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-10T01:30:00+00:00",
-      "published_raw": "Wed, 10 Jun 2026 01:30:00 GMT",
-      "snippet": "Concessionária divulga cronograma de obras e interdições em rodovias do interior de SP Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-10T22:49:54.719525+00:00"
+      "collected_at": "2026-06-11T02:33:54.689335+00:00"
     }
   ]
 }
