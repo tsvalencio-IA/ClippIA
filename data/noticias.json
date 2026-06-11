@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-11T10:16:31.423165+00:00",
+  "updated_at": "2026-06-11T12:36:08.999941+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 4,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "1feb03a0848919c671d3534b88c0b764f2b4bfe647da256e5d5aac9ebedfbefd",
-      "title": "Simulado mobiliza mais de 200 pessoas na Vila Toninho - Prefeitura de São José do Rio Preto",
-      "source": "Prefeitura de São José do Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDNKY29qVUU2QkFudmtTWEFrSHNnNnhYRy1QX3FuUDFHSTRSWGhwNXFqSllFUjc3MGxIdTlyYkUySmlsRDFWOFR5TlRQNXhSMkJtOEVhUVRERnNONG5zSFVybVdzNnJha2ZlUXk3TGxGZW91ZXlvNGpuZFd0ZDc2TS1XTkEyVTROWGZVSWo3OUE1bXVpOEFwNg?oc=5",
+      "id": "a476fe23eafec02418140f28e3fc4a51219a58f7daf69ec03f50e2c5e2868443",
+      "title": "Pedágio eletrônico \"free flow\" inicia testes no SAI em São Paulo - Diário do Estado",
+      "source": "Diário do Estado",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2NjTkw1WHFxa1JBV2lQS1pQOEJDVGtha0p1QXBvblZpbl9UbWFGVS10NmhENDE5NG9WNVRSaU14WmVsXzdzMWpRa0RmUWtjdmcxVlRrNldSOTU4WU5iU25BR2xwQ05NTm5Jb3FEWVhidFlwb09LS1FKZUNwbHdiMEQ0LVZrWHJjak9CUFFSbS12Z2xmOTRSd3gzaw?oc=5",
       "resolved_link": "",
-      "published": "2026-06-10T17:59:04+00:00",
-      "published_raw": "Wed, 10 Jun 2026 17:59:04 GMT",
-      "snippet": "Simulado mobiliza mais de 200 pessoas na Vila Toninho Prefeitura de São José do Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
+      "published": "2026-06-11T11:23:12+00:00",
+      "published_raw": "Thu, 11 Jun 2026 11:23:12 GMT",
+      "snippet": "Pedágio eletrônico \"free flow\" inicia testes no SAI em São Paulo Diário do Estado",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-11T10:16:15.420208+00:00"
+      "collected_at": "2026-06-11T12:35:50.570106+00:00"
+    },
+    {
+      "id": "3764712d3423e2079298b9e940af7b3b2cdc725422d240cb6cfe771a648d25d4",
+      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é reduzir tarifa para R$ 19,35 por trecho - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORnNBOXFJRFAtSldNWUZGR3BvenJKTUpBMlVZb3dwVnlUR0pmcElIVVF3VFBNWFY4bFFsbkpOX0NELWpac0FKR1JIVjA4Z25GajZZckp3d215bTlVTHpYeXR5cnZ0cFR6NDF6enpfM083TzZpQWptRWszM1RyT19hYUtlVmVQNGp4VWItNFFQZ3ctVldEeXhTWW1uUTFId3RpMGQzTnhKekpTZ3gwSmJoQ2VGTGhrQWY4cWFxNmtHMjlFeWtYQXZFUTdzdnl5WS1BdF9KdURncWpSZFU5UE5BQ1Zqalc3R1M2eU50R1ZLT2laTHNmM1JtM1lGT1pfZ9IBjAJBVV95cUxNa211RTRoNndTZlB0dXlHcHBfRjRuWDB4MUhXd3cxUDNvTFNVTTR0T19vVElSOTFtby0weTRYWTZPV3dHUGRJTFNUSkFMMU41MFkxWktUTEhVYkl0dFNQY0I5Y0ZMaUlERlJnVU5ETW9xczNWRFJsclkyX2pPMzljT0YwRFprdzltZmg3UEU2LThFazBwT1pFSVc3WUc2SWptb3NPRHZ1NFZ0bE82NGFZY2tsVV9rSFR1RFhaclpKX3J5ZXNQeFZjUGFKQ1FyeGxsSWFNWWRJaFFMRHpMNnJHUWlNcXpLQjQyZVR6MnBMRmpScUJJUjFnalFWVG45aEpmWUxTOXZ6UVJoYUdJ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-11T11:16:54+00:00",
+      "published_raw": "Thu, 11 Jun 2026 11:16:54 GMT",
+      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é reduzir tarifa para R$ 19,35 por trecho G1",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-11T12:35:50.569917+00:00"
     },
     {
       "id": "45567611f7fcee1290f751e88165a105cfe4bc2a9138a97e5337047169a75d1e",
@@ -77,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-11T10:16:15.420377+00:00"
+      "collected_at": "2026-06-11T12:35:50.570185+00:00"
+    },
+    {
+      "id": "1feb03a0848919c671d3534b88c0b764f2b4bfe647da256e5d5aac9ebedfbefd",
+      "title": "Simulado mobiliza mais de 200 pessoas na Vila Toninho - Prefeitura de São José do Rio Preto",
+      "source": "Prefeitura de São José do Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDNKY29qVUU2QkFudmtTWEFrSHNnNnhYRy1QX3FuUDFHSTRSWGhwNXFqSllFUjc3MGxIdTlyYkUySmlsRDFWOFR5TlRQNXhSMkJtOEVhUVRERnNONG5zSFVybVdzNnJha2ZlUXk3TGxGZW91ZXlvNGpuZFd0ZDc2TS1XTkEyVTROWGZVSWo3OUE1bXVpOEFwNg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-10T13:56:00+00:00",
+      "published_raw": "Wed, 10 Jun 2026 13:56:00 GMT",
+      "snippet": "Simulado mobiliza mais de 200 pessoas na Vila Toninho Prefeitura de São José do Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-11T12:35:50.570031+00:00"
     }
   ]
 }
