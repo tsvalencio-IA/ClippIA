@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T07:21:09.882628+00:00",
+  "updated_at": "2026-06-11T10:16:31.423165+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "1feb03a0848919c671d3534b88c0b764f2b4bfe647da256e5d5aac9ebedfbefd",
+      "title": "Simulado mobiliza mais de 200 pessoas na Vila Toninho - Prefeitura de São José do Rio Preto",
+      "source": "Prefeitura de São José do Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDNKY29qVUU2QkFudmtTWEFrSHNnNnhYRy1QX3FuUDFHSTRSWGhwNXFqSllFUjc3MGxIdTlyYkUySmlsRDFWOFR5TlRQNXhSMkJtOEVhUVRERnNONG5zSFVybVdzNnJha2ZlUXk3TGxGZW91ZXlvNGpuZFd0ZDc2TS1XTkEyVTROWGZVSWo3OUE1bXVpOEFwNg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-10T17:59:04+00:00",
+      "published_raw": "Wed, 10 Jun 2026 17:59:04 GMT",
+      "snippet": "Simulado mobiliza mais de 200 pessoas na Vila Toninho Prefeitura de São José do Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-11T10:16:15.420208+00:00"
+    },
+    {
       "id": "45567611f7fcee1290f751e88165a105cfe4bc2a9138a97e5337047169a75d1e",
       "title": "Bombeiros simulam explosão e mobilizam 200 participantes em Rio Preto - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-11T07:20:54.593343+00:00"
-    },
-    {
-      "id": "1feb03a0848919c671d3534b88c0b764f2b4bfe647da256e5d5aac9ebedfbefd",
-      "title": "Simulado mobiliza mais de 200 pessoas na Vila Toninho - Prefeitura de São José do Rio Preto",
-      "source": "Prefeitura de São José do Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDNKY29qVUU2QkFudmtTWEFrSHNnNnhYRy1QX3FuUDFHSTRSWGhwNXFqSllFUjc3MGxIdTlyYkUySmlsRDFWOFR5TlRQNXhSMkJtOEVhUVRERnNONG5zSFVybVdzNnJha2ZlUXk3TGxGZW91ZXlvNGpuZFd0ZDc2TS1XTkEyVTROWGZVSWo3OUE1bXVpOEFwNg?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-10T13:56:00+00:00",
-      "published_raw": "Wed, 10 Jun 2026 13:56:00 GMT",
-      "snippet": "Simulado mobiliza mais de 200 pessoas na Vila Toninho Prefeitura de São José do Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-11T07:20:54.593245+00:00"
+      "collected_at": "2026-06-11T10:16:15.420377+00:00"
     }
   ]
 }
