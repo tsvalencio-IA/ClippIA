@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T10:03:59.147139+00:00",
+  "updated_at": "2026-06-12T12:10:32.324988+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 18,
+  "total": 17,
   "total_images": 0,
-  "new_items": 18,
+  "new_items": 17,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:56.109517+00:00"
+      "collected_at": "2026-06-12T12:10:29.120263+00:00"
     },
     {
       "id": "a8d2efb62db2e57f37f2bad0ec5419bcbcc568456276b4b51cb1eed863f2b248",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:55.564577+00:00"
+      "collected_at": "2026-06-12T12:10:28.551005+00:00"
     },
     {
       "id": "6cbe490fcc79559df175083369acebda64dfa28053aa5bd49239e914f16e90c5",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:44.697186+00:00"
+      "collected_at": "2026-06-12T12:10:17.499821+00:00"
     },
     {
       "id": "47cefca9a8817d65abd17d56eeecf9ff35470a00da4f514a85f2324231bb091f",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:44.697131+00:00"
+      "collected_at": "2026-06-12T12:10:17.499700+00:00"
     },
     {
       "id": "7718620119aba2f29a409abc6a333b11a925d06935fa7e9979d9925aba495e96",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:45.791055+00:00"
+      "collected_at": "2026-06-12T12:10:18.680284+00:00"
     },
     {
       "id": "5f565886bd2c45509507f01fb642cc05068af75e47c6c33230da03e2664861dd",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.028229+00:00"
+      "collected_at": "2026-06-12T12:10:15.873709+00:00"
     },
     {
       "id": "b4384259d0488c6459459e1bfa1c65bc18f46b73aad749db394f92c5a3c1f0a7",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:54.896465+00:00"
+      "collected_at": "2026-06-12T12:10:27.957109+00:00"
     },
     {
       "id": "10c8f219ad48541fd8a1a8e160a5ff7e6e967d1cf49e099a42e8f5ed16adffa0",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:49.006640+00:00"
+      "collected_at": "2026-06-12T12:10:21.996515+00:00"
     },
     {
       "id": "a6d275c908337db46227deffe551a445d009919ecad4bb1be596978d57cea2cc",
@@ -190,13 +190,13 @@
       "published": "2026-06-11T18:11:52+00:00",
       "published_raw": "Thu, 11 Jun 2026 18:11:52 GMT",
       "snippet": "Apesar dos desafios, pedágio eletrônico avança e entra em fase de testes na Anchieta-Imigrantes Transporte Moderno",
-      "term": "\"Ecovias Noroeste Paulista\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.027659+00:00"
+      "collected_at": "2026-06-12T12:10:15.873153+00:00"
     },
     {
       "id": "3a49732901cde92fac99ee354b11a3a6b5110fb0f09f17d9a611f4667a848a19",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.027543+00:00"
+      "collected_at": "2026-06-12T12:10:15.873027+00:00"
     },
     {
       "id": "fcf9d55afec0a1acd1288f6d4269d34c239b050e7c6b2ac8f9c778f680c9fea6",
@@ -230,7 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.027922+00:00"
+      "collected_at": "2026-06-12T12:10:15.873384+00:00"
+    },
+    {
+      "id": "b4362715db6cf5cbe24911c216c90d3a112e1add7d706b023a3a79674c7f600b",
+      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - Setcesp",
+      "source": "Setcesp",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmdkRTA1cUFfMFZOMVNwZDQ1cjlaMnpPQlJBV0g4MlBBWjNMZkFCRl85dGpiOGlTQ3hRc0lOclBySlNFbU5qb2JYeHdfWnFKaVBRT3g4M0I3aHVZVEx5WFloQkdOZzBhczh0NzFFNTVkaHZZcGRKVzBMNTY4R2V6QXQ4cEdva1ExcDluNTkzTmlidWNzcmdScjhBRkxmNklPR0tWcnpIbVc3MUVOQlZZUFZ0SGR5RFFlV3ZLaGJUOG9zb2tDaEtGcWU5YV9Hbk1BMEhSN0duWmtUSUV0Wmo3WEtSb19fdDg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-11T15:32:00+00:00",
+      "published_raw": "Thu, 11 Jun 2026 15:32:00 GMT",
+      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho Setcesp",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-12T12:10:18.114633+00:00"
     },
     {
       "id": "f68769e7e58711731f62b1efa50bb5d0ce9c8944c2bb5c8b5c74ca542ff434b8",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.028032+00:00"
+      "collected_at": "2026-06-12T12:10:15.873483+00:00"
     },
     {
       "id": "5cbf3657edc70f977b2c2704692653a60f7fff45ab2a3db62c5aa8e32ced46d5",
@@ -258,13 +275,13 @@
       "published": "2026-06-11T13:58:43+00:00",
       "published_raw": "Thu, 11 Jun 2026 13:58:43 GMT",
       "snippet": "PEDÁGIO ELETRÔNICO ENTRA EM FASE DE TESTES NO SISTEMA ANCHIETA-IMIGRANTES TV São Bernardo",
-      "term": "\"SP-326\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"SP-326\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:47.911574+00:00"
+      "collected_at": "2026-06-12T12:10:15.873596+00:00"
     },
     {
       "id": "e1c22cbfcaef560d1c1959388717bb6f94936f6ecdcac525e2e0a12ddb4b28c1",
@@ -281,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.027431+00:00"
+      "collected_at": "2026-06-12T12:10:15.872877+00:00"
     },
     {
       "id": "efdea3ead4b2d6dba5e56f797c0989e0a165f8c3da65ad696181e237eef41f94",
@@ -298,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.027791+00:00"
+      "collected_at": "2026-06-12T12:10:15.873262+00:00"
     },
     {
       "id": "3c1bedd4e84ea7a675b4522f31c0978a7f94b0779d603fbfa359cd7aea5d877c",
@@ -315,41 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T10:03:55.564633+00:00"
-    },
-    {
-      "id": "a476fe23eafec02418140f28e3fc4a51219a58f7daf69ec03f50e2c5e2868443",
-      "title": "Pedágio eletrônico \"free flow\" inicia testes no SAI em São Paulo - Diário do Estado",
-      "source": "Diário do Estado",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2NjTkw1WHFxa1JBV2lQS1pQOEJDVGtha0p1QXBvblZpbl9UbWFGVS10NmhENDE5NG9WNVRSaU14WmVsXzdzMWpRa0RmUWtjdmcxVlRrNldSOTU4WU5iU25BR2xwQ05NTm5Jb3FEWVhidFlwb09LS1FKZUNwbHdiMEQ0LVZrWHJjak9CUFFSbS12Z2xmOTRSd3gzaw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T11:23:12+00:00",
-      "published_raw": "Thu, 11 Jun 2026 11:23:12 GMT",
-      "snippet": "Pedágio eletrônico \"free flow\" inicia testes no SAI em São Paulo Diário do Estado",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T10:03:43.028132+00:00"
-    },
-    {
-      "id": "e0a4e262326c0676605eea6b4f8dcc1946bf2f47902495808e28a41bd73c8e1f",
-      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORnNBOXFJRFAtSldNWUZGR3BvenJKTUpBMlVZb3dwVnlUR0pmcElIVVF3VFBNWFY4bFFsbkpOX0NELWpac0FKR1JIVjA4Z25GajZZckp3d215bTlVTHpYeXR5cnZ0cFR6NDF6enpfM083TzZpQWptRWszM1RyT19hYUtlVmVQNGp4VWItNFFQZ3ctVldEeXhTWW1uUTFId3RpMGQzTnhKekpTZ3gwSmJoQ2VGTGhrQWY4cWFxNmtHMjlFeWtYQXZFUTdzdnl5WS1BdF9KdURncWpSZFU5UE5BQ1Zqalc3R1M2eU50R1ZLT2laTHNmM1JtM1lGT1pfZ9IBjAJBVV95cUxNa211RTRoNndTZlB0dXlHcHBfRjRuWDB4MUhXd3cxUDNvTFNVTTR0T19vVElSOTFtby0weTRYWTZPV3dHUGRJTFNUSkFMMU41MFkxWktUTEhVYkl0dFNQY0I5Y0ZMaUlERlJnVU5ETW9xczNWRFJsclkyX2pPMzljT0YwRFprdzltZmg3UEU2LThFazBwT1pFSVc3WUc2SWptb3NPRHZ1NFZ0bE82NGFZY2tsVV9rSFR1RFhaclpKX3J5ZXNQeFZjUGFKQ1FyeGxsSWFNWWRJaFFMRHpMNnJHUWlNcXpLQjQyZVR6MnBMRmpScUJJUjFnalFWVG45aEpmWUxTOXZ6UVJoYUdJ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T11:16:54+00:00",
-      "published_raw": "Thu, 11 Jun 2026 11:16:54 GMT",
-      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho G1",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T10:03:45.258455+00:00"
+      "collected_at": "2026-06-12T12:10:28.551150+00:00"
     }
   ]
 }
