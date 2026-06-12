@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T17:35:21.261402+00:00",
+  "updated_at": "2026-06-12T19:50:40.400636+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 10,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:05.761765+00:00"
+      "collected_at": "2026-06-12T19:50:23.633097+00:00"
     },
     {
       "id": "add9c385e9c1d008d1e031d8f67ad6536a79689255ea4927fceeb20483f8d894",
@@ -77,7 +77,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:18.020575+00:00"
+      "collected_at": "2026-06-12T19:50:36.817255+00:00"
+    },
+    {
+      "id": "a8d2efb62db2e57f37f2bad0ec5419bcbcc568456276b4b51cb1eed863f2b248",
+      "title": "Notícias - ARTESP",
+      "source": "ARTESP",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOWtQdU1YRGc2WlZLeERmdVg4YjJBR1lsMmdrLW16elp6VksxdVVpS3FFTW5oWFdHTkJ5S3JRelpQNGJwc08xZGYxa2s5NDF6bE1vZFp1ZlkwR2RBMHZwMGhlMnFseUFIeDFVTFByNHpEcEM0Y0VZNVdQUVZIc3hDd2JOLXNtWm9RZW9xbm5mMU5acHlFZWdfdko2emlaei1XbWM2NWhvWmFXbXl2YnJoYzVUZnVLWkVhU2xrWDZocHp0aTRieVg5RWFQd3ROMlJVWUROZzVvb2VUSlAyQUZFRjd6UHRQS0daTFZ2VG02cGVMSUxwVVNfT2c0aWxGcHVQb0xMNGlDS1ZJejhOUEV6RmlObUxTdHRjTTlQYlB0N21WSVdTd0pCOS1aTmxqd0pOS1MwU3Rn?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-12T03:38:15+00:00",
+      "published_raw": "Fri, 12 Jun 2026 03:38:15 GMT",
+      "snippet": "Notícias ARTESP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "regulatório",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-12T19:50:21.582939+00:00"
+    },
+    {
+      "id": "52ba5a7729748cb4403465c775dc05897e6dc0455e2db7113052e230aed27c6a",
+      "title": "Siga Fácil: Pórtico eletrônico no sistema Anchieta-Imigrantes entra em fase de testes - SB Notícias",
+      "source": "SB Notícias",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZG82dUpLZ1BLcUcycklGTkQwNFNrclo2bzBvSm1mSnVJRENBMDZaQWJodG1xQ2JpWHNYQ1REc1FNSHUtQmNhbW1ZRGVYYmVSeHkxdkIwZnNQellBajlLWUFPYVRocXkxWVpRNHlEQ3dUSDVqdTYtM1hmT3BtbTRJM0FJbHQ0Z2JjNUdMb1J6SDJycHJ3enk1NjBiUWZqZF9JRC1LQVlmQlhQdm9VVXJRc0hhZFlyazQ0TFM3RW9DVDlGeFk?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-12T00:30:00+00:00",
+      "published_raw": "Fri, 12 Jun 2026 00:30:00 GMT",
+      "snippet": "Siga Fácil: Pórtico eletrônico no sistema Anchieta-Imigrantes entra em fase de testes SB Notícias",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-12T19:50:21.583005+00:00"
     },
     {
       "id": "6cbe490fcc79559df175083369acebda64dfa28053aa5bd49239e914f16e90c5",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:05.761700+00:00"
+      "collected_at": "2026-06-12T19:50:23.633043+00:00"
     },
     {
       "id": "47cefca9a8817d65abd17d56eeecf9ff35470a00da4f514a85f2324231bb091f",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:05.761514+00:00"
+      "collected_at": "2026-06-12T19:50:23.632992+00:00"
     },
     {
       "id": "7718620119aba2f29a409abc6a333b11a925d06935fa7e9979d9925aba495e96",
@@ -128,13 +162,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:06.936407+00:00"
+      "collected_at": "2026-06-12T19:50:24.923550+00:00"
     },
     {
       "id": "5f565886bd2c45509507f01fb642cc05068af75e47c6c33230da03e2664861dd",
       "title": "Pórticos eletrônicos do Siga Fácil entram em testes no Sistema Anchieta-Imigrantes - diarioesp.com.br",
       "source": "diarioesp.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZnRiQkx2RTVxSkUxX2ItQ1RKWWJLRmhpcGFYWUVMdDJVbXRaMEtfMldpMFNpOU1IbVpiZG1vVWhKRHlzd2c3TDl5MTJ1ZGNCZlJFMmZJZnZxQTg5UUdTdmJZMzBXdFFyS0dsTlNSUUMySnBOanZDaXQzSm55ZWtLemRHM1otaHphUE9JaTd5aG5aZTVJbnRubmtHd256WnZFM1lCdkljbzIwZXYxZlk3Z3NzXzhtVm1pbkZGV1ZLN0VxaVl0SjJYVkxqX0ZQLUN4em1rNHhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlAwLVVWTVNaRWZ1T3djNXRoUHVDY2xnUldyWWNqTnlNWVRoRDRzdmtncVJHcE12MXVGdENlTXBwWWREdk0tZlEzNEpXdC0wWXI4RkJWdXc0QmFaQlZ6ZS1ydFFtUTFvcGF3bjJwUW1NQ2I3LUdZU0lkRDZ4TmV5dDV6ZGg4dV82S1Ewa2JjWFZjZzRnM0piVmxHWS1TR3RwS1V3elJ4YjU5cnNtNHVPa2JZZE5HVklKZFkwOUhBcldRVzI4cVR1SDRpUklJbEtO?oc=5",
       "resolved_link": "",
       "published": "2026-06-11T21:11:00+00:00",
       "published_raw": "Thu, 11 Jun 2026 21:11:00 GMT",
@@ -145,24 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:04.004066+00:00"
+      "collected_at": "2026-06-12T19:50:21.583056+00:00"
     },
     {
       "id": "b4384259d0488c6459459e1bfa1c65bc18f46b73aad749db394f92c5a3c1f0a7",
       "title": "Siga Fácil: pórtico eletrônico entra em fase de testes no Sistema Anchieta-Imigrantes; entenda - Click Guarulhos",
       "source": "Click Guarulhos",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkpJckNHTF81Z1ROS3NUWk9xOXhUSzlPc25RUDFZcjZoNXhjcXZQMUo4Z21FVnVzSHJwZXpUWUVQcnVEd0cwUGNScmpxeDFuQzRKLTZDNHV4V3lJUHktU3VNS1kwbnhLcHVOLW9ZcEliU1FvUUJ6QUNuSGZMZVd3SnFUYUdHZmpUOVBsM1VHc0prOFA3STIxNHpuUFJOeXBxZzBWVUNoWUxCckpzc3U2cXYxU0NYWTJiZy1ZU1NzWjFyNm5nNkxCYmRwaUZZSUJieHdtStIB2gFBVV95cUxPSE9COHNQSGJ2TGx3SGVQVVZhZVQ5bHo4Q2Z0SUNxTE0wWmViU01rYXFOaVV5b0txaUh1SUVNS2dBR2V4RUY3TFNNdzQ5NWUtbkR6dExZS1lCMHdSUEFTV21BX0RzLU9UM18ySzEyOHo1OEl4NUJjbFF3NVYwU1owbTBubG5RenVieEVhRGdUSkNJd2U4MXJrNjllbGlTS2FvRW9pRFR1T0lNZlhWYWdMVmtzY2JBTzNzZHQyRUNuTnVadThKZXN5N3ZMWHd6b2dadFdoVGdoQ2x0Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSE9COHNQSGJ2TGx3SGVQVVZhZVQ5bHo4Q2Z0SUNxTE0wWmViU01rYXFOaVV5b0txaUh1SUVNS2dBR2V4RUY3TFNNdzQ5NWUtbkR6dExZS1lCMHdSUEFTV21BX0RzLU9UM18ySzEyOHo1OEl4NUJjbFF3NVYwU1owbTBubG5RenVieEVhRGdUSkNJd2U4MXJrNjllbGlTS2FvRW9pRFR1T0lNZlhWYWdMVmtzY2JBTzNzZHQyRUNuTnVadThKZXN5N3ZMWHd6b2dadFdoVGdoQ2x0Z9IB2gFBVV95cUxPSE9COHNQSGJ2TGx3SGVQVVZhZVQ5bHo4Q2Z0SUNxTE0wWmViU01rYXFOaVV5b0txaUh1SUVNS2dBR2V4RUY3TFNNdzQ5NWUtbkR6dExZS1lCMHdSUEFTV21BX0RzLU9UM18ySzEyOHo1OEl4NUJjbFF3NVYwU1owbTBubG5RenVieEVhRGdUSkNJd2U4MXJrNjllbGlTS2FvRW9pRFR1T0lNZlhWYWdMVmtzY2JBTzNzZHQyRUNuTnVadThKZXN5N3ZMWHd6b2dadFdoVGdoQ2x0Zw?oc=5",
       "resolved_link": "",
-      "published": "2026-06-11T20:54:56+00:00",
-      "published_raw": "Thu, 11 Jun 2026 20:54:56 GMT",
+      "published": "2026-06-11T21:02:00+00:00",
+      "published_raw": "Thu, 11 Jun 2026 21:02:00 GMT",
       "snippet": "Siga Fácil: pórtico eletrônico entra em fase de testes no Sistema Anchieta-Imigrantes; entenda Click Guarulhos",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" trânsito | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:16.824134+00:00"
+      "collected_at": "2026-06-12T19:50:28.719991+00:00"
     },
     {
       "id": "1382cae7ae33030dae804c6ded630f33109ae310441fb3af0d0e89edecf6eecc",
@@ -173,81 +207,13 @@
       "published": "2026-06-11T20:10:41+00:00",
       "published_raw": "Thu, 11 Jun 2026 20:10:41 GMT",
       "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho MSN",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-12T17:35:06.366097+00:00"
-    },
-    {
-      "id": "a8d2efb62db2e57f37f2bad0ec5419bcbcc568456276b4b51cb1eed863f2b248",
-      "title": "Notícias - ARTESP",
-      "source": "ARTESP",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tWVpwcFJ0ZTlGTElFSV9tcjlKSTMzYzgyczFaX200MEEyTWpDdkllZTVlUXhHTVlvaDBnOUZyOWVfb3h0UXBkdTFTR1RzTDgyYmJzMlpVRWRPNmpndHZmdVZyUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T20:10:35+00:00",
-      "published_raw": "Thu, 11 Jun 2026 20:10:35 GMT",
-      "snippet": "Notícias ARTESP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP",
-      "category": "regulatório",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T17:35:04.003940+00:00"
-    },
-    {
-      "id": "10c8f219ad48541fd8a1a8e160a5ff7e6e967d1cf49e099a42e8f5ed16adffa0",
-      "title": "Siga Fácil: pórtico eletrônico entra em fase de testes no Sistema Anchieta-Imigrantes; entenda - Agência SP",
-      "source": "Agência SP",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVN1bXg1eURvV2lmYXJMeWJ3SDdxTjUxeERQSTIxM2UzZmFiTlUyTHNiYkJJWUJEdDcxMlhPU0I2YlhCV3BzQ3haTWhsbmRTRkNUNzZSRDVfNUJQSkdpV2FFSVRNUjNieFdjRk96dGZqQ2k0bUlZbko5QXRhdDF5RFh5ZEQwWEdnYzlUWktpSTlJdGJudExPTURaX0h4ZnZpaFduN1RYUmF5VHVERDdiNjlfa21SUTliVGREVFZYTTlGNlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T19:37:01+00:00",
-      "published_raw": "Thu, 11 Jun 2026 19:37:01 GMT",
-      "snippet": "Siga Fácil: pórtico eletrônico entra em fase de testes no Sistema Anchieta-Imigrantes; entenda Agência SP",
-      "term": "\"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T17:35:10.427604+00:00"
-    },
-    {
-      "id": "a6d275c908337db46227deffe551a445d009919ecad4bb1be596978d57cea2cc",
-      "title": "Apesar dos desafios, pedágio eletrônico avança e entra em fase de testes na Anchieta-Imigrantes - Transporte Moderno",
-      "source": "Transporte Moderno",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWdEOUJjS3VYMVJURldyampFVTMxVG94VDFLcVo1NklGZUFJenRBMjU0V183TWFWWGFMQ1RXQlcwN1ZqTlEtUERTVU5sVHFGYkc5c25DT1FlZFBsMk9sMm5tWnJKVFhIWnV1RU95SmN6a05oVWNvcjNIZzRIcUNQWmFhb0dIeWZwNGJwQ0FYc3puQWRqMlJ6MGlpbW9wWDR0dTNXdWVQYkpPY3hpZFBjNGg4MExCTnVkMkczZVRmd2VYN045R1VLdG0yeXdKOHFTQmlZNkdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T18:11:52+00:00",
-      "published_raw": "Thu, 11 Jun 2026 18:11:52 GMT",
-      "snippet": "Apesar dos desafios, pedágio eletrônico avança e entra em fase de testes na Anchieta-Imigrantes Transporte Moderno",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T17:35:04.004010+00:00"
-    },
-    {
-      "id": "3a49732901cde92fac99ee354b11a3a6b5110fb0f09f17d9a611f4667a848a19",
-      "title": "Fetrabens - Fetrabens",
-      "source": "Fetrabens",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHB4VXdka3BnNGp6dEkzUjR0ODZPQjBTcVhZc2dlQThMRXNRbVdaWE9UcmNBLTZWRTJDcjZ6YTN1WGJpYzJnYjVqckZfYmU0SWVpVkVBVDJjaW9Cd0JtUGptLWtmU3JGRDZFRENadFdwSTB3WnVlbnNVQ292cHdUYU5hMFBKeGktWllYNEhMMnZUTzc2OExrRTZvRHJjaUNGZ1FhRjJtWTlXVmdUa2c?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-11T17:45:21+00:00",
-      "published_raw": "Thu, 11 Jun 2026 17:45:21 GMT",
-      "snippet": "Fetrabens Fetrabens",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-12T17:35:04.003867+00:00"
+      "collected_at": "2026-06-12T19:50:24.326143+00:00"
     }
   ]
 }
