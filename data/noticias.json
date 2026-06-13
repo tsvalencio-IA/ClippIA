@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T11:12:10.458070+00:00",
+  "updated_at": "2026-06-13T13:22:50.320045+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 11,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "68b67bdbe281c7c0b40b0b175b624e279554b8b56e0afa47b66b20895150a02c",
+      "title": "Ecovias Noroeste Paulista mantém obras em rodovias do interior neste sábado (13); domingo (14) será sem intervenções - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkFJUmFYQzlmRmZEVjVCR29nSkpua0U5UGd1VFVmYl9vbkV0dE5Lb29PNzBBclcwOUo5Z0hEdTlyVW9jUlJrMzFSMVE2Wnl6NVQ1ci1KREJXUm9JLXozYXVyNVhCeGZFY09VNFZ2ZDVZWWlVRVdQQlF3cVZWNU42bU9vb0tRbUJMVFVUbjJ4TEVkemltSkdoUFVRc2w4c09fOV84UUx4WUhncnBBMDdlb1FweU9hNTJESHZMaTJoeVV6U2l0NXU4WXFMOVNhUTlSN05wd1VJX2hfV014SFR0cXdqYW45eDBGRVkxRmhR0gHzAUFVX3lxTE13Mk9GR3VOY0hyQXBaZlRKZnB3aTU3TVFtT0NhdTUtRngwR3JrSHlMa3l6NW5adjFKLUdQOUpCUkw3ZDgwcXlwbUs2dV84ZEtKSk5HVXY5bmszVGNMck1uU190LWttNWs5YUQ4MThQMEN3R3VOcjFMQl9mV3FrM1RGS3ZIMGU1UHk0a2pKNGpVeWZoTXA0S3BQVlVIQ0ZfYTYyZTE4Rmdlb21ISmhNYUZMQVBjTXJ3bThyaGNmWmZhUHMzODRrNExIcmV3dUdIcDJZTzRKVjZ5ZkNzOXRVS2wzb1Y4RUVtdU50RzIydXRtNnltUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-13T13:07:30+00:00",
+      "published_raw": "Sat, 13 Jun 2026 13:07:30 GMT",
+      "snippet": "Ecovias Noroeste Paulista mantém obras em rodovias do interior neste sábado (13); domingo (14) será sem intervenções Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-13T13:22:33.878916+00:00"
+    },
+    {
       "id": "90ea6c53fe62b1cd4bd4c30e2b8320a2518253b58dabfc80fc884ccb9d0f7f98",
       "title": "PT critica Tarcísio por free flow, mas governo Lula também adota modelo em rodoviais federais - Estadão",
       "source": "Estadão",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:55.396759+00:00"
+      "collected_at": "2026-06-13T13:22:36.002567+00:00"
     },
     {
       "id": "df42ae4064fde8b737941b0c8380d9c7f0930170e0e219c6d2324f568328f27e",
@@ -77,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822408+00:00"
+      "collected_at": "2026-06-13T13:22:33.879228+00:00"
     },
     {
       "id": "4b21a3b3e546bd2252269855906eea4a7579ce3e4e5bcb01da11800e2637cc25",
       "title": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXpaZjVvbXg1QV80LUVNZDRwODhuZ2oyTG9FUjBVa2RDdzZpUGV2UU1nbTlydHBMRHJEZGZGaktVb3dPWlVYQXdYRm0zeFpDdTZJNllCZXRfYTUyQzRwc1laX1FnTWdKenlwZ2VLQno2X2lSZjFhSmNWUGM0UVdMNmVHTERYS09PTVpIT2NjUXhkZ05UalNydnFsY0RrY1dLTi1xMEZXNW1ILWZ6cUtwclJRbEVsS0NMUzE5alUzUmdMNDJLbWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDVjV2ktaUFDTnNDbUxrZm5Jdl8xYVRMWFlvUHBiZkwyblh5bXVDMk16eGNjc3Rmckx3TmwyazRLcGdKTlNFWlpnTUdkTWRnOTZaaV9tNDRXZzFVVkFibDhjQUlaaWxieEJBWGlfcS1kTzJyaHczb3RxdkhLVXZYQS13YkQwMTdsRWJkemNSVS1SWThpNWJjUXpVQnRpUzM3M215RXpXaXlFOXI3Wm5ZQW1ZQXF3MzlDWmtxUnFYcFI?oc=5",
       "resolved_link": "",
       "published": "2026-06-13T00:06:27+00:00",
       "published_raw": "Sat, 13 Jun 2026 00:06:27 GMT",
       "snippet": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822340+00:00"
+      "collected_at": "2026-06-13T13:22:33.879146+00:00"
     },
     {
       "id": "e29c4e051d06a3df4d0ea616b3f8beda69cac79f92b5122c88222b6d571326d2",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822479+00:00"
+      "collected_at": "2026-06-13T13:22:33.879296+00:00"
     },
     {
       "id": "451f79bb8bdc0cd2a48f12ce0a6d77a37907c14ec845076844debe111f4899fc",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822543+00:00"
+      "collected_at": "2026-06-13T13:22:33.879350+00:00"
     },
     {
       "id": "cca62bc688370887a6df6f90b437ed193130dea691fdbbe2409ec2a908a8bc35",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:12:03.961534+00:00"
+      "collected_at": "2026-06-13T13:22:44.225864+00:00"
     },
     {
       "id": "0e86934cd3730d0ebd6d5ee2c8a3c05955c929a98fc8992d6c3bbe614d2d0f0d",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822160+00:00"
+      "collected_at": "2026-06-13T13:22:33.879006+00:00"
     },
     {
       "id": "6ce808408471fa42e756a96d5030ca4d6e4b68f2fa3e2d4f2b0e327c9edde22d",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:12:05.883438+00:00"
+      "collected_at": "2026-06-13T13:22:45.951926+00:00"
     },
     {
       "id": "a76cdba7d236f0aee934459656499400ccf4dcd0af52bb584b329582a7f21077",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:52.822250+00:00"
+      "collected_at": "2026-06-13T13:22:33.879071+00:00"
     },
     {
       "id": "2c6af64b7aeb8a1ec3ba360c95fd7b15b62b4756277a953c04d945b438ec90fa",
@@ -213,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T11:11:54.854689+00:00"
-    },
-    {
-      "id": "e362284afbf651930f871c9eafc2cc2af895bf0ef9d2a6ef229b13e5ce5bdf23",
-      "title": "Ecovias instala sistema Siga Fácil no sistema Anchieta-Imigrantes - News Rondônia",
-      "source": "News Rondônia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2pXVGxZYnMydE5qQmJOWHpmNlZBUnVLZ0hhZkhqMEZlZTlmYUUwN0NPWnFubjM1dUFSbHVkWnk3eFBPTTcxN1FnRmxKWFZCdi1xR0V1SDhjekFxOUE3UUduME1adWZPcVNGckFzTnRLRXRCNUlNZ3BfcWJONWx4N1I0bUlyQjRITndVWTIwLXZ2MjJ0N2IyVEl6R1dpX3VwZ3UxLWxTLUQ4UXpBZEdMUUZFam0?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-12T12:53:59+00:00",
-      "published_raw": "Fri, 12 Jun 2026 12:53:59 GMT",
-      "snippet": "Ecovias instala sistema Siga Fácil no sistema Anchieta-Imigrantes News Rondônia",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-13T11:11:54.854835+00:00"
+      "collected_at": "2026-06-13T13:22:35.483808+00:00"
     }
   ]
 }
