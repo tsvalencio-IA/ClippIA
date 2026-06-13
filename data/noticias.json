@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T13:22:50.320045+00:00",
+  "updated_at": "2026-06-13T13:50:47.083428+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 12,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.878916+00:00"
+      "collected_at": "2026-06-13T13:50:30.823328+00:00"
+    },
+    {
+      "id": "22f851d2d4705ce04ae98d3cd2aff171183ec087bc46c8524d6ac350796fe061",
+      "title": "Carro capota após aquaplanagem na Washington Luís e deixa mãe e criança feridas - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVdycllYWnlVSkpXVDZ5Tk9qZjZCcVQ4TTVDMFNfTkVTR05tRGxfUXJGSmtBUmZRbHlYd0N6TWM2NzdOTzNleUh3MlFTdkNRVGJCOG1Zb0F2M3hBc2dqcDBCMHVkdVVoZzVpdV9ScGJWS3VsbFdZMklRZGd4bzFDZjN3VE5ySG84NUM3UGR0MVhQQllobXpERXhtNUw4LV80d25yZ0hIbWsxdjJIY2fSAbMBQVVfeXFMTmNLYXB3YjVGNVNpZnAwSllZbFJLZEJmWDFqR2h4SnFLT0xkMHV2U3VLcmZqRnFGZXF2NXlqZUhRaHFXc2xXTUhTVnk4MXFCMDdERjR0UF90YmEzQ1JkSmtCb1NXMHRkZXRlZVFtTWxrUjBBZm9ERXBBT3lXT1JIZWtpR2JiNkRkRENmbzg4WW1teThuazJuNzdSd1lva0N2bGY4Umd1VXh3aHY0eERCNkpPTzA?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-13T11:39:50+00:00",
+      "published_raw": "Sat, 13 Jun 2026 11:39:50 GMT",
+      "snippet": "Carro capota após aquaplanagem na Washington Luís e deixa mãe e criança feridas - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-13T13:50:32.421597+00:00"
     },
     {
       "id": "90ea6c53fe62b1cd4bd4c30e2b8320a2518253b58dabfc80fc884ccb9d0f7f98",
       "title": "PT critica Tarcísio por free flow, mas governo Lula também adota modelo em rodoviais federais - Estadão",
       "source": "Estadão",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmR5VlBJSnhONGtxVGRsWWdVZ2RSRFEyNW1xejM3eFRtY2ZMNkhEdkF3b2VYUVczQmlRcmlMMC1iVzFxcUgtcmxPRlY3WThrUTNHWVdNUGJKczgtOGF4aVVYWjZiMmdhYW4zR1UyR2dFRGtDaXpPbXFsWlQ5RkxDYmN4YkJJb1haSDlxU29kUHVxc2tKcVItUDlaaWVsN2ZLM3B3by11RDRPdmxMUmpNN3FYOFQ2bFozNE5CUjZrQndwbUZJY0VDVtIBzgFBVV95cUxNejBHTnNhSnFXQjVneGZJdjJhdGh3T01sOW9rV0JVUm80VHpjeEhZcDVKaUpNa1UxcG96aVU2TlNKNkRqVEZ4M0g5YzdzV2RoSzFQNV9lMnhOUi05WlNjcUVIZUVHWloxYU9OaVhHVE9yMUY0djRZUlBTa3pxZ3FXbVE0eUdJYldvSWpkdzZWQmlldlBlek8ybzdqcUhwWnJXY1NUUnZHVXYxZHNqV1dIX3ZHS0R6aWVLYU85X1dOTmJBNVpZbU5YNERMaXFpQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejBHTnNhSnFXQjVneGZJdjJhdGh3T01sOW9rV0JVUm80VHpjeEhZcDVKaUpNa1UxcG96aVU2TlNKNkRqVEZ4M0g5YzdzV2RoSzFQNV9lMnhOUi05WlNjcUVIZUVHWloxYU9OaVhHVE9yMUY0djRZUlBTa3pxZ3FXbVE0eUdJYldvSWpkdzZWQmlldlBlek8ybzdqcUhwWnJXY1NUUnZHVXYxZHNqV1dIX3ZHS0R6aWVLYU85X1dOTmJBNVpZbU5YNERMaXFpQdIBzgFBVV95cUxNejBHTnNhSnFXQjVneGZJdjJhdGh3T01sOW9rV0JVUm80VHpjeEhZcDVKaUpNa1UxcG96aVU2TlNKNkRqVEZ4M0g5YzdzV2RoSzFQNV9lMnhOUi05WlNjcUVIZUVHWloxYU9OaVhHVE9yMUY0djRZUlBTa3pxZ3FXbVE0eUdJYldvSWpkdzZWQmlldlBlek8ybzdqcUhwWnJXY1NUUnZHVXYxZHNqV1dIX3ZHS0R6aWVLYU85X1dOTmJBNVpZbU5YNERMaXFpQQ?oc=5",
       "resolved_link": "",
       "published": "2026-06-13T08:30:00+00:00",
       "published_raw": "Sat, 13 Jun 2026 08:30:00 GMT",
       "snippet": "PT critica Tarcísio por free flow, mas governo Lula também adota modelo em rodoviais federais Estadão",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:36.002567+00:00"
+      "collected_at": "2026-06-13T13:50:32.988636+00:00"
     },
     {
       "id": "df42ae4064fde8b737941b0c8380d9c7f0930170e0e219c6d2324f568328f27e",
@@ -88,13 +105,13 @@
       "published": "2026-06-13T00:12:00+00:00",
       "published_raw": "Sat, 13 Jun 2026 00:12:00 GMT",
       "snippet": "Policial rodoviário morre em capotamento de viatura na SP-326 Araraquara News",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879228+00:00"
+      "collected_at": "2026-06-13T13:50:30.823646+00:00"
     },
     {
       "id": "4b21a3b3e546bd2252269855906eea4a7579ce3e4e5bcb01da11800e2637cc25",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879146+00:00"
+      "collected_at": "2026-06-13T13:50:30.823580+00:00"
     },
     {
       "id": "e29c4e051d06a3df4d0ea616b3f8beda69cac79f92b5122c88222b6d571326d2",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879296+00:00"
+      "collected_at": "2026-06-13T13:50:30.823715+00:00"
     },
     {
       "id": "451f79bb8bdc0cd2a48f12ce0a6d77a37907c14ec845076844debe111f4899fc",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879350+00:00"
+      "collected_at": "2026-06-13T13:50:30.823777+00:00"
     },
     {
       "id": "cca62bc688370887a6df6f90b437ed193130dea691fdbbe2409ec2a908a8bc35",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:44.225864+00:00"
+      "collected_at": "2026-06-13T13:50:41.165952+00:00"
     },
     {
       "id": "0e86934cd3730d0ebd6d5ee2c8a3c05955c929a98fc8992d6c3bbe614d2d0f0d",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879006+00:00"
+      "collected_at": "2026-06-13T13:50:30.823424+00:00"
     },
     {
       "id": "6ce808408471fa42e756a96d5030ca4d6e4b68f2fa3e2d4f2b0e327c9edde22d",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:45.951926+00:00"
+      "collected_at": "2026-06-13T13:50:42.831554+00:00"
     },
     {
       "id": "a76cdba7d236f0aee934459656499400ccf4dcd0af52bb584b329582a7f21077",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:33.879071+00:00"
+      "collected_at": "2026-06-13T13:50:30.823497+00:00"
     },
     {
       "id": "2c6af64b7aeb8a1ec3ba360c95fd7b15b62b4756277a953c04d945b438ec90fa",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T13:22:35.483808+00:00"
+      "collected_at": "2026-06-13T13:50:32.421515+00:00"
     }
   ]
 }
