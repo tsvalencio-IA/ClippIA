@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T16:07:55.474230+00:00",
+  "updated_at": "2026-06-13T16:11:36.708161+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 13,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:50.631142+00:00"
+      "collected_at": "2026-06-13T16:11:31.967709+00:00"
     },
     {
       "id": "801b786efc92db69dbf3157b307a617006b9c16156f0cabd9d2663138096714e",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303422+00:00"
+      "collected_at": "2026-06-13T16:11:20.847625+00:00"
+    },
+    {
+      "id": "c1af138881b6ca77eed28faec6ccaf16851560e7a6f2255a2523eba1611d8026",
+      "title": "Capotamento deixa mãe e filha feridas na SP-310 - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZW9HeDlKME1rTWhrMXJLUXpYZ0E0Wkg1M0l1UjFSOFFmRXNIR0x2OEI5Qm8xeWxaRGtTVGJFNUZiOWFXajVoMGkybEpiVjZzbnVlQ3c0NTZYaFdKdEFNRHJLYlpIUTJ1Wkh5VFIwYW8yMUJ0bGVMXy1oa0NOT0dzc0NYSVVndzUxR2ZxWWJ6OTdlN1pjZENPVEVPVFdjWEU?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-13T13:32:44+00:00",
+      "published_raw": "Sat, 13 Jun 2026 13:32:44 GMT",
+      "snippet": "Capotamento deixa mãe e filha feridas na SP-310 Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-13T16:11:20.847711+00:00"
     },
     {
       "id": "68b67bdbe281c7c0b40b0b175b624e279554b8b56e0afa47b66b20895150a02c",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303319+00:00"
+      "collected_at": "2026-06-13T16:11:20.847514+00:00"
     },
     {
       "id": "22f851d2d4705ce04ae98d3cd2aff171183ec087bc46c8524d6ac350796fe061",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303512+00:00"
+      "collected_at": "2026-06-13T16:11:20.847793+00:00"
     },
     {
       "id": "90ea6c53fe62b1cd4bd4c30e2b8320a2518253b58dabfc80fc884ccb9d0f7f98",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:41.520637+00:00"
+      "collected_at": "2026-06-13T16:11:22.964611+00:00"
     },
     {
       "id": "df42ae4064fde8b737941b0c8380d9c7f0930170e0e219c6d2324f568328f27e",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303695+00:00"
+      "collected_at": "2026-06-13T16:11:20.847857+00:00"
     },
     {
       "id": "4b21a3b3e546bd2252269855906eea4a7579ce3e4e5bcb01da11800e2637cc25",
@@ -156,13 +173,13 @@
       "published": "2026-06-13T00:06:27+00:00",
       "published_raw": "Sat, 13 Jun 2026 00:06:27 GMT",
       "snippet": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303595+00:00"
+      "collected_at": "2026-06-13T16:11:22.424556+00:00"
     },
     {
       "id": "e29c4e051d06a3df4d0ea616b3f8beda69cac79f92b5122c88222b6d571326d2",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303781+00:00"
+      "collected_at": "2026-06-13T16:11:20.847925+00:00"
     },
     {
       "id": "451f79bb8bdc0cd2a48f12ce0a6d77a37907c14ec845076844debe111f4899fc",
@@ -190,13 +207,13 @@
       "published": "2026-06-12T22:14:07+00:00",
       "published_raw": "Fri, 12 Jun 2026 22:14:07 GMT",
       "snippet": "Policial rodoviário morre após capotamento de viatura na SP-326 rca1.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:39.303844+00:00"
+      "collected_at": "2026-06-13T16:11:22.424693+00:00"
     },
     {
       "id": "cca62bc688370887a6df6f90b437ed193130dea691fdbbe2409ec2a908a8bc35",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:49.570355+00:00"
+      "collected_at": "2026-06-13T16:11:30.862331+00:00"
     },
     {
       "id": "0e86934cd3730d0ebd6d5ee2c8a3c05955c929a98fc8992d6c3bbe614d2d0f0d",
@@ -224,13 +241,13 @@
       "published": "2026-06-12T21:14:29+00:00",
       "published_raw": "Fri, 12 Jun 2026 21:14:29 GMT",
       "snippet": "Grave acidente com viatura da Polícia Rodoviária deixa uma pessoa morta e outra ferida no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:40.948288+00:00"
+      "collected_at": "2026-06-13T16:11:31.394170+00:00"
     },
     {
       "id": "6ce808408471fa42e756a96d5030ca4d6e4b68f2fa3e2d4f2b0e327c9edde22d",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T16:07:51.157452+00:00"
+      "collected_at": "2026-06-13T16:11:32.511338+00:00"
     }
   ]
 }
