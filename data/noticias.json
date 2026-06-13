@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-13T19:19:06.351976+00:00",
+  "updated_at": "2026-06-13T21:55:58.775918+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 18,
+  "total": 17,
   "total_images": 0,
-  "new_items": 18,
+  "new_items": 17,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.420849+00:00"
+      "collected_at": "2026-06-13T21:55:42.077119+00:00"
     },
     {
       "id": "dd3c21e1a9b7712f38b387e8fd2a69ef0e48dbab4f04a7c7c11d1aedada6c24c",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:02.129217+00:00"
+      "collected_at": "2026-06-13T21:55:54.296972+00:00"
     },
     {
       "id": "9c8c53872ca7ad19901aeb7a54b0ff3b157149ff50439ad9d963f4d28d2ac3ac",
@@ -94,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:01.591314+00:00"
+      "collected_at": "2026-06-13T21:55:53.718650+00:00"
+    },
+    {
+      "id": "1382cae7ae33030dae804c6ded630f33109ae310441fb3af0d0e89edecf6eecc",
+      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUzRzZnI5TEZUMzBHOExlc0xienByMXVUZ2NQUllpWVZmcWdHUHJKQ1d2eHdOSXV5UENaUmVLVVNodEZvaE9iSmNsb0J4NHhPcDFaQ3ZCcGNvUGNVS0gxc2JONkk1alJXVjBCaDhtcjR1VDA5eXE1SV82XzdMSFFWTHBmbGNON2JDTDVxLUU0VDVfX1hKUWpxZ0g5WC0td3JhOVNXMHFhbXUySDlScjdJSEtYOXVXa2FmSEsxdkt6d2NhOUJkekhNZk5vOWJlMjNaNGphMFdfTFF2Y3hqQ1phRmMwWXdrQ0NZSm15MUVDSWJ0VDc4b3l4UW44V0xtN2xNZ0g4WmJ2NERPZ2tva2NEaA?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-13T15:43:39+00:00",
+      "published_raw": "Sat, 13 Jun 2026 15:43:39 GMT",
+      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho MSN",
+      "term": "\"Ecovias Noroeste\" tarifa | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-13T21:55:47.117496+00:00"
     },
     {
       "id": "801b786efc92db69dbf3157b307a617006b9c16156f0cabd9d2663138096714e",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:01.591395+00:00"
+      "collected_at": "2026-06-13T21:55:53.718726+00:00"
     },
     {
       "id": "485c990a47f65584ddc6665a1eaca19c6f7ca6e655f94f92150ea68119aaa7ca",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.421115+00:00"
+      "collected_at": "2026-06-13T21:55:42.077340+00:00"
     },
     {
       "id": "c62b3534212b6eb272c2f564772c684312787276154cadef5ce77eabc655911a",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.951736+00:00"
+      "collected_at": "2026-06-13T21:55:42.649520+00:00"
     },
     {
       "id": "d773dcadd807ce2a8dce8bf39476711996c8f5fa9eb34f76a67ec4518bd14da6",
@@ -156,13 +173,13 @@
       "published": "2026-06-13T14:27:41+00:00",
       "published_raw": "Sat, 13 Jun 2026 14:27:41 GMT",
       "snippet": "Identificado policial rodoviário morto em grave acidente com viatura em rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" ARTESP",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:02.664112+00:00"
+      "collected_at": "2026-06-13T21:55:53.718532+00:00"
     },
     {
       "id": "c1af138881b6ca77eed28faec6ccaf16851560e7a6f2255a2523eba1611d8026",
@@ -173,13 +190,13 @@
       "published": "2026-06-13T13:32:44+00:00",
       "published_raw": "Sat, 13 Jun 2026 13:32:44 GMT",
       "snippet": "Capotamento deixa mãe e filha feridas na SP-310 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.420946+00:00"
+      "collected_at": "2026-06-13T21:55:42.077196+00:00"
     },
     {
       "id": "68b67bdbe281c7c0b40b0b175b624e279554b8b56e0afa47b66b20895150a02c",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.420745+00:00"
+      "collected_at": "2026-06-13T21:55:42.077027+00:00"
     },
     {
       "id": "22f851d2d4705ce04ae98d3cd2aff171183ec087bc46c8524d6ac350796fe061",
@@ -213,7 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.421034+00:00"
+      "collected_at": "2026-06-13T21:55:42.077271+00:00"
+    },
+    {
+      "id": "0a0039e76a5b721d28aed02420ca6ba322524a3d84627864ae9bc63ab845f82b",
+      "title": "Pedágios de Catiguá e Pirangi têm ações preventivas no Maio Amarelo - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjVqSzlOdUplWTl0NGV1aVVFWkRrYU5SS3U0TDg4Zk1XMHBrdXZIb0JuRHFndGljMm5IVmhUNHd4VlFkRGR2eHI1U0lwaElkby1XN1M1ZEpkcUxYUWNhX3ZUNmU4am81S01TVWJCZE5mNnY0d09rRUJ3MUVnYTVqQS1SZFNtWGhUNzhHS3prVVhnNno0SXRyTTVEdUR3MnFIRGlR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-13T10:38:22+00:00",
+      "published_raw": "Sat, 13 Jun 2026 10:38:22 GMT",
+      "snippet": "Pedágios de Catiguá e Pirangi têm ações preventivas no Maio Amarelo O Regional",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-13T21:55:43.774312+00:00"
     },
     {
       "id": "90ea6c53fe62b1cd4bd4c30e2b8320a2518253b58dabfc80fc884ccb9d0f7f98",
@@ -230,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:52.574931+00:00"
+      "collected_at": "2026-06-13T21:55:44.355300+00:00"
     },
     {
       "id": "df42ae4064fde8b737941b0c8380d9c7f0930170e0e219c6d2324f568328f27e",
@@ -241,30 +275,30 @@
       "published": "2026-06-13T00:12:00+00:00",
       "published_raw": "Sat, 13 Jun 2026 00:12:00 GMT",
       "snippet": "Policial rodoviário morre em capotamento de viatura na SP-326 Araraquara News",
-      "term": "\"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:04.905953+00:00"
+      "collected_at": "2026-06-13T21:55:42.077398+00:00"
     },
     {
       "id": "4b21a3b3e546bd2252269855906eea4a7579ce3e4e5bcb01da11800e2637cc25",
       "title": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXpaZjVvbXg1QV80LUVNZDRwODhuZ2oyTG9FUjBVa2RDdzZpUGV2UU1nbTlydHBMRHJEZGZGaktVb3dPWlVYQXdYRm0zeFpDdTZJNllCZXRfYTUyQzRwc1laX1FnTWdKenlwZ2VLQno2X2lSZjFhSmNWUGM0UVdMNmVHTERYS09PTVpIT2NjUXhkZ05UalNydnFsY0RrY1dLTi1xMEZXNW1ILWZ6cUtwclJRbEVsS0NMUzE5alUzUmdMNDJLbWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDVjV2ktaUFDTnNDbUxrZm5Jdl8xYVRMWFlvUHBiZkwyblh5bXVDMk16eGNjc3Rmckx3TmwyazRLcGdKTlNFWlpnTUdkTWRnOTZaaV9tNDRXZzFVVkFibDhjQUlaaWxieEJBWGlfcS1kTzJyaHczb3RxdkhLVXZYQS13YkQwMTdsRWJkemNSVS1SWThpNWJjUXpVQnRpUzM3M215RXpXaXlFOXI3Wm5ZQW1ZQXF3MzlDWmtxUnFYcFI?oc=5",
       "resolved_link": "",
       "published": "2026-06-13T00:06:27+00:00",
       "published_raw": "Sat, 13 Jun 2026 00:06:27 GMT",
       "snippet": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:01.025176+00:00"
+      "collected_at": "2026-06-13T21:55:53.175674+00:00"
     },
     {
       "id": "e29c4e051d06a3df4d0ea616b3f8beda69cac79f92b5122c88222b6d571326d2",
@@ -281,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:18:50.421187+00:00"
+      "collected_at": "2026-06-13T21:55:42.077458+00:00"
     },
     {
       "id": "451f79bb8bdc0cd2a48f12ce0a6d77a37907c14ec845076844debe111f4899fc",
@@ -298,58 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-13T19:19:04.906043+00:00"
-    },
-    {
-      "id": "cca62bc688370887a6df6f90b437ed193130dea691fdbbe2409ec2a908a8bc35",
-      "title": "Governo de SP entrega melhorias urbanas na SP-326 em Barretos - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0Nrck1rRkx5STVhbGZYWlRMb1VYclNGQ1ZxakRCQlRySTg2ZERNTENuYnBLLWNfMVBJYTBzbFpfZFBNMzZoM0M2SEVBd1dQNDhCS282d2Y0aDJtNGZzSzlISUh0QnBjQ19Uczh1cmk2Wlp1WVZ3ZDFOdDkzMFVJbHhuQkVoZ3Ry?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-12T21:45:56+00:00",
-      "published_raw": "Fri, 12 Jun 2026 21:45:56 GMT",
-      "snippet": "Governo de SP entrega melhorias urbanas na SP-326 em Barretos Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-13T19:19:00.495859+00:00"
-    },
-    {
-      "id": "0e86934cd3730d0ebd6d5ee2c8a3c05955c929a98fc8992d6c3bbe614d2d0f0d",
-      "title": "Grave acidente com viatura da Polícia Rodoviária deixa uma pessoa morta e outra ferida no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQc0xRT3NxOHhhdno2VVRyS1pZYUJRXzRaNEJZWmllbTdJZXlVQWViOWViR0d1OTNCNVpwTTdRWm9VSEZTb3J4bVJMOERUOHFYT0QyRG1WNS1PMDdkSEJMRlBUMGoyaElhekplLWpnXzV3aFF1YXJzRW5na1FXc0RSSnppWkotVWwyRE5vckg3d1g5RUNQaDg0QmFXVkplRXVkeWdpQUk2czBEQWJCZjBjQzl5Qzk0ajlwMUFHalZ3djQ5LUJOclZ3NXR5cHFlYXYtbkZBZ1ZUc3NrOUhZN1hBR2lhbGZpc3U3Nko3aFdHek54dzhqd19oQmN1RW1Dbl9ja1EzNm1mSE1XbjdISVRN0gGPAkFVX3lxTFBzTFFPc3E4eGF2ejZVVHJLWllhQlFfNFo0QllaaWVtN0lleVVBZWI5ZWJHR3U5M0I1WnBNN1Fab1VIRlNvcnhtUkw4RFQ4cVhPRDJEbVY1LU8wN2RIQkxGUFQwajJoSWF6SmUtamdfNXdoUXVhcnNFbmdrUVdzRFJKemlaSi1VbDJETm9ySDd3WDlFQ1BoODRCYVdWSmVFdWR5Z2lBSTZzMERBYkJmMGNDOXlDOTRqOXAxQUdqVnd2NDktQk5yVnc1dHlwcWVhdi1uRkFnVlRzc2s5SFk3WEFHaWFsZmlzdTc2SjdoV0d6Tnh3OGp3X2hCY3VFbUNuX2NrUTM2bWZITVduN0hJVE0?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-12T21:14:29+00:00",
-      "published_raw": "Fri, 12 Jun 2026 21:14:29 GMT",
-      "snippet": "Grave acidente com viatura da Polícia Rodoviária deixa uma pessoa morta e outra ferida no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-13T19:19:01.025083+00:00"
-    },
-    {
-      "id": "6ce808408471fa42e756a96d5030ca4d6e4b68f2fa3e2d4f2b0e327c9edde22d",
-      "title": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNWE2b1pzLXY4emlxSzNkX2VTUVRNcmoyaktaTmRYeHMtamtkRy1NckhZNHh3bGctMm92cmlfMkl3RDg3SE9sM1NXNW9sSDZ1R0E5dFNyTFRodW5DSEloOG5vcC1CcnRteHNRNVV4X1drMGFSNDYxUWc0MzVGaVI5R0RiUFI5akV4OHd3NHZ1QlpNRmlJYVNiR0J6MWtuUHhoZWxsOUtMd3FIWnRHODhSZTVHcUdQek9makJnOGJNWnFkbnloZ0xwUTlMVVpKYUplRnJWQk8xN1d2eE9ramthMmpFZHJFUXZBdDFsWllPZTk3bDJTNTlLNTZWcDdEUkIw0gGPAkFVX3lxTFBzTFFPc3E4eGF2ejZVVHJLWllhQlFfNFo0QllaaWVtN0lleVVBZWI5ZWJHR3U5M0I1WnBNN1Fab1VIRlNvcnhtUkw4RFQ4cVhPRDJEbVY1LU8wN2RIQkxGUFQwajJoSWF6SmUtamdfNXdoUXVhcnNFbmdrUVdzRFJKemlaSi1VbDJETm9ySDd3WDlFQ1BoODRCYVdWSmVFdWR5Z2lBSTZzMERBYkJmMGNDOXlDOTRqOXAxQUdqVnd2NDktQk5yVnc1dHlwcWVhdi1uRkFnVlRzc2s5SFk3WEFHaWFsZmlzdTc2SjdoV0d6Tnh3OGp3X2hCY3VFbUNuX2NrUTM2bWZITVduN0hJVE0?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-12T21:14:29+00:00",
-      "published_raw": "Fri, 12 Jun 2026 21:14:29 GMT",
-      "snippet": "Policial rodoviário morre e outro fica ferido em grave acidente com viatura no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-13T19:19:02.129299+00:00"
+      "collected_at": "2026-06-13T21:55:57.177474+00:00"
     }
   ]
 }
