@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T13:52:43.819163+00:00",
+  "updated_at": "2026-06-14T16:16:04.781710+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 7,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "dc8f3157bc929060d592d72a48b2ede683259bb1b507393e36786667a06c728d",
+      "title": "Polícia Militar leva orientação sobre prevenção ao abuso sexual para alunos da APAE - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV2NMeUUwWlBiemhnQWJsR0N5ZERGQU1lbjNQN2puY3RVMjN2dEdaa0RraDA3MWxWLVVwUkNvQl9leW9LRDVCd1VrXzh4U00tOHFXV2lOb0hjaV9WWjZ3NjJoOGlrMjhrX0UzdHUzZ0MzTmQwdzRic2ktOHhZM2FxY2VuYnhudDVqTDd4MVJLc096RC1QLXlwdHRheVQ5b1Jrd3NFWlRJaW11U1g1Yzd3SkR0U052WEE00gG4AUFVX3lxTFBXY0x5RTBaUGJ6aGdBYmxHQ3lkREZBTWVuM1A3am5jdFUyM3Z0R1prRGtoMDcxbFYtVXBSQ29CX2V5b0tENUJ3VWtfOHhTTS04cVdXaU5vSGNpX1ZaNnc2Mmg4aWsyOGtfRTN0dTNnQzNOZDB3NGJzaS04eFkzYXFjZW5ieG50NWpMN3gxUktzT3pELVAteXB0dGF5VDlvUmt3c0VaVElpbXVTWDVjN3dKRHRTTnZYQTQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T12:39:03+00:00",
+      "published_raw": "Sun, 14 Jun 2026 12:39:03 GMT",
+      "snippet": "Polícia Militar leva orientação sobre prevenção ao abuso sexual para alunos da APAE - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-14T16:15:49.183025+00:00"
+    },
+    {
       "id": "86dd78b142b4d633c5babae15b177f01ff0e948579ac58023c55f234434ba7c8",
       "title": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos - São Carlos - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994270+00:00"
+      "collected_at": "2026-06-14T16:15:49.182718+00:00"
     },
     {
       "id": "5bef0b733fd2081eaf1287520573b85b666a488abbdd101b980e27dd2dc3182a",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:28.685408+00:00"
+      "collected_at": "2026-06-14T16:15:50.754843+00:00"
     },
     {
       "id": "0315cce4dd056c93217a978b112850389e788bdf95ce2895fed8fd11f69dd149",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994672+00:00"
+      "collected_at": "2026-06-14T16:15:49.183104+00:00"
     },
     {
       "id": "2692f1b708e9dc223695b195dfdacb61347505aed915a20cd83a6e661073c4e2",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994605+00:00"
+      "collected_at": "2026-06-14T16:15:49.182906+00:00"
     },
     {
       "id": "76f96a644ffe39514b635e87fb178540bb62a7a591e9abfaff1f71afb0c52af4",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994364+00:00"
+      "collected_at": "2026-06-14T16:15:49.182818+00:00"
     },
     {
       "id": "dd3c21e1a9b7712f38b387e8fd2a69ef0e48dbab4f04a7c7c11d1aedada6c24c",
@@ -145,126 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T13:52:39.400455+00:00"
-    },
-    {
-      "id": "9c8c53872ca7ad19901aeb7a54b0ff3b157149ff50439ad9d963f4d28d2ac3ac",
-      "title": "Acidente deixa condutor ferido na rodovia Faria Lima - O Diário Interativo Online",
-      "source": "O Diário Interativo Online",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnRaOVRSampyeWVQaTdFZzBES29JSGdXZ0NrZ1VaNVVJTGVDclRLQUJDWHRWdkswSjNyamNETmM3dXNxX3hwMmFORXE0ZVQwenU4RjR2QUo3dGI2VUsyQVFVc1JQVURiQ2RxRXVsNGFyOGNvSHBTTnpQQUtnbE9ZWlFTcFBhX0d3d1ExdmtBUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T15:51:52+00:00",
-      "published_raw": "Sat, 13 Jun 2026 15:51:52 GMT",
-      "snippet": "Acidente deixa condutor ferido na rodovia Faria Lima O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994463+00:00"
-    },
-    {
-      "id": "1382cae7ae33030dae804c6ded630f33109ae310441fb3af0d0e89edecf6eecc",
-      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - MSN",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUzRzZnI5TEZUMzBHOExlc0xienByMXVUZ2NQUllpWVZmcWdHUHJKQ1d2eHdOSXV5UENaUmVLVVNodEZvaE9iSmNsb0J4NHhPcDFaQ3ZCcGNvUGNVS0gxc2JONkk1alJXVjBCaDhtcjR1VDA5eXE1SV82XzdMSFFWTHBmbGNON2JDTDVxLUU0VDVfX1hKUWpxZ0g5WC0td3JhOVNXMHFhbXUySDlScjdJSEtYOXVXa2FmSEsxdkt6d2NhOUJkekhNZk5vOWJlMjNaNGphMFdfTFF2Y3hqQ1phRmMwWXdrQ0NZSm15MUVDSWJ0VDc4b3l4UW44V0xtN2xNZ0g4WmJ2NERPZ2tva2NEaA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T15:43:39+00:00",
-      "published_raw": "Sat, 13 Jun 2026 15:43:39 GMT",
-      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho MSN",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:29.268022+00:00"
-    },
-    {
-      "id": "801b786efc92db69dbf3157b307a617006b9c16156f0cabd9d2663138096714e",
-      "title": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nSUx2RVp6bFd2S3ZWSjdVdlRzbHZaTm9USGJ0ekpRcEhNODlvQVVIREVzNDRhQk54ZXFMZDhSN3hzcEIwVnJsNkg1VkdzLWNSRC1pREg1cTBGQ0FxQjRUMG5CZTlmWkhJQTdWaVRseGVOdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T15:40:25+00:00",
-      "published_raw": "Sat, 13 Jun 2026 15:40:25 GMT",
-      "snippet": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos São Carlos em Rede",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:38.811812+00:00"
-    },
-    {
-      "id": "485c990a47f65584ddc6665a1eaca19c6f7ca6e655f94f92150ea68119aaa7ca",
-      "title": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWg2Mjg4Q1oxMjZFaDcwM0hqOEdRRXRpNlpDelRoVzM3bGZVV0F6eFAybVJOQVNhS25LMXVpOVZBUHdqVm4tZ1VyRlZ2U2RVWkQ4LTIxYjhWMTJsTk1Cc2RFS3ZlQURFaWZuUVZrek1Xa0hkVDNVMkU4Nmt3b0Z6NG9mOXdQVXpVekt3cFdSUER1Q1dKUzZHdjVPLWcyNkxVN1lqemVJMmFRZi1qNlktVmZhVdIBuAFBVV95cUxQRWlsNWNoRkR1dWVvOEFkY1U0Vm9PdHFzQ0ItcTZzbUdUY05FTVJZSXhLaldJZU9laHhTNHlwd2RodjlHOFJ3WlB5VkZ6WFFyRzJHREptMEhGR3NUNTRHaTN0d1Bvc0Z4MWVUdjM4eVhvR3Q2c1hZTEJFT0VOYjJoWW50Zm1sMlBzTHh5bW1OLTIwNjBWcEJJQXl4UVV3aXdISDNELWZxejQyLXdLbnREZlJfcGkxemkw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T15:12:00+00:00",
-      "published_raw": "Sat, 13 Jun 2026 15:12:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos São Carlos Agora",
-      "term": "\"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:42.319969+00:00"
-    },
-    {
-      "id": "6466553c10cfeb451a90a0b1e87dcc361ea2efbeb5646b53d90769a294aa451a",
-      "title": "SP-333: Taquaritinga anuncia construção de avenidas marginais na Rodovia Nemésio Cadetti com investimento superior a R$ 60 milhões - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPelhLTDM0dENndmlzelQ1MkcwZWVMZGlpSElWSlZ6aUFTLTZ0ZExCVlZldEZkUXhDdEloOFpHRTBXcUlOYjQ3YXVqZDNyNVdkSlR4ZGNZak5PRGZQUUN1NkhoUWFvWXZkenN6Mm1aUlNxZmI5OW4xd3JnVE5HaDBOeUVkYVdqcUFDUDdCcXRpX18yeE91TkM5OEtQSlhkLVNTLXY4TzhSQm0wbnVOREhiaGpIWjRlNlVwN3VQYUxiZU5Lcmgxc2xTY01lQ2RJaTdsYzdTQ1FHem1xY3dFOC1mMER6TzNGR2d6a1E?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T15:00:34+00:00",
-      "published_raw": "Sat, 13 Jun 2026 15:00:34 GMT",
-      "snippet": "SP-333: Taquaritinga anuncia construção de avenidas marginais na Rodovia Nemésio Cadetti com investimento superior a R$ 60 milhões odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:26.994543+00:00"
-    },
-    {
-      "id": "c62b3534212b6eb272c2f564772c684312787276154cadef5ce77eabc655911a",
-      "title": "Concessões em SP acumulavam 913 obras atrasadas e R$ 148 bilhões em contratos - correiodamanha.com.br",
-      "source": "correiodamanha.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaDVXNTdMTGhpWmpuNHllQVRhdjRqdU5iNzA0elZpOHJaREtxTEgycGEyMzlBV3FMUW9YVHZkV24wVXhBNjdWLTU4QXcwZEhyT3c2VUJaVFUzdlJvVVFqUFlNeFhoa2tpQ2FQRmhFMnl1dHUwOUgxUGs4aU5yenkzXzZwWUlHbVBMRXkwY1RyY0tneXFfTXN2Snp0S3FGaktwUFpNZE9JV180Q240NFJVUEU3NlBlT2JXdjJDc3pyMFBNNGl5Z3RUcXdFSG9YZHVBeFU4UGh5QVJsWnpUR0JsQjVIa1BveDBVbnVzZldJenpYNzduRFBxcXBYOGg1LURJYVpCOA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T14:40:00+00:00",
-      "published_raw": "Sat, 13 Jun 2026 14:40:00 GMT",
-      "snippet": "Concessões em SP acumulavam 913 obras atrasadas e R$ 148 bilhões em contratos correiodamanha.com.br",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:27.550244+00:00"
-    },
-    {
-      "id": "d773dcadd807ce2a8dce8bf39476711996c8f5fa9eb34f76a67ec4518bd14da6",
-      "title": "Identificado policial rodoviário morto em grave acidente com viatura em rodovia no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaW8tMVRnczY5RTVjSzY1TlgxZFFYZjhaV0pOcE8td29vbXRmLXlTby1Dc29ib3llVFJjdi05RFVIVFN6Ym8yZWxVYWlCYTNhU0tNYzRNWWVXaUcyUkdtOUVBXzd3OE5jM3B0VHR2QXowWk9Ua0Y4empUdGdCamJyV1hpREhZRVNYUEVIUUZNS1lGOG5fWWsyT0FiZFNGeWlvazVMZ1U3NTN6cmJtTy1zQU4xS19EUk5ieGZXbEplcVEwU09wUWhvU3VIbHh4NlNDMWVkb1NWaXBZUlBkWGZERks1QWlhdVl0SkhocHZ0MlBUbklyS1lHTlB6cm9ITFVTbTU1UFJR0gGGAkFVX3lxTE9pby0xVGdzNjlFNWNLNjVOWDFkUVhmOFpXSk5wTy13b29tdGYteVNvLUNzb2JveWVUUmN2LTlEVUhUU3pibzJlbFVhaUJhM2FTS01jNE1ZZVdpRzJSR205RUFfN3c4TmMzcHRUdHZBejBaT1RrRjh6alR0Z0JqYnJXWGlESFlFU1hQRUhRRk1LWUY4bl9ZazJPQWJkU0Z5aW9rNUxnVTc1M3pyYm1PLXNBTjFLX0RSTmJ4ZldsSmVxUTBTT3BRaG9TdUhseHg2U0MxZWRvU1ZpcFlSUGRYZkRGSzVBaWF1WXRKSGhwdnQyUFRuSXJLWUdOUHpyb0hMVVNtNTVQUlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T14:27:41+00:00",
-      "published_raw": "Sat, 13 Jun 2026 14:27:41 GMT",
-      "snippet": "Identificado policial rodoviário morto em grave acidente com viatura em rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T13:52:38.811671+00:00"
+      "collected_at": "2026-06-14T16:16:00.674288+00:00"
     }
   ]
 }
