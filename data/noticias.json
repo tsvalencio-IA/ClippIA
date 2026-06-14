@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T07:15:33.900853+00:00",
+  "updated_at": "2026-06-14T09:27:14.047654+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 16,
+  "total": 15,
   "total_images": 0,
-  "new_items": 16,
+  "new_items": 15,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-06-14T02:04:00+00:00",
       "published_raw": "Sun, 14 Jun 2026 02:04:00 GMT",
       "snippet": "Policial militar rodoviário de 25 anos morre após capotamento de viatura em rodovia de Matão Passando a Régua",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580760+00:00"
+      "collected_at": "2026-06-14T09:27:09.387973+00:00"
     },
     {
       "id": "2692f1b708e9dc223695b195dfdacb61347505aed915a20cd83a6e661073c4e2",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:28.522263+00:00"
+      "collected_at": "2026-06-14T09:27:09.387752+00:00"
     },
     {
       "id": "76f96a644ffe39514b635e87fb178540bb62a7a591e9abfaff1f71afb0c52af4",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580570+00:00"
+      "collected_at": "2026-06-14T09:26:58.347180+00:00"
     },
     {
       "id": "dd3c21e1a9b7712f38b387e8fd2a69ef0e48dbab4f04a7c7c11d1aedada6c24c",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:29.106404+00:00"
+      "collected_at": "2026-06-14T09:27:09.920424+00:00"
     },
     {
       "id": "9c8c53872ca7ad19901aeb7a54b0ff3b157149ff50439ad9d963f4d28d2ac3ac",
@@ -128,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:28.522223+00:00"
+      "collected_at": "2026-06-14T09:27:09.387683+00:00"
     },
     {
-      "id": "54124f6a27711e06388014f5fa606b553cdeff0f6f30a52a7c66adbca560fca7",
-      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - msn.com",
-      "source": "msn.com",
+      "id": "1382cae7ae33030dae804c6ded630f33109ae310441fb3af0d0e89edecf6eecc",
+      "title": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho - MSN",
+      "source": "MSN",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUzRzZnI5TEZUMzBHOExlc0xienByMXVUZ2NQUllpWVZmcWdHUHJKQ1d2eHdOSXV5UENaUmVLVVNodEZvaE9iSmNsb0J4NHhPcDFaQ3ZCcGNvUGNVS0gxc2JONkk1alJXVjBCaDhtcjR1VDA5eXE1SV82XzdMSFFWTHBmbGNON2JDTDVxLUU0VDVfX1hKUWpxZ0g5WC0td3JhOVNXMHFhbXUySDlScjdJSEtYOXVXa2FmSEsxdkt6d2NhOUJkekhNZk5vOWJlMjNaNGphMFdfTFF2Y3hqQ1phRmMwWXdrQ0NZSm15MUVDSWJ0VDc4b3l4UW44V0xtN2xNZ0g4WmJ2NERPZ2tva2NEaA?oc=5",
       "resolved_link": "",
       "published": "2026-06-13T15:43:39+00:00",
       "published_raw": "Sat, 13 Jun 2026 15:43:39 GMT",
-      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho msn.com",
+      "snippet": "Pedágio 'free flow' entra em fase de testes no Sistema Anchieta-Imigrantes; promessa é mudar tarifa para R$ 19,35 por trecho MSN",
       "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:18.072672+00:00"
+      "collected_at": "2026-06-14T09:27:00.432888+00:00"
     },
     {
       "id": "801b786efc92db69dbf3157b307a617006b9c16156f0cabd9d2663138096714e",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:28.522127+00:00"
+      "collected_at": "2026-06-14T09:27:09.387534+00:00"
     },
     {
       "id": "485c990a47f65584ddc6665a1eaca19c6f7ca6e655f94f92150ea68119aaa7ca",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580717+00:00"
+      "collected_at": "2026-06-14T09:26:58.347477+00:00"
     },
     {
       "id": "6466553c10cfeb451a90a0b1e87dcc361ea2efbeb5646b53d90769a294aa451a",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:27.265379+00:00"
+      "collected_at": "2026-06-14T09:27:08.320146+00:00"
     },
     {
       "id": "c62b3534212b6eb272c2f564772c684312787276154cadef5ce77eabc655911a",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:16.156504+00:00"
+      "collected_at": "2026-06-14T09:26:58.858060+00:00"
     },
     {
       "id": "d773dcadd807ce2a8dce8bf39476711996c8f5fa9eb34f76a67ec4518bd14da6",
@@ -230,13 +230,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:28.522181+00:00"
+      "collected_at": "2026-06-14T09:27:09.387614+00:00"
     },
     {
       "id": "c1af138881b6ca77eed28faec6ccaf16851560e7a6f2255a2523eba1611d8026",
       "title": "Capotamento deixa mãe e filha feridas na SP-310 - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjczeGdYYy1uNWY5YUNUWjJGcFVaMVk4M0xKTmotTmE3Z0ZUVjE1djBpb2YtMFc5UDY3THd1cG1UX2REUnpsY3NhNnExWmNxQ3RoVXVJdGM5SnMtTmFuU1FZNHI1elRaek96LUN0bUt3cWxqRnRvbFJrdWlTSEx1TE9RWGxIY09mUmNIV2ZCYW1nOTdtZFFMOEpR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZW9HeDlKME1rTWhrMXJLUXpYZ0E0Wkg1M0l1UjFSOFFmRXNIR0x2OEI5Qm8xeWxaRGtTVGJFNUZiOWFXajVoMGkybEpiVjZzbnVlQ3c0NTZYaFdKdEFNRHJLYlpIUTJ1Wkh5VFIwYW8yMUJ0bGVMXy1oa0NOT0dzc0NYSVVndzUxR2ZxWWJ6OTdlN1pjZENPVEVPVFdjWEU?oc=5",
       "resolved_link": "",
       "published": "2026-06-13T13:32:44+00:00",
       "published_raw": "Sat, 13 Jun 2026 13:32:44 GMT",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580621+00:00"
+      "collected_at": "2026-06-14T09:26:58.347299+00:00"
     },
     {
       "id": "68b67bdbe281c7c0b40b0b175b624e279554b8b56e0afa47b66b20895150a02c",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580510+00:00"
+      "collected_at": "2026-06-14T09:26:58.346999+00:00"
     },
     {
       "id": "22f851d2d4705ce04ae98d3cd2aff171183ec087bc46c8524d6ac350796fe061",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:15.580672+00:00"
+      "collected_at": "2026-06-14T09:26:58.347393+00:00"
     },
     {
       "id": "0a0039e76a5b721d28aed02420ca6ba322524a3d84627864ae9bc63ab845f82b",
@@ -292,30 +292,13 @@
       "published": "2026-06-13T10:38:22+00:00",
       "published_raw": "Sat, 13 Jun 2026 10:38:22 GMT",
       "snippet": "Pedágios de Catiguá e Pirangi têm ações preventivas no Maio Amarelo O Regional",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T07:15:17.454193+00:00"
-    },
-    {
-      "id": "90ea6c53fe62b1cd4bd4c30e2b8320a2518253b58dabfc80fc884ccb9d0f7f98",
-      "title": "PT critica Tarcísio por free flow, mas governo Lula também adota modelo em rodoviais federais - Estadão",
-      "source": "Estadão",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejBHTnNhSnFXQjVneGZJdjJhdGh3T01sOW9rV0JVUm80VHpjeEhZcDVKaUpNa1UxcG96aVU2TlNKNkRqVEZ4M0g5YzdzV2RoSzFQNV9lMnhOUi05WlNjcUVIZUVHWloxYU9OaVhHVE9yMUY0djRZUlBTa3pxZ3FXbVE0eUdJYldvSWpkdzZWQmlldlBlek8ybzdqcUhwWnJXY1NUUnZHVXYxZHNqV1dIX3ZHS0R6aWVLYU85X1dOTmJBNVpZbU5YNERMaXFpQdIBzgFBVV95cUxNejBHTnNhSnFXQjVneGZJdjJhdGh3T01sOW9rV0JVUm80VHpjeEhZcDVKaUpNa1UxcG96aVU2TlNKNkRqVEZ4M0g5YzdzV2RoSzFQNV9lMnhOUi05WlNjcUVIZUVHWloxYU9OaVhHVE9yMUY0djRZUlBTa3pxZ3FXbVE0eUdJYldvSWpkdzZWQmlldlBlek8ybzdqcUhwWnJXY1NUUnZHVXYxZHNqV1dIX3ZHS0R6aWVLYU85X1dOTmJBNVpZbU5YNERMaXFpQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T08:30:00+00:00",
-      "published_raw": "Sat, 13 Jun 2026 08:30:00 GMT",
-      "snippet": "PT critica Tarcísio por free flow, mas governo Lula também adota modelo em rodoviais federais Estadão",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T07:15:18.072625+00:00"
+      "collected_at": "2026-06-14T09:26:58.347092+00:00"
     }
   ]
 }
