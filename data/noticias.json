@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:22:34.715593+00:00",
+  "updated_at": "2026-06-14T13:25:36.511743+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 14,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "86dd78b142b4d633c5babae15b177f01ff0e948579ac58023c55f234434ba7c8",
+      "title": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos - São Carlos - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcDM3QUVBbEtVNDNVUzNHWno4UDRqSkQ0ZTZqQV9sVnhGRi1aTWlEZkpMdDBEZTY3QXhFSVRmV0R3NFo4RU9kMEFDT05YbXlxZlZqbHMtTXpzdFprVndaTzRTbVg3X2hzbVBzQlpGRFBGNnBxZnlkdUJBN0RSQUdZcE9HdmhsRTBIMnlVaDJSNnFfVTBsT0Q5bEhOb21FNVRWb0JVNHJnTzhEX2dfM3pCaFp4cmliTDdDOHdSSUhxd2FiaTDSAcgBQVVfeXFMT0g4UU82YmJTR19JNXFfcmtwYS1DaDJWWkx1c2ltUW5OdXk4WjdSenI2R0pIdkFOWTlaU2N5eDVWMExYUjh0RFQ0c3RYXzNiTGNnVGJYd2VKcGRMMVJlYXJlaFE4VnJac0xhV1laWnlaLW9MTndQZWVXOEJVbTRzelY1emhnNHg0MGJoVFk3TWZmUnl5VGRsRk0tSURDQ2xDZjJydkNGQ2NyUlN3WEY1NHZkU1BiaXRLay02TmFQNlhlX3ZfcGRmai0?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T12:14:19+00:00",
+      "published_raw": "Sun, 14 Jun 2026 12:14:19 GMT",
+      "snippet": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos - São Carlos São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-14T13:25:20.640950+00:00"
+    },
+    {
+      "id": "5bef0b733fd2081eaf1287520573b85b666a488abbdd101b980e27dd2dc3182a",
+      "title": "Tragédia na rodovia: colisão frontal mata duas pessoas em Monte Alto - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2FQbjdkMVJVemlVMENKMDdQWThLRzFCdXdzX3FwOFlpUEUtZzEycDhmTENsZF81TmhmM2twSUtpc3M0OHJtaXlQSFducGs4LXVERmtIMi1PdVVBaHVRMmFaWnhUV3J6UXNiYm5OeEV5b2FmVm5TV0xEUnJtQm9fS1FtZnhXanNyZEVEUkQ5RzRQU1QwR3FYYUpfMEdSa1d4Y19leFB4TUNzSnJwVUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T11:37:46+00:00",
+      "published_raw": "Sun, 14 Jun 2026 11:37:46 GMT",
+      "snippet": "Tragédia na rodovia: colisão frontal mata duas pessoas em Monte Alto Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-323\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-14T13:25:22.218570+00:00"
+    },
+    {
       "id": "0315cce4dd056c93217a978b112850389e788bdf95ce2895fed8fd11f69dd149",
       "title": "Policial militar rodoviário de 25 anos morre após capotamento de viatura em rodovia de Matão - Passando a Régua",
       "source": "Passando a Régua",
@@ -54,13 +88,13 @@
       "published": "2026-06-14T02:04:00+00:00",
       "published_raw": "Sun, 14 Jun 2026 02:04:00 GMT",
       "snippet": "Policial militar rodoviário de 25 anos morre após capotamento de viatura em rodovia de Matão Passando a Régua",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.070926+00:00"
+      "collected_at": "2026-06-14T13:25:20.641299+00:00"
     },
     {
       "id": "2692f1b708e9dc223695b195dfdacb61347505aed915a20cd83a6e661073c4e2",
@@ -71,13 +105,13 @@
       "published": "2026-06-14T00:53:00+00:00",
       "published_raw": "Sun, 14 Jun 2026 00:53:00 GMT",
       "snippet": "Policial de Pontes Gestal morre após capotamento de viatura durante serviço Tanabi Noticias",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.070689+00:00"
+      "collected_at": "2026-06-14T13:25:20.641220+00:00"
     },
     {
       "id": "76f96a644ffe39514b635e87fb178540bb62a7a591e9abfaff1f71afb0c52af4",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.113271+00:00"
+      "collected_at": "2026-06-14T13:25:20.641052+00:00"
     },
     {
       "id": "dd3c21e1a9b7712f38b387e8fd2a69ef0e48dbab4f04a7c7c11d1aedada6c24c",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.604240+00:00"
+      "collected_at": "2026-06-14T13:25:32.281655+00:00"
     },
     {
       "id": "9c8c53872ca7ad19901aeb7a54b0ff3b157149ff50439ad9d963f4d28d2ac3ac",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.070620+00:00"
+      "collected_at": "2026-06-14T13:25:31.745933+00:00"
     },
     {
       "id": "1382cae7ae33030dae804c6ded630f33109ae310441fb3af0d0e89edecf6eecc",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:21.203060+00:00"
+      "collected_at": "2026-06-14T13:25:22.754826+00:00"
     },
     {
       "id": "801b786efc92db69dbf3157b307a617006b9c16156f0cabd9d2663138096714e",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.070466+00:00"
+      "collected_at": "2026-06-14T13:25:31.746009+00:00"
     },
     {
       "id": "485c990a47f65584ddc6665a1eaca19c6f7ca6e655f94f92150ea68119aaa7ca",
@@ -173,13 +207,13 @@
       "published": "2026-06-13T15:12:00+00:00",
       "published_raw": "Sat, 13 Jun 2026 15:12:00 GMT",
       "snippet": "Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.113528+00:00"
+      "collected_at": "2026-06-14T13:25:35.086161+00:00"
     },
     {
       "id": "6466553c10cfeb451a90a0b1e87dcc361ea2efbeb5646b53d90769a294aa451a",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:28.963514+00:00"
+      "collected_at": "2026-06-14T13:25:30.695746+00:00"
     },
     {
       "id": "c62b3534212b6eb272c2f564772c684312787276154cadef5ce77eabc655911a",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.626948+00:00"
+      "collected_at": "2026-06-14T13:25:21.168511+00:00"
     },
     {
       "id": "d773dcadd807ce2a8dce8bf39476711996c8f5fa9eb34f76a67ec4518bd14da6",
@@ -230,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:30.070548+00:00"
+      "collected_at": "2026-06-14T13:25:31.745853+00:00"
     },
     {
       "id": "c1af138881b6ca77eed28faec6ccaf16851560e7a6f2255a2523eba1611d8026",
@@ -247,41 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.113361+00:00"
-    },
-    {
-      "id": "68b67bdbe281c7c0b40b0b175b624e279554b8b56e0afa47b66b20895150a02c",
-      "title": "Ecovias Noroeste Paulista mantém obras em rodovias do interior neste sábado (13); domingo (14) será sem intervenções - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkFJUmFYQzlmRmZEVjVCR29nSkpua0U5UGd1VFVmYl9vbkV0dE5Lb29PNzBBclcwOUo5Z0hEdTlyVW9jUlJrMzFSMVE2Wnl6NVQ1ci1KREJXUm9JLXozYXVyNVhCeGZFY09VNFZ2ZDVZWWlVRVdQQlF3cVZWNU42bU9vb0tRbUJMVFVUbjJ4TEVkemltSkdoUFVRc2w4c09fOV84UUx4WUhncnBBMDdlb1FweU9hNTJESHZMaTJoeVV6U2l0NXU4WXFMOVNhUTlSN05wd1VJX2hfV014SFR0cXdqYW45eDBGRVkxRmhR0gHzAUFVX3lxTE13Mk9GR3VOY0hyQXBaZlRKZnB3aTU3TVFtT0NhdTUtRngwR3JrSHlMa3l6NW5adjFKLUdQOUpCUkw3ZDgwcXlwbUs2dV84ZEtKSk5HVXY5bmszVGNMck1uU190LWttNWs5YUQ4MThQMEN3R3VOcjFMQl9mV3FrM1RGS3ZIMGU1UHk0a2pKNGpVeWZoTXA0S3BQVlVIQ0ZfYTYyZTE4Rmdlb21ISmhNYUZMQVBjTXJ3bThyaGNmWmZhUHMzODRrNExIcmV3dUdIcDJZTzRKVjZ5ZkNzOXRVS2wzb1Y4RUVtdU50RzIydXRtNnltUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T13:07:30+00:00",
-      "published_raw": "Sat, 13 Jun 2026 13:07:30 GMT",
-      "snippet": "Ecovias Noroeste Paulista mantém obras em rodovias do interior neste sábado (13); domingo (14) será sem intervenções Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.113165+00:00"
-    },
-    {
-      "id": "22f851d2d4705ce04ae98d3cd2aff171183ec087bc46c8524d6ac350796fe061",
-      "title": "Carro capota após aquaplanagem na Washington Luís e deixa mãe e criança feridas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0thcHdiNUY1U2lmcDBKWVlsUktkQmZYMWpHaHhKcUtPTGQwdXZTdUtyZmpGcUZlcXY1eWplSFFocVdzbFdNSFNWeTgxcUIwN0RGNHRQX3RiYTNDUmRKa0JvU1cwdGRldGVlUW1NbGtSMEFmb0RFcEFPeVdPUkhla2lHYmI2RGREQ2ZvODhZbW15OG5rMm43N1J3WW9rQ3ZsZjhSZ3VVeHdodjR4REI2Sk9PMNIBswFBVV95cUxOY0thcHdiNUY1U2lmcDBKWVlsUktkQmZYMWpHaHhKcUtPTGQwdXZTdUtyZmpGcUZlcXY1eWplSFFocVdzbFdNSFNWeTgxcUIwN0RGNHRQX3RiYTNDUmRKa0JvU1cwdGRldGVlUW1NbGtSMEFmb0RFcEFPeVdPUkhla2lHYmI2RGREQ2ZvODhZbW15OG5rMm43N1J3WW9rQ3ZsZjhSZ3VVeHdodjR4REI2Sk9PMA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-13T11:44:59+00:00",
-      "published_raw": "Sat, 13 Jun 2026 11:44:59 GMT",
-      "snippet": "Carro capota após aquaplanagem na Washington Luís e deixa mãe e criança feridas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T11:22:19.113448+00:00"
+      "collected_at": "2026-06-14T13:25:20.641142+00:00"
     }
   ]
 }
