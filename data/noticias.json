@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T16:16:04.781710+00:00",
+  "updated_at": "2026-06-14T16:18:54.079728+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 8,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "dcf2d6fd02901816e475ce3757d8619cd1f26e8cc8a752a619731232a77ddb89",
+      "title": "Projeto do HU-UFSCar sobre tuberculose é selecionado no Rede HU+ - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlYxTHppb0d5U2xjRzR6cHhNakI5NnB1QmxXaTh1Nks3VmlaNlhBNU9kcWxPSUxOcHI0cV9tWGw4N0JHR3BrcUhwLXR4QUNUU2dDR1BkVnlmeTNDTTIwZUk3U216UGxHMkZFaV9RUGE3QktQZkF0Rm1hZWJsVUpqNXQtYXFrbXY4TXQ2d2lJOFA3Rmt3YkZXRFd3am5KdUlCbURBSm1aMC1DMzNpVG5oNEtreUg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T12:43:26+00:00",
+      "published_raw": "Sun, 14 Jun 2026 12:43:26 GMT",
+      "snippet": "Projeto do HU-UFSCar sobre tuberculose é selecionado no Rede HU+ Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-14T16:18:38.601535+00:00"
+    },
+    {
       "id": "dc8f3157bc929060d592d72a48b2ede683259bb1b507393e36786667a06c728d",
       "title": "Polícia Militar leva orientação sobre prevenção ao abuso sexual para alunos da APAE - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:49.183025+00:00"
+      "collected_at": "2026-06-14T16:18:38.601702+00:00"
     },
     {
       "id": "86dd78b142b4d633c5babae15b177f01ff0e948579ac58023c55f234434ba7c8",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:49.182718+00:00"
+      "collected_at": "2026-06-14T16:18:38.601330+00:00"
     },
     {
       "id": "5bef0b733fd2081eaf1287520573b85b666a488abbdd101b980e27dd2dc3182a",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:50.754843+00:00"
+      "collected_at": "2026-06-14T16:18:40.147639+00:00"
     },
     {
       "id": "0315cce4dd056c93217a978b112850389e788bdf95ce2895fed8fd11f69dd149",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:49.183104+00:00"
+      "collected_at": "2026-06-14T16:18:38.601782+00:00"
     },
     {
       "id": "2692f1b708e9dc223695b195dfdacb61347505aed915a20cd83a6e661073c4e2",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:49.182906+00:00"
+      "collected_at": "2026-06-14T16:18:38.601611+00:00"
     },
     {
       "id": "76f96a644ffe39514b635e87fb178540bb62a7a591e9abfaff1f71afb0c52af4",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:15:49.182818+00:00"
+      "collected_at": "2026-06-14T16:18:38.601434+00:00"
     },
     {
       "id": "dd3c21e1a9b7712f38b387e8fd2a69ef0e48dbab4f04a7c7c11d1aedada6c24c",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T16:16:00.674288+00:00"
+      "collected_at": "2026-06-14T16:18:50.053620+00:00"
     }
   ]
 }
