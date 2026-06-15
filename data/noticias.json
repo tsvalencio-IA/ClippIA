@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-15T14:54:43.839556+00:00",
+  "updated_at": "2026-06-15T17:10:29.348890+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 10,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,38 +46,72 @@
   ],
   "items": [
     {
-      "id": "b8ef143b2443bbb7ce922640140bd96a054037c813ab2179845f1a7ec80edeee",
-      "title": "Homem morre atropelado na Rodovia Washington Luís em SP - Correio do Povo Penedo",
-      "source": "Correio do Povo Penedo",
+      "id": "f0428fc0538fb483dbef19dd92f75497e314a0c7721fd24872d2b31741d526f1",
+      "title": "Ecovias Noroeste Paulista informa o cronograma de obras de 15/6 a 21/6/2026 - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkRKWTdtQ01rb2JDUkpubzd4ejRyaGE3LU5XZ0RkUjFkSENQQW9IRDRQeS1Ddnd3TWJ4cGdjdVg3U3FfdVBrSG8yVHJZXzQweEl3UDFqNnlWTGlMTl90S3k1OVd5SmY0TkhFZ0xVdFpWYXExSTBKMll4MkNvUk5KeXIwWUhDTmtGWVlaYVFlUEZMWkp3NGc1SDVBNC1GeUVRRDZ1X0NhaFjSAa4BQVVfeXFMUDZ2UU5mM0NXWGV2TkZENk1HUzdNRldZd1FXX2JxbTNYV2JPM3kyWmlwR0VkanlqVW9SSUxYdmZPZ2o2WHpwbmlWazNGcjZoSnViVTJuOWQ3V0Y0d1NpS3JGQUo3YjZ2bGVkWWlTSjZvVDZLN3VzQk02aFA0aFpOVGRyX296LUNILWt5X2hCS0VHOW1FMkFubEs2SjNTdmpSTXlDQzhIMTdVQjNlaFNn?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-15T15:40:27+00:00",
+      "published_raw": "Mon, 15 Jun 2026 15:40:27 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa o cronograma de obras de 15/6 a 21/6/2026 - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T17:10:12.860195+00:00"
+    },
+    {
+      "id": "f66ef687b230c1ff6cb67ba7ad5d872a49800bbf78ab4284376c60048ac60169",
+      "title": "Homem morre atropelado na Rodovia Washington Luís em SP - Correio do Povo AL",
+      "source": "Correio do Povo AL",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEU0a0oyendBX2VjZGtocEZrUWxSQUpBd0tXMkU1eWtCRkhvQWItSlZ4OWxkRHEwQXFwcnZkOUF0emktSnhHaWNITEF5SERoS2RTY0ktVnJ4MC16eHNSRVIwRG9ZdWp6TlNuTTdya0lWSU1VdDYwbklGV1lDa2QwLUxHX21va3M3QVFLaU1CREs1LVlYbm90UXB0SzRIaE1PRnBXMlFGN0twUQ?oc=5",
       "resolved_link": "",
       "published": "2026-06-15T13:37:02+00:00",
       "published_raw": "Mon, 15 Jun 2026 13:37:02 GMT",
-      "snippet": "Homem morre atropelado na Rodovia Washington Luís em SP Correio do Povo Penedo",
+      "snippet": "Homem morre atropelado na Rodovia Washington Luís em SP Correio do Povo AL",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.341129+00:00"
+      "collected_at": "2026-06-15T17:10:12.860404+00:00"
     },
     {
       "id": "a39067c7a060340ff1f11e4b5b568a6178712d0d7f8a950fdce55a1174a72166",
       "title": "Homem morre atropelado por carro na Rodovia Washington Luís no interior de SP - G1",
       "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZi1sN3I1bFNnSzlSOU5pOFV0NUtsRXd6X0luTmZzQ1JqQ2dnWXRhMFhRU3pFX2V0eTAwdlFMUEtydGtPSDV4TU1jN3l3MWhya1lndEs2THNEUlk5TVR4U29la2YzdGFxdk05MjU0dnFWMjRScjBIeGJWWHhDM0xYQ3hPS1JCM0stN2o5QThDWkY4M0dtWGhtbk1mMmFYelZ1TmVTNjhLYTNCOERZbGtkemVGNkVkajBUNm1hTXVwcFFpWjgxUDFIaEl5eXZDa2p3U0hUOWlmTlZIb3Fv0gHrAUFVX3lxTE9SWWF6cmxlVWg0VjJOUXg2VDM1M0M4YmJQSFJmVTA4TGhyRkN3Z1cwckUxR0F2MExVRFQ0ZTRBOG9jY0YtbnhqQXptbEdoQkNwWnBVYV82eGJaUkNyRDV3YnlzLVhxeFhqb2FickJkV2hvQ2pvdjQ0UWQtYmJ2ekdBUURacE1IY1pEMDctVWMxZ0xFZ2pFSWNnR0Y1WElkSHdSTlBVMEg3UkFpclNmb09UUWpFd29rWGxVTDN1MHgzaWx0cm5lTHozcHdiRGNKR3FVemRYcTlKMjIzRzVDMXUyR3BVQUNiWFF1SWM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUllhenJsZVVoNFYyTlF4NlQzNTNDOGJiUEhSZlUwOExockZDd2dXMHJFMUdBdjBMVURUNGU0QThvY2NGLW54akF6bWxHaEJDcFpwVWFfNnhiWlJDckQ1d2J5cy1YcXhYam9hYnJCZFdob0Nqb3Y0NFFkLWJidnpHQVFEWnBNSGNaRDA3LVVjMWdMRWdqRUljZ0dGNVhJZEh3Uk5QVTBIN1JBaXJTZm9PVFFqRXdva1hsVUwzdTB4M2lsdHJuZUx6M3B3YkRjSkdxVXpkWHE5SjIyM0c1QzF1MkdwVUFDYlhRdUlj0gHrAUFVX3lxTE9SWWF6cmxlVWg0VjJOUXg2VDM1M0M4YmJQSFJmVTA4TGhyRkN3Z1cwckUxR0F2MExVRFQ0ZTRBOG9jY0YtbnhqQXptbEdoQkNwWnBVYV82eGJaUkNyRDV3YnlzLVhxeFhqb2FickJkV2hvQ2pvdjQ0UWQtYmJ2ekdBUURacE1IY1pEMDctVWMxZ0xFZ2pFSWNnR0Y1WElkSHdSTlBVMEg3UkFpclNmb09UUWpFd29rWGxVTDN1MHgzaWx0cm5lTHozcHdiRGNKR3FVemRYcTlKMjIzRzVDMXUyR3BVQUNiWFF1SWM?oc=5",
       "resolved_link": "",
       "published": "2026-06-15T12:50:07+00:00",
       "published_raw": "Mon, 15 Jun 2026 12:50:07 GMT",
       "snippet": "Homem morre atropelado por carro na Rodovia Washington Luís no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.341169+00:00"
+      "collected_at": "2026-06-15T17:10:12.860333+00:00"
+    },
+    {
+      "id": "d2b1467541f7134f07125f054ccf6e55e073b2bd648790e3a7117192cecac7f2",
+      "title": "Aos 66 anos, doador realiza sua 52ª doação no Banco de Sangue da Santa Casa - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2dGc1lhM09fNW5KRzNkV2ptcmZCekNFbGxzb01RT0Z1Q1JnYVlpUzl1ZEw5SVpfRnJDNWx2T29zcjNDcEVEWDItS2x3V3JwaFlJT2lXX2gwR1dkN0NaMV9HRjBCR2RFOHFIQXZuR0ZUZ2dHU2NCMm1aX3hlWlJrRXZzX2NaYk1YTVhqTUdMX2p6QkpBUVVtV1R5cUk1MkJteWhScEVUTXIwcDFUTm5jYS1rU2ZnOEFjZ0JUaGp3?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-15T12:18:34+00:00",
+      "published_raw": "Mon, 15 Jun 2026 12:18:34 GMT",
+      "snippet": "Aos 66 anos, doador realiza sua 52ª doação no Banco de Sangue da Santa Casa Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T17:10:12.860484+00:00"
     },
     {
       "id": "1ff5fc4ec09fe83fb27f999fd56ecb8950cf478a3de5185714abd748eb867510",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:29.014161+00:00"
+      "collected_at": "2026-06-15T17:10:14.530025+00:00"
     },
     {
       "id": "8acb4521b52774d7a0cc232ca6379d58d2233b896cd927d05fc02095be0d7fb1",
@@ -105,13 +139,13 @@
       "published": "2026-06-15T09:08:48+00:00",
       "published_raw": "Mon, 15 Jun 2026 09:08:48 GMT",
       "snippet": "Diocese de São Carlos promove a 1ª Feira do Livro Católico em agosto - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.341215+00:00"
+      "collected_at": "2026-06-15T17:10:12.860621+00:00"
     },
     {
       "id": "9f8596c0ea100f10369d9b639ff4314cd636e8400bf361664d93b7deb2356a4a",
@@ -128,7 +162,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.884880+00:00"
+      "collected_at": "2026-06-15T17:10:13.431644+00:00"
+    },
+    {
+      "id": "b7c30a0f6ab39995e693a3c02172657e7ec1e68ed5519fdd37ff99fd5517d215",
+      "title": "Começam obras da terceira faixa da Washington Luís entre Rio Preto e Cedral - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dPWVM5d0daejhLRlZITm1LenFhaHpVZjBPbmg3QU1PcWkzS00zTWgwQno4bUlaLS1wQTZuMXJFeHZCNDhwQWZHNG9NYW4wdnh2Q01Jd0Q4VFN0YlQwaHpjZjdUWmgzVkpuaTNPQUZ4aklNZkZYcFh1ZWpFdW5lSnVwRENZUlBvc2RDd1haVGx0VTZMNEhvUmpYUVVGMXVaSTA0dkxVRXh6NXlMTmc?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T20:57:29+00:00",
+      "published_raw": "Sun, 14 Jun 2026 20:57:29 GMT",
+      "snippet": "Começam obras da terceira faixa da Washington Luís entre Rio Preto e Cedral O Regional",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T17:10:14.529776+00:00"
+    },
+    {
+      "id": "91614c5c82f9b648dd26f7d646c98bb0446b6512cff94f6cae12c31c96f3a5c3",
+      "title": "Rodovia Washington Luís ganha 10 km de terceiras faixas e libera viadutos na região - redeutv.com.br",
+      "source": "redeutv.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkFpN2pjOWNzdWw3VGkzZHdkNWxndE1sOXJNSFNHdjR6bFJ1RTRjQ1FxTVQtaWVhdzBiNEY2aVN2YUliWHEwVUxWelladDgwWWtmWFpqSERDSV9lTU5CZWh6eHg2SWwtamV1UlNyRVk4WEVFUHo2Znh2M0hlN0ZPX29hd0c4MjdYd21GbERnejRQRVNDS0xiVE9YZ2J3UTltcXN6VWZJanlLUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T18:10:00+00:00",
+      "published_raw": "Sun, 14 Jun 2026 18:10:00 GMT",
+      "snippet": "Rodovia Washington Luís ganha 10 km de terceiras faixas e libera viadutos na região redeutv.com.br",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T17:10:12.860550+00:00"
     },
     {
       "id": "cac9c639ce92dfcb1d347a509d7ef04b9eaaa0eb23430bb0cb41707f3d0878c8",
@@ -139,47 +207,13 @@
       "published": "2026-06-14T17:59:27+00:00",
       "published_raw": "Sun, 14 Jun 2026 17:59:27 GMT",
       "snippet": "Rodovia Washington Luís ganha 10 km de terceiras faixas e libera viadutos na região G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.341074+00:00"
-    },
-    {
-      "id": "ba70cf60abce8e3611d5e597e7eadaa78343185cb72b2517ef99f3a3232f44c7",
-      "title": "Tragédia aérea: Colisão entre helicópteros deixa seis mortos e provoca incêndio no Rio de Janeiro - São - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ21GYUFjc20zMjBqdWJzRElIWEtTLU1KNGZtSU1PSWhZbzZXVzkzUkVlQkg0RzFQSGFWRXItVVZxbnVjem9qQWQ5TFRwcWpGOVowcHBfNFhlWm9ZUUlXM2xRSHEyVDZKd0hrQ2YzbzhOQmJtX3hTVkdGd1NSV2QxUjBoRGNVQU9MWTZvWkw0TUFZNHRPS2I3NEJEbkpFc1FTQ3J2OHFzZ3J1NDRZYWo5ZnlFMVhxZ2V0MElfYnVPcmtEUTJvOEFHYThn0gHKAUFVX3lxTE1DbUZhQWNzbTMyMGp1YnNESUhYS1MtTUo0Zm1JTU9JaFlvNldXOTNSRWVCSDRHMVBIYVZFci1VVnFudWN6b2pBZDlMVHBxakY5WjBwcF80WGVab1lRSVczbFFIcTJUNkp3SGtDZjNvOE5CYm1feFNWR0Z3U1JXZDFSMGhEY1VBT0xZNm9aTDRNQVk0dE9LYjc0QkRuSkVzUVNDcnY4cXNncnU0NFlhajlmeUUxWHFnZXQwSV9idU9ya0RRMm84QUdhOGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-14T15:34:45+00:00",
-      "published_raw": "Sun, 14 Jun 2026 15:34:45 GMT",
-      "snippet": "Tragédia aérea: Colisão entre helicópteros deixa seis mortos e provoca incêndio no Rio de Janeiro - São São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-15T14:54:27.341286+00:00"
-    },
-    {
-      "id": "05a8e637d1d8c75b586fe72e7a1216a809e1e7579831b32aa84aec230591398c",
-      "title": "Pedágio eletrônico começa fase de testes no Sistema Anchieta-Imigrantes - CenárioMT",
-      "source": "CenárioMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMjJzQml3NlU5N0R3X3VGUlZ2MXdEYzFGdWc4VXBhMEVIcjRlaWNBNzlOSk1JZUQ1YUl0amFDcmkzN25XOW5wa3dndXdWR3hjVGJ5Z0swTHdlYkZVaVhjVjlPMXExY1RFMVBzajVTM3ZrdEhlcVJaVHQ2SmtFRXNSazdyR0huczU0VHhQTEJsYktwbVRCNEMydkpWUGRYbzlRaHdBU2VHV0ZreGVF?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-14T15:14:23+00:00",
-      "published_raw": "Sun, 14 Jun 2026 15:14:23 GMT",
-      "snippet": "Pedágio eletrônico começa fase de testes no Sistema Anchieta-Imigrantes CenárioMT",
-      "term": "\"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T14:54:29.014190+00:00"
+      "collected_at": "2026-06-15T17:10:14.529958+00:00"
     }
   ]
 }
