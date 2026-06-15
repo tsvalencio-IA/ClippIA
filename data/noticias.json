@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-14T22:05:56.498499+00:00",
+  "updated_at": "2026-06-15T02:38:17.759241+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 8,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "9f8596c0ea100f10369d9b639ff4314cd636e8400bf361664d93b7deb2356a4a",
+      "title": "Homem fica gravemente ferido após tentar atravessar a Washington Luís e ser atropelado - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2UwQlJ6NkRtYWhqakhVekpyTWxxajk1T3h5QWFmOW5XSUpObFpUUW1vZlQ4R0Uxa1VxV3BwX0ZDR254UUYyZExyM3hDNW1xUFhiLUFWOUlOTzVkVHVlUDdUcXd6UjZkTTZqeTQ4OUVMenVvMDFTM2RCSkI3MWhSR3BrNnJldVJQd1JsQW01ZUJTM0NWdWo2RDZfRVQtTTYzVTdQT00xTEttU3A2Sk1CZl9HTnRPbEtXMUxWb2RNTEZMaFHSAb8BQVVfeXFMTUlFaFAzR2hNN2FxS1l6N1NGNEhjaFFIdjFkeFV2VzhMb1NBQXhKcmE3X0JZeVcxQmEta1RHRjRpRGFxbzF2Zk1nQkdMTXVkaUhOb0ZveEo2TnJ2UGY5LTJ1eDZSVGdkTzF0MnZ3UHNORUEwWGh1MDdrTkZ1TUtFNGZLaHZ4Zm04eTlGTTlIa3hzNmRuRF9XR0NJdk5Md0dxSGdHSS11T0wyNzBJVW8xYk9peWVhVTNWZ2R5NDFYakE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-14T22:52:00+00:00",
+      "published_raw": "Sun, 14 Jun 2026 22:52:00 GMT",
+      "snippet": "Homem fica gravemente ferido após tentar atravessar a Washington Luís e ser atropelado São Carlos Agora",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T02:37:59.679028+00:00"
+    },
+    {
       "id": "cac9c639ce92dfcb1d347a509d7ef04b9eaaa0eb23430bb0cb41707f3d0878c8",
       "title": "Rodovia Washington Luís ganha 10 km de terceiras faixas e libera viadutos na região - G1",
       "source": "G1",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:40.299291+00:00"
+      "collected_at": "2026-06-15T02:37:58.994312+00:00"
     },
     {
       "id": "ba70cf60abce8e3611d5e597e7eadaa78343185cb72b2517ef99f3a3232f44c7",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:40.299451+00:00"
+      "collected_at": "2026-06-15T02:37:58.994500+00:00"
     },
     {
       "id": "05a8e637d1d8c75b586fe72e7a1216a809e1e7579831b32aa84aec230591398c",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:45.247256+00:00"
+      "collected_at": "2026-06-15T02:38:04.767685+00:00"
     },
     {
       "id": "89a560751972e9f3c1f80ada1ae70a93a8df20a00bf6e86b11aacad04d8d087b",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:40.299522+00:00"
+      "collected_at": "2026-06-15T02:37:58.994581+00:00"
     },
     {
       "id": "34f4b9fd991e2337a247baf61fb0b4592037f9adb366647176e59fc8a549b782",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:40.299197+00:00"
+      "collected_at": "2026-06-15T02:37:58.994178+00:00"
     },
     {
       "id": "dc8f3157bc929060d592d72a48b2ede683259bb1b507393e36786667a06c728d",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:40.299376+00:00"
+      "collected_at": "2026-06-15T02:37:58.994415+00:00"
     },
     {
       "id": "5bef0b733fd2081eaf1287520573b85b666a488abbdd101b980e27dd2dc3182a",
@@ -156,47 +173,13 @@
       "published": "2026-06-14T11:37:46+00:00",
       "published_raw": "Sun, 14 Jun 2026 11:37:46 GMT",
       "snippet": "Tragédia na rodovia: colisão frontal mata duas pessoas em Monte Alto Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-323\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-323\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-14T22:05:51.144971+00:00"
-    },
-    {
-      "id": "0315cce4dd056c93217a978b112850389e788bdf95ce2895fed8fd11f69dd149",
-      "title": "Policial militar rodoviário de 25 anos morre após capotamento de viatura em rodovia de Matão - Passando a Régua",
-      "source": "Passando a Régua",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVNBWjU2NDFGcV9NRmx3SDM0ZUtrNmMwbDZpN0R6WDZaU2lzVHplQ3ZlMHRmUTVVbV9peTBBSno2cG1yNXJzYUt1TmtCZk11LXg3QjZ4bGRzVDRGMzdHUVFQZzRPR3dRM21IY2lsanJIQlNrQXVUazZxbDh0NzVRTExzcEJUSG5YWS12UWFMdGpVTXU1aWViSzVETlQ2anV6ZXRFZjBadzhvNmthRWdEeHZxd1lrbHFsVlpiX2s3V3BzQm1GMlMyRFNPZk1jUVV3dmVMNEZlSQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-14T02:04:00+00:00",
-      "published_raw": "Sun, 14 Jun 2026 02:04:00 GMT",
-      "snippet": "Policial militar rodoviário de 25 anos morre após capotamento de viatura em rodovia de Matão Passando a Régua",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T22:05:51.727737+00:00"
-    },
-    {
-      "id": "2692f1b708e9dc223695b195dfdacb61347505aed915a20cd83a6e661073c4e2",
-      "title": "Policial de Pontes Gestal morre após capotamento de viatura durante serviço - Tanabi Noticias",
-      "source": "Tanabi Noticias",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHZKeklHYkMwOE1ZSDFlekxTdlgwQVUxRXhDRk9BOUZqYXdUcWVDVjBBTzB3TG9ZRFR5bU5kX1JfVFE2Tlk2c0VZMTIzWHBZZXBpNklYTWptek9Mb0RnRkxSTC03aVJEWTA0eVdVN1p2ajE1Sk9aWTRPbEcxNW9FdHpPbk9MU2MwS2pIdHJxdWVmb1oxZzAtZmR2anlmOGswZmVLRHFCMUZXUkFERVdjbHlITEN2T1FvTVRtNzAyRQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-14T00:53:00+00:00",
-      "published_raw": "Sun, 14 Jun 2026 00:53:00 GMT",
-      "snippet": "Policial de Pontes Gestal morre após capotamento de viatura durante serviço Tanabi Noticias",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-14T22:05:51.727607+00:00"
+      "collected_at": "2026-06-15T02:38:00.994177+00:00"
     }
   ]
 }
