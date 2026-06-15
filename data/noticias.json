@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-15T08:47:33.232899+00:00",
+  "updated_at": "2026-06-15T11:55:50.568563+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "1ff5fc4ec09fe83fb27f999fd56ecb8950cf478a3de5185714abd748eb867510",
+      "title": "Pedestre é atropelado e morre na Washington Luís em São Carlos - Grupo Rio Claro, São Paulo",
+      "source": "Grupo Rio Claro, São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVThGeGhTcUNmblpPQWFLLXBYTkNxT2VYU2pWWEs0cS1kcTZxOGNsV2RMOFpTZTNBZFlLY0kwZkhkTnVwUWlkSDhhOGlYRXh6ZlNSNUpNb1k1dkxHM015V1BEOHo2S0VMTmdCd0lCbkZQSHRSeWhvd3dtblFBb0dfYk0xSU54Sl9nTVF6QlFoOUxSZjg2WUZSZE9EaFJ5cWNYRUlfbTBGWmJwMDZV?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-15T09:48:16+00:00",
+      "published_raw": "Mon, 15 Jun 2026 09:48:16 GMT",
+      "snippet": "Pedestre é atropelado e morre na Washington Luís em São Carlos Grupo Rio Claro, São Paulo",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T11:55:36.641871+00:00"
+    },
+    {
+      "id": "8acb4521b52774d7a0cc232ca6379d58d2233b896cd927d05fc02095be0d7fb1",
+      "title": "Diocese de São Carlos promove a 1ª Feira do Livro Católico em agosto - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZG1pS0RfZGI4WTBfelNOT0thVk1RZmJ2UEFEcTFzNWRjTE5BNmwxQTY1RmNpLXlsbVVQX2FKUHBXNmdXYTFfOXJjWDFPRVZMLU4tdzFVU3JmdjFzRFRqRUx1b19QUEFxU091V0lRMXhJQjNncTdHZ3VQVjREdV81bkg1Q2VjWXhiQ1ByWk0yODNOTTc1WDVPWVM1aTRqTlljM0hKTtIBpAFBVV95cUxQZG1pS0RfZGI4WTBfelNOT0thVk1RZmJ2UEFEcTFzNWRjTE5BNmwxQTY1RmNpLXlsbVVQX2FKUHBXNmdXYTFfOXJjWDFPRVZMLU4tdzFVU3JmdjFzRFRqRUx1b19QUEFxU091V0lRMXhJQjNncTdHZ3VQVjREdV81bkg1Q2VjWXhiQ1ByWk0yODNOTTc1WDVPWVM1aTRqTlljM0hKTg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-15T09:08:48+00:00",
+      "published_raw": "Mon, 15 Jun 2026 09:08:48 GMT",
+      "snippet": "Diocese de São Carlos promove a 1ª Feira do Livro Católico em agosto - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-15T11:55:44.943361+00:00"
+    },
+    {
       "id": "faa53700ed1318140a95e3f1f3940a9529c59b4d976e67843dd6825f7f59364d",
       "title": "CazéTV supera Globo e SBT e bate recorde histórico de audiência na estreia do Brasil na Copa - São Carlos no - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -54,13 +88,13 @@
       "published": "2026-06-15T05:27:15+00:00",
       "published_raw": "Mon, 15 Jun 2026 05:27:15 GMT",
       "snippet": "CazéTV supera Globo e SBT e bate recorde histórico de audiência na estreia do Brasil na Copa - São Carlos no São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924714+00:00"
+      "collected_at": "2026-06-15T11:55:35.064804+00:00"
     },
     {
       "id": "9f8596c0ea100f10369d9b639ff4314cd636e8400bf361664d93b7deb2356a4a",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:17.482889+00:00"
+      "collected_at": "2026-06-15T11:55:35.584814+00:00"
     },
     {
       "id": "cac9c639ce92dfcb1d347a509d7ef04b9eaaa0eb23430bb0cb41707f3d0878c8",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924540+00:00"
+      "collected_at": "2026-06-15T11:55:35.064613+00:00"
     },
     {
       "id": "ba70cf60abce8e3611d5e597e7eadaa78343185cb72b2517ef99f3a3232f44c7",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924792+00:00"
+      "collected_at": "2026-06-15T11:55:35.064919+00:00"
     },
     {
       "id": "05a8e637d1d8c75b586fe72e7a1216a809e1e7579831b32aa84aec230591398c",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:21.906802+00:00"
+      "collected_at": "2026-06-15T11:55:39.758514+00:00"
     },
     {
       "id": "89a560751972e9f3c1f80ada1ae70a93a8df20a00bf6e86b11aacad04d8d087b",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924872+00:00"
+      "collected_at": "2026-06-15T11:55:35.065007+00:00"
     },
     {
       "id": "34f4b9fd991e2337a247baf61fb0b4592037f9adb366647176e59fc8a549b782",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924450+00:00"
+      "collected_at": "2026-06-15T11:55:35.064482+00:00"
     },
     {
       "id": "dc8f3157bc929060d592d72a48b2ede683259bb1b507393e36786667a06c728d",
@@ -179,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-15T08:47:16.924629+00:00"
-    },
-    {
-      "id": "5bef0b733fd2081eaf1287520573b85b666a488abbdd101b980e27dd2dc3182a",
-      "title": "Tragédia na rodovia: colisão frontal mata duas pessoas em Monte Alto - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2FQbjdkMVJVemlVMENKMDdQWThLRzFCdXdzX3FwOFlpUEUtZzEycDhmTENsZF81TmhmM2twSUtpc3M0OHJtaXlQSFducGs4LXVERmtIMi1PdVVBaHVRMmFaWnhUV3J6UXNiYm5OeEV5b2FmVm5TV0xEUnJtQm9fS1FtZnhXanNyZEVEUkQ5RzRQU1QwR3FYYUpfMEdSa1d4Y19leFB4TUNzSnJwVUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-14T11:37:46+00:00",
-      "published_raw": "Sun, 14 Jun 2026 11:37:46 GMT",
-      "snippet": "Tragédia na rodovia: colisão frontal mata duas pessoas em Monte Alto Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-323\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-15T08:47:27.906393+00:00"
+      "collected_at": "2026-06-15T11:55:35.064716+00:00"
     }
   ]
 }
