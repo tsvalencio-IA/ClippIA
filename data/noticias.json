@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-16T02:39:47.251261+00:00",
+  "updated_at": "2026-06-16T03:38:47.969076+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 16,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "f26af9ec329e54f11eb831b60d4c16f8dd84b2cd178d8b46c76095d56789d923",
+      "title": "Gaudí assina campanha do Pedágio Anchieta-Imigrantes - Grandes Nomes da Propaganda",
+      "source": "Grandes Nomes da Propaganda",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtlQ2F5UW9CVGFxNUVTUVQyVkx1YTg1U3V1NkJqQTlPSFR1eVBDWVVsRWxieVhTdkZ3WnJLXzVyd3NrZzBqVUlKa1d1eTlCbXNpN2wyaWRPdFRNQnZSWi11VHFYaXoycGZhNEZSdWRNNkFHWFhra3FxLUpmRjNxMTdqV1dSZUhqckpLV04yWHQ0eVFJYTNmUTAySVBUYzdDS2d3RQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-16T02:50:47+00:00",
+      "published_raw": "Tue, 16 Jun 2026 02:50:47 GMT",
+      "snippet": "Gaudí assina campanha do Pedágio Anchieta-Imigrantes Grandes Nomes da Propaganda",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-16T03:38:29.091679+00:00"
+    },
+    {
       "id": "f9f3dec2734e8343312bd9e899ef12b61f1c4fb61e8787a900581f83af01c7e2",
       "title": "São Carlos recebe ação de segurança para motociclistas com instalação gratuita de antenas corta-pipa - São Carlos Agora",
       "source": "São Carlos Agora",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655952+00:00"
+      "collected_at": "2026-06-16T03:38:29.092097+00:00"
     },
     {
       "id": "b9516cfcf2004c22ab994e6a809f51e52101f60b1ea4fd28a61ee432c3ef8c75",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655544+00:00"
+      "collected_at": "2026-06-16T03:38:29.091775+00:00"
     },
     {
       "id": "d5db67410957f9870f3fcd0b8f643ae61b79aaaa9251574d6ff86195b0958356",
@@ -88,13 +105,13 @@
       "published": "2026-06-15T18:54:19+00:00",
       "published_raw": "Mon, 15 Jun 2026 18:54:19 GMT",
       "snippet": "Obras na rodovia Washington Luís podem causar interdições e lentidão entre Rio Preto e Cedral (SP) nesta semana gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655800+00:00"
+      "collected_at": "2026-06-16T03:38:41.189980+00:00"
     },
     {
       "id": "ca590cd9c4b704424abd5066e4a4814a35ca5d53a590d2ab49f8fd1da6d5c9f3",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:41.188104+00:00"
+      "collected_at": "2026-06-16T03:38:41.190127+00:00"
     },
     {
       "id": "00743cdeeebdefb30909917384baad0fc5dee53f94316c9fd3d628aa53f886c0",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655638+00:00"
+      "collected_at": "2026-06-16T03:38:29.091862+00:00"
     },
     {
       "id": "c9e5b6878a3e444b104658d471087ba06bbad72cc012b77a71c1c92fe4d4454a",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655872+00:00"
+      "collected_at": "2026-06-16T03:38:29.092018+00:00"
     },
     {
       "id": "1809819d76be56e09191d3a8c2c299eada44178254f151a19fe9023cea81cfa5",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:42.331672+00:00"
+      "collected_at": "2026-06-16T03:38:42.490247+00:00"
     },
     {
       "id": "563d8218fd6dcdc0dbfa866276b425b01ca2d8a3e74adfdbcee41762a679c5dd",
@@ -173,13 +190,13 @@
       "published": "2026-06-15T16:19:30+00:00",
       "published_raw": "Mon, 15 Jun 2026 16:19:30 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 15/6 a 21/6/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655424+00:00"
+      "collected_at": "2026-06-16T03:38:30.946979+00:00"
     },
     {
       "id": "f0428fc0538fb483dbef19dd92f75497e314a0c7721fd24872d2b31741d526f1",
@@ -190,13 +207,13 @@
       "published": "2026-06-15T16:17:31+00:00",
       "published_raw": "Mon, 15 Jun 2026 16:17:31 GMT",
       "snippet": "Ecovias Noroeste Paulista informa o cronograma de obras de 15/6 a 21/6/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:32.332963+00:00"
+      "collected_at": "2026-06-16T03:38:29.091590+00:00"
     },
     {
       "id": "12629f52e82d0eb6f1034c8827ff75ac76d5042bb45fef68f8d37d2e8baa96c1",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:30.655720+00:00"
+      "collected_at": "2026-06-16T03:38:29.091944+00:00"
     },
     {
       "id": "b8ef143b2443bbb7ce922640140bd96a054037c813ab2179845f1a7ec80edeee",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:42.331745+00:00"
+      "collected_at": "2026-06-16T03:38:42.490359+00:00"
     },
     {
       "id": "a39067c7a060340ff1f11e4b5b568a6178712d0d7f8a950fdce55a1174a72166",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:41.187649+00:00"
+      "collected_at": "2026-06-16T03:38:41.189598+00:00"
     },
     {
       "id": "d2b1467541f7134f07125f054ccf6e55e073b2bd648790e3a7117192cecac7f2",
@@ -264,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:44.617435+00:00"
+      "collected_at": "2026-06-16T03:38:45.244024+00:00"
     },
     {
       "id": "1ff5fc4ec09fe83fb27f999fd56ecb8950cf478a3de5185714abd748eb867510",
@@ -281,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:41.748883+00:00"
+      "collected_at": "2026-06-16T03:38:41.869428+00:00"
     },
     {
       "id": "8acb4521b52774d7a0cc232ca6379d58d2233b896cd927d05fc02095be0d7fb1",
@@ -298,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T02:39:41.187883+00:00"
+      "collected_at": "2026-06-16T03:38:41.189885+00:00"
     }
   ]
 }
