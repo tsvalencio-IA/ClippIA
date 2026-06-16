@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-16T20:45:48.495487+00:00",
+  "updated_at": "2026-06-16T22:50:20.490559+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "24cf87c600d9380c501e424583250b1c5523106643a1276eb2cde6335c10197f",
+      "title": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnZhYzg0VTdoV2lpcWNEVDJuZ3Uwem8tdzV1ZktXSGU0NGQyNVpYN3c0cnU4eTZkYnpXY0xNREZ5NU1pQUtBNm1MOXVRWm1HS3dVVnBXWk85YWd0QXJzOWFOWFlRSnJlZmEweGhTLU93akhiV1VETEdOdFpGbnVZOVJLLXJRdnhiUF9Rb1B4dzJmdHRIQjN0b1NWZHMyWjc3UlRYeFQ2R3U5Z0dhOFQ1cWFEX3R2akVQcV8ySjVn?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-16T19:38:18+00:00",
+      "published_raw": "Tue, 16 Jun 2026 19:38:18 GMT",
+      "snippet": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 odefensor.com.br",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-16T22:50:03.653775+00:00"
+    },
+    {
+      "id": "64f6875ba3a41cdddb1f8e513f8889bb566b463679c1bbbc90c593a9e79812cf",
+      "title": "Empreendedorismo: Organização e primeiros clientes são apontados como base para o crescimento dos pequenos e médios negócios - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNLUdsZVNZODFlZXc3OEZLb1VyMERLQ1FzR2pXRkJtMWNSbUEzUXhXX1VHN3hDQTNyU2NhVWxkN1h0ZWNpbDVpbDFZZVBObm12Z3lvaTRvZTRzRW1ZMHBPSVNkR3oxZXpSS1BKclVlZ3pZcEd1Z3UzNDg1cURoZENYdUl6SVQyY3ZTZ0lqcVhrSVJuSTJVQ3VkSkdJYlVEUUE1MjNzVXZTU0RZODBKVmF4dTU5SXpjX0lTTDRGQ0RnbjlTS1RLU0dWSTR5QUI3cEFSNWYyMEgxSXhwUWU0U0xqcw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-16T18:30:56+00:00",
+      "published_raw": "Tue, 16 Jun 2026 18:30:56 GMT",
+      "snippet": "Empreendedorismo: Organização e primeiros clientes são apontados como base para o crescimento dos pequenos e médios negócios odefensor.com.br",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-16T22:50:17.823410+00:00"
+    },
+    {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
@@ -60,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.811768+00:00"
-    },
-    {
-      "id": "24cf87c600d9380c501e424583250b1c5523106643a1276eb2cde6335c10197f",
-      "title": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnZhYzg0VTdoV2lpcWNEVDJuZ3Uwem8tdzV1ZktXSGU0NGQyNVpYN3c0cnU4eTZkYnpXY0xNREZ5NU1pQUtBNm1MOXVRWm1HS3dVVnBXWk85YWd0QXJzOWFOWFlRSnJlZmEweGhTLU93akhiV1VETEdOdFpGbnVZOVJLLXJRdnhiUF9Rb1B4dzJmdHRIQjN0b1NWZHMyWjc3UlRYeFQ2R3U5Z0dhOFQ1cWFEX3R2akVQcV8ySjVn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T18:06:44+00:00",
-      "published_raw": "Tue, 16 Jun 2026 18:06:44 GMT",
-      "snippet": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 odefensor.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.811691+00:00"
+      "collected_at": "2026-06-16T22:50:03.653857+00:00"
     },
     {
       "id": "38075a537fe65e49869ab382281ee25e6f6a0f2979de50605f905caf0eb8319f",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.812195+00:00"
+      "collected_at": "2026-06-16T22:50:03.654359+00:00"
     },
     {
       "id": "f388ede0c9cfe82cbc95eb651793ff84bf0080ba80ca299eca1c10b069b07502",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.811946+00:00"
+      "collected_at": "2026-06-16T22:50:03.654058+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.811839+00:00"
+      "collected_at": "2026-06-16T22:50:03.654001+00:00"
     },
     {
       "id": "f6201c2d8943c74847c7eb7181da0a884624a2c99dc9a5d2b8fb6efc55b38565",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:33.507310+00:00"
+      "collected_at": "2026-06-16T22:50:05.371666+00:00"
     },
     {
       "id": "857dee112b6f1c440ce64424a25572bd27d2227844e96694460f8fba8ec420c5",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.812133+00:00"
+      "collected_at": "2026-06-16T22:50:03.654287+00:00"
     },
     {
       "id": "4bf3f5b25014dbafa95faa44486541cc3549fdabd8b44f912f06de9edc584352",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.812032+00:00"
+      "collected_at": "2026-06-16T22:50:03.654198+00:00"
     },
     {
       "id": "f26af9ec329e54f11eb831b60d4c16f8dd84b2cd178d8b46c76095d56789d923",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-16T20:45:31.811897+00:00"
+      "collected_at": "2026-06-16T22:50:03.653931+00:00"
     }
   ]
 }
