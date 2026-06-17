@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-17T17:43:51.210712+00:00",
+  "updated_at": "2026-06-17T19:57:24.628688+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 2,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "126b1305e6135476ba81ac8e9ca568e40d8f09267bba758a472de4c2e6ed8e0a",
+      "title": "Ecovias inicia ampliação de ponte na Washington Luís em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0V1bFUwVGVkRU0wUk9wVWxrOHdxa1Z4WlprYUtrMXNXQTFXbzRCZ0prZ0x3YWZSZW94b05uVXQ0RUtqTUdoYTJMbVNNdGs1WWIxY0FXVlpVT25HWDcwSFh6cnNIaU1wYXlUSUE4azlXY0dOTXgtVHptZ0pLcmNmUnRBaS10SW1URDdJdmc1eFpTdnNWVER5ODdBTzdWNFhTaHRPcg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-17T19:37:27+00:00",
+      "published_raw": "Wed, 17 Jun 2026 19:37:27 GMT",
+      "snippet": "Ecovias inicia ampliação de ponte na Washington Luís em Rio Preto Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-17T19:57:08.077101+00:00"
+    },
+    {
       "id": "d9323622d98ae441482f40c6dc760807839b736d7f387b7c091055a234619daf",
       "title": "Pedágio free flow nas rodovias Imigrantes e Anchieta vai reconhecer veículos mesmo em situações adversas, como neblina - A Tribuna",
       "source": "A Tribuna",
@@ -60,58 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T17:43:33.997835+00:00"
-    },
-    {
-      "id": "24cf87c600d9380c501e424583250b1c5523106643a1276eb2cde6335c10197f",
-      "title": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnZhYzg0VTdoV2lpcWNEVDJuZ3Uwem8tdzV1ZktXSGU0NGQyNVpYN3c0cnU4eTZkYnpXY0xNREZ5NU1pQUtBNm1MOXVRWm1HS3dVVnBXWk85YWd0QXJzOWFOWFlRSnJlZmEweGhTLU93akhiV1VETEdOdFpGbnVZOVJLLXJRdnhiUF9Rb1B4dzJmdHRIQjN0b1NWZHMyWjc3UlRYeFQ2R3U5Z0dhOFQ1cWFEX3R2akVQcV8ySjVn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T19:38:18+00:00",
-      "published_raw": "Tue, 16 Jun 2026 19:38:18 GMT",
-      "snippet": "Em São Carlos: Ecovias Noroeste Paulista libera primeiros trechos das terceiras faixas da SP-310 odefensor.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T17:43:33.997689+00:00"
-    },
-    {
-      "id": "64f6875ba3a41cdddb1f8e513f8889bb566b463679c1bbbc90c593a9e79812cf",
-      "title": "Empreendedorismo: Organização e primeiros clientes são apontados como base para o crescimento dos pequenos e médios negócios - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3BNLUdsZVNZODFlZXc3OEZLb1VyMERLQ1FzR2pXRkJtMWNSbUEzUXhXX1VHN3hDQTNyU2NhVWxkN1h0ZWNpbDVpbDFZZVBObm12Z3lvaTRvZTRzRW1ZMHBPSVNkR3oxZXpSS1BKclVlZ3pZcEd1Z3UzNDg1cURoZENYdUl6SVQyY3ZTZ0lqcVhrSVJuSTJVQ3VkSkdJYlVEUUE1MjNzVXZTU0RZODBKVmF4dTU5SXpjX0lTTDRGQ0RnbjlTS1RLU0dWSTR5QUI3cEFSNWYyMEgxSXhwUWU0U0xqcw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T18:30:56+00:00",
-      "published_raw": "Tue, 16 Jun 2026 18:30:56 GMT",
-      "snippet": "Empreendedorismo: Organização e primeiros clientes são apontados como base para o crescimento dos pequenos e médios negócios odefensor.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T17:43:48.565952+00:00"
-    },
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1VGWkw4ZEx6M05PbDE1NjVLZ3JpVU9KV1RLNkQ1aTN6dU1jb1UzZGUtaUdtN3FuTnVSWnVIdjRoVjNDMEYzRjhNMEJLRjVBWFdRRnR5T0JCRjNOYXhfWER3Z2NEdWVEc1BMbXVfdVZnMXpBYXllRDh4a2J1YWh2Y1QxVmVoaXUtN1V1S0RYUWl3T01zTWlZS0ZuY2JRcEN0WElVOG82MzNkTEhCWHRJVjFSVzczSER4RWJhVUZkMUdiZ3ZqRE1JcA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T18:06:55+00:00",
-      "published_raw": "Tue, 16 Jun 2026 18:06:55 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T17:43:33.997765+00:00"
+      "collected_at": "2026-06-17T19:57:08.077193+00:00"
     }
   ]
 }
