@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T15:16:21.312962+00:00",
+  "updated_at": "2026-06-17T17:43:51.210712+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T15:16:03.814659+00:00"
+      "collected_at": "2026-06-17T17:43:33.997835+00:00"
     },
     {
       "id": "24cf87c600d9380c501e424583250b1c5523106643a1276eb2cde6335c10197f",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T15:16:03.814514+00:00"
+      "collected_at": "2026-06-17T17:43:33.997689+00:00"
     },
     {
       "id": "64f6875ba3a41cdddb1f8e513f8889bb566b463679c1bbbc90c593a9e79812cf",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T15:16:18.625045+00:00"
+      "collected_at": "2026-06-17T17:43:48.565952+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -105,13 +105,13 @@
       "published": "2026-06-16T18:06:55+00:00",
       "published_raw": "Tue, 16 Jun 2026 18:06:55 GMT",
       "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T15:16:03.814590+00:00"
+      "collected_at": "2026-06-17T17:43:33.997765+00:00"
     }
   ]
 }
