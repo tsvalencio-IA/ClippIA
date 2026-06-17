@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-17T02:37:49.799922+00:00",
+  "updated_at": "2026-06-17T03:37:55.694849+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 7,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.013854+00:00"
+      "collected_at": "2026-06-17T03:37:39.657111+00:00"
     },
     {
       "id": "64f6875ba3a41cdddb1f8e513f8889bb566b463679c1bbbc90c593a9e79812cf",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:47.109816+00:00"
+      "collected_at": "2026-06-17T03:37:53.110172+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.013929+00:00"
+      "collected_at": "2026-06-17T03:37:39.657190+00:00"
     },
     {
       "id": "38075a537fe65e49869ab382281ee25e6f6a0f2979de50605f905caf0eb8319f",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.014298+00:00"
+      "collected_at": "2026-06-17T03:37:39.657439+00:00"
     },
     {
       "id": "f388ede0c9cfe82cbc95eb651793ff84bf0080ba80ca299eca1c10b069b07502",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.014168+00:00"
+      "collected_at": "2026-06-17T03:37:39.657310+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.014052+00:00"
+      "collected_at": "2026-06-17T03:37:39.657259+00:00"
     },
     {
       "id": "f6201c2d8943c74847c7eb7181da0a884624a2c99dc9a5d2b8fb6efc55b38565",
@@ -156,64 +156,13 @@
       "published": "2026-06-16T05:14:32+00:00",
       "published_raw": "Tue, 16 Jun 2026 05:14:32 GMT",
       "snippet": "Araraquara e São Carlos terão ações de segurança viária Radio Sanca Web TV",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T02:37:47.109741+00:00"
-    },
-    {
-      "id": "857dee112b6f1c440ce64424a25572bd27d2227844e96694460f8fba8ec420c5",
-      "title": "Inscrições abertas para curso de gastronomia sustentável em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnBWZDRwSnR1T1lKRkk4RVR5TE9idmt6RG4xc1pNOVhrNGhQenhDRmJpY3JXTUJIbDBFYXczRVhKeGxHaXo1dmlRcDlqWWNxWUpCTGw2cXFvak5LeURlbFVSWDJlel94clJlVks1MFlTbEdHajdrUDZfWS1WQV9HbnBfUTFJeFlyNHlfdmJsblhKQTB4UnN5UGZnLVFGM2ZJNkZLTE1ySdIBpwFBVV95cUxPTnBWZDRwSnR1T1lKRkk4RVR5TE9idmt6RG4xc1pNOVhrNGhQenhDRmJpY3JXTUJIbDBFYXczRVhKeGxHaXo1dmlRcDlqWWNxWUpCTGw2cXFvak5LeURlbFVSWDJlel94clJlVks1MFlTbEdHajdrUDZfWS1WQV9HbnBfUTFJeFlyNHlfdmJsblhKQTB4UnN5UGZnLVFGM2ZJNkZLTE1ySQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T03:16:00+00:00",
-      "published_raw": "Tue, 16 Jun 2026 03:16:00 GMT",
-      "snippet": "Inscrições abertas para curso de gastronomia sustentável em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.014238+00:00"
-    },
-    {
-      "id": "4bf3f5b25014dbafa95faa44486541cc3549fdabd8b44f912f06de9edc584352",
-      "title": "São Carlos e Araraquara terão ações de segurança viária - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXNFYnNqWkNheGxodGhVXzBzbDdRRG84QWp2Z2hIUHNYVDc1eXZCV3JOTzNRZkllb2NTeDBKOUxsSVpFWVNWN3ZFM0NPZjA5Y0VzVGU2Z0xlcVhUWjB5cHVsTzhQc2g0Rl9hazNZN0NTM2JScXpsSnl5SkVmdFZVRTJoRmVyTEo1QnVvQ2Vn0gGTAUFVX3lxTE9QbnJORThhcjYzNlRzWjI2QVdteWdQZm8tZEhVSm82eWZjRDJDT2VaNVB1Y1djN1NOZTBnUDFFaFh2TWc1M01xandaUW1JSWFITkNtQ0ZqZEh6VmxUcW5Vam5lQ3NXMC00T1NpX1lHRzJITm9sYjhFclZfMXZ6elN6cVQ1ZEZGT29sLTljaXl3SWkzTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T03:14:00+00:00",
-      "published_raw": "Tue, 16 Jun 2026 03:14:00 GMT",
-      "snippet": "São Carlos e Araraquara terão ações de segurança viária - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.014120+00:00"
-    },
-    {
-      "id": "f26af9ec329e54f11eb831b60d4c16f8dd84b2cd178d8b46c76095d56789d923",
-      "title": "Gaudí assina campanha do Pedágio Anchieta-Imigrantes - Grandes Nomes da Propaganda",
-      "source": "Grandes Nomes da Propaganda",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEtlQ2F5UW9CVGFxNUVTUVQyVkx1YTg1U3V1NkJqQTlPSFR1eVBDWVVsRWxieVhTdkZ3WnJLXzVyd3NrZzBqVUlKa1d1eTlCbXNpN2wyaWRPdFRNQnZSWi11VHFYaXoycGZhNEZSdWRNNkFHWFhra3FxLUpmRjNxMTdqV1dSZUhqckpLV04yWHQ0eVFJYTNmUTAySVBUYzdDS2d3RQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-16T02:50:47+00:00",
-      "published_raw": "Tue, 16 Jun 2026 02:50:47 GMT",
-      "snippet": "Gaudí assina campanha do Pedágio Anchieta-Imigrantes Grandes Nomes da Propaganda",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-17T02:37:33.013993+00:00"
+      "collected_at": "2026-06-17T03:37:39.657373+00:00"
     }
   ]
 }
