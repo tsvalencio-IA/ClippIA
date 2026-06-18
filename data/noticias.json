@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-18T12:16:34.238290+00:00",
+  "updated_at": "2026-06-18T14:58:04.942752+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 8,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "b20472c5fdfbdcb8660c9b44e728a018a68a408ac11545a099249a68489637b3",
+      "title": "Obra de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDZZeVBENmo3bVA2NjRUTGFQdjhoTHdDY0h4OEdPc1JYY1c5Wmtqb2xhSnM1Q1hDU2hYNkNUVG5EUTdwVjZ3RWlkNHZRTXNBaUZxdTVGSTZEejNKUGpJeHA2UEpxV1NfWkpXNEM4S3dmUG9ZQUNLamQzNnpRNktDSFZsOV9NQWo5bTJSUGg2a3BQbzNsRlFNOXYyQ1ZVcmQzN0JQTWpNTWF4RGRfNFBldQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T12:30:06+00:00",
+      "published_raw": "Thu, 18 Jun 2026 12:30:06 GMT",
+      "snippet": "Obra de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto Estradas",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T14:57:47.091394+00:00"
+    },
+    {
+      "id": "38404598c3362493394c09a06030f596e9810abe939248197a3a22f0577ed2a3",
+      "title": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmJfNkxtS3NFSGVzbkhGRS00VzNHak1xakJNMHg3ZC01UFh1aWF6ekdqRzVtZXFvdWx0UkNvR2lXYXZWbkYxWjk4XzduX0Z4dml6WWNJNDBNUUwwTTRWc01DSVU1Q01SZWpwMFFpSmE5N09WcTBraG43d0VJcEotWVJPREFMTE53RzNlMVdLeWFGcE5LdTgxWlRXQzJJVWc1RzJObVE4ZmJjc1JDN2lWMUtR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T12:30:06+00:00",
+      "published_raw": "Thu, 18 Jun 2026 12:30:06 GMT",
+      "snippet": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto Estradas",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T14:57:58.643023+00:00"
+    },
+    {
       "id": "418a5643bed0599d26638b359569a660ff070f3053aa2a03bb94891eb3d11fd0",
       "title": "Rodovia Washington Luís ganha obras de ampliação em ponte e novas faixas em Rio Preto - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:17.306076+00:00"
+      "collected_at": "2026-06-18T14:57:47.091479+00:00"
     },
     {
       "id": "1efffde868548152340ae05d9d63daeac7d45d5259ff49620a7c817f40374ab7",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:19.529846+00:00"
+      "collected_at": "2026-06-18T14:57:49.444404+00:00"
     },
     {
       "id": "4cbbb1f72e322864b2cf7b3dc6aa51479b696676719a7612cdd6a824d6fa736e",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:17.306158+00:00"
+      "collected_at": "2026-06-18T14:57:47.091567+00:00"
     },
     {
       "id": "a8a4e281ff1cb02069819a0e29f430f8ea572507707d6f0b755191bdce773cb3",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:17.306259+00:00"
+      "collected_at": "2026-06-18T14:57:47.091648+00:00"
     },
     {
       "id": "126b1305e6135476ba81ac8e9ca568e40d8f09267bba758a472de4c2e6ed8e0a",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:17.305981+00:00"
+      "collected_at": "2026-06-18T14:57:47.091297+00:00"
     },
     {
       "id": "f6cbe7b80b87f6aa8c8f45e102f7a78ca7795e851d4bdf31c961c06ed2f10978",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T12:16:18.959827+00:00"
+      "collected_at": "2026-06-18T14:57:48.836259+00:00"
     }
   ]
 }
