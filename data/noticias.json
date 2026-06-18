@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-18T03:29:59.442110+00:00",
+  "updated_at": "2026-06-18T07:25:54.842391+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "1efffde868548152340ae05d9d63daeac7d45d5259ff49620a7c817f40374ab7",
+      "title": "Pedágio free flow reduz tarifa à metade na descida para praia via Anchieta e Imigrantes; entenda - R7 Entretenimento",
+      "source": "R7 Entretenimento",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVpJRWpfeC1NU1VucDYtMWVpeEw5QWdiR2FqQXJkMFNnb2wzdU83a216UXdVNlQ0R1lZOU5CSnJyQzlQVG5uSnBmazlFQXpzMmhEdjFzaWQ5TGxuVEtzLWNLSmFEdGVxX0JhQjFZXzVyWnhDdGhnMjl2WUtDcm1tc1huVjJsZEI4Y2hiaGtEVGYxNTdnNzdHQW94UUZhZ19GSzFvWmFmSFRBM2NhNlZ6Rk9rWmEtX3puRWl4d3BLd2FFWGh0ZlY4MTdnbmZnejJmdHJpSkNBdGQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T05:00:01+00:00",
+      "published_raw": "Thu, 18 Jun 2026 05:00:01 GMT",
+      "snippet": "Pedágio free flow reduz tarifa à metade na descida para praia via Anchieta e Imigrantes; entenda R7 Entretenimento",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T07:25:41.032964+00:00"
+    },
+    {
       "id": "4cbbb1f72e322864b2cf7b3dc6aa51479b696676719a7612cdd6a824d6fa736e",
       "title": "Obras de ampliação de ponte sobre o Córrego dos Macacos já começaram na Washington Luís - Portal da Cidade - Mirassol / SP",
       "source": "Portal da Cidade - Mirassol / SP",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T03:29:42.832106+00:00"
+      "collected_at": "2026-06-18T07:25:38.913814+00:00"
     },
     {
       "id": "a8a4e281ff1cb02069819a0e29f430f8ea572507707d6f0b755191bdce773cb3",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T03:29:42.832187+00:00"
+      "collected_at": "2026-06-18T07:25:38.913888+00:00"
     },
     {
       "id": "126b1305e6135476ba81ac8e9ca568e40d8f09267bba758a472de4c2e6ed8e0a",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T03:29:42.831916+00:00"
+      "collected_at": "2026-06-18T07:25:38.913638+00:00"
     },
     {
       "id": "d9323622d98ae441482f40c6dc760807839b736d7f387b7c091055a234619daf",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T03:29:42.832012+00:00"
+      "collected_at": "2026-06-18T07:25:38.913726+00:00"
     }
   ]
 }
