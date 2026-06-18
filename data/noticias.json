@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-18T14:58:04.942752+00:00",
+  "updated_at": "2026-06-18T17:53:57.135953+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 10,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "e9579572df52508764c79e0a037102b226d93603d25b281325953964d99ab29e",
+      "title": "Ecovias Noroeste Paulista inicia intervenção para ampliar ponte localizada sobre o Córrego dos Macacos - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pV0t0YVpZamM5SGUwRWJtOW56Ql9OY1JXOC1fY3JKQVQtX3hLeVpXSTJEZmstamgtSEdnenU2QVF2NFNFaU95ZWZTN1BrNS0xbEU5Rl9SSnhoU2NUQm8xbmxVT3BhSEczcC1ldHg2YjJ5dlVrRkNDNEdUeGd1QQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T17:02:00+00:00",
+      "published_raw": "Thu, 18 Jun 2026 17:02:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista inicia intervenção para ampliar ponte localizada sobre o Córrego dos Macacos Rio Preto Indica",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T17:53:39.989555+00:00"
+    },
+    {
+      "id": "23517ee976613aa9aa0e9851bac1d37edaea4f5fabef8b9665b57dc0c39d9e9e",
+      "title": "Causa nobre: Projeto Tampinha Solidária recebe Moção de Aplausos por atuação em Taquaritinga - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlBhd056c2swYVpPM29vT2ZTTFNEeE8wVHNwTGlfbkhUXzdMX21qWU54NC1Da3oxQXMxOXJXLWdtcHV5SGhmSmdaRmM5dFJNb0hqLXBFRGRRTVl6eGtGam5XN2wzQnhQUnBPZ1dDcDB5WmdNaFR3TXlLT2duQ0tZeU5QMVdnUHdhV05IbVBHcHF1bHZlXzE5VWVNaUgyU3ZDSWVYMV9yV3NBVG5aVjl5OVY1bkk5dTdt?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T15:30:48+00:00",
+      "published_raw": "Thu, 18 Jun 2026 15:30:48 GMT",
+      "snippet": "Causa nobre: Projeto Tampinha Solidária recebe Moção de Aplausos por atuação em Taquaritinga odefensor.com.br",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T17:53:54.457463+00:00"
+    },
+    {
+      "id": "6ea8a1a8db2f637b2bc1a892a281cc613ec22cc39edaf328fed0db953531a2a4",
+      "title": "Na região: Ecovias Noroeste Paulista inicia ampliação de ponte na SP-310 para implantação de terceiras faixas - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTl9QX2VOTnBDMjRpdzR4bGlPYjcwTlEwWHhpRDhrYm82YnZNY1AwWjVXWUx3QzNPa1AwNFN3TllFTlN3LWNHZnNoSUNPZWhudGVjNUtuaTRSZnlKdS1nOTV6cVltaUtDYUtKeFppR3VHVEg2TjViRFJERlR0OGZaeGpSSnFoNXhBYmtKZW82YnRxdnJORzV6NWhoblZGRE8ydHpOX3JfX3IzZUg1U2U1Tk4yNUZQN2Z5Tk1ydXU0WC1rOGwwa3hNRFB3WEJJMDg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T15:10:07+00:00",
+      "published_raw": "Thu, 18 Jun 2026 15:10:07 GMT",
+      "snippet": "Na região: Ecovias Noroeste Paulista inicia ampliação de ponte na SP-310 para implantação de terceiras faixas odefensor.com.br",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-18T17:53:41.690172+00:00"
+    },
+    {
       "id": "b20472c5fdfbdcb8660c9b44e728a018a68a408ac11545a099249a68489637b3",
       "title": "Obra de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto - Estradas",
       "source": "Estradas",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:47.091394+00:00"
+      "collected_at": "2026-06-18T17:53:39.989466+00:00"
     },
     {
       "id": "38404598c3362493394c09a06030f596e9810abe939248197a3a22f0577ed2a3",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:58.643023+00:00"
+      "collected_at": "2026-06-18T17:53:50.989314+00:00"
     },
     {
       "id": "418a5643bed0599d26638b359569a660ff070f3053aa2a03bb94891eb3d11fd0",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:47.091479+00:00"
+      "collected_at": "2026-06-18T17:53:39.989630+00:00"
     },
     {
       "id": "1efffde868548152340ae05d9d63daeac7d45d5259ff49620a7c817f40374ab7",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:49.444404+00:00"
+      "collected_at": "2026-06-18T17:53:42.310918+00:00"
     },
     {
       "id": "4cbbb1f72e322864b2cf7b3dc6aa51479b696676719a7612cdd6a824d6fa736e",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:47.091567+00:00"
+      "collected_at": "2026-06-18T17:53:39.989711+00:00"
     },
     {
       "id": "a8a4e281ff1cb02069819a0e29f430f8ea572507707d6f0b755191bdce773cb3",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:47.091648+00:00"
+      "collected_at": "2026-06-18T17:53:39.989787+00:00"
     },
     {
       "id": "126b1305e6135476ba81ac8e9ca568e40d8f09267bba758a472de4c2e6ed8e0a",
@@ -162,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T14:57:47.091297+00:00"
-    },
-    {
-      "id": "f6cbe7b80b87f6aa8c8f45e102f7a78ca7795e851d4bdf31c961c06ed2f10978",
-      "title": "Carreta tomba na rodovia Washington Luís em Araraquara - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnhvWGswNjNTMkJxWFZpd2wwdGFzczhSbEd0aHdPOHVfZURwN0xROTZOSzJRWjlaSGRpUzVETFVGOTdESnp6WFNlUExDcXI0UzBqVkluNjJIZmhBT0tmYUdJOU9wZ3g2MUJsR0xnQkZFdW1IWlhHT3BIc0hLaVJmRFpXSFQ0T01IcUFYSjVnUW5UVGJfRWR1X2FIZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-17T15:25:00+00:00",
-      "published_raw": "Wed, 17 Jun 2026 15:25:00 GMT",
-      "snippet": "Carreta tomba na rodovia Washington Luís em Araraquara Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-18T14:57:48.836259+00:00"
+      "collected_at": "2026-06-18T17:53:39.989370+00:00"
     }
   ]
 }
