@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-18T22:54:25.202390+00:00",
+  "updated_at": "2026-06-19T02:51:07.750909+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "60e83b4da2621c95d62c86ef60731319fc3cb74f374467f99ebd33c2e40fd242",
+      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (20) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObkJsVXA5bWNSRzMwY2VmbjdTMkotN2Z0c2g4VGV0c1hBVXlLSmt1UjVEbzFObmpidEd4V2tvVzNnU1ZqQzFWaDFoS2xmcUpoOTNVaVlaU2lKUlRrOEtVUFNRX0V3U0RjYjhxeXB4ZkRtV002ODhLLV9seWYzMHdTMzBCTVBJUXRjaXJuN0E3M3pSTGhkcjNDOXpmdHVxS1JpWGZSMWdYYjR1ekhkYU94SUxoNmh3TXJVbU9IMmN6SFBKWWlDd3Bhei1rTzdRS1lKZzR5RmU4MlBYNGJ0akpjUlB3WG8wb1FiVmdLNTR1SFRNMlZoXzlvdWxqQ1FtWWFFTWtjdTI1TEp4TGI00gGMAkFVX3lxTE5uQmxVcDltY1JHMzBjZWZuN1MySi03ZnRzaDhUZXRzWEFVeUtKa3VSNURvMU5uamJ0R3hXa29XM2dTVmpDMVZoMWhLbGZxSmg5M1VpWVpTaUpSVGs4S1VQU1FfRXdTRGNiOHF5cHhmRG1XTTY4OEstX2x5ZjMwd1MzMEJNUElRdGNpcm43QTczelJMaGRyM0M5emZ0dXFLUmlYZlIxZ1hiNHV6SGRhT3hJTGg2aHdNclVtT0gyY3pIUEpZaUN3cGF6LWtPN1FLWUpnNHlGZTgyUFg0YnRqSmNSUHdYbzBvUWJWZ0s1NHVIVE0yVmhfOW91bGpDUW1ZYUVNa2N1MjVMSnhMYjQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-19T01:00:15+00:00",
+      "published_raw": "Fri, 19 Jun 2026 01:00:15 GMT",
+      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (20) Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-19T02:50:50.922102+00:00"
+    },
+    {
       "id": "72331f08d20ba6a8e1ec46b1d6bb89835e6666d43783a31e7ae9adb272fce995",
       "title": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) - gazetainterior.com.br",
       "source": "gazetainterior.com.br",
@@ -54,13 +71,30 @@
       "published": "2026-06-18T18:12:43+00:00",
       "published_raw": "Thu, 18 Jun 2026 18:12:43 GMT",
       "snippet": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209367+00:00"
+      "collected_at": "2026-06-19T02:50:50.922502+00:00"
+    },
+    {
+      "id": "45d5073f542168e1ec4cd1e8bcd0213bf5ffb25ddd0c58da709cbb717cb21848",
+      "title": "Centro Regional de Eventos abre espaço para troca de figurinhas da Copa do Mundo - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3lNV21IQm5COVQ1V1h3QUphUG1mNDd0Zmw3eTRDQ0I4MGp0Uk41U05wVncyMi1YX0t4Zm1IM2UtRnE0WHlVWXk2R3h5YmY4N1VjZVg1NXdGU2xjR2NKaXd6T3RxR0lpNU1hVEdDSTZEWVhnN3FERlNxMEUzYmRHbzRkWERRdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T17:32:00+00:00",
+      "published_raw": "Thu, 18 Jun 2026 17:32:00 GMT",
+      "snippet": "Centro Regional de Eventos abre espaço para troca de figurinhas da Copa do Mundo Rio Preto Indica",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-19T02:50:50.922572+00:00"
     },
     {
       "id": "e9579572df52508764c79e0a037102b226d93603d25b281325953964d99ab29e",
@@ -71,13 +105,30 @@
       "published": "2026-06-18T17:02:00+00:00",
       "published_raw": "Thu, 18 Jun 2026 17:02:00 GMT",
       "snippet": "Ecovias Noroeste Paulista inicia intervenção para ampliar ponte localizada sobre o Córrego dos Macacos Rio Preto Indica",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209236+00:00"
+      "collected_at": "2026-06-19T02:50:50.922353+00:00"
+    },
+    {
+      "id": "d5c1dc0043f4f25f68eca8c5b2ccf7f8fd5387433f7e9a96177aed19134cfd87",
+      "title": "Colisão: Acidente na Rodovia Laurentino Mascari deixa dois feridos em colisão entre carro e caminhonete - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmRUbnI4S0VFYllXTFg5Y2Q1Y0FfTGRCS2c2c0NIRmN0U3pVb2hTTTlpNXdheEZnOTZUZVhkQkRneVZZNjhicWRESnlsb2owU01EeWhNVnhrVW9IVmVMUGZ1b2pjbno3M0dLbm1oRFlLUWR0VkRLRGdqcHJGUjVJZDFxZ2ZTQi1jaEFIWDlYaFF6MUdfOURDZWctY2t5eVhNVXFKNDFOVXhuMHp4X2dwekZFVHFWWVBBS2txQWVvUmt4UzFwUWFj?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-18T16:06:09+00:00",
+      "published_raw": "Thu, 18 Jun 2026 16:06:09 GMT",
+      "snippet": "Colisão: Acidente na Rodovia Laurentino Mascari deixa dois feridos em colisão entre carro e caminhonete odefensor.com.br",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-19T02:51:05.124844+00:00"
     },
     {
       "id": "23517ee976613aa9aa0e9851bac1d37edaea4f5fabef8b9665b57dc0c39d9e9e",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:22.642489+00:00"
+      "collected_at": "2026-06-19T02:51:05.124906+00:00"
     },
     {
       "id": "6ea8a1a8db2f637b2bc1a892a281cc613ec22cc39edaf328fed0db953531a2a4",
@@ -105,30 +156,30 @@
       "published": "2026-06-18T15:10:07+00:00",
       "published_raw": "Thu, 18 Jun 2026 15:10:07 GMT",
       "snippet": "Na região: Ecovias Noroeste Paulista inicia ampliação de ponte na SP-310 para implantação de terceiras faixas odefensor.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209083+00:00"
+      "collected_at": "2026-06-19T02:50:50.922208+00:00"
     },
     {
-      "id": "d5c1dc0043f4f25f68eca8c5b2ccf7f8fd5387433f7e9a96177aed19134cfd87",
-      "title": "Colisão: Acidente na Rodovia Laurentino Mascari deixa dois feridos em colisão entre carro e caminhonete - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmRUbnI4S0VFYllXTFg5Y2Q1Y0FfTGRCS2c2c0NIRmN0U3pVb2hTTTlpNXdheEZnOTZUZVhkQkRneVZZNjhicWRESnlsb2owU01EeWhNVnhrVW9IVmVMUGZ1b2pjbno3M0dLbm1oRFlLUWR0VkRLRGdqcHJGUjVJZDFxZ2ZTQi1jaEFIWDlYaFF6MUdfOURDZWctY2t5eVhNVXFKNDFOVXhuMHp4X2dwekZFVHFWWVBBS2txQWVvUmt4UzFwUWFj?oc=5",
+      "id": "38404598c3362493394c09a06030f596e9810abe939248197a3a22f0577ed2a3",
+      "title": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmJfNkxtS3NFSGVzbkhGRS00VzNHak1xakJNMHg3ZC01UFh1aWF6ekdqRzVtZXFvdWx0UkNvR2lXYXZWbkYxWjk4XzduX0Z4dml6WWNJNDBNUUwwTTRWc01DSVU1Q01SZWpwMFFpSmE5N09WcTBraG43d0VJcEotWVJPREFMTE53RzNlMVdLeWFGcE5LdTgxWlRXQzJJVWc1RzJObVE4ZmJjc1JDN2lWMUtR?oc=5",
       "resolved_link": "",
-      "published": "2026-06-18T14:50:31+00:00",
-      "published_raw": "Thu, 18 Jun 2026 14:50:31 GMT",
-      "snippet": "Colisão: Acidente na Rodovia Laurentino Mascari deixa dois feridos em colisão entre carro e caminhonete odefensor.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "published": "2026-06-18T12:30:06+00:00",
+      "published_raw": "Thu, 18 Jun 2026 12:30:06 GMT",
+      "snippet": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto Estradas",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:22.642554+00:00"
+      "collected_at": "2026-06-19T02:50:50.922280+00:00"
     },
     {
       "id": "b20472c5fdfbdcb8660c9b44e728a018a68a408ac11545a099249a68489637b3",
@@ -145,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:09.088538+00:00"
-    },
-    {
-      "id": "38404598c3362493394c09a06030f596e9810abe939248197a3a22f0577ed2a3",
-      "title": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmJfNkxtS3NFSGVzbkhGRS00VzNHak1xakJNMHg3ZC01UFh1aWF6ekdqRzVtZXFvdWx0UkNvR2lXYXZWbkYxWjk4XzduX0Z4dml6WWNJNDBNUUwwTTRWc01DSVU1Q01SZWpwMFFpSmE5N09WcTBraG43d0VJcEotWVJPREFMTE53RzNlMVdLeWFGcE5LdTgxWlRXQzJJVWc1RzJObVE4ZmJjc1JDN2lWMUtR?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-18T12:30:06+00:00",
-      "published_raw": "Thu, 18 Jun 2026 12:30:06 GMT",
-      "snippet": "Obras de ampliação de ponte sobre Córrego dos Macacos, na SP-310, tem início em Rio Preto Estradas",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209159+00:00"
+      "collected_at": "2026-06-19T02:50:51.483595+00:00"
     },
     {
       "id": "418a5643bed0599d26638b359569a660ff070f3053aa2a03bb94891eb3d11fd0",
@@ -173,13 +207,13 @@
       "published": "2026-06-18T11:24:00+00:00",
       "published_raw": "Thu, 18 Jun 2026 11:24:00 GMT",
       "snippet": "Rodovia Washington Luís ganha obras de ampliação em ponte e novas faixas em Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209302+00:00"
+      "collected_at": "2026-06-19T02:50:50.922419+00:00"
     },
     {
       "id": "1efffde868548152340ae05d9d63daeac7d45d5259ff49620a7c817f40374ab7",
@@ -196,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.807496+00:00"
-    },
-    {
-      "id": "4cbbb1f72e322864b2cf7b3dc6aa51479b696676719a7612cdd6a824d6fa736e",
-      "title": "Obras de ampliação de ponte sobre o Córrego dos Macacos já começaram na Washington Luís - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNkRWYnFJZ0J1d2ZWLXp4WWNpbzA3azBJZzFzZnc3RUhYem5UVlo2OTh1Tkk1NVRzTVFHWU4xU0lnYXlYbEtNODh6SkNIOXNJajYzd1ZYZ2JHd3kzRmQ5RUJreFNMaFlwUk56ZXpiWVlPX19rWTRxR0VFdF94S0dEYjctQlBXVVZtY2NBVVY4WHJoYXp3eWNxbzZ2OGhGZHJOWUZvSHVqVW4xTmM4Y0IwTDJ5d2VOdGJOc1Z0dm04c3BsZTZZN0h0UkdPVEloRkZPZkpPTjM0cVlEMFdN?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-18T01:58:00+00:00",
-      "published_raw": "Thu, 18 Jun 2026 01:58:00 GMT",
-      "snippet": "Obras de ampliação de ponte sobre o Córrego dos Macacos já começaram na Washington Luís Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-18T22:54:10.209440+00:00"
+      "collected_at": "2026-06-19T02:50:53.254752+00:00"
     }
   ]
 }
