@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T17:15:43.133842+00:00",
+  "updated_at": "2026-06-19T19:23:56.339442+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "bc3c4c54dc6061c77c1bc802583ca4d1bb1153b7ddbb234f73195312a884e580",
+      "title": "Obras na rodovia Washington Luís somam 16 km de novas faixas - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWN3TFhvLUdpOFpPU1BoVld5MkNmdzJzN2FxOXJHRWJlZ2kwOE93V1pOVEVfaEFBS0dYTXZUcHc5cFZCYVRWcS1pTjJGZ1pWcjluZWJ3U3VPTzlrY1Z2b2FBOVFNUHpqRXlwSjBMdVBmVkx4ek5ldUxic2tqcV9pT3NIRm50aWNSNzk5VDJtdDFUNDNJZ3lyODItc0FTS2M?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-19T19:00:32+00:00",
+      "published_raw": "Fri, 19 Jun 2026 19:00:32 GMT",
+      "snippet": "Obras na rodovia Washington Luís somam 16 km de novas faixas O Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-19T19:23:39.812774+00:00"
+    },
+    {
+      "id": "05b4055672385b2694a78e8a3c527910132f9078db79cc30b15471a70e928116",
+      "title": "Ecovias Noroeste Paulista completa um ano de obras dentro do prazo previsto - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM2NmejFhd0NnRzNpOTJPdTMzRTNmM3FaTnkzUUVJOGYtU25PckZ5VkNmTHlTU0VfbVB2dGo1YjAwU0NNRDJ3MHo0SFg2UW5uR2JFcG9UUHlXa1IzaExzWklBSHVCVVFmUjhaX2ZPZllWUU5CMHZoSUE1cUJGaGg3dnRoSC1fd3dBQlVPX1A0ZlNfTkNwTWw5LWlCcktxbUtfc0E?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-19T17:03:22+00:00",
+      "published_raw": "Fri, 19 Jun 2026 17:03:22 GMT",
+      "snippet": "Ecovias Noroeste Paulista completa um ano de obras dentro do prazo previsto OExtra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-19T19:23:39.812557+00:00"
+    },
+    {
       "id": "f3f450dd04c6ea4341668b45593fee52841d0626de51abb1443afdfe861be779",
       "title": "Obras na Washington Luís completam um ano com entregas antecipadas - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-19T17:15:26.515774+00:00"
+      "collected_at": "2026-06-19T19:23:39.812895+00:00"
     },
     {
       "id": "60e83b4da2621c95d62c86ef60731319fc3cb74f374467f99ebd33c2e40fd242",
@@ -77,41 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-19T17:15:26.515660+00:00"
-    },
-    {
-      "id": "72331f08d20ba6a8e1ec46b1d6bb89835e6666d43783a31e7ae9adb272fce995",
-      "title": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHpnang0MHBQdGJ6cElIQ3VaS1RlbWpqeUNfWmo5Q180dFpTZ2RjVXprYkdvaDVPSGhLYUwtbXdzS1VLSTJ1d0ljQ2JMRzlXM1V3OW54TklCak9HUzlFaUZVdURraUdwTTl4RlFrRW83clRiM3VuZUhORlZqa2owTDFmVmJ0NndQSnRVQmVkN2tQNFhLc0paZFY0YWI3RmxBSFFfWkdEdTJZd0xTbVo5MUhHellvaWZXWUxzTWpvX2xHa2t0YnQtSWJR?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-18T18:12:43+00:00",
-      "published_raw": "Thu, 18 Jun 2026 18:12:43 GMT",
-      "snippet": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-19T17:15:26.515867+00:00"
-    },
-    {
-      "id": "45d5073f542168e1ec4cd1e8bcd0213bf5ffb25ddd0c58da709cbb717cb21848",
-      "title": "Centro Regional de Eventos abre espaço para troca de figurinhas da Copa do Mundo - Rio Preto Indica",
-      "source": "Rio Preto Indica",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR3lNV21IQm5COVQ1V1h3QUphUG1mNDd0Zmw3eTRDQ0I4MGp0Uk41U05wVncyMi1YX0t4Zm1IM2UtRnE0WHlVWXk2R3h5YmY4N1VjZVg1NXdGU2xjR2NKaXd6T3RxR0lpNU1hVEdDSTZEWVhnN3FERlNxMEUzYmRHbzRkWERRdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-18T17:32:00+00:00",
-      "published_raw": "Thu, 18 Jun 2026 17:32:00 GMT",
-      "snippet": "Centro Regional de Eventos abre espaço para troca de figurinhas da Copa do Mundo Rio Preto Indica",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-19T17:15:26.515951+00:00"
+      "collected_at": "2026-06-19T19:23:39.812688+00:00"
     }
   ]
 }
