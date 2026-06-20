@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-20T19:18:47.235373+00:00",
+  "updated_at": "2026-06-20T21:58:38.099683+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "5d63d0284c02ed0617a256fc39fe5ec56f7083965205d93b60292988c048aa9a",
+      "title": "Vila Dionísio celebra 22 anos com evento gratuito na rua em Rio Preto - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVW5VazZldWRyNXo2YUNHVl9rVnpkTDBGUHhrNjZkcHp6VEhFSWI1NGN5TlE1c1R6MEdES2htLTdvZTFGQ0FtWGc0N3V1M1g1dXpGNkVsNTlqeldyZC1KUHU3ZHA5VHpjUURhMmNzemh1eXRtcGlIclhaQUwzMG8?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-20T20:37:00+00:00",
+      "published_raw": "Sat, 20 Jun 2026 20:37:00 GMT",
+      "snippet": "Vila Dionísio celebra 22 anos com evento gratuito na rua em Rio Preto Rio Preto Indica",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-20T21:58:22.249987+00:00"
+    },
+    {
       "id": "39f0ab2d044fb87e0659a3d50a102eb2221f5b909897ff97d65abe5619c92426",
       "title": "Obras na Rodovia Washington Luís completam um ano com trechos antecipados na região - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-20T19:18:31.083184+00:00"
+      "collected_at": "2026-06-20T21:58:22.249877+00:00"
     }
   ]
 }
