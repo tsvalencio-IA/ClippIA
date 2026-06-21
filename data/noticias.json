@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-21T19:13:05.359996+00:00",
+  "updated_at": "2026-06-21T19:24:34.341796+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "215e72ee50ed6f2cdf066b4eccf255bfa78eecbbc4b56752d70d35bfe93381bf",
-      "title": "Obra entre Rio Preto e Mirassol completa 1 ano e nova fase é iniciada - Votuporanga Tudo",
-      "source": "Votuporanga Tudo",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbU9kTUh0V2RKaUJlRnhhSUxkOUk4RmRrZTB6UnZkdlJKMVBCelFEMVhZLTM2V1EzUXp2LWhoNXJhbjMtTDAyU1RLeEpnaUtWTkxSX2xVSW5IVjFhSk5mUFZOSVVZVjNCSEdmZHFEMWVEV0g3S0E4aGxiSDI4UGxsNlJ2Yy1lcmo3dExhYlNTcEdTYk42WGpLcmJZbHNrN1ZMNGZzdmFSWWdteWc3a2lMakxweE1NZHZVcHhkQWlqS21YZWkzSFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-21T14:46:00+00:00",
-      "published_raw": "Sun, 21 Jun 2026 14:46:00 GMT",
-      "snippet": "Obra entre Rio Preto e Mirassol completa 1 ano e nova fase é iniciada Votuporanga Tudo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-21T19:12:49.266905+00:00"
-    },
-    {
       "id": "5d63d0284c02ed0617a256fc39fe5ec56f7083965205d93b60292988c048aa9a",
       "title": "Vila Dionísio celebra 22 anos com evento gratuito na rua em Rio Preto - Rio Preto Indica",
       "source": "Rio Preto Indica",
@@ -77,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-21T19:12:49.267067+00:00"
+      "collected_at": "2026-06-21T19:24:17.411835+00:00"
     }
   ]
 }
