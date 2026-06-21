@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T07:23:56.640909+00:00",
+  "updated_at": "2026-06-21T09:43:28.769638+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-21T07:23:40.706852+00:00"
+      "collected_at": "2026-06-21T09:43:10.815911+00:00"
     },
     {
-      "id": "39f0ab2d044fb87e0659a3d50a102eb2221f5b909897ff97d65abe5619c92426",
-      "title": "Obras na Rodovia Washington Luís completam um ano com trechos antecipados na região - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3ZhU2JsNWdKLXZZUTJlREVYZUk2QlBOdXd3U2xxTXR1ZlQ3TS1Md2I5TDlKMkxIZzJSYTNURVN1WldZZmpvYWZxV3JCXzc0WWF5dDZZTnhCdjVHZElIVWxSMUY2cG9xYXZoeTZUTVZFalM5cHNmN1QtNml0WUN1RXZFQmdBcEZvNEhGODM0V05FRTZrSE1XcWVkcWxLckVpS0RKUktXTjI1NzQyZi0zXw?oc=5",
+      "id": "951373ae1be40c486cf07b2b3f99b71843ff694579cf74cb6098df0697974fbe",
+      "title": "Obras na Rodovia Washington Luís completam um ano com trechos antecipados na região - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbU5wRVhLSEZxTGltZWUzQ01LM1VyTmR5TjVMN29oSFNpSlFaWG92ak44MS1EMk5CVWxXMVh2ejJyUWNOX0xwaHFISlBOY2ktWXFPY2hzNXZLRUhhMGdiZFZ6MDQwTFVRMnNsWGF2THhZLWZfTjdKTjUzcDdlSTRsdFBhd0lzR3UyY1ctd0tDLUd6ay02T1NQUW1hYm1kQkNRX3Q0RVRWeXFpcC1BNFlVRExn?oc=5",
       "resolved_link": "",
-      "published": "2026-06-20T09:01:00+00:00",
-      "published_raw": "Sat, 20 Jun 2026 09:01:00 GMT",
-      "snippet": "Obras na Rodovia Washington Luís completam um ano com trechos antecipados na região Região Noroeste",
+      "published": "2026-06-20T13:34:00+00:00",
+      "published_raw": "Sat, 20 Jun 2026 13:34:00 GMT",
+      "snippet": "Obras na Rodovia Washington Luís completam um ano com trechos antecipados na região Votunews",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-21T07:23:40.706754+00:00"
+      "collected_at": "2026-06-21T09:43:10.815821+00:00"
     }
   ]
 }
