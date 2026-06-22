@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-22T18:39:37.811265+00:00",
+  "updated_at": "2026-06-22T20:39:33.890619+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 9,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "79a8ba00abfff2d47ca370032450f36c250f0f1d0dfe9184d333e54f9ad46e34",
+      "title": "Obras na Washington Luís podem afetar viagem de mirassolenses entre 22 e 28 de junho - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkRRNXV1OEtuZEFXN3ZfbUpVbWRGYTZieGswQ1hyM3pyNmpBTlBhRTNGTWZRM0NWckk0MnY1ZHVhVy1sVmp6SXRhNUc2RkRaWTFKWjBTT0E5YUg2T2ZZWGpYdUx0TUl6akFRMkl4RE5Zb0NhSXBBSl9reTJadldhTjRDRHlRQXNKSE05bkJDQm5rRTRIaVpHZVRzaVFwSXBoSDNsOHhXd0FiSjZmVDRNMURNZU9XSU5KeTRfZlFjSU9kY240RzZOblk5QXZGV2t6RWhVbGZXYnE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-22T19:54:00+00:00",
+      "published_raw": "Mon, 22 Jun 2026 19:54:00 GMT",
+      "snippet": "Obras na Washington Luís podem afetar viagem de mirassolenses entre 22 e 28 de junho Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-22T20:39:27.708038+00:00"
+    },
+    {
       "id": "efb0294bd193e5756850744ed546044416ccff3d56e8a6d48a5b5ab5e134f09e",
       "title": "Ecovias Noroeste Paulista informa cronograma de obras de 22/6 a 28/6/2026 - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:19.045993+00:00"
+      "collected_at": "2026-06-22T20:39:17.002943+00:00"
     },
     {
       "id": "ba34950e9b49db8f371341d98e71d31fc1f25d53500c1fc0cfa55bca2b67c8e4",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:19.046177+00:00"
+      "collected_at": "2026-06-22T20:39:17.003140+00:00"
     },
     {
       "id": "90aee14c21746ee98ba2a273c3310d53e7801e4c9491fc8f3b44e923a71d2e01",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:19.046091+00:00"
+      "collected_at": "2026-06-22T20:39:17.003053+00:00"
     },
     {
       "id": "bcb6ad5ba5d1bb8e96776ff3acc7f07c3a007de7930760cef37421204048445f",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:32.892190+00:00"
+      "collected_at": "2026-06-22T20:39:29.389227+00:00"
     },
     {
       "id": "e2eadeb15563aa8b0b90b0aa095c1af6d6782c4858a6770594d98079f4dbaec6",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:34.104956+00:00"
+      "collected_at": "2026-06-22T20:39:30.508650+00:00"
     },
     {
       "id": "9f1a69c7e9ed32c8281e8c5335f522fcaefe113d8bacc464f6b552b0dbcab7cc",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:34.104870+00:00"
+      "collected_at": "2026-06-22T20:39:30.508773+00:00"
     },
     {
       "id": "3e5c5b240a198a5c230aba1c4863e36f038f41c98e28c603e5b47f065a9b243d",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:19.046332+00:00"
+      "collected_at": "2026-06-22T20:39:17.003295+00:00"
     },
     {
       "id": "d896e4de6f7b39bf5c600d356f8135fd8e66e34b0960019261ed64c41c361aee",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T18:39:19.046259+00:00"
+      "collected_at": "2026-06-22T20:39:17.003222+00:00"
     }
   ]
 }
