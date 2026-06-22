@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-22T16:47:25.886548+00:00",
+  "updated_at": "2026-06-22T18:39:37.811265+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 8,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:08.905613+00:00"
+      "collected_at": "2026-06-22T18:39:19.045993+00:00"
     },
     {
       "id": "ba34950e9b49db8f371341d98e71d31fc1f25d53500c1fc0cfa55bca2b67c8e4",
@@ -71,13 +71,13 @@
       "published": "2026-06-22T15:14:08+00:00",
       "published_raw": "Mon, 22 Jun 2026 15:14:08 GMT",
       "snippet": "Rodovia do interior de São Paulo terá velocidade reduzida em trecho; veja qual é e fique atento ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:08.905783+00:00"
+      "collected_at": "2026-06-22T18:39:19.046177+00:00"
     },
     {
       "id": "90aee14c21746ee98ba2a273c3310d53e7801e4c9491fc8f3b44e923a71d2e01",
@@ -94,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:08.905705+00:00"
+      "collected_at": "2026-06-22T18:39:19.046091+00:00"
+    },
+    {
+      "id": "bcb6ad5ba5d1bb8e96776ff3acc7f07c3a007de7930760cef37421204048445f",
+      "title": "Novo limite de velocidade entra em vigor dia 01 de julho no trecho urbano da SP-310 - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWE9ZWGpCdkIwUVpJRXNYWFNjOS14X3VlSFU5SVgzb2xuRW5yZnBXdklWUkluSTdYcGE1VThPa3l0cURMZlZxODItOThLb2JKQXhjOTVHbTA4TWstYlRERkNwZkJKS0RiUHFBUnUxbVBRakp1ZHBXM2diTGJSenpLdUVmUTBWa3ZPd3V0bkRTbEE0Umo0VzJmbWQxbEhNenNNc1F3ZTdHLWxyN3hqVW5PZnhVQ0VZdUxvT1FVenVZM2piUdIBuwFBVV95cUxPSVA2NU1hRzZSajJSNGNqZUxfUHVSdTFtWkFZX1BIY1U5RDl4ODFnUzdUbTRQWGNhT2Q0SXo4bkNnd0ZoT0ZFX2w4X0FQaGJCZnZHcXVlTThlcU9HVk4yVGVaUnV3dkRoT08wR19QbXBka2pNa1BmakRlTzVPaFNkdE5WVFZDNkhyemxUNEw3Y01SQXZNd1k5dTg1OFNvWTZNT0VDcF9mWi1sOFFDUkJ0Y2lMTFZqd0VGeWI0?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-22T13:29:00+00:00",
+      "published_raw": "Mon, 22 Jun 2026 13:29:00 GMT",
+      "snippet": "Novo limite de velocidade entra em vigor dia 01 de julho no trecho urbano da SP-310 São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-22T18:39:32.892190+00:00"
     },
     {
       "id": "e2eadeb15563aa8b0b90b0aa095c1af6d6782c4858a6770594d98079f4dbaec6",
@@ -105,13 +122,13 @@
       "published": "2026-06-22T12:45:00+00:00",
       "published_raw": "Mon, 22 Jun 2026 12:45:00 GMT",
       "snippet": "Redução de velocidade entra em vigor na SP-310 em Araraquara a partir de 1º de julho Araraquara News",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:10.624899+00:00"
+      "collected_at": "2026-06-22T18:39:34.104956+00:00"
     },
     {
       "id": "9f1a69c7e9ed32c8281e8c5335f522fcaefe113d8bacc464f6b552b0dbcab7cc",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:22.543604+00:00"
+      "collected_at": "2026-06-22T18:39:34.104870+00:00"
     },
     {
       "id": "3e5c5b240a198a5c230aba1c4863e36f038f41c98e28c603e5b47f065a9b243d",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:08.905923+00:00"
+      "collected_at": "2026-06-22T18:39:19.046332+00:00"
     },
     {
       "id": "d896e4de6f7b39bf5c600d356f8135fd8e66e34b0960019261ed64c41c361aee",
@@ -156,13 +173,13 @@
       "published": "2026-06-22T12:27:11+00:00",
       "published_raw": "Mon, 22 Jun 2026 12:27:11 GMT",
       "snippet": "Redução de velocidade entra em vigor no trecho urbano da SP-310, em Araraquara, em 1º de julho Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T16:47:08.905857+00:00"
+      "collected_at": "2026-06-22T18:39:19.046259+00:00"
     }
   ]
 }
