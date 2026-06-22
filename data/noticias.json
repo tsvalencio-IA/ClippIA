@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-22T14:24:55.304155+00:00",
+  "updated_at": "2026-06-22T16:47:25.886548+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,55 @@
   ],
   "items": [
     {
-      "id": "90aee14c21746ee98ba2a273c3310d53e7801e4c9491fc8f3b44e923a71d2e01",
-      "title": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM2JlN191dnY5cFNTYnVaNkdzMGdseW14V0YybVFnWGZJZ2VPMUFTWjZKTG5vRVlTcVkyTEJSZTlVTVJmVkMxSllrTHRhQS1Ic2Vnb2NZczk1dVcyZjU4aVJwQ2J0Z3JMR3phVGQ3MGRiNVdScWpOYlowckMtUVlEdC1fMVJSVG83MzRNRXpIVUN3VmwydFVGU2gtRzl2ZGtNb3hCNDFadHIybEM5d2NYN3BoX0ZlOThHT2hVMmNOdnZucUNxNFJJUldUYVZkOElXZnJSMFBTR1p5V0pMd085dkx1anl6dm51TmNPRTdpWHF0bGRuSVFpdE930gGIAkFVX3lxTE56Q1FtbV9JSV95V2FwcjlUU1hOd25yb0trNmFBS3pGVFFBUDlFV2NfNlFFSnpjTnFWWHZCdHJ1RWFRUjUzcy0tUlZPV3N1bDZSN2hZcjVJVU96d0NzemFIOG14ekNUR21hQk5YaXotVWZlRHg2dTZxeTFYd2NtYzVIX19YSV9UR3F1alRRaTVRUkRsMHJ2OVBBd0IwZkVDQ0E3NnpLYUpFWXd5U0ZXemtjc2tmWDB4WExubkpSbHlRR3BPOG44dU5uallrbVJYakRJWi01QlVEVkZGbXJZdUxCeXMzbmJfXzBQZEdDT3dOek5hTzRDUHBtdEcxbDlwaGtQaWRpZW1Eaw?oc=5",
+      "id": "efb0294bd193e5756850744ed546044416ccff3d56e8a6d48a5b5ab5e134f09e",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 22/6 a 28/6/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3VHeFBxWHVYU1F6QkRxRjZ0NzJRWTkxMlhhQlk5OTM5YTg2d1VSNFBPTjhTU05xS3F1TGRFeDNQN3Y1R1Q3bF84cXVXcTBobm93VFczTXFuYnBxNHZfcGhEZnczUlVDc3pOVUtfTWVvU2pab0R6aVZyZ2w2MVJjc1MzVmhLUV9oUUI1RWJib0RxYThmdm1odWNwR2p6SF81YVFXSXlwSlpVOGp1dGxQYVowQjkzZw?oc=5",
       "resolved_link": "",
-      "published": "2026-06-22T13:50:04+00:00",
-      "published_raw": "Mon, 22 Jun 2026 13:50:04 GMT",
-      "snippet": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-06-22T16:02:56+00:00",
+      "published_raw": "Mon, 22 Jun 2026 16:02:56 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 22/6 a 28/6/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-22T16:47:08.905613+00:00"
+    },
+    {
+      "id": "ba34950e9b49db8f371341d98e71d31fc1f25d53500c1fc0cfa55bca2b67c8e4",
+      "title": "Rodovia do interior de São Paulo terá velocidade reduzida em trecho; veja qual é e fique atento - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1BXUkdYa2pYdVo4MldQVWdTXy0wcE16Z281blp5Uy1YdHNtQWE5a3FQSHdmWEFna3JoRzlkbldYVE9paEVUcC12UHJOQzgtRHBmeERNU0R2NGxRdUtuUkVSVG1TbXpmaE5qSzU5d0t5R0pleWVLY3dwR01uaWt0WG1lZjc5YWJUQWp0bXlTeEZxT3NKcGI2MDNEVEFWZTg2NThNWmw0YW5tVHhyM3dHUUx6SEFBSzN3NUJqMzdkbWxOY3pCamlENHY3eFpwckVVUGdSdWhUbGxyM05Q0gHcAUFVX3lxTE0zUFdSR1hralh1WjgyV1BVZ1NfLTBwTXpnbzVuWnlTLVh0c21BYTlrcVBId2ZYQWdrcmhHOWRuV1hUT2loRVRwLXZQck5DOC1EcGZ4RE1TRHY0bFF1S25SRVJUbVNtemZoTmpLNTl3S3lHSmV5ZUtjd3BHTW5pa3RYbWVmNzlhYlRBanRteVN4RnFPc0pwYjYwM0RUQVZlODY1OE1abDRhbm1UeHIzd0dRTHpIQUFLM3c1QmozN2RtbE5jekJqaUQ0djd4WnByRVVQZ1J1aFRsbHIzTlA?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-22T15:14:08+00:00",
+      "published_raw": "Mon, 22 Jun 2026 15:14:08 GMT",
+      "snippet": "Rodovia do interior de São Paulo terá velocidade reduzida em trecho; veja qual é e fique atento ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.996596+00:00"
+      "collected_at": "2026-06-22T16:47:08.905783+00:00"
+    },
+    {
+      "id": "90aee14c21746ee98ba2a273c3310d53e7801e4c9491fc8f3b44e923a71d2e01",
+      "title": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOekNRbW1fSUlfeVdhcHI5VFNYTnducm9LazZhQUt6RlRRQVA5RVdjXzZRRUp6Y05xVlh2QnRydUVhUVI1M3MtLVJWT1dzdWw2UjdoWXI1SVVPendDc3phSDhteHpDVEdtYUJOWGl6LVVmZUR4NnU2cXkxWHdjbWM1SF9fWElfVEdxdWpUUWk1UVJEbDBydjlQQXdCMGZFQ0NBNzZ6S2FKRVl3eVNGV3prY3NrZlgweFhMbm5KUmx5UUdwTzhuOHVObmpZa21SWGpESVotNUJVRFZGRm1yWXVMQnlzM25iX18wUGRHQ093TnpOYU80Q1BwbXRHMWw5cGhrUGlkaWVtRGvSAYgCQVVfeXFMTnpDUW1tX0lJX3lXYXByOVRTWE53bnJvS2s2YUFLekZUUUFQOUVXY182UUVKemNOcVZYdkJ0cnVFYVFSNTNzLS1SVk9Xc3VsNlI3aFlyNUlVT3p3Q3N6YUg4bXh6Q1RHbWFCTlhpei1VZmVEeDZ1NnF5MVh3Y21jNUhfX1hJX1RHcXVqVFFpNVFSRGwwcnY5UEF3QjBmRUNDQTc2ekthSkVZd3lTRld6a2Nza2ZYMHhYTG5uSlJseVFHcE84bjh1Tm5qWWttUlhqRElaLTVCVURWRkZtcll1TEJ5czNuYl9fMFBkR0NPd056TmFPNENQcG10RzFsOXBoa1BpZGllbURr?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-22T13:50:04+00:00",
+      "published_raw": "Mon, 22 Jun 2026 13:50:04 GMT",
+      "snippet": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP G1",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-22T16:47:08.905705+00:00"
     },
     {
       "id": "e2eadeb15563aa8b0b90b0aa095c1af6d6782c4858a6770594d98079f4dbaec6",
@@ -71,13 +105,13 @@
       "published": "2026-06-22T12:45:00+00:00",
       "published_raw": "Mon, 22 Jun 2026 12:45:00 GMT",
       "snippet": "Redução de velocidade entra em vigor na SP-310 em Araraquara a partir de 1º de julho Araraquara News",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.996941+00:00"
+      "collected_at": "2026-06-22T16:47:10.624899+00:00"
     },
     {
       "id": "9f1a69c7e9ed32c8281e8c5335f522fcaefe113d8bacc464f6b552b0dbcab7cc",
@@ -88,30 +122,30 @@
       "published": "2026-06-22T12:34:44+00:00",
       "published_raw": "Mon, 22 Jun 2026 12:34:44 GMT",
       "snippet": "Washington Luís terá limite de velocidade reduzido para 90 km/h em 15 quilômetros; confira os pontos São Carlos em Rede",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.996772+00:00"
+      "collected_at": "2026-06-22T16:47:22.543604+00:00"
     },
     {
       "id": "3e5c5b240a198a5c230aba1c4863e36f038f41c98e28c603e5b47f065a9b243d",
       "title": "SP-310 em Araraquara terá redução de velocidade a partir de julho; entenda a mudança - Araraquara Agora",
       "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWlxdGh5S1VvSVhoeDlIbThCX09CZjJ3NFZXRk1FVHJfeVRJSU1icS1VQlVJLUxJZGJwQzM0QWpjZVJHUGVZQnNfc3FCMU9kUlBKQkJPVW9hR0NtWHZsd25PeTBncUpMSXBNcndlSTZaMUVqQUdsZ29PbHJhZEdhcWNvajhMUTJpa1l4WDdPYi1mTVhzeGliWjFfOWs2ZFRWeVJJOUJDbFMzYVRNbEp4Vlg2d1czSVZSTFl3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzQwME91NXNkdzR4a2VNY1JDUVpwWVR4eFg4bnZDTEFTc3hnVnVFcUx1UlR4Zjl1QmVVZDNzSFVPNkliMDFVRlhfZklnaVkxNXItRnJibGdLQmhoUWVVMlBBbTdqRkJYZ0pWRlRJTG1rcE1Ga0NHNnUzU0dXMXRNb1I2SERIakxDYjdEZ3pGd0d6bmhPV0FQc3VUREZEakxkS3V4bnFhYWR3RGYwZ09QZHhKRFBzSlpsVmJYZmExaVc?oc=5",
       "resolved_link": "",
       "published": "2026-06-22T12:34:09+00:00",
       "published_raw": "Mon, 22 Jun 2026 12:34:09 GMT",
       "snippet": "SP-310 em Araraquara terá redução de velocidade a partir de julho; entenda a mudança Araraquara Agora",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.997006+00:00"
+      "collected_at": "2026-06-22T16:47:08.905923+00:00"
     },
     {
       "id": "d896e4de6f7b39bf5c600d356f8135fd8e66e34b0960019261ed64c41c361aee",
@@ -128,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.996693+00:00"
-    },
-    {
-      "id": "215e72ee50ed6f2cdf066b4eccf255bfa78eecbbc4b56752d70d35bfe93381bf",
-      "title": "Obra entre Rio Preto e Mirassol completa 1 ano e nova fase é iniciada - Votuporanga Tudo",
-      "source": "Votuporanga Tudo",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbU9kTUh0V2RKaUJlRnhhSUxkOUk4RmRrZTB6UnZkdlJKMVBCelFEMVhZLTM2V1EzUXp2LWhoNXJhbjMtTDAyU1RLeEpnaUtWTkxSX2xVSW5IVjFhSk5mUFZOSVVZVjNCSEdmZHFEMWVEV0g3S0E4aGxiSDI4UGxsNlJ2Yy1lcmo3dExhYlNTcEdTYk42WGpLcmJZbHNrN1ZMNGZzdmFSWWdteWc3a2lMakxweE1NZHZVcHhkQWlqS21YZWkzSFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-21T14:46:00+00:00",
-      "published_raw": "Sun, 21 Jun 2026 14:46:00 GMT",
-      "snippet": "Obra entre Rio Preto e Mirassol completa 1 ano e nova fase é iniciada Votuporanga Tudo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-22T14:24:37.996862+00:00"
+      "collected_at": "2026-06-22T16:47:08.905857+00:00"
     }
   ]
 }
