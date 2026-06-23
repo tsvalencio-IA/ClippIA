@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-23T17:13:37.902396+00:00",
+  "updated_at": "2026-06-23T19:48:34.280305+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 10,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "31cac260514073647eb658d11213755e042dc36ba83c0b48a42b02eff503db3b",
+      "title": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDgxNUR4OS1uZWZwR0I4ZkNhSFVjaWNycy1GV3lQU185ZGgtM1B4MVM3LWx5NDBxTXV0WGk5SDBhR19CSlB0TGM2MklVQXFOQ3JFbWhmNjlhckd5dVNKb0ltc0ViOHpEblZfeUJJcUx0MndrRFhDeDVmMk9pZUFXeElELXd5UWdPZFBCRElfU0lZNmw1bWcyLVlfVXc4OTVDZVI4ZmRZTUNmbWpTdDM1b3pNc3VEV3M?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-23T18:40:00+00:00",
+      "published_raw": "Tue, 23 Jun 2026 18:40:00 GMT",
+      "snippet": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos Votunews",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-23T19:48:29.298639+00:00"
+    },
+    {
+      "id": "2629a9576ef66b352c13423b3cf0455488204c87a407fb3fab64fb70827bfd14",
+      "title": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHpVbXdJdENPQzhjQ1lqeXNjNFphWV9KZm1JdEJIT3V4YWhSOEktcV9nTEd6cDdMaXdac0lHWjhpR3c5YVRYUlFVSllxeVVjUC1EVmVscmRDS1NYOTBnTnRsZ0czX1dGcFpjbFVhRk9WYkZzR01lamJQQUc2X3p0RHB6UXJqYU9WajlzemlGZGNEZWVtcnN6d0VKcEd4WlZqYkhfaXQ4MGhVWmdpS2RGVGRMbjRHdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-23T17:32:00+00:00",
+      "published_raw": "Tue, 23 Jun 2026 17:32:00 GMT",
+      "snippet": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-23T19:48:17.953173+00:00"
+    },
+    {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
       "title": "Confira o cronograma de obras nas rodovias da região - OExtra.net",
       "source": "OExtra.net",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.759263+00:00"
+      "collected_at": "2026-06-23T19:48:17.952353+00:00"
     },
     {
       "id": "c676adef17dfe00f9bc0f4046fa3f8bcbbb6d20bf04895cc5e3d53f9107cbaa0",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:23.355466+00:00"
+      "collected_at": "2026-06-23T19:48:19.575624+00:00"
     },
     {
       "id": "f766ebab67c5420743d2221b1d11261a81faae3e2c0a80c5e274ee7be108dbbd",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.759420+00:00"
+      "collected_at": "2026-06-23T19:48:17.952735+00:00"
     },
     {
       "id": "9604c457366aa1f761381d516a699fb88b8e9add64df970dce47814e1a31f5cf",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.759347+00:00"
+      "collected_at": "2026-06-23T19:48:17.952573+00:00"
     },
     {
       "id": "d3250bc16c62097914a23f66be3f213893ad54ecdb00c42a8796e19539e02c92",
@@ -122,13 +156,13 @@
       "published": "2026-06-23T03:12:00+00:00",
       "published_raw": "Tue, 23 Jun 2026 03:12:00 GMT",
       "snippet": "São Carlos encerra no dia 28 inscrições para editais de fomento à Cultura - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.759520+00:00"
+      "collected_at": "2026-06-23T19:48:17.952889+00:00"
     },
     {
       "id": "9618bd8ae2daa0d43d8b1c97d9ac463b765606fa03bd8706ba41cf9db8eb50e8",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.759183+00:00"
+      "collected_at": "2026-06-23T19:48:17.952190+00:00"
     },
     {
       "id": "65d7e76c86205b740e195bb9a033c3d4a6e574e06b788db4dbc5b08d38a62dd3",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.764521+00:00"
+      "collected_at": "2026-06-23T19:48:17.953035+00:00"
     },
     {
       "id": "79a8ba00abfff2d47ca370032450f36c250f0f1d0dfe9184d333e54f9ad46e34",
@@ -179,58 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T17:13:31.928758+00:00"
-    },
-    {
-      "id": "5c9c8b6daf2cdd1cda8d2aa720140163f85f764903620fccdd0ca467988c1028",
-      "title": "Parque Ecológico abre inscrições para passeio noturno junino - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUZjRE14ZzJJQi0yOWhzVWhhVU52MW9XZUJ2TzZ0emhDczBBdnd6ZkpjWTduT1RFdTI0aWluVkZLekNibGc2bEswODZWZlF1VUcwYjBaa0NzUWhZcmJNWVVGeVVQTF9ZLVJaaGdVQlJ4aTl6c24ycnFUcDI2NHlPVjBmRVI5QkNwTUpUS0pOYXozTEZRa1MyQVNB0gGaAUFVX3lxTE5xRmNETXhnMklCLTI5aHNVaGFVTnYxb1dlQnZPNnR6aENzMEF2d3pmSmNZN25PVEV1MjRpaW5WRkt6Q2JsZzZsSzA4NlZmUXVVRzBiMFprQ3NRaFlyYk1ZVUZ5VVBMX1ktUlpoZ1VCUnhpOXpzbjJycVRwMjY0eU9WMGZFUjlCQ3BNSlRLSk5hejNMRlFrUzJBU0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T19:04:07+00:00",
-      "published_raw": "Mon, 22 Jun 2026 19:04:07 GMT",
-      "snippet": "Parque Ecológico abre inscrições para passeio noturno junino - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.764448+00:00"
-    },
-    {
-      "id": "1ac6159a133f8925508490d1920754ac6a9a0527dd2feaeabddb271214ae27dc",
-      "title": "Sem chance de volta? “A Virginia por quem me apaixonei não existe mais”, dispara Zé Felipe - São Carlos no - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVM3aVZORVpHbTVqUWc5Y0ZteG9icV9QbG56SGJ2X3NxWmlaQ2o1ODBzb1hfWUFRU1ltVEo1VGJJSEI2ZG9wVW0wOWZDd042LXRUbE90VVl2OHRjZWpxZTRfNzhITmRkY2ppZEFYMEVlWEVHM0x3N09lMTh6TTBKMFRscjBORVNacEJCbTFXVkszSllMR25zQWxJLWxxVjBCTTQ0Y3NiQW92aTJZalZTaHBHczRoUDZ3REUwbNIBvAFBVV95cUxOYVM3aVZORVpHbTVqUWc5Y0ZteG9icV9QbG56SGJ2X3NxWmlaQ2o1ODBzb1hfWUFRU1ltVEo1VGJJSEI2ZG9wVW0wOWZDd042LXRUbE90VVl2OHRjZWpxZTRfNzhITmRkY2ppZEFYMEVlWEVHM0x3N09lMTh6TTBKMFRscjBORVNacEJCbTFXVkszSllMR25zQWxJLWxxVjBCTTQ0Y3NiQW92aTJZalZTaHBHczRoUDZ3REUwbA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T18:57:32+00:00",
-      "published_raw": "Mon, 22 Jun 2026 18:57:32 GMT",
-      "snippet": "Sem chance de volta? “A Virginia por quem me apaixonei não existe mais”, dispara Zé Felipe - São Carlos no São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T17:13:21.764354+00:00"
-    },
-    {
-      "id": "ee22c045ec158a1eec98809d0769ab263a55ca90849adca4c6d8812c040c04ee",
-      "title": "Velocidade máxima para carros tem mudança em trechos de rodovias no interior de SP; VEJA - redeutv.com.br",
-      "source": "redeutv.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0dSQU9ZU3ZOSFdCYXhrOThfenBDc2dXVEU2djE3SGR5Yko1ZVdic2l6LW9SUjdoS0hrUEd3NDhYd3VFZHBZcDVJRWQwRzlmNEpEVkNoMXFvY202OUZPcWxKV01NeHJ6ODNFREREeUNQWG10TjdtLUV3cDdld3dyYXI3LUtob3dMT3VTcnNaZkM3M014Q0dsYWJPbC1fT01DVFlBQUN5SEtibmlVVGZN?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T17:50:00+00:00",
-      "published_raw": "Mon, 22 Jun 2026 17:50:00 GMT",
-      "snippet": "Velocidade máxima para carros tem mudança em trechos de rodovias no interior de SP; VEJA redeutv.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T17:13:35.260621+00:00"
+      "collected_at": "2026-06-23T19:48:28.184685+00:00"
     }
   ]
 }
