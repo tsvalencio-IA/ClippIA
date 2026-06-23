@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-06-23T11:56:45.601043+00:00",
+  "updated_at": "2026-06-23T14:27:31.869944+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 16,
+  "total": 0,
   "total_images": 0,
-  "new_items": 16,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,278 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "d3250bc16c62097914a23f66be3f213893ad54ecdb00c42a8796e19539e02c92",
-      "title": "São Carlos encerra no dia 28 inscrições para editais de fomento à Cultura - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnBPOGJma3JvQ1lsMUVmZzNOaDlKdWZReTljUTFlTGRaTmcwRUpjNU4zVG5JbUpnSUYxRlJzd2tCWmh1dzRiWjFWSUZiOUVjcGExTkY0ZXpGNkJnVUFGUVQwM1NBNkpreWw1aDh6bkxnVFc3VV9PMG9qdUFlVGNaX3M2NTRwT2JWaVhLbnRUd2dWQzRQcmtsZFJzVDBWVjJqN0wycndlNExaU3PSAasBQVVfeXFMTU5wTzhiZmtyb0NZbDFFZmczTmg5SnVmUXk5Y1ExZUxkWk5nMEVKYzVOM1RuSW1KZ0lGMUZSc3drQlpodXc0YloxVklGYjlFY3BhMU5GNGV6RjZCZ1VBRlFUMDNTQTZKa3lsNWg4em5MZ1RXN1VfTzBvanVBZVRjWl9zNjU0cE9iVmlYS250VHdnVkM0UHJrbGRSc1QwVlYyajdMMnJ3ZTRMWlNz?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T03:12:00+00:00",
-      "published_raw": "Tue, 23 Jun 2026 03:12:00 GMT",
-      "snippet": "São Carlos encerra no dia 28 inscrições para editais de fomento à Cultura - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:39.773874+00:00"
-    },
-    {
-      "id": "9618bd8ae2daa0d43d8b1c97d9ac463b765606fa03bd8706ba41cf9db8eb50e8",
-      "title": "Ecovias Noroeste Paulista divulga cronograma de obras entre 22 e 28 de junho em rodovias do interior de São Paulo - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVHlza0g3cDljeEZIdmk1WnNCZ0otMlQ5QzdnS29PeXJKUkNPbjBLYkFFZTZ4dDdWcWdfMExab0dMallEbDYwV2tramkyZ1ZiYUlrNEFkbjEwWTVWSkNXS2x2TjRSQjBqX29TZ25hdlc3VUR5QlNFZ0VGQVdPeE9mNVB0Tk5zU1JMbmtNTmhUejVRSmtLQ0ZNdTFEWXJXNnJrUlM5Sm1EV2NXakhQeGZRUG5TNUlOakZfaDVoQ2Z5ekkzUzJJN0toTVdwaC1SMVFETEVZNDYwbUdHNGVCdGpuUFh2eW80RVZwOUF1WEpqR29PMmhYOGfSAfYBQVVfeXFMT1R5c2tIN3A5Y3hGSHZpNVpzQmdKLTJUOUM3Z0tvT3lySlJDT24wS2JBRWU2eHQ3VnFnXzBMWm9HTGpZRGw2MFdra2ppMmdWYmFJazRBZG4xMFk1VkpDV0tsdk40UkIwal9vU2duYXZXN1VEeUJTRWdFRkFXT3hPZjVQdE5Oc1NSTG5rTU5oVHo1UUprS0NGTXUxRFlyVzZya1JTOUptRFdjV2pIUHhmUVBuUzVJTmpGX2g1aENmeXpJM1MySTdLaE1XcGgtUjFRRExFWTQ2MG1HRzRlQnRqblBYdnlvNEVWcDlBdVhKakdvTzJoWDhn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T01:00:52+00:00",
-      "published_raw": "Tue, 23 Jun 2026 01:00:52 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras entre 22 e 28 de junho em rodovias do interior de São Paulo Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:29.692356+00:00"
-    },
-    {
-      "id": "65d7e76c86205b740e195bb9a033c3d4a6e574e06b788db4dbc5b08d38a62dd3",
-      "title": "Morre Wenderçon Stubé Matheus Júnior, referência do mercado imobiliário de São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlqVWlFdUZ0SThmcEswLXpHTmVJMjk1eDlucGgwRWtlMXBfSmRFZUpfSm1udFZEZUlPc192d1lfcVY1OE1IbGlXQ0c5bHMwMlhUSWtBQWNQQldEXzI0TFVfZHctSDkxNGltZl9NMjVwUTZkRDgxNG53YjhGVll3TkxQQWsxMkltaXdfYlVuTmU2aUt6VDhKYTJ4dE1Ca0J5dVUzSzVJamRkSEdtd2h0alFXX0c2UW84UlHSAboBQVVfeXFMTTE5alVpRXVGdEk4ZnBLMC16R05lSTI5NXg5bnBoMEVrZTFwX0pkRWVKX0ptbnRWRGVJT3NfdndZX3FWNThNSGxpV0NHOWxzMDJYVElrQUFjUEJXRF8yNExVX2R3LUg5MTRpbWZfTTI1cFE2ZEQ4MTRud2I4RlZZd05MUEFrMTJJbWl3X2JVbk5lNmlLelQ4SmEyeHRNQmtCeXVVM0s1SWpkZEhHbXdodGpRV19HNlFvOFJR?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T20:56:59+00:00",
-      "published_raw": "Mon, 22 Jun 2026 20:56:59 GMT",
-      "snippet": "Morre Wenderçon Stubé Matheus Júnior, referência do mercado imobiliário de São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:39.774368+00:00"
-    },
-    {
-      "id": "79a8ba00abfff2d47ca370032450f36c250f0f1d0dfe9184d333e54f9ad46e34",
-      "title": "Obras na Washington Luís podem afetar viagem de mirassolenses entre 22 e 28 de junho - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkRRNXV1OEtuZEFXN3ZfbUpVbWRGYTZieGswQ1hyM3pyNmpBTlBhRTNGTWZRM0NWckk0MnY1ZHVhVy1sVmp6SXRhNUc2RkRaWTFKWjBTT0E5YUg2T2ZZWGpYdUx0TUl6akFRMkl4RE5Zb0NhSXBBSl9reTJadldhTjRDRHlRQXNKSE05bkJDQm5rRTRIaVpHZVRzaVFwSXBoSDNsOHhXd0FiSjZmVDRNMURNZU9XSU5KeTRfZlFjSU9kY240RzZOblk5QXZGV2t6RWhVbGZXYnE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T19:54:00+00:00",
-      "published_raw": "Mon, 22 Jun 2026 19:54:00 GMT",
-      "snippet": "Obras na Washington Luís podem afetar viagem de mirassolenses entre 22 e 28 de junho Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:39.774438+00:00"
-    },
-    {
-      "id": "5c9c8b6daf2cdd1cda8d2aa720140163f85f764903620fccdd0ca467988c1028",
-      "title": "Parque Ecológico abre inscrições para passeio noturno junino - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUZjRE14ZzJJQi0yOWhzVWhhVU52MW9XZUJ2TzZ0emhDczBBdnd6ZkpjWTduT1RFdTI0aWluVkZLekNibGc2bEswODZWZlF1VUcwYjBaa0NzUWhZcmJNWVVGeVVQTF9ZLVJaaGdVQlJ4aTl6c24ycnFUcDI2NHlPVjBmRVI5QkNwTUpUS0pOYXozTEZRa1MyQVNB0gGaAUFVX3lxTE5xRmNETXhnMklCLTI5aHNVaGFVTnYxb1dlQnZPNnR6aENzMEF2d3pmSmNZN25PVEV1MjRpaW5WRkt6Q2JsZzZsSzA4NlZmUXVVRzBiMFprQ3NRaFlyYk1ZVUZ5VVBMX1ktUlpoZ1VCUnhpOXpzbjJycVRwMjY0eU9WMGZFUjlCQ3BNSlRLSk5hejNMRlFrUzJBU0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T19:04:07+00:00",
-      "published_raw": "Mon, 22 Jun 2026 19:04:07 GMT",
-      "snippet": "Parque Ecológico abre inscrições para passeio noturno junino - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:39.774302+00:00"
-    },
-    {
-      "id": "1ac6159a133f8925508490d1920754ac6a9a0527dd2feaeabddb271214ae27dc",
-      "title": "Sem chance de volta? “A Virginia por quem me apaixonei não existe mais”, dispara Zé Felipe - São Carlos no - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVM3aVZORVpHbTVqUWc5Y0ZteG9icV9QbG56SGJ2X3NxWmlaQ2o1ODBzb1hfWUFRU1ltVEo1VGJJSEI2ZG9wVW0wOWZDd042LXRUbE90VVl2OHRjZWpxZTRfNzhITmRkY2ppZEFYMEVlWEVHM0x3N09lMTh6TTBKMFRscjBORVNacEJCbTFXVkszSllMR25zQWxJLWxxVjBCTTQ0Y3NiQW92aTJZalZTaHBHczRoUDZ3REUwbNIBvAFBVV95cUxOYVM3aVZORVpHbTVqUWc5Y0ZteG9icV9QbG56SGJ2X3NxWmlaQ2o1ODBzb1hfWUFRU1ltVEo1VGJJSEI2ZG9wVW0wOWZDd042LXRUbE90VVl2OHRjZWpxZTRfNzhITmRkY2ppZEFYMEVlWEVHM0x3N09lMTh6TTBKMFRscjBORVNacEJCbTFXVkszSllMR25zQWxJLWxxVjBCTTQ0Y3NiQW92aTJZalZTaHBHczRoUDZ3REUwbA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T18:57:32+00:00",
-      "published_raw": "Mon, 22 Jun 2026 18:57:32 GMT",
-      "snippet": "Sem chance de volta? “A Virginia por quem me apaixonei não existe mais”, dispara Zé Felipe - São Carlos no São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:39.774233+00:00"
-    },
-    {
-      "id": "efb0294bd193e5756850744ed546044416ccff3d56e8a6d48a5b5ab5e134f09e",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 22/6 a 28/6/2026 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3VHeFBxWHVYU1F6QkRxRjZ0NzJRWTkxMlhhQlk5OTM5YTg2d1VSNFBPTjhTU05xS3F1TGRFeDNQN3Y1R1Q3bF84cXVXcTBobm93VFczTXFuYnBxNHZfcGhEZnczUlVDc3pOVUtfTWVvU2pab0R6aVZyZ2w2MVJjc1MzVmhLUV9oUUI1RWJib0RxYThmdm1odWNwR2p6SF81YVFXSXlwSlpVOGp1dGxQYVowQjkzZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T16:02:56+00:00",
-      "published_raw": "Mon, 22 Jun 2026 16:02:56 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 22/6 a 28/6/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:29.692444+00:00"
-    },
-    {
-      "id": "a84188b759ec583a03263417d43e33785efe99aeebd1a5e924dcd8974f920c5f",
-      "title": "Redução de velocidade entra em vigor no trecho urbano da SP-310, em Araraquara, em 1º de julho - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdnJNMWp3NUw5QWkyNUxiMkFMWkd5czRUVmJkeTAtazVZNFozNHZFd0l4RDN2N3JCTjVnQmdhVUtyZndTUHNjRU9MWEVnam9MR00wUHNhTnlMRHpZNDl6WGZvS1dJTHBTMXNUR3paMkc0b1JwdmdXdFltN1ZBZkt0NkdySjRySkE4bkxIQk1rQnVGWE1sVUVHNU12b0tCREdReGRfRnpCbDNIVVN4S0NZTXNfMHlpZjdSWXNqWklvMWcxdUtjQXlScmZMVkROSzQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T15:34:49+00:00",
-      "published_raw": "Mon, 22 Jun 2026 15:34:49 GMT",
-      "snippet": "Redução de velocidade entra em vigor no trecho urbano da SP-310, em Araraquara, em 1º de julho Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:29.692603+00:00"
-    },
-    {
-      "id": "ba34950e9b49db8f371341d98e71d31fc1f25d53500c1fc0cfa55bca2b67c8e4",
-      "title": "Rodovia do interior de São Paulo terá velocidade reduzida em trecho; veja qual é e fique atento - ACidade ON",
-      "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1BXUkdYa2pYdVo4MldQVWdTXy0wcE16Z281blp5Uy1YdHNtQWE5a3FQSHdmWEFna3JoRzlkbldYVE9paEVUcC12UHJOQzgtRHBmeERNU0R2NGxRdUtuUkVSVG1TbXpmaE5qSzU5d0t5R0pleWVLY3dwR01uaWt0WG1lZjc5YWJUQWp0bXlTeEZxT3NKcGI2MDNEVEFWZTg2NThNWmw0YW5tVHhyM3dHUUx6SEFBSzN3NUJqMzdkbWxOY3pCamlENHY3eFpwckVVUGdSdWhUbGxyM05Q0gHcAUFVX3lxTE0zUFdSR1hralh1WjgyV1BVZ1NfLTBwTXpnbzVuWnlTLVh0c21BYTlrcVBId2ZYQWdrcmhHOWRuV1hUT2loRVRwLXZQck5DOC1EcGZ4RE1TRHY0bFF1S25SRVJUbVNtemZoTmpLNTl3S3lHSmV5ZUtjd3BHTW5pa3RYbWVmNzlhYlRBanRteVN4RnFPc0pwYjYwM0RUQVZlODY1OE1abDRhbm1UeHIzd0dRTHpIQUFLM3c1QmozN2RtbE5jekJqaUQ0djd4WnByRVVQZ1J1aFRsbHIzTlA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T15:14:08+00:00",
-      "published_raw": "Mon, 22 Jun 2026 15:14:08 GMT",
-      "snippet": "Rodovia do interior de São Paulo terá velocidade reduzida em trecho; veja qual é e fique atento ACidade ON",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:40.860794+00:00"
-    },
-    {
-      "id": "174933cde87455dfd2f5f8a5b001b79c787d61a848dbbc5ecc8ea1be8db4c7e4",
-      "title": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP - Grupo Jota Sidney",
-      "source": "Grupo Jota Sidney",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObW5Sby1MVEI3YU5VNlNyVEV3ZmFhZkdrbVpYSlBWTDUtUDZlaThDOEI5WERZcDg3NGtqc2tBX3M5al9sZkcwVTVpTjhLdnJzY29ObERNM09taW1XcXFGd2E3LXZQSFVCV2F4c1VXcjZoZExPQmZ2SDN3YVJ1N2ZuRFN6aWgxTTRaNWZIUzJaWE5tbDFYTDMwc1BQNnFjc3llYTdmTjV0SHdHTmJwZzd3Zll4MHdKeTBqSTdCRUxUTngwWWVyRnVuQVVtc0hOTzhRMUxhVjBhUkNUaC1TWGctZzNSSlhWNVItWGdmak5ZeUVvTF9IRGVUdnhINVBWb3lEbEVNUnVmamFRa2NEV2cw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T15:08:26+00:00",
-      "published_raw": "Mon, 22 Jun 2026 15:08:26 GMT",
-      "snippet": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP Grupo Jota Sidney",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:29.692675+00:00"
-    },
-    {
-      "id": "90aee14c21746ee98ba2a273c3310d53e7801e4c9491fc8f3b44e923a71d2e01",
-      "title": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOekNRbW1fSUlfeVdhcHI5VFNYTnducm9LazZhQUt6RlRRQVA5RVdjXzZRRUp6Y05xVlh2QnRydUVhUVI1M3MtLVJWT1dzdWw2UjdoWXI1SVVPendDc3phSDhteHpDVEdtYUJOWGl6LVVmZUR4NnU2cXkxWHdjbWM1SF9fWElfVEdxdWpUUWk1UVJEbDBydjlQQXdCMGZFQ0NBNzZ6S2FKRVl3eVNGV3prY3NrZlgweFhMbm5KUmx5UUdwTzhuOHVObmpZa21SWGpESVotNUJVRFZGRm1yWXVMQnlzM25iX18wUGRHQ093TnpOYU80Q1BwbXRHMWw5cGhrUGlkaWVtRGvSAYgCQVVfeXFMTnpDUW1tX0lJX3lXYXByOVRTWE53bnJvS2s2YUFLekZUUUFQOUVXY182UUVKemNOcVZYdkJ0cnVFYVFSNTNzLS1SVk9Xc3VsNlI3aFlyNUlVT3p3Q3N6YUg4bXh6Q1RHbWFCTlhpei1VZmVEeDZ1NnF5MVh3Y21jNUhfX1hJX1RHcXVqVFFpNVFSRGwwcnY5UEF3QjBmRUNDQTc2ekthSkVZd3lTRld6a2Nza2ZYMHhYTG5uSlJseVFHcE84bjh1Tm5qWWttUlhqRElaLTVCVURWRkZtcll1TEJ5czNuYl9fMFBkR0NPd056TmFPNENQcG10RzFsOXBoa1BpZGllbURr?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T13:50:04+00:00",
-      "published_raw": "Mon, 22 Jun 2026 13:50:04 GMT",
-      "snippet": "Velocidade máxima para carros cai de 110 para 90 km/h em trecho da Washington Luís no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:29.692520+00:00"
-    },
-    {
-      "id": "87d2c1b78be98d63d5a04f40cbc4fd48c6ad815497f9cc15f94d20ff537635da",
-      "title": "Velocidade máxima para carros tem mudança em trechos de rodovias no interior de SP; VEJA - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM2JlN191dnY5cFNTYnVaNkdzMGdseW14V0YybVFnWGZJZ2VPMUFTWjZKTG5vRVlTcVkyTEJSZTlVTVJmVkMxSllrTHRhQS1Ic2Vnb2NZczk1dVcyZjU4aVJwQ2J0Z3JMR3phVGQ3MGRiNVdScWpOYlowckMtUVlEdC1fMVJSVG83MzRNRXpIVUN3VmwydFVGU2gtRzl2ZGtNb3hCNDFadHIybEM5d2NYN3BoX0ZlOThHT2hVMmNOdnZucUNxNFJJUldUYVZkOElXZnJSMFBTR1p5V0pMd085dkx1anl6dm51TmNPRTdpWHF0bGRuSVFpdE930gGIAkFVX3lxTE56Q1FtbV9JSV95V2FwcjlUU1hOd25yb0trNmFBS3pGVFFBUDlFV2NfNlFFSnpjTnFWWHZCdHJ1RWFRUjUzcy0tUlZPV3N1bDZSN2hZcjVJVU96d0NzemFIOG14ekNUR21hQk5YaXotVWZlRHg2dTZxeTFYd2NtYzVIX19YSV9UR3F1alRRaTVRUkRsMHJ2OVBBd0IwZkVDQ0E3NnpLYUpFWXd5U0ZXemtjc2tmWDB4WExubkpSbHlRR3BPOG44dU5uallrbVJYakRJWi01QlVEVkZGbXJZdUxCeXMzbmJfXzBQZEdDT3dOek5hTzRDUHBtdEcxbDlwaGtQaWRpZW1Eaw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T13:50:04+00:00",
-      "published_raw": "Mon, 22 Jun 2026 13:50:04 GMT",
-      "snippet": "Velocidade máxima para carros tem mudança em trechos de rodovias no interior de SP; VEJA G1",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:40.860662+00:00"
-    },
-    {
-      "id": "bcb6ad5ba5d1bb8e96776ff3acc7f07c3a007de7930760cef37421204048445f",
-      "title": "Novo limite de velocidade entra em vigor dia 01 de julho no trecho urbano da SP-310 - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWE9ZWGpCdkIwUVpJRXNYWFNjOS14X3VlSFU5SVgzb2xuRW5yZnBXdklWUkluSTdYcGE1VThPa3l0cURMZlZxODItOThLb2JKQXhjOTVHbTA4TWstYlRERkNwZkJKS0RiUHFBUnUxbVBRakp1ZHBXM2diTGJSenpLdUVmUTBWa3ZPd3V0bkRTbEE0Umo0VzJmbWQxbEhNenNNc1F3ZTdHLWxyN3hqVW5PZnhVQ0VZdUxvT1FVenVZM2piUdIBuwFBVV95cUxPSVA2NU1hRzZSajJSNGNqZUxfUHVSdTFtWkFZX1BIY1U5RDl4ODFnUzdUbTRQWGNhT2Q0SXo4bkNnd0ZoT0ZFX2w4X0FQaGJCZnZHcXVlTThlcU9HVk4yVGVaUnV3dkRoT08wR19QbXBka2pNa1BmakRlTzVPaFNkdE5WVFZDNkhyemxUNEw3Y01SQXZNd1k5dTg1OFNvWTZNT0VDcF9mWi1sOFFDUkJ0Y2lMTFZqd0VGeWI0?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T13:29:00+00:00",
-      "published_raw": "Mon, 22 Jun 2026 13:29:00 GMT",
-      "snippet": "Novo limite de velocidade entra em vigor dia 01 de julho no trecho urbano da SP-310 São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:40.861120+00:00"
-    },
-    {
-      "id": "e2eadeb15563aa8b0b90b0aa095c1af6d6782c4858a6770594d98079f4dbaec6",
-      "title": "Redução de velocidade entra em vigor na SP-310 em Araraquara a partir de 1º de julho - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1lvbWEtWVlTWlZQSWJsWWlWNTQxYUwtTHI0bTczUjdIVWdRYVBfaWE3akVPV1EwbjdKN1lGVXhDMjBXZ2YyRlpoNlNrYndGdlB0RVJZNWROUGVQR3dESmdOdW9aaFpmeUplWHo2QzlHMFYycVMyLU9jUHBzXzNHaDVtUkZRLTVNRnh4WVFBLUw4WUVPTnJxbHJtV2hsaXhfelh5RXRYNENTSHc0SV9oTFpPeWZvdl9nZklyMmlhT3BVMkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T12:45:00+00:00",
-      "published_raw": "Mon, 22 Jun 2026 12:45:00 GMT",
-      "snippet": "Redução de velocidade entra em vigor na SP-310 em Araraquara a partir de 1º de julho Araraquara News",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:42.480733+00:00"
-    },
-    {
-      "id": "9f1a69c7e9ed32c8281e8c5335f522fcaefe113d8bacc464f6b552b0dbcab7cc",
-      "title": "Washington Luís terá limite de velocidade reduzido para 90 km/h em 15 quilômetros; confira os pontos - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXpQXy1fTTdtZEFkYWZkR3FqTklELW9haHpfR19UX2Fxb2hBc2lLQmFhcHF5TDhzRWM0d0U1XzV3bUhvLWlRckNYY2hHQVU4QWZUTGpnWml4T1d5VUVIWWplSmpDV0pZWlYwTFNuUlA5eXlBb3RrYS1tS0lyaTBIelFtREhoUl94QkdUNGJGU1ctUVg2NV93MHRGcDJIYmswb0V5NHQ3aFIxX0szTEtod29TeE1xYjdSREdKdlB0cXZDMTRaM1RFTGUtZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T12:34:44+00:00",
-      "published_raw": "Mon, 22 Jun 2026 12:34:44 GMT",
-      "snippet": "Washington Luís terá limite de velocidade reduzido para 90 km/h em 15 quilômetros; confira os pontos São Carlos em Rede",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:42.480631+00:00"
-    },
-    {
-      "id": "3e5c5b240a198a5c230aba1c4863e36f038f41c98e28c603e5b47f065a9b243d",
-      "title": "SP-310 em Araraquara terá redução de velocidade a partir de julho; entenda a mudança - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWlxdGh5S1VvSVhoeDlIbThCX09CZjJ3NFZXRk1FVHJfeVRJSU1icS1VQlVJLUxJZGJwQzM0QWpjZVJHUGVZQnNfc3FCMU9kUlBKQkJPVW9hR0NtWHZsd25PeTBncUpMSXBNcndlSTZaMUVqQUdsZ29PbHJhZEdhcWNvajhMUTJpa1l4WDdPYi1mTVhzeGliWjFfOWs2ZFRWeVJJOUJDbFMzYVRNbEp4Vlg2d1czSVZSTFl3?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-22T12:34:09+00:00",
-      "published_raw": "Mon, 22 Jun 2026 12:34:09 GMT",
-      "snippet": "SP-310 em Araraquara terá redução de velocidade a partir de julho; entenda a mudança Araraquara Agora",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T11:56:40.861058+00:00"
-    }
-  ]
+  "items": []
 }
