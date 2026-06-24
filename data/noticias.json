@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-24T17:02:23.553866+00:00",
+  "updated_at": "2026-06-24T19:25:01.255140+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "0e279e38707976cd123ff853b51f643cad34664de5ed077efcd2cbcd43599aba",
+      "title": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGlqTmx5LWJzTlA2MUtwbU5Cd2JrU3pndEpZMDV1QkhKMEhHdUE3d1JXeE1zT0lZTlk5VXRqUTU1R19SZnhGZlhGT29nUDktV01GQ29LaTdHUUpDT0l0RURzTWk4d2k5MEpfdjJmLU1hMFNIR0JSOHphd1dTMHRxdEVrSkVxUnhFVk1hNXNBWXE2dGJVQ3RsVzNwYjFJcU5YaXdSUU5JUkhPMXAySUNjWW5WekxBN0dFYTRIR3V1bXZRbE0?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-24T17:13:01+00:00",
+      "published_raw": "Wed, 24 Jun 2026 17:13:01 GMT",
+      "snippet": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-24T19:24:45.132901+00:00"
+    },
+    {
       "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
       "title": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho - Estradas",
       "source": "Estradas",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T17:02:07.452214+00:00"
+      "collected_at": "2026-06-24T19:24:45.703391+00:00"
     },
     {
       "id": "bace1f79b282f4536d33630447a7881cb103732e38387ec0a4a01723c8a4bd86",
@@ -77,41 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T17:02:06.883594+00:00"
-    },
-    {
-      "id": "31cac260514073647eb658d11213755e042dc36ba83c0b48a42b02eff503db3b",
-      "title": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDgxNUR4OS1uZWZwR0I4ZkNhSFVjaWNycy1GV3lQU185ZGgtM1B4MVM3LWx5NDBxTXV0WGk5SDBhR19CSlB0TGM2MklVQXFOQ3JFbWhmNjlhckd5dVNKb0ltc0ViOHpEblZfeUJJcUx0MndrRFhDeDVmMk9pZUFXeElELXd5UWdPZFBCRElfU0lZNmw1bWcyLVlfVXc4OTVDZVI4ZmRZTUNmbWpTdDM1b3pNc3VEV3M?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T18:40:00+00:00",
-      "published_raw": "Tue, 23 Jun 2026 18:40:00 GMT",
-      "snippet": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos Votunews",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T17:02:18.619394+00:00"
-    },
-    {
-      "id": "2629a9576ef66b352c13423b3cf0455488204c87a407fb3fab64fb70827bfd14",
-      "title": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHpVbXdJdENPQzhjQ1lqeXNjNFphWV9KZm1JdEJIT3V4YWhSOEktcV9nTEd6cDdMaXdac0lHWjhpR3c5YVRYUlFVSllxeVVjUC1EVmVscmRDS1NYOTBnTnRsZ0czX1dGcFpjbFVhRk9WYkZzR01lamJQQUc2X3p0RHB6UXJqYU9WajlzemlGZGNEZWVtcnN6d0VKcEd4WlZqYkhfaXQ4MGhVWmdpS2RGVGRMbjRHdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T17:32:00+00:00",
-      "published_raw": "Tue, 23 Jun 2026 17:32:00 GMT",
-      "snippet": "Rodovias da Região Noroeste passam por semana de obras e motoristas devem ficar atentos Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T17:02:06.883692+00:00"
+      "collected_at": "2026-06-24T19:24:45.133071+00:00"
     }
   ]
 }
