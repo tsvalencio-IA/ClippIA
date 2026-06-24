@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-24T19:40:31.674344+00:00",
+  "updated_at": "2026-06-24T22:06:26.772331+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T19:40:14.108036+00:00"
+      "collected_at": "2026-06-24T22:06:10.973337+00:00"
     },
     {
       "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T19:40:14.774601+00:00"
-    },
-    {
-      "id": "bace1f79b282f4536d33630447a7881cb103732e38387ec0a4a01723c8a4bd86",
-      "title": "Passarela sobre rodovia passa por obras de revitalização e acessibilidade - O Diário Interativo Online",
-      "source": "O Diário Interativo Online",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFlFMjdyQWFoem9YamNZemQ3eHJTZGY3OFJJbTgzMjdPZ0RmQmtmQmVvN2oxVUNobTNhOGNKRy1fVGdfdTMyRXVOc2R6WFc3MDNaRkZMby1JTzZUM3RoWlBXUHlsNjhQbTNRZlpRTnY1VC1tSXhuNE4tNHc0UFJieDZ5anFrYTNVc0lKRW43QzVDb3lDUTFSZmQtMl94TVRiNTB6NHYwODlvVTA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T20:17:07+00:00",
-      "published_raw": "Tue, 23 Jun 2026 20:17:07 GMT",
-      "snippet": "Passarela sobre rodovia passa por obras de revitalização e acessibilidade O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T19:40:14.108195+00:00"
+      "collected_at": "2026-06-24T22:06:11.517487+00:00"
     }
   ]
 }
