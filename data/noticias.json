@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-24T16:59:26.614891+00:00",
+  "updated_at": "2026-06-24T17:02:23.553866+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T16:59:11.140775+00:00"
+      "collected_at": "2026-06-24T17:02:07.452214+00:00"
     },
     {
       "id": "bace1f79b282f4536d33630447a7881cb103732e38387ec0a4a01723c8a4bd86",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T16:59:10.600041+00:00"
+      "collected_at": "2026-06-24T17:02:06.883594+00:00"
     },
     {
       "id": "31cac260514073647eb658d11213755e042dc36ba83c0b48a42b02eff503db3b",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T16:59:21.889919+00:00"
+      "collected_at": "2026-06-24T17:02:18.619394+00:00"
     },
     {
       "id": "2629a9576ef66b352c13423b3cf0455488204c87a407fb3fab64fb70827bfd14",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T16:59:10.600097+00:00"
-    },
-    {
-      "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
-      "title": "Confira o cronograma de obras nas rodovias da região - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnJPejF1YjdUNjVYMXlUcG8wek4yQzZqbUswQ2F3OG9FWFpVR3drZnJhdU04RWpVU2NRN29NRC14clFmSVRic0hiWUdNWTFMZUExWWpFZWJaZjFVQlV3OG1xRFQxNExJVkgxak5XckpYbFl5UHVMWmk3NWt6eWcyOWNZYw?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T17:02:05+00:00",
-      "published_raw": "Tue, 23 Jun 2026 17:02:05 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T16:59:10.599970+00:00"
+      "collected_at": "2026-06-24T17:02:06.883692+00:00"
     }
   ]
 }
