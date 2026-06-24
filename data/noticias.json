@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-24T11:42:21.906240+00:00",
+  "updated_at": "2026-06-24T14:04:03.312055+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
+      "title": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzlYOWtJVi1zTVJrU1J0aEQySjA3cnFlT1lMSmw1TWVlNEF5V2wtRWI3b0VaVVUxS1FjTG5rcGRfWE5kSFJjOFVPWUExVWJ0MW41NnIzcTYxM1FURXVVamw4bEZ2MUFGcmUyTnhBUm14UGctaUNWR2dfRkJ5TGJDSHdKcE5VazhpcjdjOVRlc01zMFBTRnE2TVN4YjBQRWV0X0E?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-24T12:05:32+00:00",
+      "published_raw": "Wed, 24 Jun 2026 12:05:32 GMT",
+      "snippet": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho Estradas",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-24T14:03:46.961911+00:00"
+    },
+    {
       "id": "bace1f79b282f4536d33630447a7881cb103732e38387ec0a4a01723c8a4bd86",
       "title": "Passarela sobre rodovia passa por obras de revitalização e acessibilidade - O Diário Interativo Online",
       "source": "O Diário Interativo Online",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T11:42:06.047529+00:00"
+      "collected_at": "2026-06-24T14:03:46.425689+00:00"
     },
     {
       "id": "31cac260514073647eb658d11213755e042dc36ba83c0b48a42b02eff503db3b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T11:42:17.256902+00:00"
+      "collected_at": "2026-06-24T14:03:58.217175+00:00"
     },
     {
       "id": "2629a9576ef66b352c13423b3cf0455488204c87a407fb3fab64fb70827bfd14",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T11:42:06.047697+00:00"
+      "collected_at": "2026-06-24T14:03:46.425812+00:00"
     },
     {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
@@ -111,41 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T11:42:06.047424+00:00"
-    },
-    {
-      "id": "c676adef17dfe00f9bc0f4046fa3f8bcbbb6d20bf04895cc5e3d53f9107cbaa0",
-      "title": "Carreta é ‘jogada’ no canteiro central após ser fechada por outro veículo na Washington Luís em Rio Preto (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMFVBQVc4NXF4RExWTk9WbllpVWtHcWk2OVUxYkk5MF93aFU3WjBVdm44a1ZZVUZRbnd1bUZiODZqRHFKcmV3SGN2YTJZTzlLQ3JDNXZYb2FYWUI1VVRQRFJhWjFUNUJ6NVItM3cxbVZOQ2tkSC1wWTMyZDByODZLZEdFeTRRSFV3T19jSC1INXRPa1FPRW9Qd2I2eExIM1d6MUwyWFdvaHY5RXBJVHd0NF9XOVZUa3V3RldpZlU4OTJzSFRYRHcwYzB4UUxkYTZHbHhHSGZHc192OXc2?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T12:49:45+00:00",
-      "published_raw": "Tue, 23 Jun 2026 12:49:45 GMT",
-      "snippet": "Carreta é ‘jogada’ no canteiro central após ser fechada por outro veículo na Washington Luís em Rio Preto (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T11:42:07.616605+00:00"
-    },
-    {
-      "id": "84768a4a94499932d953510d0209c95b2279cec05ea8a67927f6dd2b0163a0ee",
-      "title": "Velocidade máxima é reduzida em trechos de rodovias de Araraquara para aumentar a segurança - Porto Ferreira Hoje",
-      "source": "Porto Ferreira Hoje",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcF9TNkFKVGFXZTFsS3ZGUEhyenVHXzAzOWw3UU1xNERhX29YSWJ1YWZPbWpzMzRqVENaYkRacFIyazg1XzROX3Mya2MyRTJaUFZWUDd5b0gtajF2RUxNVWI2TlNTMFZXd1Fyb214SFY1UGJYemkwZ1lQSzJWbjZqMTAxZ0t5X0VCdWRPTncwQmpJQWdURDFRUXQ4S0JGaVl2TFZHMFpXM0FsQ1hLbGZGcm9PZVlYQTJFOHkzZklyYURIQmVXdV9lNXBPenRyUWdaVXBOZUlvNS1CRkRGSktMOXNR?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T12:21:36+00:00",
-      "published_raw": "Tue, 23 Jun 2026 12:21:36 GMT",
-      "snippet": "Velocidade máxima é reduzida em trechos de rodovias de Araraquara para aumentar a segurança Porto Ferreira Hoje",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-24T11:42:06.047618+00:00"
+      "collected_at": "2026-06-24T14:03:46.425598+00:00"
     }
   ]
 }
