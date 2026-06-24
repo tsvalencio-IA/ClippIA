@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:09:02.712648+00:00",
+  "updated_at": "2026-06-24T02:08:25.698798+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 9,
@@ -54,13 +54,13 @@
       "published": "2026-06-23T20:17:07+00:00",
       "published_raw": "Tue, 23 Jun 2026 20:17:07 GMT",
       "snippet": "Passarela sobre rodovia passa por obras de revitalização e acessibilidade O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:56.791798+00:00"
+      "collected_at": "2026-06-24T02:08:08.041371+00:00"
     },
     {
       "id": "31cac260514073647eb658d11213755e042dc36ba83c0b48a42b02eff503db3b",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:57.883450+00:00"
+      "collected_at": "2026-06-24T02:08:20.493320+00:00"
     },
     {
       "id": "2629a9576ef66b352c13423b3cf0455488204c87a407fb3fab64fb70827bfd14",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518571+00:00"
+      "collected_at": "2026-06-24T02:08:08.041740+00:00"
     },
     {
       "id": "b90151d4987978494c6ac518acbcf0704ed9d4b5322a8dfcdf19004f76fd0978",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518221+00:00"
+      "collected_at": "2026-06-24T02:08:08.041276+00:00"
     },
     {
       "id": "c676adef17dfe00f9bc0f4046fa3f8bcbbb6d20bf04895cc5e3d53f9107cbaa0",
@@ -128,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:48.153295+00:00"
+      "collected_at": "2026-06-24T02:08:09.886266+00:00"
+    },
+    {
+      "id": "84768a4a94499932d953510d0209c95b2279cec05ea8a67927f6dd2b0163a0ee",
+      "title": "Velocidade máxima é reduzida em trechos de rodovias de Araraquara para aumentar a segurança - Porto Ferreira Hoje",
+      "source": "Porto Ferreira Hoje",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcF9TNkFKVGFXZTFsS3ZGUEhyenVHXzAzOWw3UU1xNERhX29YSWJ1YWZPbWpzMzRqVENaYkRacFIyazg1XzROX3Mya2MyRTJaUFZWUDd5b0gtajF2RUxNVWI2TlNTMFZXd1Fyb214SFY1UGJYemkwZ1lQSzJWbjZqMTAxZ0t5X0VCdWRPTncwQmpJQWdURDFRUXQ4S0JGaVl2TFZHMFpXM0FsQ1hLbGZGcm9PZVlYQTJFOHkzZklyYURIQmVXdV9lNXBPenRyUWdaVXBOZUlvNS1CRkRGSktMOXNR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-23T12:21:36+00:00",
+      "published_raw": "Tue, 23 Jun 2026 12:21:36 GMT",
+      "snippet": "Velocidade máxima é reduzida em trechos de rodovias de Araraquara para aumentar a segurança Porto Ferreira Hoje",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-24T02:08:08.041538+00:00"
     },
     {
       "id": "f766ebab67c5420743d2221b1d11261a81faae3e2c0a80c5e274ee7be108dbbd",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518384+00:00"
+      "collected_at": "2026-06-24T02:08:08.041610+00:00"
     },
     {
       "id": "9604c457366aa1f761381d516a699fb88b8e9add64df970dce47814e1a31f5cf",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518310+00:00"
+      "collected_at": "2026-06-24T02:08:08.041465+00:00"
     },
     {
       "id": "d3250bc16c62097914a23f66be3f213893ad54ecdb00c42a8796e19539e02c92",
@@ -179,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518455+00:00"
-    },
-    {
-      "id": "9618bd8ae2daa0d43d8b1c97d9ac463b765606fa03bd8706ba41cf9db8eb50e8",
-      "title": "Ecovias Noroeste Paulista divulga cronograma de obras entre 22 e 28 de junho em rodovias do interior de São Paulo - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVHlza0g3cDljeEZIdmk1WnNCZ0otMlQ5QzdnS29PeXJKUkNPbjBLYkFFZTZ4dDdWcWdfMExab0dMallEbDYwV2tramkyZ1ZiYUlrNEFkbjEwWTVWSkNXS2x2TjRSQjBqX29TZ25hdlc3VUR5QlNFZ0VGQVdPeE9mNVB0Tk5zU1JMbmtNTmhUejVRSmtLQ0ZNdTFEWXJXNnJrUlM5Sm1EV2NXakhQeGZRUG5TNUlOakZfaDVoQ2Z5ekkzUzJJN0toTVdwaC1SMVFETEVZNDYwbUdHNGVCdGpuUFh2eW80RVZwOUF1WEpqR29PMmhYOGfSAfYBQVVfeXFMT1R5c2tIN3A5Y3hGSHZpNVpzQmdKLTJUOUM3Z0tvT3lySlJDT24wS2JBRWU2eHQ3VnFnXzBMWm9HTGpZRGw2MFdra2ppMmdWYmFJazRBZG4xMFk1VkpDV0tsdk40UkIwal9vU2duYXZXN1VEeUJTRWdFRkFXT3hPZjVQdE5Oc1NSTG5rTU5oVHo1UUprS0NGTXUxRFlyVzZya1JTOUptRFdjV2pIUHhmUVBuUzVJTmpGX2g1aENmeXpJM1MySTdLaE1XcGgtUjFRRExFWTQ2MG1HRzRlQnRqblBYdnlvNEVWcDlBdVhKakdvTzJoWDhn?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-23T01:00:52+00:00",
-      "published_raw": "Tue, 23 Jun 2026 01:00:52 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras entre 22 e 28 de junho em rodovias do interior de São Paulo Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-23T22:08:46.518100+00:00"
+      "collected_at": "2026-06-24T02:08:08.041678+00:00"
     }
   ]
 }
