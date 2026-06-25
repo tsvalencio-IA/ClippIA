@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:13:09.911924+00:00",
+  "updated_at": "2026-06-25T02:08:19.497951+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -49,10 +49,10 @@
       "id": "0e279e38707976cd123ff853b51f643cad34664de5ed077efcd2cbcd43599aba",
       "title": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGlqTmx5LWJzTlA2MUtwbU5Cd2JrU3pndEpZMDV1QkhKMEhHdUE3d1JXeE1zT0lZTlk5VXRqUTU1R19SZnhGZlhGT29nUDktV01GQ29LaTdHUUpDT0l0RURzTWk4d2k5MEpfdjJmLU1hMFNIR0JSOHphd1dTMHRxdEVrSkVxUnhFVk1hNXNBWXE2dGJVQ3RsVzNwYjFJcU5YaXdSUU5JUkhPMXAySUNjWW5WekxBN0dFYTRIR3V1bXZRbE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnNTam5tRnhENnBhVThZOUN3NEpJVWpPcFJ2dUtiSWpCOFJ3UzBsblA3QndLVmhXMGFXOE4yWjJQbmxnekpjeDgtM1pZMFA2TFBQNUtPMVpLMGZjNVBDLUdVRHpjRjJ1U2hhclVuVW1aYkctNG1QdW5jRFJ3Q0VRRjBRNGoyeWtuajFnbm1Xa2Jkd0xxcVNKOEhkbzMxbERPNGlWblpLMUotNlFleW8xS3pxYWJYYTdJTjRjWQ?oc=5",
       "resolved_link": "",
-      "published": "2026-06-24T17:13:01+00:00",
-      "published_raw": "Wed, 24 Jun 2026 17:13:01 GMT",
+      "published": "2026-06-24T17:14:08+00:00",
+      "published_raw": "Wed, 24 Jun 2026 17:14:08 GMT",
       "snippet": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto Diário da Região",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T22:12:53.545407+00:00"
+      "collected_at": "2026-06-25T02:08:03.290516+00:00"
     },
     {
       "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
@@ -71,13 +71,13 @@
       "published": "2026-06-24T12:05:32+00:00",
       "published_raw": "Wed, 24 Jun 2026 12:05:32 GMT",
       "snippet": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho Estradas",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-24T22:12:54.092575+00:00"
+      "collected_at": "2026-06-25T02:08:03.290423+00:00"
     }
   ]
 }
