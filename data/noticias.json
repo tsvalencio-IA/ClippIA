@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25T11:37:22.501059+00:00",
+  "updated_at": "2026-06-25T14:01:19.250544+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T11:37:19.451941+00:00"
+      "collected_at": "2026-06-25T14:01:16.236945+00:00"
     },
     {
       "id": "0e279e38707976cd123ff853b51f643cad34664de5ed077efcd2cbcd43599aba",
@@ -71,30 +71,13 @@
       "published": "2026-06-24T17:14:08+00:00",
       "published_raw": "Wed, 24 Jun 2026 17:14:08 GMT",
       "snippet": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T11:37:06.482184+00:00"
-    },
-    {
-      "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
-      "title": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzlYOWtJVi1zTVJrU1J0aEQySjA3cnFlT1lMSmw1TWVlNEF5V2wtRWI3b0VaVVUxS1FjTG5rcGRfWE5kSFJjOFVPWUExVWJ0MW41NnIzcTYxM1FURXVVamw4bEZ2MUFGcmUyTnhBUm14UGctaUNWR2dfRkJ5TGJDSHdKcE5VazhpcjdjOVRlc01zMFBTRnE2TVN4YjBQRWV0X0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-24T12:05:32+00:00",
-      "published_raw": "Wed, 24 Jun 2026 12:05:32 GMT",
-      "snippet": "Pedágios de rodovias concedidas em SP terão aumento a partir de 1º de julho Estradas",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-25T11:37:06.482022+00:00"
+      "collected_at": "2026-06-25T14:01:03.463394+00:00"
     }
   ]
 }
