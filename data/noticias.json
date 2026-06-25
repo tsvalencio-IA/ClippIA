@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25T06:44:01.045063+00:00",
+  "updated_at": "2026-06-25T11:31:37.856701+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "657762608409fdb54c2ad264c16e9823ec3c3167966d2cf7af4a656cfb3f1bcf",
+      "title": "Com carteira de R$ 60 bi, EcoRodovias foca em ampliar contratos de suas 12 concessões - Exame",
+      "source": "Exame",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1JMVzR3bjNfTG5jcXZzRFMtZXgzN29LLWVIbkNXdTBBTjh4U2ZGWnZsNEVycmNpRGsxWVJMRUdKOTJHWklBMW9QUUNpOGlwVkYzUWQzN2g0S3NUaXIyQ2JXX2lyeDlaRDNlS3BsRUtDVWt6TXRFWENHUlJETC1WZU8yS1BCWWJ4bWVnYWNrcHZ6alR5bGY3aXRIdU93SDh0Zm43ZFE4bkpZU1M1Q1ozelJlMnhlb2FVWlBXSWFMRWZvZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-25T09:04:29+00:00",
+      "published_raw": "Thu, 25 Jun 2026 09:04:29 GMT",
+      "snippet": "Com carteira de R$ 60 bi, EcoRodovias foca em ampliar contratos de suas 12 concessões Exame",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-25T11:31:34.732560+00:00"
+    },
+    {
       "id": "0e279e38707976cd123ff853b51f643cad34664de5ed077efcd2cbcd43599aba",
       "title": "Caminhão-tanque carregado com diesel tomba na Washington Luís, em Rio Preto - Diário da Região",
       "source": "Diário da Região",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T06:43:45.851422+00:00"
+      "collected_at": "2026-06-25T11:31:21.417030+00:00"
     },
     {
       "id": "7aaa041b7421d9e7f38831cb44c599b7b9d1aae9d62a28d87fb1963b291f33c4",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T06:43:45.851319+00:00"
+      "collected_at": "2026-06-25T11:31:21.416871+00:00"
     }
   ]
 }
