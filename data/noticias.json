@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25T14:01:19.250544+00:00",
+  "updated_at": "2026-06-25T14:22:05.831403+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T14:01:16.236945+00:00"
+      "collected_at": "2026-06-25T14:22:02.472083+00:00"
     },
     {
       "id": "0e279e38707976cd123ff853b51f643cad34664de5ed077efcd2cbcd43599aba",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-25T14:01:03.463394+00:00"
+      "collected_at": "2026-06-25T14:21:48.236359+00:00"
+    },
+    {
+      "id": "9f1593c44e75d5ed760b6b9c9dcbfc25fc39794c1f996ecd87e17910f719549b",
+      "title": "Bitrem tomba na rodovia Washington Luís em São José do Rio Preto - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnc3YU5xaUJOeVg2dXB2blhDOWg4SGpma1FSaU92MjM4T2NCd1BPbnZtNXRsaG9NeVQ1Q2hLeDZxaVZjRExETUg1MWp4c2hIY3pnM2p3N0Z4ajBSVWdIdFpWVWg1LW9MVW9xT1k0MUhuZ2JtVk9hQWk5cHVXY1BLSlZOOE9nRktab3htYlViX0NHd0lSV2dJU01BbExEamQ0WU82Yw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-24T15:06:00+00:00",
+      "published_raw": "Wed, 24 Jun 2026 15:06:00 GMT",
+      "snippet": "Bitrem tomba na rodovia Washington Luís em São José do Rio Preto Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-25T14:21:49.998064+00:00"
     }
   ]
 }
