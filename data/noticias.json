@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T02:09:45.727067+00:00",
+  "updated_at": "2026-06-26T02:54:03.513970+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 5,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T02:09:28.870138+00:00"
+      "collected_at": "2026-06-26T02:53:46.772165+00:00"
     },
     {
       "id": "1d5db7d37028700bf6fafa054530fb32473f5121ea3cfda203a598d872892320",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T02:09:28.869938+00:00"
+      "collected_at": "2026-06-26T02:53:46.771974+00:00"
     },
     {
       "id": "8a6fdd648b00a81d24ba71ae4076ae621f856bc936f5a694c19f2b624770ecbd",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T02:09:41.408051+00:00"
+      "collected_at": "2026-06-26T02:53:59.171033+00:00"
     },
     {
       "id": "6373be35e4ac95caa3c807bc1bd5bb4fa98598f2359117a920a8b43949958bda",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T02:09:28.870050+00:00"
+      "collected_at": "2026-06-26T02:53:46.772078+00:00"
     },
     {
       "id": "657762608409fdb54c2ad264c16e9823ec3c3167966d2cf7af4a656cfb3f1bcf",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T02:09:42.552131+00:00"
+      "collected_at": "2026-06-26T02:54:00.419835+00:00"
     }
   ]
 }
