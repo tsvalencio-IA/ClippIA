@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T14:00:20.076271+00:00",
+  "updated_at": "2026-06-26T14:14:13.513236+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 5,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T14:00:04.254563+00:00"
+      "collected_at": "2026-06-26T14:13:56.811872+00:00"
     },
     {
       "id": "12846869dc10467129341fe8b769f23535e399b42618f63abec6754a6b9bf795",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T14:00:04.254675+00:00"
+      "collected_at": "2026-06-26T14:13:56.811951+00:00"
     },
     {
       "id": "1d5db7d37028700bf6fafa054530fb32473f5121ea3cfda203a598d872892320",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T14:00:04.254303+00:00"
+      "collected_at": "2026-06-26T14:13:56.811617+00:00"
     },
     {
       "id": "8a6fdd648b00a81d24ba71ae4076ae621f856bc936f5a694c19f2b624770ecbd",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T14:00:16.027777+00:00"
+      "collected_at": "2026-06-26T14:14:09.115885+00:00"
     },
     {
       "id": "6373be35e4ac95caa3c807bc1bd5bb4fa98598f2359117a920a8b43949958bda",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-26T14:00:04.254445+00:00"
+      "collected_at": "2026-06-26T14:13:56.811753+00:00"
     }
   ]
 }
