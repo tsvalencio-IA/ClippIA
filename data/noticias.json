@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-06-27T16:05:03.175142+00:00",
+  "updated_at": "2026-06-27T19:02:22.200583+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 7,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 7,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,125 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "0cc6a0abb374e8646037a0d3ac48f2186a96349f379bd56b6413ca743322859d",
+      "title": "Bicicleta de jovem desaparecido em parque estadual é encontrada durante as buscas - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOei0zZUtfYUJveF9mOGVqaUhuZGRwT285SzJ0QTkxVmJDWkVaUXZNVVpRbjM3MEQwNmxNNV83ZEZtSHlTNXI1Y1NXTW5PazZqaEtfbjk3emQzRVl4R0ltU3JyMVhRVkVycENHYTVmT2hsb2REc1Z4aU9NaXBCNUo2T216Yl9Lb2l4TVliaVZzZWhRb0NNYW5DWl8tajZib2gwcW9XN01DakZERkU2cDFPVHd1bl9RdGhwNkFvVmgzaFRKa0QtZjE40gHSAUFVX3lxTE9CN0tNMEdrTHRBaU1XV0VvNWVrRjcxRGE0NHVjdlJhVVVoTGxNYUY0MDZkazZrMF93VTRnWXRxeVE4RjVNckxhQjlDQmpUQzFkeUM0XzRFUm55SWdFWWRMMDNUZzUydTFNSGlUVmVPNklhU3Y2cEt0ZWJtcUNYYVNxZGdNaHE5U0pkU2ZnbkVhUTh0Uk1vclJTb1N0RjREZmQ2YXhSMHNpOWMwaUh0STU4VERRMl8xdFd5NlJOZ2tjRnRhR0JKY0lkaWplRFpSdnRLQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T18:37:19+00:00",
+      "published_raw": "Sat, 27 Jun 2026 18:37:19 GMT",
+      "snippet": "Bicicleta de jovem desaparecido em parque estadual é encontrada durante as buscas ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:05.238492+00:00"
+    },
+    {
+      "id": "d47ce865e1b5c5b47a9a40f7b0b91aa84aae72f664b31df6b7ff7d098f75429a",
+      "title": "Obras na malha da Ecovias Noroeste Paulista terão operação reduzida no sábado (27) e serão suspensas no domingo (28) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNODhheXF3WGpPaHdGRFl0NFBDc2xPMVlQOURVRVVIQjVqR3kydnFGMVNibTM4VlZNUFFZVVN0dVlkV3N1YUpQaHNZRFk5SG95cnoxcHhmcEthRDdNcGw1SEpIYVBzZjdNVU1OcUZLYWJqMVJuNVI3MWU4anNuSUNPOU5CSGlCMmJBTnlKNUVQZ2wwS1IzbUtFb1R2NGo2VzNNTFlQcmhjcXdVYXg2cFR6MHhITVhSeGI5MW9fcnctUlBveUZWcHdXdkxLTjk5b0N1R09wOWJvR3NpMEV5TkwwRmJHWlRYSEhDV1JmZDg4c9IB9AFBVV95cUxPb2VRVHl5NUxNam9CQ2dZeWJCTGxFMHJnWGw4SGZVS1dfdjBmbDJrdEZ5cmZBbWw0b3hEdzdneEpDVWFLS1NnbTlvcXpwWlo5ZGNOa01OWU9keE5ySjB1aHdERGdYdkJSbDJneWw0Sl9EQ0VfV1Q5M0ZleGdBekpBMHBqYTNlYXRGVmk0ZWt5RjhjVHJiUkdTYlJKZEpmWWNJRkNodzVjQUhLT0pnVFF2WDJmLUQyTmljel9pay13RUNOc2l6c1RMYUtkSS14d0V4bW5YaWowRkxtTzdYQ1RfUWs2Q0J5WjBqeS00WGlrQWs5UDJH?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T17:03:45+00:00",
+      "published_raw": "Sat, 27 Jun 2026 17:03:45 GMT",
+      "snippet": "Obras na malha da Ecovias Noroeste Paulista terão operação reduzida no sábado (27) e serão suspensas no domingo (28) Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:05.238229+00:00"
+    },
+    {
+      "id": "c1d8040ef37cf7cb12492dd8840cd0d40bde6b6a8c4c1cc556b5ea9c1d8748fa",
+      "title": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZDFBal9EWGpBM1RvSHhJRl9ZOEhXR2lsUm9YdzNKd05pTmxsY181b2xOOEN4Ykd5VkNveU81c0ZaWFZGa3FCWnp4ZERQZUtYZ2NfbkF2RHM3ZS0yR0txcmNxb3Jyb2tIWkpUSlpiQ2RHS214QnIyNjhzZmtsOFQxa2hlYjFEOWtENGJDSDM4elFCX0xnT2Jjdmdoa2UwTUpkZG42TmIwT2FreHk5eHlIQzFmSkxuN3FnV0dRS3cwS3ctY0E1RHM4NGFNSlV4NzFZWFhr0gHTAUFVX3lxTE9kMUFqX0RYakEzVG9IeElGX1k4SFdHaWxSb1h3M0p3TmlObGxjXzVvbE44Q3hiR3lWQ295TzVzRlpYVkZrcUJaenhkRFBlS1hnY19uQXZEczdlLTJHS3FyY3FvcnJva0haSlRKWmJDZEdLbXhCcjI2OHNma2w4VDFraGViMUQ5a0Q0YkNIMzh6UUJfTGdPYmN2Z2hrZTBNSmRkbjZOYjBPYWt4eTl4eUhDMWZKTG43cWdXR1FLdzBLdy1jQTVEczg0YU1KVXg3MVlYWGs?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T14:29:06+00:00",
+      "published_raw": "Sat, 27 Jun 2026 14:29:06 GMT",
+      "snippet": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:05.238329+00:00"
+    },
+    {
+      "id": "abb6436e7a18f611d522c33b86044adaaf7273b92a0c481f261d5f0b0a1f40e2",
+      "title": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaERjbXhfY203d0ZzSTY0VXR0ZXlYR1d6bkZuTFFSblhuQXJaMXlOUVhlMUFKckRjdXJ3T1hWaGdMYUhDd2RwdFRwQmxUN3hPakEwYi1Md2VkTzk3RGJPeTlyTDNlS0RQa293Y2VQZDhheVd0c0pTMDVBcDB6ZGQ0azBkaU9CbEFxclBXRFoteEFmX2Q0enRFU2tHMERSOE15YmRNdEgzTVJTT0lUcnJfZ0E4TlAtdEls0gG-AUFVX3lxTFAtOGNyX2FaOGI1RENYYmFNdGlpcm5hSHNQSlR6MnVicmFvZ0lvSXBkUkZnSElrazVYcmlpaXRPbEUyNEFTMEViY3FCS2VYNUZxQ3hNb2huWW4wQlpFZVZqVmgtLU03b05NWUVSLTA0bkllTnpaUlluc2k5a3ZRenpvdnNFVE1zY092aVh5QlVPQldxcnpEczBkczczNGhTSUg4MDN2MC0zdDZvZGl4enRKcXJ2aktscWFZWGVNTHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T11:48:00+00:00",
+      "published_raw": "Sat, 27 Jun 2026 11:48:00 GMT",
+      "snippet": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:06.850895+00:00"
+    },
+    {
+      "id": "dc97208e19f2bcadabd106d1f764cdeac9a99a5231db368befc82b0247f24623",
+      "title": "Com trânsito lento na SP-310 em Araraquara caminhão perde o freio e causa engavetamento com mais 3 veículos - rciararaquara.com.br",
+      "source": "rciararaquara.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMEpzSEJXWDVlV214aEhYekd1R2JTRjZtUXE5VEhBbmF6V29kY3NnX1Q5QjBsZXhKcXBjNGowc2JCeVZ1Wi1hc2MwTVZzRUNnRngzLTBRREFSbVRPYXd6ZjhxS1A1SFFiVHluWmFMVXJPbm9wX1BkbmF0Q1JXSU1hbGFMNE5OZTVqcFBIUGgwVUFXcUJqUi0wM2Ixem1JMnUzLXlrVmhMalRvX2lTaE9TOWNYb1RxRDUwX2hRYjhDSE5vRXg5TmQ1b1FObHk2QlFreFRF0gHTAUFVX3lxTE0wSnNIQldYNWVXbXhoSFh6R3VHYlNGNm1RcTlUSEFuYXpXb2Rjc2dfVDlCMGxleEpxcGM0ajBzYkJ5VnVaLWFzYzBNVnNFQ2dGeDMtMFFEQVJtVE9hd3pmOHFLUDVIUWJUeW5aYUxVck9ub3BfUGRuYXRDUldJTWFsYUw0Tk5lNWpwUEhQaDBVQVdxQmpSLTAzYjF6bUkydTMteWtWaExqVG9faVNoT1M5Y1hvVHFENTBfaFFiOENITm9FeDlOZDVvUU5seTZCUWt4VEU?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T09:20:55+00:00",
+      "published_raw": "Sat, 27 Jun 2026 09:20:55 GMT",
+      "snippet": "Com trânsito lento na SP-310 em Araraquara caminhão perde o freio e causa engavetamento com mais 3 veículos rciararaquara.com.br",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:06.850754+00:00"
+    },
+    {
+      "id": "16be6472dcbf82da79156835e699cec0338df918b030767df7337e7116d59807",
+      "title": "Redução de velocidade entra em vigor em trecho da Washington Luís - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTRFd1F4SG9wYUZFbTJhb01fX1czXzVHb3FvQkR4WTZrdk01c2RUVWdQblgxUXR1TmU1RmNra1lBMVk2QnpTZ1QxZU9TMzdOV1k4bG9PZVNoS1F6eThQb2R6RTdSRDFraGsyWDZrZEc0MFdrUnJQZkMzYUxqek5SLXlhMTgzaGEwOVdUTEQwRkp6N3YtbTJYSzNVSU5zVjR6MkM2WFpR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T02:30:41+00:00",
+      "published_raw": "Sat, 27 Jun 2026 02:30:41 GMT",
+      "snippet": "Redução de velocidade entra em vigor em trecho da Washington Luís O Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:05.238410+00:00"
+    },
+    {
+      "id": "acf21adaf7d9dab3aee9ea03f04c7f9bcdede0a54a9c5f2679f9dab41c215946",
+      "title": "Estradas de SP têm aumento de pedágio; veja onde e valores - UOL Notícias",
+      "source": "UOL Notícias",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMnRZSGtZVV9oZWM3RW91dFZ2VU1KQTVHYk1nUzdKelNLVGk2MUF4d0NtTlZpOGpqMk9ka2liWWRWU3NjOTBnRk9ZOEVZUUhnS0U2SWxkektRa3pfWnhJeG8tQmZPYXJaQUhQSzk3TEZ5aThOWnhvUUpoMUlxSWl5SnByY1VnUllMM0Z6YUFsekxTaWNYU3ZEOHVUanFwWjhZU3JPd2RsNTZCY2dWaXhqVF9BUUxBMktaa2VTRzdTb2IwSG95Y3RDVXo3MFdSeFN0VmU5ZWJDNHpPVzZIYlFoR0tHZk5OMnJGSEs2bWs2Y0N1UG05clpURVVnOFFxc2hmaGZKMFc0bDJCQV8zc1RhaFAySnBUQ0hobUlVQ1Rn?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T00:03:00+00:00",
+      "published_raw": "Sat, 27 Jun 2026 00:03:00 GMT",
+      "snippet": "Estradas de SP têm aumento de pedágio; veja onde e valores UOL Notícias",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T19:02:05.778832+00:00"
+    }
+  ]
 }
