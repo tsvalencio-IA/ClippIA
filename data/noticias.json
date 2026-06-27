@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-27T13:06:30.981491+00:00",
+  "updated_at": "2026-06-27T13:23:50.536154+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "abb6436e7a18f611d522c33b86044adaaf7273b92a0c481f261d5f0b0a1f40e2",
+      "title": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaERjbXhfY203d0ZzSTY0VXR0ZXlYR1d6bkZuTFFSblhuQXJaMXlOUVhlMUFKckRjdXJ3T1hWaGdMYUhDd2RwdFRwQmxUN3hPakEwYi1Md2VkTzk3RGJPeTlyTDNlS0RQa293Y2VQZDhheVd0c0pTMDVBcDB6ZGQ0azBkaU9CbEFxclBXRFoteEFmX2Q0enRFU2tHMERSOE15YmRNdEgzTVJTT0lUcnJfZ0E4TlAtdEls0gG-AUFVX3lxTFAtOGNyX2FaOGI1RENYYmFNdGlpcm5hSHNQSlR6MnVicmFvZ0lvSXBkUkZnSElrazVYcmlpaXRPbEUyNEFTMEViY3FCS2VYNUZxQ3hNb2huWW4wQlpFZVZqVmgtLU03b05NWUVSLTA0bkllTnpaUlluc2k5a3ZRenpvdnNFVE1zY092aVh5QlVPQldxcnpEczBkczczNGhTSUg4MDN2MC0zdDZvZGl4enRKcXJ2aktscWFZWGVNTHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T11:48:00+00:00",
+      "published_raw": "Sat, 27 Jun 2026 11:48:00 GMT",
+      "snippet": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T13:23:34.358965+00:00"
+    },
+    {
       "id": "16be6472dcbf82da79156835e699cec0338df918b030767df7337e7116d59807",
       "title": "Redução de velocidade entra em vigor em trecho da Washington Luís - O Regional",
       "source": "O Regional",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:06:15.556120+00:00"
+      "collected_at": "2026-06-27T13:23:32.339735+00:00"
     },
     {
       "id": "acf21adaf7d9dab3aee9ea03f04c7f9bcdede0a54a9c5f2679f9dab41c215946",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:06:16.080034+00:00"
+      "collected_at": "2026-06-27T13:23:32.958484+00:00"
     },
     {
       "id": "c00708053aee4a2c56846cfe06c3939624ce61957ae1d1df4e544f42cdcc059b",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:06:15.556023+00:00"
+      "collected_at": "2026-06-27T13:23:32.339615+00:00"
     }
   ]
 }
