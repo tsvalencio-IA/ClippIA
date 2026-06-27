@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-27T06:26:47.305709+00:00",
+  "updated_at": "2026-06-27T10:52:34.335969+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T06:26:32.197757+00:00"
+      "collected_at": "2026-06-27T10:52:18.802506+00:00"
     },
     {
       "id": "acf21adaf7d9dab3aee9ea03f04c7f9bcdede0a54a9c5f2679f9dab41c215946",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T06:26:32.727387+00:00"
+      "collected_at": "2026-06-27T10:52:19.324796+00:00"
     },
     {
       "id": "c00708053aee4a2c56846cfe06c3939624ce61957ae1d1df4e544f42cdcc059b",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T06:26:32.197661+00:00"
-    },
-    {
-      "id": "321487fd6d88ee7d44a5393c9fbd94e3f37c9bdde099bd013ebc2371a7c33ca9",
-      "title": "Concessionária alerta motoristas sobre cuidados essenciais ao dirigir sob temporais na estrada - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm9xZ19IWFhqTC1HWE43aFAxWXVJMmtvMjExdWZVNFpSZVhEd1ZJX1VUSEliNUwzM2M0VDduUW1CUm9SSFJraWFSMWxzMTZZVHVPTHhGa3lnV0hBd3VvMjRud1RzN1ZtVmlGNGtsc3Ffb2cyOFBEVjlLSXFsYng4VHgtdHBFMXBOaXk1djMwMzMzOTFHLWZjYUtTRy0zRjVPb21iRzlFUXowVmhYaWU4aWZXU3FXQ054WWZ1UVFyVQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-26T09:01:00+00:00",
-      "published_raw": "Fri, 26 Jun 2026 09:01:00 GMT",
-      "snippet": "Concessionária alerta motoristas sobre cuidados essenciais ao dirigir sob temporais na estrada Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-27T06:26:32.197840+00:00"
+      "collected_at": "2026-06-27T10:52:18.802411+00:00"
     }
   ]
 }
