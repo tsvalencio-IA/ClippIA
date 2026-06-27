@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-27T02:43:56.167022+00:00",
+  "updated_at": "2026-06-27T06:20:10.750563+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "16be6472dcbf82da79156835e699cec0338df918b030767df7337e7116d59807",
+      "title": "Redução de velocidade entra em vigor em trecho da Washington Luís - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTRFd1F4SG9wYUZFbTJhb01fX1czXzVHb3FvQkR4WTZrdk01c2RUVWdQblgxUXR1TmU1RmNra1lBMVk2QnpTZ1QxZU9TMzdOV1k4bG9PZVNoS1F6eThQb2R6RTdSRDFraGsyWDZrZEc0MFdrUnJQZkMzYUxqek5SLXlhMTgzaGEwOVdUTEQwRkp6N3YtbTJYSzNVSU5zVjR6MkM2WFpR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T02:30:41+00:00",
+      "published_raw": "Sat, 27 Jun 2026 02:30:41 GMT",
+      "snippet": "Redução de velocidade entra em vigor em trecho da Washington Luís O Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T06:19:55.384895+00:00"
+    },
+    {
       "id": "acf21adaf7d9dab3aee9ea03f04c7f9bcdede0a54a9c5f2679f9dab41c215946",
       "title": "Estradas de SP têm aumento de pedágio; veja onde e valores - UOL Notícias",
       "source": "UOL Notícias",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T02:43:40.098043+00:00"
+      "collected_at": "2026-06-27T06:19:55.913085+00:00"
     },
     {
       "id": "c00708053aee4a2c56846cfe06c3939624ce61957ae1d1df4e544f42cdcc059b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T02:43:39.522235+00:00"
+      "collected_at": "2026-06-27T06:19:55.384801+00:00"
     },
     {
       "id": "321487fd6d88ee7d44a5393c9fbd94e3f37c9bdde099bd013ebc2371a7c33ca9",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T02:43:39.522354+00:00"
+      "collected_at": "2026-06-27T06:19:55.384975+00:00"
     }
   ]
 }
