@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-27T13:23:50.536154+00:00",
+  "updated_at": "2026-06-27T15:58:22.142774+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "c1d8040ef37cf7cb12492dd8840cd0d40bde6b6a8c4c1cc556b5ea9c1d8748fa",
+      "title": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVp3N3BuWHNXOHR4Wmxadmc1TllFVXptNFd2anVPY3NPa0ZjV1Z3SEhyZmJONXJ6QzhQeUM1WkwxWFl2dUg5eVhLMGlxVFJuVVA0R3o0TEZON3U1WDh6SGdJX3AwVmd1S05tTmxYRVJ0QVBjSmRHVFdVd2tDYlZBNHgtREJoU2hwTmNXSFdCZDF1b2NhMUJ6OC1OZXZmaFBUU2t5YzRnUzhPNkZWZldIX1hhZ1dxNHBRUmVlZ205TnVIOVZGS3QzakVsUXdUUdIB0wFBVV95cUxPZDFBal9EWGpBM1RvSHhJRl9ZOEhXR2lsUm9YdzNKd05pTmxsY181b2xOOEN4Ykd5VkNveU81c0ZaWFZGa3FCWnp4ZERQZUtYZ2NfbkF2RHM3ZS0yR0txcmNxb3Jyb2tIWkpUSlpiQ2RHS214QnIyNjhzZmtsOFQxa2hlYjFEOWtENGJDSDM4elFCX0xnT2Jjdmdoa2UwTUpkZG42TmIwT2FreHk5eHlIQzFmSkxuN3FnV0dRS3cwS3ctY0E1RHM4NGFNSlV4NzFZWFhr?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T14:29:06+00:00",
+      "published_raw": "Sat, 27 Jun 2026 14:29:06 GMT",
+      "snippet": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T15:58:04.275074+00:00"
+    },
+    {
       "id": "abb6436e7a18f611d522c33b86044adaaf7273b92a0c481f261d5f0b0a1f40e2",
       "title": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís - São Carlos Agora",
       "source": "São Carlos Agora",
@@ -54,13 +71,30 @@
       "published": "2026-06-27T11:48:00+00:00",
       "published_raw": "Sat, 27 Jun 2026 11:48:00 GMT",
       "snippet": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:23:34.358965+00:00"
+      "collected_at": "2026-06-27T15:58:06.005044+00:00"
+    },
+    {
+      "id": "dc97208e19f2bcadabd106d1f764cdeac9a99a5231db368befc82b0247f24623",
+      "title": "Com trânsito lento na SP-310 em Araraquara caminhão perde o freio e causa engavetamento com mais 3 veículos - rciararaquara.com.br",
+      "source": "rciararaquara.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMEpzSEJXWDVlV214aEhYekd1R2JTRjZtUXE5VEhBbmF6V29kY3NnX1Q5QjBsZXhKcXBjNGowc2JCeVZ1Wi1hc2MwTVZzRUNnRngzLTBRREFSbVRPYXd6ZjhxS1A1SFFiVHluWmFMVXJPbm9wX1BkbmF0Q1JXSU1hbGFMNE5OZTVqcFBIUGgwVUFXcUJqUi0wM2Ixem1JMnUzLXlrVmhMalRvX2lTaE9TOWNYb1RxRDUwX2hRYjhDSE5vRXg5TmQ1b1FObHk2QlFreFRF0gHTAUFVX3lxTE0wSnNIQldYNWVXbXhoSFh6R3VHYlNGNm1RcTlUSEFuYXpXb2Rjc2dfVDlCMGxleEpxcGM0ajBzYkJ5VnVaLWFzYzBNVnNFQ2dGeDMtMFFEQVJtVE9hd3pmOHFLUDVIUWJUeW5aYUxVck9ub3BfUGRuYXRDUldJTWFsYUw0Tk5lNWpwUEhQaDBVQVdxQmpSLTAzYjF6bUkydTMteWtWaExqVG9faVNoT1M5Y1hvVHFENTBfaFFiOENITm9FeDlOZDVvUU5seTZCUWt4VEU?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-27T09:20:55+00:00",
+      "published_raw": "Sat, 27 Jun 2026 09:20:55 GMT",
+      "snippet": "Com trânsito lento na SP-310 em Araraquara caminhão perde o freio e causa engavetamento com mais 3 veículos rciararaquara.com.br",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-27T15:58:06.004954+00:00"
     },
     {
       "id": "16be6472dcbf82da79156835e699cec0338df918b030767df7337e7116d59807",
@@ -71,13 +105,13 @@
       "published": "2026-06-27T02:30:41+00:00",
       "published_raw": "Sat, 27 Jun 2026 02:30:41 GMT",
       "snippet": "Redução de velocidade entra em vigor em trecho da Washington Luís O Regional",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:23:32.339735+00:00"
+      "collected_at": "2026-06-27T15:58:04.275231+00:00"
     },
     {
       "id": "acf21adaf7d9dab3aee9ea03f04c7f9bcdede0a54a9c5f2679f9dab41c215946",
@@ -94,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-27T13:23:32.958484+00:00"
-    },
-    {
-      "id": "c00708053aee4a2c56846cfe06c3939624ce61957ae1d1df4e544f42cdcc059b",
-      "title": "Ecovias adia início do pedágio 'free flow' no Sistema Anchieta-Imigrantes, que estava previsto para 1° de julho - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZHpMZlRicHBxcmZGZUh5cDFQek1EVHdfLU1yelk0WDVsWUsybHpIbkRDLXU4M0VrSUNlTHFKd1ZqNjV6UndyM3JFSm54SXl4TU4zbUtMUGd0SmlvdmZHTkJEVHR3TlRKQjBmWDRxRENBcWVoUXFfQWVyeTloQmxabm5EVFRsOVlVd2dmNE9jS3hHMXpMS2tJT294U1NGNUZTczRzQVRmc21qTWt4UUNCYUpPWWNTTmU2TTU5LXBmZDBzcnRMdVc5dm9XXy1HckpNMmI1NGtmYjltLW9RMnRZSk53LXVBX0RjenJLNGJfUmIzUXRCQTlzUzdUSWZtVUFNdlJmVVRnWFPSAYgCQVVfeXFMTmR6TGZUYnBwcXJmRmVIeXAxUHpNRFR3Xy1NcnpZNFg1bFlLMmx6SG5EQy11ODNFa0lDZUxxSndWajY1elJ3cjNyRUpueEl5eE1OM21LTFBndEppb3ZmR05CRFR0d05USkIwZlg0cURDQXFlaFFxX0Flcnk5aEJsWm5uRFRUbDlZVXdnZjRPY0t4RzF6TEtrSU9veFNTRjVGU3M0c0FUZnNtak1reFFDQmFKT1ljU05lNk01OS1wZmQwc3J0THVXOXZvV18tR3JKTTJiNTRrZmI5bS1vUTJ0WUpOdy11QV9EY3pySzRiX1JiM1F0QkE5c1M3VElmbVVBTXZSZlVUZ1hT?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-26T15:12:35+00:00",
-      "published_raw": "Fri, 26 Jun 2026 15:12:35 GMT",
-      "snippet": "Ecovias adia início do pedágio 'free flow' no Sistema Anchieta-Imigrantes, que estava previsto para 1° de julho G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-27T13:23:32.339615+00:00"
+      "collected_at": "2026-06-27T15:58:04.822523+00:00"
     }
   ]
 }
