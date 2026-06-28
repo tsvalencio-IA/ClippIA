@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-06-28T16:01:57.233508+00:00",
+  "updated_at": "2026-06-28T16:10:32.002610+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,40 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "0cc6a0abb374e8646037a0d3ac48f2186a96349f379bd56b6413ca743322859d",
-      "title": "Bicicleta de jovem desaparecido em parque estadual é encontrada durante as buscas - ACidade ON",
-      "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjdLTTBHa0x0QWlNV1dFbzVla0Y3MURhNDR1Y3ZSYVVVaExsTWFGNDA2ZGs2azBfd1U0Z1l0cXlROEY1TXJMYUI5Q0JqVEMxZHlDNF80RVJueUlnRVlkTDAzVGc1MnUxTUhpVFZlTzZJYVN2NnBLdGVibXFDWGFTcWRnTWhxOVNKZFNmZ25FYVE4dFJNb3JSU29TdEY0RGZkNmF4UjBzaTljMGlIdEk1OFREUTJfMXRXeTZSTmdrY0Z0YUdCSmNJZGlqZURaUnZ0S0HSAdIBQVVfeXFMT0I3S00wR2tMdEFpTVdXRW81ZWtGNzFEYTQ0dWN2UmFVVWhMbE1hRjQwNmRrNmswX3dVNGdZdHF5UThGNU1yTGFCOUNCalRDMWR5QzRfNEVSbnlJZ0VZZEwwM1RnNTJ1MU1IaVRWZU82SWFTdjZwS3RlYm1xQ1hhU3FkZ01ocTlTSmRTZmduRWFROHRSTW9yUlNvU3RGNERmZDZheFIwc2k5YzBpSHRJNThURFEyXzF0V3k2Uk5na2NGdGFHQkpjSWRpamVEWlJ2dEtB?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-27T18:37:19+00:00",
-      "published_raw": "Sat, 27 Jun 2026 18:37:19 GMT",
-      "snippet": "Bicicleta de jovem desaparecido em parque estadual é encontrada durante as buscas ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-28T16:01:41.522100+00:00"
-    },
-    {
-      "id": "d47ce865e1b5c5b47a9a40f7b0b91aa84aae72f664b31df6b7ff7d098f75429a",
-      "title": "Obras na malha da Ecovias Noroeste Paulista terão operação reduzida no sábado (27) e serão suspensas no domingo (28) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPb2VRVHl5NUxNam9CQ2dZeWJCTGxFMHJnWGw4SGZVS1dfdjBmbDJrdEZ5cmZBbWw0b3hEdzdneEpDVWFLS1NnbTlvcXpwWlo5ZGNOa01OWU9keE5ySjB1aHdERGdYdkJSbDJneWw0Sl9EQ0VfV1Q5M0ZleGdBekpBMHBqYTNlYXRGVmk0ZWt5RjhjVHJiUkdTYlJKZEpmWWNJRkNodzVjQUhLT0pnVFF2WDJmLUQyTmljel9pay13RUNOc2l6c1RMYUtkSS14d0V4bW5YaWowRkxtTzdYQ1RfUWs2Q0J5WjBqeS00WGlrQWs5UDJH0gH0AUFVX3lxTE9vZVFUeXk1TE1qb0JDZ1l5YkJMbEUwcmdYbDhIZlVLV192MGZsMmt0RnlyZkFtbDRveER3N2d4SkNVYUtLU2dtOW9xenBaWjlkY05rTU5ZT2R4TnJKMHVod0REZ1h2QlJsMmd5bDRKX0RDRV9XVDkzRmV4Z0F6SkEwcGphM2VhdEZWaTRla3lGOGNUcmJSR1NiUkpkSmZZY0lGQ2h3NWNBSEtPSmdUUXZYMmYtRDJOaWN6X2lrLXdFQ05zaXpzVExhS2RJLXh3RXhtblhpajBGTG1PN1hDVF9RazZDQnlaMGp5LTRYaWtBazlQMkc?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-27T17:00:21+00:00",
-      "published_raw": "Sat, 27 Jun 2026 17:00:21 GMT",
-      "snippet": "Obras na malha da Ecovias Noroeste Paulista terão operação reduzida no sábado (27) e serão suspensas no domingo (28) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-28T16:01:41.521919+00:00"
-    }
-  ]
+  "items": []
 }
