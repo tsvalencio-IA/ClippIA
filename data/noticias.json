@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-28T11:03:12.603166+00:00",
+  "updated_at": "2026-06-28T13:12:34.464602+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-28T11:02:57.196028+00:00"
+      "collected_at": "2026-06-28T13:12:15.208583+00:00"
     },
     {
       "id": "d47ce865e1b5c5b47a9a40f7b0b91aa84aae72f664b31df6b7ff7d098f75429a",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-28T11:02:57.195824+00:00"
+      "collected_at": "2026-06-28T13:12:15.208458+00:00"
     },
     {
       "id": "c1d8040ef37cf7cb12492dd8840cd0d40bde6b6a8c4c1cc556b5ea9c1d8748fa",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-28T11:02:57.195933+00:00"
-    },
-    {
-      "id": "abb6436e7a18f611d522c33b86044adaaf7273b92a0c481f261d5f0b0a1f40e2",
-      "title": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaERjbXhfY203d0ZzSTY0VXR0ZXlYR1d6bkZuTFFSblhuQXJaMXlOUVhlMUFKckRjdXJ3T1hWaGdMYUhDd2RwdFRwQmxUN3hPakEwYi1Md2VkTzk3RGJPeTlyTDNlS0RQa293Y2VQZDhheVd0c0pTMDVBcDB6ZGQ0azBkaU9CbEFxclBXRFoteEFmX2Q0enRFU2tHMERSOE15YmRNdEgzTVJTT0lUcnJfZ0E4TlAtdEls0gG-AUFVX3lxTFAtOGNyX2FaOGI1RENYYmFNdGlpcm5hSHNQSlR6MnVicmFvZ0lvSXBkUkZnSElrazVYcmlpaXRPbEUyNEFTMEViY3FCS2VYNUZxQ3hNb2huWW4wQlpFZVZqVmgtLU03b05NWUVSLTA0bkllTnpaUlluc2k5a3ZRenpvdnNFVE1zY092aVh5QlVPQldxcnpEczBkczczNGhTSUg4MDN2MC0zdDZvZGl4enRKcXJ2aktscWFZWGVNTHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-27T11:48:00+00:00",
-      "published_raw": "Sat, 27 Jun 2026 11:48:00 GMT",
-      "snippet": "Falha em freio de caminhão causa engavetamento com cinco veículos na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-28T11:02:58.836623+00:00"
+      "collected_at": "2026-06-28T13:12:15.208526+00:00"
     }
   ]
 }
