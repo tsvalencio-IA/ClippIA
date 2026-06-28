@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-28T13:27:12.587977+00:00",
+  "updated_at": "2026-06-28T16:01:57.233508+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-28T13:26:55.639642+00:00"
+      "collected_at": "2026-06-28T16:01:41.522100+00:00"
     },
     {
       "id": "d47ce865e1b5c5b47a9a40f7b0b91aa84aae72f664b31df6b7ff7d098f75429a",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-28T13:26:55.639439+00:00"
-    },
-    {
-      "id": "c1d8040ef37cf7cb12492dd8840cd0d40bde6b6a8c4c1cc556b5ea9c1d8748fa",
-      "title": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda - ACidade ON",
-      "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZDFBal9EWGpBM1RvSHhJRl9ZOEhXR2lsUm9YdzNKd05pTmxsY181b2xOOEN4Ykd5VkNveU81c0ZaWFZGa3FCWnp4ZERQZUtYZ2NfbkF2RHM3ZS0yR0txcmNxb3Jyb2tIWkpUSlpiQ2RHS214QnIyNjhzZmtsOFQxa2hlYjFEOWtENGJDSDM4elFCX0xnT2Jjdmdoa2UwTUpkZG42TmIwT2FreHk5eHlIQzFmSkxuN3FnV0dRS3cwS3ctY0E1RHM4NGFNSlV4NzFZWFhr0gHTAUFVX3lxTE9kMUFqX0RYakEzVG9IeElGX1k4SFdHaWxSb1h3M0p3TmlObGxjXzVvbE44Q3hiR3lWQ295TzVzRlpYVkZrcUJaenhkRFBlS1hnY19uQXZEczdlLTJHS3FyY3FvcnJva0haSlRKWmJDZEdLbXhCcjI2OHNma2w4VDFraGViMUQ5a0Q0YkNIMzh6UUJfTGdPYmN2Z2hrZTBNSmRkbjZOYjBPYWt4eTl4eUhDMWZKTG43cWdXR1FLdzBLdy1jQTVEczg0YU1KVXg3MVlYWGs?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-27T14:29:06+00:00",
-      "published_raw": "Sat, 27 Jun 2026 14:29:06 GMT",
-      "snippet": "Pedágios ficam mais caros em rodovias de SP a partir de 1º de julho; veja o que muda ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-28T13:26:55.639548+00:00"
+      "collected_at": "2026-06-28T16:01:41.521919+00:00"
     }
   ]
 }
