@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-29T12:56:36.777981+00:00",
+  "updated_at": "2026-06-29T15:38:50.967947+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 3,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,57 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "bb247e68c3ab984ec3ac95d73c505412d6b2f9ed93c3e22354d78361e66ae46c",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 29/6 a 5/7/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3dCWktrOERXRTc3UEpVa0pYd1I4S1ZkaEZCcHotWm9hWnFuN0ZjczhYOHk4RzV1ZkdvZ3EwOE1jRzJ5bXdUUEhHZmpQcWtla0NzWWFjbExOQ21wMGRCM1pkSEdSbkRTZldWQ2tMYWhBLUdhUk9nM1F6c3k0RWk1QVQycjA0SGh4U0RZQkF0ZlRPdXEzQmRVQ0NWWTJYUE5GS09rWnpXZHFHd1lrbEczVzFBTEE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-29T15:30:37+00:00",
+      "published_raw": "Mon, 29 Jun 2026 15:30:37 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 29/6 a 5/7/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-29T15:38:35.252723+00:00"
+    },
+    {
+      "id": "65118539039dc63c29d03523bde06231766ca98d05833264147654aca0a6e995",
+      "title": "Santa Eudóxia recebe a 19ª Festa da Laranja com Açúcar no próximo final de semana - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2tzWGFVUmdVZlBYVnBCellhcW44S002VlhjQURwdHlFMGdmVGpWdl9OQVplXzRqNlo3VXpVMjJjSnpWbDBkd0ZOY2JpM1FTZy13RVh0VVkzNGwtNmdJM2NsWXhjblFBLXFSNmZJUUd6eUZ5YVlCS3Q3LVYzdHRzejd0M2o5LUxSVWthYlRzcXVRWS1LVFM0cElieUVReGRyYkFYaFFOUnlHY0VQbG83TkNhd1JhQdIBtgFBVV95cUxPS2tzWGFVUmdVZlBYVnBCellhcW44S002VlhjQURwdHlFMGdmVGpWdl9OQVplXzRqNlo3VXpVMjJjSnpWbDBkd0ZOY2JpM1FTZy13RVh0VVkzNGwtNmdJM2NsWXhjblFBLXFSNmZJUUd6eUZ5YVlCS3Q3LVYzdHRzejd0M2o5LUxSVWthYlRzcXVRWS1LVFM0cElieUVReGRyYkFYaFFOUnlHY0VQbG83TkNhd1JhQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-29T14:30:54+00:00",
+      "published_raw": "Mon, 29 Jun 2026 14:30:54 GMT",
+      "snippet": "Santa Eudóxia recebe a 19ª Festa da Laranja com Açúcar no próximo final de semana - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-29T15:38:35.252902+00:00"
+    },
+    {
+      "id": "3a49732901cde92fac99ee354b11a3a6b5110fb0f09f17d9a611f4667a848a19",
+      "title": "Fetrabens - Fetrabens",
+      "source": "Fetrabens",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0cwc2hWLThqR1Z3TDJ1WUg1cG1hVkFzdTFfNlZfQmMxSEV0WHZDSDFRd1BnbGlEZWpVa2lKXzhyMzUwY3VVR3dNVTQxUFZVcS0xZnR1SVhEWjBzeW1LeXpwU3FzR09rRXY4VVFpNmp4ZVJXM091X0ppVldpalhMYVVpWFRQUWhkMUpmdDIxaXIzQmFGUFBOb1l0dDAzTXMxREY0THEyVlByblhsOU9fVg?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-29T11:24:11+00:00",
+      "published_raw": "Mon, 29 Jun 2026 11:24:11 GMT",
+      "snippet": "Fetrabens Fetrabens",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-29T15:38:35.252802+00:00"
+    }
+  ]
 }
