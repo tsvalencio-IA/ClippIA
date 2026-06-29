@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-29T17:26:57.873077+00:00",
+  "updated_at": "2026-06-29T19:41:17.877641+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "bb247e68c3ab984ec3ac95d73c505412d6b2f9ed93c3e22354d78361e66ae46c",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 29/6 a 5/7/2026 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3dCWktrOERXRTc3UEpVa0pYd1I4S1ZkaEZCcHotWm9hWnFuN0ZjczhYOHk4RzV1ZkdvZ3EwOE1jRzJ5bXdUUEhHZmpQcWtla0NzWWFjbExOQ21wMGRCM1pkSEdSbkRTZldWQ2tMYWhBLUdhUk9nM1F6c3k0RWk1QVQycjA0SGh4U0RZQkF0ZlRPdXEzQmRVQ0NWWTJYUE5GS09rWnpXZHFHd1lrbEczVzFBTEE?oc=5",
+      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
+      "title": "Notícias - Jornal de Barretos",
+      "source": "Jornal de Barretos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVBIOXFTRTg2X0NhZ0hxcF9JQncxZjdrMlJ1bGgwX2Z2VGZmeDZRMmlieUE0MXlvTWRMcnVqTGN2c1FIU0Z6TVJrMlVtMUZBZWNkYWxER3NaZVNibHBPLW9zcUJHR2ltV1VrSzVxMmRqV0tiTHJoX0JJMTBpcWhKbWprTXN2ZVpoWUthcXRaLVJUZGNYWWNQV1RBQlJRY1FqSUxkTU8zLVJ3OVRKT2VDRXJhcUhzc200UG9PNUMzSGo?oc=5",
       "resolved_link": "",
-      "published": "2026-06-29T15:30:37+00:00",
-      "published_raw": "Mon, 29 Jun 2026 15:30:37 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 29/6 a 5/7/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "published": "2026-06-29T19:33:44+00:00",
+      "published_raw": "Mon, 29 Jun 2026 19:33:44 GMT",
+      "snippet": "Notícias Jornal de Barretos",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-29T19:41:00.791158+00:00"
+    },
+    {
+      "id": "9f508acf7bf70f5c7522794e0ebc5804ce6612fbe936274f3d3a7a4fbc9a817f",
+      "title": "Obras na Washington Luís exigem atenção de motoristas de Mirassol - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbUE5T3M2UFgxSk9LcmpCdWhnZGZWV2FBNU44dTljRkdCVC1xYUFlZlB1ZUUtak1iR0lqWmx3b05vR3BvenFkRUthaVRJelhKeDl4bUNrc1hObndmbFZmWkg0WGdQa1pKZy1HSFVjY2JnWjBfZTUtU1NURlRBaGExdThIVWhocWtoWGczLW1sRU5yTkVzUDVsZ1l2QkNhM1Nwd0txaHBqU25WWXhPcV9vZ0JvNmNhUkNObmM4Nlk4Zw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-29T17:47:00+00:00",
+      "published_raw": "Mon, 29 Jun 2026 17:47:00 GMT",
+      "snippet": "Obras na Washington Luís exigem atenção de motoristas de Mirassol Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:41.523809+00:00"
+      "collected_at": "2026-06-29T19:41:11.651546+00:00"
     },
     {
       "id": "124a8c206d01fd4d8f00f92d20a32763519ace99f792e37b572db86d64692a15",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636627+00:00"
+      "collected_at": "2026-06-29T19:41:00.791702+00:00"
     },
     {
       "id": "dbc5c6d986238460a44d3a8d2505b8c3339b77056c99b4be20e3c25931d0c028",
@@ -88,13 +105,13 @@
       "published": "2026-06-29T14:35:32+00:00",
       "published_raw": "Mon, 29 Jun 2026 14:35:32 GMT",
       "snippet": "Ecovias Noroeste Paulista informa o cronograma de obras de 29/6 a 5/7/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:52.024188+00:00"
+      "collected_at": "2026-06-29T19:41:13.370877+00:00"
     },
     {
       "id": "65118539039dc63c29d03523bde06231766ca98d05833264147654aca0a6e995",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636447+00:00"
+      "collected_at": "2026-06-29T19:41:00.791618+00:00"
     },
     {
       "id": "1bcf189df35fb7ee8e639340d453f08f21e9fef1a6ceb536908d2295a744e606",
@@ -122,13 +139,13 @@
       "published": "2026-06-29T14:26:56+00:00",
       "published_raw": "Mon, 29 Jun 2026 14:26:56 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 29/6 a 5/7/2026 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636081+00:00"
+      "collected_at": "2026-06-29T19:41:00.791071+00:00"
     },
     {
       "id": "093762fdcdd5354acf4810afe0dca9e601865e5743128d07f56be02872653fae",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636337+00:00"
+      "collected_at": "2026-06-29T19:41:00.791534+00:00"
     },
     {
       "id": "d34c90d52d7c08a7512a84adf3bc89d1553c70d15df4d093ff68809233dd9747",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636253+00:00"
+      "collected_at": "2026-06-29T19:41:00.791360+00:00"
     },
     {
       "id": "3a49732901cde92fac99ee354b11a3a6b5110fb0f09f17d9a611f4667a848a19",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636157+00:00"
+      "collected_at": "2026-06-29T19:41:00.791223+00:00"
     },
     {
       "id": "4174ba37f6b4f0369afdc27df6ecbbae708d7dc58d7c2310683df7afdd0e4ff1",
@@ -190,13 +207,13 @@
       "published": "2026-06-29T08:14:53+00:00",
       "published_raw": "Mon, 29 Jun 2026 08:14:53 GMT",
       "snippet": "São Carlos terá segunda-feira de tempo firme e clima agradável no Dia de São Pedro - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-29T17:26:39.636544+00:00"
+      "collected_at": "2026-06-29T19:41:00.791449+00:00"
     }
   ]
 }
