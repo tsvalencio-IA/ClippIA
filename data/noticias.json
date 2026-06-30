@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-30T19:48:46.353766+00:00",
+  "updated_at": "2026-06-30T22:07:45.496059+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 16,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "683ac6b3d29f376464956b99100767404610c259e7921a10a0bc63d29f093e51",
+      "title": "Viaduto em Rio Preto é interditado para obras de ampliação da rodovia Washington Luís - R7",
+      "source": "R7",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNVE3LTNmZXNJLWI4N3JQTGZQNnpBVGxlOVcwMWlLbjNjcW43WjRVTloweFh6RXRsMld2cl96eC1lc3V3d1ZCMjhIWlNHb1Q3cEllVk5rbTZGbUFtM2tYWTVGQnV0dFROdkx0RUtUZ0Y4eXBlbDJiYXkydVg4cVVBY29rVlR6dFdxS1cxVHd0MW1UcUYtRENSXzBSWmNTblB1Qnp5a2hZYzhqOW9xQlZ4bFBuSXNtQ3o4aDNEcVE4TXlSRERTUEFaVk1ZZDhXX2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T21:48:11+00:00",
+      "published_raw": "Tue, 30 Jun 2026 21:48:11 GMT",
+      "snippet": "Viaduto em Rio Preto é interditado para obras de ampliação da rodovia Washington Luís R7",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T22:07:39.757206+00:00"
+    },
+    {
+      "id": "4ba1090351d94373d4952b84ad0638d1daa933438ec50735ade6f20ec4d6fba3",
+      "title": "Pista molhada: Ecovias Noroeste Paulista alerta motoristas sobre riscos de dirigir sob chuva forte nas rodovias - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnEyRmcycEE2aExfeVd1Z3FhUVJ6c3ZpeHV5bE53N3JyR3d0UUg3ZDdRV2w0NTAtanRvX3FaY2gwNWg0bjBIcjEzVFFKYUhjV2ItMUFoTWl1alJ6a19KR3hrNkc0U0ZmN3FqdXNveHJidXlTTlhHcG9FNXRfWVhOTU9PU2tuQTBub3dYcVp6MHBOTGQ4cDBzQlBvQzkwZC1vb01iSUc5NHU5bTVYenBYaWczWHJZdGZOc25HaEZQTldTQnJRenRUdV93bmNZRHppZmc?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T18:50:43+00:00",
+      "published_raw": "Tue, 30 Jun 2026 18:50:43 GMT",
+      "snippet": "Pista molhada: Ecovias Noroeste Paulista alerta motoristas sobre riscos de dirigir sob chuva forte nas rodovias odefensor.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T22:07:29.790184+00:00"
+    },
+    {
       "id": "e4fe623a8489675427765e090e3ee73cce5a7e9e38cb4adebacce1a5b955fc06",
       "title": "Concessionária realiza mutirão de obras e melhorias em rodovias do interior paulista nesta semana - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004668+00:00"
+      "collected_at": "2026-06-30T22:07:29.790674+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004141+00:00"
+      "collected_at": "2026-06-30T22:07:29.790270+00:00"
     },
     {
       "id": "c7c76d106d930f269fbb9f6eb87d145756a248ec38a6abb732d3e214370e98d0",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:43.729759+00:00"
+      "collected_at": "2026-06-30T22:07:42.984026+00:00"
     },
     {
       "id": "aff9d9427fe8a42548aac5bf1fbe9eec0f5b4f2d93343a2bdfd7be376b7a9901",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.575293+00:00"
+      "collected_at": "2026-06-30T22:07:30.329224+00:00"
     },
     {
       "id": "e5c5a73f318990a524f3f78b71b38caf8865e36b107ad0a77063ca8de8c5fc8c",
@@ -128,7 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004417+00:00"
+      "collected_at": "2026-06-30T22:07:29.790519+00:00"
+    },
+    {
+      "id": "16451372b96d7288beb5ea645f51bf0b97a2f721313770d1a1cd4de9d4c7d559",
+      "title": "Chuva forte nas rodovias: veja como dirigir com segurança e evitar acidentes - portaldotransito.com.br",
+      "source": "portaldotransito.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0pJVmtVNFQxT1RvaUNfdmlwZW1odVdhNU1wLVdOWm9SeURnTkRFcEFqOUc4Vl9EUDVDYWVHS0hMZXZmeENYaERHUjhaS0Fic1FEWVJwTjJCakc4Vlhzb0JGSzF1MHIzc0VHMVdwZXFZU0NJUmdxTlN1Ujdjd0dKcW5jSTFoai1kbWlqbDJxZUV0OXRaZHoydzc0WFBJcnlSZDdKNHp5Qk5odl9Bdjc5WVMybGx4OHRLb3NLV2FIOVVKWEV3TGNPb1VLOFppQV9qNm1kdEJqS25WemRWRldEbGdwUDZYajVON1JFZVUzYVTSAfABQVVfeXFMUEdKSVZrVTRUMU9Ub2lDX3ZpcGVtaHVXYTVNcC1XTlpvUnlEZ05ERXBBajlHOFZfRFA1Q2FlR0tITGV2ZnhDWGhER1I4WktBYnNRRFlScE4yQmpHOFZYc29CRksxdTByM3NFRzFXcGVxWVNDSVJncU5TdVI3Y3dHSnFuY0kxaGotZG1pamwycWVFdDl0WmR6Mnc3NFhQSXJ5UmQ3SjR6eUJOaHZfQXY3OVlTMmxseDh0S29zS1dhSDlVSlhFd0xjT29VSzhaaUFfajZtZHRCaktuVnpkVkZXRGxncFA2WGo1TjdSRWVVM2FU?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T13:01:00+00:00",
+      "published_raw": "Tue, 30 Jun 2026 13:01:00 GMT",
+      "snippet": "Chuva forte nas rodovias: veja como dirigir com segurança e evitar acidentes portaldotransito.com.br",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T22:07:40.840586+00:00"
     },
     {
       "id": "7a7706e6a612831880b7dea66db7b2aa84fb52ea9fcd4c3375aad4860ba12e7e",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004319+00:00"
+      "collected_at": "2026-06-30T22:07:29.790402+00:00"
     },
     {
       "id": "36e1f5ca528ad58fc6e0132885b7462001104df16bc7ba9fddcb7adc3a0cc32e",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:42.028035+00:00"
+      "collected_at": "2026-06-30T22:07:41.377877+00:00"
     },
     {
       "id": "b61891744aebc85ecad0a1b32bd8bf6ef079ed0ab9f1fef1ae19ee839c54c26d",
@@ -179,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:42.027732+00:00"
+      "collected_at": "2026-06-30T22:07:41.377685+00:00"
     },
     {
       "id": "cef0000a711c4cca12b43e17ebe1a7b3cebeccffdb8ba6ca46132ec322881744",
@@ -196,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:42.027819+00:00"
+      "collected_at": "2026-06-30T22:07:41.377753+00:00"
     },
     {
       "id": "e0e1477af96926f5638ac5e2d9940805f330f908e8f38980a710842e6638c8f8",
@@ -213,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:42.027899+00:00"
+      "collected_at": "2026-06-30T22:07:41.377816+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -230,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004226+00:00"
+      "collected_at": "2026-06-30T22:07:29.790329+00:00"
     },
     {
       "id": "fdb5516e2457efdf6bf439a31861dc5fda455d8c45a0d9e36258015faa966e2e",
@@ -247,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:41.481118+00:00"
+      "collected_at": "2026-06-30T22:07:40.840722+00:00"
     },
     {
       "id": "42c23d86fc8174e7a0adecfab6608ca463bd5a0ee3c61df850e1932f5cd5dee6",
@@ -264,24 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004509+00:00"
-    },
-    {
-      "id": "b52ef03af401743b9772871ea1552b2aaa81012b2060317ab8b50501dea51a27",
-      "title": "Viajar de avião ficou mais caro: passagem aérea sobe 11% e já custa, em média, mais de R$ 630 no Brasil - - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWl9IU1VuQVcxc3pwMm5qNnBBWEJCMWVMWm1MVnlNeWUxcDlSRE1iNUxQcTg2XzdSOHVja25naTZINjN5a0ZyX3p3blI0V0xsU1RobHFHM3lSNUwzWTVXWWttandsclRQaHBvQjROWF92UzhWeF9aUTBvTVVselFGUzZqam1KY1hCY0dWNUxfY1FYVkNNdC1wSTEyYzdkemVSYzVFRXNmbjN6aG15clpwb040ZnlRTjl1ejU1WmNlTUtsazVEUEQ2V1BHcXjSAcwBQVVfeXFMT1pfSFNVbkFXMXN6cDJuajZwQVhCQjFlTFptTFZ5TXllMXA5UkRNYjVMUHE4Nl83Ujh1Y2tuZ2k2SDYzeWtGcl96d25SNFdMbFNUaGxxRzN5UjVMM1k1V1lrbWp3bHJUUGhwb0I0TlhfdlM4VnhfWlEwb01VbHpRRlM2amptSmNYQmNHVjVMX2NRWFZDTXQtcEkxMmM3ZHplUmM1RUVzZm4zemhteXJacG9ONGZ5UU45dXo1NVpjZU1LbGs1RFBENldQR3F4?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-29T22:30:19+00:00",
-      "published_raw": "Mon, 29 Jun 2026 22:30:19 GMT",
-      "snippet": "Viajar de avião ficou mais caro: passagem aérea sobe 11% e já custa, em média, mais de R$ 630 no Brasil - São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-30T19:48:30.004593+00:00"
+      "collected_at": "2026-06-30T22:07:29.790608+00:00"
     }
   ]
 }
