@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-30T06:53:36.828241+00:00",
+  "updated_at": "2026-06-30T11:38:03.230059+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 12,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,74 @@
   ],
   "items": [
     {
+      "id": "36e1f5ca528ad58fc6e0132885b7462001104df16bc7ba9fddcb7adc3a0cc32e",
+      "title": "Comércio de São Carlos terá horário especial em julho - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTFJc0J6QU0yaTlQSVBkNldMc1VKanJHb2ZMTVBqV0lHbWFzT2xFaGY1X3h4dVNUX2tRYndvSWtBVGhBQ3dQWVJzVDdRWjR0TUNUd1ZhdjJySjhGUFAtRTM1N21QclQyOTY2UndHUERVbmQ5cERfcXNLbmtJLWxPVW4zXzY3OVFHaXJ0dGVPRmTSAZABQVVfeXFMT3ExSXNCekFNMmk5UElQZDZXTHNVSmpyR29mTE1QaldJR21hc09sRWhmNV94eHVTVF9rUWJ3b0lrQVRoQUN3UFlSc1Q3UVo0dE1DVHdWYXYycko4RlBQLUUzNTdtUHJUMjk2NlJ3R1BEVW5kOXBEX3FzS25rSS1sT1VuM182NzlRR2lydHRlT0Zk?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T04:13:00+00:00",
+      "published_raw": "Tue, 30 Jun 2026 04:13:00 GMT",
+      "snippet": "Comércio de São Carlos terá horário especial em julho - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T11:37:58.858526+00:00"
+    },
+    {
+      "id": "b61891744aebc85ecad0a1b32bd8bf6ef079ed0ab9f1fef1ae19ee839c54c26d",
+      "title": "Prefeitura de São Carlos convoca agentes de trânsito aprovados em concurso para investigação social - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUEREOVRGNHlWRVdUUk9CS1I5U05oVjNOSWtmbnlsY0wzdDBwcklINk1LT3V3UTdQM211MnBrUm45NHJUejZOdjNBR3g0SDR0SnE2VXk5RXdIQWxKSUE0eXFrTFIxRGYzZXdwTXVwMDBXMTdmX0hpZklLUHVzOGdUNjlUWmo0cEladGp5bThyMmhYbWR4Um45Z2FKdVNaYVJTNkRsNVlwNjJkYlp1d01HQkRIb0Z6d3JhLVotR1lvUXRHemYtX1A4T1pUdzFzd9IBzgFBVV95cUxQUEREOVRGNHlWRVdUUk9CS1I5U05oVjNOSWtmbnlsY0wzdDBwcklINk1LT3V3UTdQM211MnBrUm45NHJUejZOdjNBR3g0SDR0SnE2VXk5RXdIQWxKSUE0eXFrTFIxRGYzZXdwTXVwMDBXMTdmX0hpZklLUHVzOGdUNjlUWmo0cEladGp5bThyMmhYbWR4Um45Z2FKdVNaYVJTNkRsNVlwNjJkYlp1d01HQkRIb0Z6d3JhLVotR1lvUXRHemYtX1A4T1pUdzFzdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T03:45:00+00:00",
+      "published_raw": "Tue, 30 Jun 2026 03:45:00 GMT",
+      "snippet": "Prefeitura de São Carlos convoca agentes de trânsito aprovados em concurso para investigação social - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T11:37:58.858374+00:00"
+    },
+    {
+      "id": "cef0000a711c4cca12b43e17ebe1a7b3cebeccffdb8ba6ca46132ec322881744",
+      "title": "Secretaria de Saúde reorganiza horário de funcionamento do CAPS AD - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVZoRDM0SFBmT1paNWwyZ1g0MkVDSUN2UWhRSUVxVlVIblZKN0RpUkluelVqZTlrd0FfMGZTU0cxOTVMTko1akpFeTByUEdEV0pmSW04dW4xemN4VUtORWZMa3dpQ3VXMFFDdUs1M1BrbU1uTlpWRXk1RUZLRklKcXR2Y3VLVFJ4MVRLSGxHQlI1MW5zSXJrbGdyQzliUFh6N1HSAaIBQVVfeXFMTzVWaEQzNEhQZk9aWjVsMmdYNDJFQ0lDdlFoUUlFcVZVSG5WSjdEaVJJbnpVamU5a3dBXzBmU1NHMTk1TE5KNWpKRXkwclBHRFdKZkltOHVuMXpjeFVLTkVmTGt3aUN1VzBRQ3VLNTNQa21Nbk5aVkV5NUVGS0ZJSnF0dmN1S1RSeDFUS0hsR0JSNTFuc0lya2xnckM5YlBYejdR?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T03:21:00+00:00",
+      "published_raw": "Tue, 30 Jun 2026 03:21:00 GMT",
+      "snippet": "Secretaria de Saúde reorganiza horário de funcionamento do CAPS AD - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T11:37:58.858419+00:00"
+    },
+    {
+      "id": "e0e1477af96926f5638ac5e2d9940805f330f908e8f38980a710842e6638c8f8",
+      "title": "Muito além do esporte: CEME promove tradicional Arraiá Junino - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm1vZUhxTkVjY3ZreG5sYVZpWFN3WGRMWlRVdmJXWF9wOEhrZHdEVTV5d2lmaFllTWp1cGprOXdrWE14VEFwQTNFM1dqUC0ydTZ5dmM5bDdhNHl4Tm1uOFhQMU9GcnI1OFFEQW5kNXpIWXp0a3BMUnBNM05PdUZkWjVhZmtIQ0hRc3Q0MHZuakJjOVdlbFVRMFpR0gGaAUFVX3lxTE9WbW9lSHFORWNjdmt4bmxhVmlYU3dYZExaVFV2YldYX3A4SGtkd0RVNXl3aWZoWWVNanVwams5d2tYTXhUQXBBM0UzV2pQLTJ1Nnl2YzlsN2E0eXhObW44WFAxT0ZycjU4UURBbmQ1ekhZenRrcExScE0zTk91RmRaNWFma0hDSFFzdDQwdm5qQmM5V2VsVVEwWlE?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-30T03:08:00+00:00",
+      "published_raw": "Tue, 30 Jun 2026 03:08:00 GMT",
+      "snippet": "Muito além do esporte: CEME promove tradicional Arraiá Junino - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T11:37:58.858461+00:00"
+    },
+    {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
@@ -60,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:20.046684+00:00"
+      "collected_at": "2026-06-30T11:37:46.534378+00:00"
+    },
+    {
+      "id": "42c23d86fc8174e7a0adecfab6608ca463bd5a0ee3c61df850e1932f5cd5dee6",
+      "title": "domingo de São Pedro e São Paulo, o Santuário da Babilônia inaugurou o Memorial Cônego Antônio Tombolato - - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmY2LWdQcnVVWXltU0pua3hwYTZpNElNWDJYeF83c0JfX3J0aDAyS1AxUy1ubVlOMkN4cU5vZ292X2hXVnhrTm1LTTZCQzVwN0FLSloxaVRKWnRiY25tcEpYT0hEbGJKcVlkVW9Ca2dqYWRhal9lRHZDOVU1aHVSQUhaOVFIWWRWNEJNNHJEdXUwc01XeHhvRnhVR293WWl0SW92RHVtWHFNZnpQdjY3emt0dDRsWUNLN2pGWHBCMndQNkJaSEZpdy1QN0hjbHRabjdN0gHTAUFVX3lxTFBuZjYtZ1BydVVZeW1TSm5reHBhNmk0SU1YMlh4XzdzQl9fcnRoMDJLUDFTLW5tWU4yQ3hxTm9nb3ZfaFdWeGtObUtNNkJDNXA3QUtKWjFpVEpadGJjbm1wSlhPSERsYkpxWWRVb0JrZ2phZGFqX2VEdkM5VTVodVJBSFo5UUhZZFY0Qk00ckR1dTBzTVd4eG9GeFVHb3dZaXRJb3ZEdW1YcU1melB2Njd6a3R0NGxZQ0s3akZYcEIyd1A2QlpIRml3LVA3SGNsdFpuN00?oc=5",
+      "resolved_link": "",
+      "published": "2026-06-29T22:53:53+00:00",
+      "published_raw": "Mon, 29 Jun 2026 22:53:53 GMT",
+      "snippet": "domingo de São Pedro e São Paulo, o Santuário da Babilônia inaugurou o Memorial Cônego Antônio Tombolato - São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-06-30T11:37:46.534474+00:00"
     },
     {
       "id": "9f508acf7bf70f5c7522794e0ebc5804ce6612fbe936274f3d3a7a4fbc9a817f",
@@ -77,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:30.816634+00:00"
+      "collected_at": "2026-06-30T11:37:57.087475+00:00"
     },
     {
       "id": "b5405b365f252489629f9b2500b327b7419952a353273e71c5b0f9b62cb6e080",
@@ -88,13 +173,13 @@
       "published": "2026-06-29T16:05:29+00:00",
       "published_raw": "Mon, 29 Jun 2026 16:05:29 GMT",
       "snippet": "Festival Manifesta estreia com sucesso e reúne mais de 4 mil pessoas na Estação Ferroviária de São Carlos - São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:20.047005+00:00"
+      "collected_at": "2026-06-30T11:37:46.534547+00:00"
     },
     {
       "id": "dbc5c6d986238460a44d3a8d2505b8c3339b77056c99b4be20e3c25931d0c028",
@@ -111,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:32.461869+00:00"
+      "collected_at": "2026-06-30T11:37:58.858317+00:00"
     },
     {
       "id": "65118539039dc63c29d03523bde06231766ca98d05833264147654aca0a6e995",
@@ -128,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:21.697145+00:00"
+      "collected_at": "2026-06-30T11:37:48.171192+00:00"
     },
     {
       "id": "1bcf189df35fb7ee8e639340d453f08f21e9fef1a6ceb536908d2295a744e606",
@@ -145,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:20.046584+00:00"
+      "collected_at": "2026-06-30T11:37:46.534330+00:00"
     },
     {
       "id": "d34c90d52d7c08a7512a84adf3bc89d1553c70d15df4d093ff68809233dd9747",
@@ -162,41 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-06-30T06:53:20.046805+00:00"
-    },
-    {
-      "id": "3a49732901cde92fac99ee354b11a3a6b5110fb0f09f17d9a611f4667a848a19",
-      "title": "Fetrabens - Fetrabens",
-      "source": "Fetrabens",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0cwc2hWLThqR1Z3TDJ1WUg1cG1hVkFzdTFfNlZfQmMxSEV0WHZDSDFRd1BnbGlEZWpVa2lKXzhyMzUwY3VVR3dNVTQxUFZVcS0xZnR1SVhEWjBzeW1LeXpwU3FzR09rRXY4VVFpNmp4ZVJXM091X0ppVldpalhMYVVpWFRQUWhkMUpmdDIxaXIzQmFGUFBOb1l0dDAzTXMxREY0THEyVlByblhsOU9fVg?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-29T11:24:11+00:00",
-      "published_raw": "Mon, 29 Jun 2026 11:24:11 GMT",
-      "snippet": "Fetrabens Fetrabens",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-30T06:53:29.654174+00:00"
-    },
-    {
-      "id": "4174ba37f6b4f0369afdc27df6ecbbae708d7dc58d7c2310683df7afdd0e4ff1",
-      "title": "São Carlos terá segunda-feira de tempo firme e clima agradável no Dia de São Pedro - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3BfUFhSb0ZSZlFBMGhDZ3hDVmZFaWNybEFxbWR0RFltWGw5UlVLNTN2Yk1Ua0xiT1czM2lxX3ZEQmdob3FNbjVZMlJaMFZyUEhaZmgyQVBvYXZieFlXYVlWQ1lFUG5mcDg2YVJxX0FzRGc1R2FYd0ttXzVHTGRSbnBDYnNXUDljamNKZGtxOFR3dDFXMjRJeFFiZzlZRWVpV0MwNFdJQXBSSHVoZkNwVU4tNEF1aXfSAbcBQVVfeXFMTk9wX1BYUm9GUmZRQTBoQ2d4Q1ZmRWljcmxBcW1kdERZbVhsOVJVSzUzdmJNVGtMYk9XMzNpcV92REJnaG9xTW41WTJSWjBWclBIWmZoMkFQb2F2YnhZV2FZVkNZRVBuZnA4NmFScV9Bc0RnNUdhWHdLbV81R0xkUm5wQ2JzV1A5Y2pjSmRrcThUd3QxVzI0SXhRYmc5WUVlaVdDMDRXSUFwUkh1aGZDcFVOLTRBdWl3?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-29T08:14:53+00:00",
-      "published_raw": "Mon, 29 Jun 2026 08:14:53 GMT",
-      "snippet": "São Carlos terá segunda-feira de tempo firme e clima agradável no Dia de São Pedro - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-06-30T06:53:20.046901+00:00"
+      "collected_at": "2026-06-30T11:37:46.534429+00:00"
     }
   ]
 }
