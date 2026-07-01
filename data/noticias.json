@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-01T11:57:14.362714+00:00",
+  "updated_at": "2026-07-01T14:05:03.257148+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 12,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "0eb5d1b75c57e09671681cc5393ab6d81a566cfb837d55d13f93de254cd4d002",
+      "title": "Viaduto do Jockey Club será totalmente interditado - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGNDbG81NGYxS0FteEduQ2RCblMyMmJsclNGM2g1Q21Ec1gzbTJodDgzRmNiU0FCVVpvT1p3b0JPWWR2NC00ZTBVUW5lZTFralgwU25wNjFLSXZEX2UtSnFwaXhGVXliX1NOZUJpaG1TVGU5STh2SkQ5dHo4SnJPZldpOWtaX21uTHBkRjJmWDh2MU9jWDdj?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-01T13:50:32+00:00",
+      "published_raw": "Wed, 01 Jul 2026 13:50:32 GMT",
+      "snippet": "Viaduto do Jockey Club será totalmente interditado Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-01T14:04:46.439114+00:00"
+    },
+    {
+      "id": "62a732d3164c75805fa0c1859e6ddd809add0ad1832f314dbe442c1624d282bc",
+      "title": "Prefeitura de Ibaté recebe doação de cobertores - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHA2MWpxbEk3TDdCMXBWQlNibzRLYU5LYUFEZHBlaWN2bHRpN3ZiZmg3T0JhbnF4T21yZjIwbXJvdUVxa1RhUU02Mmtpam1UWVRuSXpyQlhmRXp4QkJVSklTWnJOWTAtZUQyZE9FWlJ6Y2NfNjMzM2Q3bE43LWNHTkVDd19sOUcxUk1aNGZ2YXl0bzQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-01T12:04:16+00:00",
+      "published_raw": "Wed, 01 Jul 2026 12:04:16 GMT",
+      "snippet": "Prefeitura de Ibaté recebe doação de cobertores Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-01T14:04:46.439176+00:00"
+    },
+    {
       "id": "b7e9373b12689fa0b9fb66c816065ee41b22a772189e9a8b0bfe31d13fe3c87c",
       "title": "Pedágio mais caro em SP: novas tarifas começam a valer hoje; veja valores - BOL",
       "source": "BOL",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.738134+00:00"
+      "collected_at": "2026-07-01T14:04:46.996134+00:00"
     },
     {
       "id": "0be869b83c45291bb42733b8e61356388533dc20caec0e7ff86cfd9c48617988",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209428+00:00"
+      "collected_at": "2026-07-01T14:04:46.438882+00:00"
     },
     {
       "id": "0820718b78f6767599acbac7d0d1f58bfc79b6eddf6f6bb499fbbde31425deb6",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:57:09.529090+00:00"
+      "collected_at": "2026-07-01T14:04:58.081740+00:00"
     },
     {
       "id": "2aa85477ae79c7baf4c08c09c25fe9badc2e7e13633a547acb9ed86db00bbe77",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209626+00:00"
+      "collected_at": "2026-07-01T14:04:46.439050+00:00"
     },
     {
       "id": "58c84f4bd46b4068dfc31b3f4d7057b7eee5919bd7c2f6a073dd1ec695d03fda",
@@ -122,13 +156,13 @@
       "published": "2026-06-30T21:53:48+00:00",
       "published_raw": "Tue, 30 Jun 2026 21:53:48 GMT",
       "snippet": "Fim da interdição: pontilhão entre Iwagiro Toyama e Jockey Club é liberado - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:57:08.999318+00:00"
+      "collected_at": "2026-07-01T14:04:56.937743+00:00"
     },
     {
       "id": "683ac6b3d29f376464956b99100767404610c259e7921a10a0bc63d29f093e51",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:57:08.337199+00:00"
+      "collected_at": "2026-07-01T14:04:56.937611+00:00"
     },
     {
       "id": "4ba1090351d94373d4952b84ad0638d1daa933438ec50735ade6f20ec4d6fba3",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209523+00:00"
+      "collected_at": "2026-07-01T14:04:46.438969+00:00"
     },
     {
       "id": "e4fe623a8489675427765e090e3ee73cce5a7e9e38cb4adebacce1a5b955fc06",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209903+00:00"
+      "collected_at": "2026-07-01T14:04:46.439245+00:00"
     },
     {
       "id": "c7c76d106d930f269fbb9f6eb87d145756a248ec38a6abb732d3e214370e98d0",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:57:11.707719+00:00"
+      "collected_at": "2026-07-01T14:05:00.403443+00:00"
     },
     {
       "id": "aff9d9427fe8a42548aac5bf1fbe9eec0f5b4f2d93343a2bdfd7be376b7a9901",
@@ -213,58 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.738053+00:00"
-    },
-    {
-      "id": "e5c5a73f318990a524f3f78b71b38caf8865e36b107ad0a77063ca8de8c5fc8c",
-      "title": "Presidente do COAF ressalta trabalho sério realizado pela organização do BiS SiGMA Brasília 2026 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUk5XcmhVRVV5RGVweWhqRmo3UFhtUG4zRTdpdlZ6SHFWVEhpMnd1Zjk3X0RDakFzU3ZFXzFFV2hERDBUVW5Fb0ZlQUxuOUVQMk9MNTdPc2NpcmdUQ0lJVDNXQlFEbTNCQXZINmdCbzlrR2VDeHFmQ3dERngtUF9iU3ZybU9oQUtBcWhvRzYzMjJkRGRyZ01yMFhBNmlwUzFIaVBzRXZWby1UdVZKMFR3QkxQcmNjZTFycVhqQkNNRkxzRVE0ZUdaaG1BZzNaOERlcE95MU9qVmowUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-30T13:34:47+00:00",
-      "published_raw": "Tue, 30 Jun 2026 13:34:47 GMT",
-      "snippet": "Presidente do COAF ressalta trabalho sério realizado pela organização do BiS SiGMA Brasília 2026 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209798+00:00"
-    },
-    {
-      "id": "16451372b96d7288beb5ea645f51bf0b97a2f721313770d1a1cd4de9d4c7d559",
-      "title": "Chuva forte nas rodovias: veja como dirigir com segurança e evitar acidentes - portaldotransito.com.br",
-      "source": "portaldotransito.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0pJVmtVNFQxT1RvaUNfdmlwZW1odVdhNU1wLVdOWm9SeURnTkRFcEFqOUc4Vl9EUDVDYWVHS0hMZXZmeENYaERHUjhaS0Fic1FEWVJwTjJCakc4Vlhzb0JGSzF1MHIzc0VHMVdwZXFZU0NJUmdxTlN1Ujdjd0dKcW5jSTFoai1kbWlqbDJxZUV0OXRaZHoydzc0WFBJcnlSZDdKNHp5Qk5odl9Bdjc5WVMybGx4OHRLb3NLV2FIOVVKWEV3TGNPb1VLOFppQV9qNm1kdEJqS25WemRWRldEbGdwUDZYajVON1JFZVUzYVTSAfABQVVfeXFMUEdKSVZrVTRUMU9Ub2lDX3ZpcGVtaHVXYTVNcC1XTlpvUnlEZ05ERXBBajlHOFZfRFA1Q2FlR0tITGV2ZnhDWGhER1I4WktBYnNRRFlScE4yQmpHOFZYc29CRksxdTByM3NFRzFXcGVxWVNDSVJncU5TdVI3Y3dHSnFuY0kxaGotZG1pamwycWVFdDl0WmR6Mnc3NFhQSXJ5UmQ3SjR6eUJOaHZfQXY3OVlTMmxseDh0S29zS1dhSDlVSlhFd0xjT29VSzhaaUFfajZtZHRCaktuVnpkVkZXRGxncFA2WGo1TjdSRWVVM2FU?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-30T13:01:00+00:00",
-      "published_raw": "Tue, 30 Jun 2026 13:01:00 GMT",
-      "snippet": "Chuva forte nas rodovias: veja como dirigir com segurança e evitar acidentes portaldotransito.com.br",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-01T11:57:09.528886+00:00"
-    },
-    {
-      "id": "7a7706e6a612831880b7dea66db7b2aa84fb52ea9fcd4c3375aad4860ba12e7e",
-      "title": "Caminhão bate na traseira de ônibus na SP-310 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaElyVE1iTW9EN0I3V0RmZ0VGXzR4NHRpNnhGejA5UW41ZEpYTm0yWm5DOE1EUTFFbWZfVXpYMmhGLVY4WmxrU05sUFVRWUQzU3dPMmpLR1J5V0daaGRzTi16MnF5Z1pUdWkxdmxWYUJJbGZPNHhsVjM2US1xZm8xYzRISFkzcjRFU05paXNkRWpwcFN2dGVxbA?oc=5",
-      "resolved_link": "",
-      "published": "2026-06-30T12:13:18+00:00",
-      "published_raw": "Tue, 30 Jun 2026 12:13:18 GMT",
-      "snippet": "Caminhão bate na traseira de ônibus na SP-310 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-01T11:56:58.209708+00:00"
+      "collected_at": "2026-07-01T14:04:46.996059+00:00"
     }
   ]
 }
