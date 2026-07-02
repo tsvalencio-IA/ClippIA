@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-02T19:18:00.018530+00:00",
+  "updated_at": "2026-07-02T21:58:01.520813+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 17,
+  "total": 12,
   "total_images": 0,
-  "new_items": 17,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.846693+00:00"
+      "collected_at": "2026-07-02T21:57:45.392054+00:00"
     },
     {
       "id": "1f49bb2ea86f0710b031248f831224195556ab4f613366455e85c394e062a09f",
@@ -71,13 +71,13 @@
       "published": "2026-07-02T14:50:24+00:00",
       "published_raw": "Thu, 02 Jul 2026 14:50:24 GMT",
       "snippet": "Em São Carlos: Viaduto do Jockey Club será interditado para conclusão das obras das terceiras faixas da SP-310 odefensor.com.br",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:53.942764+00:00"
+      "collected_at": "2026-07-02T21:57:44.843601+00:00"
     },
     {
       "id": "adf3a549674053addfb065a96c76d50331c86266ef93a81acd528bc9950e6a10",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.256808+00:00"
+      "collected_at": "2026-07-02T21:57:56.605001+00:00"
     },
     {
       "id": "22c275b3862fa90f11bd76af46c04aec33d2644ad229719e0ae0dca587b061d6",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.807330+00:00"
+      "collected_at": "2026-07-02T21:57:57.205613+00:00"
     },
     {
       "id": "38f517e2a12e81eaf8a80c56415897c8ec4b8bed58f426c77e3edba40fe1b6cf",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:54.524314+00:00"
+      "collected_at": "2026-07-02T21:57:56.059645+00:00"
     },
     {
       "id": "4873dc44228bd662542306bd255c3168411a8646a3fedb467bea765d0f53ee17",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:53.942952+00:00"
+      "collected_at": "2026-07-02T21:57:55.486240+00:00"
     },
     {
       "id": "d420da379c8e906a95834a952506728b5162e2e3c26f1bd85541b38ebe2ff7aa",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281771+00:00"
+      "collected_at": "2026-07-02T21:57:44.843519+00:00"
     },
     {
       "id": "8cf2bf09abe58ceee5a58566370d2266f725c6f60302ed4dd571912781645b18",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281582+00:00"
+      "collected_at": "2026-07-02T21:57:44.843350+00:00"
     },
     {
       "id": "7a4a1476a4229c9cafe68c4f417613eb3cd080f30566b8e0f2289495aaffd80d",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281501+00:00"
+      "collected_at": "2026-07-02T21:57:44.843251+00:00"
     },
     {
       "id": "b1ac5111fca6a99e4e3ba5288d87c53071f21fe1cfec1c6a8456a99024a21585",
@@ -207,13 +207,13 @@
       "published": "2026-07-02T00:12:00+00:00",
       "published_raw": "Thu, 02 Jul 2026 00:12:00 GMT",
       "snippet": "Engavetamento deixa feridos e interdita a Washington Luís nesta quarta Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281680+00:00"
+      "collected_at": "2026-07-02T21:57:44.843430+00:00"
     },
     {
       "id": "1767b724ad29f9219c631f6bd6c41b99034b07c4fc78e34a73519a6dad36de69",
@@ -224,115 +224,30 @@
       "published": "2026-07-01T23:34:00+00:00",
       "published_raw": "Wed, 01 Jul 2026 23:34:00 GMT",
       "snippet": "Engavetamento com oito veículos bloqueia trecho da Rodovia Washington Luís em Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281928+00:00"
+      "collected_at": "2026-07-02T21:57:44.843750+00:00"
     },
     {
       "id": "2953aa27a3439a634266551ac13698206c3329cd30363138177ba9268ece3b45",
       "title": "Redução de velocidade na Washington Luís entra em vigor - São Carlos Agora",
       "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmxOaGo4Wlk2YVVMOGlENE5hVUhDby1DSXZOQXF1YkkzWHh5X01iWTZLQjg1M0ZDSHhfS2VoeTBkX1RzN0ZHRTNyTVVYMDkzWXZDSDNOanExWE12cnk4TnY4Ym0tRzFTWUczOEZBZjRyTjdTZjhxbmZXdk5uN3E0R1NEcTJrcENIbURQaFI5elVYUGs1UXhrWFN4WHhOU1pBRG84cFdXVdIBrAFBVV95cUxQemc1RUFaREFlZ3N2b3h4ZE9saVZZRHRJSktjcnVXR2p5bWV1cUVIOXNMMjJjaDVDdmlCMnRYUTJFYklUWGtWWGVZd0FsRlQ4TW9ReE5XYmFLbVg0YXVGVFUzU25YZGNZejcxanNBOXR4aTl4Zm9zVk5aVjJrT2xFMDFkendDSVQ1OTREY0tnOURmYng0UGMycjFOQXpkR25rODJPazlUb0JiWGkw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemc1RUFaREFlZ3N2b3h4ZE9saVZZRHRJSktjcnVXR2p5bWV1cUVIOXNMMjJjaDVDdmlCMnRYUTJFYklUWGtWWGVZd0FsRlQ4TW9ReE5XYmFLbVg0YXVGVFUzU25YZGNZejcxanNBOXR4aTl4Zm9zVk5aVjJrT2xFMDFkendDSVQ1OTREY0tnOURmYng0UGMycjFOQXpkR25rODJPazlUb0JiWGkw0gGsAUFVX3lxTFB6ZzVFQVpEQWVnc3ZveHhkT2xpVllEdElKS2NydVdHanltZXVxRUg5c0wyMmNoNUN2aUIydFhRMkViSVRYa1ZYZVl3QWxGVDhNb1F4TldiYUttWDRhdUZUVTNTblhkY1l6NzFqc0E5dHhpOXhmb3NWTlpWMmtPbEUwMWR6d0NJVDU5NERjS2c5RGZieDRQYzJyMU5BemRHbms4Mk9rOVRvQmJYaTA?oc=5",
       "resolved_link": "",
-      "published": "2026-07-01T21:37:00+00:00",
-      "published_raw": "Wed, 01 Jul 2026 21:37:00 GMT",
+      "published": "2026-07-01T22:02:51+00:00",
+      "published_raw": "Wed, 01 Jul 2026 22:02:51 GMT",
       "snippet": "Redução de velocidade na Washington Luís entra em vigor São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281846+00:00"
-    },
-    {
-      "id": "51ac3b000165542ebce7a5be12c2bf846a56a0752bbe08f0d48001866f78795e",
-      "title": "Engavetamento com oito veículos congestiona a Washington Luiz em Rio Preto - Jornal CidadãoNET",
-      "source": "Jornal CidadãoNET",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXZYYW1GVl9abjBia25mak1LVzE4TDhLbVpiZDJZZFlpeXRmVElOUEEtbjZnNVh2TXRzWWZNTjdORHRDRm9ta1dHVkhRMndoT2FOZEFLWkpKWVhVV1UwVmRUMW5vb1pNaWtPMlpxNjhzNnB2V3BnV3VscVhLNF90TkJueEhQZWxsRTlaS0R4aURiRE1GbURKWFdfNGRfQ2JOUTVEbDA1dkpoZGxEbHlOWWJB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T21:00:00+00:00",
-      "published_raw": "Wed, 01 Jul 2026 21:00:00 GMT",
-      "snippet": "Engavetamento com oito veículos congestiona a Washington Luiz em Rio Preto Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.257027+00:00"
-    },
-    {
-      "id": "a2bc7e7b5bf50905d503789d01308ccb8a12c3bd0df258679d690071b2fd652f",
-      "title": "Engavetamento com capotamento interdita Washington Luís em Rio Preto (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOek5YV3k1czdWeW1hOE53TXlONWd1Z3Y0Q1RmNV9XSkN4ejRCVjJhd1F0TFRzZm53VGp4UG1Fc0dYbkFmakdzTUJnUm51RC1jSnpxV1hrd3VfME5Tc1RkUTBOSHVJN0lmcVlma2g1a0p5dUFfYjlxNndsZnprelE2SnZMXy1IMlRfQmpvMmtsd3F6V1dXOFkxWDNxVVk3aWRIaWZCX093VzJobElockE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T20:57:15+00:00",
-      "published_raw": "Wed, 01 Jul 2026 20:57:15 GMT",
-      "snippet": "Engavetamento com capotamento interdita Washington Luís em Rio Preto (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.257162+00:00"
-    },
-    {
-      "id": "4f320cb6d99cf2cd8874b1e4542db6a07edda76b5074fed6b7bec91532de07e4",
-      "title": "Acidente com oito veículos na rodovia Washington Luís causa congestionamento - radioviramundo.com",
-      "source": "radioviramundo.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUpSNG1mWlZoZWlFanpZbmVBRmY1M1Z4ZTZLZDJrdU95U3J4QlA5UGNNcEE4VmNzMkhIV1ZtVDFKbzdkMjJmdnBnVmQ0Y01DSEVRNGJlbERfTzdTdE5JeGNvU0R2V3ByV3o2ZFRocHJuZkowblJBT1BZZkdqOGdLUjM2VVlDWUxzUHF0MFNma2RnUnJtSWRGWlM0Zi1jRHR1Nm42aG5DT3EwZHQ1V1FQbE13?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T20:51:41+00:00",
-      "published_raw": "Wed, 01 Jul 2026 20:51:41 GMT",
-      "snippet": "Acidente com oito veículos na rodovia Washington Luís causa congestionamento radioviramundo.com",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.257095+00:00"
-    },
-    {
-      "id": "f1c44091830be8d78227c980c9f1bf4cd4f826c6e5969d7dfe054aa212ddabba",
-      "title": "Acidente com quatro veículos interdita trecho da Washington Luís - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2NURnVxV29DYUdiZ0xaUm9mTlBPVTlVY183MExtR2hhZ3hQc2s3a3NBYW9PNnpSeGVXdDY2S0FHQkJCMzhnUmJKSnhtZVJwRVVrZ0QyYlZQUmxxTmxxZkFiTkRJby1vZWtCRDhrUnh6RmNYY0hweVl3NUpjTmRFNkVsekt6WURvN2tiWTBhYmpkT255Y3JLUFJ6ckVKME1Zb3BR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T20:45:54+00:00",
-      "published_raw": "Wed, 01 Jul 2026 20:45:54 GMT",
-      "snippet": "Acidente com quatro veículos interdita trecho da Washington Luís Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T19:17:55.256955+00:00"
-    },
-    {
-      "id": "d8f62c6a5d88c1546600612ac08514717ee70c4080afc5dfaa1535d6ab6c5a16",
-      "title": "Acidente com oito veículos na rodovia Washington Luís causa congestionamento - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkdqMHZBSzhzQmlyN0h5VnVkYVpOdWNlOF9RbVNDVEZFTC02b2xQVXYxVnZmbXVJamFUcXVqTTZPRTloMWt1d0RvM1laMk1lZnJTTjhQVTBFVU5hbmdIOUp4bzZyc1NUZDQ0V3NHdEFhUXVpY3U1LU5DMUwtTnJJWUhNQjRVUGdKSXJiMDBuTjE0bHZ6UDBzZUtpYldkYWJ0ZW9FdVAyWUoyWHE4bFhLSEFBUW53Q3ZqdmJDZkduVnh3Wl8wTFVNdElEZVQxTG1QSlhVU1lUZDjSAecBQVVfeXFMT0doWVREbG16dWRlWUN5aFhBYkRpQkhWTnRXREdsZU5UaWdvRi1rTG5Kdm9HbUdEWlN1SGZuNnllTUN4cC1MY1Fzcmt1WG5Nb1BCaW1QT3duUkpHSVZXdnpjbmR5b1V5a3l2dXMyMGRrbWtCQ0UySzk1aXo0UVVFNVlTOXNhVTBMRWhuZ01qaGtNMS1mLXZUTnptYklFVnE2TTJGMkNoaWVKUFJaMlc3dGhRS2JucnBEOWxBbEFBQkI3b2M2YmoySVpfdDRWOGVJMU43WGNvZGtUTDM4ejRxcGZpVnZiRjZV?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T20:39:43+00:00",
-      "published_raw": "Wed, 01 Jul 2026 20:39:43 GMT",
-      "snippet": "Acidente com oito veículos na rodovia Washington Luís causa congestionamento G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T19:17:42.281401+00:00"
+      "collected_at": "2026-07-02T21:57:44.843673+00:00"
     }
   ]
 }
