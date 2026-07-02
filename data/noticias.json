@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-02T02:49:34.822823+00:00",
+  "updated_at": "2026-07-02T06:29:10.077971+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 16,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "4873dc44228bd662542306bd255c3168411a8646a3fedb467bea765d0f53ee17",
+      "title": "SP 304 ganha duas faixas por sentido no km 169 e melhora fluidez do tráfego em Piracicaba - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3dmN19VTWJ5ZWZwYkQtU3N2eVJfeXJxWERoNXdyUzFGMUhrSy1JYWVndFgtbEZVd0hGSE9iT1hRdU1kNU5YUmU0bUFzTUlFeG0xWTFfX3psU3NfZzNMakRnQkdQSEN3MHNzLUwweFJjc2JDTV9LeGNZcDYxMkNLUnVzLUFYbFJTMVplLUFJWWJ2VklQSFB2VXBoM1l3YU82dmhsTldHYVdCS1hEUG55cHhVVzJtXzFCaS03TXcxMkjSAcABQVVfeXFMTnN3ZjdfVU1ieWVmcGJELVNzdnlSX3lycVhEaDV3clMxRjFIa0stSWFlZ3RYLWxGVXdIRkhPYk9YUXVNZDVOWFJlNG1Bc01JRXhtMVkxX196bFNzX2czTGpEZ0JHUEhDdzBzcy1MMHhSY3NiQ01fS3hjWXA2MTJDS1J1cy1BWGxSUzFaZS1BSVlidlZJUEhQdlVwaDNZd2FPNnZobE5XR2FXQktYRFBueXB4VVcybV8xQmktN013MTJI?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-02T03:28:38+00:00",
+      "published_raw": "Thu, 02 Jul 2026 03:28:38 GMT",
+      "snippet": "SP 304 ganha duas faixas por sentido no km 169 e melhora fluidez do tráfego em Piracicaba - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-02T06:29:03.932643+00:00"
+    },
+    {
       "id": "8cf2bf09abe58ceee5a58566370d2266f725c6f60302ed4dd571912781645b18",
       "title": "Obras na Washington Luís interditam viaduto do Jockey Clube em São Carlos - portaldacidade.com",
       "source": "portaldacidade.com",
@@ -54,13 +71,30 @@
       "published": "2026-07-02T02:00:00+00:00",
       "published_raw": "Thu, 02 Jul 2026 02:00:00 GMT",
       "snippet": "Obras na Washington Luís interditam viaduto do Jockey Clube em São Carlos portaldacidade.com",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:28.471304+00:00"
+      "collected_at": "2026-07-02T06:28:54.110301+00:00"
+    },
+    {
+      "id": "7a4a1476a4229c9cafe68c4f417613eb3cd080f30566b8e0f2289495aaffd80d",
+      "title": "Redução de velocidade entra em vigor no trecho urbano da SP-310, em Araraquara - rciararaquara.com.br",
+      "source": "rciararaquara.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnZOd0xhbFRDeFJqeTNwWlREVW5rNTExRk5sVGpCcUR6WWVWZlRqRUdiY19RN1Q3QTRVbWpYSk1GUDMxVmQ0MXRGcEJ3dTZEU1BiRk5ESHFLTXdMR1JDdl8zeGtXNnV1RjVPQmZkWTJYUjBORnlnSGpUaTlNSHZBbThxSUJJX2syQjg0dnpaQXNVamdqbHkxMWFkVE5oQ2NTVU1LeW9tMFFZLUNCbU1radIBsAFBVV95cUxPYnZOd0xhbFRDeFJqeTNwWlREVW5rNTExRk5sVGpCcUR6WWVWZlRqRUdiY19RN1Q3QTRVbWpYSk1GUDMxVmQ0MXRGcEJ3dTZEU1BiRk5ESHFLTXdMR1JDdl8zeGtXNnV1RjVPQmZkWTJYUjBORnlnSGpUaTlNSHZBbThxSUJJX2syQjg0dnpaQXNVamdqbHkxMWFkVE5oQ2NTVU1LeW9tMFFZLUNCbU1raQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-02T01:51:01+00:00",
+      "published_raw": "Thu, 02 Jul 2026 01:51:01 GMT",
+      "snippet": "Redução de velocidade entra em vigor no trecho urbano da SP-310, em Araraquara rciararaquara.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-02T06:28:53.537524+00:00"
     },
     {
       "id": "b1ac5111fca6a99e4e3ba5288d87c53071f21fe1cfec1c6a8456a99024a21585",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:17.871863+00:00"
+      "collected_at": "2026-07-02T06:28:53.537595+00:00"
     },
     {
       "id": "1767b724ad29f9219c631f6bd6c41b99034b07c4fc78e34a73519a6dad36de69",
@@ -88,13 +122,13 @@
       "published": "2026-07-01T23:34:00+00:00",
       "published_raw": "Wed, 01 Jul 2026 23:34:00 GMT",
       "snippet": "Engavetamento com oito veículos bloqueia trecho da Rodovia Washington Luís em Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:19.523452+00:00"
+      "collected_at": "2026-07-02T06:29:05.116216+00:00"
     },
     {
       "id": "2953aa27a3439a634266551ac13698206c3329cd30363138177ba9268ece3b45",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:17.871932+00:00"
+      "collected_at": "2026-07-02T06:28:53.537664+00:00"
     },
     {
       "id": "51ac3b000165542ebce7a5be12c2bf846a56a0752bbe08f0d48001866f78795e",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:29.738950+00:00"
+      "collected_at": "2026-07-02T06:29:05.115904+00:00"
     },
     {
       "id": "a2bc7e7b5bf50905d503789d01308ccb8a12c3bd0df258679d690071b2fd652f",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:29.739158+00:00"
+      "collected_at": "2026-07-02T06:29:05.116108+00:00"
     },
     {
       "id": "7aef94a7b7d2b3e4b73c89a62ac9410457bb82ef5c5b52a8f7a07e0ffc94154c",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:29.738798+00:00"
+      "collected_at": "2026-07-02T06:29:05.115759+00:00"
     },
     {
       "id": "4f320cb6d99cf2cd8874b1e4542db6a07edda76b5074fed6b7bec91532de07e4",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:29.739018+00:00"
+      "collected_at": "2026-07-02T06:29:05.115973+00:00"
     },
     {
       "id": "f1c44091830be8d78227c980c9f1bf4cd4f826c6e5969d7dfe054aa212ddabba",
@@ -196,13 +230,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:29.738875+00:00"
+      "collected_at": "2026-07-02T06:29:05.115833+00:00"
     },
     {
       "id": "d8f62c6a5d88c1546600612ac08514717ee70c4080afc5dfaa1535d6ab6c5a16",
       "title": "Acidente com oito veículos na rodovia Washington Luís causa congestionamento - G1",
       "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNkdqMHZBSzhzQmlyN0h5VnVkYVpOdWNlOF9RbVNDVEZFTC02b2xQVXYxVnZmbXVJamFUcXVqTTZPRTloMWt1d0RvM1laMk1lZnJTTjhQVTBFVU5hbmdIOUp4bzZyc1NUZDQ0V3NHdEFhUXVpY3U1LU5DMUwtTnJJWUhNQjRVUGdKSXJiMDBuTjE0bHZ6UDBzZUtpYldkYWJ0ZW9FdVAyWUoyWHE4bFhLSEFBUW53Q3ZqdmJDZkduVnh3Wl8wTFVNdElEZVQxTG1QSlhVU1lUZDjSAecBQVVfeXFMT0doWVREbG16dWRlWUN5aFhBYkRpQkhWTnRXREdsZU5UaWdvRi1rTG5Kdm9HbUdEWlN1SGZuNnllTUN4cC1MY1Fzcmt1WG5Nb1BCaW1QT3duUkpHSVZXdnpjbmR5b1V5a3l2dXMyMGRrbWtCQ0UySzk1aXo0UVVFNVlTOXNhVTBMRWhuZ01qaGtNMS1mLXZUTnptYklFVnE2TTJGMkNoaWVKUFJaMlc3dGhRS2JucnBEOWxBbEFBQkI3b2M2YmoySVpfdDRWOGVJMU43WGNvZGtUTDM4ejRxcGZpVnZiRjZV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPR2hZVERsbXp1ZGVZQ3loWEFiRGlCSFZOdFdER2xlTlRpZ29GLWtMbkp2b0dtR0RaU3VIZm42eWVNQ3hwLUxjUXNya3VYbk1vUEJpbVBPd25SSkdJVld2emNuZHlvVXlreXZ1czIwZGtta0JDRTJLOTVpejRRVUU1WVM5c2FVMExFaG5nTWpoa00xLWYtdlROem1iSUVWcTZNMkYyQ2hpZUpQUloyVzd0aFFLYm5ycEQ5bEFsQUFCQjdvYzZiajJJWl90NFY4ZUkxTjdYY29ka1RMMzh6NHFwZmlWdmJGNlXSAecBQVVfeXFMT0doWVREbG16dWRlWUN5aFhBYkRpQkhWTnRXREdsZU5UaWdvRi1rTG5Kdm9HbUdEWlN1SGZuNnllTUN4cC1MY1Fzcmt1WG5Nb1BCaW1QT3duUkpHSVZXdnpjbmR5b1V5a3l2dXMyMGRrbWtCQ0UySzk1aXo0UVVFNVlTOXNhVTBMRWhuZ01qaGtNMS1mLXZUTnptYklFVnE2TTJGMkNoaWVKUFJaMlc3dGhRS2JucnBEOWxBbEFBQkI3b2M2YmoySVpfdDRWOGVJMU43WGNvZGtUTDM4ejRxcGZpVnZiRjZV?oc=5",
       "resolved_link": "",
       "published": "2026-07-01T20:39:43+00:00",
       "published_raw": "Wed, 01 Jul 2026 20:39:43 GMT",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:17.871788+00:00"
+      "collected_at": "2026-07-02T06:28:53.537441+00:00"
     },
     {
       "id": "390e23dca672c76c1b29ed0f3f1ce6c54a7e6240414e478ab307cfba466de2f6",
@@ -230,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:17.871999+00:00"
+      "collected_at": "2026-07-02T06:28:53.537734+00:00"
     },
     {
       "id": "8908a3d9ec94a987d2c7c5184e864c05b5bcd770e134b51c623d46a4e7ae3809",
@@ -247,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:30.345802+00:00"
+      "collected_at": "2026-07-02T06:29:05.874004+00:00"
     },
     {
       "id": "62a732d3164c75805fa0c1859e6ddd809add0ad1832f314dbe442c1624d282bc",
@@ -264,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:17.871700+00:00"
+      "collected_at": "2026-07-02T06:28:53.537352+00:00"
     },
     {
       "id": "b7e9373b12689fa0b9fb66c816065ee41b22a772189e9a8b0bfe31d13fe3c87c",
@@ -281,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T02:49:18.429637+00:00"
+      "collected_at": "2026-07-02T06:28:54.110376+00:00"
     }
   ]
 }
