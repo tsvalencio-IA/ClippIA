@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T21:58:01.520813+00:00",
+  "updated_at": "2026-07-02T22:03:24.760638+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:45.392054+00:00"
+      "collected_at": "2026-07-02T22:03:08.752093+00:00"
     },
     {
       "id": "1f49bb2ea86f0710b031248f831224195556ab4f613366455e85c394e062a09f",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843601+00:00"
+      "collected_at": "2026-07-02T22:03:08.164613+00:00"
     },
     {
       "id": "adf3a549674053addfb065a96c76d50331c86266ef93a81acd528bc9950e6a10",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:56.605001+00:00"
+      "collected_at": "2026-07-02T22:03:19.907743+00:00"
     },
     {
       "id": "22c275b3862fa90f11bd76af46c04aec33d2644ad229719e0ae0dca587b061d6",
@@ -111,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:57.205613+00:00"
+      "collected_at": "2026-07-02T22:03:20.571730+00:00"
+    },
+    {
+      "id": "bef031178e56ed4541b9f8033fa0da5f09421b46c30479785a2663296b337c47",
+      "title": "Futsal Feminino sub-20 de São Carlos conquista vice-campeonato da Copa Paulista - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2x2TTdYUnF2NVZqcnZjYjJ1M0pUdFR2MHU2UDdDb3RuVC10Z1FUVVJGblZXT2VBajFmdmd2WlFLZHpXb3IxZ29iWC05clpUdFJ0bVczMTE2OG9vbG9Ua055TzU5clhEQ1RObWZQRFRqNjVGYUtXbTFUcjJrZHVRXzJ3YzRGSjVudFhhcnFiVmxZRVNiUzhYS3FlS19CUlZPTElYTlhNUFcyZkFsSlVaTHREMNIBswFBVV95cUxNd2x2TTdYUnF2NVZqcnZjYjJ1M0pUdFR2MHU2UDdDb3RuVC10Z1FUVVJGblZXT2VBajFmdmd2WlFLZHpXb3IxZ29iWC05clpUdFJ0bVczMTE2OG9vbG9Ua055TzU5clhEQ1RObWZQRFRqNjVGYUtXbTFUcjJrZHVRXzJ3YzRGSjVudFhhcnFiVmxZRVNiUzhYS3FlS19CUlZPTElYTlhNUFcyZkFsSlVaTHREMA?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-02T04:56:11+00:00",
+      "published_raw": "Thu, 02 Jul 2026 04:56:11 GMT",
+      "snippet": "Futsal Feminino sub-20 de São Carlos conquista vice-campeonato da Copa Paulista - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-02T22:03:08.164707+00:00"
     },
     {
       "id": "38f517e2a12e81eaf8a80c56415897c8ec4b8bed58f426c77e3edba40fe1b6cf",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:56.059645+00:00"
+      "collected_at": "2026-07-02T22:03:19.361488+00:00"
     },
     {
       "id": "4873dc44228bd662542306bd255c3168411a8646a3fedb467bea765d0f53ee17",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:55.486240+00:00"
+      "collected_at": "2026-07-02T22:03:18.750185+00:00"
     },
     {
       "id": "d420da379c8e906a95834a952506728b5162e2e3c26f1bd85541b38ebe2ff7aa",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843519+00:00"
+      "collected_at": "2026-07-02T22:03:08.164529+00:00"
     },
     {
       "id": "8cf2bf09abe58ceee5a58566370d2266f725c6f60302ed4dd571912781645b18",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843350+00:00"
+      "collected_at": "2026-07-02T22:03:08.164297+00:00"
     },
     {
       "id": "7a4a1476a4229c9cafe68c4f417613eb3cd080f30566b8e0f2289495aaffd80d",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843251+00:00"
+      "collected_at": "2026-07-02T22:03:08.164109+00:00"
     },
     {
       "id": "b1ac5111fca6a99e4e3ba5288d87c53071f21fe1cfec1c6a8456a99024a21585",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843430+00:00"
+      "collected_at": "2026-07-02T22:03:08.164431+00:00"
     },
     {
       "id": "1767b724ad29f9219c631f6bd6c41b99034b07c4fc78e34a73519a6dad36de69",
@@ -230,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843750+00:00"
-    },
-    {
-      "id": "2953aa27a3439a634266551ac13698206c3329cd30363138177ba9268ece3b45",
-      "title": "Redução de velocidade na Washington Luís entra em vigor - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemc1RUFaREFlZ3N2b3h4ZE9saVZZRHRJSktjcnVXR2p5bWV1cUVIOXNMMjJjaDVDdmlCMnRYUTJFYklUWGtWWGVZd0FsRlQ4TW9ReE5XYmFLbVg0YXVGVFUzU25YZGNZejcxanNBOXR4aTl4Zm9zVk5aVjJrT2xFMDFkendDSVQ1OTREY0tnOURmYng0UGMycjFOQXpkR25rODJPazlUb0JiWGkw0gGsAUFVX3lxTFB6ZzVFQVpEQWVnc3ZveHhkT2xpVllEdElKS2NydVdHanltZXVxRUg5c0wyMmNoNUN2aUIydFhRMkViSVRYa1ZYZVl3QWxGVDhNb1F4TldiYUttWDRhdUZUVTNTblhkY1l6NzFqc0E5dHhpOXhmb3NWTlpWMmtPbEUwMWR6d0NJVDU5NERjS2c5RGZieDRQYzJyMU5BemRHbms4Mk9rOVRvQmJYaTA?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-01T22:02:51+00:00",
-      "published_raw": "Wed, 01 Jul 2026 22:02:51 GMT",
-      "snippet": "Redução de velocidade na Washington Luís entra em vigor São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-02T21:57:44.843673+00:00"
+      "collected_at": "2026-07-02T22:03:08.164789+00:00"
     }
   ]
 }
