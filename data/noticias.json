@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-03T11:29:04.177799+00:00",
+  "updated_at": "2026-07-03T13:39:31.747782+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T11:28:48.121226+00:00"
+      "collected_at": "2026-07-03T13:39:15.541535+00:00"
     },
     {
       "id": "cb61156ad920c7a8867570a2237e9d1bec636e6df08ff075d5bee3be3b87264b",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T11:28:48.121487+00:00"
+      "collected_at": "2026-07-03T13:39:15.541733+00:00"
     },
     {
       "id": "0d620351959e2d800a47f215d43aa1b0a72d368d806f7208c7c108ccef53765b",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T11:28:48.667711+00:00"
+      "collected_at": "2026-07-03T13:39:16.150072+00:00"
     },
     {
       "id": "1f49bb2ea86f0710b031248f831224195556ab4f613366455e85c394e062a09f",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T11:28:48.121407+00:00"
-    },
-    {
-      "id": "adf3a549674053addfb065a96c76d50331c86266ef93a81acd528bc9950e6a10",
-      "title": "Acidente com sete veículos na Rodovia Washington Luís deixa um ferido - band.com.br",
-      "source": "band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdVJ4cV81bk41M0hIb2l4RzNtcEJsRllDUzBIWmdaWUhwbHdLX2tzcktOSml3bnJuakR6VGhUeWluYmtKaTBrNEgzZnNKQW13UHZqRjBxWm5EU1FySHRBS0ZxTTVyc2x2cnFHQ3hHaTljWnhQSllkNVdQdE9LTFp5NGFHLVJabmM3N0pCbXh3bUd2T3YzbG9CVUo5STFtTGtrOXZCdG45bktQS0kybVNHelpKLW9NUU1iX3BvMVRXaWdhYk5iUVRhZ3VLenNBeHk2dENCcWhOWDJ1UmVtYUJJNmln?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-02T13:22:43+00:00",
-      "published_raw": "Thu, 02 Jul 2026 13:22:43 GMT",
-      "snippet": "Acidente com sete veículos na Rodovia Washington Luís deixa um ferido band.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-03T11:28:48.121310+00:00"
+      "collected_at": "2026-07-03T13:39:15.541640+00:00"
     }
   ]
 }
