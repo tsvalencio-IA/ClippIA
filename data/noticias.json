@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-03T13:53:20.451421+00:00",
+  "updated_at": "2026-07-03T16:18:11.904419+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "fbd4bdfb27029b3506f96df168f3ad9cd2b9b1b21bc7a11f7fd8d93a535a52e1",
+      "title": "Recapeamento sob pontilhão do Jardim Cruzado começa neste fim de semana em Ibaté | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0dHY2RsSGYxN0YtYXJzcmRZcTlEUVR2ZnhNN2RCR3R4dXh3dG1CcUdLT1VpN09mZXZ5ZUdXREVTa3RIemJ2MWFUeEc5YU4wQzNxYmYxS0hiby1nTE5lNjVQVXlySlNKQUZoa1NRa0IwRnlDeVdKbWllYkw3VHFDYWllUU05d2hrX2NBNnVLbmhwSlAyMm0zdGpZMV9fekFtdUdCRHVuektjSzlvbUZ5VGxB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-03T14:36:49+00:00",
+      "published_raw": "Fri, 03 Jul 2026 14:36:49 GMT",
+      "snippet": "Recapeamento sob pontilhão do Jardim Cruzado começa neste fim de semana em Ibaté | Região em Destake",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reclamação",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-03T16:17:57.628323+00:00"
+    },
+    {
+      "id": "eb114743e571da937e86b1ea16c46a6e3ee3feab59834ad7752a955c2a8ac42b",
+      "title": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3dZcjRTdWJPc00wUGpTRW9lVFBld0JUVjVidm1WaTRmUFpIMmpUZ1JBSndVbVhIWGlYUmlxckJqZklmZDAzbnFHRmIxekt6NG94OG9jbnVDLXd1YmNGRVJMeThCdjVPVngzUUxXUHFheDFQRGQyc0pMUXNPQWpwTl83clNZUTlNNmNYT2hvcUdPNFVvTllzWnU4cXFLNzBfZDRUcVBWdGhsLVk3VTN6MC14WDNKeTNJY19aUE9ib3NBMlJ4?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-03T13:58:36+00:00",
+      "published_raw": "Fri, 03 Jul 2026 13:58:36 GMT",
+      "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-03T16:17:58.202101+00:00"
+    },
+    {
       "id": "2a95fb0ef150282ce053cd014274623fb97ac41cc4292e22e1ae444bb30ab4b3",
       "title": "Viaduto do Jockey Club será interditado por uma semana para obras na Rodovia Washington Luís em São Carlos - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T13:53:04.722369+00:00"
+      "collected_at": "2026-07-03T16:17:56.040127+00:00"
     },
     {
       "id": "cb61156ad920c7a8867570a2237e9d1bec636e6df08ff075d5bee3be3b87264b",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T13:53:04.722594+00:00"
+      "collected_at": "2026-07-03T16:17:56.040205+00:00"
     },
     {
       "id": "0d620351959e2d800a47f215d43aa1b0a72d368d806f7208c7c108ccef53765b",
@@ -94,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T13:53:05.234140+00:00"
-    },
-    {
-      "id": "1f49bb2ea86f0710b031248f831224195556ab4f613366455e85c394e062a09f",
-      "title": "Em São Carlos: Viaduto do Jockey Club será interditado para conclusão das obras das terceiras faixas da SP-310 - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjNEU1lxQWRLR0xmNVZJSC13SkozTnYtanBYVGxoT2hFc3p6dTNBWlRUZmFhM3BDWEtVeG5OaGdyajZJaHpMT19DbVNNRzBzRTktRl9WemNweGpFNGQ2UG1kRkE1V3hYd0Y5Q1lUOTJ4YVkxUGI4eUhYb1YtMWlNTmdDSV9XLVVSb0hINVZzNkdPUzU1bmgyUVp0QXh0RTIySHFwY3BXd2FCTlBBWUcwcWhJTGRTNk13WGNwT3U1bFRkbmJWTWVqXzBvRG8zal9G?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-02T14:50:24+00:00",
-      "published_raw": "Thu, 02 Jul 2026 14:50:24 GMT",
-      "snippet": "Em São Carlos: Viaduto do Jockey Club será interditado para conclusão das obras das terceiras faixas da SP-310 odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-03T13:53:04.722468+00:00"
+      "collected_at": "2026-07-03T16:17:56.580283+00:00"
     }
   ]
 }
