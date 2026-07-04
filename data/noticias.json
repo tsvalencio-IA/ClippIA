@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-04T13:14:38.996881+00:00",
+  "updated_at": "2026-07-04T15:53:28.432486+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 6,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463213+00:00"
+      "collected_at": "2026-07-04T15:53:07.900107+00:00"
     },
     {
       "id": "f395d796654292f78decb36c3ce2f46f03f09b7d5362dd18ed0a1057693af6dc",
@@ -71,13 +71,13 @@
       "published": "2026-07-03T21:09:07+00:00",
       "published_raw": "Fri, 03 Jul 2026 21:09:07 GMT",
       "snippet": "Ibaté altera trânsito para obras de recapeamento no acesso ao Jardim Cruzado | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463151+00:00"
+      "collected_at": "2026-07-04T15:53:07.900033+00:00"
     },
     {
       "id": "32125542805088874dcd0b9212be6ca2b31d48da159d04bddbbaba490a90817e",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463467+00:00"
+      "collected_at": "2026-07-04T15:53:07.900253+00:00"
     },
     {
       "id": "a1b3f179f1fa5bb97b120de68c35b72260447a2136b0d2fd6f67aa8fb6c3f56d",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463367+00:00"
+      "collected_at": "2026-07-04T15:53:07.899945+00:00"
     },
     {
       "id": "50c4c6878dff9a86b091849b388fd35e433c4faf3b0a5f17ee54313d4f79085c",
@@ -122,13 +122,13 @@
       "published": "2026-07-03T18:09:31+00:00",
       "published_raw": "Fri, 03 Jul 2026 18:09:31 GMT",
       "snippet": "Carreta tomba em acesso entre rodovias e derrama 35 mil litros de óleo vegetal em Barretos regiaonews.net.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463272+00:00"
+      "collected_at": "2026-07-04T15:53:07.900183+00:00"
     },
     {
       "id": "b3ae7a9c0c30d59ca0b5d50fcaaaef4fc0de86af7bd684353d6d4298fda62aff",
@@ -139,81 +139,13 @@
       "published": "2026-07-03T15:58:19+00:00",
       "published_raw": "Fri, 03 Jul 2026 15:58:19 GMT",
       "snippet": "Obras nas rodovias terão restrições no feriado prolongado Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-04T13:14:34.425758+00:00"
-    },
-    {
-      "id": "1b250f51bd3cb25ad165d5844402d38d0139ff36d567cc1e2c6c975561c3b254",
-      "title": "Carreta tomba e motorista fica ferido em rodovia da região - ACidade ON",
-      "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3luUnVQaXlOLWNBT3dSQjh0ZWxlMloxWlhubWN5VWhJQmtfN1RPU1RTc3Njb3E3ejR6am43U1NrWHM1bHdPXzVNeUl2QkFzRmtmei16Vl9peFM2YTNqcllMZ1laRVh2OVdMOTFCNnlia2JYSlNjYmtZaFZpS0JJemtZdE90WmtsT0hpNmtSTWRGLWswVXZwbkxUYk83RndYeXdBMXNLbkJkSUNja1Z1Uk1HMNIBswFBVV95cUxPT3luUnVQaXlOLWNBT3dSQjh0ZWxlMloxWlhubWN5VWhJQmtfN1RPU1RTc3Njb3E3ejR6am43U1NrWHM1bHdPXzVNeUl2QkFzRmtmei16Vl9peFM2YTNqcllMZ1laRVh2OVdMOTFCNnlia2JYSlNjYmtZaFZpS0JJemtZdE90WmtsT0hpNmtSTWRGLWswVXZwbkxUYk83RndYeXdBMXNLbkJkSUNja1Z1Uk1HMA?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-03T15:49:55+00:00",
-      "published_raw": "Fri, 03 Jul 2026 15:49:55 GMT",
-      "snippet": "Carreta tomba e motorista fica ferido em rodovia da região ACidade ON",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-04T13:14:23.146523+00:00"
-    },
-    {
-      "id": "895a6745eaffdda850e3887ab3743bde64e9eca583e4422c709e3383a249b86b",
-      "title": "Na região: Ecovias restringirá obras nas rodovias durante o feriado da Revolução Constitucionalista - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdTdtSkZrSk5DR2dGel9qb2hKUmlJTGExb0YyX1dmZFd0ZEFGbC1hcFUtTTZnQVBxZGVNN2wtdU1ZUWx2SFhZQTV5RlNjZllTcU1meEFLcU1feHNDLUhXdzExak9MQ1M1RkVqTFJqQXFvcWtDdjIzZ3Z1ZVhNZnBtS0VqQjFNcWNWT1Mwa2ZjWmRndlY1Ty1mSDhhX0ZKNmczS0Yyc3pDYnFLRi1jOHl5WkJkOFV4WkRDVXl1bzkwVUZ1Zw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-03T15:30:11+00:00",
-      "published_raw": "Fri, 03 Jul 2026 15:30:11 GMT",
-      "snippet": "Na região: Ecovias restringirá obras nas rodovias durante o feriado da Revolução Constitucionalista odefensor.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-04T13:14:36.246720+00:00"
-    },
-    {
-      "id": "fbd4bdfb27029b3506f96df168f3ad9cd2b9b1b21bc7a11f7fd8d93a535a52e1",
-      "title": "Recapeamento sob pontilhão do Jardim Cruzado começa neste fim de semana em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0dHY2RsSGYxN0YtYXJzcmRZcTlEUVR2ZnhNN2RCR3R4dXh3dG1CcUdLT1VpN09mZXZ5ZUdXREVTa3RIemJ2MWFUeEc5YU4wQzNxYmYxS0hiby1nTE5lNjVQVXlySlNKQUZoa1NRa0IwRnlDeVdKbWllYkw3VHFDYWllUU05d2hrX2NBNnVLbmhwSlAyMm0zdGpZMV9fekFtdUdCRHVuektjSzlvbUZ5VGxB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-03T14:36:49+00:00",
-      "published_raw": "Fri, 03 Jul 2026 14:36:49 GMT",
-      "snippet": "Recapeamento sob pontilhão do Jardim Cruzado começa neste fim de semana em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reclamação | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-04T13:14:23.146382+00:00"
-    },
-    {
-      "id": "eb114743e571da937e86b1ea16c46a6e3ee3feab59834ad7752a955c2a8ac42b",
-      "title": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3dZcjRTdWJPc00wUGpTRW9lVFBld0JUVjVidm1WaTRmUFpIMmpUZ1JBSndVbVhIWGlYUmlxckJqZklmZDAzbnFHRmIxekt6NG94OG9jbnVDLXd1YmNGRVJMeThCdjVPVngzUUxXUHFheDFQRGQyc0pMUXNPQWpwTl83clNZUTlNNmNYT2hvcUdPNFVvTllzWnU4cXFLNzBfZDRUcVBWdGhsLVk3VTN6MC14WDNKeTNJY19aUE9ib3NBMlJ4?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-03T13:58:36+00:00",
-      "published_raw": "Fri, 03 Jul 2026 13:58:36 GMT",
-      "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T13:14:21.463073+00:00"
+      "collected_at": "2026-07-04T15:53:07.895192+00:00"
     }
   ]
 }
