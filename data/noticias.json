@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-04T10:48:10.536277+00:00",
+  "updated_at": "2026-07-04T10:51:43.900346+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.557602+00:00"
+      "collected_at": "2026-07-04T10:51:28.068493+00:00"
     },
     {
       "id": "f395d796654292f78decb36c3ce2f46f03f09b7d5362dd18ed0a1057693af6dc",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.557538+00:00"
+      "collected_at": "2026-07-04T10:51:28.068409+00:00"
     },
     {
       "id": "32125542805088874dcd0b9212be6ca2b31d48da159d04bddbbaba490a90817e",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.558099+00:00"
+      "collected_at": "2026-07-04T10:51:28.073319+00:00"
     },
     {
       "id": "a1b3f179f1fa5bb97b120de68c35b72260447a2136b0d2fd6f67aa8fb6c3f56d",
@@ -105,13 +105,30 @@
       "published": "2026-07-03T18:21:39+00:00",
       "published_raw": "Fri, 03 Jul 2026 18:21:39 GMT",
       "snippet": "Prefeitura de Ibaté informa alteração temporária no trânsito para obras de recapeamento no acesso do… Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.558026+00:00"
+      "collected_at": "2026-07-04T10:51:28.073229+00:00"
+    },
+    {
+      "id": "50c4c6878dff9a86b091849b388fd35e433c4faf3b0a5f17ee54313d4f79085c",
+      "title": "Carreta tomba em acesso entre rodovias e derrama 35 mil litros de óleo vegetal em Barretos - regiaonews.net.br",
+      "source": "regiaonews.net.br",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXlpakNjaFZITTE4d0xQWmlRaF9pZENhTTlRX29UYmdEZGxOX1V6aDZkMUdLbEtDN21hemNaRkt1X2Z2SjR5NzNndkx0NGN5LWFrbmgtWEFLU083cnhOdm1FR0l5ZU9UQUdfVVVPak1hYjlVdFQtWWdJUURybzJnM0QyN1diY1A1OERmekFBWm5RZmN5Z2ZUbGE3YVM3bWdvelFoSVduYmhWUVFWY3Fhek01UlMzWUxwOVdCb3hWQVRzT3RzZWVjd08zdWFQQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-03T18:09:31+00:00",
+      "published_raw": "Fri, 03 Jul 2026 18:09:31 GMT",
+      "snippet": "Carreta tomba em acesso entre rodovias e derrama 35 mil litros de óleo vegetal em Barretos regiaonews.net.br",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-04T10:51:28.068575+00:00"
     },
     {
       "id": "b3ae7a9c0c30d59ca0b5d50fcaaaef4fc0de86af7bd684353d6d4298fda62aff",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:48:06.357333+00:00"
+      "collected_at": "2026-07-04T10:51:39.696936+00:00"
     },
     {
       "id": "1b250f51bd3cb25ad165d5844402d38d0139ff36d567cc1e2c6c975561c3b254",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:56.173053+00:00"
+      "collected_at": "2026-07-04T10:51:29.622465+00:00"
     },
     {
       "id": "895a6745eaffdda850e3887ab3743bde64e9eca583e4422c709e3383a249b86b",
@@ -156,13 +173,13 @@
       "published": "2026-07-03T15:30:11+00:00",
       "published_raw": "Fri, 03 Jul 2026 15:30:11 GMT",
       "snippet": "Na região: Ecovias restringirá obras nas rodovias durante o feriado da Revolução Constitucionalista odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.557463+00:00"
+      "collected_at": "2026-07-04T10:51:29.622330+00:00"
     },
     {
       "id": "fbd4bdfb27029b3506f96df168f3ad9cd2b9b1b21bc7a11f7fd8d93a535a52e1",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:56.172879+00:00"
+      "collected_at": "2026-07-04T10:51:29.622255+00:00"
     },
     {
       "id": "eb114743e571da937e86b1ea16c46a6e3ee3feab59834ad7752a955c2a8ac42b",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T10:47:54.557373+00:00"
+      "collected_at": "2026-07-04T10:51:28.068307+00:00"
     }
   ]
 }
