@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T22:01:40.874628+00:00",
+  "updated_at": "2026-07-04T01:50:22.879275+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -49,10 +49,10 @@
       "id": "32125542805088874dcd0b9212be6ca2b31d48da159d04bddbbaba490a90817e",
       "title": "Recapeamento altera trânsito no acesso ao Jardim Cruzado, em Ibaté - São Carlos Agora",
       "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUJIUzhYSUJhQXJQT0hDZnZSbmxhckJfZW92VlJQMGR5VWVsaDM0R1NEY21MSDhFN1BkVEkzYXhIaFZGTTRxMjlwLW1BTElBYXBZSnFvRFNlT2pSd0JLUF9DMVczN3dNdlhGQTJqaURTZkpGbnZUeEpDd3dkeGpOWTQyUVdSbFA3Q1BoUzB6SVNmSGpodndxSjhJVHU0cGxxQ0dmWENScjdKdGhZS2JNUWhQZjHSAboBQVVfeXFMTW15dTZ1NjZ4R3Zua3V6dUVqYVV2S0ZPaFRzQTRIYTVYdnhqMUNKdWtIaGNzazV6TWVEQlBLZ1J0UnZrMVBTX3YxMHFQak1mNVJYcjljWm8yVEgtM0Iyd21meFFxV3NtMmF4dERGdEtYU0gzSlRKQkN2V0h0cDZQRXRRQ3lROTI2N1RHdHJPeHJDMWpxblpYME5ZUkpGdm1QeklYTzY1UVdZUGNybTlaQTEyQ2JNN3BVREJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXl1NnU2NnhHdm5rdXp1RWphVXZLRk9oVHNBNEhhNVh2eGoxQ0p1a0hoY3NrNXpNZURCUEtnUnRSdmsxUFNfdjEwcVBqTWY1UlhyOWNabzJUSC0zQjJ3bWZ4UXFXc20yYXh0REZ0S1hTSDNKVEpCQ3ZXSHRwNlBFdFFDeVE5MjY3VEd0ck94ckMxanFuWlgwTllSSkZ2bVB6SVhPNjVRV1lQY3JtOVpBMTJDYk03cFVEQlHSAboBQVVfeXFMTW15dTZ1NjZ4R3Zua3V6dUVqYVV2S0ZPaFRzQTRIYTVYdnhqMUNKdWtIaGNzazV6TWVEQlBLZ1J0UnZrMVBTX3YxMHFQak1mNVJYcjljWm8yVEgtM0Iyd21meFFxV3NtMmF4dERGdEtYU0gzSlRKQkN2V0h0cDZQRXRRQ3lROTI2N1RHdHJPeHJDMWpxblpYME5ZUkpGdm1QeklYTzY1UVdZUGNybTlaQTEyQ2JNN3BVREJR?oc=5",
       "resolved_link": "",
-      "published": "2026-07-03T19:43:24+00:00",
-      "published_raw": "Fri, 03 Jul 2026 19:43:24 GMT",
+      "published": "2026-07-03T19:51:59+00:00",
+      "published_raw": "Fri, 03 Jul 2026 19:51:59 GMT",
       "snippet": "Recapeamento altera trânsito no acesso ao Jardim Cruzado, em Ibaté São Carlos Agora",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:23.952681+00:00"
+      "collected_at": "2026-07-04T01:50:06.156083+00:00"
     },
     {
       "id": "a1b3f179f1fa5bb97b120de68c35b72260447a2136b0d2fd6f67aa8fb6c3f56d",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:23.952499+00:00"
+      "collected_at": "2026-07-04T01:50:06.155999+00:00"
     },
     {
       "id": "50c4c6878dff9a86b091849b388fd35e433c4faf3b0a5f17ee54313d4f79085c",
@@ -94,13 +94,30 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:23.951742+00:00"
+      "collected_at": "2026-07-04T01:50:06.155566+00:00"
+    },
+    {
+      "id": "b3ae7a9c0c30d59ca0b5d50fcaaaef4fc0de86af7bd684353d6d4298fda62aff",
+      "title": "Obras nas rodovias terão restrições no feriado prolongado - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEY3QkVmSkRsSUpRNzdiMDhEcXJ6OWtUNUdZS09xUDA5RTBSbVNBUGtPd19GVy1UUnVqLXp0Y0xhdktLcVoyTE5wRjN1bnRISFJTb2phWjlQV0Z2M1ZhcTJKQkpBd2NWRUZFdGpFSnJBcXM1akR6MlhPSHJFeEVkZG9UY3ktV2xpMzZEUFBYN3NoM0ZfeWdwQ2JWa2RDdExz?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-03T15:58:19+00:00",
+      "published_raw": "Fri, 03 Jul 2026 15:58:19 GMT",
+      "snippet": "Obras nas rodovias terão restrições no feriado prolongado Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-04T01:50:08.300211+00:00"
     },
     {
       "id": "1b250f51bd3cb25ad165d5844402d38d0139ff36d567cc1e2c6c975561c3b254",
       "title": "Carreta tomba e motorista fica ferido em rodovia da região - ACidade ON",
       "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3luUnVQaXlOLWNBT3dSQjh0ZWxlMloxWlhubWN5VWhJQmtfN1RPU1RTc3Njb3E3ejR6am43U1NrWHM1bHdPXzVNeUl2QkFzRmtmei16Vl9peFM2YTNqcllMZ1laRVh2OVdMOTFCNnlia2JYSlNjYmtZaFZpS0JJemtZdE90WmtsT0hpNmtSTWRGLWswVXZwbkxUYk83RndYeXdBMXNLbkJkSUNja1Z1Uk1HMNIBswFBVV95cUxPT3luUnVQaXlOLWNBT3dSQjh0ZWxlMloxWlhubWN5VWhJQmtfN1RPU1RTc3Njb3E3ejR6am43U1NrWHM1bHdPXzVNeUl2QkFzRmtmei16Vl9peFM2YTNqcllMZ1laRVh2OVdMOTFCNnlia2JYSlNjYmtZaFZpS0JJemtZdE90WmtsT0hpNmtSTWRGLWswVXZwbkxUYk83RndYeXdBMXNLbkJkSUNja1Z1Uk1HMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnNncUFTanoyemxUN3dCdTBNY1NlU2tJUUxub1dTbU56Q3BzaTNCZTBySW9HRVhxM2tmS182MkRfZE01WjhCTnhWSGF4d0tGdGN3SmNCc0dlX2M2STVaRjN0b2RhWHp2cHlkd1ZwU3RxZHNyMVEtcmFFdjlRNElzd2NRdGYtWDdqRnRGTzI2Y0dYV3hLZG1UNGVfVmNYOTFCOWgtWklwSUM3SVozc0HSAbMBQVVfeXFMT095blJ1UGl5Ti1jQU93UkI4dGVsZTJaMVpYbm1jeVVoSUJrXzdUT1NUU3NzY29xN3o0empuN1NTa1hzNWx3T181TXlJdkJBc0ZrZnotelZfaXhTNmEzanJZTGdZWkVYdjlXTDkxQjZ5YmtiWEpTY2JrWWhWaUtCSXprWXRPdFprbE9IaTZrUk1kRi1rMFV2cG5MVGJPN0Z3WHl3QTFzS25CZElDY2tWdVJNRzA?oc=5",
       "resolved_link": "",
       "published": "2026-07-03T15:49:55+00:00",
       "published_raw": "Fri, 03 Jul 2026 15:49:55 GMT",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:25.606060+00:00"
+      "collected_at": "2026-07-04T01:50:07.734868+00:00"
     },
     {
       "id": "fbd4bdfb27029b3506f96df168f3ad9cd2b9b1b21bc7a11f7fd8d93a535a52e1",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:25.605989+00:00"
+      "collected_at": "2026-07-04T01:50:07.734800+00:00"
     },
     {
       "id": "eb114743e571da937e86b1ea16c46a6e3ee3feab59834ad7752a955c2a8ac42b",
@@ -139,30 +156,13 @@
       "published": "2026-07-03T13:58:36+00:00",
       "published_raw": "Fri, 03 Jul 2026 13:58:36 GMT",
       "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-03T22:01:23.951380+00:00"
-    },
-    {
-      "id": "2a95fb0ef150282ce053cd014274623fb97ac41cc4292e22e1ae444bb30ab4b3",
-      "title": "Viaduto do Jockey Club será interditado por uma semana para obras na Rodovia Washington Luís em São Carlos - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVh1X3RudTQzYXY0ZkloSXJZREpZbVdtMTdwNllnUnkwVGRHb3NUNnU1aDBPNzNIaW1tUU42NE5QSkZsaDdiVVRRQ3o5cTktVW9xeW5XUXd2R3RtZUgydHVtTkxTTnA1a05MY1A0VUpXSXhJUF9LU2pKamtxaTh3Ym4wZl9PQWEzUlViMEpRYzl5ZkFRcFotaE1UZGRxdWdJU1RtOGN1M0JOZmRWVWNSal9qTHRDdUJRdEhkN2lkLTJkVTVZc1dBUmx5b2kzcWZMLW9ESk1fZlhuaEptcHNSUzBNRU9wS1IwVzZZStIB7AFBVV95cUxPNVh1X3RudTQzYXY0ZkloSXJZREpZbVdtMTdwNllnUnkwVGRHb3NUNnU1aDBPNzNIaW1tUU42NE5QSkZsaDdiVVRRQ3o5cTktVW9xeW5XUXd2R3RtZUgydHVtTkxTTnA1a05MY1A0VUpXSXhJUF9LU2pKamtxaTh3Ym4wZl9PQWEzUlViMEpRYzl5ZkFRcFotaE1UZGRxdWdJU1RtOGN1M0JOZmRWVWNSal9qTHRDdUJRdEhkN2lkLTJkVTVZc1dBUmx5b2kzcWZMLW9ESk1fZlhuaEptcHNSUzBNRU9wS1IwVzZZSg?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-03T00:00:45+00:00",
-      "published_raw": "Fri, 03 Jul 2026 00:00:45 GMT",
-      "snippet": "Viaduto do Jockey Club será interditado por uma semana para obras na Rodovia Washington Luís em São Carlos Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-03T22:01:23.951586+00:00"
+      "collected_at": "2026-07-04T01:50:06.155449+00:00"
     }
   ]
 }
