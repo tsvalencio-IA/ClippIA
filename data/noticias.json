@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-04T21:54:34.888216+00:00",
+  "updated_at": "2026-07-05T01:56:34.514339+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "a63bda640e67f42ee95c45564736bd1752e0aec1f13b8a0d89bb9d0a1f5922cc",
+      "title": "Vazamento de carga na rodovia Washington Luís em Matão - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXR6eERSX1NoWG15bThXbTg0WXBJLTNZbURiZUdkSGRiN0xGMEsxUWd3VVFsQkpqLWdvaEFkQU9aRVNJLUpWSjUwTzgzOXlnN1lMS095ZmVhRldFWHdtR0ZSakF0QVhuY1VDUDZ5UnNFc2M2MkdJeEFrcGJ6SUEyaWlsM2ZXc2QzRjBwYmxR?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-04T23:52:06+00:00",
+      "published_raw": "Sat, 04 Jul 2026 23:52:06 GMT",
+      "snippet": "Vazamento de carga na rodovia Washington Luís em Matão Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-05T01:56:19.923329+00:00"
+    },
+    {
       "id": "d27aab7f4f0002611b1ecc19f808e2c032c79e4194063a9d319c016dd6f75ede",
       "title": "Obras nas rodovias administradas pela Ecovias Noroeste Paulista terão restrições no feriado da Revolução Constitucionalista (08 a 13) - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T21:54:18.257505+00:00"
+      "collected_at": "2026-07-05T01:56:18.329425+00:00"
     },
     {
       "id": "fe6808ad3e025023214ce1771b5f7fdf0f8b0b9c9bd0dda76f39c92d32d689b7",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-04T21:54:18.257604+00:00"
+      "collected_at": "2026-07-05T01:56:18.329512+00:00"
     }
   ]
 }
