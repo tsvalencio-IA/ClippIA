@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-05T13:21:56.001735+00:00",
+  "updated_at": "2026-07-05T16:03:06.347394+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-07-05T03:45:00+00:00",
       "published_raw": "Sun, 05 Jul 2026 03:45:00 GMT",
       "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T13:21:51.793811+00:00"
+      "collected_at": "2026-07-05T16:02:50.053602+00:00"
     },
     {
       "id": "a63bda640e67f42ee95c45564736bd1752e0aec1f13b8a0d89bb9d0a1f5922cc",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T13:21:41.331761+00:00"
-    },
-    {
-      "id": "d27aab7f4f0002611b1ecc19f808e2c032c79e4194063a9d319c016dd6f75ede",
-      "title": "Obras nas rodovias administradas pela Ecovias Noroeste Paulista terão restrições no feriado da Revolução Constitucionalista (08 a 13) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNa0EzRXB4YVZWUC1Pd1l6aU9FY2hlcjctYzBBbUNCTWRzQVhDLWR5XzMzc1ZSYU1mUDRCQXpCa29zRzZobTd5TWN4OUNFUzNUSFl4QkdyZzJWU0NheHFyOXo2cnRtV0hKY2wxVzh4OUkwWDVLWU14TThoSmV0YkZRc3FOVkswaU16ZUNBS0JLYURUajhvMUJLb0FKUkxtV0VkZWNyUzFlWVNpTllRN2pJNk5MamhZTllJVklkT2pNQ0JELWRvVm1MNC1KUEE4OTNIbzdLWXctYWlkVWxyM3JXc1MtRXhJU3h4bTc4S0ZVR2VoS0t6bHVlV1U2MHdnTHdQdDRJSTJuZHNzckNmNWfSAY4CQVVfeXFMTWtBM0VweGFWVlAtT3dZemlPRWNoZXI3LWMwQW1DQk1kc0FYQy1keV8zM3NWUmFNZlA0QkF6Qmtvc0c2aG03eU1jeDlDRVMzVEhZeEJHcmcyVlNDYXhxcjl6NnJ0bVdISmNsMVc4eDlJMFg1S1lNeE04aEpldGJGUXNxTlZLMGlNemVDQUtCS2FEVGo4bzFCS29BSlJMbVdFZGVjclMxZVlTaU5ZUTdqSTZOTGpoWU5ZSVZJZE9qTUNCRC1kb1ZtTDQtSlBBODkzSG83S1l3LWFpZFVscjNyV3NTLUV4SVN4eG03OEtGVUdlaEtLemx1ZVdVNjB3Z0x3UHQ0SUkybmRzc3JDZjVn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-04T16:00:49+00:00",
-      "published_raw": "Sat, 04 Jul 2026 16:00:49 GMT",
-      "snippet": "Obras nas rodovias administradas pela Ecovias Noroeste Paulista terão restrições no feriado da Revolução Constitucionalista (08 a 13) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-05T13:21:39.697953+00:00"
+      "collected_at": "2026-07-05T16:02:51.647777+00:00"
     }
   ]
 }
