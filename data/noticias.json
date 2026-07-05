@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-05T01:56:34.514339+00:00",
+  "updated_at": "2026-07-05T02:39:36.624410+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T01:56:19.923329+00:00"
+      "collected_at": "2026-07-05T02:39:22.301665+00:00"
     },
     {
       "id": "d27aab7f4f0002611b1ecc19f808e2c032c79e4194063a9d319c016dd6f75ede",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T01:56:18.329425+00:00"
-    },
-    {
-      "id": "fe6808ad3e025023214ce1771b5f7fdf0f8b0b9c9bd0dda76f39c92d32d689b7",
-      "title": "Obras no pontilhão do Jardim Cruzado alteram trânsito em Ibaté a partir de hoje - portaldacidade.com",
-      "source": "portaldacidade.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJXclVsN09IU0FJdFQ1VWlILV8xM1JOUFRNZURpTmRJNjh4aGVSLVk5bGN0c01panRHZ3puZ0p5MHZ6Y3gwUk1Ecy1IZFktWlNUQjVGTHU3MENFT3JFeWNHUnVzN0duZlNsbGt3SGhEeXhJVEFHM211cmt3Yy1TWHJsZEN2LVhpdkNFWU5vT2ZiSnd6Y2xLSnUxazdNVFh6TTI5T2FwUzJmbURUZGhJbkQwMFc4cjJDVXIzbVp1NDJlUEZmV1piQUVYVUMyZVppTV9V?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-04T02:00:00+00:00",
-      "published_raw": "Sat, 04 Jul 2026 02:00:00 GMT",
-      "snippet": "Obras no pontilhão do Jardim Cruzado alteram trânsito em Ibaté a partir de hoje portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-05T01:56:18.329512+00:00"
+      "collected_at": "2026-07-05T02:39:20.736442+00:00"
     }
   ]
 }
