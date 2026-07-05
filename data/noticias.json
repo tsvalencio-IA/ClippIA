@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-05T06:36:53.151497+00:00",
+  "updated_at": "2026-07-05T10:58:02.825276+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "0e79341857d52174af8ecfbc2b23886b5be1d01f947813907af1204dc6598214",
+      "title": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGpMM0VwZk9HSm5rXzJHVlpTMXhLQUFxVXd1VDNSSDVTQVJSQXFUalNDdEQzVmtEUkE0S2k3dEk4MlF5aUU5WGxDZ09oY0ZTbENkMnRQZVhiTUd1elRKLWtaWDBBcksyM1g2NHZNSEJHVVM0THZJWTV1QmRKMm5wTzdtR2RlVUhtdml1ZGluTTRRNmFfUGVmekJERmUyc0pXOWpobmhzdTUzZXRS0gGyAUFVX3lxTFBISVRaSEVfeldOU09HOENpVUo3UXlESUtKLVhSN2FXZFVYOVgtV0FLLUhVNFFrSVVaOTFmRG9kTjdqd19vOHQwN0dfYk1waVRDZVVjWHBnOU8zU1dIMW42THQwNW1oZHEySURZcThRQ245TVRXbTFtOGYxYnd3Z3pWV1lSZHAzOWxONzBEcmh4TEY2WFdxblBkWFYta3lpMlF0eU9fbTQ1a2dONUdqXzczdVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-05T03:45:00+00:00",
+      "published_raw": "Sun, 05 Jul 2026 03:45:00 GMT",
+      "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-05T10:57:58.647210+00:00"
+    },
+    {
       "id": "a63bda640e67f42ee95c45564736bd1752e0aec1f13b8a0d89bb9d0a1f5922cc",
       "title": "Vazamento de carga na rodovia Washington Luís em Matão - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T06:36:38.956383+00:00"
+      "collected_at": "2026-07-05T10:57:48.533051+00:00"
     },
     {
       "id": "d27aab7f4f0002611b1ecc19f808e2c032c79e4194063a9d319c016dd6f75ede",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-05T06:36:37.454189+00:00"
+      "collected_at": "2026-07-05T10:57:46.922590+00:00"
     }
   ]
 }
