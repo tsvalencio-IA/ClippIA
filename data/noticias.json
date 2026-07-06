@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-06T19:50:04.916322+00:00",
+  "updated_at": "2026-07-06T22:05:26.328654+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 13,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-07-06T18:14:05+00:00",
       "published_raw": "Mon, 06 Jul 2026 18:14:05 GMT",
       "snippet": "Ecorodovias (ECOR3) tem alta de 2,3% no tráfego em junho Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:49.754835+00:00"
+      "collected_at": "2026-07-06T22:05:09.281800+00:00"
     },
     {
       "id": "05204643946b9dbf1d357112006bd5233487539fe781e315a5756339211d7aa2",
@@ -77,13 +77,30 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:59.356063+00:00"
+      "collected_at": "2026-07-06T22:05:20.883569+00:00"
+    },
+    {
+      "id": "58b8df2bb90cec8cc564d6a428a5796af65de1244a2fba45d7df208f210cc757",
+      "title": "SAAE realizará interdição parcial na Avenida Francisco Pereira Lopes para reparo emergencial - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZCLTN2MUUtWFUxeURPcm5mbUg0WXZhSVBwVlVpbThVOGN4d2JMNndNZnpteVl4Vzg1SElqaUs3NlJXTU5fdVB1QWpHYVlPby1fU2E2eXJoWm94ZVZ3aUkzYS10SGtJb29QZGdMRUdnSkdaUXdUSzM3ZDdqdEx0VHNFejg5MUh5UXlub3JCU0Y2bUJLUjBYOHRiRXJ4TUNNbUZIZkpTSEQtS0ZiN3hFV2FXVUtEbDY4X0xxcWw2RW9MSnNK0gHEAUFVX3lxTE9oRkItM3YxRS1YVTF5RE9ybmZtSDRZdmFJUHBWVWltOFU4Y3h3Ykw2d01mem15WXhXODVISWppSzc2UldNTl91UHVBakdhWU9vLV9TYTZ5cmhab3hlVndpSTNhLXRIa0lvb1BkZ0xFR2dKR1pRd1RLMzdkN2p0THRUc0V6ODkxSHlReW5vckJTRjZtQktSMFg4dGJFcnhNQ01tRkhmSlNIRC1LRmI3eEVXYVdVS0RsNjhfTHFxbDZFb0xKc0o?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-06T15:26:38+00:00",
+      "published_raw": "Mon, 06 Jul 2026 15:26:38 GMT",
+      "snippet": "SAAE realizará interdição parcial na Avenida Francisco Pereira Lopes para reparo emergencial - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-06T22:05:20.883443+00:00"
     },
     {
       "id": "b91ea107e0a0f3bcf73ada62c665c9c004aeeb0f251682861a449c9dc8f83971",
       "title": "Ecorodovias registra alta de 2,3% no tráfego em junho e acumula crescimento de 12,1% em 2025 - ADVFN",
       "source": "ADVFN",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWaV90bml4cW9oMUNWVU9CNXZlZkFyVFNWakNtblhXcV84WXJHU2VXOHQ3S1ZuMnRBSnBDRl9DMWowQTNvNHpGbk5PVHNFbjVNMm5zOVRoX2lqS05RT0F4Si1aSnBaenBSOEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sV29xRzZaSy1CNGwyYXRaUVk4cnl1VGVONXJSMW9SLTZKM3l5ekgtRzJrcTlhdlZCaU13d1Z3QXA1WEVja1RPZlQtQXdMV1BqaGhQLTMyXzE0NmhrZW94a1NTUC15NTJaYUE?oc=5",
       "resolved_link": "",
       "published": "2026-07-06T15:15:10+00:00",
       "published_raw": "Mon, 06 Jul 2026 15:15:10 GMT",
@@ -94,24 +111,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:50:01.636128+00:00"
+      "collected_at": "2026-07-06T22:05:23.111124+00:00"
     },
     {
-      "id": "1ddb0f2a38a08d4ea5362a1843e95f69ca8c34147e4959669617ee3ae84e3678",
-      "title": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWY0UEZJVnRxcEpXX0Jsa3FpVFh3bXE2dFBxMW9uZDAxUWtNUVhxZ3NTNl81aW1jYUhrNlVvUU5pS2NpSFh5MFJjV0lTaDU5SDAxaGdxUzNIUG5xRldJWEkwWThvakhqN29FTnMzeHYtYUJtQ2RLbmhYcGZ6Z1p6bTNURk0yRkpoSWkxQkFxSEJleFJZTktsM2lwd0h3OGV2Yk9LeXFyMmRTU1JiWExHUm9pZHZ0VXoxa0RaTjFsNmRha3ZXREJySE1B?oc=5",
+      "id": "08b84fb8da8c5ceeb441147f2088acf0a14c539173bf0cab57d5fcfe493893bf",
+      "title": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjBmTFp0Q2w0Q1Bsc1ZkLWZLZWRhUEptV3BhaWFwaTlEZ09keE0yZzhjSVBaLUN1YnlnbmstblBobEY3MGREX0lOaVA0dkhYNENGNV9yTVFPZElpbmUwLXQ1NF9SeHdTTkdSUGJuTldYYWpsbTZ3RUVIXzNmTXZvTGNhWGEyVkZaZ3hwcmxvcWp3NDkwUWh0MXZxeEN4THk0Y1FtbkIyd2k5V2ZV0gGyAUFVX3lxTE94Yzh2SGhhTnZmOWdOdTRuU1hiX3Q2V01TeS0ya1NwMnNIZGVIN3MtVU1SLThBTXUzYkIxZDQ5WGpWZ0lnUWpSencwQi1XQ2lBUFcxM084LXRrWHdOQmRHWTBIS1F4WnM2bFBmd2N3ZWZpb0RpRkJaSzlFUDVhWEFuWDZQWHlib2pSWDFmTFM5SVNOeENaQ0ZQX2JLTzA3LVQ3amdTQjYxRk9jbEt1dnBhUFE?oc=5",
       "resolved_link": "",
-      "published": "2026-07-06T13:55:41+00:00",
-      "published_raw": "Mon, 06 Jul 2026 13:55:41 GMT",
-      "snippet": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "published": "2026-07-06T14:46:42+00:00",
+      "published_raw": "Mon, 06 Jul 2026 14:46:42 GMT",
+      "snippet": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.137799+00:00"
+      "collected_at": "2026-07-06T22:05:09.281980+00:00"
+    },
+    {
+      "id": "1ddb0f2a38a08d4ea5362a1843e95f69ca8c34147e4959669617ee3ae84e3678",
+      "title": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1B1dnZMSHNRS2VBMkZzVDZ5SW5xVTlVdlFfQ1BBclNVN2NhMnhPQzZBM1Y5Unk1LWlubTRIM0N4YS1EenpWWl85S09nM3M4SWduVGFOUGhNeUpjaldpZVREOC1haDFqT3dNUnRCb1BDajBCaHI3S3NGejB4QW9uaEU2ZlEtc3RWTHZCa3luOG1vdS1JR1NXcVhQNkt1eEZmRmhCNERSTzZiRFZldnR1NnhremozbjRLOXJrT181ODY2S3BW?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-06T13:55:41+00:00",
+      "published_raw": "Mon, 06 Jul 2026 13:55:41 GMT",
+      "snippet": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-06T22:05:19.804606+00:00"
     },
     {
       "id": "94b31f8d0a1559ce6a08dad291c15d0f95a4e16a4ac4522c95c5c27bb9f387fb",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.138060+00:00"
+      "collected_at": "2026-07-06T22:05:09.282129+00:00"
     },
     {
       "id": "1fff968a825eeb9a91d7cf77b0fe29e7ac374cef1cb38dbdd365eaffcd95db79",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.137999+00:00"
+      "collected_at": "2026-07-06T22:05:09.282059+00:00"
     },
     {
       "id": "058b9a466921dd5d27797c6ed2dcee10572c6a37cc892e9883a84de6d33bb0dc",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.137699+00:00"
+      "collected_at": "2026-07-06T22:05:09.281890+00:00"
     },
     {
       "id": "9dd1bcae45640f0a97a7e6b955437eec695203f2fa20d895b4757bea749bc169",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:50:01.635883+00:00"
+      "collected_at": "2026-07-06T22:05:23.110931+00:00"
     },
     {
       "id": "2f2f347e0d7a5d73fb5934c7bc49639b9080ac99b7409d6b99310b678aaa721b",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:50:01.636068+00:00"
+      "collected_at": "2026-07-06T22:05:23.111056+00:00"
     },
     {
       "id": "ad7cefb4880d6e12592a5c772c9eafa25bca247e1f190125ddbfb29ec9b61dbf",
@@ -207,13 +241,13 @@
       "published": "2026-07-06T12:09:46+00:00",
       "published_raw": "Mon, 06 Jul 2026 12:09:46 GMT",
       "snippet": "Feriadão desta semana suspende obras em rodovias da região OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.137864+00:00"
+      "collected_at": "2026-07-06T22:05:11.614611+00:00"
     },
     {
       "id": "e721bf43cace23fe597061de8a6d039201043fcdb96e141095cb1d54c383470e",
@@ -224,13 +258,13 @@
       "published": "2026-07-06T12:03:00+00:00",
       "published_raw": "Mon, 06 Jul 2026 12:03:00 GMT",
       "snippet": "EcoRodovias (ECOR3) registra alta de 2% no tráfego em junho de 2026 Visno Invest",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T19:49:48.137929+00:00"
+      "collected_at": "2026-07-06T22:05:23.111190+00:00"
     }
   ]
 }
