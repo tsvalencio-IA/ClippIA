@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-06T02:44:21.321366+00:00",
+  "updated_at": "2026-07-06T07:00:23.373408+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "0e79341857d52174af8ecfbc2b23886b5be1d01f947813907af1204dc6598214",
-      "title": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGpMM0VwZk9HSm5rXzJHVlpTMXhLQUFxVXd1VDNSSDVTQVJSQXFUalNDdEQzVmtEUkE0S2k3dEk4MlF5aUU5WGxDZ09oY0ZTbENkMnRQZVhiTUd1elRKLWtaWDBBcksyM1g2NHZNSEJHVVM0THZJWTV1QmRKMm5wTzdtR2RlVUhtdml1ZGluTTRRNmFfUGVmekJERmUyc0pXOWpobmhzdTUzZXRS0gGyAUFVX3lxTFBISVRaSEVfeldOU09HOENpVUo3UXlESUtKLVhSN2FXZFVYOVgtV0FLLUhVNFFrSVVaOTFmRG9kTjdqd19vOHQwN0dfYk1waVRDZVVjWHBnOU8zU1dIMW42THQwNW1oZHEySURZcThRQ245TVRXbTFtOGYxYnd3Z3pWV1lSZHAzOWxONzBEcmh4TEY2WFdxblBkWFYta3lpMlF0eU9fbTQ1a2dONUdqXzczdVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-05T03:45:00+00:00",
-      "published_raw": "Sun, 05 Jul 2026 03:45:00 GMT",
-      "snippet": "Obras nas rodovias terão restrições no feriado da Revolução Constitucionalista - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-06T02:44:02.396353+00:00"
-    }
-  ]
+  "items": []
 }
