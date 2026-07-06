@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-06T12:35:01.419374+00:00",
+  "updated_at": "2026-07-06T12:42:17.856706+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T12:34:44.066690+00:00"
-    },
-    {
-      "id": "8ad34ca62f81fe20761cc476b8e4aa4d1463ad0323a1316c3d012c11d267a9ee",
-      "title": "Ecorodovias tem alta de 2,3% no tráfego em junho Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFgwTWZ3bWlpcjhqYVFxaThCbTdGNnZkOGVkcTRObmdyUnhVU19uRHNWbXF5NGRfcjZ1VkFLUWlPclFPQ0RJMFI3S3RBNGlhQ2ljRlpNbTQ4VUxHQmgyTWlPaV9kelZqLWlaS0xZVi1XaUNQOTQ1am5RQU96QVREaGRaR3Zma2lWZmJDekd1NkpfamZLNFh3dVRQcXd4and3WVNqMA?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-06T12:20:00+00:00",
-      "published_raw": "Mon, 06 Jul 2026 12:20:00 GMT",
-      "snippet": "Ecorodovias tem alta de 2,3% no tráfego em junho Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-06T12:34:44.066953+00:00"
+      "collected_at": "2026-07-06T12:42:00.533263+00:00"
     },
     {
       "id": "ad7cefb4880d6e12592a5c772c9eafa25bca247e1f190125ddbfb29ec9b61dbf",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T12:34:44.066782+00:00"
+      "collected_at": "2026-07-06T12:42:00.533345+00:00"
     },
     {
       "id": "e721bf43cace23fe597061de8a6d039201043fcdb96e141095cb1d54c383470e",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T12:34:44.066864+00:00"
+      "collected_at": "2026-07-06T12:42:00.533416+00:00"
     },
     {
       "id": "264f16c323fb24ade25b9f29e254d9dddb92b1f20d98440d307967cc07b7282f",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T12:34:49.394696+00:00"
+      "collected_at": "2026-07-06T12:42:05.852647+00:00"
     }
   ]
 }
