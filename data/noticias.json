@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-06T17:39:32.160108+00:00",
+  "updated_at": "2026-07-06T19:39:24.188798+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 11,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "2113de59520dc17653ad6ae28a1f69fb73bd563461da03c0f438df0a39d69250",
+      "title": "Ecorodovias (ECOR3) tem alta de 2,3% no tráfego em junho - Investidor10",
+      "source": "Investidor10",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGFNZDQ2Rkg0MklQbmtZVkxaRlNiY0tPM2hqMHdtY3I3N2VuSUE4V21QYW1jVFd6aS01MmJkd01qVDFxcFVydDRnWnhKYkxOcDgxNEwzS1ZNUlhMQ3RDWl9jdWVNUDJkNGNqam83NnJFb0M1b0RGMGxTTWo4OEtic0tkRFRTOGl4aHFob0pBTzdhUVBCSDYtWTlDbkJhQ0szamNSRNIBpAFBVV95cUxNdGFNZDQ2Rkg0MklQbmtZVkxaRlNiY0tPM2hqMHdtY3I3N2VuSUE4V21QYW1jVFd6aS01MmJkd01qVDFxcFVydDRnWnhKYkxOcDgxNEwzS1ZNUlhMQ3RDWl9jdWVNUDJkNGNqam83NnJFb0M1b0RGMGxTTWo4OEtic0tkRFRTOGl4aHFob0pBTzdhUVBCSDYtWTlDbkJhQ0szamNSRA?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-06T18:14:05+00:00",
+      "published_raw": "Mon, 06 Jul 2026 18:14:05 GMT",
+      "snippet": "Ecorodovias (ECOR3) tem alta de 2,3% no tráfego em junho Investidor10",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-06T19:39:07.546825+00:00"
+    },
+    {
+      "id": "05204643946b9dbf1d357112006bd5233487539fe781e315a5756339211d7aa2",
+      "title": "Ana Thaís Matos é alvo de críticas após comentário sobre Neymar durante Brasil x Noruega - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ19GaFNMdnVnY1BSQ2RWUXpDVkROWDlraW9PM0xjajRKVlNBY0NtS1RsSmNOMUE2am52SE9XYl9NX2hqYTdLTmd2WllyWFZrb1dMV0dRbjVrYjY3NkRwWmRBVXEwNW9CVFIzZmo4SDZUVnJmYVF1RWhReUhDeGxLSUw1QWI2VkpOTlo0VWppTnhxOXA1X24yYlJxQUpJTllBMDRaOHdwM18xWC16eXNBbzk4ZlpJV0Y0WDFYVFJnd9IBvwFBVV95cUxNZ19GaFNMdnVnY1BSQ2RWUXpDVkROWDlraW9PM0xjajRKVlNBY0NtS1RsSmNOMUE2am52SE9XYl9NX2hqYTdLTmd2WllyWFZrb1dMV0dRbjVrYjY3NkRwWmRBVXEwNW9CVFIzZmo4SDZUVnJmYVF1RWhReUhDeGxLSUw1QWI2VkpOTlo0VWppTnhxOXA1X24yYlJxQUpJTllBMDRaOHdwM18xWC16eXNBbzk4ZlpJV0Y0WDFYVFJndw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-06T16:16:40+00:00",
+      "published_raw": "Mon, 06 Jul 2026 16:16:40 GMT",
+      "snippet": "Ana Thaís Matos é alvo de críticas após comentário sobre Neymar durante Brasil x Noruega - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-06T19:39:18.693026+00:00"
+    },
+    {
       "id": "b91ea107e0a0f3bcf73ada62c665c9c004aeeb0f251682861a449c9dc8f83971",
       "title": "Ecorodovias registra alta de 2,3% no tráfego em junho e acumula crescimento de 12,1% em 2025 - ADVFN",
       "source": "ADVFN",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:28.879603+00:00"
+      "collected_at": "2026-07-06T19:39:20.980198+00:00"
     },
     {
       "id": "1ddb0f2a38a08d4ea5362a1843e95f69ca8c34147e4959669617ee3ae84e3678",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.046994+00:00"
+      "collected_at": "2026-07-06T19:39:07.546989+00:00"
     },
     {
       "id": "94b31f8d0a1559ce6a08dad291c15d0f95a4e16a4ac4522c95c5c27bb9f387fb",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.047343+00:00"
+      "collected_at": "2026-07-06T19:39:07.547174+00:00"
     },
     {
       "id": "1fff968a825eeb9a91d7cf77b0fe29e7ac374cef1cb38dbdd365eaffcd95db79",
@@ -105,13 +139,13 @@
       "published": "2026-07-06T13:18:00+00:00",
       "published_raw": "Mon, 06 Jul 2026 13:18:00 GMT",
       "snippet": "Ecovias Noroeste Paulista altera horários de obras em rodovias e dá dicas para o feriado de 9 de julho Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.047267+00:00"
+      "collected_at": "2026-07-06T19:39:07.547113+00:00"
     },
     {
       "id": "058b9a466921dd5d27797c6ed2dcee10572c6a37cc892e9883a84de6d33bb0dc",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.046874+00:00"
+      "collected_at": "2026-07-06T19:39:07.546905+00:00"
     },
     {
       "id": "9dd1bcae45640f0a97a7e6b955437eec695203f2fa20d895b4757bea749bc169",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:28.879371+00:00"
+      "collected_at": "2026-07-06T19:39:20.979948+00:00"
     },
     {
       "id": "2f2f347e0d7a5d73fb5934c7bc49639b9080ac99b7409d6b99310b678aaa721b",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:28.879520+00:00"
+      "collected_at": "2026-07-06T19:39:20.980136+00:00"
     },
     {
       "id": "ad7cefb4880d6e12592a5c772c9eafa25bca247e1f190125ddbfb29ec9b61dbf",
@@ -170,8 +204,8 @@
       "source": "OExtra.net",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1F5NFJ0LVVhTTNTdkktVHRkYmFXTldxVGdIcHh1TlVGUlVfQjFVOHlnTnpUTF9aejFlLUdvcUhBV3d2YTdvS0hNWHhsMVVnZjdLNU82UWRnbmxma09hLU4yR0JCUVJPX0p6ZFVIdWhaOF8zNjY5Y3dnLXF3NzUzQ3VlaldBeE5yT3Y4?oc=5",
       "resolved_link": "",
-      "published": "2026-07-06T12:09:41+00:00",
-      "published_raw": "Mon, 06 Jul 2026 12:09:41 GMT",
+      "published": "2026-07-06T12:09:46+00:00",
+      "published_raw": "Mon, 06 Jul 2026 12:09:46 GMT",
       "snippet": "Feriadão desta semana suspende obras em rodovias da região OExtra.net",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.047100+00:00"
+      "collected_at": "2026-07-06T19:39:07.547046+00:00"
     },
     {
       "id": "e721bf43cace23fe597061de8a6d039201043fcdb96e141095cb1d54c383470e",
@@ -190,13 +224,13 @@
       "published": "2026-07-06T12:03:00+00:00",
       "published_raw": "Mon, 06 Jul 2026 12:03:00 GMT",
       "snippet": "EcoRodovias (ECOR3) registra alta de 2% no tráfego em junho de 2026 Visno Invest",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-06T17:39:15.047181+00:00"
+      "collected_at": "2026-07-06T19:39:20.980259+00:00"
     }
   ]
 }
