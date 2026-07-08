@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:00:18.381206+00:00",
+  "updated_at": "2026-07-08T13:27:59.716217+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "8b077875590114f70e03235344ab19b933c5668cdde13c1f7e7909afb2814789",
+      "title": "Cerca de 219 mil veículos devem passar pelas rodovias de Rio Preto - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU1pUkRyXy1YYkVYa3NUY0xCejVRU2FiUlNPSHpyaFYxVjZ3dlRMX1hqY3diVjE1bUZ5MzVFamhaTEdhbFBneWdhVVdsZTlWSEpWZG1uaE5IbHhaVGk2VlktVmJwVEstemtFSE0xNlhxN3RZamdmT0g0a25zN01WQWpkbEFRNE03cGtkdE1qOVl6Tm5jcjhITGxRTE1iV0Q1eTFtOS0zX0VXZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-08T11:02:00+00:00",
+      "published_raw": "Wed, 08 Jul 2026 11:02:00 GMT",
+      "snippet": "Cerca de 219 mil veículos devem passar pelas rodovias de Rio Preto Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-08T13:27:43.251675+00:00"
+    },
+    {
       "id": "7193dfe3f969a68702001da327d943b9a1c0bda197bb00a9fb4828b37c9f472b",
       "title": "Concessionária divulga cronograma de obras em rodovias da Região Noroeste e faz alerta para o feriado - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:03.127229+00:00"
+      "collected_at": "2026-07-08T13:27:43.852134+00:00"
     },
     {
       "id": "8037c29db1acadaf54422aa2819e3ba35d13a3d58b00664de6bc0627f0ce88d3",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611230+00:00"
+      "collected_at": "2026-07-08T13:27:43.251575+00:00"
     },
     {
       "id": "ed5c71b5485f9fbf27f7213fe8e88874f415e805811cfce53e3f4f05037d1ff6",
@@ -88,13 +105,13 @@
       "published": "2026-07-07T23:25:00+00:00",
       "published_raw": "Tue, 07 Jul 2026 23:25:00 GMT",
       "snippet": "Motorista sai ileso de incêndio em carreta na Rodovia Washington Luís Araraquara News",
-      "term": "\"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:13.196724+00:00"
+      "collected_at": "2026-07-08T13:27:54.296543+00:00"
     },
     {
       "id": "f793be1d1ce046b20dd39011b1ce5f9515c3a309bb63c82538ac2dbaa6c3d3e7",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:04.249699+00:00"
+      "collected_at": "2026-07-08T13:27:44.980241+00:00"
     },
     {
       "id": "24f1206790dfcb2ddace5bd79a1a1e647ab859eec4dcff8f7e782524a67881c3",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:03.127327+00:00"
+      "collected_at": "2026-07-08T13:27:43.852222+00:00"
     },
     {
       "id": "c2f99a5fb0902bae597ac291fdfadc742b2976eff16237f02189638626155b94",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611622+00:00"
+      "collected_at": "2026-07-08T13:27:43.251925+00:00"
     },
     {
       "id": "fc99c950ee44eaaa64647e7efc4cee9a931c428ce83f7fe109da988e9e260a32",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611778+00:00"
+      "collected_at": "2026-07-08T13:27:43.252001+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -179,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611518+00:00"
-    },
-    {
-      "id": "1196139f9516f06d8393c8357e76ffcdd15ed2422821d2a6b670885d0f9d1f8c",
-      "title": "Festa do Peão de Barretos terá mais de R$ 1,5 milhão em premiação no rodeio - regiaonews.net.br",
-      "source": "regiaonews.net.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmFaYmhFOGRvRDNDZ2c2Zjhuc0Jxal8yM1l5bGdiWk1jTVMxX1ZkMGk3MW1sc3ZnVGJkZENpZlU5WGJaMk9rb0QyaHFHaVZaT0haZ0JHOURnREVZdXlUcnpkMUdQWmVhZXZxRmpmQnZuNGpYWHdjOVdsX0dSZzd3ZlhVNDFKdjFEQ1NLU2FRLXdidW9CV0NieGJCRkxiaDJXV0Z3LVVJYmpDVUVpRkYtSEFR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-07T16:26:06+00:00",
-      "published_raw": "Tue, 07 Jul 2026 16:26:06 GMT",
-      "snippet": "Festa do Peão de Barretos terá mais de R$ 1,5 milhão em premiação no rodeio regiaonews.net.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611702+00:00"
+      "collected_at": "2026-07-08T13:27:43.251839+00:00"
     },
     {
       "id": "fa37620568896eff960ea6c172a5e911e64fa0b1380a0050347a8b567ccfaba4",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611936+00:00"
+      "collected_at": "2026-07-08T13:27:43.252154+00:00"
     },
     {
       "id": "04eea7d5e8e150f00ef8769d7ac88c28a312b04dbfb94bae2933aa8f348ad385",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611412+00:00"
+      "collected_at": "2026-07-08T13:27:43.251767+00:00"
     },
     {
       "id": "59dbfce113c6520319e378fa1264e9fcfe63805dddc0148cac270a59e5ec436e",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T11:00:02.611862+00:00"
+      "collected_at": "2026-07-08T13:27:43.252082+00:00"
     }
   ]
 }
