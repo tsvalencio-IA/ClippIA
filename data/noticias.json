@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-07-09T01:50:44.497133+00:00",
+  "updated_at": "2026-07-09T02:35:33.193309+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 0,
   "total_images": 0,
-  "new_items": 8,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,142 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWRkazdsZjdCX0U5ZjBzMElaNzFTNGxUSDZHNkljUXNnMmhGd0ttZmNZSjV1dlRMYmM4VHNOMXZtelpXWXNtTFBDNG5GUGgyWE01Ym9iRXBiRW9SOThabTdlMFQ1WmVmZXZnRXpUNXNUUllmS2hjUUxUandCVHd5ZzNjLWFlUjZzaTBuajlRRXE3d1E1ZGdYb1JMTzI1cC0xaEJ2YmpFMmJMRS1rOFc4ODBJb1YzR3o0TXdTeg?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T19:45:42+00:00",
-      "published_raw": "Wed, 08 Jul 2026 19:45:42 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916269+00:00"
-    },
-    {
-      "id": "76912113c46814ad2e997a12f4f87bb865bcff070275d7eeb09682a1b4b0ab3a",
-      "title": "Confira o que abre e o que fecha neste feriado, em Rio Preto - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXNxQ2VKOXlpMm1NU0Q5bXRaR1hVLUVpMVB3UWhMTkdzcFpXaVVfS3BqUGNzc3NfWG5EUU80LUw3ZGVSU2E0WElvSUl3c3ktX25rQVludmFhM0xPMmFPRXlpVXdxdkp3ejdRdXI2dmtuUmxwV0VlTFo3YXhVcU9uWGtnbEQ3bVVFLXBadVc3MVZpZ3otTUw3aE1nQmVnREpiQS1oVWZ3Y1phdHJQYkpV?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T18:05:15+00:00",
-      "published_raw": "Wed, 08 Jul 2026 18:05:15 GMT",
-      "snippet": "Confira o que abre e o que fecha neste feriado, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916351+00:00"
-    },
-    {
-      "id": "a58abc573e5fd758e6ab231f63ddfa7bceb1d8abf23eea2ff2ca86769ad4b537",
-      "title": "Linhas da Motiva Trilhos operam com esquema especial no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejdySDFKaUwteTRKMnU5YU1UeWtxblVfLWRMZW5qdnRLVVNLTVhuNExHSGdBU0JHOGl4b3I3cGVEWElPTlQ1SFNrdXJNSVktbjFiZzIwX1A4YjRlMkpaZGhwaWZOdkNCYkgwWkJNUWJGdVlwc2pBMGM4MUEzN04yOHVUZVV1VkJ6cUpwU0o0WQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:11:14+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:11:14 GMT",
-      "snippet": "Linhas da Motiva Trilhos operam com esquema especial no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916548+00:00"
-    },
-    {
-      "id": "4ee6108e2aef98fc76fd152d4f8d03037ba31ada7721968743a473ef6193311c",
-      "title": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - A Comarca | Home",
-      "source": "A Comarca | Home",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JRGhJb2JOWWM1cFlsQVB6T0EzZXBFQS1xd1Z6X1VtUEVUMmhRdXRVM0JnWlRLTDBOVnJFMXBZQmtHVk10akJKbEtRN21mNFBKMC05d09yMi1SMTFJNGJNOEVGd2tGLV9GdVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:10:00+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:10:00 GMT",
-      "snippet": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho A Comarca | Home",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916084+00:00"
-    },
-    {
-      "id": "bd0b7270dec4d2a20ace9d277c73b0371259258a346b276c284d44e55f2238fd",
-      "title": "Ecovias Noroeste Paulista prevê mais de 711 mil veículos no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzFlekRZYVBoeTJPYy1kbDU2dFJGSlVfc3RiRlh0clNVR0QyVjRrWXVUNHN2b3RzX3lOS2VPdXUtQ0pOOTBHNGFJckZPZWt6UlplODlXX0JoOHdiWUx2UkJPVXdSWEpwanFYeTJBcloxekNTMUR4OEZqTlEtdWt1bF9Xb1RHZXVabzZTTGdPM29VUEEtMXpvSWNzZDFGdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:09:18+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:09:18 GMT",
-      "snippet": "Ecovias Noroeste Paulista prevê mais de 711 mil veículos no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916422+00:00"
-    },
-    {
-      "id": "068b62142cfff8636c783f1a5298092dad4ac703ffce4568e80d6fb5c9866e14",
-      "title": "Transporte público em Piracicaba opera com horários especiais no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVBjVi1IWGZ0eTd6OFBGbktIUTVXczN3XzR0WE5ocGR0TGtVMzNSR1d1c1hwaUZjMUdtek9HbThKbldaT2s4TG1VUlpFcERnMF9hMl91dkIyWXVwUUdMdWNRU0NFcENldnVQX29mRTRaR2luZFdKaU4xYjd5UmxaRVotME1LalFyNngxNTB3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:07:13+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:07:13 GMT",
-      "snippet": "Transporte público em Piracicaba opera com horários especiais no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916486+00:00"
-    },
-    {
-      "id": "8b077875590114f70e03235344ab19b933c5668cdde13c1f7e7909afb2814789",
-      "title": "Cerca de 219 mil veículos devem passar pelas rodovias de Rio Preto - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU1pUkRyXy1YYkVYa3NUY0xCejVRU2FiUlNPSHpyaFYxVjZ3dlRMX1hqY3diVjE1bUZ5MzVFamhaTEdhbFBneWdhVVdsZTlWSEpWZG1uaE5IbHhaVGk2VlktVmJwVEstemtFSE0xNlhxN3RZamdmT0g0a25zN01WQWpkbEFRNE03cGtkdE1qOVl6Tm5jcjhITGxRTE1iV0Q1eTFtOS0zX0VXZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T11:02:00+00:00",
-      "published_raw": "Wed, 08 Jul 2026 11:02:00 GMT",
-      "snippet": "Cerca de 219 mil veículos devem passar pelas rodovias de Rio Preto Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:27.916177+00:00"
-    },
-    {
-      "id": "7193dfe3f969a68702001da327d943b9a1c0bda197bb00a9fb4828b37c9f472b",
-      "title": "Concessionária divulga cronograma de obras em rodovias da Região Noroeste e faz alerta para o feriado - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM185RjFjRnJMNTAxSFN4UjhsY1hGd1BfR1dhaFRsWjd0c2twOC1sMkF5WGNCQXdYZi1DcjZvMWFRY2s0TFR2Nlg5VlJsN0RsbUIwZG1KeGgtdW5nZ0J0Sk9TQ1cxcGRpUDkxUjV5LVV0MURYc3l4eE9ZNmgySXhHajEyNjZyVEh2R1ZlVU1UMWh0TU5aQ2owVzlRT09UQjI3eGdpUUxLeUl6dWRISE9SS1R5aDIzbWl4YW9vb3ozYUxkc0J6NDVrMg?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T09:01:00+00:00",
-      "published_raw": "Wed, 08 Jul 2026 09:01:00 GMT",
-      "snippet": "Concessionária divulga cronograma de obras em rodovias da Região Noroeste e faz alerta para o feriado Região Noroeste",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T01:50:28.487983+00:00"
-    }
-  ]
+  "items": []
 }
