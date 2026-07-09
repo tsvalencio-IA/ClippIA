@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-09T11:53:22.146872+00:00",
+  "updated_at": "2026-07-09T14:27:58.306230+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 3,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790208+00:00"
+      "collected_at": "2026-07-09T14:27:40.916687+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790155+00:00"
+      "collected_at": "2026-07-09T14:27:40.916612+00:00"
     },
     {
       "id": "76912113c46814ad2e997a12f4f87bb865bcff070275d7eeb09682a1b4b0ab3a",
@@ -94,75 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790261+00:00"
-    },
-    {
-      "id": "a58abc573e5fd758e6ab231f63ddfa7bceb1d8abf23eea2ff2ca86769ad4b537",
-      "title": "Linhas da Motiva Trilhos operam com esquema especial no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejdySDFKaUwteTRKMnU5YU1UeWtxblVfLWRMZW5qdnRLVVNLTVhuNExHSGdBU0JHOGl4b3I3cGVEWElPTlQ1SFNrdXJNSVktbjFiZzIwX1A4YjRlMkpaZGhwaWZOdkNCYkgwWkJNUWJGdVlwc2pBMGM4MUEzN04yOHVUZVV1VkJ6cUpwU0o0WQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:11:14+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:11:14 GMT",
-      "snippet": "Linhas da Motiva Trilhos operam com esquema especial no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790415+00:00"
-    },
-    {
-      "id": "4ee6108e2aef98fc76fd152d4f8d03037ba31ada7721968743a473ef6193311c",
-      "title": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho - A Comarca | Home",
-      "source": "A Comarca | Home",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JRGhJb2JOWWM1cFlsQVB6T0EzZXBFQS1xd1Z6X1VtUEVUMmhRdXRVM0JnWlRLTDBOVnJFMXBZQmtHVk10akJKbEtRN21mNFBKMC05d09yMi1SMTFJNGJNOEVGd2tGLV9GdVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:10:00+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:10:00 GMT",
-      "snippet": "Feriado da Revolução Constitucionalista impulsiona viagens nas férias de julho A Comarca | Home",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790094+00:00"
-    },
-    {
-      "id": "bd0b7270dec4d2a20ace9d277c73b0371259258a346b276c284d44e55f2238fd",
-      "title": "Ecovias Noroeste Paulista prevê mais de 711 mil veículos no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzFlekRZYVBoeTJPYy1kbDU2dFJGSlVfc3RiRlh0clNVR0QyVjRrWXVUNHN2b3RzX3lOS2VPdXUtQ0pOOTBHNGFJckZPZWt6UlplODlXX0JoOHdiWUx2UkJPVXdSWEpwanFYeTJBcloxekNTMUR4OEZqTlEtdWt1bF9Xb1RHZXVabzZTTGdPM29VUEEtMXpvSWNzZDFGdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:09:18+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:09:18 GMT",
-      "snippet": "Ecovias Noroeste Paulista prevê mais de 711 mil veículos no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790317+00:00"
-    },
-    {
-      "id": "068b62142cfff8636c783f1a5298092dad4ac703ffce4568e80d6fb5c9866e14",
-      "title": "Transporte público em Piracicaba opera com horários especiais no feriado de 9 de julho - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVBjVi1IWGZ0eTd6OFBGbktIUTVXczN3XzR0WE5ocGR0TGtVMzNSR1d1c1hwaUZjMUdtek9HbThKbldaT2s4TG1VUlpFcERnMF9hMl91dkIyWXVwUUdMdWNRU0NFcENldnVQX29mRTRaR2luZFdKaU4xYjd5UmxaRVotME1LalFyNngxNTB3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T14:07:13+00:00",
-      "published_raw": "Wed, 08 Jul 2026 14:07:13 GMT",
-      "snippet": "Transporte público em Piracicaba opera com horários especiais no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-09T11:53:06.790367+00:00"
+      "collected_at": "2026-07-09T14:27:40.916754+00:00"
     }
   ]
 }
