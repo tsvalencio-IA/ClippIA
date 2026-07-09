@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-08T22:01:48.245502+00:00",
+  "updated_at": "2026-07-09T01:50:44.497133+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 8,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876515+00:00"
+      "collected_at": "2026-07-09T01:50:27.916269+00:00"
     },
     {
       "id": "76912113c46814ad2e997a12f4f87bb865bcff070275d7eeb09682a1b4b0ab3a",
       "title": "Confira o que abre e o que fecha neste feriado, em Rio Preto - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnJUdi0zWktGZ0ptbmdwNFN5UE53dXZvVzBHaEtrN00tV3JaMk1BdXhOYzVwUTV1V1lKRjJVdlFBakN0SERrWU84YkRtOHdNWF9GeWdIUmdhSURjN0xMVFp5M1RkWUc3UWJJSDJsWXF0QlBqQjMtNHZFWVlTZ2pVSGo2bkF2ZXdybmhoQTRMR0ZYUDUyNFJtallBYzJFREl2TXBINHg2dDlUSmh0aFVISXdoZ3pIdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXNxQ2VKOXlpMm1NU0Q5bXRaR1hVLUVpMVB3UWhMTkdzcFpXaVVfS3BqUGNzc3NfWG5EUU80LUw3ZGVSU2E0WElvSUl3c3ktX25rQVludmFhM0xPMmFPRXlpVXdxdkp3ejdRdXI2dmtuUmxwV0VlTFo3YXhVcU9uWGtnbEQ3bVVFLXBadVc3MVZpZ3otTUw3aE1nQmVnREpiQS1oVWZ3Y1phdHJQYkpV?oc=5",
       "resolved_link": "",
       "published": "2026-07-08T18:05:15+00:00",
       "published_raw": "Wed, 08 Jul 2026 18:05:15 GMT",
       "snippet": "Confira o que abre e o que fecha neste feriado, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876585+00:00"
+      "collected_at": "2026-07-09T01:50:27.916351+00:00"
     },
     {
       "id": "a58abc573e5fd758e6ab231f63ddfa7bceb1d8abf23eea2ff2ca86769ad4b537",
@@ -88,13 +88,13 @@
       "published": "2026-07-08T14:11:14+00:00",
       "published_raw": "Wed, 08 Jul 2026 14:11:14 GMT",
       "snippet": "Linhas da Motiva Trilhos operam com esquema especial no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876843+00:00"
+      "collected_at": "2026-07-09T01:50:27.916548+00:00"
     },
     {
       "id": "4ee6108e2aef98fc76fd152d4f8d03037ba31ada7721968743a473ef6193311c",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876271+00:00"
+      "collected_at": "2026-07-09T01:50:27.916084+00:00"
     },
     {
       "id": "bd0b7270dec4d2a20ace9d277c73b0371259258a346b276c284d44e55f2238fd",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876655+00:00"
+      "collected_at": "2026-07-09T01:50:27.916422+00:00"
     },
     {
       "id": "068b62142cfff8636c783f1a5298092dad4ac703ffce4568e80d6fb5c9866e14",
@@ -139,13 +139,13 @@
       "published": "2026-07-08T14:07:13+00:00",
       "published_raw": "Wed, 08 Jul 2026 14:07:13 GMT",
       "snippet": "Transporte público em Piracicaba opera com horários especiais no feriado de 9 de julho Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876765+00:00"
+      "collected_at": "2026-07-09T01:50:27.916486+00:00"
     },
     {
       "id": "8b077875590114f70e03235344ab19b933c5668cdde13c1f7e7909afb2814789",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876457+00:00"
+      "collected_at": "2026-07-09T01:50:27.916177+00:00"
     },
     {
       "id": "7193dfe3f969a68702001da327d943b9a1c0bda197bb00a9fb4828b37c9f472b",
@@ -179,58 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-08T22:01:32.466589+00:00"
-    },
-    {
-      "id": "8037c29db1acadaf54422aa2819e3ba35d13a3d58b00664de6bc0627f0ce88d3",
-      "title": "Ecovias Noroeste Paulista estima mais de 711 mil veículos nas rodovias durante feriado de 09 de Julho - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZl9ZUVlxYmtyazRTTko3NUZuZ0J1ZU5YVTlES1Jna1lYbkdKQVhOSHAzY3VxRTJiLU5wR2xGaWpyNlBtRWtiajh2RUdFOGxsQklDNFhXWXRyZExYdGNvaVY5UUNBSnVXeVJsSldCSlhqUVFtRUJpRkNaX2lLTW00STU4a2xMUnhhRHBPVm53ek9OaExSSUMxTUpMY1ZCSEhiM1NZQ1NaMHRQWUFZTFJhck4wUzR1R0txNERMWmxOeVRWYzVYVzI4OXpyMmhvNllUS0lEVGhQQnFrdmJfc0swXzU3eDlHUdIB5gFBVV95cUxQZl9ZUVlxYmtyazRTTko3NUZuZ0J1ZU5YVTlES1Jna1lYbkdKQVhOSHAzY3VxRTJiLU5wR2xGaWpyNlBtRWtiajh2RUdFOGxsQklDNFhXWXRyZExYdGNvaVY5UUNBSnVXeVJsSldCSlhqUVFtRUJpRkNaX2lLTW00STU4a2xMUnhhRHBPVm53ek9OaExSSUMxTUpMY1ZCSEhiM1NZQ1NaMHRQWUFZTFJhck4wUzR1R0txNERMWmxOeVRWYzVYVzI4OXpyMmhvNllUS0lEVGhQQnFrdmJfc0swXzU3eDlHUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-08T01:00:00+00:00",
-      "published_raw": "Wed, 08 Jul 2026 01:00:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista estima mais de 711 mil veículos nas rodovias durante feriado de 09 de Julho Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-08T22:01:31.876380+00:00"
-    },
-    {
-      "id": "ed5c71b5485f9fbf27f7213fe8e88874f415e805811cfce53e3f4f05037d1ff6",
-      "title": "Motorista sai ileso de incêndio em carreta na Rodovia Washington Luís - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDcxX25iM29vMTZfNi1ZLU84bWxqbnppMkZHMXJoMzJaWG1vVVNudjdOcTBCM2N4dUVnc2NQczktTGlpR0xOb3RGUTJUTlFkNVZRdm9ldlVJYnoyUXBjQ3o1RHdYNUU2a09jYy1qcHBsYVNPTVNDX0trYzE4MnBPMHl3bm5HWHlVV0Y4TU11cFFpNTFXS01xclNmSmFEeDZ1dmNtX2RZUTd6M2x4Yk5UNQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-07T23:25:00+00:00",
-      "published_raw": "Tue, 07 Jul 2026 23:25:00 GMT",
-      "snippet": "Motorista sai ileso de incêndio em carreta na Rodovia Washington Luís Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-08T22:01:33.569047+00:00"
-    },
-    {
-      "id": "f793be1d1ce046b20dd39011b1ce5f9515c3a309bb63c82538ac2dbaa6c3d3e7",
-      "title": "Motorista escapou ileso de incêndio em carreta na Washington Luís - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1ZiZVI1ckNaSDNQSXRSSEVoQWRzcHhfVTV2T1p6OEg1YUJ3VXJ1ZEhvSHJkdFY0WTljeXN3RDZOby04T285U0FuTTFRdllhUGxCTUl6V2pLMVlzeE5rMFdDeXAyX1RmUGpQTXFoNUlIUXUtbWFzX0h4Q1RqeGg2Qkt4ZkUwcDFkOEl0X0FNWWMtbkNpMVh5Z1JuZFlpRWVNQnZkOFp6TjZheDYtSlZOSElpWmlCZHRRaVHSAboBQVVfeXFMUFdWYmVSNXJDWkgzUEl0UkhFaEFkc3B4X1U1dk9aejhINWFCd1VydWRIb0hyZHRWNFk5Y3lzd0Q2Tm8tOE9vOVNBbk0xUXZZYVBsQk1JeldqSzFZc3hOazBXQ3lwMl9UZlBqUE1xaDVJSFF1LW1hc19IeENUanhoNkJLeGZFMHAxZDhJdF9BTVljLW5DaTFYeWdSbmRZaUVlTUJ2ZDhaek42YXg2LUpWTkhJaVppQmR0UWlR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-07T22:45:16+00:00",
-      "published_raw": "Tue, 07 Jul 2026 22:45:16 GMT",
-      "snippet": "Motorista escapou ileso de incêndio em carreta na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-08T22:01:33.569182+00:00"
+      "collected_at": "2026-07-09T01:50:28.487983+00:00"
     }
   ]
 }
