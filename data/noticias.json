@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-10T19:21:22.096813+00:00",
+  "updated_at": "2026-07-10T21:50:22.700950+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "1afaa2d174fbf9ed53f4fb204a60868e413181faab73e43c2319b36be0631197",
+      "title": "Caminhão carregado com laranjas interdita Washington Luís e provoca congestionamento em Uchoa (SP) - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHlSVFQ5dFR1NnU5ZU40cXVsZms1eVJfc3p3SFp1bW1YNWhWWkNENUYtN0dOVnVValNKeVF2V1lXYldESVVWQUt6SmpJc2lNUzFRY004SVozSE0tcWVKZTF5cFBrakdac0wxeGJHdGZ4dnR4akFkTUNLQXFESHlWX3pqbjFEeGxyYl83dGVnMjF0dWcyVHdFS2MwRVJTSHlYZC1wczhWV1QzQjNVTDV6VHljX3pwQnd2M3VfdzhmUU9vbkx6UFdSVUxvdFZpOGM?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-10T20:47:48+00:00",
+      "published_raw": "Fri, 10 Jul 2026 20:47:48 GMT",
+      "snippet": "Caminhão carregado com laranjas interdita Washington Luís e provoca congestionamento em Uchoa (SP) gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-10T21:50:06.728837+00:00"
+    },
+    {
       "id": "fedca79ec46002f830313cb449157e73c98cdf775a10a0a0b36b965618efb18b",
       "title": "Free Flow na Anchieta-Imigrantes: campanha prepara milhões de motoristas para o pedágio eletrônico - Portogente",
       "source": "Portogente",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T19:21:04.803647+00:00"
+      "collected_at": "2026-07-10T21:50:06.728683+00:00"
     },
     {
       "id": "6aac1fed9b9a2350d67b9152630f8e966658106f826a066779ab557db218afee",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T19:21:04.803724+00:00"
+      "collected_at": "2026-07-10T21:50:06.728757+00:00"
     },
     {
       "id": "2748e4f169c2306562d815652b728c7f3e05b01f2e814300ab9df79d8609feea",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T19:21:04.803556+00:00"
+      "collected_at": "2026-07-10T21:50:06.728593+00:00"
     }
   ]
 }
