@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-10T14:11:40.902426+00:00",
+  "updated_at": "2026-07-10T16:49:33.526181+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T14:11:25.350891+00:00"
+      "collected_at": "2026-07-10T16:49:17.347981+00:00"
     },
     {
       "id": "2748e4f169c2306562d815652b728c7f3e05b01f2e814300ab9df79d8609feea",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T14:11:25.350707+00:00"
+      "collected_at": "2026-07-10T16:49:17.347812+00:00"
     },
     {
       "id": "3445d0517eb8c3cb5be29af63161b7537af3f1cafd12ce5d0eab02cd2746defb",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T14:11:25.350778+00:00"
-    },
-    {
-      "id": "2e88c6f572c0249edc093c6947c8199b9d42a7d0983ad4bea41bc68192d01066",
-      "title": "Ecovias diz que prevê liberar novas faixas da Washington Luís entre Mirassol e Cedral (SP) nos próximos três meses - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZmpGSWpobzlxdmJFQ3RmejhhMWp2YlEteWt4MHpGc3psWFdKRVVseW93VmsxRXhmV3FBU25LaW1MdTVsaWRNT0FuNHp4c2liSm9VMERZaWxPUFBra093elBRalc3dXVlcXhtdFY5WG9FR0p6TnQxbTRHMnF5amQ5azhSOXR1TEtWX1BHZG9paGc5ZGRaZnd2b1kwTXRuMWFVUnl0dW16YVhNNkxXWnk3SXVTd042bXJpekw0UGhXS3U2MXdlNkw1cTdDUXFyRUFNZm5UeERfMXJBalpucHBiUU1Gc1Y?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-09T14:53:25+00:00",
-      "published_raw": "Thu, 09 Jul 2026 14:53:25 GMT",
-      "snippet": "Ecovias diz que prevê liberar novas faixas da Washington Luís entre Mirassol e Cedral (SP) nos próximos três meses gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-10T14:11:25.350844+00:00"
+      "collected_at": "2026-07-10T16:49:17.347904+00:00"
     }
   ]
 }
