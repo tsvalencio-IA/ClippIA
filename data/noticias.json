@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-10T21:57:08.160727+00:00",
+  "updated_at": "2026-07-11T01:28:06.836285+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 1,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,58 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-10T21:56:50.544143+00:00"
-    },
-    {
-      "id": "fedca79ec46002f830313cb449157e73c98cdf775a10a0a0b36b965618efb18b",
-      "title": "Free Flow na Anchieta-Imigrantes: campanha prepara milhões de motoristas para o pedágio eletrônico - Portogente",
-      "source": "Portogente",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZVVDZHRnQjVQVHhBUmJrWWdWSFV4OThtbzIzazY4Ynk3Q09kS0dhdnc5Q2pzc0xkbDVHYVJyUE5iOGFFOEI3blJ1aWZ2RWNIZVA4aGJia3dxM3N0MlBYNU5ibEo1Zmo3TlVBamdoa1RvcVV0X1FBQ0RPandWUmxSakVuYWtEQ3ZUWUVsTllqY1RXbFh5aUZOd1ZNRVlfYk50blFhdGJNUm5ZMDBXeGpMQUtMaERnS3ZvWXdvNHBucVdzMG5hZ0R6dEVFWHJxU0xLSTRCQktCOVZRbUFmeXBURDVhWnRVZUtJeGJBQkstbmNMdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-10T17:06:20+00:00",
-      "published_raw": "Fri, 10 Jul 2026 17:06:20 GMT",
-      "snippet": "Free Flow na Anchieta-Imigrantes: campanha prepara milhões de motoristas para o pedágio eletrônico Portogente",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-10T21:56:50.544033+00:00"
-    },
-    {
-      "id": "6aac1fed9b9a2350d67b9152630f8e966658106f826a066779ab557db218afee",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYW1mVC1UUDVUcDg2UkpDS2N1YmVWbTZMZHVfb3QyUFpmMWEzYTNrWHJFd24zSGpYVTJ1RHN2UnlLeFJzcDVYNnVpUHg2T2RDaXJIZGlmMDA3WF96YUVQOGtiMkhfc3hWRXJXZ0w3ZHVMSkUtUTlldkowTnhlR25YZ3B3OUpLVjhvMHRod0lIdXZvQ0c0QzQtbllB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-10T01:11:00+00:00",
-      "published_raw": "Fri, 10 Jul 2026 01:11:00 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-10T21:56:50.544087+00:00"
-    },
-    {
-      "id": "2748e4f169c2306562d815652b728c7f3e05b01f2e814300ab9df79d8609feea",
-      "title": "Rodovias da Ecovias Noroeste Paulista devem receber mais de 711 mil veículos no feriadão - regiaonews.net.br",
-      "source": "regiaonews.net.br",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdlFDNFgzR1hOMXdLU1JKTHRwU3c0Q1o5eWtRMUZEcFg5WktzaEpuRWJXaXgtS0hiQi1DQ1VEclBTdVk4NkFyNGg3TE15a3N0cjlmUGRQQlUyendmcEg1LTZISW12RGdQaTljdWp4QXRjMnlHUlVBTUZnaVBrOTBtaW5WNjJkQmQ1ZjdSd1BGX0Jhd2w2ZVdEZFVsRUt2TlpUZ3J3STlYczhqMHJzV3kzNkJSUEVuNDNPSGFjMU9ENjFXRnpsWVZQbnEzZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-09T22:19:26+00:00",
-      "published_raw": "Thu, 09 Jul 2026 22:19:26 GMT",
-      "snippet": "Rodovias da Ecovias Noroeste Paulista devem receber mais de 711 mil veículos no feriadão regiaonews.net.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-10T21:56:50.543968+00:00"
+      "collected_at": "2026-07-11T01:27:49.300715+00:00"
     }
   ]
 }
