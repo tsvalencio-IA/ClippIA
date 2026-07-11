@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-07-11T18:55:18.501727+00:00",
+  "updated_at": "2026-07-11T21:42:07.313936+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,40 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "4b18428a20e3b6197aca7fd00912c0975d8a18479e658c15f4607d1c75792d2d",
-      "title": "IA ajuda EcoRodovias a identificar fadiga e prevenir acidentes nas rodovias - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUUtBbkdCWHp0YmlfUWZNaTBET2JLbDVFODdRNVgtMkpkYk4tOFFQU0RrNkVpOWZkdWVnWDlwc1BqbTZZeHlUQ1dROWxyTmZCdThlODV4M2w3N0NsVkphNF9EODBvOGQ4MmpWQ1Y2TV9zaE9UNVNlbHd5MHVRUWM?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-11T16:41:36+00:00",
-      "published_raw": "Sat, 11 Jul 2026 16:41:36 GMT",
-      "snippet": "IA ajuda EcoRodovias a identificar fadiga e prevenir acidentes nas rodovias Mobilidade Sampa",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-11T18:55:02.554274+00:00"
-    },
-    {
-      "id": "1afaa2d174fbf9ed53f4fb204a60868e413181faab73e43c2319b36be0631197",
-      "title": "Caminhão carregado com laranjas interdita Washington Luís e provoca congestionamento em Uchoa (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHlSVFQ5dFR1NnU5ZU40cXVsZms1eVJfc3p3SFp1bW1YNWhWWkNENUYtN0dOVnVValNKeVF2V1lXYldESVVWQUt6SmpJc2lNUzFRY004SVozSE0tcWVKZTF5cFBrakdac0wxeGJHdGZ4dnR4akFkTUNLQXFESHlWX3pqbjFEeGxyYl83dGVnMjF0dWcyVHdFS2MwRVJTSHlYZC1wczhWV1QzQjNVTDV6VHljX3pwQnd2M3VfdzhmUU9vbkx6UFdSVUxvdFZpOGM?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-10T20:47:48+00:00",
-      "published_raw": "Fri, 10 Jul 2026 20:47:48 GMT",
-      "snippet": "Caminhão carregado com laranjas interdita Washington Luís e provoca congestionamento em Uchoa (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-11T18:55:02.554407+00:00"
-    }
-  ]
+  "items": []
 }
