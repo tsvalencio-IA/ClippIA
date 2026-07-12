@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-12T15:55:13.682554+00:00",
+  "updated_at": "2026-07-12T18:47:38.039024+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "4b18428a20e3b6197aca7fd00912c0975d8a18479e658c15f4607d1c75792d2d",
-      "title": "IA ajuda EcoRodovias a identificar fadiga e prevenir acidentes nas rodovias - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUUtBbkdCWHp0YmlfUWZNaTBET2JLbDVFODdRNVgtMkpkYk4tOFFQU0RrNkVpOWZkdWVnWDlwc1BqbTZZeHlUQ1dROWxyTmZCdThlODV4M2w3N0NsVkphNF9EODBvOGQ4MmpWQ1Y2TV9zaE9UNVNlbHd5MHVRUWM?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-11T16:41:36+00:00",
-      "published_raw": "Sat, 11 Jul 2026 16:41:36 GMT",
-      "snippet": "IA ajuda EcoRodovias a identificar fadiga e prevenir acidentes nas rodovias Mobilidade Sampa",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-12T15:54:58.532744+00:00"
-    }
-  ]
+  "items": []
 }
