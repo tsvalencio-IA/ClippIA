@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T14:34:51.581773+00:00",
+  "updated_at": "2026-07-13T17:04:33.317342+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 3,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,57 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRngyRjRHbWw0YnlhSWRhY093LUVfTXBDMTlaNC04eTBKMzA4SVhSY2FhTFJXbTV0bk44SkpXekZvTENOcms5WEJrdUNBS282VWVSTlo3TTJTQUNIU044Z1RoekxiWVpidGQ5Wm9meWRLeWlMX1RmOUZ3dlh2OXUtdVVLdFJrRW1OR2c4elhxYXlzd0Jh?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T17:00:44+00:00",
+      "published_raw": "Mon, 13 Jul 2026 17:00:44 GMT",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-13T17:04:28.731690+00:00"
+    },
+    {
+      "id": "429112463ef6b1bd46e822b4d759fe7c886b43c4c329db0b272b2ee549113ab4",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 13/7 a 19/7/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1ZDZ212dUt3NGxQQkhiREpLMXZFNWdwbUQzek10ZHJjbzFWNVdyejdZTTRUNTFQRm1XUnBBdUs5WmRsZExvTFd3RkRoWkZOaDlrRVN0eGdlVXFxY1FHaGlqOGhhRmJ3d2ctbURLQk9HT01kbTBaaW9yRzNwLXRIOGFoWW9rNTVUcGVhOWFBM21UUFpNT09YZGQ0Ri1lcnNnZVh2MmpxSDBCVlJIaUsxMXNKRkZOZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T16:17:27+00:00",
+      "published_raw": "Mon, 13 Jul 2026 16:17:27 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 13/7 a 19/7/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-13T17:04:14.582359+00:00"
+    },
+    {
+      "id": "197d29763872cebe78a9aff23c51fd1888c0292d404293cd81b6b42e8b93a405",
+      "title": "Obras na Washington Luís entre Rio Preto e Mirassol são retomadas na tarde desta segunda - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZzdBenp1b2ZOSTIyaTV3WkF1c0hGQWN6ZERqSlBaSUgwbGE0VVlOdWRwN09rdWFSdXBJeVZEWjNIZFZ6X3R6QkRpaUFnaXZ2SGxBM1hROGJmQ2NuaEFpcTVYeml4MzJlVU16QVVZaVpXUEExZVVPS1hmbnNsMm5EZndvUHJTM2p3VV9HWVh1dER3QW5IMHRxVmFDU3htUnZpUkdnV2ZMblBQOVhQZ3FjMWJtbk1qeDZQRTVLaFNRU1pDenM3VFdMWG1ZemoxN0RBOGc1MHNBUVh2ZVgyd1E?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T15:50:00+00:00",
+      "published_raw": "Mon, 13 Jul 2026 15:50:00 GMT",
+      "snippet": "Obras na Washington Luís entre Rio Preto e Mirassol são retomadas na tarde desta segunda Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-13T17:04:14.582441+00:00"
+    }
+  ]
 }
