@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T19:09:32.738297+00:00",
+  "updated_at": "2026-07-13T19:18:25.916480+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "750e9f18ad9787f096853aa1fc355547ee8d9b5802a78e9e37f0bed55de7aed5",
+      "title": "Ecovias Noroeste Paulista retoma obras nas rodovias da região e alerta motoristas - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkM2a01ITXFFMnFhQWRaQ3NlbnZidGZkeFc0YlYzRlFqMUhZbWtNdmE4ZF9ZSFZZem9OMnl3ekFmWHJjMlU1MUpsVWxwQzNid1VKem1NUXhyQTliaUo4ME1JX1dObkxUTlVBUXNtdmFsWFB1VTBsVWtiVWVfdVlzcjNmTWppS2dMZVFGazZTM09iZXNfV3J3LVJkN2I4TUREenNkdHViYlZ2QjRnUnc?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T19:02:00+00:00",
+      "published_raw": "Mon, 13 Jul 2026 19:02:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista retoma obras nas rodovias da região e alerta motoristas Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-13T19:18:09.654074+00:00"
+    },
+    {
       "id": "6f175af6490bd8347f6898f0dbf108b5c8cfd1b1378ed48f3278f54ec6fa0620",
       "title": "Obras na Washington Luís exigem atenção em Rio Preto e região nesta semana - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T19:09:15.565735+00:00"
+      "collected_at": "2026-07-13T19:18:09.653841+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T19:09:28.264166+00:00"
+      "collected_at": "2026-07-13T19:18:21.787534+00:00"
     },
     {
       "id": "429112463ef6b1bd46e822b4d759fe7c886b43c4c329db0b272b2ee549113ab4",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T19:09:15.565674+00:00"
+      "collected_at": "2026-07-13T19:18:09.653738+00:00"
     },
     {
       "id": "197d29763872cebe78a9aff23c51fd1888c0292d404293cd81b6b42e8b93a405",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T19:09:15.565819+00:00"
+      "collected_at": "2026-07-13T19:18:09.654197+00:00"
     },
     {
       "id": "f467aa478c30571c296f9d982863780e3f5e8d1f80f5f88171ca62e55e99360e",
@@ -122,13 +139,13 @@
       "published": "2026-07-13T15:07:46+00:00",
       "published_raw": "Mon, 13 Jul 2026 15:07:46 GMT",
       "snippet": "Campanha prepara milhões de motoristas para o pedágio eletrônico BS9",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T19:09:15.565771+00:00"
+      "collected_at": "2026-07-13T19:18:09.653910+00:00"
     }
   ]
 }
