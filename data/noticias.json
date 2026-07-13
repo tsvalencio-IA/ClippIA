@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-13T21:43:25.853675+00:00",
+  "updated_at": "2026-07-13T21:52:10.486648+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:20.531488+00:00"
+      "collected_at": "2026-07-13T21:52:05.667744+00:00"
+    },
+    {
+      "id": "d01cf5698c8f0acc688a3e78f6685a74e7f24eb5e00688924464ebe8bf445ad3",
+      "title": "Viatura da PM é atingida na traseira na Washington Luís em São Carlos - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGFLMTd1eGE3NFl6R3VoSk0zUGdHRHppZmZpMEtick40RHN4aHBVWVZlOGh2a0N3bUF3a0g5bTVUQVBkYmYyTUZSRGNaTjFTNDFvcmxxejBBVS1ib3Q3Rk5RelBuazhsRTJadEo1RldURFBWa3NzUmktVEcwYWxfNzFDeTZuY25Yc2JaVkhqR0Rha25TcjZMZW9xSy02YWNHelY0NzYwYWVzaHZlNWIxWXdveG1PclNfTDk1d1dJVdIBvwFBVV95cUxNSGFLMTd1eGE3NFl6R3VoSk0zUGdHRHppZmZpMEtick40RHN4aHBVWVZlOGh2a0N3bUF3a0g5bTVUQVBkYmYyTUZSRGNaTjFTNDFvcmxxejBBVS1ib3Q3Rk5RelBuazhsRTJadEo1RldURFBWa3NzUmktVEcwYWxfNzFDeTZuY25Yc2JaVkhqR0Rha25TcjZMZW9xSy02YWNHelY0NzYwYWVzaHZlNWIxWXdveG1PclNfTDk1d1dJVQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T20:11:56+00:00",
+      "published_raw": "Mon, 13 Jul 2026 20:11:56 GMT",
+      "snippet": "Viatura da PM é atingida na traseira na Washington Luís em São Carlos São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-13T21:51:53.904965+00:00"
     },
     {
       "id": "5838af13a66acf0057d56d5f97983a6fe0b3c6a400955f1081c675342c35b606",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:19.380307+00:00"
+      "collected_at": "2026-07-13T21:52:04.473426+00:00"
     },
     {
       "id": "750e9f18ad9787f096853aa1fc355547ee8d9b5802a78e9e37f0bed55de7aed5",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.136175+00:00"
+      "collected_at": "2026-07-13T21:51:53.904734+00:00"
     },
     {
       "id": "a368a4d3c5fe8370d0d000aa7ca7dab2ba3982a047ccabeb6f9d9031d2f4122d",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.136244+00:00"
+      "collected_at": "2026-07-13T21:51:53.904808+00:00"
     },
     {
       "id": "6f175af6490bd8347f6898f0dbf108b5c8cfd1b1378ed48f3278f54ec6fa0620",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.136030+00:00"
+      "collected_at": "2026-07-13T21:51:53.904583+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:21.136549+00:00"
+      "collected_at": "2026-07-13T21:52:06.258301+00:00"
     },
     {
       "id": "c1a1bc447858d73025fccbe247769718781a6fc28bd789f3d4475282a54fe014",
@@ -156,13 +173,13 @@
       "published": "2026-07-13T15:50:00+00:00",
       "published_raw": "Mon, 13 Jul 2026 15:50:00 GMT",
       "snippet": "Obras na Washington Luís entre Mirassol e Rio Preto são retomadas na tarde desta segunda Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.136325+00:00"
+      "collected_at": "2026-07-13T21:51:53.904891+00:00"
     },
     {
       "id": "f467aa478c30571c296f9d982863780e3f5e8d1f80f5f88171ca62e55e99360e",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.136103+00:00"
+      "collected_at": "2026-07-13T21:51:53.904653+00:00"
     },
     {
       "id": "26a7ff377878ac55c70cc83a23229f510fbf4f82c70f2b855d5e0032ffde09da",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-13T21:43:08.135904+00:00"
+      "collected_at": "2026-07-13T21:51:53.904481+00:00"
     }
   ]
 }
