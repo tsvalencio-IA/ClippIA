@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T01:20:37.190432+00:00",
+  "updated_at": "2026-07-14T02:02:04.936100+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:29.697531+00:00"
+      "collected_at": "2026-07-14T02:01:57.919616+00:00"
     },
     {
       "id": "96c1bd0ab7daef0c53e3d4fd9296303f38c276c9dec4f423517b8b27546a53b9",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:32.091472+00:00"
+      "collected_at": "2026-07-14T02:02:00.085759+00:00"
     },
     {
       "id": "b3e65af5b466d7e665c651c793b74152fe921d896c5dba734ee195b228269bb6",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:32.091551+00:00"
+      "collected_at": "2026-07-14T02:02:00.085855+00:00"
     },
     {
       "id": "12a0d44cc38c56fe71a6b07ab6249898b9da8e3e4d1e33f2058533fa44deb8f5",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:19.796731+00:00"
+      "collected_at": "2026-07-14T02:01:48.680451+00:00"
     },
     {
       "id": "d01cf5698c8f0acc688a3e78f6685a74e7f24eb5e00688924464ebe8bf445ad3",
@@ -128,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:32.091695+00:00"
-    },
-    {
-      "id": "f467aa478c30571c296f9d982863780e3f5e8d1f80f5f88171ca62e55e99360e",
-      "title": "Campanha prepara milhões de motoristas para o pedágio eletrônico - BS9",
-      "source": "BS9",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOF9RUTlQbjlhOTcxel9EcC1paUZkMHFKSU1oaW5jMzRiUTYxRGRsZy1nby1EOFZJR3JiNzFVZWIxYU5paUtXRFp6ZTNPZ0FTazFaYkx4VHpTTjJmQmFOckEzRzhhMUFQOTRhM1BQZEpEckp2dEFRZEpVSUo1dXZNTGNZLWdwR3VwQmtiZ2tsMDd0c3owTWhvSmkyM3NlOWc1ZFNMNWZDY1EzOENZXzVB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-13T19:42:27+00:00",
-      "published_raw": "Mon, 13 Jul 2026 19:42:27 GMT",
-      "snippet": "Campanha prepara milhões de motoristas para o pedágio eletrônico BS9",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-14T01:20:19.796640+00:00"
+      "collected_at": "2026-07-14T02:02:00.086030+00:00"
     },
     {
       "id": "750e9f18ad9787f096853aa1fc355547ee8d9b5802a78e9e37f0bed55de7aed5",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:19.796806+00:00"
+      "collected_at": "2026-07-14T02:01:48.680587+00:00"
     },
     {
       "id": "a368a4d3c5fe8370d0d000aa7ca7dab2ba3982a047ccabeb6f9d9031d2f4122d",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:19.796877+00:00"
+      "collected_at": "2026-07-14T02:01:48.680669+00:00"
     },
     {
       "id": "6f175af6490bd8347f6898f0dbf108b5c8cfd1b1378ed48f3278f54ec6fa0620",
@@ -190,13 +173,13 @@
       "published": "2026-07-13T17:28:55+00:00",
       "published_raw": "Mon, 13 Jul 2026 17:28:55 GMT",
       "snippet": "Obras na Washington Luís exigem atenção em Rio Preto e região nesta semana Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:30.857669+00:00"
+      "collected_at": "2026-07-14T02:02:02.279206+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:32.715091+00:00"
+      "collected_at": "2026-07-14T02:02:00.682227+00:00"
     },
     {
       "id": "c1a1bc447858d73025fccbe247769718781a6fc28bd789f3d4475282a54fe014",
@@ -230,7 +213,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:30.857896+00:00"
+      "collected_at": "2026-07-14T02:01:58.968425+00:00"
+    },
+    {
+      "id": "f467aa478c30571c296f9d982863780e3f5e8d1f80f5f88171ca62e55e99360e",
+      "title": "Campanha prepara milhões de motoristas para o pedágio eletrônico - BS9",
+      "source": "BS9",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUZjdFg4amRkcjQ0Wng5OUxjdHZiRkp6YUNxSDk1UXRnWEg2am1tRkwyYWc5UmFIeUJvWUJGMl9jV1lSMGhIenVlTi1sX2pCSDRJTFpOeGlxNTJjN2p0SUhBWk5DR09tWVJzWW40elREU3NoOXBkZC1kMjA0M1o4bjQ4X3dKNV8zWUt0UDl4WFcyLUZUamVBNThZNk82VWFoYmZB0gGqAUFVX3lxTFBDZWRuaG1MbmVWYXcwTFcwOGdwLVNpeENoLWtaUVZvcW8wNURpWXpYMVNwbHZCeDhVSmh5SjFkcUNlY2doR3VfNVhicDdXN1pNZjk4ckhVaDJJS0RRcVFPUDBnczJoRzF5c0FnNTNicld2dXE5M2lvT3J6YlRJb0ZNZ3ROamUwMTFYS2tjYWZFN1Fac0d5UHZDVEZOaDhpZ3FWWTMwcm5Mc2x3?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-13T15:07:46+00:00",
+      "published_raw": "Mon, 13 Jul 2026 15:07:46 GMT",
+      "snippet": "Campanha prepara milhões de motoristas para o pedágio eletrônico BS9",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-14T02:01:50.286079+00:00"
     },
     {
       "id": "26a7ff377878ac55c70cc83a23229f510fbf4f82c70f2b855d5e0032ffde09da",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T01:20:19.796559+00:00"
+      "collected_at": "2026-07-14T02:01:48.680346+00:00"
     }
   ]
 }
