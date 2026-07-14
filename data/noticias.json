@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-14T19:00:08.392301+00:00",
+  "updated_at": "2026-07-14T19:12:02.527679+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 12,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "477e09468b769d0555a8922af8606ea0390de1483e99bac5d07b7884415530f3",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias até 19 de julho - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXU2UUZleHBhZThDb1BzWjIxaTJ4OWRiUjR2MzJXOHg2WlJ5VXEwV2U5V2ozaURFMmxSRUlNN1UtQm1ubW9mZXNXOTJic3l5elBCOEJuLWE1VHdoTTd5SnFJRHRGVGE2eGZBQVM1R1pCRlJRaUJaZC1JUkV6N3lpMm03Zkxocm9MbFJoS0V1MkJ5MXdIaHFwb29XSHZZbnItaHMzZ2lET25PNWlMeUxHUWhyanlMMlVrNVVwenBUOGx0MUs2Yzc00gHMAUFVX3lxTE40Tm5OUFFkRks4TXVfdDEzVDZfclNGZWs5R21lY3ZWUDE3WFRmQWJhWTlZNncxYThMUmhxS2UzZHg3bVVCbWNra1NqNkJpaC1qTVhYWi1zd1VQZlhpVENfOU4zUnhnUUVjRlhuRzVmUm1tSGhsYzdidi05Q2psZlpxZ2RNaG9TODVhVFg0Qy0wUGczMkx6ckhvY2hpc1RuTHlybFNOa1Fib3M0Q1J5RElacGRrMG1YejctaGJBbU1yeXo4Z0xGQzlsQURKWg?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-14T19:00:54+00:00",
+      "published_raw": "Tue, 14 Jul 2026 19:00:54 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias até 19 de julho Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-14T19:11:44.846808+00:00"
+    },
+    {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766610+00:00"
+      "collected_at": "2026-07-14T19:11:44.846884+00:00"
     },
     {
       "id": "aefb7b4393bea7328d4073e35fdbabf7e76aba47e3195919bb07d67ef7c27333",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766749+00:00"
+      "collected_at": "2026-07-14T19:11:44.847035+00:00"
     },
     {
       "id": "f02751b920ffda13885eab56573a65a7d194b85b06f487e7b1993a4a22c4113c",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766682+00:00"
+      "collected_at": "2026-07-14T19:11:44.846957+00:00"
     },
     {
       "id": "43613512f5d562551fc95b3ed35decc27dbafa57dffc10961bd7897501616031",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766846+00:00"
+      "collected_at": "2026-07-14T19:11:44.847148+00:00"
     },
     {
       "id": "6e19dcdfe3fa6d7f1d89e11b180f98c575c23e44e69ec3069a33e6443bf26939",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T19:00:02.911235+00:00"
+      "collected_at": "2026-07-14T19:11:57.471698+00:00"
     },
     {
       "id": "6a3047d6e1a9d2853773dfe1d82445200002bd6f5174f4a6cd9b0d1d7da2703c",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766980+00:00"
+      "collected_at": "2026-07-14T19:11:44.847283+00:00"
     },
     {
       "id": "96c1bd0ab7daef0c53e3d4fd9296303f38c276c9dec4f423517b8b27546a53b9",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T19:00:02.911185+00:00"
+      "collected_at": "2026-07-14T19:11:57.471613+00:00"
     },
     {
       "id": "b3e65af5b466d7e665c651c793b74152fe921d896c5dba734ee195b228269bb6",
@@ -173,13 +190,13 @@
       "published": "2026-07-13T20:32:00+00:00",
       "published_raw": "Mon, 13 Jul 2026 20:32:00 GMT",
       "snippet": "Ecovias Noroeste Paulista retoma obras nas rodovias da região e alerta motoristas Votunews",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T19:00:02.911278+00:00"
+      "collected_at": "2026-07-14T19:11:44.847339+00:00"
     },
     {
       "id": "12a0d44cc38c56fe71a6b07ab6249898b9da8e3e4d1e33f2058533fa44deb8f5",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766902+00:00"
+      "collected_at": "2026-07-14T19:11:44.847216+00:00"
     },
     {
       "id": "d01cf5698c8f0acc688a3e78f6685a74e7f24eb5e00688924464ebe8bf445ad3",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.767078+00:00"
+      "collected_at": "2026-07-14T19:11:44.847399+00:00"
     },
     {
       "id": "f467aa478c30571c296f9d982863780e3f5e8d1f80f5f88171ca62e55e99360e",
@@ -230,41 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.766791+00:00"
-    },
-    {
-      "id": "5838af13a66acf0057d56d5f97983a6fe0b3c6a400955f1081c675342c35b606",
-      "title": "Obras contra alagamentos interditam trecho da Rua Pernambuco em Fernandópolis - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWhiTFJQMzMtMUd0T0hFakR4anE1MGFhaHdQZzdrcC12SHFaazdXRkVOTmlzME44dU1raXlMUXJnZm9EWjBnbUUxSmZqXzdEYS1iNEFRa3JZaFpSNWdueHJMLUtHODJhY1VfZ2dLYWlZLWtOejdjY1QxdmVzS2FiZUtCT2VrR0NGcjNYZ1BhR1pOV1dhNUJLTmpEZ0hmWkRaUF83TkQxbVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-13T19:11:00+00:00",
-      "published_raw": "Mon, 13 Jul 2026 19:11:00 GMT",
-      "snippet": "Obras contra alagamentos interditam trecho da Rua Pernambuco em Fernandópolis Região Noroeste",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-14T19:00:01.605339+00:00"
-    },
-    {
-      "id": "750e9f18ad9787f096853aa1fc355547ee8d9b5802a78e9e37f0bed55de7aed5",
-      "title": "Ecovias Noroeste Paulista retoma obras nas rodovias da região e alerta motoristas - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkM2a01ITXFFMnFhQWRaQ3NlbnZidGZkeFc0YlYzRlFqMUhZbWtNdmE4ZF9ZSFZZem9OMnl3ekFmWHJjMlU1MUpsVWxwQzNid1VKem1NUXhyQTliaUo4ME1JX1dObkxUTlVBUXNtdmFsWFB1VTBsVWtiVWVfdVlzcjNmTWppS2dMZVFGazZTM09iZXNfV3J3LVJkN2I4TUREenNkdHViYlZ2QjRnUnc?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-13T19:02:00+00:00",
-      "published_raw": "Mon, 13 Jul 2026 19:02:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista retoma obras nas rodovias da região e alerta motoristas Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-14T18:59:49.767028+00:00"
+      "collected_at": "2026-07-14T19:11:44.847081+00:00"
     }
   ]
 }
