@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-15T01:59:11.394085+00:00",
+  "updated_at": "2026-07-15T05:21:14.808847+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 5,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.604073+00:00"
+      "collected_at": "2026-07-15T05:20:59.258002+00:00"
     },
     {
       "id": "477e09468b769d0555a8922af8606ea0390de1483e99bac5d07b7884415530f3",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.603716+00:00"
+      "collected_at": "2026-07-15T05:20:59.257743+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.603816+00:00"
+      "collected_at": "2026-07-15T05:20:59.257829+00:00"
     },
     {
       "id": "aefb7b4393bea7328d4073e35fdbabf7e76aba47e3195919bb07d67ef7c27333",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.604157+00:00"
+      "collected_at": "2026-07-15T05:20:59.258089+00:00"
     },
     {
       "id": "f02751b920ffda13885eab56573a65a7d194b85b06f487e7b1993a4a22c4113c",
@@ -128,41 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.603955+00:00"
-    },
-    {
-      "id": "43613512f5d562551fc95b3ed35decc27dbafa57dffc10961bd7897501616031",
-      "title": "Fesc e Senac abrem inscrições para curso de Quick Massage - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjd1T0plcU9KWXh0Q21hby1WajJoR3E3ZXBRcTEySXlsX2ZIOTlqcThJV1gyQzVDYnBoazdYNTJpUXdncC12TjliZTEwUS1PNEtBWDgzZjNKOGxtTHU5REY0T1Q2YkFxbTNvaFp2S2dvTjFZWlh2ZFNaVGk2cmVqYnFpNllXQnU3Nng1a3ozVkk0UWxLR1HSAZYBQVVfeXFMUEY3dU9KZXFPSll4dENtYW8tVmoyaEdxN2VwUXExMkl5bF9mSDk5anE4SVdYMkM1Q2JwaGs3WDUyaVF3Z3Atdk45YmUxMFEtTzRLQVg4M2YzSjhsbUx1OURGNE9UNmJBcW0zb2hadktnb04xWVpYdmRTWlRpNnJlamJxaTZZV0J1NzZ4NWt6M1ZJNFFsS0dR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-14T03:55:00+00:00",
-      "published_raw": "Tue, 14 Jul 2026 03:55:00 GMT",
-      "snippet": "Fesc e Senac abrem inscrições para curso de Quick Massage - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-15T01:58:55.604233+00:00"
-    },
-    {
-      "id": "6e19dcdfe3fa6d7f1d89e11b180f98c575c23e44e69ec3069a33e6443bf26939",
-      "title": "Colisão traseira envolvendo utilitário e SUV na rodovia Washington Luiz em São Carlos - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWI1ZUNfU3B2Q3pQMHQwYlpnOWQ4ZEtKZG1EcmFPcmdKR1dEUGJhZnpTWVdiQWVZWEFEaGwzWDlCQlBSNVNNcV9Yel9RM2NQNUlfV29RcEJYME9zejJPbHZLVDIxZ2NaM1NQdFRaa0ZncWxDRlZmSkZIUTFxOXg0dGlBWUNsSFR3aklSYUFLY1QyMGh5YTRLbDJVZlJhRFk?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-14T02:02:00+00:00",
-      "published_raw": "Tue, 14 Jul 2026 02:02:00 GMT",
-      "snippet": "Colisão traseira envolvendo utilitário e SUV na rodovia Washington Luiz em São Carlos Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-15T01:58:57.168867+00:00"
+      "collected_at": "2026-07-15T05:20:59.257918+00:00"
     }
   ]
 }
