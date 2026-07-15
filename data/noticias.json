@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:54:08.303234+00:00",
+  "updated_at": "2026-07-15T01:16:58.967615+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "7b4e423f91c50887b684303dbf8e0f5f6bfe841dc035d73f771d9927bdcc5b67",
+      "title": "Festa do Milho de Ibaté acontece neste final de semana - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRrWUx0Ykxkd1A1MXpWem1wU3ZuTFB4WkFVaHFLb0ZlanRjR1oyNE1aUGMxY2gzUHZQU1F1ME1vYVlaTjhxVlBMaVc1SndDS3BCT0FJOHVBLVN6UmxKODY5MGZyb2hHZlBnbDJjM3pRTTlocjhFNUVIaVQ3ZEVabklDVXhQV3hDVTgwVDZ5SXNTZHROTy1SdFU4eTdCNl9CT21XMllR?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-14T21:18:33+00:00",
+      "published_raw": "Tue, 14 Jul 2026 21:18:33 GMT",
+      "snippet": "Festa do Milho de Ibaté acontece neste final de semana Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-15T01:16:41.774819+00:00"
+    },
+    {
       "id": "477e09468b769d0555a8922af8606ea0390de1483e99bac5d07b7884415530f3",
       "title": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias até 19 de julho - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195160+00:00"
+      "collected_at": "2026-07-15T01:16:41.774673+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195280+00:00"
+      "collected_at": "2026-07-15T01:16:41.774722+00:00"
     },
     {
       "id": "aefb7b4393bea7328d4073e35fdbabf7e76aba47e3195919bb07d67ef7c27333",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195455+00:00"
+      "collected_at": "2026-07-15T01:16:41.774903+00:00"
     },
     {
       "id": "f02751b920ffda13885eab56573a65a7d194b85b06f487e7b1993a4a22c4113c",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195367+00:00"
+      "collected_at": "2026-07-15T01:16:41.774771+00:00"
     },
     {
       "id": "43613512f5d562551fc95b3ed35decc27dbafa57dffc10961bd7897501616031",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195533+00:00"
+      "collected_at": "2026-07-15T01:16:41.774949+00:00"
     },
     {
       "id": "6e19dcdfe3fa6d7f1d89e11b180f98c575c23e44e69ec3069a33e6443bf26939",
@@ -145,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-14T21:53:53.811023+00:00"
-    },
-    {
-      "id": "6a3047d6e1a9d2853773dfe1d82445200002bd6f5174f4a6cd9b0d1d7da2703c",
-      "title": "Estacionamento Rotativo passa a ter nova regra para regularização de vagas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVGQwTHRRSUM3bW1Ga0tIOWR4QWlfcU5rbHFhb01vZVItMTVrY3Z1cWhqRHp1ZUFpRzVGMDRDa3ZLRTJwREw4WVJfdk5WMjV6WTlOYWlOSTNIMzRudWFpQ014NG5ya3RKLVV4TGdtZ3ZDSGJhYWp2b3dWS2tfc3ZvSnMwZHIyeDVZOXBlYS1yd3BVUTRsVmZiTnloV0hJRkZodHpmbjRqckVPVWs00gGsAUFVX3lxTE5UZDBMdFFJQzdtbUZrS0g5ZHhBaV9xTmtscWFvTW9lUi0xNWtjdnVxaGpEenVlQWlHNUYwNENrdktFMnBETDhZUl92TlYyNXpZOU5haU5JM0gzNG51YWlDTXg0bnJrdEotVXhMZ21ndkNIYmFhanZvd1ZLa19zdm9KczBkcjJ4NVk5cGVhLXJ3cFVRNGxWZmJOeWhXSElGRmh0emZuNGpyRU9VazQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-13T22:02:29+00:00",
-      "published_raw": "Mon, 13 Jul 2026 22:02:29 GMT",
-      "snippet": "Estacionamento Rotativo passa a ter nova regra para regularização de vagas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-14T21:53:52.195615+00:00"
+      "collected_at": "2026-07-15T01:16:43.583337+00:00"
     }
   ]
 }
