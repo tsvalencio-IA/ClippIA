@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-15T16:16:26.264261+00:00",
+  "updated_at": "2026-07-15T18:53:03.524498+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T16:16:09.613082+00:00"
+      "collected_at": "2026-07-15T18:52:47.323599+00:00"
     },
     {
       "id": "477e09468b769d0555a8922af8606ea0390de1483e99bac5d07b7884415530f3",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-15T16:16:09.612886+00:00"
-    },
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTZFNHZYTk4yZFhrMEtTNlAyN2UzUGpaX2NTeFg5Tm1kNWowZVFMNF9DUGVIeVVnOVMxTjN6c3REQ1pvcnRBcHlxTWZzTFhENFJHQ1gwTTc2WDk5Y0dHWGdzQ0I2aXJGYUVtYzQ2c2FBMkJDMFl1WHdBd0JaRjJoY1dNM2N2bjJuVGRzTmxuRVplYkxuejBKVWp5QUM0QXBGMkZlZDlETG5TUk1TU2JsZlV0RU16cFdoLWVN?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-14T18:30:32+00:00",
-      "published_raw": "Tue, 14 Jul 2026 18:30:32 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-15T16:16:09.612978+00:00"
+      "collected_at": "2026-07-15T18:52:47.323496+00:00"
     }
   ]
 }
