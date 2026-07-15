@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-15T19:04:17.342765+00:00",
+  "updated_at": "2026-07-15T21:45:47.008592+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "7b4e423f91c50887b684303dbf8e0f5f6bfe841dc035d73f771d9927bdcc5b67",
-      "title": "Festa do Milho de Ibaté acontece neste final de semana - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXRrWUx0Ykxkd1A1MXpWem1wU3ZuTFB4WkFVaHFLb0ZlanRjR1oyNE1aUGMxY2gzUHZQU1F1ME1vYVlaTjhxVlBMaVc1SndDS3BCT0FJOHVBLVN6UmxKODY5MGZyb2hHZlBnbDJjM3pRTTlocjhFNUVIaVQ3ZEVabklDVXhQV3hDVTgwVDZ5SXNTZHROTy1SdFU4eTdCNl9CT21XMllR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-14T21:18:33+00:00",
-      "published_raw": "Tue, 14 Jul 2026 21:18:33 GMT",
-      "snippet": "Festa do Milho de Ibaté acontece neste final de semana Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-15T19:03:59.742694+00:00"
-    }
-  ]
+  "items": []
 }
