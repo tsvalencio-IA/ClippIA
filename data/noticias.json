@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-15T21:54:59.750103+00:00",
+  "updated_at": "2026-07-16T01:26:43.902714+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 1,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,23 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "5849e9ee1ef2f8004f8c06060148de0ad5ae04260952a4612ddc185a7d09426d",
+      "title": "Motociclistas ganham cobrança automática no Free Flow e menos risco de multa - AutoPapo",
+      "source": "AutoPapo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzE1ckpKUDFTM0FGQk9YXzlsYXdpZzB3clNhT0NCWHdHSmMyWEpURV95SW5jSmVfZWgxdy1EWDVWblBuNWVKWUlRNTFCWHY4Y0VhX0xHQm16OHIwTkd1aU96ODFVQ0xZNzRJNTIxR2cwcWs3d3ViRkhWMWFWZGVwRFY2Z2F1dkdRbzhvbXlHdUw0NTMwSWFWZE5sOFllM0RGTHFJNnp1TjFjMlk?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-15T23:00:00+00:00",
+      "published_raw": "Wed, 15 Jul 2026 23:00:00 GMT",
+      "snippet": "Motociclistas ganham cobrança automática no Free Flow e menos risco de multa AutoPapo",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-16T01:26:28.272922+00:00"
+    }
+  ]
 }
