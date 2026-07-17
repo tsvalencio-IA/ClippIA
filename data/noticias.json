@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T10:29:12.729660+00:00",
+  "updated_at": "2026-07-17T10:42:22.093663+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -54,13 +54,13 @@
       "published": "2026-07-17T02:41:34+00:00",
       "published_raw": "Fri, 17 Jul 2026 02:41:34 GMT",
       "snippet": "Três caminhões se envolvem em engavetamento na Washington Luís O Regional",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T10:28:56.848696+00:00"
+      "collected_at": "2026-07-17T10:42:08.232385+00:00"
     },
     {
       "id": "ff0214eaad27bb7acd7a7f3e1fd8df10495af206e6a3495aa7cd68672de86dc5",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T10:28:58.420291+00:00"
+      "collected_at": "2026-07-17T10:42:08.232474+00:00"
     },
     {
       "id": "778ed3c6f481667105d606a4ab2881384664951902401e62b81a00f7069351b7",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T10:28:58.420410+00:00"
+      "collected_at": "2026-07-17T10:42:08.232541+00:00"
     }
   ]
 }
