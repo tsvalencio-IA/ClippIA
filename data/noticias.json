@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-16T21:59:58.591353+00:00",
+  "updated_at": "2026-07-17T01:29:45.888988+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "5849e9ee1ef2f8004f8c06060148de0ad5ae04260952a4612ddc185a7d09426d",
-      "title": "Motociclistas ganham cobrança automática no Free Flow e menos risco de multa - AutoPapo",
-      "source": "AutoPapo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzE1ckpKUDFTM0FGQk9YXzlsYXdpZzB3clNhT0NCWHdHSmMyWEpURV95SW5jSmVfZWgxdy1EWDVWblBuNWVKWUlRNTFCWHY4Y0VhX0xHQm16OHIwTkd1aU96ODFVQ0xZNzRJNTIxR2cwcWs3d3ViRkhWMWFWZGVwRFY2Z2F1dkdRbzhvbXlHdUw0NTMwSWFWZE5sOFllM0RGTHFJNnp1TjFjMlk?oc=5",
+      "id": "ff0214eaad27bb7acd7a7f3e1fd8df10495af206e6a3495aa7cd68672de86dc5",
+      "title": "Caminhão em chamas causa interdição na Washington Luís em Pindorama - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hEZXFGand6U3JEWmVfQWxsc1FCdUJGNmJONlNsc1dBT2VqX3NIcVp6aEpUc3kxWHI4dGNzdDBfOTRrN2h4c3diUUJ4bUJwT2FYbkpJb1JoRlhpUDY3RzBrNlAtMENBdXNIeFY2TkV6VmRpMGxTYVlzTlB6SElhVzZJNHdra05ncVZwbkowaGxtbDJMLTdPTkZIZHpNRVlIdG1pcExsaEMzTlpqSUE?oc=5",
       "resolved_link": "",
-      "published": "2026-07-15T23:00:00+00:00",
-      "published_raw": "Wed, 15 Jul 2026 23:00:00 GMT",
-      "snippet": "Motociclistas ganham cobrança automática no Free Flow e menos risco de multa AutoPapo",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "published": "2026-07-16T23:25:00+00:00",
+      "published_raw": "Thu, 16 Jul 2026 23:25:00 GMT",
+      "snippet": "Caminhão em chamas causa interdição na Washington Luís em Pindorama Araraquara News",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-16T21:59:42.878731+00:00"
+      "collected_at": "2026-07-17T01:29:32.094490+00:00"
+    },
+    {
+      "id": "778ed3c6f481667105d606a4ab2881384664951902401e62b81a00f7069351b7",
+      "title": "Caminhão pega fogo na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWk1YWd0SjBJOGNTV0hHcFJRQXF0Tnh4ZXZMclEzanNiQTMtY25kS0lXYTVLSjhPVndBdFlJbFhlWHl6OUVIQ3NncVBESnlCYUNYN1pGT2hVLVFjQlE0cE5lOVotZ2ozMDNVSG9wdWdKVjVMcDNQUGlyZlJnVXVjYWNsc1NqUFN4OV9fUVdiaGhRMjJ60gGUAUFVX3lxTE05aTVhZ3RKMEk4Y1NXSEdwUlFBcXROeHhldkxyUTNqc2JBMy1jbmRLSVdhNUtKOE9Wd0F0WUlsWGVYeXo5RUhDc2dxUERKeUJhQ1g3WkZPaFUtUWNCUTRwTmU5Wi1najMwM1VIb3B1Z0pWNUxwM1BQaXJmUmdVdWNhY2xzU2pQU3g5X19RV2JoaFEyMno?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-16T22:58:47+00:00",
+      "published_raw": "Thu, 16 Jul 2026 22:58:47 GMT",
+      "snippet": "Caminhão pega fogo na Washington Luís São Carlos Agora",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-17T01:29:43.483391+00:00"
     }
   ]
 }
