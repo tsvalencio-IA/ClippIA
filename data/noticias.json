@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-18T18:56:36.226948+00:00",
+  "updated_at": "2026-07-18T21:39:22.357503+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-18T18:56:19.973026+00:00"
+      "collected_at": "2026-07-18T21:39:06.361564+00:00"
     },
     {
       "id": "b120fd10e2084449ba34ffa527c4d6713c31ec983b65ac6d20479e09a9ec8c14",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-18T18:56:19.972927+00:00"
-    },
-    {
-      "id": "de9ddee4827fde90646b5b45592fecb63a984afcd3a0d7bbfeb4aa020636763f",
-      "title": "🚧 EPR deve isolar passarela na BR-376, em Paranavaí, em virtude de danos estruturais. Em breve mais informações no site do DN. - instagram.com",
-      "source": "instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1UmpQdEotN2dQZ21ET1BncUFhWE9yWUt0MExJbU1ZdTZTLS1Sd2RUdExYS1YyaDBCWEMwYV9feGVvUlpBbGl2bG9iWVRYZWMxV1dac29B?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-17T20:38:38+00:00",
-      "published_raw": "Fri, 17 Jul 2026 20:38:38 GMT",
-      "snippet": "🚧 EPR deve isolar passarela na BR-376, em Paranavaí, em virtude de danos estruturais. Em breve mais informações no site do DN. instagram.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-18T18:56:19.972815+00:00"
+      "collected_at": "2026-07-18T21:39:06.361466+00:00"
     }
   ]
 }
