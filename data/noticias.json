@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-17T21:47:29.387273+00:00",
+  "updated_at": "2026-07-18T01:21:07.358830+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 8,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "de9ddee4827fde90646b5b45592fecb63a984afcd3a0d7bbfeb4aa020636763f",
-      "title": "🚧 EPR deve isolar passarela na BR-376, em Paranavaí, em virtude de danos estruturais. Em breve mais informações no site do DN. - instagram.com",
-      "source": "instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1UmpQdEotN2dQZ21ET1BncUFhWE9yWUt0MExJbU1ZdTZTLS1Sd2RUdExYS1YyaDBCWEMwYV9feGVvUlpBbGl2bG9iWVRYZWMxV1dac29B?oc=5",
+      "id": "b120fd10e2084449ba34ffa527c4d6713c31ec983b65ac6d20479e09a9ec8c14",
+      "title": "Furto de cabos deixa passarela da SP-310 sem iluminação em Ibaté | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUdhVlkyYWdDLVRhRUU4UTZ6NVd6MHNlU0NpZGQwVkxwaDBqZlVYa0JJSUNKdGdpU2UxWGp0dEZvMGdkQjVJWmVmUGNkSHJwamdtRlE5RjRiU3ppdWh2MmtlZWFUZjJKR3lHMUc4dzAwenlvYWhkT1JxbU0xLWFTanNJQkhLZU9vaTRwclpETHZ5MEJKTFJkMGR4U0Q?oc=5",
       "resolved_link": "",
-      "published": "2026-07-17T20:38:38+00:00",
-      "published_raw": "Fri, 17 Jul 2026 20:38:38 GMT",
-      "snippet": "🚧 EPR deve isolar passarela na BR-376, em Paranavaí, em virtude de danos estruturais. Em breve mais informações no site do DN. instagram.com",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "pedágio",
+      "published": "2026-07-17T23:23:40+00:00",
+      "published_raw": "Fri, 17 Jul 2026 23:23:40 GMT",
+      "snippet": "Furto de cabos deixa passarela da SP-310 sem iluminação em Ibaté | Região em Destake",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.859074+00:00"
+      "collected_at": "2026-07-18T01:20:51.980007+00:00"
     },
     {
       "id": "2dd1687b723891144f062e3c934f71f43764babbb7ca076efc9899343542f1e5",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.859230+00:00"
+      "collected_at": "2026-07-18T01:20:51.980160+00:00"
     },
     {
       "id": "be950e31472cae85c2587eee4caee13c14de83247e2291dbdba3fab7a2ceba2a",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.853404+00:00"
+      "collected_at": "2026-07-18T01:20:51.979746+00:00"
     },
     {
       "id": "9300c4bb9b1f3f119400ed3c81940fa11c76dde43d5e9f730d74e711b8a7d201",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.853491+00:00"
+      "collected_at": "2026-07-18T01:20:51.979840+00:00"
     },
     {
       "id": "eb28e071e2cb473bcbdc4e176f856ca5e6cb3193568301fc8d1a006e389133a9",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.859157+00:00"
+      "collected_at": "2026-07-18T01:20:51.980083+00:00"
     },
     {
       "id": "41298a65b2c54dc09fc0e39f3ea281b9c2c75b3edd07f58f0d432c1e39ceef75",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:24.785455+00:00"
+      "collected_at": "2026-07-18T01:21:02.791455+00:00"
     },
     {
       "id": "5a98f0f4beb4de993fb545ba2bc6a237a72efbcfefd41dc4e00a9345b0d90278",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.853581+00:00"
+      "collected_at": "2026-07-18T01:20:51.979934+00:00"
     },
     {
       "id": "75bb761df0cb5df9ca3df2ad2b8598c24fda1a5b015039c7d37937b766a08ed3",
@@ -179,41 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-17T21:47:13.859297+00:00"
-    },
-    {
-      "id": "ff0214eaad27bb7acd7a7f3e1fd8df10495af206e6a3495aa7cd68672de86dc5",
-      "title": "Caminhão em chamas causa interdição na Washington Luís em Pindorama - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hEZXFGand6U3JEWmVfQWxsc1FCdUJGNmJONlNsc1dBT2VqX3NIcVp6aEpUc3kxWHI4dGNzdDBfOTRrN2h4c3diUUJ4bUJwT2FYbkpJb1JoRlhpUDY3RzBrNlAtMENBdXNIeFY2TkV6VmRpMGxTYVlzTlB6SElhVzZJNHdra05ncVZwbkowaGxtbDJMLTdPTkZIZHpNRVlIdG1pcExsaEMzTlpqSUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-16T23:25:00+00:00",
-      "published_raw": "Thu, 16 Jul 2026 23:25:00 GMT",
-      "snippet": "Caminhão em chamas causa interdição na Washington Luís em Pindorama Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-17T21:47:15.430490+00:00"
-    },
-    {
-      "id": "778ed3c6f481667105d606a4ab2881384664951902401e62b81a00f7069351b7",
-      "title": "Caminhão pega fogo na Washington Luís - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUzRFbHVkT3JUMEFpUFNIYVNDV0I1cDhtaElTRUZBNmpwS3plRlJwdHkyRi1saFRKQk5YM0FUejhZaGFjMjhYbGoxNHYzQ3BEZHVUSjBvb0o5Si1EYUN6a091b28yUXlYOTZickdiaWtvcG04RW9hQU9tMUJDOWtqblVUTHlqcHZOdFRPbF9VMNIBlAFBVV95cUxNOWk1YWd0SjBJOGNTV0hHcFJRQXF0Tnh4ZXZMclEzanNiQTMtY25kS0lXYTVLSjhPVndBdFlJbFhlWHl6OUVIQ3NncVBESnlCYUNYN1pGT2hVLVFjQlE0cE5lOVotZ2ozMDNVSG9wdWdKVjVMcDNQUGlyZlJnVXVjYWNsc1NqUFN4OV9fUVdiaGhRMjJ6?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-16T22:21:00+00:00",
-      "published_raw": "Thu, 16 Jul 2026 22:21:00 GMT",
-      "snippet": "Caminhão pega fogo na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-17T21:47:15.430681+00:00"
+      "collected_at": "2026-07-18T01:20:51.980232+00:00"
     }
   ]
 }
