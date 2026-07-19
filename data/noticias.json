@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-19T07:56:19.246848+00:00",
+  "updated_at": "2026-07-19T08:08:37.146278+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 9,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605539+00:00"
+      "collected_at": "2026-07-19T08:08:23.680387+00:00"
     },
     {
       "id": "1ab1dec0d01dabc439747b28a44e15b63c5d01983ae6883aed661c963b2249a1",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605948+00:00"
+      "collected_at": "2026-07-19T08:08:23.680607+00:00"
+    },
+    {
+      "id": "e11c128d9dd57516fd0666e7c0df56b7c8afb6ca21d75988a3a8d13c99ffed9c",
+      "title": "Papo João Rock confirma terceira edição com programação gratuita em Ribeirão Preto - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2Q1TUs1RlgtVFJpQWd5QXpIQjRrS2xhUmxYX25oSnVSbnExTlY3ZktldExJOTZDS3VrVUtENGx3SnZyZ24zVUNVT0RtSkN0OGJ6LVc2RUJkTkxzNE1va3JBaDZ2bW9vTjBDbmQ3Wm5Ta2VQZkNvbjdPMEtoNXl2V01kRzZUMjkxaFpudEJ5QzB3ZXN4LUpxdFEwUGFCZGRha2pQMUw3cnk1YkhmTDlhbDFreFg1TG_SAbcBQVVfeXFMUHdkNU1LNUZYLVRSaUFneUF6SEI0a0tsYVJsWF9uaEp1Um5xMU5WN2ZLZXRMSTk2Q0t1a1VLRDRsd0p2cmduM1VDVU9EbUpDdDhiei1XNkVCZE5MczRNb2tyQWg2dm1vb04wQ25kN1puU2tlUGZDb243TzBLaDV5dldNZEc2VDI5MWhabnRCeUMwd2VzeC1KcXRRMFBhQmRkYWtqUDFMN3J5NWJIZkw5YWwxa3hYNUxv?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-19T05:50:47+00:00",
+      "published_raw": "Sun, 19 Jul 2026 05:50:47 GMT",
+      "snippet": "Papo João Rock confirma terceira edição com programação gratuita em Ribeirão Preto - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-19T08:08:23.675463+00:00"
     },
     {
       "id": "bd0c582534238a000561220e18b33c7a612973fe83683af923c9841879b25fa9",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605884+00:00"
+      "collected_at": "2026-07-19T08:08:23.680540+00:00"
     },
     {
       "id": "b719ff69c77ff01997e8041e8db91ca134e05d85519b9f819b6a0891b1cc88fa",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605624+00:00"
+      "collected_at": "2026-07-19T08:08:23.675387+00:00"
     },
     {
       "id": "1b959e2e2e91e67b8302c7fb465d9fed49f9440b198c8dd0152f6e122aa6f5b1",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605749+00:00"
+      "collected_at": "2026-07-19T08:08:23.680472+00:00"
     },
     {
       "id": "027d7d2ea15888e9b7ae57786416f2866bf7e2011814cfc4739ad26b79f00d8e",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:05.605819+00:00"
+      "collected_at": "2026-07-19T08:08:23.675536+00:00"
     },
     {
       "id": "36884007f596ebf654343ed2b84d8643d8b31793dfb652db288bdb07b6a9dbea",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:04.037474+00:00"
+      "collected_at": "2026-07-19T08:08:22.152974+00:00"
     },
     {
       "id": "c392e3bfffde300fb444ce1aeeb1889c8120d86b9cf283a18c4f8fb4ade3dd93",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-19T07:56:04.037567+00:00"
+      "collected_at": "2026-07-19T08:08:22.153072+00:00"
     }
   ]
 }
