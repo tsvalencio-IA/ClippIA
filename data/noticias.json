@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-18T21:45:02.271031+00:00",
+  "updated_at": "2026-07-19T01:27:44.873910+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-18T21:44:46.774745+00:00"
-    },
-    {
-      "id": "b120fd10e2084449ba34ffa527c4d6713c31ec983b65ac6d20479e09a9ec8c14",
-      "title": "Furto de cabos deixa passarela da SP-310 sem iluminação em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUdhVlkyYWdDLVRhRUU4UTZ6NVd6MHNlU0NpZGQwVkxwaDBqZlVYa0JJSUNKdGdpU2UxWGp0dEZvMGdkQjVJWmVmUGNkSHJwamdtRlE5RjRiU3ppdWh2MmtlZWFUZjJKR3lHMUc4dzAwenlvYWhkT1JxbU0xLWFTanNJQkhLZU9vaTRwclpETHZ5MEJKTFJkMGR4U0Q?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-17T23:23:20+00:00",
-      "published_raw": "Fri, 17 Jul 2026 23:23:20 GMT",
-      "snippet": "Furto de cabos deixa passarela da SP-310 sem iluminação em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-18T21:44:46.774643+00:00"
+      "collected_at": "2026-07-19T01:27:29.753907+00:00"
     }
   ]
 }
