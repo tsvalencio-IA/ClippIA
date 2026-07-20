@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-20T05:58:27.545052+00:00",
+  "updated_at": "2026-07-20T06:12:52.960014+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-20T05:58:10.492629+00:00"
+      "collected_at": "2026-07-20T06:12:37.872434+00:00"
+    },
+    {
+      "id": "6a93911237376ed25e7b86fa7fa26e44a7ad4e17c806bc78994bf810e0bd4399",
+      "title": "Defesa Civil de Ibaté atua no combate a incêndio em canavial - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHJKU201NjV3SzNFQUJDU2U5TS1NaXBHU21Wc0wzdDNKdlc1ZV9VelpldWJ0OHotdVdPd25wajg0YmdMYzFTanllN3NNUDNaS3pGWU1TaGszTTZ3TWNuV1BvSjB6T2tlUnozWDJaN3ZMUEdXNlF6bTNKZWdEUHBCRXU1V3VabllpaXhWVTh0cWtWcFpwcEdjWGlB0gGaAUFVX3lxTE1QckpTbTU2NXdLM0VBQkNTZTlNLU1pcEdTbVZzTDN0M0p2VzVlX1V6WmV1YnQ4ei11V093bnBqODRiZ0xjMVNqeWU3c01QM1pLekZZTVNoazNNNndNY25XUG9KMHpPa2VSejNYMlo3dkxQR1c2UXptM0plZ0RQcEJFdTVXdVpuWWlpeFZVOHRxa1ZwWnBwR2NYaUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-19T13:44:35+00:00",
+      "published_raw": "Sun, 19 Jul 2026 13:44:35 GMT",
+      "snippet": "Defesa Civil de Ibaté atua no combate a incêndio em canavial - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-20T06:12:39.411460+00:00"
     }
   ]
 }
