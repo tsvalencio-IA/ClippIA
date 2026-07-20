@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-07-20T16:24:39.826744+00:00",
+  "updated_at": "2026-07-20T19:22:52.422564+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 1,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 1,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,23 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "02041978cac38c3a5b22fa33ba7d57d01dff54afc57ffa837106b79eb4d37267",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 20/7 a 26/7/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3N6VDJWSHlFNkhKdHZUSlpjSTNJR3ctU3BEV1NtRnpyNWxQOWk1MlJVV29xVXh1bzlTOGVucHNpT0pIY3FhWEcxY3YxWUpUcklPaTI4YTJiaTk5ai01eUJZTkFsbXJJWjNzdEtqRnp6cXlCanpzYi1oTlhkdkpvakRreXpDMksySzFXLVpjQmZKTEZKSEpSbC1ZQzhCRmxiOUY5ZXNuSncyMWJOc3NxYjFxOHVyQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-20T16:13:47+00:00",
+      "published_raw": "Mon, 20 Jul 2026 16:13:47 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 20/7 a 26/7/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-20T19:22:36.858323+00:00"
+    }
+  ]
 }
