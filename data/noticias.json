@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T19:13:13.197333+00:00",
+  "updated_at": "2026-07-21T21:53:31.397923+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "17f864ce5b06b4418a33e9c32ad2b32a95f333e90c5d1c2921ccd2a84aee4874",
+      "title": "Esquema duvidoso de exames oftalmológicos em ônibus itinerantes ameaça saúde e economia em cidades do noroeste paulista - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2s2V3hwNW05b1Zpd1ZwT1lpeXVkM2ZEcmliZzJaYXpRQ0wyTnRsMlBFR3ZXR3FkYTFTbXdJa09IWVhaNGtOSVoxWGdESXA0SVdhZWJDd1RrYmdYYVlXeURjb0pQTFhIUDBudUF6SlI2TWUxeFR0OFFxNElBaUFSSVYyYkdvUnc0SnMxNDBmei1Rb280bjhfN0dnUUU5YTloTWZsNmM4ekZvdWpNbzhlS2FmY1kwamRtYnAwYWdSdndpSlRidm9BME9yZ0JOVFhLVHRKLXc1alVYNVBGODBISw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-21T17:40:00+00:00",
+      "published_raw": "Tue, 21 Jul 2026 17:40:00 GMT",
+      "snippet": "Esquema duvidoso de exames oftalmológicos em ônibus itinerantes ameaça saúde e economia em cidades do noroeste paulista Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-21T21:53:15.617327+00:00"
+    },
+    {
       "id": "59744ae27e45f37dac3ffe9267943dbd9171222fd124e6b25329b2bff64fd6ff",
       "title": "Ecovias Noroeste Paulista divulga cronograma de obras e melhorias em rodovias da região até domingo - Votunews",
       "source": "Votunews",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T19:13:08.549535+00:00"
+      "collected_at": "2026-07-21T21:53:26.736143+00:00"
     },
     {
       "id": "d293df19cc9ab63df18774c30ff39771b84b3d8b74adcfb62251235a22d3ee3d",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T19:12:57.804109+00:00"
+      "collected_at": "2026-07-21T21:53:15.617233+00:00"
     },
     {
       "id": "3147712520a596b189e23195b2ef54f1e09470df7964fc83603183b075c89e9b",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T19:12:57.804002+00:00"
-    },
-    {
-      "id": "73a804beabaa2e2ff9b1e743778e23fec17b2f6ac130e47a5bd9d9529898def7",
-      "title": "Obras na Washington Luís já travam saída de Mirassol para Rio Preto; veja horários - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2J5R3c0TXluSEIyMFZtX0o0OUpoc1VpWEwyMGJXS0wwbG50ZXY3ZzYxOE9EVW80TDlxSjdIOXptSHd6a0JmQ2U1ZTNwUkhfa2lNZWxwMFM0Nkc3TWIxaDNlMnE0ajhxTG5JaEo4ZTdHbzJmX1dPb29hWllnai1fN1gyVkNrRElFd24xZTBQaGlSMHVhMDdyTnZrdEpQU3FZdUV3eTdHbXp2elBzcFBtdFlySmdTNHF3N1VlT2czYzJvOHZQR00yeTBmRjAtNXhWcF9Ibw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T20:35:00+00:00",
-      "published_raw": "Mon, 20 Jul 2026 20:35:00 GMT",
-      "snippet": "Obras na Washington Luís já travam saída de Mirassol para Rio Preto; veja horários Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T19:12:57.804205+00:00"
+      "collected_at": "2026-07-21T21:53:15.617126+00:00"
     }
   ]
 }
