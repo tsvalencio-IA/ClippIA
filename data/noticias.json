@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-21T16:19:43.484001+00:00",
+  "updated_at": "2026-07-21T19:01:36.788259+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 4,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T16:19:38.569088+00:00"
+      "collected_at": "2026-07-21T19:01:31.884006+00:00"
     },
     {
       "id": "d293df19cc9ab63df18774c30ff39771b84b3d8b74adcfb62251235a22d3ee3d",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.968935+00:00"
+      "collected_at": "2026-07-21T19:01:20.199820+00:00"
     },
     {
       "id": "3147712520a596b189e23195b2ef54f1e09470df7964fc83603183b075c89e9b",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.969441+00:00"
+      "collected_at": "2026-07-21T19:01:20.199629+00:00"
     },
     {
       "id": "73a804beabaa2e2ff9b1e743778e23fec17b2f6ac130e47a5bd9d9529898def7",
@@ -111,92 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.969532+00:00"
-    },
-    {
-      "id": "ceda4a979c9d657bd942c3e5ee3ec75f61cdf8525b054c60a2be89cf959f012a",
-      "title": "Adolescente procurado por roubo é apreendido em imóvel abandonado - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzJfNkU0R2JucmE0Z1prZlA0aGNxZnBMLS00LW9ybmxZUUlLVmRFYTFvWVFiZ3hlTkNzalJGRTVKZGxuM1AzRUNQclFmR0laRU9aQVN5YklrTW5pTFg5Q2RDaGk1NlFXMFZFN3NEZGRyWmdzdW9fLVJPWkZxTHRJTlo2YzY4ejFTR09NNFJSYmYwLS0xTmtfZzRHcXZVdWVL0gGgAUFVX3lxTE1vMl82RTRHYm5yYTRnWmtmUDRoY3FmcEwtLTQtb3JubFlRSUtWZEVhMW9ZUWJneGVOQ3NqUkZFNUpkbG4zUDNFQ1ByUWZHSVpFT1pBU3liSWtNbmlMWDlDZENoaTU2UVcwVkU3c0RkZHJaZ3N1b18tUk9aRnFMdElOWjZjNjh6MVNHT000UlJiZjAtLTFOa19nNEdxdlV1ZUs?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T18:45:40+00:00",
-      "published_raw": "Mon, 20 Jul 2026 18:45:40 GMT",
-      "snippet": "Adolescente procurado por roubo é apreendido em imóvel abandonado - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.968868+00:00"
-    },
-    {
-      "id": "9d4b4e3ee6f74a087d4f83f42cbc6684953f3ee6fa3ddfa1bdd9606f7268acf6",
-      "title": "Partido Missão oficializa Renan Santos como candidato à Presidência em 2026 - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWk11ZVRtWjFyUUdERTE2NGEtczVIcWtZTFM5ZDMwc1NseEtZdFptcUl0MUVLMHZJX21yMzNtZzE0Y0xrem9SbkdFZmdsYWppZl9RSXhBUVZ3T2FVYVlfWkhycEIwbW5SZlhHdWdJRHNNcVZkQ2VWeVc5SW5BVjQ2bWpnOERtSy1wbHh5WnZoeFRlVWdyYUtNZmxUbkVXcmZHTkZrano2bGtwbFFTMnfSAa4BQVVfeXFMTVpNdWVUbVoxclFHREUxNjRhLXM1SHFrWUxTOWQzMHNTbHhLWXRabXFJdDFFSzB2SV9tcjMzbWcxNGNMa3pvUm5HRWZnbGFqaWZfUUl4QVFWd09hVWFZX1pIcnBCMG1uUmZYR3VnSURzTXFWZENlVnlXOUluQVY0Nm1qZzhEbUstcGx4eVp2aHhUZVVncmFLTWZsVG5FV3JmR05Ga2p6NmxrcGxRUzJ3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T18:33:39+00:00",
-      "published_raw": "Mon, 20 Jul 2026 18:33:39 GMT",
-      "snippet": "Partido Missão oficializa Renan Santos como candidato à Presidência em 2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.969001+00:00"
-    },
-    {
-      "id": "2483e8146f11658927e5179e691be7200fc1707090fc49c742e425ec47f05366",
-      "title": "Primeira Festa do Milho promovida pela Prefeitura de Ibaté reuniu milhares de pessoas no final de semana - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ09kS0VxUnRCX29QcmFDVEdoX3pYMXNFSUxjcUNlall3cmkyc1hCSU01YS0xVGRNNmVSYWs2ak50eUFCckM0QjN4WlR6Y3IyWkU1LTdZQXJ0YUtrTGNTNGF6bnZMamdmNXJ3R2FzUnV6NFkxVzNlYkdDV1lTOW1oXzRGOVBEV29KZjMtZlQ3RUdzRzNNeG96VnpvV2JudGFLZWl2aG5xS0VlVDdYd0g2Ukw0WmQyTDhpWmJVdlFURUc1UTR5U2l5anNqNzhMam1rWlJBTVlUdUxfdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T17:38:15+00:00",
-      "published_raw": "Mon, 20 Jul 2026 17:38:15 GMT",
-      "snippet": "Primeira Festa do Milho promovida pela Prefeitura de Ibaté reuniu milhares de pessoas no final de semana Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.968795+00:00"
-    },
-    {
-      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0dYQVRTTlFlY2ZSN0JtZmdibVI0b29xcHRjOUFEWVBaZUQ4NVdTVUFEVEFpeEpPUkJrLTVpd0daZzRoYmlZVFJpVWZVX0lpcFgwMDhfUkNiYmRnc0FPV0dQdTctcklqR2czTTM2a3ZhSHBXTXd5OThKRzRkOWFCTnNvNFltUW5fVHlLbm1uV2pEWGt0?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T17:03:22+00:00",
-      "published_raw": "Mon, 20 Jul 2026 17:03:22 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
-      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T16:19:41.358576+00:00"
-    },
-    {
-      "id": "556f3c739207b53c968b410900d6b27c8149ec8cf3943bfe195745fea7fad6f5",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 20/7 a 26/7/2026 - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0hySHRxUTBkaS1IWmtTYXBQanpNYXQ3aW1IUEhiLWRaVVhOZDB0ejRESEpHYUdEM3lGckw5RUxFY3VzT2JQTUQ0VHBSbTZHcE5nejd6Zkx4eW5OdDl2M1VpSXdkODJnN041N0JwRGFEbG16SEpySjdpSlhNbHJTQWRleUp1OFozdDJqeTNuWXJvaUtSS3U2cUZoNWZVMFY1THJNdVdIWVFpaVHSAasBQVVfeXFMUGtIckh0cVEwZGktSFprU2FwUGp6TWF0N2ltSFBIYi1kWlVYTmQwdHo0REhKR2FHRDN5RnJMOUVMRWN1c09iUE1ENFRwUm02R3BOZ3o3emZMeHluTnQ5djNVaUl3ZDgyZzdONTdCcERhRGxtekhKcko3aUpYTWxyU0FkZXlKdThaM3Qyankzbllyb2lLUkt1NnFGaDVmVTBWNUxyTXVXSFlRaWlR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T16:44:49+00:00",
-      "published_raw": "Mon, 20 Jul 2026 16:44:49 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 20/7 a 26/7/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T16:19:25.968691+00:00"
+      "collected_at": "2026-07-21T19:01:20.199938+00:00"
     }
   ]
 }
