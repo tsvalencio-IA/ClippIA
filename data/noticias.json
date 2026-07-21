@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-21T08:19:37.277782+00:00",
+  "updated_at": "2026-07-21T10:55:29.329655+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 8,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "d293df19cc9ab63df18774c30ff39771b84b3d8b74adcfb62251235a22d3ee3d",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras e melhorias em rodovias da região até domingo - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnd1RmFhVFJtbHFJN0QxdWJ3Q1c0dkxHS25fR0s2V0pUMU05dzh1d3NyRktxM21SLURLQ0NZWUpiLS1WQ2VDSG8xVGZjbkRzSUdKd2o5eGNaSGJDTHMxMGhxR09aQlpoMkRkM2gzcFFXeVFzUVlMLW90MDRaYTBMcFlkU2Q3VWtka2dLcmZmODZLQVphZlVFSERGNnZDOV9kVHlNMDkxMGptTzAxNWZJVFpsYlFzUEJONWplMzRjVXgzUGVzNmc?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-21T09:01:00+00:00",
+      "published_raw": "Tue, 21 Jul 2026 09:01:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras e melhorias em rodovias da região até domingo Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-21T10:55:13.801725+00:00"
+    },
+    {
       "id": "73a804beabaa2e2ff9b1e743778e23fec17b2f6ac130e47a5bd9d9529898def7",
       "title": "Obras na Washington Luís já travam saída de Mirassol para Rio Preto; veja horários - Portal da Cidade - Mirassol / SP",
       "source": "Portal da Cidade - Mirassol / SP",
@@ -54,13 +71,13 @@
       "published": "2026-07-20T20:35:00+00:00",
       "published_raw": "Mon, 20 Jul 2026 20:35:00 GMT",
       "snippet": "Obras na Washington Luís já travam saída de Mirassol para Rio Preto; veja horários Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107879+00:00"
+      "collected_at": "2026-07-21T10:55:23.627546+00:00"
     },
     {
       "id": "ceda4a979c9d657bd942c3e5ee3ec75f61cdf8525b054c60a2be89cf959f012a",
@@ -71,13 +88,13 @@
       "published": "2026-07-20T18:45:40+00:00",
       "published_raw": "Mon, 20 Jul 2026 18:45:40 GMT",
       "snippet": "Adolescente procurado por roubo é apreendido em imóvel abandonado - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107594+00:00"
+      "collected_at": "2026-07-21T10:55:13.801646+00:00"
     },
     {
       "id": "9d4b4e3ee6f74a087d4f83f42cbc6684953f3ee6fa3ddfa1bdd9606f7268acf6",
@@ -88,13 +105,13 @@
       "published": "2026-07-20T18:33:39+00:00",
       "published_raw": "Mon, 20 Jul 2026 18:33:39 GMT",
       "snippet": "Partido Missão oficializa Renan Santos como candidato à Presidência em 2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107677+00:00"
+      "collected_at": "2026-07-21T10:55:13.801805+00:00"
     },
     {
       "id": "2483e8146f11658927e5179e691be7200fc1707090fc49c742e425ec47f05366",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107505+00:00"
+      "collected_at": "2026-07-21T10:55:13.801559+00:00"
     },
     {
       "id": "02041978cac38c3a5b22fa33ba7d57d01dff54afc57ffa837106b79eb4d37267",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107388+00:00"
+      "collected_at": "2026-07-21T10:55:13.801442+00:00"
     },
     {
       "id": "e5c4c8e15f5fa4423ef8f404464d5f18a563dcc6a300240c59147a1e36fc6a7d",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:22.107790+00:00"
+      "collected_at": "2026-07-21T10:55:13.801917+00:00"
     },
     {
       "id": "60fbee1098645cd9fbf6bbaeec9a0f51e6bff80d7117a00a66847705728510c2",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T08:19:31.206779+00:00"
+      "collected_at": "2026-07-21T10:55:23.115402+00:00"
     }
   ]
 }
