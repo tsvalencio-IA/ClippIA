@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-07-22T21:58:51.076055+00:00",
+  "updated_at": "2026-07-22T22:01:02.231988+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 4,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 4,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,74 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "2c8d76099e32fe1b7e66a9c6dfe725d204c6fef5ba05374d0fe176871d5f5187",
+      "title": "Obras deixam trânsito lento na Washington Luís entre Rio Preto e Mirassol - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDRZbDZZeDZKbmhTYWE0OWlWRWRpaXpBRVdmMEVqbi03TDV5MUhNcnZxY3QzVlpkQzc5Vzgyc2ZMNVo5QW5ISXZWT05rQjNYYjNHMWwzejV6NEZyQU53dEtOelpzbG03SW8xQUlwQ3RkVmtzVDNFdDF1VG9hNUdDQUs0R1VXaG5QUEQyM1VaOERxUmx6b0hDTmZIcTlzdTcwZjZUT2hyaGw4WThBSllXbw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-22T15:06:08+00:00",
+      "published_raw": "Wed, 22 Jul 2026 15:06:08 GMT",
+      "snippet": "Obras deixam trânsito lento na Washington Luís entre Rio Preto e Mirassol gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T22:00:46.171993+00:00"
+    },
+    {
+      "id": "22801bc5ef8549b06e42cfb8516c12c44657ca70bbbe894e01cb5636700daee5",
+      "title": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho - agenciasp.sp.gov.br",
+      "source": "agenciasp.sp.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmktYk1nMFV0WFEwYkc1NGV6c0xDVk5Na3cyUVZtU1E0R3BKdnRpU2NJR0F0RXFRTmozV0JYTmw0Q01YSGgxaEs0Z2xFZWo2d1d6T1dZdGt5bVhRZWJaSDJ2ejJZOWlndjhjNGtsbno3eURZcVZCU2t6WmlKd2dZSnhMWmN0X3FhM25temVrWHZZT0YwenUyREE1TjNzaHdRbVZJZ2ZCMmNzT294RTI5X3ByVXNzTjF1REdWdE8tZER5U05EbEZwbUY5bUJSekE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-22T13:16:01+00:00",
+      "published_raw": "Wed, 22 Jul 2026 13:16:01 GMT",
+      "snippet": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho agenciasp.sp.gov.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T22:00:46.171861+00:00"
+    },
+    {
+      "id": "cf47d5eaf7927d41cbfa7bebe88cd8766f432b031e7788a677362ca71fb8762d",
+      "title": "Sertãozinho (SP) oferece curso gratuito de prevenção a incêndios florestais - JornalCana",
+      "source": "JornalCana",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWZMWGVfNWVrRWJQQXBxUjJybTZsTTVTaGx5cVIxdW5nem1PMi13Q2FjanN4cXcwVTN6ZTdJY0JEd0F5R28wbnNqWThBMWU5UEpNdHJmM3lLYjliaU5rd2RFWDBzTnZVb1UyQjExNkdKOXlBZFRXQ1BNZ0YyZ2NXUjNwQTlIQkE1TjRIeXUzYjRRQklOQlpWRTFOSlpPOHZTS1hVNFJwSXY0dVZjYzI1ZDJBc0VsQmdicF9tRQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-22T11:38:54+00:00",
+      "published_raw": "Wed, 22 Jul 2026 11:38:54 GMT",
+      "snippet": "Sertãozinho (SP) oferece curso gratuito de prevenção a incêndios florestais JornalCana",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T22:00:46.171930+00:00"
+    },
+    {
+      "id": "c57c9467f16c6006b991d0ec45ddc93d9b01d0e1ba97eed5414874946bd2b96b",
+      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até 25 de julho - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSXJzTC1kNWsyeW5XQ1BHSnV6QTd6SnoxMWtTWVc4OUozRUU3VjYyclNITExuT0NzUEdMUEFuTm9IMkJOX0RKVll3aGVaVlhtejJrbmhqSmRDWVZrOVFEYk9QQndMM0dwc29OekJSblYtb1M4RGVyeXUyc042eUFoMDUydE9WQ2lrS01ONF9uMTJHZGVJNjdtZks3Nlg2N0gtbUV5NUhzYWpuZV9lV3dtQkZFZFZ1M1JVZGpaQVE5bzJkU3QtQUQ4R1ZHTmJKN19EbFd0NW9NRWw0YnhaYS1HTlJRUGxzQVBka3NMaXhUWTZYMTd4WnFhM1lUMmtyUmtTSzJZU2FZVG1aQdIBjwJBVV95cUxOYktvNC1yVkx2UEJKNUJIN01kX3RWR3AxcnFUZGZkX1RVT2I5S0pINnEydWdqNXpGbmdzdWNlTGxwX1NESjhBWWRPaUo5NHpOYnQ3OW1pR0U3cHcwRjFRVlNYejhZbTBpLU1uUmZtbGJCemtxb1NLSlFzcTNqU3NWYkV4OXdFNVAzSjVjdklMLVRpeFlRNXNWWlZqaHhIZ1pHSy1zNDRHN1B1VTFPRDlsU0VneHV4TldrSERxXzdpRGhrVWNOdmxFNE9jQ0xUMWVTS2RIQlFJTktKSzlzc0NwbS1SWjZXQ2ZtTzZkeUpvY0Eza2RqN2hkdk9CeEFTUktrdGFidWk1Y3poQ2lZZi1N?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-21T22:05:09+00:00",
+      "published_raw": "Tue, 21 Jul 2026 22:05:09 GMT",
+      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até 25 de julho Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T22:00:46.171762+00:00"
+    }
+  ]
 }
