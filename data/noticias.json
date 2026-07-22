@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-22T13:40:30.140823+00:00",
+  "updated_at": "2026-07-22T16:13:02.761017+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:40:14.052940+00:00"
+      "collected_at": "2026-07-22T16:12:45.067825+00:00"
     },
     {
       "id": "cf47d5eaf7927d41cbfa7bebe88cd8766f432b031e7788a677362ca71fb8762d",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:40:14.053017+00:00"
+      "collected_at": "2026-07-22T16:12:45.067908+00:00"
     },
     {
       "id": "c57c9467f16c6006b991d0ec45ddc93d9b01d0e1ba97eed5414874946bd2b96b",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:40:14.052834+00:00"
-    },
-    {
-      "id": "59744ae27e45f37dac3ffe9267943dbd9171222fd124e6b25329b2bff64fd6ff",
-      "title": "Ecovias Noroeste Paulista divulga cronograma de obras e melhorias em rodovias da região até domingo - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGpHdi1VYlpUUDVOLXgzblhLNkotZTJfSGtaNXRTNUN4cThYS0prQS1wZ01PTHZzRzNXR2tmVDVkQWdkQndyX0hhVHFCU01VNzZLaVRmSWxwbkJHQXFETFVabXh6Yy1vdlY1TmQwdEhMbWZUeEFfVHk3QjRQZE5mTE1nMTZSS2ZtQ2J3d0xueHNYdzhObDhldFlnTFZlSTBGV29IQU93SURKZDY2SF9JVTBNMjZWUlBJdVBLTWhqV1IyTzNoWktn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-21T13:54:00+00:00",
-      "published_raw": "Tue, 21 Jul 2026 13:54:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras e melhorias em rodovias da região até domingo Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-22T13:40:14.053139+00:00"
+      "collected_at": "2026-07-22T16:12:45.067714+00:00"
     }
   ]
 }
