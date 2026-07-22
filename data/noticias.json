@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-22T13:19:09.301317+00:00",
+  "updated_at": "2026-07-22T13:40:30.140823+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "22801bc5ef8549b06e42cfb8516c12c44657ca70bbbe894e01cb5636700daee5",
+      "title": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho - agenciasp.sp.gov.br",
+      "source": "agenciasp.sp.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmktYk1nMFV0WFEwYkc1NGV6c0xDVk5Na3cyUVZtU1E0R3BKdnRpU2NJR0F0RXFRTmozV0JYTmw0Q01YSGgxaEs0Z2xFZWo2d1d6T1dZdGt5bVhRZWJaSDJ2ejJZOWlndjhjNGtsbno3eURZcVZCU2t6WmlKd2dZSnhMWmN0X3FhM25temVrWHZZT0YwenUyREE1TjNzaHdRbVZJZ2ZCMmNzT294RTI5X3ByVXNzTjF1REdWdE8tZER5U05EbEZwbUY5bUJSekE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-22T13:16:01+00:00",
+      "published_raw": "Wed, 22 Jul 2026 13:16:01 GMT",
+      "snippet": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho agenciasp.sp.gov.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T13:40:14.052940+00:00"
+    },
+    {
       "id": "cf47d5eaf7927d41cbfa7bebe88cd8766f432b031e7788a677362ca71fb8762d",
       "title": "Sertãozinho (SP) oferece curso gratuito de prevenção a incêndios florestais - JornalCana",
       "source": "JornalCana",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:18:53.590275+00:00"
+      "collected_at": "2026-07-22T13:40:14.053017+00:00"
     },
     {
       "id": "c57c9467f16c6006b991d0ec45ddc93d9b01d0e1ba97eed5414874946bd2b96b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:18:53.590181+00:00"
+      "collected_at": "2026-07-22T13:40:14.052834+00:00"
     },
     {
       "id": "59744ae27e45f37dac3ffe9267943dbd9171222fd124e6b25329b2bff64fd6ff",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-22T13:18:53.590435+00:00"
+      "collected_at": "2026-07-22T13:40:14.053139+00:00"
     }
   ]
 }
