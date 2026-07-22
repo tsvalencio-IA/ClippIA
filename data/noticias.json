@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:00:34.012849+00:00",
+  "updated_at": "2026-07-22T01:26:23.085197+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "c57c9467f16c6006b991d0ec45ddc93d9b01d0e1ba97eed5414874946bd2b96b",
+      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até 25 de julho - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYktvNC1yVkx2UEJKNUJIN01kX3RWR3AxcnFUZGZkX1RVT2I5S0pINnEydWdqNXpGbmdzdWNlTGxwX1NESjhBWWRPaUo5NHpOYnQ3OW1pR0U3cHcwRjFRVlNYejhZbTBpLU1uUmZtbGJCemtxb1NLSlFzcTNqU3NWYkV4OXdFNVAzSjVjdklMLVRpeFlRNXNWWlZqaHhIZ1pHSy1zNDRHN1B1VTFPRDlsU0VneHV4TldrSERxXzdpRGhrVWNOdmxFNE9jQ0xUMWVTS2RIQlFJTktKSzlzc0NwbS1SWjZXQ2ZtTzZkeUpvY0Eza2RqN2hkdk9CeEFTUktrdGFidWk1Y3poQ2lZZi1N0gGPAkFVX3lxTE5iS280LXJWTHZQQko1Qkg3TWRfdFZHcDFycVRkZmRfVFVPYjlLSkg2cTJ1Z2o1ekZuZ3N1Y2VMbHBfU0RKOEFZZE9pSjk0ek5idDc5bWlHRTdwdzBGMVFWU1h6OFltMGktTW5SZm1sYkJ6a3FvU0tKUXNxM2pTc1ZiRXg5d0U1UDNKNWN2SUwtVGl4WVE1c1ZaVmpoeEhnWkdLLXM0NEc3UHVVMU9EOWxTRWd4dXhOV2tIRHFfN2lEaGtVY052bEU0T2NDTFQxZVNLZEhCUUlOS0pLOXNzQ3BtLVJaNldDZm1PNmR5Sm9jQTNrZGo3aGR2T0J4QVNSS2t0YWJ1aTVjemhDaVlmLU0?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-21T22:00:00+00:00",
+      "published_raw": "Tue, 21 Jul 2026 22:00:00 GMT",
+      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até 25 de julho Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-22T01:26:07.299668+00:00"
+    },
+    {
       "id": "17f864ce5b06b4418a33e9c32ad2b32a95f333e90c5d1c2921ccd2a84aee4874",
       "title": "Esquema duvidoso de exames oftalmológicos em ônibus itinerantes ameaça saúde e economia em cidades do noroeste paulista - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T22:00:17.960197+00:00"
+      "collected_at": "2026-07-22T01:26:07.299938+00:00"
     },
     {
       "id": "59744ae27e45f37dac3ffe9267943dbd9171222fd124e6b25329b2bff64fd6ff",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T22:00:29.298335+00:00"
+      "collected_at": "2026-07-22T01:26:18.357961+00:00"
     },
     {
       "id": "d293df19cc9ab63df18774c30ff39771b84b3d8b74adcfb62251235a22d3ee3d",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-21T22:00:17.960120+00:00"
-    },
-    {
-      "id": "3147712520a596b189e23195b2ef54f1e09470df7964fc83603183b075c89e9b",
-      "title": "Casal descobre cartão na avenida e “vida à dois” fica mais gostosa - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3l5bV9nbi1heHRBeGxaRnVLS29Gc3VOelh5UXY2dmxrcUt6WlUtM3dPNzE4MjNMOFFfN3VJUFNWZ1VHQmZHV0p4MVBqbjhyMkhyWjdhWWpEbzFra0VSMWZlTURZMXpJOEJhZkw5T3VQc1YxYTFRdWNZU19wYXpMdGVERm9RbWZhd3FFV2c5R0IzWGt0cmJ4QndtVnFiajjSAZ8BQVVfeXFMUDd5eW1fZ24tYXh0QXhsWkZ1S0tvRnN1TnpYeVF2NnZsa3FLelpVLTN3TzcxODIzTDhRXzd1SVBTVmdVR0JmR1dKeDFQam44cjJIclo3YVlqRG8xa2tFUjFmZU1EWTF6SThCYWZMOU91UHNWMWExUXVjWVNfcGF6THRlREZvUW1mYXdxRVdnOUdCM1hrdHJieEJ3bVZxYmo4?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-20T22:52:11+00:00",
-      "published_raw": "Mon, 20 Jul 2026 22:52:11 GMT",
-      "snippet": "Casal descobre cartão na avenida e “vida à dois” fica mais gostosa - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-21T22:00:17.960021+00:00"
+      "collected_at": "2026-07-22T01:26:07.299818+00:00"
     }
   ]
 }
