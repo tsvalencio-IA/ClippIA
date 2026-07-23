@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-23T13:46:15.334307+00:00",
+  "updated_at": "2026-07-23T16:18:24.642416+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,40 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "2c8d76099e32fe1b7e66a9c6dfe725d204c6fef5ba05374d0fe176871d5f5187",
-      "title": "Obras deixam trânsito lento na Washington Luís entre Rio Preto e Mirassol - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWDRZbDZZeDZKbmhTYWE0OWlWRWRpaXpBRVdmMEVqbi03TDV5MUhNcnZxY3QzVlpkQzc5Vzgyc2ZMNVo5QW5ISXZWT05rQjNYYjNHMWwzejV6NEZyQU53dEtOelpzbG03SW8xQUlwQ3RkVmtzVDNFdDF1VG9hNUdDQUs0R1VXaG5QUEQyM1VaOERxUmx6b0hDTmZIcTlzdTcwZjZUT2hyaGw4WThBSllXbw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-22T15:06:08+00:00",
-      "published_raw": "Wed, 22 Jul 2026 15:06:08 GMT",
-      "snippet": "Obras deixam trânsito lento na Washington Luís entre Rio Preto e Mirassol gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-23T13:45:59.024465+00:00"
-    },
-    {
-      "id": "3c7a416d774a766785f4e6bac4d0291cde09c431c92994d7baa24f25ad470cc3",
-      "title": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho - Grupo Portal de Notícias",
-      "source": "Grupo Portal de Notícias",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenRCVnozNmtzNXIzUHBWdTAzaEVQWV9KNmo3dFVaWklyNi1TRGwzTjFBVE93NjNfSjNSY2FnMXpUX1hpd25xdmdKUHpSbGtSa0p1dDBEdm01aDVyX0xmcHFOYnZHVUNZU2l2RmkzWnA3eUdONF9kYk1zYXhvRklVVTJ4b3lIYjIybXcyU1dFTnNfRHZtTGdQN3JQWjhaSnZ2d2pIQW40VXpCY3Z5dWw1VVRpR0hNWVBBbDVZNmZvYTBCaHRCNlI4QndhMnhjTG1zSjRObUNB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-22T13:48:41+00:00",
-      "published_raw": "Wed, 22 Jul 2026 13:48:41 GMT",
-      "snippet": "Curso gratuito sobre prevenção e combate a incêndios florestais tem inscrições abertas em Sertãozinho Grupo Portal de Notícias",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-23T13:45:59.024364+00:00"
-    }
-  ]
+  "items": []
 }
