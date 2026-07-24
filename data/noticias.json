@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-07-24T13:18:35.719812+00:00",
+  "updated_at": "2026-07-24T13:26:39.000999+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 2,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 2,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,40 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "b4e4c4afbb049d4e1068cf7ff32a3eb1bbe12804308142122c59a06348869a0c",
+      "title": "Acidente entre caminhões e carro causa interdição total da Washington Luís em Catiguá - THMais",
+      "source": "THMais",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXNuYzUwLUIzN0FSQXI2Rm9XRzM0SUJZUGkzYzIydHlfdFlzLXNPdFRZSF9CMUhya1J3cmFyemo2Y21FTXpGRGt0OHpnZm1MQzdzeEticjR0QU1PbWRlSFhnRzBySjJTOEtva3R4WnlGWkZMbTFUNVhLYVJWZHNLZVU0RmtyeTBiVEN1NUdmanlzRXZIdlU5RnhtV2s0OUE5bkNHQkxyXzJPamlod3FXVWFHVnFPZTUwdnJyOWNubTltbkVyb1hDSDZqWlVyS2U0dXlzbFJnQ3hVZzNN?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-24T13:21:49+00:00",
+      "published_raw": "Fri, 24 Jul 2026 13:21:49 GMT",
+      "snippet": "Acidente entre caminhões e carro causa interdição total da Washington Luís em Catiguá THMais",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-24T13:26:22.535135+00:00"
+    },
+    {
+      "id": "a8211990bb77180bf406d5796bbad6733dabd1eaf0244297ef32df6e14358a11",
+      "title": "Duas pessoas ficam feridas após a batida entre dois caminhões em Catiguá - band.com.br",
+      "source": "band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0RlMmJwd25PRE5hLV9GcjJGVDU0d2gzUVlNRlVLb3U0SU5NZWJPeWtHUnNPMjlkOENKc0xBQlNfanhTOHVEdWdhTkRWbmNwMWZZWDIwM2R2RS1XTHZ6U2RJN2JoWTNrS2hfNnFPd1ktdWJoMVhlWG9uWmFRNFFLMHVqV3JBWDBsbWhLZU5oUWhSc3BjV1U3a2ZLMmxralZ6ODZobkk3YW5ud0RNeXdxNndVMVJoSnVWMjZ6QWJtR3NxVDI1bzZZZjdsMFktU1hMck1MZFVFckhjZ0tTWGJ4bFVGWTU3dw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-24T12:48:03+00:00",
+      "published_raw": "Fri, 24 Jul 2026 12:48:03 GMT",
+      "snippet": "Duas pessoas ficam feridas após a batida entre dois caminhões em Catiguá band.com.br",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-24T13:26:22.535221+00:00"
+    }
+  ]
 }
