@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-25T10:23:30.345617+00:00",
+  "updated_at": "2026-07-25T12:57:52.227516+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 5,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "f13dfc350938c7eb9f2d440ce1d7e318ea6337ff2bddd87cd0f77071983425d7",
+      "title": "Engavetamento entre carro e carreta interdita faixas na Rodovia Washington Luís - Grupo Rio Claro, São Paulo",
+      "source": "Grupo Rio Claro, São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDM4bVVoNDVjeEdJbDl5dVFicC1UTnpXS0NwbHFTcHlIbU9TcXRZLWxnWkZuaXk1bThTNHBuZlRCS0JZVngwUElFNmVDM0ZsNGlsQktzSU9tWmNRLUlGdXJlbmllNk9DdUJjb3IxUnI4MGF5dDNwZ3o1bGxELV9DVmg3blRBd2VZVkVmaXpQNUpFV3NwWGMtQy1JSkFOQzEyUENSSHdqaFZGaHNIY2ZxYTBMbS1iVkN3Y190ZVNGdUNPOUU?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-25T11:40:13+00:00",
+      "published_raw": "Sat, 25 Jul 2026 11:40:13 GMT",
+      "snippet": "Engavetamento entre carro e carreta interdita faixas na Rodovia Washington Luís Grupo Rio Claro, São Paulo",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-25T12:57:47.527572+00:00"
+    },
+    {
+      "id": "c3c78d2667cf35f6f5759969dd7f48bbaf85860230cda6856194cd7717562246",
+      "title": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzF4WU5GcHlWX0ZxdGdOTmVIdm1HQkhpeXJqNWlUOUt6a3czSk9hcklLWUtKTmNJNUthRTFiR1pNUWE5cWxhN3lVVVVsdFd0clZNWWFWRTFPalM5Ukg4SXIwSm83YTlFcFpseTZESVFNaGNpVWpNUEd1WjA5NmlSSEp2eXB0eExtYk15ZTVtY2RRVGRaVlZNWGxSVld5MlZvYzBzT043Rm9qMmhrdXd6M2N2dlk?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-25T11:25:00+00:00",
+      "published_raw": "Sat, 25 Jul 2026 11:25:00 GMT",
+      "snippet": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara Araraquara News",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-25T12:57:37.804400+00:00"
+    },
+    {
+      "id": "ab3af8b53708cf43be696edbe32eb22dcb8db017990a2a5f695a715b32e7dfbd",
+      "title": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0VyMk5uZExDdC03UlNSMHczZFFDRG1NbGEzVS1KTUZvVzVuZ1FRUlVJY0M2SnVHUjFwWHZXWEdIZjhVRzRtRmU1TTd0czE4cUVucXBQQjB2aHg1Q2RuX3lxeFFBX2VoYTd2aDFxT0VZUmxJUkNzX1pIOGFaM210eUNackVJa0ZhWHpHWE1aMF9rWHpSZUJmRi02bkgzVUFVQ0JUSEZMNlRGMGVEV2NGVE9HMTR1STZ4ZEHSAboBQVVfeXFMTTdFcjJObmRMQ3QtN1JTUjB3M2RRQ0RtTWxhM1UtSk1Gb1c1bmdRUVJVSWNDNkp1R1IxcFh2V1hHSGY4VUc0bUZlNU03dHMxOHFFbnFwUEIwdmh4NUNkbl95cXhRQV9laGE3dmgxcU9FWVJsSVJDc19aSDhhWjNtdHlDWnJFSWtGYVh6R1hNWjBfa1h6UmVCZkYtNm5IM1VBVUNCVEhGTDZURjBlRFdjRlRPRzE0dUk2eGRB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-25T10:16:59+00:00",
+      "published_raw": "Sat, 25 Jul 2026 10:16:59 GMT",
+      "snippet": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-25T12:57:37.804479+00:00"
+    },
+    {
       "id": "5ee78347a65bc097503b0a807531efc9ad656461e54665e46039d1db39c0e9f2",
       "title": "Engavetamento envolvendo três veículos na rodovia Washington Luís (SP-310) em Araraquara - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-25T10:23:16.758733+00:00"
+      "collected_at": "2026-07-25T12:57:37.804590+00:00"
     },
     {
       "id": "b4e4c4afbb049d4e1068cf7ff32a3eb1bbe12804308142122c59a06348869a0c",
@@ -77,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-25T10:23:15.734825+00:00"
-    },
-    {
-      "id": "a8211990bb77180bf406d5796bbad6733dabd1eaf0244297ef32df6e14358a11",
-      "title": "Duas pessoas ficam feridas após a batida entre dois caminhões em Catiguá - band.com.br",
-      "source": "band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0RlMmJwd25PRE5hLV9GcjJGVDU0d2gzUVlNRlVLb3U0SU5NZWJPeWtHUnNPMjlkOENKc0xBQlNfanhTOHVEdWdhTkRWbmNwMWZZWDIwM2R2RS1XTHZ6U2RJN2JoWTNrS2hfNnFPd1ktdWJoMVhlWG9uWmFRNFFLMHVqV3JBWDBsbWhLZU5oUWhSc3BjV1U3a2ZLMmxralZ6ODZobkk3YW5ud0RNeXdxNndVMVJoSnVWMjZ6QWJtR3NxVDI1bzZZZjdsMFktU1hMck1MZFVFckhjZ0tTWGJ4bFVGWTU3dw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-24T12:48:03+00:00",
-      "published_raw": "Fri, 24 Jul 2026 12:48:03 GMT",
-      "snippet": "Duas pessoas ficam feridas após a batida entre dois caminhões em Catiguá band.com.br",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-25T10:23:15.734733+00:00"
+      "collected_at": "2026-07-25T12:57:36.721246+00:00"
     }
   ]
 }
