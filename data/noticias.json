@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-26T10:40:51.364526+00:00",
+  "updated_at": "2026-07-26T12:55:13.360779+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "63b57290c6b47660c49baddc8cc3f2914de2a8686131b71a699e4430e3301763",
+      "title": "Motorista morre após Uno ser atingido por carreta na WL - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXpNbFczazIybjd2M3ZxZEhVb19MLV9veTVSUXNhMWhrTmFwNmVWdWlMbVYzNjZvellJeHBBZ0l3eTg5UHByV1o3b0JTNVFQMW8wQ0E2S1pRdVVVemRDTjlaVmpRazFpWEowY3FoVHhRcjM5Y1F4ZXdJejlvWHg4V1ItQjBacTB3blRmaENBVVRCeW93bXA1Y3p2VjlGUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-26T11:43:07+00:00",
+      "published_raw": "Sun, 26 Jul 2026 11:43:07 GMT",
+      "snippet": "Motorista morre após Uno ser atingido por carreta na WL Jornal Primeira Página",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-26T12:54:57.604743+00:00"
+    },
+    {
       "id": "c0823ba51b1519b146eee13698389af1a6b497063e6dbd7723e6a8891a5e0897",
       "title": "Motorista morre após carro derrapar e ser atingido por caminhão na Washington Luís - Diário da Região",
       "source": "Diário da Região",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T10:40:36.293942+00:00"
+      "collected_at": "2026-07-26T12:54:57.042449+00:00"
     },
     {
       "id": "2fb43ce9f5bd1e8a076d9880d1a7a1d4c4f273911a8069fc75d13d1e21e62fdf",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T10:40:36.293846+00:00"
+      "collected_at": "2026-07-26T12:54:57.042357+00:00"
     },
     {
       "id": "a488b1f36827ed20ac4e79ef44c8082817a25139a5bfadde346e7bb0f710569b",
@@ -94,41 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T10:40:36.294055+00:00"
-    },
-    {
-      "id": "c3c78d2667cf35f6f5759969dd7f48bbaf85860230cda6856194cd7717562246",
-      "title": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzF4WU5GcHlWX0ZxdGdOTmVIdm1HQkhpeXJqNWlUOUt6a3czSk9hcklLWUtKTmNJNUthRTFiR1pNUWE5cWxhN3lVVVVsdFd0clZNWWFWRTFPalM5Ukg4SXIwSm83YTlFcFpseTZESVFNaGNpVWpNUEd1WjA5NmlSSEp2eXB0eExtYk15ZTVtY2RRVGRaVlZNWGxSVld5MlZvYzBzT043Rm9qMmhrdXd6M2N2dlk?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T11:25:00+00:00",
-      "published_raw": "Sat, 25 Jul 2026 11:25:00 GMT",
-      "snippet": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T10:40:37.841864+00:00"
-    },
-    {
-      "id": "1e435ab2c9423d5b45fcbcaed2c7b0982addf90269b1140f409c38dad68138d1",
-      "title": "Três veículos se envolvem em engavetamento na SP-310 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmk1SmJaYVdxd25PN0wwbThod290R3lwUUZ5NzlUZ2FWS01MN1RxNThiWS1oU2owOXdKUERmZGVZSUtDYVdlZXBjOFdRZVVZdTFKTTV5WURIWFhDUjYzQ0xKTGs4aldXdDRjenVJOGdzOHh0Tmt0TUxVM3RxUGlfZGNVT1U2OEJsYTROZ01xODh2WGpjUkNQemlRMF9xbkxxMGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T11:03:49+00:00",
-      "published_raw": "Sat, 25 Jul 2026 11:03:49 GMT",
-      "snippet": "Três veículos se envolvem em engavetamento na SP-310 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T10:40:37.841766+00:00"
+      "collected_at": "2026-07-26T12:54:57.042520+00:00"
     }
   ]
 }
