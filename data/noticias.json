@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-26T08:23:07.168466+00:00",
+  "updated_at": "2026-07-26T10:27:57.212595+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T08:22:51.553462+00:00"
+      "collected_at": "2026-07-26T10:27:41.982364+00:00"
     },
     {
       "id": "2fb43ce9f5bd1e8a076d9880d1a7a1d4c4f273911a8069fc75d13d1e21e62fdf",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T08:22:51.553330+00:00"
+      "collected_at": "2026-07-26T10:27:41.982205+00:00"
     },
     {
       "id": "a488b1f36827ed20ac4e79ef44c8082817a25139a5bfadde346e7bb0f710569b",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T08:22:51.553556+00:00"
+      "collected_at": "2026-07-26T10:27:41.982447+00:00"
     },
     {
       "id": "c3c78d2667cf35f6f5759969dd7f48bbaf85860230cda6856194cd7717562246",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T08:22:53.156834+00:00"
+      "collected_at": "2026-07-26T10:27:43.505449+00:00"
     },
     {
       "id": "1e435ab2c9423d5b45fcbcaed2c7b0982addf90269b1140f409c38dad68138d1",
@@ -128,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T08:22:53.156757+00:00"
-    },
-    {
-      "id": "ab3af8b53708cf43be696edbe32eb22dcb8db017990a2a5f695a715b32e7dfbd",
-      "title": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0VyMk5uZExDdC03UlNSMHczZFFDRG1NbGEzVS1KTUZvVzVuZ1FRUlVJY0M2SnVHUjFwWHZXWEdIZjhVRzRtRmU1TTd0czE4cUVucXBQQjB2aHg1Q2RuX3lxeFFBX2VoYTd2aDFxT0VZUmxJUkNzX1pIOGFaM210eUNackVJa0ZhWHpHWE1aMF9rWHpSZUJmRi02bkgzVUFVQ0JUSEZMNlRGMGVEV2NGVE9HMTR1STZ4ZEHSAboBQVVfeXFMTTdFcjJObmRMQ3QtN1JTUjB3M2RRQ0RtTWxhM1UtSk1Gb1c1bmdRUVJVSWNDNkp1R1IxcFh2V1hHSGY4VUc0bUZlNU03dHMxOHFFbnFwUEIwdmh4NUNkbl95cXhRQV9laGE3dmgxcU9FWVJsSVJDc19aSDhhWjNtdHlDWnJFSWtGYVh6R1hNWjBfa1h6UmVCZkYtNm5IM1VBVUNCVEhGTDZURjBlRFdjRlRPRzE0dUk2eGRB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T10:16:59+00:00",
-      "published_raw": "Sat, 25 Jul 2026 10:16:59 GMT",
-      "snippet": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T08:22:53.157076+00:00"
+      "collected_at": "2026-07-26T10:27:43.505372+00:00"
     }
   ]
 }
