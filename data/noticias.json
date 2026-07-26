@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-07-26T02:23:06.712353+00:00",
+  "updated_at": "2026-07-26T05:53:30.002246+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 0,
   "total_images": 0,
-  "new_items": 6,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,108 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "c0823ba51b1519b146eee13698389af1a6b497063e6dbd7723e6a8891a5e0897",
-      "title": "Motorista morre após carro derrapar e ser atingido por caminhão na Washington Luís - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1dpRFhEa1drbVdJcFFNY294OVFLaEFxS1NhazREZXh2dWU5eVFJMnFFeDdlSGYyNy1WcVZBRnU3MnRjYndIaGtmQll1U0NSUVpnNkxISWdUS1hVT21nb0tBdmIwb0JlTUVvMzZjbWtNNHQ1ampnUGRzMjVTc0FxSTJyZzFUZ0JMeTJ5dnNiTFZtUFpNTm1qbmhGa2RkcGNNV1ZuZXU0S3c2bTB0WWpFcHVhOEl2XzhRRmR4MVVzWFZRbGg4bGNiYkI1VUtOeVNGR3Zn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T15:07:42+00:00",
-      "published_raw": "Sat, 25 Jul 2026 15:07:42 GMT",
-      "snippet": "Motorista morre após carro derrapar e ser atingido por caminhão na Washington Luís Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:49.381636+00:00"
-    },
-    {
-      "id": "2fb43ce9f5bd1e8a076d9880d1a7a1d4c4f273911a8069fc75d13d1e21e62fdf",
-      "title": "Motorista morre após carro derrapar e ser atingido por carreta em rodovia da região - Jornal CidadãoNET",
-      "source": "Jornal CidadãoNET",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd21yMkZubFRlVndyVmhsN3ZsYnNMWmNFYVJwS2dXWXdsRFl1MUlaajctUDAya0IzN0pTQ21ldjIzdUFjV1hnbWRSSjc5SFFKUzdOdGRXd1BBMUVkdmNxOVVsNHlYVk1DLXFwcTBJaTN1dnRQTWpmLV80OC1tSFpNRjBHTl9uU01SeTMzbk9YckxXbzhhSUVmTGNJaG1XU3J2NlZrM0R3Uk5XQXUwNEZ6Wk0yY0lhOTVLYWZ1cGhn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T15:06:00+00:00",
-      "published_raw": "Sat, 25 Jul 2026 15:06:00 GMT",
-      "snippet": "Motorista morre após carro derrapar e ser atingido por carreta em rodovia da região Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:49.381545+00:00"
-    },
-    {
-      "id": "a488b1f36827ed20ac4e79ef44c8082817a25139a5bfadde346e7bb0f710569b",
-      "title": "Morador de Tabapuã morre em acidente na Rodovia Washington Luís em Catiguá - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjVETFltRzBTcnlOcU5qdGFKVDNQbG5PY3FKdXFCaklreEJsdWFJY0d2Z0pwdnFkamQ1RmxLWDgwRzBUZXNwZ0ZPaFFORGpqQXptS0hmSTZjNTRXejJCRDBOQWdfUzFETXVOZkVNS1VBZk5GekxKVDFUN2k0UHN6RGtPeXgtSGp6LWl4THJoOFNLdDNxSnlVeG9JUm5IMFdGSGhkVHVzR3VUSldESV9DYld3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T14:23:33+00:00",
-      "published_raw": "Sat, 25 Jul 2026 14:23:33 GMT",
-      "snippet": "Morador de Tabapuã morre em acidente na Rodovia Washington Luís em Catiguá gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:49.381706+00:00"
-    },
-    {
-      "id": "c3c78d2667cf35f6f5759969dd7f48bbaf85860230cda6856194cd7717562246",
-      "title": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzF4WU5GcHlWX0ZxdGdOTmVIdm1HQkhpeXJqNWlUOUt6a3czSk9hcklLWUtKTmNJNUthRTFiR1pNUWE5cWxhN3lVVVVsdFd0clZNWWFWRTFPalM5Ukg4SXIwSm83YTlFcFpseTZESVFNaGNpVWpNUEd1WjA5NmlSSEp2eXB0eExtYk15ZTVtY2RRVGRaVlZNWGxSVld5MlZvYzBzT043Rm9qMmhrdXd6M2N2dlk?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T11:25:00+00:00",
-      "published_raw": "Sat, 25 Jul 2026 11:25:00 GMT",
-      "snippet": "Engavetamento com carreta e Opala causa acidente na SP-310 em Araraquara Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:51.203924+00:00"
-    },
-    {
-      "id": "1e435ab2c9423d5b45fcbcaed2c7b0982addf90269b1140f409c38dad68138d1",
-      "title": "Três veículos se envolvem em engavetamento na SP-310 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmk1SmJaYVdxd25PN0wwbThod290R3lwUUZ5NzlUZ2FWS01MN1RxNThiWS1oU2owOXdKUERmZGVZSUtDYVdlZXBjOFdRZVVZdTFKTTV5WURIWFhDUjYzQ0xKTGs4aldXdDRjenVJOGdzOHh0Tmt0TUxVM3RxUGlfZGNVT1U2OEJsYTROZ01xODh2WGpjUkNQemlRMF9xbkxxMGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T11:03:49+00:00",
-      "published_raw": "Sat, 25 Jul 2026 11:03:49 GMT",
-      "snippet": "Três veículos se envolvem em engavetamento na SP-310 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:51.203798+00:00"
-    },
-    {
-      "id": "ab3af8b53708cf43be696edbe32eb22dcb8db017990a2a5f695a715b32e7dfbd",
-      "title": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0VyMk5uZExDdC03UlNSMHczZFFDRG1NbGEzVS1KTUZvVzVuZ1FRUlVJY0M2SnVHUjFwWHZXWEdIZjhVRzRtRmU1TTd0czE4cUVucXBQQjB2aHg1Q2RuX3lxeFFBX2VoYTd2aDFxT0VZUmxJUkNzX1pIOGFaM210eUNackVJa0ZhWHpHWE1aMF9rWHpSZUJmRi02bkgzVUFVQ0JUSEZMNlRGMGVEV2NGVE9HMTR1STZ4ZEHSAboBQVVfeXFMTTdFcjJObmRMQ3QtN1JTUjB3M2RRQ0RtTWxhM1UtSk1Gb1c1bmdRUVJVSWNDNkp1R1IxcFh2V1hHSGY4VUc0bUZlNU03dHMxOHFFbnFwUEIwdmh4NUNkbl95cXhRQV9laGE3dmgxcU9FWVJsSVJDc19aSDhhWjNtdHlDWnJFSWtGYVh6R1hNWjBfa1h6UmVCZkYtNm5IM1VBVUNCVEhGTDZURjBlRFdjRlRPRzE0dUk2eGRB?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T10:16:59+00:00",
-      "published_raw": "Sat, 25 Jul 2026 10:16:59 GMT",
-      "snippet": "Carreta carregada com quase 20 mil litros de etanol se envolve em acidente na SP-310 São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T02:22:51.204045+00:00"
-    }
-  ]
+  "items": []
 }
