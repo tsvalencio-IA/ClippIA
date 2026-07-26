@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-26T13:09:48.804438+00:00",
+  "updated_at": "2026-07-26T15:53:41.676813+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 1,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,58 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-26T13:09:33.507784+00:00"
-    },
-    {
-      "id": "c0823ba51b1519b146eee13698389af1a6b497063e6dbd7723e6a8891a5e0897",
-      "title": "Motorista morre após carro derrapar e ser atingido por caminhão na Washington Luís - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1dpRFhEa1drbVdJcFFNY294OVFLaEFxS1NhazREZXh2dWU5eVFJMnFFeDdlSGYyNy1WcVZBRnU3MnRjYndIaGtmQll1U0NSUVpnNkxISWdUS1hVT21nb0tBdmIwb0JlTUVvMzZjbWtNNHQ1ampnUGRzMjVTc0FxSTJyZzFUZ0JMeTJ5dnNiTFZtUFpNTm1qbmhGa2RkcGNNV1ZuZXU0S3c2bTB0WWpFcHVhOEl2XzhRRmR4MVVzWFZRbGg4bGNiYkI1VUtOeVNGR3Zn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T15:07:42+00:00",
-      "published_raw": "Sat, 25 Jul 2026 15:07:42 GMT",
-      "snippet": "Motorista morre após carro derrapar e ser atingido por caminhão na Washington Luís Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T13:09:32.966882+00:00"
-    },
-    {
-      "id": "2fb43ce9f5bd1e8a076d9880d1a7a1d4c4f273911a8069fc75d13d1e21e62fdf",
-      "title": "Motorista morre após carro derrapar e ser atingido por carreta em rodovia da região - Jornal CidadãoNET",
-      "source": "Jornal CidadãoNET",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd21yMkZubFRlVndyVmhsN3ZsYnNMWmNFYVJwS2dXWXdsRFl1MUlaajctUDAya0IzN0pTQ21ldjIzdUFjV1hnbWRSSjc5SFFKUzdOdGRXd1BBMUVkdmNxOVVsNHlYVk1DLXFwcTBJaTN1dnRQTWpmLV80OC1tSFpNRjBHTl9uU01SeTMzbk9YckxXbzhhSUVmTGNJaG1XU3J2NlZrM0R3Uk5XQXUwNEZ6Wk0yY0lhOTVLYWZ1cGhn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T15:06:00+00:00",
-      "published_raw": "Sat, 25 Jul 2026 15:06:00 GMT",
-      "snippet": "Motorista morre após carro derrapar e ser atingido por carreta em rodovia da região Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T13:09:32.966786+00:00"
-    },
-    {
-      "id": "a488b1f36827ed20ac4e79ef44c8082817a25139a5bfadde346e7bb0f710569b",
-      "title": "Morador de Tabapuã morre em acidente na Rodovia Washington Luís em Catiguá - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjVETFltRzBTcnlOcU5qdGFKVDNQbG5PY3FKdXFCaklreEJsdWFJY0d2Z0pwdnFkamQ1RmxLWDgwRzBUZXNwZ0ZPaFFORGpqQXptS0hmSTZjNTRXejJCRDBOQWdfUzFETXVOZkVNS1VBZk5GekxKVDFUN2k0UHN6RGtPeXgtSGp6LWl4THJoOFNLdDNxSnlVeG9JUm5IMFdGSGhkVHVzR3VUSldESV9DYld3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-25T14:23:33+00:00",
-      "published_raw": "Sat, 25 Jul 2026 14:23:33 GMT",
-      "snippet": "Morador de Tabapuã morre em acidente na Rodovia Washington Luís em Catiguá gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-26T13:09:32.967014+00:00"
+      "collected_at": "2026-07-26T15:53:25.816840+00:00"
     }
   ]
 }
