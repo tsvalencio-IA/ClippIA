@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-27T06:24:42.462565+00:00",
+  "updated_at": "2026-07-27T12:09:48.318360+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "63b57290c6b47660c49baddc8cc3f2914de2a8686131b71a699e4430e3301763",
-      "title": "Motorista morre após Uno ser atingido por carreta na WL - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXpNbFczazIybjd2M3ZxZEhVb19MLV9veTVSUXNhMWhrTmFwNmVWdWlMbVYzNjZvellJeHBBZ0l3eTg5UHByV1o3b0JTNVFQMW8wQ0E2S1pRdVVVemRDTjlaVmpRazFpWEowY3FoVHhRcjM5Y1F4ZXdJejlvWHg4V1ItQjBacTB3blRmaENBVVRCeW93bXA1Y3p2VjlGUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-26T11:43:07+00:00",
-      "published_raw": "Sun, 26 Jul 2026 11:43:07 GMT",
-      "snippet": "Motorista morre após Uno ser atingido por carreta na WL Jornal Primeira Página",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-27T06:24:25.402440+00:00"
-    }
-  ]
+  "items": []
 }
