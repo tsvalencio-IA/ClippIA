@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-27T12:17:03.990589+00:00",
+  "updated_at": "2026-07-27T16:52:15.379538+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 2,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,40 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "f04ade990ad21b32493bec32801875e1fa3e92fc702e255dad3b28ba97f4734c",
+      "title": "Fim de semana trágico deixa quatro mortos em rodovias da região - RP10",
+      "source": "RP10",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdC1IV2pOTERQaDB0bEJhVXdjUHhoN2d6Z3ZlNE5XckJPRzhIeUtFb1A1eTYwTDRKMDlKa2V0ZzBPTnF6MG94OF92V1NoQUlKVXBybzhqVjhMNXZ6cC1wY2Z6MWpqUWtld0FXaVp3S2lxak5xWVktYmxIZkZWQmFfdEFvbFpDdWdQWkZfSjY5cWlHSElKdVF6UzFNajNkQdIBpAFBVV95cUxNakFyV0JrRHJ0enNHazhnZ3VQVk9STTJ3MDVtMDhzb2htT1M1Y0VEOGhyNDE3cS1xOWNDMkplTS1XU08xaE5pTmNBb0JzMHVLRGpjeHFSWVRsbG1kZk4wWVBGcV94N0pzRXp3Vnp1X1FpSU5XUTNER25SYWdwVFZMaW9ud1pOUHcwNFgwSm5mZDVxRE16Z05tX2NHNzJuMkdoTE0wbQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-27T15:35:26+00:00",
+      "published_raw": "Mon, 27 Jul 2026 15:35:26 GMT",
+      "snippet": "Fim de semana trágico deixa quatro mortos em rodovias da região RP10",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-27T16:51:59.175164+00:00"
+    },
+    {
+      "id": "891286f876ff4df79da35a954b581351938935cc36432b0c84dd029b5f04de7b",
+      "title": "Motociclista morre após bater na traseira de veículo na Washington Luís entre São Carlos e Ibaté - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDQ3YlIyQjhZNVRJQWhPU1hPWG9NVkF2bTMyZ0M2RHJRUVFwakQzTW9ibmhuOUxBcGxveDBpZzQ2NDVXT2E1bHpBeFJXbGtWNDhVWUd5Q2VXbFZuWEhGendvTzc3c0FvZnYwc2hLSGpaUnk1M1RGMUo0Vm5Sa2xrdFJJa2hMcXlJMWwxYkVVNWJtczliNGluTDB4NWpzdnI3ZzNOLXRVd3NFNVRhSmVpbkFneG9GZlZLclRvek9aT25vMFRSMFdmV1Bn0gHKAUFVX3lxTFB0NDdiUjJCOFk1VElBaE9TWE9Yb01WQXZtMzJnQzZEclFRUXBqRDNNb2JuaG45TEFwbG94MGlnNDY0NVdPYTVsekF4Uldsa1Y0OFVZR3lDZVdsVm5YSEZ6d29PNzdzQW9mdjBzaEtIalpSeTUzVEYxSjRWblJrbGt0UklraExxeUkxbDFiRVU1Ym1zOWI0aW5MMHg1anN2cjdnM04tdFV3c0U1VGFKZWluQWd4b0ZmVktyVG96T1pPbm8wVFIwV2ZXUGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-27T12:44:29+00:00",
+      "published_raw": "Mon, 27 Jul 2026 12:44:29 GMT",
+      "snippet": "Motociclista morre após bater na traseira de veículo na Washington Luís entre São Carlos e Ibaté - São São Carlos no Toque",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-27T16:51:59.684264+00:00"
+    }
+  ]
 }
