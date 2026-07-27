@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-27T16:52:15.379538+00:00",
+  "updated_at": "2026-07-27T16:54:43.957732+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,10 +46,27 @@
   ],
   "items": [
     {
+      "id": "4bda0152429f7f3ef7ab047c4a0116c744d5a7b98468d7df426be238ceb51be6",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 27/7 a 2/8/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjVpbndObGVsdG1MU0RiOHA5RXNFOTEza2N3M3k0V01xcUpkUVVBcmFfc2F5bENpYTdIb2VtMHdFNXd5VUIxWHZnUU5HN04ydXBqRzFneGJDNnBqcklIQnYtZUpIZlFLY3NtdnpGMzNiajhiYmRhdms3bHVTdWtLcThFRHRUeE40bmJlTlA3bEZBZGthZWI0d2JXdGJ6VFVLbWFUSG0xMzE4OC0xa2FHczM5Mm8?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-27T15:51:29+00:00",
+      "published_raw": "Mon, 27 Jul 2026 15:51:29 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 27/7 a 2/8/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-27T16:54:28.342926+00:00"
+    },
+    {
       "id": "f04ade990ad21b32493bec32801875e1fa3e92fc702e255dad3b28ba97f4734c",
       "title": "Fim de semana trágico deixa quatro mortos em rodovias da região - RP10",
       "source": "RP10",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdC1IV2pOTERQaDB0bEJhVXdjUHhoN2d6Z3ZlNE5XckJPRzhIeUtFb1A1eTYwTDRKMDlKa2V0ZzBPTnF6MG94OF92V1NoQUlKVXBybzhqVjhMNXZ6cC1wY2Z6MWpqUWtld0FXaVp3S2lxak5xWVktYmxIZkZWQmFfdEFvbFpDdWdQWkZfSjY5cWlHSElKdVF6UzFNajNkQdIBpAFBVV95cUxNakFyV0JrRHJ0enNHazhnZ3VQVk9STTJ3MDVtMDhzb2htT1M1Y0VEOGhyNDE3cS1xOWNDMkplTS1XU08xaE5pTmNBb0JzMHVLRGpjeHFSWVRsbG1kZk4wWVBGcV94N0pzRXp3Vnp1X1FpSU5XUTNER25SYWdwVFZMaW9ud1pOUHcwNFgwSm5mZDVxRE16Z05tX2NHNzJuMkdoTE0wbQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVEwbFkxb1o4OUVvWW1zRG1FbjduOUI2RU9DdDI3d1BRRFlaMVB2Yk1PMkI5LTJxNm1TYzBjaXl2Wl9kVnlQMFlKY1pFcUpSVUNZLWdfQ1BPLXJ4WDNkWkxsMXhPeVZ3eWt5S3YzMFFpTkhhMHYyWmlMSTJ6YW5fMWpRVkY1ZFRORVR4ZHJIdS15NDk0MXJGeGU0RDJ6VlnSAaQBQVVfeXFMTWpBcldCa0RydHpzR2s4Z2d1UFZPUk0ydzA1bTA4c29obU9TNWNFRDhocjQxN3EtcTljQzJKZU0tV1NPMWhOaU5jQW9CczB1S0RqY3hxUllUbGxtZGZOMFlQRnFfeDdKc0V6d1Z6dV9RaUlOV1EzREduUmFncFRWTGlvbndaTlB3MDRYMEpuZmQ1cURNemdObV9jRzcybjJHaExNMG0?oc=5",
       "resolved_link": "",
       "published": "2026-07-27T15:35:26+00:00",
       "published_raw": "Mon, 27 Jul 2026 15:35:26 GMT",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T16:51:59.175164+00:00"
+      "collected_at": "2026-07-27T16:54:28.343020+00:00"
     },
     {
       "id": "891286f876ff4df79da35a954b581351938935cc36432b0c84dd029b5f04de7b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T16:51:59.684264+00:00"
+      "collected_at": "2026-07-27T16:54:28.852238+00:00"
     }
   ]
 }
