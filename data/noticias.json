@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-27T19:09:41.158338+00:00",
+  "updated_at": "2026-07-27T19:19:57.588717+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:24.535056+00:00"
+      "collected_at": "2026-07-27T19:19:41.044445+00:00"
     },
     {
       "id": "f357ede364199c3a5e78d793f27d300a3c519d6da8e96accc6c5e04bef305408",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:26.243375+00:00"
-    },
-    {
-      "id": "4f50dbfd0e96088825851f4246faed3afd028af4fe5cd0e7c233f5892229f74b",
-      "title": "Governo lança crédito para entregadores comprarem moto sem entrada - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHVaNTVwaHM3OW9oRHJWS0ZkaDQzTDU1TEV3dnlUUWt3d19LR0hDWEJlekZQUThteWY1YTkxSHZGVG1qYi1rcVJPNDNPZi01Z09PMzhhRzA2SHQ2RlJ3MVoyVzV3YmZ2ZEh1YnRmT0hBRUg4Sl83WjZINmNFRk50NjM0dWJUYVhmN1JxWWZKNkR0RkhmVVp0RXRNWHYxbXdDZlHSAaIBQVVfeXFMTUx1WjU1cGhzNzlvaERyVktGZGg0M0w1NUxFd3Z5VFFrd3dfS0dIQ1hCZXpGUFE4bXlmNWE5MUh2RlRtamIta3FSTzQzT2YtNWdPTzM4YUcwNkh0NkZSdzFaMlc1d2JmdmRIdWJ0Zk9IQUVIOEpfN1o2SDZjRUZOdDYzNHViVGFYZjdScVlmSjZEdEZIZlVadEV0TVh2MW13Q2ZR?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-27T16:15:12+00:00",
-      "published_raw": "Mon, 27 Jul 2026 16:15:12 GMT",
-      "snippet": "Governo lança crédito para entregadores comprarem moto sem entrada - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" reajuste",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-27T19:09:34.529765+00:00"
+      "collected_at": "2026-07-27T19:19:42.776431+00:00"
     },
     {
       "id": "709163bc7437f73e66c036e54d3079a00d5dc3c98e53f3c6976121653ba244e5",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:24.535154+00:00"
+      "collected_at": "2026-07-27T19:19:41.044584+00:00"
     },
     {
       "id": "4bda0152429f7f3ef7ab047c4a0116c744d5a7b98468d7df426be238ceb51be6",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:24.534936+00:00"
+      "collected_at": "2026-07-27T19:19:41.044283+00:00"
     },
     {
       "id": "f04ade990ad21b32493bec32801875e1fa3e92fc702e255dad3b28ba97f4734c",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:24.535232+00:00"
+      "collected_at": "2026-07-27T19:19:41.044691+00:00"
     },
     {
       "id": "891286f876ff4df79da35a954b581351938935cc36432b0c84dd029b5f04de7b",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-27T19:09:25.079024+00:00"
+      "collected_at": "2026-07-27T19:19:41.607311+00:00"
     }
   ]
 }
