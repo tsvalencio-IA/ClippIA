@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-28T13:27:58.073189+00:00",
+  "updated_at": "2026-07-28T13:54:03.745324+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 16,
+  "total": 15,
   "total_images": 0,
-  "new_items": 16,
+  "new_items": 15,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:54.030381+00:00"
+      "collected_at": "2026-07-28T13:53:59.723610+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:52.385371+00:00"
+      "collected_at": "2026-07-28T13:53:58.105534+00:00"
     },
     {
       "id": "1cdbd204a76bb3a35225688029616537fc1742877b642d7f21bdf294ae529b7d",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:53.433186+00:00"
+      "collected_at": "2026-07-28T13:53:59.186729+00:00"
     },
     {
       "id": "84c15fdf2591cb420cf16c192443d0abad82dffd264f5174460143ff633570e4",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:42.646151+00:00"
+      "collected_at": "2026-07-28T13:53:48.468232+00:00"
     },
     {
       "id": "51fe47a3a3a734074a77b87a4cf2b33cc545f0d025af1a306b5bbeca8876a757",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:53.433438+00:00"
+      "collected_at": "2026-07-28T13:53:59.187035+00:00"
     },
     {
       "id": "1c75b073f199958db473cf4e58c31f06ee9c5bdba2013341635146b333b5172c",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:44.169423+00:00"
-    },
-    {
-      "id": "05e8b5b34edb53d5939da63c591825cb11d510ca61b9278e783f90820822801d",
-      "title": "Prefeitura e Ecovias Noroeste Paulista reformam viveiro do Horto Municipal - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWM1V2lVVlpzUFgyUi03V25hN2ZwWjdMR2Y3ekhlSFhOV0tuTm5mMnVaNlRwNzA4cDhnMzZra0lsek9rSHB0LU1WRmZ1U1hHZk5tTXhQVTlfVjR6UWdldkNEZGpBaTNKUW1RWjJWVnlVWW5XV0ZSYWJMNXVabTZBLWhNUEFsZHBUMnRsTi1ubEh4cWtNbjJXem1aU1BrR3RxdWtKeE1XZjFZU21laTlzS1dyVHVKcmR6eENLU09pTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-27T20:06:39+00:00",
-      "published_raw": "Mon, 27 Jul 2026 20:06:39 GMT",
-      "snippet": "Prefeitura e Ecovias Noroeste Paulista reformam viveiro do Horto Municipal Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-28T13:27:52.385542+00:00"
+      "collected_at": "2026-07-28T13:53:49.999192+00:00"
     },
     {
       "id": "4107f32fe57b54bde25e2eafd92a878d0c99cf95e6e716d25ecf1f5ae504a954",
@@ -173,13 +156,13 @@
       "published": "2026-07-27T20:03:24+00:00",
       "published_raw": "Mon, 27 Jul 2026 20:03:24 GMT",
       "snippet": "Prefeitura e Ecovias Noroeste Paulista reformam viveiro do Horto Municipal - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:42.646391+00:00"
+      "collected_at": "2026-07-28T13:53:48.468431+00:00"
     },
     {
       "id": "3cad566575f62b7820f341ae1214bfa0abc1fea4081e423d064d618ae2ee3e03",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:53.433512+00:00"
+      "collected_at": "2026-07-28T13:53:59.187126+00:00"
     },
     {
       "id": "4c5e3c635797209cec8fbf9b7d0c31c02fdcb25540c55fe132b9f54e4ff828a2",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:52.385627+00:00"
+      "collected_at": "2026-07-28T13:53:58.105838+00:00"
     },
     {
       "id": "3166a68c500002af95700ff4dca86965501fd53f797e04a623112f42aa84d3a5",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:52.903506+00:00"
+      "collected_at": "2026-07-28T13:53:58.628907+00:00"
     },
     {
       "id": "f357ede364199c3a5e78d793f27d300a3c519d6da8e96accc6c5e04bef305408",
@@ -247,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:53.433645+00:00"
+      "collected_at": "2026-07-28T13:53:59.187207+00:00"
     },
     {
       "id": "4f50dbfd0e96088825851f4246faed3afd028af4fe5cd0e7c233f5892229f74b",
@@ -258,13 +241,13 @@
       "published": "2026-07-27T16:15:12+00:00",
       "published_raw": "Mon, 27 Jul 2026 16:15:12 GMT",
       "snippet": "Governo lança crédito para entregadores comprarem moto sem entrada - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste",
+      "term": "\"Ecovias Noroeste\" reajuste",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:51.859915+00:00"
+      "collected_at": "2026-07-28T13:53:57.574277+00:00"
     },
     {
       "id": "e5882866c4fdb6abfa66451dba369f28fb8fa7dab5ade168fcb291c8625ca7da",
@@ -281,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:55.609097+00:00"
+      "collected_at": "2026-07-28T13:54:01.253788+00:00"
     },
     {
       "id": "4bda0152429f7f3ef7ab047c4a0116c744d5a7b98468d7df426be238ceb51be6",
@@ -298,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:42.646292+00:00"
+      "collected_at": "2026-07-28T13:53:48.468335+00:00"
     },
     {
       "id": "f04ade990ad21b32493bec32801875e1fa3e92fc702e255dad3b28ba97f4734c",
@@ -315,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-28T13:27:53.433710+00:00"
+      "collected_at": "2026-07-28T13:53:59.187281+00:00"
     }
   ]
 }
