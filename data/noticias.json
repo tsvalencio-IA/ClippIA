@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-29T08:31:40.582038+00:00",
+  "updated_at": "2026-07-29T11:13:02.135755+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 13,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "c0fecc7331e4b732cc74825d1b5ab56f1d9a66ddfea8cce244e9bb4fae84d31a",
+      "title": "Lei Seca: da maioridade à maturidade - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdE1WQzI2MmJNZHR4QmpmaGFpRGU0YXdSSVZnU0dIbDBMcHVTN2pqTU1ZNE9HdmlJZ0NzUlpVRWVmUVpLbTVOX3ZxaksxeFFoMlowUFJ3aWwyNklRRkM4d2ZDcS1fUUxydnJfVXVKOEE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-29T11:00:00+00:00",
+      "published_raw": "Wed, 29 Jul 2026 11:00:00 GMT",
+      "snippet": "Lei Seca: da maioridade à maturidade Região Noroeste",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:57.972962+00:00"
+    },
+    {
+      "id": "54a14bdf602382aa45de2cdbaa4553ab2f1cdaa2e2bae2836151c0d41ca452d4",
+      "title": "Novas regras ampliam a conectividade nas estradas - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ2xQenRHeFhnYUNfMEQ3S1BhMXFCS3NNa1VHRU15ZUZUNm81RlRFYmp3S1ZwS3JUZEhXM2piRTI0YVFuejBwSnprZHVmc0lfNlI4c2FPMnZJZVJLVmx0enFjRW9TaFpDekpBaGtPcVMyLWlvZmF2M0ttQkg1blpYNUx1Vlh5YVYxejh3eUNMLVg5eVA5TkN1QmxIQl9FNDFGN3ZZNi14bVhoczhZaWdMeVhmYzgxRE5lV0lxS1VCODlhRkJxQ1BydUxkbjc2UHl1QUxxUmU5c2ZkRjBHUWJjMGlPeFpYbkpyQlRTZWMyUU_SAfABQVVfeXFMUGdsUHp0R3hYZ2FDXzBEN0tQYTFxQktzTWtVR0VNeWVGVDZvNUZURWJqd0tWcEtyVGRIVzNqYkUyNGFRbnowcEp6a2R1ZnNJXzZSOHNhTzJ2SWVSS1ZsdHpxY0VvU2haQ3pKQWhrT3FTMi1pb2ZhdjNLbUJINW5aWDVMdVZYeWFWMXo4d3lDTC1YOXlQOU5DdUJsSEJfRTQxRjd2WTYteG1YaHM4WWlnTHlYZmM4MUROZVdJcUtVQjg5YUZCcUNQcnVMZG43NlB5dUFMcVJlOXNmZEYwR1FiYzBpT3haWG5KckJUU2VjMlFP?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-29T08:03:32+00:00",
+      "published_raw": "Wed, 29 Jul 2026 08:03:32 GMT",
+      "snippet": "Novas regras ampliam a conectividade nas estradas Valor Econômico",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:46.577746+00:00"
+    },
+    {
+      "id": "30de4cc0b160c682ca86ba8a03e298812258818336d61517ca6b667f93505a98",
+      "title": "FGTS: 138 milhões de trabalhadores receberão R$ 13 bilhões de lucros - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFpLZ280UGNJMUFYRjBodmVjRXJELS1BdFJ6X3pMbC0xdElZLXlKdEM0OGRaRjhLbnpJRmowOEtjbm8tTmsya0IzOWRpUjB0dkZtd0N3NldyVVJCZ0lTUGVPTlMyQWU1ZTROTHBwUWdMZk1QT3Z3QXk1eGJUdWVOeGhUa3c1VmZIV29qb3RVY3BKN1pwUVowLXFmQWFJSDFVd0w2TXBndDRfUzcwVThXemt3?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-29T04:23:33+00:00",
+      "published_raw": "Wed, 29 Jul 2026 04:23:33 GMT",
+      "snippet": "FGTS: 138 milhões de trabalhadores receberão R$ 13 bilhões de lucros Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:46.577828+00:00"
+    },
+    {
       "id": "57bb5f866ebdce8b4c733e8e223299c323a6688d605bb216e9dd7663b83ceb09",
       "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até 1º de agosto - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.606627+00:00"
+      "collected_at": "2026-07-29T11:12:46.577655+00:00"
+    },
+    {
+      "id": "35539cb1d11d3b1317680cad66251ac32d962feaf91505c01181a062f02cceaf",
+      "title": "Roberto de Lucena participa de encontro estadual da liderança da UMASBRAC em São Bernardo do Campo - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2wxV3VRalBWdXFMUGNZTUxtSXd2T0E2Q0lpaHAyOVBLOHJ5Z0dGM1hFVHBWSkpsemJUT3VPb0lhdE5udnN5TWhhQUczVG4yQ2hKRHVSN0NCNmxIeWpFcVJWc3hZdVNMX2JoZnUwTVhRWnNtTzJjdlluM2RyMnZMZGt0clBVR29mcGFZb2RFUk8xaENDOVVRdTFtTEZDSkdrNHpiZTFSbE0xTEFscEM4T2NWY00zWDZWbzduREpEaS01Z2t3?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-28T22:35:00+00:00",
+      "published_raw": "Tue, 28 Jul 2026 22:35:00 GMT",
+      "snippet": "Roberto de Lucena participa de encontro estadual da liderança da UMASBRAC em São Bernardo do Campo Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:56.364682+00:00"
     },
     {
       "id": "64ccfbdbca2689376d4b1a73a9082c81c5cdbb9734d5295f9f06d95dababd40f",
@@ -77,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:35.812191+00:00"
+      "collected_at": "2026-07-29T11:12:57.444657+00:00"
+    },
+    {
+      "id": "4d7dea6625a82724a2e9fbf29a99f55c928bc38b4e721b1710e2b5b1d160dce8",
+      "title": "PAT de Fernandópolis disponibiliza novas vagas de emprego em diversas áreas - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEVMMzc5U2dJYldITTdPcVp3SHMzMEswX2E1Z1R5RUlBenZsVmRUZVZBN012c0pXMHFRWlk5aXVITE9CdmtUNjUyUnVRWDF3SnBhUC1pMGk2WjJ2LWI0ZEpWX3E3bzZrNmxhb0o4TXFhSFlJWGZOc2ZNcGZmSTl3bkJWMnNNUDlSUkN2V3U0SjJTNXNwWTBkblkwZGRua0hzVElCaHdR?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-28T14:49:00+00:00",
+      "published_raw": "Tue, 28 Jul 2026 14:49:00 GMT",
+      "snippet": "PAT de Fernandópolis disponibiliza novas vagas de emprego em diversas áreas Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:56.364828+00:00"
     },
     {
       "id": "ce60591cb85b4641fc2e37d0840084ce3d4d60841d04a7310b7226231b87178a",
@@ -94,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.607230+00:00"
+      "collected_at": "2026-07-29T11:12:46.578148+00:00"
     },
     {
       "id": "3b1e6f0278a9a71026851d085f7622648cd1106af504af1f63ba4022af95014f",
@@ -111,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.606963+00:00"
+      "collected_at": "2026-07-29T11:12:46.577997+00:00"
+    },
+    {
+      "id": "13b63df4bf8fb6ace24f653afa89b98d27861c0eb676d12ece9673a1c4a76516",
+      "title": "Projeto Guri abre inscrições para cursos gratuitos de música em Fernandópolis - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNXzBwYUZTZjA2UFUtM1Flb1ZnTG1veTJLbC02WklFQ3pBazZtYzNzVmlVWU5zMS1qbEI4RDYyUk5oS3BhTTlWLS05Ym02emNlZEp6dGNWMDlNaVJReFBZTnVJN1BNaFNkMEhxbldEOG93MWVMcmNndXI2M1Q1TnEzWTM5OG05MU9hT0NHc1JFa3o0RUFNeExCVUEtQzB1bFFXR1FEaktDLTE?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-28T14:17:00+00:00",
+      "published_raw": "Tue, 28 Jul 2026 14:17:00 GMT",
+      "snippet": "Projeto Guri abre inscrições para cursos gratuitos de música em Fernandópolis Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T11:12:56.364754+00:00"
     },
     {
       "id": "07dc96aa3c6be51433eb3b605694364eb59c960411c89ef524dd21a803767291",
@@ -128,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.607321+00:00"
+      "collected_at": "2026-07-29T11:12:46.578283+00:00"
     },
     {
       "id": "140dc232bab067ddcc732f3793e1e69604248137511502ed408a3d8a06f3a59b",
@@ -145,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.606794+00:00"
+      "collected_at": "2026-07-29T11:12:46.577920+00:00"
     },
     {
       "id": "8af03c3a53747fa2c6a3e145fb028a9e24beaf79bd8aebe580c56d6453c477f7",
@@ -162,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T08:31:24.607105+00:00"
-    },
-    {
-      "id": "66bff39f3c374508606f013f602b55a8da837967fe45176b95fc98ab1ef3634b",
-      "title": "Fóssil pré-histórico encontrado em Fernandópolis inspira nome e registro de touro de elite da raça Nelore Mocho - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkZyUnFrcjQ2UVBZV21reFVEVEJwNFR6c3Vmd2NfRF8tbmtMSUFWaGtUc1piTldfX3dYZEtnWmxWNm40VUhScXNTX2xrOFFWTVBpV0JkSjZXdlJQVllTR0R0MDRJRU15TkZPd0IyX0QzOXBrWHZwUENNRWs2VGtzQ3BzMzNZV3R4Zm0xM05CbVB2NDdoVEhUYk5UeGg2X2Nza2VhRmFXS0NEVFNNSW1WNDA1ZDZmWmpGWWVVa0h5dFp2cWhESVg4Mzl5QTUySnpJVzZkSkRn?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-28T09:02:00+00:00",
-      "published_raw": "Tue, 28 Jul 2026 09:02:00 GMT",
-      "snippet": "Fóssil pré-histórico encontrado em Fernandópolis inspira nome e registro de touro de elite da raça Nelore Mocho Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-29T08:31:26.268886+00:00"
+      "collected_at": "2026-07-29T11:12:46.578076+00:00"
     }
   ]
 }
