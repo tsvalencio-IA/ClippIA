@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:07:01.524359+00:00",
+  "updated_at": "2026-07-29T21:46:05.230319+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -46,13 +46,30 @@
   ],
   "items": [
     {
+      "id": "40757d36a5a482c1f55b4915d5923d219642bb81788c58840e796d92c3a6ba06",
+      "title": "Motoristas ignoram interdição e fazem conversão proibida em trevo de Cedral - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbk5EOWpHZTFrRXoxZ052UmNwd3h1SkJBWWdheFB6NzZyYlV3NGItTmt5UEFqVnRTaXFOMHFMcDlTOU12bVNyMlVjQkpfRDhwVzd2clVTUWVqM2hSMGg4UEk5TXN1Y0dxU3lVc1k0V3UwUWpEaDBGVG9BSWFZYjFvbldQTHdwU21YbE0yd1FvaEU5Y0NMbEJidG9CV1JZTkJ1dE1XZ1E4WFlhaFdKc2RJbXJRQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-29T20:13:45+00:00",
+      "published_raw": "Wed, 29 Jul 2026 20:13:45 GMT",
+      "snippet": "Motoristas ignoram interdição e fazem conversão proibida em trevo de Cedral gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T21:45:45.122643+00:00"
+    },
+    {
       "id": "1578a7dda4c2e9021e0c7dcefabe93bf983ff2dce2891942b010bf290cac9536",
       "title": "Acidente grave com quatro veículos deixa dois feridos na Washington Luís - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDJRYTFpTlllRkJLbTVEcmFZalY0TE1xZmwzdkpndlgyNkFvR0d6TW83VnlwWHRVSXhwMVBESzFKQzU2dVpvcU94bEtfQUtsTGRia1ZBQ0FhV1VnZjFGWUFiVUtBajYwMUxkMFpQYVp1QkM4SlBMOU1uc0ZuMm51NXM5bElRVGtzd2J4SEVjZnpMc3QxcDk0MWk4R19lS0pWZnRkdtIB_gJBVV95cUxPaW5KbFo0bmN1ODFmck5fQlFfcVY4SEZmYW1fV2YwVnc0WHZoMEhFNjVONDg4dzNRbjM2SXQ3b0JHc1phV2JJZENWdUNaQm1pdC03bGhNUXFYV28xYWpRTWtHazlFcDBPWDc3Zjc5WGhVbG81ZEZzbDNQT1FNTXVVQTFHRXdxQXQtYlZIdmlTTVprT2hRM05EVTZvWi1OeGViYm1Kb1JBNTNWcjRNSGdLQi1lMm5hRWlIVjY3dFg0cnF2N1gyVzExd2RzbGR1Q1pwUGNlWkFRQ2NNRWQzdHV6dVZBMmVGYldEb2oweU1mTUNJTGRFVGJYRmtKWlJINEFYT1F0ODR6aW5QRlF2eGZmMUlKblJaYXpNdlQ5Y24tYTVLWTdrU3JreVoxSURCNG9rZXREazd0VWdsbTZad2R6aDlJVm1jeTlvZnRWb0NvWWlTTkJmZzhyVHU4N1gzRWxuWlJiV2xkcDljeGNNZ3BjWGlyOGdULUwtTFh6VFd3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPaW5KbFo0bmN1ODFmck5fQlFfcVY4SEZmYW1fV2YwVnc0WHZoMEhFNjVONDg4dzNRbjM2SXQ3b0JHc1phV2JJZENWdUNaQm1pdC03bGhNUXFYV28xYWpRTWtHazlFcDBPWDc3Zjc5WGhVbG81ZEZzbDNQT1FNTXVVQTFHRXdxQXQtYlZIdmlTTVprT2hRM05EVTZvWi1OeGViYm1Kb1JBNTNWcjRNSGdLQi1lMm5hRWlIVjY3dFg0cnF2N1gyVzExd2RzbGR1Q1pwUGNlWkFRQ2NNRWQzdHV6dVZBMmVGYldEb2oweU1mTUNJTGRFVGJYRmtKWlJINEFYT1F0ODR6aW5QRlF2eGZmMUlKblJaYXpNdlQ5Y24tYTVLWTdrU3JreVoxSURCNG9rZXREazd0VWdsbTZad2R6aDlJVm1jeTlvZnRWb0NvWWlTTkJmZzhyVHU4N1gzRWxuWlJiV2xkcDljeGNNZ3BjWGlyOGdULUwtTFh6VFd30gH-AkFVX3lxTE9pbkpsWjRuY3U4MWZyTl9CUV9xVjhIRmZhbV9XZjBWdzRYdmgwSEU2NU40ODh3M1FuMzZJdDdvQkdzWmFXYklkQ1Z1Q1pCbWl0LTdsaE1RcVhXbzFhalFNa0drOUVwME9YNzdmNzlYaFVsbzVkRnNsM1BPUU1NdVVBMUdFd3FBdC1iVkh2aVNNWmtPaFEzTkRVNm9aLU54ZWJibUpvUkE1M1ZyNE1IZ0tCLWUybmFFaUhWNjd0WDRycXY3WDJXMTF3ZHNsZHVDWnBQY2VaQVFDY01FZDN0dXp1VkEyZUZiV0RvajB5TWZNQ0lMZEVUYlhGa0paUkg0QVhPUXQ4NHppblBGUXZ4ZmYxSUpuUlphek12VDljbi1hNUtZN2tTcmt5WjFJREI0b2tldERrN3RVZ2xtNlp3ZHpoOUlWbWN5OW9mdFZvQ29ZaVNOQmZnOHJUdTg3WDNFbG5aUmJXbGRwOWN4Y01ncGNYaXI4Z1QtTC1MWHpUV3c?oc=5",
       "resolved_link": "",
-      "published": "2026-07-29T17:16:49+00:00",
-      "published_raw": "Wed, 29 Jul 2026 17:16:49 GMT",
+      "published": "2026-07-29T17:30:54+00:00",
+      "published_raw": "Wed, 29 Jul 2026 17:30:54 GMT",
       "snippet": "Acidente grave com quatro veículos deixa dois feridos na Washington Luís - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
@@ -60,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.732001+00:00"
+      "collected_at": "2026-07-29T21:45:45.122508+00:00"
+    },
+    {
+      "id": "3f187df6fb9091f3f742d5a227cf0908ba57f8586ba281e2659f30fc29935ed1",
+      "title": "Obras interditam acesso a Cedral pela Washington Luís - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYS14OU9SWnVNWWFTX1oxbUE1Z2hBYVozQjdMUnBFQWRjQ25tTXZZX2xmZy1LSGdoc0VoZ0hpT040UTc5Y1BES0lNWnhfbWJFMDB1VnJEMlQ3XzY0WGgzdENoT2R4RkI0T1FxWV9sRk40OXFEMUVRQUdTQ0s1WkpVUmlpa2duRlJSMWdQRmlmY3JfNXRDS0E?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-29T13:28:45+00:00",
+      "published_raw": "Wed, 29 Jul 2026 13:28:45 GMT",
+      "snippet": "Obras interditam acesso a Cedral pela Washington Luís gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-29T21:45:45.122574+00:00"
     },
     {
       "id": "c0fecc7331e4b732cc74825d1b5ab56f1d9a66ddfea8cce244e9bb4fae84d31a",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.732055+00:00"
+      "collected_at": "2026-07-29T21:45:45.122706+00:00"
     },
     {
       "id": "54a14bdf602382aa45de2cdbaa4553ab2f1cdaa2e2bae2836151c0d41ca452d4",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.731856+00:00"
+      "collected_at": "2026-07-29T21:45:45.122345+00:00"
     },
     {
       "id": "57bb5f866ebdce8b4c733e8e223299c323a6688d605bb216e9dd7663b83ceb09",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.731767+00:00"
+      "collected_at": "2026-07-29T21:45:45.122253+00:00"
     },
     {
       "id": "a8572ff8b1448b43ba55555751467d0e0f2b0a8e55bde16a736bf46add5a42bb",
@@ -128,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.731931+00:00"
-    },
-    {
-      "id": "35539cb1d11d3b1317680cad66251ac32d962feaf91505c01181a062f02cceaf",
-      "title": "Roberto de Lucena participa de encontro estadual da liderança da UMASBRAC em São Bernardo do Campo - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2wxV3VRalBWdXFMUGNZTUxtSXd2T0E2Q0lpaHAyOVBLOHJ5Z0dGM1hFVHBWSkpsemJUT3VPb0lhdE5udnN5TWhhQUczVG4yQ2hKRHVSN0NCNmxIeWpFcVJWc3hZdVNMX2JoZnUwTVhRWnNtTzJjdlluM2RyMnZMZGt0clBVR29mcGFZb2RFUk8xaENDOVVRdTFtTEZDSkdrNHpiZTFSbE0xTEFscEM4T2NWY00zWDZWbzduREpEaS01Z2t3?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-28T22:35:00+00:00",
-      "published_raw": "Tue, 28 Jul 2026 22:35:00 GMT",
-      "snippet": "Roberto de Lucena participa de encontro estadual da liderança da UMASBRAC em São Bernardo do Campo Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.732122+00:00"
-    },
-    {
-      "id": "ae5108f63951815f344578f71ae8596c7c37b8967b6dc4d500a6019360256944",
-      "title": "Jovem de 28 anos morre após batalha contra leucemia e comove moradores de Potirendaba - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3d5d3BuYzF4OVRtQ1U0VUVaejdPV2N0QndYbmotam5SeGxmLXJTcGZMSkZScGM5emdHNlh2UWRGYVRiR0JNQjJBaFVfS2NyRnNSY3FnWTdZMlREdE5uTVY2MkN5eUFkSmJMam9nYzQtbi1Dc001anRrWVNTZ2pCbjlkdnQ4aUhtWDBOVEd1MXpjZ2FyTW9TUFNSTU1NVmtVd0VNampFTVkwdW1jT09iYk5Pdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-28T19:11:00+00:00",
-      "published_raw": "Tue, 28 Jul 2026 19:11:00 GMT",
-      "snippet": "Jovem de 28 anos morre após batalha contra leucemia e comove moradores de Potirendaba Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-29T19:06:43.732183+00:00"
+      "collected_at": "2026-07-29T21:45:45.122429+00:00"
     }
   ]
 }
