@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-29T13:42:56.334042+00:00",
+  "updated_at": "2026-07-29T13:59:04.470816+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 8,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:38.907076+00:00"
+      "collected_at": "2026-07-29T13:58:48.213869+00:00"
     },
     {
       "id": "54a14bdf602382aa45de2cdbaa4553ab2f1cdaa2e2bae2836151c0d41ca452d4",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.818845+00:00"
+      "collected_at": "2026-07-29T13:58:46.260778+00:00"
     },
     {
       "id": "57bb5f866ebdce8b4c733e8e223299c323a6688d605bb216e9dd7663b83ceb09",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.818759+00:00"
+      "collected_at": "2026-07-29T13:58:46.260685+00:00"
     },
     {
       "id": "35539cb1d11d3b1317680cad66251ac32d962feaf91505c01181a062f02cceaf",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.819057+00:00"
+      "collected_at": "2026-07-29T13:58:46.261016+00:00"
     },
     {
       "id": "64ccfbdbca2689376d4b1a73a9082c81c5cdbb9734d5295f9f06d95dababd40f",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:50.526621+00:00"
+      "collected_at": "2026-07-29T13:58:59.154885+00:00"
     },
     {
       "id": "4d7dea6625a82724a2e9fbf29a99f55c928bc38b4e721b1710e2b5b1d160dce8",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.819181+00:00"
+      "collected_at": "2026-07-29T13:58:46.261087+00:00"
     },
     {
       "id": "ce60591cb85b4641fc2e37d0840084ce3d4d60841d04a7310b7226231b87178a",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.818988+00:00"
+      "collected_at": "2026-07-29T13:58:46.260938+00:00"
     },
     {
       "id": "3b1e6f0278a9a71026851d085f7622648cd1106af504af1f63ba4022af95014f",
@@ -179,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.818920+00:00"
-    },
-    {
-      "id": "07dc96aa3c6be51433eb3b605694364eb59c960411c89ef524dd21a803767291",
-      "title": "Defesa Civil envia ajuda humanitária e telhas após fortes temporais no interior paulista - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3pzcWdaNDI3ZnN6WHMxOS1vd2tCQzlaaE5XSWxYRkZUMEI4WGJha25DM0dwME83dkZidWczV3VOSVU5RUlFTGNqREVUeEVZanhOLXJyOTNGOXQtdmpGMGdBNTVoV29wTDYtNWNRS2ZqaHNPQkJMUEljbkdpQWpIakJpb3B3RnVlaG85dFhxNnlhMG0yUUVrUWF5ZFJLb0xKbms0NG1nR2RyVHd6TmR5RVpaVFU1ZWs?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-28T13:51:00+00:00",
-      "published_raw": "Tue, 28 Jul 2026 13:51:00 GMT",
-      "snippet": "Defesa Civil envia ajuda humanitária e telhas após fortes temporais no interior paulista Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-29T13:42:36.819119+00:00"
+      "collected_at": "2026-07-29T13:58:46.260861+00:00"
     }
   ]
 }
