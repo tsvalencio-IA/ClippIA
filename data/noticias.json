@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-30T19:18:13.087593+00:00",
+  "updated_at": "2026-07-30T21:57:59.525264+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "f79688132e46c9e332e42b754f9791c604a0c0a85df258e3eb9cf2efddc79e65",
+      "title": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões - Money Times",
+      "source": "Money Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJLXzhOemV1SDJpSmtUZG4xMDdCMll1SmRjbUliTjEwZmxRQnU2dWx2ZzhvNmRkbG8tNV9qeUx1dzMtVXJOUVBPOTFaOFFQVF93bUthR0VPY1pHU3FUSDJ4Z0lSTUNsV0dwQmhyaDRMTGhhd3hEV1NONV9nOF90YlduUTczOGN2dmlkQzEwSFljT3dfeXA5NU9yYWJzYkVWTTlmbmhvSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T21:34:00+00:00",
+      "published_raw": "Thu, 30 Jul 2026 21:34:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões Money Times",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-30T21:57:42.496310+00:00"
+    },
+    {
+      "id": "3f6642fa196f1ab935c4413068c94742f6b0e52aa418c6990b89269229204990",
+      "title": "EcoRodovias (ECOR3) registra lucro recorrente de R$ 52,9 mi no 2T26 - Visno Invest",
+      "source": "Visno Invest",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnlTSDMweU1VcWN3TEVKSzFBR2kzb1FMWHB2blJpYjNucEt1d3hjaTBnX1NjSDdxQlVtNHZZNEpHUnNOMDBveFRVckJVcGpMV3htUXNzYy1RcWtiRk5UU0plcVczaHk1d25sUnVwXzlhLW5mY29JREJfQzh2NlNTNkpKV3FOSFFIMGZmX0NSajdXWXFvZ1gtLVREbHQyTlZXMkFB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T21:10:00+00:00",
+      "published_raw": "Thu, 30 Jul 2026 21:10:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) registra lucro recorrente de R$ 52,9 mi no 2T26 Visno Invest",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-30T21:57:42.496472+00:00"
+    },
+    {
+      "id": "23c1305b6735151eb63b0cc73bab0b4eefaa025aee06a43446733923ef52ea92",
+      "title": "Prefeitura adia Festa das Nações 2026 em Cedral - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEVkb3pOMi1Ta3ljN1lBQUtrb2pHOXJvMGw1V0V2VW1DNVloTFhDSG92X1hXTFhQLXpGWnpmYWd5X1NGMlMyQk5HWVlYS1UtSFdsazlEeUYxOERIQ1REY09sR0V5MlBUbW9Lby1PZks3MGZKZjRYN0t2MWEzTy1EdHdMSWNEZlI4NXRkYURB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T19:37:06+00:00",
+      "published_raw": "Thu, 30 Jul 2026 19:37:06 GMT",
+      "snippet": "Prefeitura adia Festa das Nações 2026 em Cedral gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-30T21:57:53.364191+00:00"
+    },
+    {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:17:53.916157+00:00"
+      "collected_at": "2026-07-30T21:57:42.496393+00:00"
     },
     {
       "id": "12f97ec84a8d430ec0d3f4ac6e7eb8f8a206744b9f1df713dae3406cdae0854a",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:17:55.883472+00:00"
+      "collected_at": "2026-07-30T21:57:44.258920+00:00"
     },
     {
       "id": "bfc0bfac16e45fbb3967a6f59a5b1788f4fec3e32b99712eb6eac6586bf54972",
@@ -94,41 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:17:55.883364+00:00"
-    },
-    {
-      "id": "6ae3a317b8277912ce7e0633d7d2a2c7757c6a587131764b29f2cf81e7af4b5a",
-      "title": "Caminhoneiro de 62 anos m*rre após passar mal na Rodovia Washington Luís - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOa0VhWUZVOHRvaXN2VzRHek1JdmJOTWs1aUlITmI4UFBOUEhZVTF5REJlVFFlY1R5UVNuWjk5ZFY0dWxaMWt4eExWUnNLMTI3YXAwU2xqRk5fUGc4NzJZYWs0RzJTWW5velNuM3RvVHZsMHJwNHIwQ1AyU2ZiOVFldGx0R0ZKOGNhTE1TYVpXeE1VR3VPTmxKQnpCcEFBT1hwRVRscV9Db2JHQ2I0UGI0Y2lZS1paTGtoSGdIc2VLVVM3cWhVdHRpQmFkRWtCQWkxRVBoaS1HSnJUak80NlZvaVdFck1aUkpQck5mcDdlendWam8tR09ELVl2VWtSSTN0dTZ1TldRb0xWLXJ1QjM5ellPYUtqT1AxZFFHRkRYNmhMZU5lT3BPblJ5NGtTX3kyNWlyU1BwQzRiT1ZOUFZOUkplWEhfMWladmtsT1FjMnJCcEVpR1VXeG5vWFNkNGpiaFVWZVV2M1RCM0g3MnJEdDdORy1lZDNGRUtqatIB_AJBVV95cUxOa0VhWUZVOHRvaXN2VzRHek1JdmJOTWs1aUlITmI4UFBOUEhZVTF5REJlVFFlY1R5UVNuWjk5ZFY0dWxaMWt4eExWUnNLMTI3YXAwU2xqRk5fUGc4NzJZYWs0RzJTWW5velNuM3RvVHZsMHJwNHIwQ1AyU2ZiOVFldGx0R0ZKOGNhTE1TYVpXeE1VR3VPTmxKQnpCcEFBT1hwRVRscV9Db2JHQ2I0UGI0Y2lZS1paTGtoSGdIc2VLVVM3cWhVdHRpQmFkRWtCQWkxRVBoaS1HSnJUak80NlZvaVdFck1aUkpQck5mcDdlendWam8tR09ELVl2VWtSSTN0dTZ1TldRb0xWLXJ1QjM5ellPYUtqT1AxZFFHRkRYNmhMZU5lT3BPblJ5NGtTX3kyNWlyU1BwQzRiT1ZOUFZOUkplWEhfMWladmtsT1FjMnJCcEVpR1VXeG5vWFNkNGpiaFVWZVV2M1RCM0g3MnJEdDdORy1lZDNGRUtqag?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-29T22:29:26+00:00",
-      "published_raw": "Wed, 29 Jul 2026 22:29:26 GMT",
-      "snippet": "Caminhoneiro de 62 anos m*rre após passar mal na Rodovia Washington Luís - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-30T19:17:53.916310+00:00"
-    },
-    {
-      "id": "40757d36a5a482c1f55b4915d5923d219642bb81788c58840e796d92c3a6ba06",
-      "title": "Motoristas ignoram interdição e fazem conversão proibida em trevo de Cedral - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbk5EOWpHZTFrRXoxZ052UmNwd3h1SkJBWWdheFB6NzZyYlV3NGItTmt5UEFqVnRTaXFOMHFMcDlTOU12bVNyMlVjQkpfRDhwVzd2clVTUWVqM2hSMGg4UEk5TXN1Y0dxU3lVc1k0V3UwUWpEaDBGVG9BSWFZYjFvbldQTHdwU21YbE0yd1FvaEU5Y0NMbEJidG9CV1JZTkJ1dE1XZ1E4WFlhaFdKc2RJbXJRQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-29T20:13:45+00:00",
-      "published_raw": "Wed, 29 Jul 2026 20:13:45 GMT",
-      "snippet": "Motoristas ignoram interdição e fazem conversão proibida em trevo de Cedral gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-30T19:17:53.916400+00:00"
+      "collected_at": "2026-07-30T21:57:44.259014+00:00"
     }
   ]
 }
