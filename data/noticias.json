@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-30T13:24:17.043851+00:00",
+  "updated_at": "2026-07-30T13:48:00.236377+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,16 +60,16 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:23:59.626180+00:00"
+      "collected_at": "2026-07-30T13:47:42.272785+00:00"
     },
     {
       "id": "12f97ec84a8d430ec0d3f4ac6e7eb8f8a206744b9f1df713dae3406cdae0854a",
       "title": "Caminhoneiro morre após sofrer mal súbito na rodovia Washington Luís - São Carlos Agora",
       "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSC1nam1NSnJvOHFKN2VOaG9kRV80bWlXNXpOVDdDNGVseGdQbVl2TUtSbWhieU5fbC1yVElodHJYTXdsV1l6S3RXUjgwUVRraHRkNTlNR0ZtSVk2NWVvZjlSX0FmNnd0WkVWcEVYTG9tcVBFMUpQc0tMM01nVm5yeEJXLWx5cUNrdlgtamZkNEtINHYtNlBhUklzZUdRQVFwZ1NYendRcHBBYm9JTjJla1FuTFJGeExh0gG-AUFVX3lxTFBJNVpiT2hyN25pZDIzNDdWVFRNQXRGVENpN3V1cFRYeVRRTTZmQ3hNdXFhbVB4YWtsWWhqdVZaMGRSa2VRZEQ0V29kYUotbGVWRG5KM3RfWVFDaE1zYU9lRHVkWWhTdTI0VmQ1YnlsaXp3V1dWUC1NNURNV3Nad0F2cGRWekx1WTF5UFRCM0tnSUlsMEZqbDhoUjI0RjVqUEtJLW9YZl9qRFFRY0oySVN5SnhGMHVQUVdkME9RcWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTVaYk9ocjduaWQyMzQ3VlRUTUF0RlRDaTd1dXBUWHlUUU02ZkN4TXVxYW1QeGFrbFloanVWWjBkUmtlUWRENFdvZGFKLWxlVkRuSjN0X1lRQ2hNc2FPZUR1ZFloU3UyNFZkNWJ5bGl6d1dXVlAtTTVETVdzWndBdnBkVnpMdVkxeVBUQjNLZ0lJbDBGamw4aFIyNEY1alBLSS1vWGZfakRRUWNKMklTeUp4RjB1UFFXZDBPUXFn0gG-AUFVX3lxTFBJNVpiT2hyN25pZDIzNDdWVFRNQXRGVENpN3V1cFRYeVRRTTZmQ3hNdXFhbVB4YWtsWWhqdVZaMGRSa2VRZEQ0V29kYUotbGVWRG5KM3RfWVFDaE1zYU9lRHVkWWhTdTI0VmQ1YnlsaXp3V1dWUC1NNURNV3Nad0F2cGRWekx1WTF5UFRCM0tnSUlsMEZqbDhoUjI0RjVqUEtJLW9YZl9qRFFRY0oySVN5SnhGMHVQUVdkME9RcWc?oc=5",
       "resolved_link": "",
-      "published": "2026-07-30T08:00:00+00:00",
-      "published_raw": "Thu, 30 Jul 2026 08:00:00 GMT",
+      "published": "2026-07-30T08:05:39+00:00",
+      "published_raw": "Thu, 30 Jul 2026 08:05:39 GMT",
       "snippet": "Caminhoneiro morre após sofrer mal súbito na rodovia Washington Luís São Carlos Agora",
       "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:24:01.443384+00:00"
+      "collected_at": "2026-07-30T13:47:44.062428+00:00"
     },
     {
       "id": "bfc0bfac16e45fbb3967a6f59a5b1788f4fec3e32b99712eb6eac6586bf54972",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:24:01.443508+00:00"
+      "collected_at": "2026-07-30T13:47:44.062360+00:00"
     },
     {
       "id": "6ae3a317b8277912ce7e0633d7d2a2c7757c6a587131764b29f2cf81e7af4b5a",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:23:59.626280+00:00"
+      "collected_at": "2026-07-30T13:47:42.272895+00:00"
     },
     {
       "id": "40757d36a5a482c1f55b4915d5923d219642bb81788c58840e796d92c3a6ba06",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:23:59.626478+00:00"
+      "collected_at": "2026-07-30T13:47:42.273118+00:00"
     },
     {
       "id": "1578a7dda4c2e9021e0c7dcefabe93bf983ff2dce2891942b010bf290cac9536",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T13:23:59.626357+00:00"
-    },
-    {
-      "id": "3f187df6fb9091f3f742d5a227cf0908ba57f8586ba281e2659f30fc29935ed1",
-      "title": "Obras interditam acesso a Cedral pela Washington Luís - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYS14OU9SWnVNWWFTX1oxbUE1Z2hBYVozQjdMUnBFQWRjQ25tTXZZX2xmZy1LSGdoc0VoZ0hpT040UTc5Y1BES0lNWnhfbWJFMDB1VnJEMlQ3XzY0WGgzdENoT2R4RkI0T1FxWV9sRk40OXFEMUVRQUdTQ0s1WkpVUmlpa2duRlJSMWdQRmlmY3JfNXRDS0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-29T13:28:45+00:00",
-      "published_raw": "Wed, 29 Jul 2026 13:28:45 GMT",
-      "snippet": "Obras interditam acesso a Cedral pela Washington Luís gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-30T13:23:59.626417+00:00"
+      "collected_at": "2026-07-30T13:47:42.273043+00:00"
     }
   ]
 }
