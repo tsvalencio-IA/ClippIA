@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T19:07:13.575977+00:00",
+  "updated_at": "2026-07-30T19:18:13.087593+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 5,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:06:53.881827+00:00"
+      "collected_at": "2026-07-30T19:17:53.916157+00:00"
     },
     {
       "id": "12f97ec84a8d430ec0d3f4ac6e7eb8f8a206744b9f1df713dae3406cdae0854a",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:06:55.898224+00:00"
+      "collected_at": "2026-07-30T19:17:55.883472+00:00"
     },
     {
       "id": "bfc0bfac16e45fbb3967a6f59a5b1788f4fec3e32b99712eb6eac6586bf54972",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:06:55.898144+00:00"
+      "collected_at": "2026-07-30T19:17:55.883364+00:00"
     },
     {
       "id": "6ae3a317b8277912ce7e0633d7d2a2c7757c6a587131764b29f2cf81e7af4b5a",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:06:53.881926+00:00"
+      "collected_at": "2026-07-30T19:17:53.916310+00:00"
     },
     {
       "id": "40757d36a5a482c1f55b4915d5923d219642bb81788c58840e796d92c3a6ba06",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-30T19:06:53.881996+00:00"
+      "collected_at": "2026-07-30T19:17:53.916400+00:00"
     }
   ]
 }
