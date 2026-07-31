@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-07-31T16:32:44.212032+00:00",
+  "updated_at": "2026-07-31T16:41:53.319559+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 5,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 5,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,91 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "1e497072f60d7c8dfff8d2d207e69962ad03f978cdcf085dc411aa45435081ae",
+      "title": "Lucro da Ecorodovias (ECOR3) derrapa 74% no 2T26, com foco em investimentos - Investidor10",
+      "source": "Investidor10",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0luQWhHcjh3bzRWREV1ckZEdm1GWC1hZ1ZrNDU4Z3prNzI0VDF4X2NVZzJSQ2c5UERjRDlkN1V3UjVrNzZIcjUyRWlCWkF3RUczUTFpX3d3WThEUzVPZzUtTFNuNFZaTzlYRDM2VWhCaFc3R1AyVjFxcUJIRl9zb2wySGZLOGhOMHhRRk5qTWZ2bEU3X3ZiMWR0ZDZoZ3FuUG1XTF90MUhrWXptQWQ0MEVndDU2YXVITk5Eb9IBvAFBVV95cUxPc0luQWhHcjh3bzRWREV1ckZEdm1GWC1hZ1ZrNDU4Z3prNzI0VDF4X2NVZzJSQ2c5UERjRDlkN1V3UjVrNzZIcjUyRWlCWkF3RUczUTFpX3d3WThEUzVPZzUtTFNuNFZaTzlYRDM2VWhCaFc3R1AyVjFxcUJIRl9zb2wySGZLOGhOMHhRRk5qTWZ2bEU3X3ZiMWR0ZDZoZ3FuUG1XTF90MUhrWXptQWQ0MEVndDU2YXVITk5Ebw?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-31T00:12:00+00:00",
+      "published_raw": "Fri, 31 Jul 2026 00:12:00 GMT",
+      "snippet": "Lucro da Ecorodovias (ECOR3) derrapa 74% no 2T26, com foco em investimentos Investidor10",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-31T16:41:36.782756+00:00"
+    },
+    {
+      "id": "5ef410ac351fbcdf7420ccc29b1113dd8799d5541bc3b656136416b709b207d9",
+      "title": "Resultado financeiro pressiona e lucro da Ecorodovias recua para R$ 20,9 milhões no 2º trimestre - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORERyU0dZN3hHenkwS1BNNVB0YXEtV2VlV2hseDh6S2dMSmVRdGlWNXVENXA1RUxOMGl3UWFrOS0tRlBfbzhXQ2VCT09BVWlYUnE5ZkJ3RTF4eDdpb3BXNlkzTlo3T3lvT2RBQWJUMU9INENYRVdIdlo0R3VUZHl0cmhXc2xHbjZVYUhWWklpa3VzU2NYWElDQUVIcG9NNkk1Um5ma0ZTNTI1czVXaDA5cjIwT1FEVlRwaG0tSG9OLTRtZDB3UVQ0OEw4SDQxVnFPWXd6QTIyN0s2eHRLS1BEUlVDSldCVS1mXzNHLS1KRVU3UmvSAfMBQVVfeXFMTkREclNHWTd4R3p5MEtQTTVQdGFxLVdlZVdobHg4ektnTEplUXRpVjV1RDVwNUVMTjBpd1FhazktLUZQX284V0NlQk9PQVVpWFJxOWZCd0UxeHg3aW9wVzZZM05aN095b09kQUFiVDFPSDRDWEVXSHZaNEd1VGR5dHJoV3NsR242VWFIVlpJaWt1c1NjWFhJQ0FFSHBvTTZJNVJuZmtGUzUyNXM1V2gwOXIyME9RRFZUcGhtLUhvTi00bWQwd1FUNDhMOEg0MVZxT1l3ekEyMjdLNnh0S0tQRFJVQ0pXQlUtZl8zRy0tSkVVN1Jr?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T21:58:34+00:00",
+      "published_raw": "Thu, 30 Jul 2026 21:58:34 GMT",
+      "snippet": "Resultado financeiro pressiona e lucro da Ecorodovias recua para R$ 20,9 milhões no 2º trimestre Valor Econômico",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-31T16:41:36.782665+00:00"
+    },
+    {
+      "id": "f79688132e46c9e332e42b754f9791c604a0c0a85df258e3eb9cf2efddc79e65",
+      "title": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões - Money Times",
+      "source": "Money Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJLXzhOemV1SDJpSmtUZG4xMDdCMll1SmRjbUliTjEwZmxRQnU2dWx2ZzhvNmRkbG8tNV9qeUx1dzMtVXJOUVBPOTFaOFFQVF93bUthR0VPY1pHU3FUSDJ4Z0lSTUNsV0dwQmhyaDRMTGhhd3hEV1NONV9nOF90YlduUTczOGN2dmlkQzEwSFljT3dfeXA5NU9yYWJzYkVWTTlmbmhvSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T21:34:00+00:00",
+      "published_raw": "Thu, 30 Jul 2026 21:34:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões Money Times",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-31T16:41:36.782835+00:00"
+    },
+    {
+      "id": "3f6642fa196f1ab935c4413068c94742f6b0e52aa418c6990b89269229204990",
+      "title": "EcoRodovias (ECOR3) registra lucro recorrente de R$ 52,9 mi no 2T26 - Visno Invest",
+      "source": "Visno Invest",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnlTSDMweU1VcWN3TEVKSzFBR2kzb1FMWHB2blJpYjNucEt1d3hjaTBnX1NjSDdxQlVtNHZZNEpHUnNOMDBveFRVckJVcGpMV3htUXNzYy1RcWtiRk5UU0plcVczaHk1d25sUnVwXzlhLW5mY29JREJfQzh2NlNTNkpKV3FOSFFIMGZmX0NSajdXWXFvZ1gtLVREbHQyTlZXMkFB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T21:10:00+00:00",
+      "published_raw": "Thu, 30 Jul 2026 21:10:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) registra lucro recorrente de R$ 52,9 mi no 2T26 Visno Invest",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-31T16:41:36.782902+00:00"
+    },
+    {
+      "id": "23c1305b6735151eb63b0cc73bab0b4eefaa025aee06a43446733923ef52ea92",
+      "title": "Prefeitura adia Festa das Nações 2026 em Cedral - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEVkb3pOMi1Ta3ljN1lBQUtrb2pHOXJvMGw1V0V2VW1DNVloTFhDSG92X1hXTFhQLXpGWnpmYWd5X1NGMlMyQk5HWVlYS1UtSFdsazlEeUYxOERIQ1REY09sR0V5MlBUbW9Lby1PZks3MGZKZjRYN0t2MWEzTy1EdHdMSWNEZlI4NXRkYURB?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-30T19:37:06+00:00",
+      "published_raw": "Thu, 30 Jul 2026 19:37:06 GMT",
+      "snippet": "Prefeitura adia Festa das Nações 2026 em Cedral gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-07-31T16:41:36.782968+00:00"
+    }
+  ]
 }
