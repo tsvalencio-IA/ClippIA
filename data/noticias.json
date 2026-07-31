@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-31T11:26:36.358542+00:00",
+  "updated_at": "2026-07-31T13:28:19.927822+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140143+00:00"
+      "collected_at": "2026-07-31T13:28:02.277389+00:00"
     },
     {
       "id": "5ef410ac351fbcdf7420ccc29b1113dd8799d5541bc3b656136416b709b207d9",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140028+00:00"
+      "collected_at": "2026-07-31T13:28:02.277304+00:00"
     },
     {
       "id": "f79688132e46c9e332e42b754f9791c604a0c0a85df258e3eb9cf2efddc79e65",
@@ -88,13 +88,13 @@
       "published": "2026-07-30T21:34:00+00:00",
       "published_raw": "Thu, 30 Jul 2026 21:34:00 GMT",
       "snippet": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões Money Times",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140194+00:00"
+      "collected_at": "2026-07-31T13:28:02.277462+00:00"
     },
     {
       "id": "3f6642fa196f1ab935c4413068c94742f6b0e52aa418c6990b89269229204990",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140239+00:00"
+      "collected_at": "2026-07-31T13:28:02.277554+00:00"
     },
     {
       "id": "23c1305b6735151eb63b0cc73bab0b4eefaa025aee06a43446733923ef52ea92",
@@ -128,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140286+00:00"
-    },
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXcxV3FnODM4YkYtMnp2S2JpVnB3eHZkM1F3SzlwdzQ1WjBiZXF2aWlEcUhhR21TdkNWSVJNclZZYW5KdGNFdWFrUGhCRjg5VURJaElrRkVfSjFSc0FzUzYyR2gwdC1PR09vV1M5Vl82cUVaVEhQODBVNG1VdE9ONFpxLVdabmFzTVc4SWdLSHV3NVp1MXF4OUk4RFhRNHMwQ1AtVXljWjdEVmpxTlp6aA?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-30T13:08:28+00:00",
-      "published_raw": "Thu, 30 Jul 2026 13:08:28 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-31T11:26:19.140089+00:00"
+      "collected_at": "2026-07-31T13:28:02.277621+00:00"
     }
   ]
 }
