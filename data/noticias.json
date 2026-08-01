@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T05:51:29.371877+00:00",
+  "updated_at": "2026-08-01T08:01:02.065578+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -54,13 +54,13 @@
       "published": "2026-07-31T20:58:00+00:00",
       "published_raw": "Fri, 31 Jul 2026 20:58:00 GMT",
       "snippet": "Ecorodovias (ECOR3) 2T26: BB-BI altera recomendação para neutra. Entenda InvesTalk",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-01T05:51:14.533778+00:00"
+      "collected_at": "2026-08-01T08:00:44.681659+00:00"
     },
     {
       "id": "5a6e44dfa8a6e0458fa66e747548c53613fbab47d390e08d45aade20641edc3c",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-01T05:51:14.533916+00:00"
+      "collected_at": "2026-08-01T08:00:44.681742+00:00"
     }
   ]
 }
