@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-01T15:57:41.369089+00:00",
+  "updated_at": "2026-08-01T18:52:01.197036+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-01T15:57:25.301851+00:00"
-    },
-    {
-      "id": "5a6e44dfa8a6e0458fa66e747548c53613fbab47d390e08d45aade20641edc3c",
-      "title": "Motoristas reclamam de desvio de 4 km para acessar Cedral - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmliYk1mVVRpc1hKWFVNaEFpWFQxMmFmREEwMTBjZGFFb3BmdG1oTVY2Y3FTdlBvQjRhU2JWUWF0NTJFN2tUb18zWDhsNU8zV2RteFNOdUw3bWUwem51RHRLZXZjQnNfVjM5eElpMnBwSllITDB4MFZfV0tlU2FiSEs0akRpTjBGNlJtbUhLN1VpZ3lxTmVFaUxraw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-31T18:09:36+00:00",
-      "published_raw": "Fri, 31 Jul 2026 18:09:36 GMT",
-      "snippet": "Motoristas reclamam de desvio de 4 km para acessar Cedral gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-01T15:57:25.301941+00:00"
+      "collected_at": "2026-08-01T18:51:45.141769+00:00"
     }
   ]
 }
