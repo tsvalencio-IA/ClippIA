@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T22:00:22.884492+00:00",
+  "updated_at": "2026-08-01T01:46:47.223383+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "b2ded34e25f4b03b25bc29cd1929bd586fab72ed467e0587a10f9ae75a153c6f",
+      "title": "Ecorodovias (ECOR3) 2T26: BB-BI altera recomendação para neutra. Entenda - InvesTalk",
+      "source": "InvesTalk",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqLURlRmhQcXJQNUpMcGNnZ0hvUWx5M0ZpNjVVemFhSTZZNkN1Y0MtZUY4TWxzdzB6cnUxUmR3U2lEUXkyNFFhanlXc3l2YXQ4Z3NKaEdhbkZoNzlkTUFTbmFrQmU?oc=5",
+      "resolved_link": "",
+      "published": "2026-07-31T20:58:00+00:00",
+      "published_raw": "Fri, 31 Jul 2026 20:58:00 GMT",
+      "snippet": "Ecorodovias (ECOR3) 2T26: BB-BI altera recomendação para neutra. Entenda InvesTalk",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-01T01:46:31.323365+00:00"
+    },
+    {
       "id": "5a6e44dfa8a6e0458fa66e747548c53613fbab47d390e08d45aade20641edc3c",
       "title": "Motoristas reclamam de desvio de 4 km para acessar Cedral - gazetainterior.com.br",
       "source": "gazetainterior.com.br",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-07-31T22:00:06.084086+00:00"
-    },
-    {
-      "id": "1e497072f60d7c8dfff8d2d207e69962ad03f978cdcf085dc411aa45435081ae",
-      "title": "Lucro da Ecorodovias (ECOR3) derrapa 74% no 2T26, com foco em investimentos - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0luQWhHcjh3bzRWREV1ckZEdm1GWC1hZ1ZrNDU4Z3prNzI0VDF4X2NVZzJSQ2c5UERjRDlkN1V3UjVrNzZIcjUyRWlCWkF3RUczUTFpX3d3WThEUzVPZzUtTFNuNFZaTzlYRDM2VWhCaFc3R1AyVjFxcUJIRl9zb2wySGZLOGhOMHhRRk5qTWZ2bEU3X3ZiMWR0ZDZoZ3FuUG1XTF90MUhrWXptQWQ0MEVndDU2YXVITk5Eb9IBvAFBVV95cUxPc0luQWhHcjh3bzRWREV1ckZEdm1GWC1hZ1ZrNDU4Z3prNzI0VDF4X2NVZzJSQ2c5UERjRDlkN1V3UjVrNzZIcjUyRWlCWkF3RUczUTFpX3d3WThEUzVPZzUtTFNuNFZaTzlYRDM2VWhCaFc3R1AyVjFxcUJIRl9zb2wySGZLOGhOMHhRRk5qTWZ2bEU3X3ZiMWR0ZDZoZ3FuUG1XTF90MUhrWXptQWQ0MEVndDU2YXVITk5Ebw?oc=5",
-      "resolved_link": "",
-      "published": "2026-07-31T00:12:00+00:00",
-      "published_raw": "Fri, 31 Jul 2026 00:12:00 GMT",
-      "snippet": "Lucro da Ecorodovias (ECOR3) derrapa 74% no 2T26, com foco em investimentos Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-07-31T22:00:06.084005+00:00"
+      "collected_at": "2026-08-01T01:46:31.323454+00:00"
     }
   ]
 }
