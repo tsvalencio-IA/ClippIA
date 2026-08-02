@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-02T08:14:15.284444+00:00",
+  "updated_at": "2026-08-02T10:24:02.675895+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 2,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,40 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "000969fbb4b2827cd84dfa95421c5caed9b96973b6cafcbfb8f869f7bdbe104e",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 2/3 a 8/3/2026 - jornalpp.com.br",
+      "source": "jornalpp.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXYzZXM0RW5nN20xcG5UbXU3RFl3QzFuWlNoejBXQm5kOGp2cUxRS3M2QVkxVXBsX0padGpzQjhlMkJHMkN2VE5OVl9jOTRwODU0R2oyVG9yWUJ1b0c4c3E3eU85Tk0zeGN4LVpQWUM1NVM3SlpudFcya3BMV29jalJCTFd0U1l3UTRNdGFvcWtwSmJCMGxOeHNwbFNvcW9XMnYweDNMVmZJOUJFYzRZa2VjOA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-02T03:13:41+00:00",
+      "published_raw": "Sun, 02 Aug 2026 03:13:41 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 2/3 a 8/3/2026 jornalpp.com.br",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-02T10:23:48.584731+00:00"
+    },
+    {
+      "id": "3524336757bbb1442225929c6fde8377ad5ec7356982e2030a33dd33d8135c56",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 2/3 a 8/3/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXYzZXM0RW5nN20xcG5UbXU3RFl3QzFuWlNoejBXQm5kOGp2cUxRS3M2QVkxVXBsX0padGpzQjhlMkJHMkN2VE5OVl9jOTRwODU0R2oyVG9yWUJ1b0c4c3E3eU85Tk0zeGN4LVpQWUM1NVM3SlpudFcya3BMV29jalJCTFd0U1l3UTRNdGFvcWtwSmJCMGxOeHNwbFNvcW9XMnYweDNMVmZJOUJFYzRZa2VjOA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-02T03:13:41+00:00",
+      "published_raw": "Sun, 02 Aug 2026 03:13:41 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 2/3 a 8/3/2026 Jornal Primeira Página",
+      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-02T10:24:00.165620+00:00"
+    }
+  ]
 }
