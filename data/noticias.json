@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-03T19:16:38.829932+00:00",
+  "updated_at": "2026-08-03T19:24:32.233966+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-08-03T16:28:00+00:00",
       "published_raw": "Mon, 03 Aug 2026 16:28:00 GMT",
       "snippet": "Pista da Washington Luís é totalmente interditada após caminhão atingir passarela São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-03T19:16:33.480951+00:00"
+      "collected_at": "2026-08-03T19:24:27.366901+00:00"
     },
     {
       "id": "b5239bae6547b69aab4c67985de642513f4f1ae8c39f41f084dfb8909eca6898",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-03T19:16:22.555946+00:00"
-    },
-    {
-      "id": "2788bd6122b3fdc2cb5ea5985d45feeeaea1ea736630d77cc055ee8906d1736d",
-      "title": "Carreta com maquinário pesado tomba na Washington Luís e deixa dois feridos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWZZckx3RlYxektmRHh5T0ZKM0duN3ctSm1jbEFwSVNzSGVfVEV6SXZwdktVNGk2cjNVbnJ0RUk1S0R1bk1FQTgtbERuUUR3eUszQzFKbV84bmRSZnlobVNKZEpoRFotSTk5UkppRkVlTmlIMWtmTmtrbFhDbElma2JnU0M5a1N1b0dHNmdwQTVxS0ZiNTVaVFBXSGtTZDNxT3phX1h6TzRqOGVvdXfSAa4BQVVfeXFMUEVmWXJMd0ZWMXpLZkR4eU9GSjNHbjd3LUptY2xBcElTc0hlX1RFekl2cHZLVTRpNnIzVW5ydEVJNUtEdW5NRUE4LWxEblFEd3lLM0MxSm1fOG5kUmZ5aG1TSmRKaERaLUk5OVJKaUZFZU5pSDFrZk5ra2xYQ2xJZmtiZ1NDOWtTdW9HRzZncEE1cUtGYjU1WlRQV0hrU2QzcU96YV9Yek80ajhlb3V3?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T16:09:34+00:00",
-      "published_raw": "Mon, 03 Aug 2026 16:09:34 GMT",
-      "snippet": "Carreta com maquinário pesado tomba na Washington Luís e deixa dois feridos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Econoroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Econoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-03T19:16:23.593666+00:00"
+      "collected_at": "2026-08-03T19:24:15.840966+00:00"
     },
     {
       "id": "1bc04893bf61d82891f39a16d49f72465e114663028268ae4d1aace40420870c",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-03T19:16:22.556037+00:00"
+      "collected_at": "2026-08-03T19:24:15.841054+00:00"
     }
   ]
 }
