@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-03T12:17:39.358564+00:00",
+  "updated_at": "2026-08-03T17:03:29.698641+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 2,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,40 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "b5239bae6547b69aab4c67985de642513f4f1ae8c39f41f084dfb8909eca6898",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 3/8 a 9/8/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3hYRlcwendLT3dPWG5iVjF1NHh1ZGxRRDdFSXlaZGxvTi1UX0czN0t5dUlHbDVtZmU3R3FkRVJyODh0cGQ3OC1TRldWd0dIWGFXcXpwQkN2VUFUS2pJbFpCbjdUaGZRMkNhaTRjbEI5Sk16Y2xaM3BDZFMzQlV0M18zaXN4cThPdGdTTXh2cHVwc084czNRWmc5UnZDanljOGpmeFhjZWtsS3FmYUdBYjFrMA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:13:07+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:13:07 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 3/8 a 9/8/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-03T17:03:13.015286+00:00"
+    },
+    {
+      "id": "1bc04893bf61d82891f39a16d49f72465e114663028268ae4d1aace40420870c",
+      "title": "Caminhão atinge passarela, interdita SP-310 e deixa ferido grave em São Carlos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSm1ZRWZ6bmZIZnNJN1JoaGZUVVdmcTZ0ZFlxSTlrbm5mX2R4NHNSbGJ3eWNGNTViYzFTZy1tZ1VpY3AyRVhPTGJSWDg0Z0dDMlRJYVBKTE8xd3JqTEU5bERXbEdTSXdXRTE3cUQzMmRpcGszUXNhSW9zcXRxdzhENkd1ZkhIeDFBbGNuYUZGckt4WGVpeGdmcGVnZDRyY0FDT1FfTnZxQmEwUVJKTTF6RmUzZllySW14M3JMQw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:07:01+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:07:01 GMT",
+      "snippet": "Caminhão atinge passarela, interdita SP-310 e deixa ferido grave em São Carlos Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-03T17:03:13.015405+00:00"
+    }
+  ]
 }
