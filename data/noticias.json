@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:45:45.884490+00:00",
+  "updated_at": "2026-08-04T16:48:55.962326+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 16,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "e3b111404c0ec1a11c0a8da6e97f65d4110742c9c9f43551c9f7994cf874d669",
+      "title": "Ambulância bate na traseira de caminhão na SP 326 e acidente registra feridos - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTBMblVtYmxSdnU2T3NTVzFfUElLV3pqOWZxZmdHWWEyUDQ2QVZfOEp4aDlydFZNZllnUmJTSkNhMEoySkRUZEJWSFBQV3FSZ2FxdS02RHI3LVNLamdRRlJaRUxpekNpVVYwWjlsdExyXzlJeVpZdmJEeE5ON1c1dFZzVnpDUk110gGOAUFVX3lxTE9fSE9DcGh5Ympjb2ZiaVBmZFQ4ZXcwVzBaNVJNdzB6U0Ewa0xXS21RWlVhZncwYUF6d3FyTHpGUDlENlNTOFdyZEV0eW83dzVraVNXLW5XdVFFUGZoMTF0emRQYkZkdHBwUjZzY2lKV1BzQkFYeFFwNV9acjIxd2Izd1AtZzdrSGtrbzdDaFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-04T14:00:00+00:00",
+      "published_raw": "Tue, 04 Aug 2026 14:00:00 GMT",
+      "snippet": "Ambulância bate na traseira de caminhão na SP 326 e acidente registra feridos - São Carlos em Rede São Carlos em Rede",
+      "term": "\"SP-326\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T16:48:54.548846+00:00"
+    },
+    {
       "id": "22ad4454957d65231e54cd384e349bf1ced0d9c93e66e1bcb094ccb7097113bf",
       "title": "Rodovia Washington Luís e passarela são liberadas após acidente com caminhão em São Carlos - Região em Destake",
       "source": "Região em Destake",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428504+00:00"
-    },
-    {
-      "id": "c31038394dd2b1df9d2c70e22a12749fe86d1afa3e6b1e043f5d25658af81c00",
-      "title": "Passarela atingida por caminhão na Washington Luís é liberada após reparos em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVhRdUQwaDAyR280UWNWZ0NoMWNmMUJTQnRwc25yV2lDVERGSXo5VjRuVk5ISS1VbzhPZkx6bUFma1d2V2FPSk05WE1rc2tHc3phTlVSY3BZcHM5REVlYlNsYjUzckt1amNLZG1nYm5rWEJlTzJtZk5DNlh3eHd5UFNha1ZhQnlwbTN2aVZDTTJIcWNfTHhJYkt4bVFtZnE4VVlGaGNmclVld0lWVTAwZjNpdm5Td9IBuwFBVV95cUxQUUV4YzV4dzNtVWNLeTNsTy00a1ZNNjJQc1ZDVy1oampzTVFucVI4MzZmVVRUQ0xGQjNFV1BJc1lBZWVreTFaQ1VndGdhNTBTbGZGRDVtbkV3VTcteTAwTnc1a2J4LVhCZ3dXaWtrZTJ0NWdpeGEwbmozcjRRNjR5YkdZZENKbkpKcDU5UGF1Q2d4UmJuYUxfTDdDY09wYktwSFdpLWFIXzEwYkRhV3RCTDN0LVItSVVzQUtr?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-04T13:12:00+00:00",
-      "published_raw": "Tue, 04 Aug 2026 13:12:00 GMT",
-      "snippet": "Passarela atingida por caminhão na Washington Luís é liberada após reparos em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T16:45:31.076583+00:00"
+      "collected_at": "2026-08-04T16:48:40.274405+00:00"
     },
     {
       "id": "5a673908ee09d7432039fbcc2c1ae7f4c35de4fb5a2bde642805c037be18a0dc",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:39.874481+00:00"
+      "collected_at": "2026-08-04T16:48:50.213822+00:00"
     },
     {
       "id": "8da4c9b4fbfd126c4ba731deafcc411039bdc830265c09368d27690cec8258da",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428679+00:00"
+      "collected_at": "2026-08-04T16:48:40.274603+00:00"
     },
     {
       "id": "bbb24be0682605290aae0a7ecdb5ce7a07eb4ede89e1fe14f0ebcfe6a9219b37",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428837+00:00"
+      "collected_at": "2026-08-04T16:48:40.274762+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428319+00:00"
+      "collected_at": "2026-08-04T16:48:40.274215+00:00"
     },
     {
       "id": "92c7857f4b1ac5da16e86e220d430c5ae292e664a71a558d8620af3ebe55745e",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428760+00:00"
+      "collected_at": "2026-08-04T16:48:40.274686+00:00"
     },
     {
       "id": "6244377b448c1049dd7667527c403fa05dc979c888ff4267feafd059b8f801f7",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.956657+00:00"
+      "collected_at": "2026-08-04T16:48:40.862900+00:00"
     },
     {
       "id": "054243042ab5821986c97b0e33fecd65981493dd23ac6ee5da4b01f628df7ab8",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:40.411689+00:00"
+      "collected_at": "2026-08-04T16:48:50.740933+00:00"
     },
     {
       "id": "d3247266aad395164a151edb8f1fb13f314aa24163779607e70ce1244b7da69d",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428418+00:00"
+      "collected_at": "2026-08-04T16:48:40.274320+00:00"
     },
     {
       "id": "5de99ec5e5e65bcd5be5f2da14cc6798f152b157a18c112f72cad6eaef8dd919",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428600+00:00"
+      "collected_at": "2026-08-04T16:48:40.274499+00:00"
     },
     {
       "id": "bf21148b610ad416bb47f9a30e6e2b7d32e65278e07074ea39523266d2cf8114",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:40.411510+00:00"
+      "collected_at": "2026-08-04T16:48:50.740794+00:00"
     },
     {
       "id": "c8476479d2516189fc44d0cfe0cb7e479db5b529da4d80fc55b5c75ecfc9e7bb",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:29.428916+00:00"
+      "collected_at": "2026-08-04T16:48:40.274838+00:00"
     },
     {
       "id": "fca32425f14d171aa000a2189be38bd5097da7af981a14f1b14859819b0fe4a9",
@@ -275,13 +275,13 @@
       "published": "2026-08-03T21:13:00+00:00",
       "published_raw": "Mon, 03 Aug 2026 21:13:00 GMT",
       "snippet": "Caminhão colide contra passarela e deixa três feridos na rodovia Washington Luís (SP-310) em São Carlos Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:40.994201+00:00"
+      "collected_at": "2026-08-04T16:48:41.938799+00:00"
     },
     {
       "id": "d67c702ffd99acb63554033d2cc399a0f432a30b32328e82f0fba4359d6537ae",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:40.994024+00:00"
+      "collected_at": "2026-08-04T16:48:51.310478+00:00"
     },
     {
       "id": "26462275074cb05b4f5750b4ceb7d953f96609774ae15fbe808a31572cdd3d93",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T16:45:40.411600+00:00"
+      "collected_at": "2026-08-04T16:48:50.740864+00:00"
     }
   ]
 }
