@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T22:02:15.290195+00:00",
+  "updated_at": "2026-08-04T22:07:32.472669+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 14,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083551+00:00"
+      "collected_at": "2026-08-04T22:07:15.895525+00:00"
     },
     {
       "id": "e3b111404c0ec1a11c0a8da6e97f65d4110742c9c9f43551c9f7994cf874d669",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083685+00:00"
+      "collected_at": "2026-08-04T22:07:15.895685+00:00"
+    },
+    {
+      "id": "4e96ea3f436142dcf77288ed6eb9d239e909fb406eed4b3353f0db967cd78f58",
+      "title": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaklLYWFqak5GWVJIeXZqeGlMZjd0MzRDZ2pEZERUZFl1bDBEeHUwcGRfMzA4WGU5R1I1V3NUbTFxLVBvNFJvRmFvR3VxYUxUMmtNUERTZ0lWYnZwTllwVnp1akRUR1VUdlpQcXNBa09UUDZNRVJXWUFzN2V6eU9ieDBZODY4cXV4VDh1aFZkeEYxajBIV3hpQUxuQ2dlNE4zdmp5cTNEX05YYmJGVFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-04T13:25:44+00:00",
+      "published_raw": "Tue, 04 Aug 2026 13:25:44 GMT",
+      "snippet": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima odefensor.com.br",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T22:07:27.540586+00:00"
     },
     {
       "id": "c31038394dd2b1df9d2c70e22a12749fe86d1afa3e6b1e043f5d25658af81c00",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083817+00:00"
-    },
-    {
-      "id": "4e96ea3f436142dcf77288ed6eb9d239e909fb406eed4b3353f0db967cd78f58",
-      "title": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaklLYWFqak5GWVJIeXZqeGlMZjd0MzRDZ2pEZERUZFl1bDBEeHUwcGRfMzA4WGU5R1I1V3NUbTFxLVBvNFJvRmFvR3VxYUxUMmtNUERTZ0lWYnZwTllwVnp1akRUR1VUdlpQcXNBa09UUDZNRVJXWUFzN2V6eU9ieDBZODY4cXV4VDh1aFZkeEYxajBIV3hpQUxuQ2dlNE4zdmp5cTNEX05YYmJGVFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-04T12:50:08+00:00",
-      "published_raw": "Tue, 04 Aug 2026 12:50:08 GMT",
-      "snippet": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima odefensor.com.br",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:02:10.100194+00:00"
+      "collected_at": "2026-08-04T22:07:15.895835+00:00"
     },
     {
       "id": "5a673908ee09d7432039fbcc2c1ae7f4c35de4fb5a2bde642805c037be18a0dc",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:02:08.903416+00:00"
+      "collected_at": "2026-08-04T22:07:26.326169+00:00"
     },
     {
       "id": "8da4c9b4fbfd126c4ba731deafcc411039bdc830265c09368d27690cec8258da",
@@ -145,41 +145,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083618+00:00"
+      "collected_at": "2026-08-04T22:07:15.895603+00:00"
     },
     {
-      "id": "38787ef80eb06aff733a9477b4501600c0703a32d9a1bc5e17b6b4bd07f81059",
-      "title": "Concessionária agenda ritmo intenso de obras e intervenções nas rodovias da região até domingo - regiaonoroeste.com",
-      "source": "regiaonoroeste.com",
+      "id": "bbb24be0682605290aae0a7ecdb5ce7a07eb4ede89e1fe14f0ebcfe6a9219b37",
+      "title": "Concessionária agenda ritmo intenso de obras e intervenções nas rodovias da região até domingo - Região Noroeste",
+      "source": "Região Noroeste",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek5tOHdxNjJjSWlfeW1xVERiOEhzU2RreExCeXVibVhXSW9QVG5Ra2JTLU9JeE5EZm8tZDZuNXJudUNtd0Y2X1BqMDVTXzM4ZmEwZjloRExHNWN1NkI4N2toQkZwYVRrTG5hTGNjTlV5R0NuTVN3dEhrYTVwNkNVdUh0Zno1LWJZdkxqRnZoU2s3UmMyV2prVUw0aTVIWnFFSkU4S043MXpUNUoydDZoZmJqSnBnMkxOU3VaUjNZSQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-04T11:46:00+00:00",
       "published_raw": "Tue, 04 Aug 2026 11:46:00 GMT",
-      "snippet": "Concessionária agenda ritmo intenso de obras e intervenções nas rodovias da região até domingo regiaonoroeste.com",
+      "snippet": "Concessionária agenda ritmo intenso de obras e intervenções nas rodovias da região até domingo Região Noroeste",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083880+00:00"
+      "collected_at": "2026-08-04T22:07:15.895926+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - oextra.net",
+      "source": "oextra.net",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEh4Mkp4eDJ4QV9JcV9fM0NQTXY4WlNzS213bUFzbzFrNlFJQVVhS3c4X0FMNUNySXRLZnQ3WFJibFhadmR4Rmhzdmx5N0VnY1FSYkpYMTBtNWVkLWF1dFNScEg5bFg5MXk5Ym5oN3I1TV9KTkVjcDM3akZ6MEpqRkdUVzU0QjFfSXpDd0dVZEI4MjQz?oc=5",
       "resolved_link": "",
       "published": "2026-08-04T09:01:16+00:00",
       "published_raw": "Tue, 04 Aug 2026 09:01:16 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana oextra.net",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083303+00:00"
+      "collected_at": "2026-08-04T22:07:15.895253+00:00"
     },
     {
       "id": "92c7857f4b1ac5da16e86e220d430c5ae292e664a71a558d8620af3ebe55745e",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083750+00:00"
+      "collected_at": "2026-08-04T22:07:15.895759+00:00"
     },
     {
       "id": "6244377b448c1049dd7667527c403fa05dc979c888ff4267feafd059b8f801f7",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.650308+00:00"
+      "collected_at": "2026-08-04T22:07:16.479140+00:00"
     },
     {
       "id": "054243042ab5821986c97b0e33fecd65981493dd23ac6ee5da4b01f628df7ab8",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:02:09.482002+00:00"
+      "collected_at": "2026-08-04T22:07:26.895215+00:00"
     },
     {
       "id": "3ffb06b4c5b5d0c91c75570561dfdcf68d444f242dd7b05b5ed564425bf90ef0",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083484+00:00"
+      "collected_at": "2026-08-04T22:07:15.895448+00:00"
     },
     {
       "id": "d3247266aad395164a151edb8f1fb13f314aa24163779607e70ce1244b7da69d",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:59.833197+00:00"
+      "collected_at": "2026-08-04T22:07:17.586471+00:00"
     },
     {
       "id": "5de99ec5e5e65bcd5be5f2da14cc6798f152b157a18c112f72cad6eaef8dd919",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:01:58.083410+00:00"
+      "collected_at": "2026-08-04T22:07:15.895367+00:00"
     }
   ]
 }
