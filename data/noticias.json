@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-08-04T01:25:24.928738+00:00",
+  "updated_at": "2026-08-04T02:04:03.393858+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 10,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 10,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,176 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "92c7857f4b1ac5da16e86e220d430c5ae292e664a71a558d8620af3ebe55745e",
+      "title": "Passarela às escuras expõe pedestres ao perigo e evidencia demora da Ecovias em Ibaté | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUE0RzFpeDFzREl3WmQxZE1yaW9rYXV5cXE1U2pXUEZtZjZnYWgwdHNpZ3dnMGVBTGx6d1JaR01xX0tuTUdwRmpvaHhFLVMtSzEzVlM4dzc0aHpDSmc0SjlUUE81Y25qSzVQVjc4eUR3Z0l0QVJEbGxzZWpxN0pSMWNrbnNkMm5EaE1fZXhsdm5lendCUlEzT0Q5eEVVdWtCSGVKaExkdkJhckdZRWxrLUFEVkxPVEZy?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T23:50:56+00:00",
+      "published_raw": "Mon, 03 Aug 2026 23:50:56 GMT",
+      "snippet": "Passarela às escuras expõe pedestres ao perigo e evidencia demora da Ecovias em Ibaté | Região em Destake",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.084980+00:00"
+    },
+    {
+      "id": "3ffb06b4c5b5d0c91c75570561dfdcf68d444f242dd7b05b5ed564425bf90ef0",
+      "title": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVh0NWFQemdOZEZJSXB4MmhmQUNQLWhYVjNqZ0RSci1CeFV4ODV3U0g1MklNeXU2cVN0RmdaeVJNUGxab0tXeTEwUU9Id2NPRE1BZmpkcTM3ZG5BbmY4bk9kUTg1TjVTOV9NUy1zU0lEVEtfVTJkRXgwSWcyN25GVUlEYUVZdlhsLTNHZkEtVTJIMG9FUzhHbk1Rc3BxZHRwa0Jrcno2bTVGTWdtdmFicXo0Y255b0NKWE9KeU1NanFVODNmNlZCQlJvNzVHWEZaX29RZEtEZlZXbXNRUEczVmxsS2Fqb1Zia0FVZGUyMNIB_gFBVV95cUxPUnlVcjU5UjZZc0lURURnblpfbUN4SDFiUW4xbFNvZDItMFc1UkVlQ05ieDZmV2hPR1pFQkZSbFB4bUhHZEJNQ2ZybDRIRXZ0bW9nX21qTTZtdUF6eW9jMUw0ejhlNVhmczhLeF9jOV9PckQyNjY3WnVpSUoxUmZRd1lkVmFDZlBtd3BSdDVUOWNBNDl1QWJTb3UxVjBmcXNkYnVaQUhPN3lpalJaN0lVQ1duWml3M2FFRVQ3YnpBS2xyZWxPdm9iQzd4ckxCa25PUUxjeFA3dFo0M05yT2dxOTBYMGVNNmR6SjE4SmR3SDl4QjRVRjl2TXgzUTR3UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T23:03:10+00:00",
+      "published_raw": "Mon, 03 Aug 2026 23:03:10 GMT",
+      "snippet": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP G1",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.084866+00:00"
+    },
+    {
+      "id": "bf21148b610ad416bb47f9a30e6e2b7d32e65278e07074ea39523266d2cf8114",
+      "title": "Pista sul da Washington Luís é liberada após caminhão atingir passarela em São Carlos | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVG0yTWpqZVU0emxnSlJyTU8yMTZDT3N0X1lpSW80RzVaZzR0VTZobkl0LVlPRkFoRXljQXd5NVJPS3NTcE1VRm5JSG1WcFNnYllQdERDa0huWU9ObTQ0cnYxYmxEdVZHYnRkdU9JYkxBcG5oRkNMS0l5NW85Vy1XZWFpTGJlVFh0QV9XNWVXVWRLbm52VFozUmxPWDhNSHlHTV9PZ2VqMmhVNVdnV1NVZXRtbjN0d3ZU?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T21:54:58+00:00",
+      "published_raw": "Mon, 03 Aug 2026 21:54:58 GMT",
+      "snippet": "Pista sul da Washington Luís é liberada após caminhão atingir passarela em São Carlos | Região em Destake",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.085060+00:00"
+    },
+    {
+      "id": "c8476479d2516189fc44d0cfe0cb7e479db5b529da4d80fc55b5c75ecfc9e7bb",
+      "title": "Passarela atingida por caminhão segue interditada na Washington Luís; pista já foi liberada - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGpXc2VzZGdkdG5JdVpGd2RjR1VlUkNpMGpPVzE3TFZwNGtQYWNJakhDUFZEZnNWQmV6VnhENzFHZGlIZmRQZFpxM2VHa1hnQ3VHQVRrN25FYXN6eVBVMjYyVjJ5QW45a29qZkNmamwwbGktM01mS3gzUVllUnJsY0hscDAxTUVMREdVT1dFOE8yTGYzbWhfenBCU2N6QkQxYnVtWkVtbG52V1hkWjUtM1lFSnRBZEFu0gG-AUFVX3lxTE5OajVzU1VBaHpLbzRnb0g3RHZyNnNtR25QUmdpSElxcmNYMmNKTGNTSVFqT3R2WFdqRTNkS1puMEtDbVdKTWhCSzNkaGhuMjNXeC1SbDEyZUJUXzNzM1ZKZnpkNktXYkduY0dkMWlJQmdOZU8zOTVjdnRwenl5dEhTemdLMy1EY0pLZ2gzZlc4RHpLeU9JNUc2MWtnejFsYmx5czdqVFk0YUNvUXhyT3c0RzY3cnNmaW1qaktyTlE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T21:37:00+00:00",
+      "published_raw": "Mon, 03 Aug 2026 21:37:00 GMT",
+      "snippet": "Passarela atingida por caminhão segue interditada na Washington Luís; pista já foi liberada São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.085283+00:00"
+    },
+    {
+      "id": "d67c702ffd99acb63554033d2cc399a0f432a30b32328e82f0fba4359d6537ae",
+      "title": "Desvio da SP-310 sobrecarrega trânsito no Jardim Santa Felícia; veja os vídeos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYng2OGw1MzEzWG1UeWNLR2FJMDhSSldHanllcjZ0a2daQ3pXRUxiTXVva3pnaTVCSEVIVU1zU2kzTXlQc1NVXzFxYmdDVmZpTWYxQ0Z2a2IwaWlsRTNTTHFzNDNxeWVQaG9MWmVHY0s1U201VHBCbUJRQlBPV2llWlpWMFpXcV9XaHJFemtwcDZHemhrcFVlTkxtRC1fRmhZd1VqZ1NjYXRFS0ZNRzFOU1NvODZWS2FaT1F3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T20:24:37+00:00",
+      "published_raw": "Mon, 03 Aug 2026 20:24:37 GMT",
+      "snippet": "Desvio da SP-310 sobrecarrega trânsito no Jardim Santa Felícia; veja os vídeos Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.085208+00:00"
+    },
+    {
+      "id": "26462275074cb05b4f5750b4ceb7d953f96609774ae15fbe808a31572cdd3d93",
+      "title": "Interdição total na Rodovia Washington Luís após caminhão atingir passarela em São Carlos - Porto Ferreira Hoje",
+      "source": "Porto Ferreira Hoje",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDhYZGt6WkZLZEotdzYzX0ZIQXJ6a1piQkQ4a2J0YlhLMjcxRkpnNUxUZXYzOTR2YkJJOC1BaDNoai1lLTBvM1dQLVRXZXZpYWdZdDJ4WGpQanZUVHNJZUMwNldBelhMeVo3STRFQ0ZMRzMxTWpjMjdLYzRwMDNtSGFYbUNWTWRUOWJsLThYeHVCTmwxaHllNVNPV1VNNGtwQ0U0azhLeTRISGNOUTdfOS0yWFFnaWxOcy1UV25EMjQyUnpNOHU0cnZGWmQtUW5YY2RWSHRYY1F0MmwzeFVN?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T19:51:51+00:00",
+      "published_raw": "Mon, 03 Aug 2026 19:51:51 GMT",
+      "snippet": "Interdição total na Rodovia Washington Luís após caminhão atingir passarela em São Carlos Porto Ferreira Hoje",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:57.896694+00:00"
+    },
+    {
+      "id": "49aeeafc68c63cdcc4437bbae75482f8c0b6325bff9976a14e611cdc42a2405e",
+      "title": "Pista da Washington Luís é totalmente interditada após caminhão atingir passarela - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUNrS1J5QkM4UUhFQ3RuZW9WYzhncV9JWnRRREtjb1hoWEZNWTdhLWVPeVZhcEFDLUxhWm5DWG1HaGg0NzlsWnI5YkRaYk8wVWRwX01iZDZfNGpqY2ZsVkhCYTBCZ2RwY0hhcU1NX0U2V1pSbUdaSWRfTlZWbEJmcnVuY2oxMU5GYTdTSGxkREJKdUVVczNzVW9QalZHZ3JOS0NBLUlzYkJFQXpPTUVLQ1lB0gG3AUFVX3lxTFA2UXA5VG50NXA3YV9kSm84SGlDTTVHSi1JM0JrbFdKODc2UkxGSC05aG5GX3BZdzlwTGYtWGtsQUNwUFllal8zYXJfelE0Tm5tWWhQN3F6OUpBOU9GdmFGamFWWkt5amVNQWQxMVZjSkl4YlFGUmJnLVprdDBpa3hUQVRWRVpKcW1BRnFqVUdsdVlaR1V5WEN3S3hFeUJjT2tpM3loVGdHaTlsdXAtdG9JWkJzeml3SQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:28:00+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:28:00 GMT",
+      "snippet": "Pista da Washington Luís é totalmente interditada após caminhão atingir passarela São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.085353+00:00"
+    },
+    {
+      "id": "b5239bae6547b69aab4c67985de642513f4f1ae8c39f41f084dfb8909eca6898",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 3/8 a 9/8/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3hYRlcwendLT3dPWG5iVjF1NHh1ZGxRRDdFSXlaZGxvTi1UX0czN0t5dUlHbDVtZmU3R3FkRVJyODh0cGQ3OC1TRldWd0dIWGFXcXpwQkN2VUFUS2pJbFpCbjdUaGZRMkNhaTRjbEI5Sk16Y2xaM3BDZFMzQlV0M18zaXN4cThPdGdTTXh2cHVwc084czNRWmc5UnZDanljOGpmeFhjZWtsS3FmYUdBYjFrMA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:13:07+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:13:07 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 3/8 a 9/8/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.084769+00:00"
+    },
+    {
+      "id": "2788bd6122b3fdc2cb5ea5985d45feeeaea1ea736630d77cc055ee8906d1736d",
+      "title": "Carreta com maquinário pesado tomba na Washington Luís e deixa dois feridos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWZZckx3RlYxektmRHh5T0ZKM0duN3ctSm1jbEFwSVNzSGVfVEV6SXZwdktVNGk2cjNVbnJ0RUk1S0R1bk1FQTgtbERuUUR3eUszQzFKbV84bmRSZnlobVNKZEpoRFotSTk5UkppRkVlTmlIMWtmTmtrbFhDbElma2JnU0M5a1N1b0dHNmdwQTVxS0ZiNTVaVFBXSGtTZDNxT3phX1h6TzRqOGVvdXfSAa4BQVVfeXFMUEVmWXJMd0ZWMXpLZkR4eU9GSjNHbjd3LUptY2xBcElTc0hlX1RFekl2cHZLVTRpNnIzVW5ydEVJNUtEdW5NRUE4LWxEblFEd3lLM0MxSm1fOG5kUmZ5aG1TSmRKaERaLUk5OVJKaUZFZU5pSDFrZk5ra2xYQ2xJZmtiZ1NDOWtTdW9HRzZncEE1cUtGYjU1WlRQV0hrU2QzcU96YV9Yek80ajhlb3V3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:09:34+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:09:34 GMT",
+      "snippet": "Carreta com maquinário pesado tomba na Washington Luís e deixa dois feridos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.636964+00:00"
+    },
+    {
+      "id": "1bc04893bf61d82891f39a16d49f72465e114663028268ae4d1aace40420870c",
+      "title": "Caminhão atinge passarela, interdita SP-310 e deixa ferido grave em São Carlos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSm1ZRWZ6bmZIZnNJN1JoaGZUVVdmcTZ0ZFlxSTlrbm5mX2R4NHNSbGJ3eWNGNTViYzFTZy1tZ1VpY3AyRVhPTGJSWDg0Z0dDMlRJYVBKTE8xd3JqTEU5bERXbEdTSXdXRTE3cUQzMmRpcGszUXNhSW9zcXRxdzhENkd1ZkhIeDFBbGNuYUZGckt4WGVpeGdmcGVnZDRyY0FDT1FfTnZxQmEwUVJKTTF6RmUzZllySW14M3JMQw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-03T16:07:01+00:00",
+      "published_raw": "Mon, 03 Aug 2026 16:07:01 GMT",
+      "snippet": "Caminhão atinge passarela, interdita SP-310 e deixa ferido grave em São Carlos Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-04T02:03:47.085134+00:00"
+    }
+  ]
 }
