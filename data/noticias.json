@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-05T13:39:57.579777+00:00",
+  "updated_at": "2026-08-05T13:57:21.876282+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:39:43.143571+00:00"
+      "collected_at": "2026-08-05T13:57:06.461434+00:00"
+    },
+    {
+      "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
+      "title": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís - A Comarca | Home",
+      "source": "A Comarca | Home",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDNlWmVZeG5yUjFvdFFaWW03RTY3TEF4bXo0THktMUFBOFd1S20xbDdROXZxUFdtWGRRM0R5M3VGalJyXzM0TWNzUXdMNlZkVFcwOTgwTWY5ZGJBNHpEYWdxNFE0N0cwNGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T11:51:00+00:00",
+      "published_raw": "Wed, 05 Aug 2026 11:51:00 GMT",
+      "snippet": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís A Comarca | Home",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-05T13:57:06.461142+00:00"
     },
     {
       "id": "22ad4454957d65231e54cd384e349bf1ced0d9c93e66e1bcb094ccb7097113bf",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:39:43.143362+00:00"
+      "collected_at": "2026-08-05T13:57:06.461247+00:00"
     },
     {
       "id": "e3b111404c0ec1a11c0a8da6e97f65d4110742c9c9f43551c9f7994cf874d669",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:39:43.143476+00:00"
+      "collected_at": "2026-08-05T13:57:06.461342+00:00"
     }
   ]
 }
