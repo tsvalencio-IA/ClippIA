@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-04T22:07:32.472669+00:00",
+  "updated_at": "2026-08-05T01:26:56.711143+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 8,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895525+00:00"
+      "collected_at": "2026-08-05T01:26:41.110862+00:00"
     },
     {
       "id": "e3b111404c0ec1a11c0a8da6e97f65d4110742c9c9f43551c9f7994cf874d669",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895685+00:00"
-    },
-    {
-      "id": "4e96ea3f436142dcf77288ed6eb9d239e909fb406eed4b3353f0db967cd78f58",
-      "title": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaklLYWFqak5GWVJIeXZqeGlMZjd0MzRDZ2pEZERUZFl1bDBEeHUwcGRfMzA4WGU5R1I1V3NUbTFxLVBvNFJvRmFvR3VxYUxUMmtNUERTZ0lWYnZwTllwVnp1akRUR1VUdlpQcXNBa09UUDZNRVJXWUFzN2V6eU9ieDBZODY4cXV4VDh1aFZkeEYxajBIV3hpQUxuQ2dlNE4zdmp5cTNEX05YYmJGVFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-04T13:25:44+00:00",
-      "published_raw": "Tue, 04 Aug 2026 13:25:44 GMT",
-      "snippet": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima odefensor.com.br",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:27.540586+00:00"
+      "collected_at": "2026-08-05T01:26:41.111117+00:00"
     },
     {
       "id": "c31038394dd2b1df9d2c70e22a12749fe86d1afa3e6b1e043f5d25658af81c00",
@@ -105,13 +88,30 @@
       "published": "2026-08-04T13:12:00+00:00",
       "published_raw": "Tue, 04 Aug 2026 13:12:00 GMT",
       "snippet": "Passarela atingida por caminhão na Washington Luís é liberada após reparos em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895835+00:00"
+      "collected_at": "2026-08-05T01:26:41.111265+00:00"
+    },
+    {
+      "id": "4e96ea3f436142dcf77288ed6eb9d239e909fb406eed4b3353f0db967cd78f58",
+      "title": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaklLYWFqak5GWVJIeXZqeGlMZjd0MzRDZ2pEZERUZFl1bDBEeHUwcGRfMzA4WGU5R1I1V3NUbTFxLVBvNFJvRmFvR3VxYUxUMmtNUERTZ0lWYnZwTllwVnp1akRUR1VUdlpQcXNBa09UUDZNRVJXWUFzN2V6eU9ieDBZODY4cXV4VDh1aFZkeEYxajBIV3hpQUxuQ2dlNE4zdmp5cTNEX05YYmJGVFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-04T12:50:08+00:00",
+      "published_raw": "Tue, 04 Aug 2026 12:50:08 GMT",
+      "snippet": "Choque: UTI Móvel de Taquaritinga se envolve em grave acidente na Rodovia Faria Lima odefensor.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-05T01:26:41.111188+00:00"
     },
     {
       "id": "5a673908ee09d7432039fbcc2c1ae7f4c35de4fb5a2bde642805c037be18a0dc",
@@ -122,13 +122,13 @@
       "published": "2026-08-04T12:43:42+00:00",
       "published_raw": "Tue, 04 Aug 2026 12:43:42 GMT",
       "snippet": "Obras da terceira faixa avançam para Cedral e provocam congestionamento Diário da Região",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:26.326169+00:00"
+      "collected_at": "2026-08-05T01:26:41.111029+00:00"
     },
     {
       "id": "8da4c9b4fbfd126c4ba731deafcc411039bdc830265c09368d27690cec8258da",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895603+00:00"
+      "collected_at": "2026-08-05T01:26:41.110952+00:00"
     },
     {
       "id": "bbb24be0682605290aae0a7ecdb5ce7a07eb4ede89e1fe14f0ebcfe6a9219b37",
@@ -162,126 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895926+00:00"
+      "collected_at": "2026-08-05T01:26:41.111351+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - oextra.net",
-      "source": "oextra.net",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
+      "source": "OExtra.net",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEh4Mkp4eDJ4QV9JcV9fM0NQTXY4WlNzS213bUFzbzFrNlFJQVVhS3c4X0FMNUNySXRLZnQ3WFJibFhadmR4Rmhzdmx5N0VnY1FSYkpYMTBtNWVkLWF1dFNScEg5bFg5MXk5Ym5oN3I1TV9KTkVjcDM3akZ6MEpqRkdUVzU0QjFfSXpDd0dVZEI4MjQz?oc=5",
       "resolved_link": "",
       "published": "2026-08-04T09:01:16+00:00",
       "published_raw": "Tue, 04 Aug 2026 09:01:16 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana oextra.net",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895253+00:00"
-    },
-    {
-      "id": "92c7857f4b1ac5da16e86e220d430c5ae292e664a71a558d8620af3ebe55745e",
-      "title": "Passarela às escuras expõe pedestres ao perigo e evidencia demora da Ecovias em Ibaté | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUE0RzFpeDFzREl3WmQxZE1yaW9rYXV5cXE1U2pXUEZtZjZnYWgwdHNpZ3dnMGVBTGx6d1JaR01xX0tuTUdwRmpvaHhFLVMtSzEzVlM4dzc0aHpDSmc0SjlUUE81Y25qSzVQVjc4eUR3Z0l0QVJEbGxzZWpxN0pSMWNrbnNkMm5EaE1fZXhsdm5lendCUlEzT0Q5eEVVdWtCSGVKaExkdkJhckdZRWxrLUFEVkxPVEZy?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-04T00:07:39+00:00",
-      "published_raw": "Tue, 04 Aug 2026 00:07:39 GMT",
-      "snippet": "Passarela às escuras expõe pedestres ao perigo e evidencia demora da Ecovias em Ibaté | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895759+00:00"
-    },
-    {
-      "id": "6244377b448c1049dd7667527c403fa05dc979c888ff4267feafd059b8f801f7",
-      "title": "Caminhão Atinge Passarela Na Rodovia Washington Luís E Deixa Dois Feridos - Oia Notícias",
-      "source": "Oia Notícias",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNnFUeWVwOEtqUW5uRDQtdnM1cnBTYWQteE93Y2JzSFhiVVZRLW1xT1A0djQxWk1zX2V6eHJVb0ZGV1lLTEFiY0MxYlB4blU2cW1Xa19RZWJodGtHUS1ySEcwQUFuZXBnN1lWM3BOS3lJdm1VNG5pTXFhaFN6WklQLURDa1pCU1lvN092cVhDc3p5aVppSlBBUUhTckdKMTgyazB4ZzZ6bHVfcS03RnA3aU42Yw?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T23:42:58+00:00",
-      "published_raw": "Mon, 03 Aug 2026 23:42:58 GMT",
-      "snippet": "Caminhão Atinge Passarela Na Rodovia Washington Luís E Deixa Dois Feridos Oia Notícias",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:16.479140+00:00"
-    },
-    {
-      "id": "054243042ab5821986c97b0e33fecd65981493dd23ac6ee5da4b01f628df7ab8",
-      "title": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP - redeutv.com.br",
-      "source": "redeutv.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFlFeS0wanAzdUhoLVllTU9ISWM5Z0pvZXBjbW1KZVg3M0Ytck9lWW5EVUxfMlVrbk9SM0NEU2FINXJVYVJDWGhfLUlNRExGRjRJeGV0Vm9sQnJRQWZZUEhBQ2V3bFNTNWZvY1JzczlMSWlnWUFWalJ4LUxaTHNMU29wQW5hLUkwLXFOVzZjT2xqcmVkTEVhOU9ld2FfU3BYMmJYb0w2a3k2R3p0SUhGTTZXSmI?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T23:10:00+00:00",
-      "published_raw": "Mon, 03 Aug 2026 23:10:00 GMT",
-      "snippet": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP redeutv.com.br",
-      "term": "\"Ecovias Noroeste\" interdição",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:26.895215+00:00"
-    },
-    {
-      "id": "3ffb06b4c5b5d0c91c75570561dfdcf68d444f242dd7b05b5ed564425bf90ef0",
-      "title": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUnlVcjU5UjZZc0lURURnblpfbUN4SDFiUW4xbFNvZDItMFc1UkVlQ05ieDZmV2hPR1pFQkZSbFB4bUhHZEJNQ2ZybDRIRXZ0bW9nX21qTTZtdUF6eW9jMUw0ejhlNVhmczhLeF9jOV9PckQyNjY3WnVpSUoxUmZRd1lkVmFDZlBtd3BSdDVUOWNBNDl1QWJTb3UxVjBmcXNkYnVaQUhPN3lpalJaN0lVQ1duWml3M2FFRVQ3YnpBS2xyZWxPdm9iQzd4ckxCa25PUUxjeFA3dFo0M05yT2dxOTBYMGVNNmR6SjE4SmR3SDl4QjRVRjl2TXgzUTR3UdIB_gFBVV95cUxPUnlVcjU5UjZZc0lURURnblpfbUN4SDFiUW4xbFNvZDItMFc1UkVlQ05ieDZmV2hPR1pFQkZSbFB4bUhHZEJNQ2ZybDRIRXZ0bW9nX21qTTZtdUF6eW9jMUw0ejhlNVhmczhLeF9jOV9PckQyNjY3WnVpSUoxUmZRd1lkVmFDZlBtd3BSdDVUOWNBNDl1QWJTb3UxVjBmcXNkYnVaQUhPN3lpalJaN0lVQ1duWml3M2FFRVQ3YnpBS2xyZWxPdm9iQzd4ckxCa25PUUxjeFA3dFo0M05yT2dxOTBYMGVNNmR6SjE4SmR3SDl4QjRVRjl2TXgzUTR3UQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T23:03:10+00:00",
-      "published_raw": "Mon, 03 Aug 2026 23:03:10 GMT",
-      "snippet": "Caçamba de caminhão colide contra passarela e causa interdição em rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895448+00:00"
-    },
-    {
-      "id": "d3247266aad395164a151edb8f1fb13f314aa24163779607e70ce1244b7da69d",
-      "title": "Rodovia é interditada após caçamba de caminhão colidir contra passarela no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVh0NWFQemdOZEZJSXB4MmhmQUNQLWhYVjNqZ0RSci1CeFV4ODV3U0g1MklNeXU2cVN0RmdaeVJNUGxab0tXeTEwUU9Id2NPRE1BZmpkcTM3ZG5BbmY4bk9kUTg1TjVTOV9NUy1zU0lEVEtfVTJkRXgwSWcyN25GVUlEYUVZdlhsLTNHZkEtVTJIMG9FUzhHbk1Rc3BxZHRwa0Jrcno2bTVGTWdtdmFicXo0Y255b0NKWE9KeU1NanFVODNmNlZCQlJvNzVHWEZaX29RZEtEZlZXbXNRUEczVmxsS2Fqb1Zia0FVZGUyMNIB_gFBVV95cUxPUnlVcjU5UjZZc0lURURnblpfbUN4SDFiUW4xbFNvZDItMFc1UkVlQ05ieDZmV2hPR1pFQkZSbFB4bUhHZEJNQ2ZybDRIRXZ0bW9nX21qTTZtdUF6eW9jMUw0ejhlNVhmczhLeF9jOV9PckQyNjY3WnVpSUoxUmZRd1lkVmFDZlBtd3BSdDVUOWNBNDl1QWJTb3UxVjBmcXNkYnVaQUhPN3lpalJaN0lVQ1duWml3M2FFRVQ3YnpBS2xyZWxPdm9iQzd4ckxCa25PUUxjeFA3dFo0M05yT2dxOTBYMGVNNmR6SjE4SmR3SDl4QjRVRjl2TXgzUTR3UQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T23:03:10+00:00",
-      "published_raw": "Mon, 03 Aug 2026 23:03:10 GMT",
-      "snippet": "Rodovia é interditada após caçamba de caminhão colidir contra passarela no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:17.586471+00:00"
-    },
-    {
-      "id": "5de99ec5e5e65bcd5be5f2da14cc6798f152b157a18c112f72cad6eaef8dd919",
-      "title": "Passarela na Washington Luís tem estrutura danificada por caçamba de caminhão e segue interditada - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORlQ3ZmdCN1Z0TGxzajdqSGRJd05uSi1udURvRW5HRnJiNDFHRFEzb1hXTDlETjF0T3pwelhZbEdlZWJ1NTB5OWx2NmdweDVsMWc3Y0NzaE9qdE5SSDBXOWJLZldMRno3VEhhclFNeFFXRGNHNnc4VnhCWlgzY2I5WjVKQ1JkSk5RUEEzY2NSTWNBTy1mbTUzclE0c2tBQ1VxWkJIMmZ2a3JYRXJvUHRsZmdycDNzaFFwRHV4ZFE2WWZVWmt0ZFJaODZHQWM4NjdZQW9Peg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-03T23:02:43+00:00",
-      "published_raw": "Mon, 03 Aug 2026 23:02:43 GMT",
-      "snippet": "Passarela na Washington Luís tem estrutura danificada por caçamba de caminhão e segue interditada Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-04T22:07:15.895367+00:00"
+      "collected_at": "2026-08-05T01:26:41.110747+00:00"
     }
   ]
 }
