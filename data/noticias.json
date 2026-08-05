@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-05T13:57:21.876282+00:00",
+  "updated_at": "2026-08-05T16:25:35.138490+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:57:06.461434+00:00"
+      "collected_at": "2026-08-05T16:25:17.563416+00:00"
     },
     {
       "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
@@ -77,41 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:57:06.461142+00:00"
+      "collected_at": "2026-08-05T16:25:17.563324+00:00"
     },
     {
-      "id": "22ad4454957d65231e54cd384e349bf1ced0d9c93e66e1bcb094ccb7097113bf",
-      "title": "Rodovia Washington Luís e passarela são liberadas após acidente com caminhão em São Carlos - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGRBS1VaRGVGRzI3SWwyc0dHd3E5OWNCSjJhRzhCc0dxT0lVX2lLcEZhU3Vyd281amMyNDM0aV9tMkZNME5keU9wTTZjS1hMQlY0U1RiQ0dEQUQ5aE5heDlFZ1VEdkhLTWl0YlFNOFFFRDRuQkEyNk9URi0wMzZzMUNaN3FHMU1QU3JmeVVhdF9WS1VJZ1Q5dWFoSU4yMUxxMXhYS2VMS1psVV9UVTVXMVF0dG5jX2k4M0VIUllPZw?oc=5",
+      "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
+      "title": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0lmek52RklnVXM3cXZ5SE9xM1RFVUIzWTJ2Z01XQnVZdmxsMWJhMnVGMEhvaFVGWVNRSXZMQkFxNno5dFJySTJNdTBmY1kxcVJpTFRfZU9UNmY2QVl0aTJYRjF0NnRGT1doZWdiR3pncHpzV280TWMyWW5sWnBzYU50UHBTRGd6TjJ3czRvY1NfNFBEMWpRTFJackdZN0JyR01jQmZaVmdNWlZzQjZJOExxRVhWX1duWTk1d1didkZGckhYMDdHYTFpVUZWOU0?oc=5",
       "resolved_link": "",
-      "published": "2026-08-04T15:25:09+00:00",
-      "published_raw": "Tue, 04 Aug 2026 15:25:09 GMT",
-      "snippet": "Rodovia Washington Luís e passarela são liberadas após acidente com caminhão em São Carlos Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "published": "2026-08-05T11:31:37+00:00",
+      "published_raw": "Wed, 05 Aug 2026 11:31:37 GMT",
+      "snippet": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária Portal SCDN - Porque a informação não para!",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T13:57:06.461247+00:00"
-    },
-    {
-      "id": "e3b111404c0ec1a11c0a8da6e97f65d4110742c9c9f43551c9f7994cf874d669",
-      "title": "Ambulância bate na traseira de caminhão na SP 326 e acidente registra feridos - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0hPQ3BoeWJqY29mYmlQZmRUOGV3MFcwWjVSTXcwelNBMGtMV0ttUVpVYWZ3MGFBendxckx6RlA5RDZTUzhXcmRFdHlvN3c1a2lTVy1uV3VRRVBmaDExdHpkUGJGZHRwcFI2c2NpSldQc0JBWHhRcDVfWnIyMXdiM3dQLWc3a0hra283Q2hR0gGOAUFVX3lxTE9fSE9DcGh5Ympjb2ZiaVBmZFQ4ZXcwVzBaNVJNdzB6U0Ewa0xXS21RWlVhZncwYUF6d3FyTHpGUDlENlNTOFdyZEV0eW83dzVraVNXLW5XdVFFUGZoMTF0emRQYkZkdHBwUjZzY2lKV1BzQkFYeFFwNV9acjIxd2Izd1AtZzdrSGtrbzdDaFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-04T14:00:00+00:00",
-      "published_raw": "Tue, 04 Aug 2026 14:00:00 GMT",
-      "snippet": "Ambulância bate na traseira de caminhão na SP 326 e acidente registra feridos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-05T13:57:06.461342+00:00"
+      "collected_at": "2026-08-05T16:25:18.172994+00:00"
     }
   ]
 }
