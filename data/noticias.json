@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-05T19:23:04.585379+00:00",
+  "updated_at": "2026-08-05T22:04:40.052758+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "261faddbe90ee2ed31f33322d3764e4e12ffa37acc606a84b2d11de426bccb4f",
+      "title": "São Carlos negocia cerca de R$ 200 milhões em obras nas rodovias SP-318, SP-215 e SP-310 - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFlDYkw3ZlR5RExDdURqVERzdF9OSWJlODg1SlBpTmRYQVRPa1pGcUphdHc2Xzd5bnVGUjBYUjE4WG85eDhrdWxSb3ZRR2Z1ZUtmZjZkN1RmSm9zTEVUemMxWVF2Z0NnbC1Uc0xnRWFpYzZCNGhVN1BHVUQtYVR1bHQ0WEhSMUVwOVBxVVVHZnRVQWFwcVFQMEJzUjhpaW5oSWdTdEtOamhiQmY5QnpGUXdqMGlFdm5wcEE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T21:23:50+00:00",
+      "published_raw": "Wed, 05 Aug 2026 21:23:50 GMT",
+      "snippet": "São Carlos negocia cerca de R$ 200 milhões em obras nas rodovias SP-318, SP-215 e SP-310 Região em Destake",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-05T22:04:24.600444+00:00"
+    },
+    {
       "id": "2de0dd4438f5b1248c74800a54687087cafcad5d57891641eba821bd4353a54d",
       "title": "Motoristas precisam redobrar atenção para trechos em obras da Washington Luís - gazetainterior.com.br",
       "source": "gazetainterior.com.br",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T19:22:48.336126+00:00"
+      "collected_at": "2026-08-05T22:04:24.600763+00:00"
     },
     {
       "id": "70c6eead476e1d48e4550089c09a8f996b74cfe3cf19ca13832103d04e83015b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T19:22:48.335896+00:00"
+      "collected_at": "2026-08-05T22:04:24.600339+00:00"
     },
     {
       "id": "f5f7df34397ea24dbbb47c72af014d5dd6b94bafcd69898bc90e4c8ed71bdeab",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T19:22:48.335991+00:00"
+      "collected_at": "2026-08-05T22:04:24.600650+00:00"
     },
     {
       "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
@@ -111,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T19:22:48.336063+00:00"
+      "collected_at": "2026-08-05T22:04:24.600527+00:00"
     },
     {
-      "id": "111a254ba0f2e677d7beffaa9a2a54078edfedb5daef5caca80f0edb6dade6f1",
-      "title": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
+      "title": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0lmek52RklnVXM3cXZ5SE9xM1RFVUIzWTJ2Z01XQnVZdmxsMWJhMnVGMEhvaFVGWVNRSXZMQkFxNno5dFJySTJNdTBmY1kxcVJpTFRfZU9UNmY2QVl0aTJYRjF0NnRGT1doZWdiR3pncHpzV280TWMyWW5sWnBzYU50UHBTRGd6TjJ3czRvY1NfNFBEMWpRTFJackdZN0JyR01jQmZaVmdNWlZzQjZJOExxRVhWX1duWTk1d1didkZGckhYMDdHYTFpVUZWOU0?oc=5",
       "resolved_link": "",
       "published": "2026-08-05T11:31:37+00:00",
       "published_raw": "Wed, 05 Aug 2026 11:31:37 GMT",
-      "snippet": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária saocarlosdiaenoite.com.br",
+      "snippet": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária Portal SCDN - Porque a informação não para!",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T19:22:48.918219+00:00"
+      "collected_at": "2026-08-05T22:04:25.134571+00:00"
     }
   ]
 }
