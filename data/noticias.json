@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-05T16:28:25.922426+00:00",
+  "updated_at": "2026-08-05T19:12:02.816074+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 5,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,13 +46,47 @@
   ],
   "items": [
     {
+      "id": "2de0dd4438f5b1248c74800a54687087cafcad5d57891641eba821bd4353a54d",
+      "title": "Motoristas precisam redobrar atenção para trechos em obras da Washington Luís - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVR2MEdmczRLbjlMbk9EbHFoOHpLVEZPYlEtVk9tVG9aOERaZVVWNjFRN3RYOGoxRTFPSEkzUjRoSWdpdGlmdElTSUY5SHN5SUdHbTdkUHlNQUU1SFhuVW1DVHJFQ2MzdzdHT1lycnRCVEk2SmRSVDhodnZnanVveWJWSFZweVFKYzZabkxIcWdXVmJjSW9YVWZacTYzeUZWRGpOZkhuM1lRbzR0ZENzUmIxdXZEQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T18:12:46+00:00",
+      "published_raw": "Wed, 05 Aug 2026 18:12:46 GMT",
+      "snippet": "Motoristas precisam redobrar atenção para trechos em obras da Washington Luís gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-05T19:11:46.651483+00:00"
+    },
+    {
+      "id": "70c6eead476e1d48e4550089c09a8f996b74cfe3cf19ca13832103d04e83015b",
+      "title": "Obras na Rodovia Washington Luís avançam entre Mirassol e Cedral - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpONWdseWRkTHZ3SmtzaHNrZTdUVkY3T1JsX3R1RWRBUzYxVUxKRWxENVp2N3g3bTJVenIzb1FWWXdxZHBhbW1kckJvRGdnY2ZZZmU1MnhzaVZMNmJvemtrSXpwUXA1aklxRmFiOVZWX2ptUU5vUGxpaDI2d3c2eE50YWZnNkt3MExvX1hydTY3M1hhSjNfZ1phRVRrUUV5Skpv?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T17:15:42+00:00",
+      "published_raw": "Wed, 05 Aug 2026 17:15:42 GMT",
+      "snippet": "Obras na Rodovia Washington Luís avançam entre Mirassol e Cedral Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-05T19:11:46.651184+00:00"
+    },
+    {
       "id": "f5f7df34397ea24dbbb47c72af014d5dd6b94bafcd69898bc90e4c8ed71bdeab",
       "title": "Após alerta sobre falta de iluminação, passarela recebe manutenção na Washington Luís, em Ibaté - Região em Destake",
       "source": "Região em Destake",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXcwSVdwa1JGWXBOZ3dwbXdSSE9yVGxhWmhDNmx2bW5pWi03dC1qaUN2dUV1LUdWRGpleWdxX0hIVzNSSHBuQWxFOGpwME1ONjBZdHcwYmJuVllVVXlwaTNtUS1JV08tekgzUDVETlVKMUlWeFhMeDRPQTVkNldacGlMRnFXMEw3cTJBdlNkdDQwNWotTzJ5VDZ0SjZEMTdIVkdONmFtZkVWckJ4b19HWHV1WjRXdVhxU2pENi1JYURtUVU?oc=5",
       "resolved_link": "",
-      "published": "2026-08-05T13:35:50+00:00",
-      "published_raw": "Wed, 05 Aug 2026 13:35:50 GMT",
+      "published": "2026-08-05T14:55:20+00:00",
+      "published_raw": "Wed, 05 Aug 2026 14:55:20 GMT",
       "snippet": "Após alerta sobre falta de iluminação, passarela recebe manutenção na Washington Luís, em Ibaté Região em Destake",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T16:28:10.433570+00:00"
+      "collected_at": "2026-08-05T19:11:46.651313+00:00"
     },
     {
       "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T16:28:10.433467+00:00"
+      "collected_at": "2026-08-05T19:11:46.651404+00:00"
     },
     {
       "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-05T16:28:10.997361+00:00"
+      "collected_at": "2026-08-05T19:11:47.212194+00:00"
     }
   ]
 }
