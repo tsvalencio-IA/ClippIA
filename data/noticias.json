@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-06T05:43:42.022865+00:00",
+  "updated_at": "2026-08-06T08:12:52.498097+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 12,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.118901+00:00"
+      "collected_at": "2026-08-06T08:12:34.844589+00:00"
     },
     {
       "id": "c6e3eafe3d467531da0f458a29e64cc4a7bd1db03cd084a6348d38ca07b1b685",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:27.746200+00:00"
+      "collected_at": "2026-08-06T08:12:36.654333+00:00"
     },
     {
       "id": "8115a4dd61ae7d36066cc4be241d301457757c5f8e2eabb4b6375b94b76ba550",
@@ -88,13 +88,47 @@
       "published": "2026-08-05T23:48:50+00:00",
       "published_raw": "Wed, 05 Aug 2026 23:48:50 GMT",
       "snippet": "Carreta perde o controle e provoca acidente na Rodovia Washington Luís saocarlosagora.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T08:12:47.399034+00:00"
+    },
+    {
+      "id": "6f52260c1ad3e55881759315df2bb365b691c9bc223523849c2fd218e7a4ef7a",
+      "title": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSdIBswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T23:33:57+00:00",
+      "published_raw": "Wed, 05 Aug 2026 23:33:57 GMT",
+      "snippet": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T08:12:34.844903+00:00"
+    },
+    {
+      "id": "013025713982a6dacb7b13e8271782893fbdb2f828fa9f0648664976418c7cff",
+      "title": "Acidente entre duas carretas mobiliza equipes na SP-310 em Matão - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUM2SGRnaVlfa0FnREVvampyTnZZNzNwNFI1R3RfX2hDeThRQVN2eXFkcjV3QmtaZHM0N2F0ZDFFSzJaUzZaU1RqdmlwREg3ODBtd253eEM2RmxqY1VRakpJZF8xWEJSVnhWMkxCemxKZlZRc1NGbDExQS1zRC1MMTVvRVd4LUlHY0I3UWRHd2RiOUc4V1pYSnB2MjdqWXgycGQ5bzJlX0ZSZHRvNGhxNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T23:28:44+00:00",
+      "published_raw": "Wed, 05 Aug 2026 23:28:44 GMT",
+      "snippet": "Acidente entre duas carretas mobiliza equipes na SP-310 em Matão Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:27.746479+00:00"
+      "collected_at": "2026-08-06T08:12:36.654229+00:00"
     },
     {
       "id": "261faddbe90ee2ed31f33322d3764e4e12ffa37acc606a84b2d11de426bccb4f",
@@ -105,13 +139,13 @@
       "published": "2026-08-05T21:23:18+00:00",
       "published_raw": "Wed, 05 Aug 2026 21:23:18 GMT",
       "snippet": "São Carlos negocia cerca de R$ 200 milhões em obras nas rodovias SP-318, SP-215 e SP-310 Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119104+00:00"
+      "collected_at": "2026-08-06T08:12:34.844768+00:00"
     },
     {
       "id": "f75b626ae92b931803a0836cf40a1c00fc18435ef4d846efa17933cdd95d8088",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119400+00:00"
+      "collected_at": "2026-08-06T08:12:34.845076+00:00"
     },
     {
       "id": "2de0dd4438f5b1248c74800a54687087cafcad5d57891641eba821bd4353a54d",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119337+00:00"
+      "collected_at": "2026-08-06T08:12:34.845019+00:00"
     },
     {
       "id": "70c6eead476e1d48e4550089c09a8f996b74cfe3cf19ca13832103d04e83015b",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119009+00:00"
+      "collected_at": "2026-08-06T08:12:34.844671+00:00"
     },
     {
       "id": "f5f7df34397ea24dbbb47c72af014d5dd6b94bafcd69898bc90e4c8ed71bdeab",
@@ -173,13 +207,13 @@
       "published": "2026-08-05T14:55:20+00:00",
       "published_raw": "Wed, 05 Aug 2026 14:55:20 GMT",
       "snippet": "Após alerta sobre falta de iluminação, passarela recebe manutenção na Washington Luís, em Ibaté Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119273+00:00"
+      "collected_at": "2026-08-06T08:12:34.844965+00:00"
     },
     {
       "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.119187+00:00"
+      "collected_at": "2026-08-06T08:12:34.844834+00:00"
     },
     {
       "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T05:43:26.640531+00:00"
+      "collected_at": "2026-08-06T08:12:35.514581+00:00"
     }
   ]
 }
