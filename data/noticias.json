@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-06T11:17:23.860205+00:00",
+  "updated_at": "2026-08-06T13:38:22.723861+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 17,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 17,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,91 @@
   ],
   "items": [
     {
+      "id": "cb8d0e3cca9b6fa3e952581fbde4825cd0ec2ff326d8479e8fff923c22046fad",
+      "title": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd0k5RXdVemdmT0Faa2VzOWR3SW1obHBrb0hHQi1MRHVvTktDQ1lTNlVXMF90QWwxand5MkNwRlJhRDl0NjF5eW1OLVVtYlpaVEV0dndvZkxmX0hKRzZSTGZTanhYclJvc3RKZE1GTmRUYVRnM1JPOWk3aEJrLVo5UTJqcnBYbGNVMm1Rc1BweGxsam1IWHp1dkppVXlJRmYyM2RER0N2eVk2NGhneGsyM2dYcmdGckxKSzk1Y3VoTUZpUEc2amJSRWRFMjVwSlptVW9xWGJTb2l3SUVRZ0R1V2M5bU9Hd9IB5gFBVV95cUxQd0k5RXdVemdmT0Faa2VzOWR3SW1obHBrb0hHQi1MRHVvTktDQ1lTNlVXMF90QWwxand5MkNwRlJhRDl0NjF5eW1OLVVtYlpaVEV0dndvZkxmX0hKRzZSTGZTanhYclJvc3RKZE1GTmRUYVRnM1JPOWk3aEJrLVo5UTJqcnBYbGNVMm1Rc1BweGxsam1IWHp1dkppVXlJRmYyM2RER0N2eVk2NGhneGsyM2dYcmdGckxKSzk1Y3VoTUZpUEc2amJSRWRFMjVwSlptVW9xWGJTb2l3SUVRZ0R1V2M5bU9Hdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-06T12:26:05+00:00",
+      "published_raw": "Thu, 06 Aug 2026 12:26:05 GMT",
+      "snippet": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho Valor Econômico",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:08.016230+00:00"
+    },
+    {
+      "id": "721562ad76a02d84de5599ecfd66e9251840547ac11521604dda5f34c6eabc9b",
+      "title": "Ecovias Noroeste Paulista investe R$ 450 milhões em obras de ampliação e modernização da SP-310 - votunews.com.br",
+      "source": "votunews.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0dDOGpuSGYtc2pyVDRXTGNTYmlha0hFcnJKWHNzNGYwcVozRk9lMjllY1BpZDBkNWxDVjNVZ2NzSG1ZTXU3RlhVcFppUGNSY3djMFZHRDVCZmdtRE9FTkRVUzFqTlNsMEN3dHd3MnJhMHRhSEhyb19JWnJaVnhlNzJPYWlZVXk4MFFrcEp6VDZvMS1JVklaR1AzdmN3dHRTNWxiaENKYkJrNzNUUE11amlhOUlsSmctWFFZV0t6bEM?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-06T12:22:00+00:00",
+      "published_raw": "Thu, 06 Aug 2026 12:22:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista investe R$ 450 milhões em obras de ampliação e modernização da SP-310 votunews.com.br",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:17.811446+00:00"
+    },
+    {
+      "id": "fa85da478551403c170df49c6c728e633c115727e35bd5d9170c978f3d8d1b48",
+      "title": "Ecovias Noroeste Paulista investe R$ 450 milhões em obras de ampliação e modernização da SP-310 - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDlaTWlBaDR2bENydjBLb3diZFFiY3B0R05XMmJZY3o4ei1HVjhXUXYzZXhZWHNWek1VSkd4T3dHX015c0E2N2dLLXAzaGhvWmt3RWtTUkhtdWVCbWR6WF85Skt5OXVaYklwUF9jaUFQV1ZsMzBBUnIxOTFuMW41TjBUdFg1ZWlaSFZudTNLSnJkdzhzdnFIUG1OOHNVMjFuVlBsZzB3d2hLRk5xNjYyOUdRdGJkU1hiQUI1M3lnOA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-06T12:14:00+00:00",
+      "published_raw": "Thu, 06 Aug 2026 12:14:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista investe R$ 450 milhões em obras de ampliação e modernização da SP-310 Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:06.395162+00:00"
+    },
+    {
+      "id": "9629045c801d5d23670b1e1011db408dd1e69d93f6468a5daf7d37f3437563b0",
+      "title": "EcoRodovias (ECOR3) registra alta de 10% no tráfego em 2026 - Visno Invest",
+      "source": "Visno Invest",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFgtUlY1S2lZcnV6cFNMY3U1YXBFQm81Qk5mNkFPRU1FVWJxbjdLdU40dElWQ1J0QmgzcDBXT3RBVzlNMURPRVAzbDlWTEtTS2RVM3hrVEZ6RlVRbmIxOW9Kc0NYbkNoSzJBeWZGU2pST2JfeHNHalRoTHJld3BYZHZaZDhmQ0dJdHNMUjBuOUhoUmhyeFRWal9B?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-06T12:09:00+00:00",
+      "published_raw": "Thu, 06 Aug 2026 12:09:00 GMT",
+      "snippet": "EcoRodovias (ECOR3) registra alta de 10% no tráfego em 2026 Visno Invest",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:19.512315+00:00"
+    },
+    {
+      "id": "ad8a0cbd707fea52d2fb38d311534f99f6c7a7a05bcbe1426ea59d170d8e596a",
+      "title": "Avançam obras de R$ 450 milhões na SP-310, entre Mirassol e Cedral - votunews.com.br",
+      "source": "votunews.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEl0Mm1lRFkwX1N5aUk0WWU3RktBMWdveG5oUmpMbTU1S3dSYU5CdHpyX3FCdWpQSzdFaTdadVV6RzBOMzVmS1Yxa21leV9CdHFhanl4N1NadFA5LUl4aE9fRnFKUEpMS2Iwb0lJeXRmbEdIdGxCLTNhZEVMWi1XTnhuUWVrRXpXTjUyNE94Wnh5aHZNb1F2dg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-06T11:39:00+00:00",
+      "published_raw": "Thu, 06 Aug 2026 11:39:00 GMT",
+      "snippet": "Avançam obras de R$ 450 milhões na SP-310, entre Mirassol e Cedral votunews.com.br",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:08.016426+00:00"
+    },
+    {
       "id": "219b7d612a3701874a60de617d710a756f45bc1a718a856dfdbf901d588a9606",
       "title": "Reunião debate investimentos em rodovias que acessam São Carlos - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -60,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:21.410080+00:00"
+      "collected_at": "2026-08-06T13:38:20.063163+00:00"
     },
     {
       "id": "8e222e76c13aa350a77402372bf24215f4e270f0c58a73cba711939e86dc52c9",
@@ -71,13 +156,13 @@
       "published": "2026-08-06T09:00:16+00:00",
       "published_raw": "Thu, 06 Aug 2026 09:00:16 GMT",
       "snippet": "Avançam obras de R$ 450 milhões na SP-310, entre Mirassol e Cedral OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475520+00:00"
+      "collected_at": "2026-08-06T13:38:06.394921+00:00"
     },
     {
       "id": "0d357b8a153fa525f3ea473a322c6024ec65d8a0b88c88edb6b1cf9a23ce7201",
@@ -94,24 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475427+00:00"
+      "collected_at": "2026-08-06T13:38:06.394835+00:00"
     },
     {
-      "id": "4214087f6a1b27f19e2b38cdf2dbb9f64496e7de1edf23ee6470c0bd25d6e754",
-      "title": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão - araraquaranews.com.br",
-      "source": "araraquaranews.com.br",
+      "id": "c6e3eafe3d467531da0f458a29e64cc4a7bd1db03cd084a6348d38ca07b1b685",
+      "title": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão - Araraquara News",
+      "source": "Araraquara News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE1Pb3JpcGtEd3NjVnZZYkVIdWREQjZOajRqMWJmTUdlQzBvQngyRlMxNy02c2ttY0xVVWNqVFgzU1hCbWs0UWJGZ19JYmtua0dUek1XNHhYWnJqakE4eU5ZUVEybWpfNVJ2RnRwVUN1dWZLaUdxOFc4LWhkd250RHdLYU50OE1IRmRhNWNzVTRFaUQ3UGdIZ3R1R2w3R0VCT1R3YkhGcDZ2RUtoU0JWbVNrTmRVeFdS?oc=5",
       "resolved_link": "",
       "published": "2026-08-06T00:38:00+00:00",
       "published_raw": "Thu, 06 Aug 2026 00:38:00 GMT",
-      "snippet": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão araraquaranews.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "snippet": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão Araraquara News",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:10.043717+00:00"
+      "collected_at": "2026-08-06T13:38:17.811299+00:00"
     },
     {
       "id": "35de4cdb084bf97953f0696e485a7cf43784b7616014b409edea0625d7bd0463",
@@ -128,24 +213,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:19.301262+00:00"
+      "collected_at": "2026-08-06T13:38:17.811505+00:00"
     },
     {
-      "id": "5c3ecb3716ceecc14a5be8efa0e698c8ccb516849b549d285c16a76157d1e537",
-      "title": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque - saocarlosnotoque.com",
-      "source": "saocarlosnotoque.com",
+      "id": "6f52260c1ad3e55881759315df2bb365b691c9bc223523849c2fd218e7a4ef7a",
+      "title": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSdIBswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-05T23:33:57+00:00",
       "published_raw": "Wed, 05 Aug 2026 23:33:57 GMT",
-      "snippet": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque saocarlosnotoque.com",
+      "snippet": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475829+00:00"
+      "collected_at": "2026-08-06T13:38:06.395078+00:00"
     },
     {
       "id": "013025713982a6dacb7b13e8271782893fbdb2f828fa9f0648664976418c7cff",
@@ -156,13 +241,13 @@
       "published": "2026-08-05T23:28:44+00:00",
       "published_raw": "Wed, 05 Aug 2026 23:28:44 GMT",
       "snippet": "Acidente entre duas carretas mobiliza equipes na SP-310 em Matão Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:10.043570+00:00"
+      "collected_at": "2026-08-06T13:38:17.811382+00:00"
     },
     {
       "id": "261faddbe90ee2ed31f33322d3764e4e12ffa37acc606a84b2d11de426bccb4f",
@@ -179,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:18.190042+00:00"
+      "collected_at": "2026-08-06T13:38:16.726457+00:00"
     },
     {
       "id": "f75b626ae92b931803a0836cf40a1c00fc18435ef4d846efa17933cdd95d8088",
@@ -190,13 +275,13 @@
       "published": "2026-08-05T19:24:00+00:00",
       "published_raw": "Wed, 05 Aug 2026 19:24:00 GMT",
       "snippet": "Obras na Washington Luís avançam entre Mirassol e Cedral Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475983+00:00"
+      "collected_at": "2026-08-06T13:38:06.395288+00:00"
     },
     {
       "id": "2de0dd4438f5b1248c74800a54687087cafcad5d57891641eba821bd4353a54d",
@@ -213,7 +298,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475906+00:00"
+      "collected_at": "2026-08-06T13:38:06.395224+00:00"
+    },
+    {
+      "id": "70c6eead476e1d48e4550089c09a8f996b74cfe3cf19ca13832103d04e83015b",
+      "title": "Obras na Rodovia Washington Luís avançam entre Mirassol e Cedral - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpONWdseWRkTHZ3SmtzaHNrZTdUVkY3T1JsX3R1RWRBUzYxVUxKRWxENVp2N3g3bTJVenIzb1FWWXdxZHBhbW1kckJvRGdnY2ZZZmU1MnhzaVZMNmJvemtrSXpwUXA1aklxRmFiOVZWX2ptUU5vUGxpaDI2d3c2eE50YWZnNkt3MExvX1hydTY3M1hhSjNfZ1phRVRrUUV5Skpv?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-05T17:15:42+00:00",
+      "published_raw": "Wed, 05 Aug 2026 17:15:42 GMT",
+      "snippet": "Obras na Rodovia Washington Luís avançam entre Mirassol e Cedral Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-06T13:38:16.726389+00:00"
     },
     {
       "id": "f5f7df34397ea24dbbb47c72af014d5dd6b94bafcd69898bc90e4c8ed71bdeab",
@@ -224,47 +326,13 @@
       "published": "2026-08-05T14:55:20+00:00",
       "published_raw": "Wed, 05 Aug 2026 14:55:20 GMT",
       "snippet": "Após alerta sobre falta de iluminação, passarela recebe manutenção na Washington Luís, em Ibaté Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475641+00:00"
-    },
-    {
-      "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
-      "title": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís - A Comarca | Home",
-      "source": "A Comarca | Home",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDNlWmVZeG5yUjFvdFFaWW03RTY3TEF4bXo0THktMUFBOFd1S20xbDdROXZxUFdtWGRRM0R5M3VGalJyXzM0TWNzUXdMNlZkVFcwOTgwTWY5ZGJBNHpEYWdxNFE0N0cwNGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-05T11:51:00+00:00",
-      "published_raw": "Wed, 05 Aug 2026 11:51:00 GMT",
-      "snippet": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís A Comarca | Home",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.475722+00:00"
-    },
-    {
-      "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
-      "title": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0lmek52RklnVXM3cXZ5SE9xM1RFVUIzWTJ2Z01XQnVZdmxsMWJhMnVGMEhvaFVGWVNRSXZMQkFxNno5dFJySTJNdTBmY1kxcVJpTFRfZU9UNmY2QVl0aTJYRjF0NnRGT1doZWdiR3pncHpzV280TWMyWW5sWnBzYU50UHBTRGd6TjJ3czRvY1NfNFBEMWpRTFJackdZN0JyR01jQmZaVmdNWlZzQjZJOExxRVhWX1duWTk1d1didkZGckhYMDdHYTFpVUZWOU0?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-05T11:31:37+00:00",
-      "published_raw": "Wed, 05 Aug 2026 11:31:37 GMT",
-      "snippet": "Com R$ 200 mi previstos para 2027, São Carlos projeta salto na infraestrutura rodoviária Portal SCDN - Porque a informação não para!",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-06T11:17:08.994987+00:00"
+      "collected_at": "2026-08-06T13:38:06.395001+00:00"
     }
   ]
 }
