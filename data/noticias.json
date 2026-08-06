@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T11:11:16.407437+00:00",
+  "updated_at": "2026-08-06T11:17:23.860205+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 13,
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "f8d65f40fabd74c45e979079ccaff679ff382d4c445570ef9d0bc21410b37bc9",
-      "title": "Reunião debate investimentos em rodovias que acessam São Carlos - jornalpp.com.br",
-      "source": "jornalpp.com.br",
+      "id": "219b7d612a3701874a60de617d710a756f45bc1a718a856dfdbf901d588a9606",
+      "title": "Reunião debate investimentos em rodovias que acessam São Carlos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1kwNzNERXFlTDJyUlJwSFI5LXhpRnFsRy1NUExwMFpRZVdISGp6VDVOYnByUDZaYUhaaE1fQlJjVU8zd3FrWjczeTZyazhrZ0tJR3IyMUxGVXNrc1UxWWRHNjZuN3hBS3hfLTliWkxKM1RvTkdpZUlEaTFYTlFldmRVcXUtbXpHYjRqcnFKTVlzaDBWbld0M2V5anFWckVrWHlEcmpnQkNSQQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-06T10:25:23+00:00",
       "published_raw": "Thu, 06 Aug 2026 10:25:23 GMT",
-      "snippet": "Reunião debate investimentos em rodovias que acessam São Carlos jornalpp.com.br",
+      "snippet": "Reunião debate investimentos em rodovias que acessam São Carlos Jornal Primeira Página",
       "term": "\"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:11:13.623055+00:00"
+      "collected_at": "2026-08-06T11:17:21.410080+00:00"
     },
     {
       "id": "8e222e76c13aa350a77402372bf24215f4e270f0c58a73cba711939e86dc52c9",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833251+00:00"
+      "collected_at": "2026-08-06T11:17:08.475520+00:00"
     },
     {
       "id": "0d357b8a153fa525f3ea473a322c6024ec65d8a0b88c88edb6b1cf9a23ce7201",
@@ -94,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833169+00:00"
+      "collected_at": "2026-08-06T11:17:08.475427+00:00"
     },
     {
-      "id": "c6e3eafe3d467531da0f458a29e64cc4a7bd1db03cd084a6348d38ca07b1b685",
-      "title": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão - Araraquara News",
-      "source": "Araraquara News",
+      "id": "4214087f6a1b27f19e2b38cdf2dbb9f64496e7de1edf23ee6470c0bd25d6e754",
+      "title": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão - araraquaranews.com.br",
+      "source": "araraquaranews.com.br",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE1Pb3JpcGtEd3NjVnZZYkVIdWREQjZOajRqMWJmTUdlQzBvQngyRlMxNy02c2ttY0xVVWNqVFgzU1hCbWs0UWJGZ19JYmtua0dUek1XNHhYWnJqakE4eU5ZUVEybWpfNVJ2RnRwVUN1dWZLaUdxOFc4LWhkd250RHdLYU50OE1IRmRhNWNzVTRFaUQ3UGdIZ3R1R2w3R0VCT1R3YkhGcDZ2RUtoU0JWbVNrTmRVeFdS?oc=5",
       "resolved_link": "",
       "published": "2026-08-06T00:38:00+00:00",
       "published_raw": "Thu, 06 Aug 2026 00:38:00 GMT",
-      "snippet": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão Araraquara News",
+      "snippet": "Acidente na Rodovia Washington Luís envolve carreta e deixa ferido em Matão araraquaranews.com.br",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:11:00.650153+00:00"
+      "collected_at": "2026-08-06T11:17:10.043717+00:00"
     },
     {
       "id": "35de4cdb084bf97953f0696e485a7cf43784b7616014b409edea0625d7bd0463",
@@ -128,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:11:11.201976+00:00"
+      "collected_at": "2026-08-06T11:17:19.301262+00:00"
     },
     {
-      "id": "6f52260c1ad3e55881759315df2bb365b691c9bc223523849c2fd218e7a4ef7a",
-      "title": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
+      "id": "5c3ecb3716ceecc14a5be8efa0e698c8ccb516849b549d285c16a76157d1e537",
+      "title": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque - saocarlosnotoque.com",
+      "source": "saocarlosnotoque.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSdIBswFBVV95cUxNRjlMUHM4MVhHdFRjdUJLdG9TWTNCME1tNzNqUl9EcmpSS0RxdGlFVjJKZHM1NmRtZXpXUmJvODNpV1ZsZjB0N3BweTlPcUhlUTR1UmotczN5TE8tQjhmNmo0RVRrcG9oT0VkblVSejlBaXFzR2FDcGdybVFQRHJYYlJlN3hjRGJ6MV8xemxFTnJ0RWpPSlpQTEZqS3JPazJ3OWlFeW9aYUdfQ19KMXR4NUtOSQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-05T23:33:57+00:00",
       "published_raw": "Wed, 05 Aug 2026 23:33:57 GMT",
-      "snippet": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque São Carlos no Toque",
+      "snippet": "Secretário recebe Comitiva de São Carlos para debater investimentos em rodovias - São Carlos no Toque saocarlosnotoque.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833403+00:00"
+      "collected_at": "2026-08-06T11:17:08.475829+00:00"
     },
     {
       "id": "013025713982a6dacb7b13e8271782893fbdb2f828fa9f0648664976418c7cff",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:11:00.649999+00:00"
+      "collected_at": "2026-08-06T11:17:10.043570+00:00"
     },
     {
       "id": "261faddbe90ee2ed31f33322d3764e4e12ffa37acc606a84b2d11de426bccb4f",
@@ -179,24 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:11:10.013441+00:00"
+      "collected_at": "2026-08-06T11:17:18.190042+00:00"
     },
     {
-      "id": "a726bd251fb73f6824cd72c78d5ff1061c7d312f996e70be6b1c901d554626c6",
-      "title": "Obras na Washington Luís avançam entre Mirassol e Cedral - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
+      "id": "f75b626ae92b931803a0836cf40a1c00fc18435ef4d846efa17933cdd95d8088",
+      "title": "Obras na Washington Luís avançam entre Mirassol e Cedral - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEplaHRTZTU4NkNscUxrQWI2eXNEMEZJdUJHUHBqLWhUOGZqcXgzVFRKMWRpNmpqMkRfMUIxMTFBOFNvZ01LNnJEMDJxMURoY0tOUFhVN01oTVF5UGNQZDRndFJLZTlkazRKUWxKSEVPYlIyOHRScWNSbzQ0MWxnOUk2bUZNQWVkTEFUeTJtSWFjSGJxY3BHYzRvREF4Sk45QVVEenllQmJaNVBpME8tMmJxZw?oc=5",
       "resolved_link": "",
       "published": "2026-08-05T19:24:00+00:00",
       "published_raw": "Wed, 05 Aug 2026 19:24:00 GMT",
-      "snippet": "Obras na Washington Luís avançam entre Mirassol e Cedral mirassol.portaldacidade.com",
+      "snippet": "Obras na Washington Luís avançam entre Mirassol e Cedral Portal da Cidade - Mirassol / SP",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833603+00:00"
+      "collected_at": "2026-08-06T11:17:08.475983+00:00"
     },
     {
       "id": "2de0dd4438f5b1248c74800a54687087cafcad5d57891641eba821bd4353a54d",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833523+00:00"
+      "collected_at": "2026-08-06T11:17:08.475906+00:00"
     },
     {
       "id": "f5f7df34397ea24dbbb47c72af014d5dd6b94bafcd69898bc90e4c8ed71bdeab",
@@ -230,24 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833328+00:00"
+      "collected_at": "2026-08-06T11:17:08.475641+00:00"
     },
     {
-      "id": "ad7eea567065ef7e91dea9796144d878c6542447771d97034ef24edebff6e9ef",
-      "title": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís - acomarcanet.com.br",
-      "source": "acomarcanet.com.br",
+      "id": "94e5b04a03375c4cddc2f6713a7e3470ae411d8636b93271259f4026960a51e9",
+      "title": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís - A Comarca | Home",
+      "source": "A Comarca | Home",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDNlWmVZeG5yUjFvdFFaWW03RTY3TEF4bXo0THktMUFBOFd1S20xbDdROXZxUFdtWGRRM0R5M3VGalJyXzM0TWNzUXdMNlZkVFcwOTgwTWY5ZGJBNHpEYWdxNFE0N0cwNGc?oc=5",
       "resolved_link": "",
       "published": "2026-08-05T11:51:00+00:00",
       "published_raw": "Wed, 05 Aug 2026 11:51:00 GMT",
-      "snippet": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís acomarcanet.com.br",
+      "snippet": "Incêndio em caminhão-cegonha mobiliza bombeiros na Washington Luís A Comarca | Home",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:58.833462+00:00"
+      "collected_at": "2026-08-06T11:17:08.475722+00:00"
     },
     {
       "id": "25347b1cba62aa079f2c62015428de6ced178aa1394991aa8aa30e05a9f1549b",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-06T11:10:59.419070+00:00"
+      "collected_at": "2026-08-06T11:17:08.994987+00:00"
     }
   ]
 }
