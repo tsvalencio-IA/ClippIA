@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:48:59.728086+00:00",
+  "updated_at": "2026-08-07T09:56:43.574808+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:48.905407+00:00"
+      "collected_at": "2026-08-07T09:56:33.497620+00:00"
     },
     {
       "id": "0656dfac1723b3fa70a8ed61ca7c2fda6a8430356826e61cf9f885ffb329384e",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:42.538990+00:00"
+      "collected_at": "2026-08-07T09:56:27.737511+00:00"
     },
     {
       "id": "f2c20c7c9ad39e75a05ee0a8a6c7be63dece18b5bd3228bddf8be640db476526",
@@ -94,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:53.492149+00:00"
+      "collected_at": "2026-08-07T09:56:37.782634+00:00"
     },
     {
-      "id": "cb8d0e3cca9b6fa3e952581fbde4825cd0ec2ff326d8479e8fff923c22046fad",
-      "title": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho - Valor Econômico",
-      "source": "Valor Econômico",
+      "id": "00af527673f5caf1847596ceee5b1b19fc0baf4287795ba8e5794466339ef0a6",
+      "title": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho - valor.globo.com",
+      "source": "valor.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd0k5RXdVemdmT0Faa2VzOWR3SW1obHBrb0hHQi1MRHVvTktDQ1lTNlVXMF90QWwxand5MkNwRlJhRDl0NjF5eW1OLVVtYlpaVEV0dndvZkxmX0hKRzZSTGZTanhYclJvc3RKZE1GTmRUYVRnM1JPOWk3aEJrLVo5UTJqcnBYbGNVMm1Rc1BweGxsam1IWHp1dkppVXlJRmYyM2RER0N2eVk2NGhneGsyM2dYcmdGckxKSzk1Y3VoTUZpUEc2amJSRWRFMjVwSlptVW9xWGJTb2l3SUVRZ0R1V2M5bU9Hd9IB5gFBVV95cUxQd0k5RXdVemdmT0Faa2VzOWR3SW1obHBrb0hHQi1MRHVvTktDQ1lTNlVXMF90QWwxand5MkNwRlJhRDl0NjF5eW1OLVVtYlpaVEV0dndvZkxmX0hKRzZSTGZTanhYclJvc3RKZE1GTmRUYVRnM1JPOWk3aEJrLVo5UTJqcnBYbGNVMm1Rc1BweGxsam1IWHp1dkppVXlJRmYyM2RER0N2eVk2NGhneGsyM2dYcmdGckxKSzk1Y3VoTUZpUEc2amJSRWRFMjVwSlptVW9xWGJTb2l3SUVRZ0R1V2M5bU9Hdw?oc=5",
       "resolved_link": "",
       "published": "2026-08-06T12:26:05+00:00",
       "published_raw": "Thu, 06 Aug 2026 12:26:05 GMT",
-      "snippet": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho Valor Econômico",
+      "snippet": "Ecorodovias tem crescimento de 2,3% no tráfego de veículos em julho valor.globo.com",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:42.539082+00:00"
+      "collected_at": "2026-08-07T09:56:27.737603+00:00"
     },
     {
       "id": "947ba5bf89b3da72fd544a6eb6a570a3983a4255b1a69fd2e8195174f3034a0c",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:54.648307+00:00"
+      "collected_at": "2026-08-07T09:56:38.825131+00:00"
     },
     {
       "id": "fa85da478551403c170df49c6c728e633c115727e35bd5d9170c978f3d8d1b48",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:42.539160+00:00"
+      "collected_at": "2026-08-07T09:56:27.737682+00:00"
     },
     {
       "id": "9629045c801d5d23670b1e1011db408dd1e69d93f6468a5daf7d37f3437563b0",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:56.401316+00:00"
+      "collected_at": "2026-08-07T09:56:40.471166+00:00"
     },
     {
       "id": "238b11c3adab32ab656a48591188dab286e2edd073f0023559ed61f73b6932ea",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:53.492216+00:00"
+      "collected_at": "2026-08-07T09:56:37.782702+00:00"
     },
     {
       "id": "5ee8370d5a60fa008bf29036ec5c9be4dbe172f0b91f689a213e825bad3c43ba",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:53.492076+00:00"
+      "collected_at": "2026-08-07T09:56:37.782560+00:00"
     },
     {
       "id": "219b7d612a3701874a60de617d710a756f45bc1a718a856dfdbf901d588a9606",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T09:48:57.015454+00:00"
+      "collected_at": "2026-08-07T09:56:41.004132+00:00"
     }
   ]
 }
