@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-07T04:50:53.887251+00:00",
+  "updated_at": "2026-08-07T06:58:31.345111+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 12,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-08-06T20:25:31+00:00",
       "published_raw": "Thu, 06 Aug 2026 20:25:31 GMT",
       "snippet": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias guairanews.com",
-      "term": "\"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" multa | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:43.294875+00:00"
+      "collected_at": "2026-08-07T06:58:20.708570+00:00"
     },
     {
       "id": "c08d2b075873a9ff46df296b50d6add7a2d104cb9bd6bfe08b0b48d3f45018f4",
@@ -71,30 +71,13 @@
       "published": "2026-08-06T14:12:56+00:00",
       "published_raw": "Thu, 06 Aug 2026 14:12:56 GMT",
       "snippet": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - São Carlos em Rede São Carlos em Rede",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:37.009204+00:00"
-    },
-    {
-      "id": "0656dfac1723b3fa70a8ed61ca7c2fda6a8430356826e61cf9f885ffb329384e",
-      "title": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - São Carlos em Rede - saocarlosemrede.com.br",
-      "source": "saocarlosemrede.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQV05rak5uVnBzWVpYd3dLeWFiNG55LVhSUUpOcDROLUd5U01tMFZmeWpJREEySkMxZ3JNOUxfR1pCQ21BLVRINVRDd0Qyb1ZpMVBxbjJDNWgtcUFBaEdtdk1iMUw0aWVzUDhVQkFWdDFGaEZaQ1NRWXA0bEJVaVNWLUtXY2U2V3ZmcXNCT1RZTFJnV0JodVh0aHhRclNJaFpXQ2haa2VqRDUzMU5wZWtGSE0yVm9feC1sODJwa1pxMUQ5RmY5SE84NnpSWV9McDRrOHpOQU5JdENXWEpKZ1NGcGlqV2hndmFsZkxPdXk3SnJJTzQ3VF9PNDdYVW9nVm80RUdadVVLcTA3NjltZWQyakZ0OS1SYUROdnVieXJieUtXb3BvemI1bjZQTGdFckVXZEUzUTg0a3Y5anhVU1hYYm9SalZKVWItcXBqWTVrM0dtTF9EVURnWENib3V0VnFlUXhwY2tmYno4QVZ6TVpmNTJFei11bk5sV25MdE9yc0I1SVJhV2Zv0gGHA0FVX3lxTFBXTmtqTm5WcHNZWlh3d0t5YWI0bnktWFJRSk5wNE4tR3lTTW0wVmZ5aklEQTJKQzFnck05TF9HWkJDbUEtVEg1VEN3RDJvVmkxUHFuMkM1aC1xQUFoR212TWIxTDRpZXNQOFVCQVZ0MUZoRlpDU1FZcDRsQlVpU1YtS1djZTZXdmZxc0JPVFlMUmdXQmh1WHRoeFFyU0loWldDaFprZWpENTMxTnBla0ZITTJWb194LWw4MnBrWnExRDlGZjlITzg2elJZX0xwNGs4ek5BTkl0Q1dYSkpnU0ZwaWpXaGd2YWxmTE91eTdKcklPNDdUX080N1hVb2dWbzRFR1p1VUtxMDc2OW1lZDJqRnQ5LVJhRE52dWJ5cmJ5S1dvcG96YjVuNlBMZ0VyRVdkRTNRODRrdjlqeFVTWFhib1JqVkpVYi1xcGpZNWszR21MX0RVRGdYQ2JvdXRWcWVReHBja2ZiejhBVnpNWmY1MkV6LXVuTmxXbkx0T3JzQjVJUmFXZm8?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-06T14:12:56+00:00",
-      "published_raw": "Thu, 06 Aug 2026 14:12:56 GMT",
-      "snippet": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - São Carlos em Rede saocarlosemrede.com.br",
-      "term": "\"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-07T04:50:52.410394+00:00"
+      "collected_at": "2026-08-07T06:58:14.418891+00:00"
     },
     {
       "id": "f2c20c7c9ad39e75a05ee0a8a6c7be63dece18b5bd3228bddf8be640db476526",
@@ -111,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:47.821327+00:00"
-    },
-    {
-      "id": "9b1d4aef885563950ae3ff71d7ec323d2c1ea74ed9234ed7516e7b97d354855e",
-      "title": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHY2SExVNHkxV2phZlJ4b0xTdU9FSXJzd09DZGRRdmRzV05MVjN5T05YVWRzNjJPSGFoQW1IamNOVmNyS3hfY0o5MVl6STZzTDNEQ1RwNUdxZXNZOUE3U0w1VS1qUndBWlZhandHRHpiazRtVFhKOGp1ZUpCMHppWWtDUnhuVEhhNHpQR2NiUG1tRFNGTnQ1STgyVmVtcW8wQkVsX2ZxMGNjWEsyNU5fQjRLMm1XM3V1N0tr?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-06T12:53:55+00:00",
-      "published_raw": "Thu, 06 Aug 2026 12:53:55 GMT",
-      "snippet": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" multa",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20DUF%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-07T04:50:44.972921+00:00"
+      "collected_at": "2026-08-07T06:58:25.263989+00:00"
     },
     {
       "id": "cb8d0e3cca9b6fa3e952581fbde4825cd0ec2ff326d8479e8fff923c22046fad",
@@ -145,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:37.009298+00:00"
+      "collected_at": "2026-08-07T06:58:14.418983+00:00"
     },
     {
       "id": "947ba5bf89b3da72fd544a6eb6a570a3983a4255b1a69fd2e8195174f3034a0c",
@@ -162,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:48.951276+00:00"
+      "collected_at": "2026-08-07T06:58:26.350806+00:00"
     },
     {
       "id": "fa85da478551403c170df49c6c728e633c115727e35bd5d9170c978f3d8d1b48",
@@ -179,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:37.009374+00:00"
+      "collected_at": "2026-08-07T06:58:14.419060+00:00"
     },
     {
       "id": "9629045c801d5d23670b1e1011db408dd1e69d93f6468a5daf7d37f3437563b0",
@@ -196,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:50.700291+00:00"
+      "collected_at": "2026-08-07T06:58:28.062731+00:00"
     },
     {
       "id": "238b11c3adab32ab656a48591188dab286e2edd073f0023559ed61f73b6932ea",
@@ -213,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:47.821396+00:00"
+      "collected_at": "2026-08-07T06:58:25.264056+00:00"
     },
     {
       "id": "5ee8370d5a60fa008bf29036ec5c9be4dbe172f0b91f689a213e825bad3c43ba",
@@ -230,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:37.009434+00:00"
+      "collected_at": "2026-08-07T06:58:14.419119+00:00"
     },
     {
       "id": "219b7d612a3701874a60de617d710a756f45bc1a718a856dfdbf901d588a9606",
@@ -247,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:51.296599+00:00"
+      "collected_at": "2026-08-07T06:58:28.632306+00:00"
     },
     {
       "id": "8e222e76c13aa350a77402372bf24215f4e270f0c58a73cba711939e86dc52c9",
@@ -264,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:49.568448+00:00"
+      "collected_at": "2026-08-07T06:58:26.899667+00:00"
     },
     {
       "id": "4e671b5ecbc031f9bfbfef3f0d612a4453d22038f953dfb6b3755a9502e930eb",
@@ -281,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-07T04:50:50.135778+00:00"
-    },
-    {
-      "id": "ca5ca773476b25abd09b190fa5ac30c31247b0537e2933861e3c110ec53ee6cb",
-      "title": "Quarta, 05 Agosto 2026 - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZkdGVWwxaHpXeUJqVXZoQWxyT1FsQWVsSzRTeG1ZNVk2RHJjOGFJSlgtNzRvUDgxVTJULVlJMEF5WmFVdTlKa0N2bVljcnBQcXg1dFBNWW5sbTRuc2lKMQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-06T06:54:47+00:00",
-      "published_raw": "Thu, 06 Aug 2026 06:54:47 GMT",
-      "snippet": "Quarta, 05 Agosto 2026 Radio Sanca Web TV",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-07T04:50:51.296733+00:00"
+      "collected_at": "2026-08-07T06:58:27.489288+00:00"
     }
   ]
 }
