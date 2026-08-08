@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T04:08:03.005023+00:00",
+  "updated_at": "2026-08-08T06:32:11.985676+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T04:07:47.831941+00:00"
+      "collected_at": "2026-08-08T06:31:55.099056+00:00"
     },
     {
       "id": "d0cd85dfbecf7838bb284f9d961af91f9bce9f5889c2c6e91398e76e5bff001f",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T04:07:49.304575+00:00"
-    },
-    {
-      "id": "831664378475d9d21713fb957403582338cf6ee5f97b406fd6f1a96c1842a0c1",
-      "title": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcFZpZTQ4bnNhb3cyRjRaUnVSUWYySnFCeF9kendyTlJabFdaMFhSVXQzRDREb2FaQ2RPTmFDalF5N19sZFNpN2NFNTdpX2VZcjItUS1ib2ZWNHhwMmNqZWVhWG9pWUgteTZtOGhUQWc5UWJrWGJEUXhfMWtsTEsxcUpGMjN2YVMycXlhUmpHU1BKTVJBR1RWT2pidFVTYmd6TmJsWXlCYXrSAagBQVVfeXFMTnBWaWU0OG5zYW93MkY0WlJ1UlFmMkpxQnhfZHp3ck5SWmxXWjBYUlV0M0Q0RG9hWkNkT05hQ2pReTdfbGRTaTdjRTU3aV9lWXIyLVEtYm9mVjR4cDJjamVlYVhvaVlILXk2bThoVEFnOVFia1hiRFF4XzFrbExLMXFKRjIzdmFTMnF5YVJqR1NQSk1SQUdUVk9qYnRVU2Jnek5ibFl5QmF6?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-07T04:59:59+00:00",
-      "published_raw": "Fri, 07 Aug 2026 04:59:59 GMT",
-      "snippet": "Passou pelo Pedágio Eletrônico? Saiba como pagar a tarifa em até 30 dias - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-08T04:07:47.832050+00:00"
+      "collected_at": "2026-08-08T06:31:56.825171+00:00"
     }
   ]
 }
