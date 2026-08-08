@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T15:23:59.170573+00:00",
+  "updated_at": "2026-08-08T18:20:32.206279+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 5,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-08-08T15:09:27+00:00",
       "published_raw": "Sat, 08 Aug 2026 15:09:27 GMT",
       "snippet": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T15:23:42.297361+00:00"
+      "collected_at": "2026-08-08T18:20:15.333716+00:00"
     },
     {
       "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T15:23:42.889058+00:00"
+      "collected_at": "2026-08-08T18:20:15.924043+00:00"
     },
     {
       "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
@@ -88,13 +88,47 @@
       "published": "2026-08-08T14:12:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 14:12:00 GMT",
       "snippet": "Motociclista fica em estado grave após acidente na Washington Luís Araraquara News",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T15:23:42.297458+00:00"
+      "collected_at": "2026-08-08T18:20:15.333870+00:00"
+    },
+    {
+      "id": "9968d4fe01a061349db623a772c2fe70ea1d3fcdceab382b2191c6c1fffefb2d",
+      "title": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTZRdG9ETGRzNnV1bEJTc0FFYVlRWnktVnVCZkZrT2VPWDB1b3puSTZFcHhsLTVJS3N5cm5KdF95R1lDOWhKWllDa2VBNFcwc25xMkVUYzgyaF9WU21EMUxRWHlYRk5fR3lJemloZ3c5R1Z6MFV6SFlfVmFieGJPZFhUZzB0QWtGajV4QTBSYWFJNHltUllsZGRRcE9mOTZ5U0FyTnVGVmFzNlZyc2VfUDIwRlE2dkFpZFZhQWxWRl_SAcABQVVfeXFMTkk2UXRvRExkczZ1dWxCU3NBRWFZUVp5LVZ1QmZGa09lT1gwdW96bkk2RXB4bC01SUtzeXJuSnRfeUdZQzloSlpZQ2tlQTRXMHNucTJFVGM4MmhfVlNtRDFMUVh5WEZOX0d5SXppaGd3OUdWejBVekhZX1ZhYnhiT2RYVGcwdEFrRmo1eEEwUmFhSTR5bVJZbGRkUXBPZjk2eVNBck51RlZhczZWcnNlX1AyMEZRNnZBaWRWYUFsVkZf?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T14:09:45+00:00",
+      "published_raw": "Sat, 08 Aug 2026 14:09:45 GMT",
+      "snippet": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté saocarlosagora.com.br",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T18:20:15.924224+00:00"
+    },
+    {
+      "id": "5f5690d3d6aa943bc5bac24c22a5e789ba589f80e030e05dc3fb24e0318a6712",
+      "title": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhEWm5kdGExWjEtTllFaDNYcGg5ZGRxM0tyTzk4U1BDdkRwdGs0RktlSE9oVXJacUlfWFJXSVlTR0x0V1RNRXlha1pQTGZVV0RQbWlpVzl0QUlNVXduTG1kX3BEZmhVSGdqYVA1Mm1BZkxfZ0VFOEllVnZBN19IZXBpTGRpWFdxZmdpZGh2ZXhRUzRFcVhTSXVwdnNpZ09JamtxZXRCSHFIUnd6bkZ3eTNPU2hROHZOM3U3YW9n0gGyAUFVX3lxTE05TEpiUENSVHB1VWNFdTQ5dHpFbkJlVUJBRURWeC1BMktQRXBqbGpmZWp1ZnJCd2JGejVkTVd4MjNaNUN4bXdRTFpUSzlKZGtJWFR1SFRpeFpSRFp6VGZvQnBHYVhqbUFabEF6SXlFZU1GT3JfVGN6cnVuRERSdmxrWXQyMFZWSnV2WXRPN296Mm9RSk56b3JvdVVaVEx3REU0LVBoZ0dRNEdIQWRtaUJDNGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T13:40:00+00:00",
+      "published_raw": "Sat, 08 Aug 2026 13:40:00 GMT",
+      "snippet": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís saocarlosagora.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T18:20:15.334009+00:00"
     }
   ]
 }
