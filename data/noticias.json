@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T00:46:47.259362+00:00",
+  "updated_at": "2026-08-08T01:13:42.359663+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T00:46:31.585034+00:00"
+      "collected_at": "2026-08-08T01:13:25.670213+00:00"
     },
     {
       "id": "d0cd85dfbecf7838bb284f9d961af91f9bce9f5889c2c6e91398e76e5bff001f",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T00:46:33.130846+00:00"
+      "collected_at": "2026-08-08T01:13:27.395626+00:00"
     },
     {
       "id": "831664378475d9d21713fb957403582338cf6ee5f97b406fd6f1a96c1842a0c1",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T00:46:31.585165+00:00"
+      "collected_at": "2026-08-08T01:13:25.670281+00:00"
     }
   ]
 }
