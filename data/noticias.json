@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T18:29:49.719256+00:00",
+  "updated_at": "2026-08-08T21:19:12.219748+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 8,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "519672d7c2b39755fb15488fdd0e0762d1f3ea3ae1c8af39b690358e155c4650",
+      "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - redeutv.com.br",
+      "source": "redeutv.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOC1ERlpyMGlVNUtCQW03WGVEa2daRlppR2hnYW9Sd0IyNmNGb0Uyc002ZTR4OC04ejlBcldfNFdFczIxWGxDRmlqbHhMaVRycVpfRDVGWlpSTEVQeDY5WUJPWEN6RHBUMWlJNWtHSzF3Z1ZjajB4N3dEeDJ0LVY1QXVQb3ZMWXJZQWlUaEFCaTdDNjFoZGszSTFqUW52Z0Vpay1aLQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T15:40:00+00:00",
+      "published_raw": "Sat, 08 Aug 2026 15:40:00 GMT",
+      "snippet": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP redeutv.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T21:18:54.019035+00:00"
+    },
+    {
       "id": "0e4d6f36ebc9f710f2de0d16672c25a02d4927678c820c242ce7a5762e770c48",
       "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - G1",
       "source": "G1",
@@ -60,41 +77,75 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T18:29:30.654050+00:00"
+      "collected_at": "2026-08-08T21:18:54.018903+00:00"
     },
     {
-      "id": "b3de0701b2cc13867e16b33853371fda6069e84805a4c670d2638e6735b61d92",
-      "title": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté - araraquaranews.com.br",
-      "source": "araraquaranews.com.br",
+      "id": "1e477f7e8709143a4f939339ae0ee70a130cbef24ed73ec18aa19bb0da3d7ecc",
+      "title": "Carreta perde controle e colide com instalações da Ecovias na Washington Luís - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRW4wWDJJT1dSaHVTZ1R0TTNES0dmczNIZFN6Rl84cGZwZ1N5TUpfQ2RYenhkc2tLblJ3aEU4dmlYelhnU2RGbm5qdno4VWkyQUcwdVpQUm9DYW5ubHNFem53NWNVR2xRVkdWX3YwXzBrZkdPVThmRDQzR20yWVBEX3ZfYlBPTUp2ekJOT3lRM1RYdkFHMDJoUEYyR3c4cElld0I3QXVOUHpYV1ByemVaV3pKQnZKYUxw0gG-AUFVX3lxTFBXajNIamhMaC1NLXhCa0NRNDRqMHBSWWw0c1k3d1YyRkhVTjJYRjhFZHhOWVJFdV9veFRBVkY4TmQ4aUR3NC1BNHlFckwxNWZJeFFTNjN1QzRqdDVpRU5JMUJHWm5xaVcxRzVXSWRyeWtGRl9hcDRFeko0T2JHcmdFOWowcGp6TllkRFgwNXMyZ3hKMm9qYklid1IyT2tPRktoSDlvSnBsWG8yNWpGRVZPUGE0QnowXy1HNXc4cnc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T15:02:53+00:00",
+      "published_raw": "Sat, 08 Aug 2026 15:02:53 GMT",
+      "snippet": "Carreta perde controle e colide com instalações da Ecovias na Washington Luís - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T21:18:54.018795+00:00"
+    },
+    {
+      "id": "61c197b4700cda998bcbc84faef9d9592f08c433cdd794da08db2b8dfe141e59",
+      "title": "Jovem de 23 anos m*rre após grave acidente de moto na Washington Luís em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjhSc082cmc2T3ZSYWpxbEdiYjdLQzdvcmtRY3NRX0l4UzI3REh5TGxncVpWS2xtQldqM2NCazctRDVMaDdIbWFERXFfQjM2YnUyZTZCM3ZjRXVFendQbWFScmd1NlNreUZtWUNjNmJLXzdRWHM4ZVE4SnNpYlVxVklWSG5Pak1EdVhkX2pwWXFIRjBrU0tEVzV1QmdCeVVuY3pBbGpZRUhrSXZVWHZHRERn0gG3AUFVX3lxTE95cmlya3RXYkJpSW1NUVdoZkdJZzgxbHMyeVdWRzJlakJwUW01a2lfLTZYUUx1Y1hPZ1dpczhEbWZfSERIRXJhZVNYNXBvUTRnLVlJQ04ydGlBTjhHRTZzazI1MmEyR1JXd1U0VWQ3S2lMSWRlVE1IaUpkMG5FekZZdmUwanZ3Vkt0dldsenpqbGpiMlhVNWxrWHd1NkQtUGI4ZUVNV2V5a1Z6VVY5SnRsQTBvd0R4dw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T14:57:24+00:00",
+      "published_raw": "Sat, 08 Aug 2026 14:57:24 GMT",
+      "snippet": "Jovem de 23 anos m*rre após grave acidente de moto na Washington Luís em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T21:18:54.019106+00:00"
+    },
+    {
+      "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
+      "title": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté - Araraquara News",
+      "source": "Araraquara News",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXVZeEZ3QkItRVVVMTB5Q0dqejBaaTNwSHRFdUlYbElWOGo4ejhlRDJFVG0yVkc1aDB2RWpTdHd1T1ZlT2IzMHp0MHo3R2VGcEFPN21xYW1qVjZvcFI4QXkySExaTXdBZTR0dkpYN1JVYmxLQkFtMHE0djhaMzZLRV81VWFwWlpjakQ0b21POWp0MDNtakNxMW04eE1TQzZXS1hQdDFpZTlMbXVKeXk0Q0pxUnpiaG8?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T14:38:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 14:38:00 GMT",
-      "snippet": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté araraquaranews.com.br",
+      "snippet": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté Araraquara News",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T18:29:31.307868+00:00"
+      "collected_at": "2026-08-08T21:18:54.701220+00:00"
     },
     {
-      "id": "456f1a7e81830a18e683b810d72ad03bb245e978ec1a652e306584e71fc0f360",
-      "title": "Motociclista fica em estado grave após acidente na Washington Luís - araraquaranews.com.br",
-      "source": "araraquaranews.com.br",
+      "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
+      "title": "Motociclista fica em estado grave após acidente na Washington Luís - Araraquara News",
+      "source": "Araraquara News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajg0MExTTlBNZ19BUE5rVmx3TkE2dEpBMHJxYnBKTlQtZ1RtaHNBdzU5elJvQ21tZ0Z3Zk8zalV5eXV4TV8xR0V5eVJ5Z2Y2OXF4U2RxSWR4LUV3Zlp5cTZHUkxqU2swSVZvRVJCR0ZxcWRscC1rVWZkLWdnSTJzZTBRTzM4VDVSZUYwVEtPQ3g4eW9pb01na1NHSzRlQzZuaWJQOWVfMkYtUTd4?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T14:12:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 14:12:00 GMT",
-      "snippet": "Motociclista fica em estado grave após acidente na Washington Luís araraquaranews.com.br",
+      "snippet": "Motociclista fica em estado grave após acidente na Washington Luís Araraquara News",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T18:29:30.654171+00:00"
+      "collected_at": "2026-08-08T21:18:54.018972+00:00"
     },
     {
       "id": "75c1035cda9be815bf6ed0c15fe86d6f8f9ec7b7e4d6344769c54bcaa111cacd",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T18:29:31.307955+00:00"
+      "collected_at": "2026-08-08T21:18:54.701299+00:00"
     },
     {
       "id": "86bdf6a173829896c17b5b1eb7f636ad3c234cb8480d75c6834cadc22537fa9e",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T18:29:30.654269+00:00"
+      "collected_at": "2026-08-08T21:18:54.019175+00:00"
     }
   ]
 }
