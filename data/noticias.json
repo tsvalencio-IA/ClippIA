@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T15:18:18.232922+00:00",
+  "updated_at": "2026-08-08T15:23:59.170573+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "0e4d6f36ebc9f710f2de0d16672c25a02d4927678c820c242ce7a5762e770c48",
+      "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUtEVEhMNXpST1EyaHpUcS1PNGEwUm1jdE1uQm5OdE9WT2ZwVUxVRU1tVGtKUlhPdUV2eG13dFpCdjNRRDdSSXJMc2VibGZ6ZzlOV2ZqdFdSRU9sU0haYnd1X1c3aW1YaGJiOFFkdGlCTm9lblA4M3RIUHd1RjkxOHcxd3ZfekpJM0VZOHIzLVlmWElHX3h5LTg2TENIRDFNcWtGYTQwZTRVeFRpYTBDdzBWcGNzSzN3bG1xQmVjdHc5d1JCeTN3NXdLTngxSDVvNUc4NnVpMzlzb1NHcVUw0gHuAUFVX3lxTE1Jdk5OQ01PdWM5eWpUTnFfU1JDT3Q3ZTM5cHFpU0Z4dHNCcnZGQ3J0RlQ0WnQ4ZlV1Qy1rSDFFOUk0VjAzLWk1SFNzeE5UNkhLQjlpN2Y2aTYyRmdfSVljRFJyOGpzbzdMUDBwNGVYenM5NjcyVWhqN2tmSXliMEJwaDE5dmhLTGt3aDN6eHNGMXRzekdMcWRBRUVTVGpMTUh1Rng1Ry0ya2w5Q3UxS2IwN0hlb2RwMmp2M1dzVmhWSzlJczlWVzRpMC1xRkg1ZVVIbWxlNWQteVZtOGJKV1BOc1I5eGNmRUtxOWVua3c?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T15:09:27+00:00",
+      "published_raw": "Sat, 08 Aug 2026 15:09:27 GMT",
+      "snippet": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP G1",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T15:23:42.297361+00:00"
+    },
+    {
       "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
       "title": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté - Araraquara News",
       "source": "Araraquara News",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T15:18:02.817957+00:00"
+      "collected_at": "2026-08-08T15:23:42.889058+00:00"
     },
     {
       "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T15:18:02.266813+00:00"
+      "collected_at": "2026-08-08T15:23:42.297458+00:00"
     }
   ]
 }
