@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T12:36:58.679687+00:00",
+  "updated_at": "2026-08-08T15:18:18.232922+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "a60121f284669e22b42e62565c5d8e1cdc72635661ca5fe637d6e0757618bfc6",
-      "title": "Fique sabendo: Passou pelo pedágio eletrônico sem TAG? Tarifa pode ser paga em até 30 dias! - odefensor.com.br",
-      "source": "odefensor.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGpDMXc1UWdxZ2FOUkVCZ1g0YWlaWWJuc094YXo3dGVyN1EzNGZDSWJ0TGMtVXBKX2xYbUhtTnJYSVdHT0pGbmtjLXZvQWZpX1RiTXNySHk3cjdzTjJxdHJxWDZ2RHRodWE2NEFDQnZhQ3U2Z1pHVmlTSFREQWdybUw2eTF4emFOelEzOTl0TXA4Z1JZUHNQdDAwWHN3cEVGTFBPWDYwYUdWYVRRYVg1R2FJQ2k?oc=5",
+      "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
+      "title": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXVZeEZ3QkItRVVVMTB5Q0dqejBaaTNwSHRFdUlYbElWOGo4ejhlRDJFVG0yVkc1aDB2RWpTdHd1T1ZlT2IzMHp0MHo3R2VGcEFPN21xYW1qVjZvcFI4QXkySExaTXdBZTR0dkpYN1JVYmxLQkFtMHE0djhaMzZLRV81VWFwWlpjakQ0b21POWp0MDNtakNxMW04eE1TQzZXS1hQdDFpZTlMbXVKeXk0Q0pxUnpiaG8?oc=5",
       "resolved_link": "",
-      "published": "2026-08-07T13:58:30+00:00",
-      "published_raw": "Fri, 07 Aug 2026 13:58:30 GMT",
-      "snippet": "Fique sabendo: Passou pelo pedágio eletrônico sem TAG? Tarifa pode ser paga em até 30 dias! odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "published": "2026-08-08T14:38:00+00:00",
+      "published_raw": "Sat, 08 Aug 2026 14:38:00 GMT",
+      "snippet": "Motorista fica ferido após acidente na Washington Luís na divisa com Ibaté Araraquara News",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-08T15:18:02.817957+00:00"
+    },
+    {
+      "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
+      "title": "Motociclista fica em estado grave após acidente na Washington Luís - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajg0MExTTlBNZ19BUE5rVmx3TkE2dEpBMHJxYnBKTlQtZ1RtaHNBdzU5elJvQ21tZ0Z3Zk8zalV5eXV4TV8xR0V5eVJ5Z2Y2OXF4U2RxSWR4LUV3Zlp5cTZHUkxqU2swSVZvRVJCR0ZxcWRscC1rVWZkLWdnSTJzZTBRTzM4VDVSZUYwVEtPQ3g4eW9pb01na1NHSzRlQzZuaWJQOWVfMkYtUTd4?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T14:12:00+00:00",
+      "published_raw": "Sat, 08 Aug 2026 14:12:00 GMT",
+      "snippet": "Motociclista fica em estado grave após acidente na Washington Luís Araraquara News",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T12:36:42.931644+00:00"
+      "collected_at": "2026-08-08T15:18:02.266813+00:00"
     }
   ]
 }
