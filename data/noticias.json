@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T09:32:20.803128+00:00",
+  "updated_at": "2026-08-08T12:23:36.656329+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T09:32:05.335569+00:00"
-    },
-    {
-      "id": "d0cd85dfbecf7838bb284f9d961af91f9bce9f5889c2c6e91398e76e5bff001f",
-      "title": "Carreta desgovernada atinge veículo parado em base da concessionária na Washington Luís, em Matão - Fala Matão",
-      "source": "Fala Matão",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbS0yTFU4TVVtWlRlcnctQm94akRnM2xySGxuZ1VLa05lemhlVG5haWFCb2I2VDdnUDBRUlhrdTJLNHNzTXVQcDJqVmRvbi1fcnVtb05FRHNTNWN2d2NBSzBzOVdqS2pKWFI2djU2RnUxZXpFVFROaGpVbzA1MUFJNDFGV2IyVGljRkFvVjduN3R4Y1d5VHZlZlM0SWFBNF9FRUtpMVdLRnM0dEp1ZXQtYmpSWHJkX3VLejhoZmVFQnYxaG82Um1xLUJBbGk5ejRoZEtTWGh3aER6c3dF?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-07T12:07:00+00:00",
-      "published_raw": "Fri, 07 Aug 2026 12:07:00 GMT",
-      "snippet": "Carreta desgovernada atinge veículo parado em base da concessionária na Washington Luís, em Matão Fala Matão",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-08T09:32:06.955630+00:00"
+      "collected_at": "2026-08-08T12:23:20.458027+00:00"
     }
   ]
 }
