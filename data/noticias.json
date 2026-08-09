@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-08T21:24:49.407462+00:00",
+  "updated_at": "2026-08-09T00:50:25.975536+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 11,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "2f87c1dfa96da0bd1f47786db06dc4130287a0602da330a1bf6ea44831ca7c82",
+      "title": "Obras na rodovia Washington Luís avançam entre Mirassol e Cedral - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM09LTThKeUhETFl0M2E1NWgxM0RfSWFwZVlVcF9XOGlFQzdlSHpkU0JxdE1yTnV5LTE4aGJ2elpGOGdvSlgyNUx0NzlRTGFfTS1HZ3dsRWVwQ0dTbWV1SEpiTWJId2hwbGxtQXE4M2pJajlzWTR1SEZ0UDBRTGRoTU93YkcwUkk?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T23:04:06+00:00",
+      "published_raw": "Sat, 08 Aug 2026 23:04:06 GMT",
+      "snippet": "Obras na rodovia Washington Luís avançam entre Mirassol e Cedral Mobilidade Sampa",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-09T00:50:10.727672+00:00"
+    },
+    {
+      "id": "eeae60f3ab31b0201d318f39f83f0de4839eb85399a14ffcc628f33a3eb3b1ef",
+      "title": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 - Fala Matão",
+      "source": "Fala Matão",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3g1X0JfaGhKMWJhTEMzdjJZQVZGMnRCWktGYWxzRkVVQnNTb3pCNkhOUlFtN1FRbDYyVlRQeHFJNm1oRFlrbjZSbF9CNzdqQllNZzRFX2J5NjhldXNXRGhPaVFXY2pvMko3X19iR180UF9zSHZlZkFuRTFkS1RLbTZHM0ttelFkdEdXTGFwYnN3a2lUYnBUYU1sNHMxa1pReEh0N2M3Q0pOdjk4Z2JmVWlkMXNMTHN1R25tQ3dzcTYtVW9IZmpPU2NNeE1RR2FYOGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T19:09:00+00:00",
+      "published_raw": "Sat, 08 Aug 2026 19:09:00 GMT",
+      "snippet": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 Fala Matão",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-09T00:50:11.245787+00:00"
+    },
+    {
       "id": "519672d7c2b39755fb15488fdd0e0762d1f3ea3ae1c8af39b690358e155c4650",
       "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - redeutv.com.br",
       "source": "redeutv.com.br",
@@ -54,19 +88,36 @@
       "published": "2026-08-08T15:40:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 15:40:00 GMT",
       "snippet": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP redeutv.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-09T00:50:23.586094+00:00"
+    },
+    {
+      "id": "52bb5e8b1ac6d4d3476495f8ac6558652e9e15a009d89ee0ac9f574f4e4ffb07",
+      "title": "Jovem morre em grave acidente na Rodovia Washington Luís em São Carlos - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzdUTnNCYUpreTRRMnc2WURzMXczQWVRbjdtWXpTX3J2V2hla0xXYUQ4NWZzQU1JeGZOanNINW1qdGdLUERxeUl5VVZ1LUkxbXBnSndlNWhab1lKUWhuakVMWXhJWlAzakI1LVdlckNKTEZRcjNEZ1BYNXFKMzl3d1lKZ0dKblpuR3EySy1McUw3OWJlOTNsdm9MUUl5TXRjdW9ic1lPMWZXQmpfUGpnUTU4aG42UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-08T15:27:13+00:00",
+      "published_raw": "Sat, 08 Aug 2026 15:27:13 GMT",
+      "snippet": "Jovem morre em grave acidente na Rodovia Washington Luís em São Carlos Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.565098+00:00"
+      "collected_at": "2026-08-09T00:50:10.727400+00:00"
     },
     {
       "id": "0e4d6f36ebc9f710f2de0d16672c25a02d4927678c820c242ce7a5762e770c48",
       "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - G1",
       "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUtEVEhMNXpST1EyaHpUcS1PNGEwUm1jdE1uQm5OdE9WT2ZwVUxVRU1tVGtKUlhPdUV2eG13dFpCdjNRRDdSSXJMc2VibGZ6ZzlOV2ZqdFdSRU9sU0haYnd1X1c3aW1YaGJiOFFkdGlCTm9lblA4M3RIUHd1RjkxOHcxd3ZfekpJM0VZOHIzLVlmWElHX3h5LTg2TENIRDFNcWtGYTQwZTRVeFRpYTBDdzBWcGNzSzN3bG1xQmVjdHc5d1JCeTN3NXdLTngxSDVvNUc4NnVpMzlzb1NHcVUw0gHuAUFVX3lxTE1Jdk5OQ01PdWM5eWpUTnFfU1JDT3Q3ZTM5cHFpU0Z4dHNCcnZGQ3J0RlQ0WnQ4ZlV1Qy1rSDFFOUk0VjAzLWk1SFNzeE5UNkhLQjlpN2Y2aTYyRmdfSVljRFJyOGpzbzdMUDBwNGVYenM5NjcyVWhqN2tmSXliMEJwaDE5dmhLTGt3aDN6eHNGMXRzekdMcWRBRUVTVGpMTUh1Rng1Ry0ya2w5Q3UxS2IwN0hlb2RwMmp2M1dzVmhWSzlJczlWVzRpMC1xRkg1ZVVIbWxlNWQteVZtOGJKV1BOc1I5eGNmRUtxOWVua3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSXZOTkNNT3VjOXlqVE5xX1NSQ090N2UzOXBxaVNGeHRzQnJ2RkNydEZUNFp0OGZVdUMta0gxRTlJNFYwMy1pNUhTc3hOVDZIS0I5aTdmNmk2MkZnX0lZY0RScjhqc283TFAwcDRlWHpzOTY3MlVoajdrZkl5YjBCcGgxOXZoS0xrd2gzenhzRjF0c3pHTHFkQUVFU1RqTE1IdUZ4NUctMmtsOUN1MUtiMDdIZW9kcDJqdjNXc1ZoVks5SXM5Vlc0aTAtcUZINWVVSG1sZTVkLXlWbThiSldQTnNSOXhjZkVLcTllbmt30gHuAUFVX3lxTE1Jdk5OQ01PdWM5eWpUTnFfU1JDT3Q3ZTM5cHFpU0Z4dHNCcnZGQ3J0RlQ0WnQ4ZlV1Qy1rSDFFOUk0VjAzLWk1SFNzeE5UNkhLQjlpN2Y2aTYyRmdfSVljRFJyOGpzbzdMUDBwNGVYenM5NjcyVWhqN2tmSXliMEJwaDE5dmhLTGt3aDN6eHNGMXRzekdMcWRBRUVTVGpMTUh1Rng1Ry0ya2w5Q3UxS2IwN0hlb2RwMmp2M1dzVmhWSzlJczlWVzRpMC1xRkg1ZVVIbWxlNWQteVZtOGJKV1BOc1I5eGNmRUtxOWVua3c?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T15:09:27+00:00",
       "published_raw": "Sat, 08 Aug 2026 15:09:27 GMT",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.564904+00:00"
+      "collected_at": "2026-08-09T00:50:10.727274+00:00"
     },
     {
       "id": "1e477f7e8709143a4f939339ae0ee70a130cbef24ed73ec18aa19bb0da3d7ecc",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.564816+00:00"
+      "collected_at": "2026-08-09T00:50:10.727093+00:00"
     },
     {
       "id": "61c197b4700cda998bcbc84faef9d9592f08c433cdd794da08db2b8dfe141e59",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.565172+00:00"
+      "collected_at": "2026-08-09T00:50:10.727600+00:00"
     },
     {
       "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:34.081801+00:00"
+      "collected_at": "2026-08-09T00:50:11.245869+00:00"
     },
     {
       "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.565029+00:00"
+      "collected_at": "2026-08-09T00:50:10.727500+00:00"
     },
     {
       "id": "75c1035cda9be815bf6ed0c15fe86d6f8f9ec7b7e4d6344769c54bcaa111cacd",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:34.081881+00:00"
+      "collected_at": "2026-08-09T00:50:11.245947+00:00"
     },
     {
       "id": "86bdf6a173829896c17b5b1eb7f636ad3c234cb8480d75c6834cadc22537fa9e",
@@ -173,13 +224,13 @@
       "published": "2026-08-08T13:40:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 13:40:00 GMT",
       "snippet": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-08T21:24:33.565244+00:00"
+      "collected_at": "2026-08-09T00:50:10.727753+00:00"
     }
   ]
 }
