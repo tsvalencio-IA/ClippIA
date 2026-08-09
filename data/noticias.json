@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T06:47:20.081925+00:00",
+  "updated_at": "2026-08-09T09:27:48.178171+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 11,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "219b7d612a3701874a60de617d710a756f45bc1a718a856dfdbf901d588a9606",
+      "title": "Reunião debate investimentos em rodovias que acessam São Carlos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1kwNzNERXFlTDJyUlJwSFI5LXhpRnFsRy1NUExwMFpRZVdISGp6VDVOYnByUDZaYUhaaE1fQlJjVU8zd3FrWjczeTZyazhrZ0tJR3IyMUxGVXNrc1UxWWRHNjZuN3hBS3hfLTliWkxKM1RvTkdpZUlEaTFYTlFldmRVcXUtbXpHYjRqcnFKTVlzaDBWbld0M2V5anFWckVrWHlEcmpnQkNSQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-09T08:05:10+00:00",
+      "published_raw": "Sun, 09 Aug 2026 08:05:10 GMT",
+      "snippet": "Reunião debate investimentos em rodovias que acessam São Carlos Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-09T09:27:32.995264+00:00"
+    },
+    {
       "id": "2f87c1dfa96da0bd1f47786db06dc4130287a0602da330a1bf6ea44831ca7c82",
       "title": "Obras na rodovia Washington Luís avançam entre Mirassol e Cedral - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,41 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062852+00:00"
+      "collected_at": "2026-08-09T09:27:32.995560+00:00"
     },
     {
-      "id": "eeae60f3ab31b0201d318f39f83f0de4839eb85399a14ffcc628f33a3eb3b1ef",
-      "title": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 - Fala Matão",
-      "source": "Fala Matão",
+      "id": "2d3bf05372a1ab0c6c491650da4e04b074eebca5c479d7b1c92607e1b8d299ea",
+      "title": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 - falamatao.com.br",
+      "source": "falamatao.com.br",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3g1X0JfaGhKMWJhTEMzdjJZQVZGMnRCWktGYWxzRkVVQnNTb3pCNkhOUlFtN1FRbDYyVlRQeHFJNm1oRFlrbjZSbF9CNzdqQllNZzRFX2J5NjhldXNXRGhPaVFXY2pvMko3X19iR180UF9zSHZlZkFuRTFkS1RLbTZHM0ttelFkdEdXTGFwYnN3a2lUYnBUYU1sNHMxa1pReEh0N2M3Q0pOdjk4Z2JmVWlkMXNMTHN1R25tQ3dzcTYtVW9IZmpPU2NNeE1RR2FYOGc?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T19:09:00+00:00",
       "published_raw": "Sat, 08 Aug 2026 19:09:00 GMT",
-      "snippet": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 Fala Matão",
+      "snippet": "Motociclista de Matão morre após perder o controle e ser atingido por caminhão na SP-310 falamatao.com.br",
       "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.597628+00:00"
-    },
-    {
-      "id": "519672d7c2b39755fb15488fdd0e0762d1f3ea3ae1c8af39b690358e155c4650",
-      "title": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP - redeutv.com.br",
-      "source": "redeutv.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOC1ERlpyMGlVNUtCQW03WGVEa2daRlppR2hnYW9Sd0IyNmNGb0Uyc002ZTR4OC04ejlBcldfNFdFczIxWGxDRmlqbHhMaVRycVpfRDVGWlpSTEVQeDY5WUJPWEN6RHBUMWlJNWtHSzF3Z1ZjajB4N3dEeDJ0LVY1QXVQb3ZMWXJZQWlUaEFCaTdDNjFoZGszSTFqUW52Z0Vpay1aLQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-08T15:40:00+00:00",
-      "published_raw": "Sat, 08 Aug 2026 15:40:00 GMT",
-      "snippet": "Motociclista morre após ser atropelado por caminhão na SP-310 no interior de SP redeutv.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-09T06:47:17.731202+00:00"
+      "collected_at": "2026-08-09T09:27:33.538064+00:00"
     },
     {
       "id": "52bb5e8b1ac6d4d3476495f8ac6558652e9e15a009d89ee0ac9f574f4e4ffb07",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062626+00:00"
+      "collected_at": "2026-08-09T09:27:32.995347+00:00"
     },
     {
       "id": "0e4d6f36ebc9f710f2de0d16672c25a02d4927678c820c242ce7a5762e770c48",
@@ -128,13 +128,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062533+00:00"
+      "collected_at": "2026-08-09T09:27:32.995184+00:00"
     },
     {
       "id": "1e477f7e8709143a4f939339ae0ee70a130cbef24ed73ec18aa19bb0da3d7ecc",
       "title": "Carreta perde controle e colide com instalações da Ecovias na Washington Luís - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRW4wWDJJT1dSaHVTZ1R0TTNES0dmczNIZFN6Rl84cGZwZ1N5TUpfQ2RYenhkc2tLblJ3aEU4dmlYelhnU2RGbm5qdno4VWkyQUcwdVpQUm9DYW5ubHNFem53NWNVR2xRVkdWX3YwXzBrZkdPVThmRDQzR20yWVBEX3ZfYlBPTUp2ekJOT3lRM1RYdkFHMDJoUEYyR3c4cElld0I3QXVOUHpYV1ByemVaV3pKQnZKYUxw0gG-AUFVX3lxTFBXajNIamhMaC1NLXhCa0NRNDRqMHBSWWw0c1k3d1YyRkhVTjJYRjhFZHhOWVJFdV9veFRBVkY4TmQ4aUR3NC1BNHlFckwxNWZJeFFTNjN1QzRqdDVpRU5JMUJHWm5xaVcxRzVXSWRyeWtGRl9hcDRFeko0T2JHcmdFOWowcGp6TllkRFgwNXMyZ3hKMm9qYklid1IyT2tPRktoSDlvSnBsWG8yNWpGRVZPUGE0QnowXy1HNXc4cnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRW4wWDJJT1dSaHVTZ1R0TTNES0dmczNIZFN6Rl84cGZwZ1N5TUpfQ2RYenhkc2tLblJ3aEU4dmlYelhnU2RGbm5qdno4VWkyQUcwdVpQUm9DYW5ubHNFem53NWNVR2xRVkdWX3YwXzBrZkdPVThmRDQzR20yWVBEX3ZfYlBPTUp2ekJOT3lRM1RYdkFHMDJoUEYyR3c4cElld0I3QXVOUHpYV1ByemVaV3pKQnZKYUxw0gGaA0FVX3lxTE9iY0xLVWc1Wm41V0ZPZ0pHS2YxMmVZejJ3ZjVqXzFpcVNsc2R5UGUyaGpKTUpCTldwSi1ybE0zLTFSRGh3T1RlLUxLMXpQa3B4NFVzMDluWk9Bak03UmpWV1JXOTNYcnpnSVU1RHZfR2dDdjViU3dJR1YtRWpYa3BuNzdGcDhSWkdFV0RlS1ktRk54NHRPQzQzRWhKTG1DMVJlT3plTkItcVFuMEhaWjVIeGNzY0ZlRlNxRFh4TTMxOURDd1dJUWJ2Nm5Dd3dYQmRiRGpfQkgxa3ZHZ242NjJtaENqNmlIa0VYeWQ4SkxTdEppM0p6aGVfTWNsMUNrVlhxY19XT3NiaGRGczJSV0Z5cnRhQ0RWSlhXUnQ0UkxYMzZpTDV5NGZ5bHYyMmg4YlNKTTJycG0zOHZhZnNDQW02VTB3QzRvUHM5LWl3RlFTQnQ3RENJcE40VWhROEZJZmZkWncxT09ESGRMMTQ5WVZvdHpJdEhPNGhCckVZb2NZMGYtSzRtczFlSmI1YVZHdHczd3Y1S2kwSFF3?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T15:02:53+00:00",
       "published_raw": "Sat, 08 Aug 2026 15:02:53 GMT",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062439+00:00"
+      "collected_at": "2026-08-09T09:27:32.995093+00:00"
     },
     {
       "id": "61c197b4700cda998bcbc84faef9d9592f08c433cdd794da08db2b8dfe141e59",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062783+00:00"
+      "collected_at": "2026-08-09T09:27:32.995493+00:00"
     },
     {
       "id": "1ea845a3b7f45b873da2fe8d838ffa7874bc48d8a83c19cc60d9ea075e71e988",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.597710+00:00"
+      "collected_at": "2026-08-09T09:27:33.538161+00:00"
     },
     {
       "id": "1ee48a0b8fac008e984d4a3e494c99b970a98220e561cb4e9ce40d89d8977679",
@@ -196,41 +196,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062698+00:00"
+      "collected_at": "2026-08-09T09:27:32.995413+00:00"
     },
     {
-      "id": "9968d4fe01a061349db623a772c2fe70ea1d3fcdceab382b2191c6c1fffefb2d",
-      "title": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
+      "id": "75c1035cda9be815bf6ed0c15fe86d6f8f9ec7b7e4d6344769c54bcaa111cacd",
+      "title": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté - São Carlos Agora",
+      "source": "São Carlos Agora",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSTZRdG9ETGRzNnV1bEJTc0FFYVlRWnktVnVCZkZrT2VPWDB1b3puSTZFcHhsLTVJS3N5cm5KdF95R1lDOWhKWllDa2VBNFcwc25xMkVUYzgyaF9WU21EMUxRWHlYRk5fR3lJemloZ3c5R1Z6MFV6SFlfVmFieGJPZFhUZzB0QWtGajV4QTBSYWFJNHltUllsZGRRcE9mOTZ5U0FyTnVGVmFzNlZyc2VfUDIwRlE2dkFpZFZhQWxWRl_SAcABQVVfeXFMTkk2UXRvRExkczZ1dWxCU3NBRWFZUVp5LVZ1QmZGa09lT1gwdW96bkk2RXB4bC01SUtzeXJuSnRfeUdZQzloSlpZQ2tlQTRXMHNucTJFVGM4MmhfVlNtRDFMUVh5WEZOX0d5SXppaGd3OUdWejBVekhZX1ZhYnhiT2RYVGcwdEFrRmo1eEEwUmFhSTR5bVJZbGRkUXBPZjk2eVNBck51RlZhczZWcnNlX1AyMEZRNnZBaWRWYUFsVkZf?oc=5",
       "resolved_link": "",
       "published": "2026-08-08T14:09:45+00:00",
       "published_raw": "Sat, 08 Aug 2026 14:09:45 GMT",
-      "snippet": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté saocarlosagora.com.br",
+      "snippet": "Caminhoneiro fica ferido após perder o controle e cair em valeta entre São Carlos e Ibaté São Carlos Agora",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.597809+00:00"
+      "collected_at": "2026-08-09T09:27:33.538254+00:00"
     },
     {
-      "id": "5f5690d3d6aa943bc5bac24c22a5e789ba589f80e030e05dc3fb24e0318a6712",
-      "title": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhEWm5kdGExWjEtTllFaDNYcGg5ZGRxM0tyTzk4U1BDdkRwdGs0RktlSE9oVXJacUlfWFJXSVlTR0x0V1RNRXlha1pQTGZVV0RQbWlpVzl0QUlNVXduTG1kX3BEZmhVSGdqYVA1Mm1BZkxfZ0VFOEllVnZBN19IZXBpTGRpWFdxZmdpZGh2ZXhRUzRFcVhTSXVwdnNpZ09JamtxZXRCSHFIUnd6bkZ3eTNPU2hROHZOM3U3YW9n0gGyAUFVX3lxTE05TEpiUENSVHB1VWNFdTQ5dHpFbkJlVUJBRURWeC1BMktQRXBqbGpmZWp1ZnJCd2JGejVkTVd4MjNaNUN4bXdRTFpUSzlKZGtJWFR1SFRpeFpSRFp6VGZvQnBHYVhqbUFabEF6SXlFZU1GT3JfVGN6cnVuRERSdmxrWXQyMFZWSnV2WXRPN296Mm9RSk56b3JvdVVaVEx3REU0LVBoZ0dRNEdIQWRtaUJDNGc?oc=5",
+      "id": "86bdf6a173829896c17b5b1eb7f636ad3c234cb8480d75c6834cadc22537fa9e",
+      "title": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUxKYlBDUlRwdVVjRXU0OXR6RW5CZVVCQUVEVngtQTJLUEVwamxqZmVqdWZyQndiRno1ZE1XeDIzWjVDeG13UUxaVEs5SmRrSVhUdUhUaXhaUkRaelRmb0JwR2FYam1BWmxBekl5RWVNRk9yX1RjenJ1bkREUnZsa1l0MjBWVkp1dll0TzdvejJvUUpOem9yb3VVWlRMd0RFNC1QaGdHUTRHSEFkbWlCQzRn0gGyAUFVX3lxTE05TEpiUENSVHB1VWNFdTQ5dHpFbkJlVUJBRURWeC1BMktQRXBqbGpmZWp1ZnJCd2JGejVkTVd4MjNaNUN4bXdRTFpUSzlKZGtJWFR1SFRpeFpSRFp6VGZvQnBHYVhqbUFabEF6SXlFZU1GT3JfVGN6cnVuRERSdmxrWXQyMFZWSnV2WXRPN296Mm9RSk56b3JvdVVaVEx3REU0LVBoZ0dRNEdIQWRtaUJDNGc?oc=5",
       "resolved_link": "",
-      "published": "2026-08-08T13:40:00+00:00",
-      "published_raw": "Sat, 08 Aug 2026 13:40:00 GMT",
-      "snippet": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís saocarlosagora.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "published": "2026-08-08T14:03:44+00:00",
+      "published_raw": "Sat, 08 Aug 2026 14:03:44 GMT",
+      "snippet": "Motociclista cai debaixo de caminhão e é atropelado durante ultrapassagem na Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-09T06:47:05.062950+00:00"
+      "collected_at": "2026-08-09T09:27:32.995634+00:00"
     }
   ]
 }
