@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-10T10:07:33.046352+00:00",
+  "updated_at": "2026-08-10T10:12:31.008517+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 7,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411372+00:00"
+      "collected_at": "2026-08-10T10:12:13.164616+00:00"
     },
     {
       "id": "89ed5d41d7ef3e3ca27af62c93bc56d7a7cf50137ed0c6c2f6bebf17966f69ab",
@@ -71,30 +71,13 @@
       "published": "2026-08-09T19:10:53+00:00",
       "published_raw": "Sun, 09 Aug 2026 19:10:53 GMT",
       "snippet": "Motociclista de 23 anos morre em acidente no km 242 da Rodovia Washington Luís (SP-310) Porto Ferreira Hoje",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411587+00:00"
-    },
-    {
-      "id": "4ab941b98054bd9fe9ff7265561f9459c9d96eeef4a8d0c31938dc9cd2001cb9",
-      "title": "Motociclista de 23 anos morre em acidente no km 242 da Rodovia Washington Luís (SP-310) - portoferreirahoje.com.br",
-      "source": "portoferreirahoje.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0hVSU9uMVYyaVVGU3JoaDAySXU5WF84RWNoN0Uwa1kweEhXNWl3MTFLU3ByS1FvNlFGWWZpUUFvb0tKdVlWQXIxNFNXaGttd2JYemUyaHliTHdEUWVzNE9DT2tWUDdNVmpDVzRZVHVOdXRJaTFvM3FMTTVsRXZneWlPaWlyT0I1bDA1dTFjRXFFU3l5RUJlYTVkdWx3d2k5clpfaEl0blQ4QUZiTUhpUGlVYWF1NWdvWkVOdENUWjAtMm40WnVLRXV4dVBCVFh2RUUzdDJhX1ZHUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-09T19:10:53+00:00",
-      "published_raw": "Sun, 09 Aug 2026 19:10:53 GMT",
-      "snippet": "Motociclista de 23 anos morre em acidente no km 242 da Rodovia Washington Luís (SP-310) portoferreirahoje.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-10T10:07:18.981862+00:00"
+      "collected_at": "2026-08-10T10:12:13.164803+00:00"
     },
     {
       "id": "54660fddb11ed905b78ba4b1bb37dc5c17f47fbc99faf76a9f7fd2a8732b3f02",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411826+00:00"
+      "collected_at": "2026-08-10T10:12:13.165101+00:00"
     },
     {
       "id": "d82618f5d55d2ea35bc15bc5e9088eaed1121ff3461983c7b89143aab1866aa0",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411706+00:00"
+      "collected_at": "2026-08-10T10:12:13.164950+00:00"
     },
     {
       "id": "a910d7c086a83555366a8d0c91352ff768c96780b3a86ce35dda885a1a7d1050",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411648+00:00"
+      "collected_at": "2026-08-10T10:12:13.164878+00:00"
     },
     {
       "id": "1c93e2d571609f96a97553959c7f6cd61f2cfde76a02df6c41171cd20d863dce",
@@ -162,24 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411509+00:00"
+      "collected_at": "2026-08-10T10:12:13.164715+00:00"
     },
     {
-      "id": "f112af975d2802e6cff6f7882b3ba5cf47ab4b573a60543321ee3d03fa9b3cde",
-      "title": "Jovem motociclista que morreu na Washington Luís será sepultado neste domingo em Matão - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
+      "id": "8011bceb16fe7f8a370dc21ceb79efea67ba5f25ec104f9004c99dd894175c94",
+      "title": "Jovem motociclista que morreu na Washington Luís será sepultado neste domingo em Matão - São Carlos Agora",
+      "source": "São Carlos Agora",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlsLUxlT3RMX3ZGQndXWmFtYVBpQUllRkROWndsYWJ1QkNDMnRycUlySEJmWXRnZTBJSVMybDBIWmJzWER0aU5GcWdjeUhZemlRMlNWV1pWd3l2ZlkxaU5nWnV0TFluSnpnRHdfSEJKZEFlMVhrSGJKbzBDbnVGa0IxR09DbkVKTFF3ZEpTZ0hfZ2J0WExnWERLb1lxeE4xS0d4dnJsWXdIOTNMS25UdmRyRUVJSkhFRGfSAb8BQVVfeXFMTkpqUENpbEVSMjB1STIzbUpkZUNoV1hPRUoxdVJSS005ZWtiaU12UEJKMTdMYS0wYWVKYXgyMExVZ25uWUpWMEl2QkdXVmRoelNYRTdvaVNiVUVwZ2EzVEx1UlZCTjNUSGxIVGJkMXY1WmJ4RWxlMmVBUm1CT3laSTFfaHBucWxOZy1ZM3Q4UFNTOGxLeWFGOGxkOHJZRWlzYWc4OWFnVXpZeHQtUk4xV1VxUDlsaVdzRXpDTnR6Znc?oc=5",
       "resolved_link": "",
       "published": "2026-08-09T11:44:00+00:00",
       "published_raw": "Sun, 09 Aug 2026 11:44:00 GMT",
-      "snippet": "Jovem motociclista que morreu na Washington Luís será sepultado neste domingo em Matão saocarlosagora.com.br",
+      "snippet": "Jovem motociclista que morreu na Washington Luís será sepultado neste domingo em Matão São Carlos Agora",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T10:07:17.411767+00:00"
+      "collected_at": "2026-08-10T10:12:13.165028+00:00"
     }
   ]
 }
