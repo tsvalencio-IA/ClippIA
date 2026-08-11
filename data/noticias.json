@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-11T15:56:21.346364+00:00",
+  "updated_at": "2026-08-11T18:44:32.496241+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 10,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "516b7f2c65664ac741ded663504597e952fa8db39aaffa32b873d4f1f4870d9e",
+      "title": "Obras alteram trânsito em rodovias do interior de SP nesta semana - iG Último Segundo",
+      "source": "iG Último Segundo",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdy1zVEdHN1BhaXdFV0VKNWRUdi1OVHQxSWZ1amYzc21SdDd3T01xT1NkNzlWb3B5dGhDQ3BOZlFONzBNZTc2TEZmdGE5aGY5RWpYaEo2OWNsbUpTVl8yWGZfUkV6M3RJcVVOWEJMSGF0VWU4ZmJxS21JMkFVVVdWOG1mRTJjektEeVhtTkJkLVRhQ2dRYmE1Z180SmhqZm5RQk9nQlpiWGVkSUxYai1SWGpvWm9ZTFhoN2JiMHV1SXF6S2fSAcgBQVVfeXFMT1FHaEtsZjJFY2M4c1R1d2lqRzJyRExqYk1MZHZqVlJsRjNvbGxQSlZ4TUlhODNtS0FJN0lnaWRSeEtlTXAwaEM4RktwQ29pd1NnZDlrWVpvVmI2a2daQXRyNWQ2UllGaFFORms4RlJCQWIwYjZ1NTMtR3ZIaW5pbTloQnN2ZF9vNmsyb1NyNDZhR244T1ZpZVBIT2hCenFKUFRtMVZKNEdLaTR4MXdNU0VNLUNFVDA2MmtINWpEVktZcTZlV3JDMUY?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-11T17:15:00+00:00",
+      "published_raw": "Tue, 11 Aug 2026 17:15:00 GMT",
+      "snippet": "Obras alteram trânsito em rodovias do interior de SP nesta semana iG Último Segundo",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T18:44:16.596775+00:00"
+    },
+    {
+      "id": "65d69ea92a0a93f0f44b1cb4c531bcef3f3fa8c539c23a0cd0ef34442fcaee40",
+      "title": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão - Fala Matão",
+      "source": "Fala Matão",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWVVOXM0R0ZqSjFIa0RfUG9lMWxlN1pCRV9Vd0F4VWhPMlMyRUlVVHVodlVLVjM0QTQwaEQ3V0g0ZnZ5d1JxeVlELXl6RXJ2SEwyMldhNFB5emd6ZWlSaGh0NnRqWlZ1YVhiRGltYmxwbEJyYkpvMGtzVVJfTGljZDZEWEpwWDNqQ1JPZ2xMbHM0eGdTOGF6TGFfVjd6TG96VGloMGRMSUVSQkpEcmhkT1p6MG4xal9DQXpYakJXcVZfRkpFS1doMmVRUkF2UDBTTEZYcQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-11T12:44:00+00:00",
+      "published_raw": "Tue, 11 Aug 2026 12:44:00 GMT",
+      "snippet": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão Fala Matão",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T18:44:17.163601+00:00"
+    },
+    {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
@@ -60,24 +94,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.425050+00:00"
+      "collected_at": "2026-08-11T18:44:16.596656+00:00"
     },
     {
-      "id": "e1798ded79c24e1697e1235000750c103b75059c37778987df7a1a5541845a11",
-      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (15) - Diário do Transporte",
-      "source": "Diário do Transporte",
+      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGhOODdTUTJ3ZmJRQ1ZVY0RvQmUyaHl5WTVITlZ2MVhFNDBsNnZWMEp0SGNmaWNMNzhlenFTdHVjTmFEYlZuXzA3MVhIdl9vZGpfTFp4N1FLT3RXTzJJN1FNM3FQR0VSLWpLYXA1X2Vac2ZtSldVTnpJdWJ1WWQzY0RuUzRmYnpNUEN6V3lCcGhPTXF4?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-11T11:38:19+00:00",
+      "published_raw": "Tue, 11 Aug 2026 11:38:19 GMT",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
+      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T18:44:30.464651+00:00"
+    },
+    {
+      "id": "ee03be31a37c911e16e231a149d22cf888dfb6da80a1cb51559d1fdbc9de2aa0",
+      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (15) - diariodotransporte.com.br",
+      "source": "diariodotransporte.com.br",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOFdtTnAzVmV0UXlnQ1F4ZWs0MldJMFN5bkZFd3l1V3BjZmI4RkJNajdBcUZYMENndTZHazBWcy1lRUstVkpVd0ZtQW1DZ3dfbE0yM2pNeERFYzZKaVpETW5UV0pERGR0MGZHYjRBT01Ya1REV3Y2X3JrR2lIYnRoVms5UGlLX19wNkQ0Z254QldpcXNOWGxOSlV0TWlodWtETEw3Nk82TER3UzdlNmhFdHRBbWpKT3N5MldmT2oyWmFsNHk0aExWcGJzTTlQV2lCMDNwazhua2FZNFhhOGh3ZXk0VzdmeUxxUG1jSUtaeDVqellpSll3MjRmaVRrRlktQXBsRzRIdmg5NFpX0gGMAkFVX3lxTE44V21OcDNWZXRReWdDUXhlazQyV0kwU3luRkV3eXVXcGNmYjhGQk1qN0FxRlgwQ2d1NkdrMFZzLWVFSy1WSlV3Rm1BbUNnd19sTTIzak14REVjNkppWkRNblRXSkREZHQwZkdiNEFPTVhrVERXdjZfcmtHaUhidGhWazlQaUtfX3A2RDRnbnhCV2lxc05YbE5KVXRNaWh1a0RMTDc2TzZMRHdTN2U2aEV0dEFtakpPc3kyV2ZPajJaYWw0eTRoTFZwYnNNOVBXaUIwM3BrOG5rYVk0WGE4aHdleTRXN2Z5THFQbWNJS1p4NWp6WWlKWXcyNGZpVGtGWS1BcGxHNEh2aDk0Wlc?oc=5",
       "resolved_link": "",
       "published": "2026-08-11T01:00:00+00:00",
       "published_raw": "Tue, 11 Aug 2026 01:00:00 GMT",
-      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (15) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (15) diariodotransporte.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.424974+00:00"
+      "collected_at": "2026-08-11T18:44:16.596555+00:00"
     },
     {
       "id": "2f0c83e766a9909398c99c26fd48aba5d1d6ed680706ac7c7e812b62d035eb44",
@@ -94,41 +145,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.425275+00:00"
+      "collected_at": "2026-08-11T18:44:16.597056+00:00"
     },
     {
-      "id": "1f1858b949ab6ccfbe5519b48fd5529aa5e829ddfc705f8a349f229e9a14b2a2",
-      "title": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "171a8ada0e1f88fdafc63b6bfe5d1f435485bacce5816d7f0d72630e3224b19b",
+      "title": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHhMUEhpVzIzZm96UW1DX3ZPcC1idWNpN2t4UUhiVTRXaGFabWVoVHByLThWUXE0UkdobTJPRkppU05VVzB5T1p3YUVOVUZuY2xKWFozcURIRFl0Y3Z4c2FaOWh0d1JTbmFkalZObTdNSHM1QjNiUHhKVDJFeDVaR016emxQNDNVVVFFdG5VZXFXc1k1bHJnZm16d0Q5dw?oc=5",
       "resolved_link": "",
       "published": "2026-08-10T23:05:39+00:00",
       "published_raw": "Mon, 10 Aug 2026 23:05:39 GMT",
-      "snippet": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata Mobilidade Sampa",
+      "snippet": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata mobilidadesampa.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.425336+00:00"
+      "collected_at": "2026-08-11T18:44:16.597132+00:00"
     },
     {
-      "id": "c16dee1467e299161df0aeb871a959522a05e9c24d42914dd00ae7e768bbceff",
-      "title": "Acidente envolvendo seis veículos deixa três mortos e quatro feridos na rodovia Anhanguera em São Paulo - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "29e4a03ec7b3a52a1aacbd8179458bda69dacaa23842adb6bbbd2b85b028acc9",
+      "title": "Acidente envolvendo seis veículos deixa três mortos e quatro feridos na rodovia Anhanguera em São Paulo - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakJKZGU0X1lLQlRHdU5xekxwSDRBa1BNc1VIck4wNlZRbXFNeWFJaWRxdGpqSEx4bXZIX0VEbVY3QUpPdVU4NmhscGxpYjFMYWVSZjQ5SnJiV29IcU9waUdpaHBmOGk2NGhXSVAzRzlDSnVXVjZHeVVRLTZadWR0ZHRKOHV5RkpWSXI2ZHJPdXVaNnpEVGlzZXg5ajM3TWs?oc=5",
       "resolved_link": "",
       "published": "2026-08-10T22:13:30+00:00",
       "published_raw": "Mon, 10 Aug 2026 22:13:30 GMT",
-      "snippet": "Acidente envolvendo seis veículos deixa três mortos e quatro feridos na rodovia Anhanguera em São Paulo Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "snippet": "Acidente envolvendo seis veículos deixa três mortos e quatro feridos na rodovia Anhanguera em São Paulo mobilidadesampa.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:16.593255+00:00"
+      "collected_at": "2026-08-11T18:44:16.597211+00:00"
     },
     {
       "id": "d3c36f4e345f373ddb3afa755c210b3f6b4226d9c2bac58feddb840a2256df49",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.425202+00:00"
+      "collected_at": "2026-08-11T18:44:16.596965+00:00"
     },
     {
       "id": "0af51442cfc3197c6761caedf42cf83ed13aa4a0036a7ed7de550ec8bc63f08a",
@@ -162,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-11T15:56:05.425129+00:00"
-    },
-    {
-      "id": "d2d7d632c69a1a69e9d609c8336f871cc6ae90ed0a2d75ce2d91d3a970d8ec30",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 10/8 a 16/8/2026 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1l0VXU1MDhRT0JMT3pCSktVRnF1MGZZVzUxaWJYc05UVmtjWTNoM0pNZDE5V2FWdFBremhldWlxRy1NMVJqTG9KM1FURHpRYUN0eVlnZ2dzdG9INThNazdzMk1IUTBHOWtjc3VKbkF2UjM1Wm9wNGt0b0NMT25iUF9hUzFKYzU1TjN1Y0szLWVxamtpWWthbXN4TGZneklPQzdsOUNfOU1kTmgzX21OMDlPNEtNQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-10T16:16:02+00:00",
-      "published_raw": "Mon, 10 Aug 2026 16:16:02 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 10/8 a 16/8/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" interdição",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-11T15:56:16.036585+00:00"
+      "collected_at": "2026-08-11T18:44:16.596867+00:00"
     }
   ]
 }
