@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-10T21:36:19.625296+00:00",
+  "updated_at": "2026-08-11T00:52:25.938672+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 8,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,91 @@
   ],
   "items": [
     {
+      "id": "2f0c83e766a9909398c99c26fd48aba5d1d6ed680706ac7c7e812b62d035eb44",
+      "title": "Ampliação da Washington Luís altera rotina de motoristas entre Mirassol e Rio Preto - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQWpONWhyZXlvTm16TktVZnhTb29rWWlUSW9lQmtRaG9yMUlCaGluS1dHQ0lNZ2VsQ1JMY3ZSank5MkczekhwZUowWmx6MmVUMWhvaXpqaVJYY0VUMXFNdFNaalNNZTI4WWZWWEdNODhkdmlNTmEyRzVVbWRNN3I2MkVKcXA3X0hyMGZTNDZ5dUdGakRmcU5sLXdUS09JT1UwOC1XSFRUeGdFc2hoSUVhUEpOdkZYYzBLWFBFRWtyNXFXWmcwdzdzYW9KYXhYWXd1ZHVaaUtyVQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-10T23:54:00+00:00",
+      "published_raw": "Mon, 10 Aug 2026 23:54:00 GMT",
+      "snippet": "Ampliação da Washington Luís altera rotina de motoristas entre Mirassol e Rio Preto Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T00:52:10.396473+00:00"
+    },
+    {
+      "id": "1f1858b949ab6ccfbe5519b48fd5529aa5e829ddfc705f8a349f229e9a14b2a2",
+      "title": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHhMUEhpVzIzZm96UW1DX3ZPcC1idWNpN2t4UUhiVTRXaGFabWVoVHByLThWUXE0UkdobTJPRkppU05VVzB5T1p3YUVOVUZuY2xKWFozcURIRFl0Y3Z4c2FaOWh0d1JTbmFkalZObTdNSHM1QjNiUHhKVDJFeDVaR016emxQNDNVVVFFdG5VZXFXc1k1bHJnZm16d0Q5dw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-10T23:05:39+00:00",
+      "published_raw": "Mon, 10 Aug 2026 23:05:39 GMT",
+      "snippet": "Avenida Ragueb Chohfi será parcialmente interditada para obras da Linha 15-Prata Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T00:52:10.396584+00:00"
+    },
+    {
+      "id": "d3c36f4e345f373ddb3afa755c210b3f6b4226d9c2bac58feddb840a2256df49",
+      "title": "Presidente da Câmara, Hugo Motta anuncia apoio a Lula nas eleições de 2026 - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmpFWkZwYkxvUTdJSFBhLWRjY191UHhEdVlhZmpkMHZqb3RWaHhvN0wtU0owOWhHSlJZbC12aVBET0RNUXQ2VlJRNDY1MnozVDdKRlZFM2ljVGxDWEhLY3VISUNxa3kwLTJDeXMyRXZRNmNnOXZMdng0TXdpU1pVcjNKS2ZGbzJiWG1vTDctZnlnV0JLTy1uQkU3azUxdnpETjFFN2RuVWRicWPSAasBQVVfeXFMUEpqRVpGcGJMb1E3SUhQYS1kY2NfdVB4RHVZYWZqZDB2am90Vmh4bzdMLVNKMDloR0pSWWwtdmlQRE9ETVF0NlZSUTQ2NTJ6M1Q3SkZWRTNpY1RsQ1hIS2N1SElDcWt5MC0yQ3lzMkV2UTZjZzl2THZ4NE13aVNaVXIzSktmRm8yYlhtb0w3LWZ5Z1dCS08tbkJFN2s1MXZ6RE4xRTdkblVkYnFj?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-10T20:50:03+00:00",
+      "published_raw": "Mon, 10 Aug 2026 20:50:03 GMT",
+      "snippet": "Presidente da Câmara, Hugo Motta anuncia apoio a Lula nas eleições de 2026 - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T00:52:10.396376+00:00"
+    },
+    {
+      "id": "0af51442cfc3197c6761caedf42cf83ed13aa4a0036a7ed7de550ec8bc63f08a",
+      "title": "Prefeitura melhora acesso a estradas rurais do Capão da Antas - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU5KNTZiZ0U5S0xER3dTcS1ramx2Sm1fT0YzWmJkNjNqMzdPY0psYTRLM0tNY3hsT0dGMGJ2SUZNTk9VYlFjMGV0SEg5ZjRUMUZJLTFxTnVWUzdDb3V4QzVVWndnQ3luWTZGekl5WUc3eGJNSmF0T3drVk5lYkdYTUs0dXdKQ0dIdUFfa0FzTXZnTFZMQ2dZMkNDWdIBmwFBVV95cUxORU5KNTZiZ0U5S0xER3dTcS1ramx2Sm1fT0YzWmJkNjNqMzdPY0psYTRLM0tNY3hsT0dGMGJ2SUZNTk9VYlFjMGV0SEg5ZjRUMUZJLTFxTnVWUzdDb3V4QzVVWndnQ3luWTZGekl5WUc3eGJNSmF0T3drVk5lYkdYTUs0dXdKQ0dIdUFfa0FzTXZnTFZMQ2dZMkNDWQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-10T20:22:31+00:00",
+      "published_raw": "Mon, 10 Aug 2026 20:22:31 GMT",
+      "snippet": "Prefeitura melhora acesso a estradas rurais do Capão da Antas - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T00:52:10.396279+00:00"
+    },
+    {
+      "id": "00c744bd4d2683cc65a108de391ddb130e2398a75c11bdb85b987d7863b1f4be",
+      "title": "Ecovias Noroeste Paulista informa o cronograma de obras de 10/8 a 16/8/2026 - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQW9JOHA3dDFUYldxaHVGMWdrR2hBaXNfZVBNYVE0SXZOWGpGT3BQYVJyQi04V1VUY1RXMmlSQk1HbHFvM1MyUXRSVU9Hak1BS3hoVW8yYXN1dHJ4dW9UNFhZVG12Q18xcUxxdE9teEZPVTdjNFJIaFV0elc5NXFPVWViNXVlR0VNdldoSHNJcE9FQlQ3U2MzTXo0UUcwTXJHTnc5WnFMQ2zSAa4BQVVfeXFMTnZnYW1YdEszSkVaVG1qM2RBLVVVbEZvQXVUWFdQUFZjakV1eDVoZEk4ZGxnRHJHRFhfdVpuNDFIalNvMWZ2Z1pZSVBvWl9tOEJ2WXhVT2ktNThjeXVwYUlfdVVOZElFU0xLZWwzcVg3Y1d1OWtoa3p1TExIMWhuaFpiQV9GOHhSVUQ4ZTJGOWJKTTZOaElhVm10VHVNUHpkRDI2SnJLTnAzMHc2SF93?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-10T17:08:22+00:00",
+      "published_raw": "Mon, 10 Aug 2026 17:08:22 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa o cronograma de obras de 10/8 a 16/8/2026 - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-11T00:52:21.869546+00:00"
+    },
+    {
       "id": "d2d7d632c69a1a69e9d609c8336f871cc6ae90ed0a2d75ce2d91d3a970d8ec30",
       "title": "Ecovias Noroeste Paulista informa cronograma de obras de 10/8 a 16/8/2026 - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -60,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T21:36:03.506288+00:00"
+      "collected_at": "2026-08-11T00:52:10.396054+00:00"
     },
     {
       "id": "155afe270fa4a8427d58c26782d5652578b7d715eb8a3c98461ecd8c23a7e174",
@@ -77,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T21:36:03.506387+00:00"
+      "collected_at": "2026-08-11T00:52:10.396181+00:00"
     },
     {
       "id": "dae37948aa4a969d35a96de5f1cb4dd779089c45233bb6afc00876e9937f037c",
@@ -94,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-10T21:36:03.506461+00:00"
+      "collected_at": "2026-08-11T00:52:10.396667+00:00"
     }
   ]
 }
