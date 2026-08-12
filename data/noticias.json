@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-12T09:56:56.948197+00:00",
+  "updated_at": "2026-08-12T12:41:15.435465+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 3,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-12T09:56:41.790592+00:00"
+      "collected_at": "2026-08-12T12:40:59.217274+00:00"
     },
     {
       "id": "516b7f2c65664ac741ded663504597e952fa8db39aaffa32b873d4f1f4870d9e",
@@ -77,58 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-12T09:56:41.790245+00:00"
+      "collected_at": "2026-08-12T12:40:59.217167+00:00"
     },
     {
-      "id": "8962cb991eafc3d66bf2c8eef61df7b6e0653ca4f964205f0a8a8f7a866d7350",
-      "title": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão - falamatao.com.br",
-      "source": "falamatao.com.br",
+      "id": "65d69ea92a0a93f0f44b1cb4c531bcef3f3fa8c539c23a0cd0ef34442fcaee40",
+      "title": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão - Fala Matão",
+      "source": "Fala Matão",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWVVOXM0R0ZqSjFIa0RfUG9lMWxlN1pCRV9Vd0F4VWhPMlMyRUlVVHVodlVLVjM0QTQwaEQ3V0g0ZnZ5d1JxeVlELXl6RXJ2SEwyMldhNFB5emd6ZWlSaGh0NnRqWlZ1YVhiRGltYmxwbEJyYkpvMGtzVVJfTGljZDZEWEpwWDNqQ1JPZ2xMbHM0eGdTOGF6TGFfVjd6TG96VGloMGRMSUVSQkpEcmhkT1p6MG4xal9DQXpYakJXcVZfRkpFS1doMmVRUkF2UDBTTEZYcQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-11T12:44:00+00:00",
       "published_raw": "Tue, 11 Aug 2026 12:44:00 GMT",
-      "snippet": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão falamatao.com.br",
+      "snippet": "Cavalo morre após ser atropelado por caminhonete na Rodovia Brigadeiro Faria Lima, em Matão Fala Matão",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-12T09:56:42.291043+00:00"
-    },
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjBSNFdSTHd3X3dmWWtreXgwUGRUenFyZUNZX2NIeUNhT3p1bk0yZ1ZkSnhPSG5CU1hXUU1CU0xsdWk3ZkNUMHl5RV9OcU1rZEdIbGgyaXhxT1VoT0g1cHlsSnBZclloYzNpWDlRX2JuU1JtQ0RsQzBPQVdmVE9VcERPTnJsNk9VczhvVUk1N3ZlOFVkbmNodlRVSFFyMmFxOUg1UDllcVBXNWM2djM2TVB3ZTd0aVdYU1dDXw?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-11T12:08:18+00:00",
-      "published_raw": "Tue, 11 Aug 2026 12:08:18 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-12T09:56:41.790062+00:00"
-    },
-    {
-      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGhOODdTUTJ3ZmJRQ1ZVY0RvQmUyaHl5WTVITlZ2MVhFNDBsNnZWMEp0SGNmaWNMNzhlenFTdHVjTmFEYlZuXzA3MVhIdl9vZGpfTFp4N1FLT3RXTzJJN1FNM3FQR0VSLWpLYXA1X2Vac2ZtSldVTnpJdWJ1WWQzY0RuUzRmYnpNUEN6V3lCcGhPTXF4?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-11T11:38:19+00:00",
-      "published_raw": "Tue, 11 Aug 2026 11:38:19 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-12T09:56:41.790389+00:00"
+      "collected_at": "2026-08-12T12:40:59.732543+00:00"
     }
   ]
 }
