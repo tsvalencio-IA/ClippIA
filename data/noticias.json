@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-12T15:54:56.928605+00:00",
+  "updated_at": "2026-08-12T18:45:14.996484+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-12T15:54:39.875179+00:00"
-    },
-    {
-      "id": "516b7f2c65664ac741ded663504597e952fa8db39aaffa32b873d4f1f4870d9e",
-      "title": "Obras alteram trânsito em rodovias do interior de SP nesta semana - iG Último Segundo",
-      "source": "iG Último Segundo",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUdoS2xmMkVjYzhzVHV3aWpHMnJETGpiTUxkdmpWUmxGM29sbFBKVnhNSWE4M21LQUk3SWdpZFJ4S2VNcDBoQzhGS3BDb2l3U2dkOWtZWm9WYjZrZ1pBdHI1ZDZSWUZoUU5GazhGUkJBYjBiNnU1My1HdkhpbmltOWhCc3ZkX282azJvU3I0NmFHbjhPVmllUEhPaEJ6cUpQVG0xVko0R0tpNHgxd01TRU0tQ0VUMDYya0g1akRWS1lxNmVXckMxRtIByAFBVV95cUxPUUdoS2xmMkVjYzhzVHV3aWpHMnJETGpiTUxkdmpWUmxGM29sbFBKVnhNSWE4M21LQUk3SWdpZFJ4S2VNcDBoQzhGS3BDb2l3U2dkOWtZWm9WYjZrZ1pBdHI1ZDZSWUZoUU5GazhGUkJBYjBiNnU1My1HdkhpbmltOWhCc3ZkX282azJvU3I0NmFHbjhPVmllUEhPaEJ6cUpQVG0xVko0R0tpNHgxd01TRU0tQ0VUMDYya0g1akRWS1lxNmVXckMxRg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-11T17:15:00+00:00",
-      "published_raw": "Tue, 11 Aug 2026 17:15:00 GMT",
-      "snippet": "Obras alteram trânsito em rodovias do interior de SP nesta semana iG Último Segundo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-12T15:54:39.875079+00:00"
+      "collected_at": "2026-08-12T18:44:57.233228+00:00"
     }
   ]
 }
