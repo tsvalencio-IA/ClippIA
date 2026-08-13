@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T18:45:45.118949+00:00",
+  "updated_at": "2026-08-13T18:56:35.862296+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T18:45:28.690487+00:00"
-    },
-    {
-      "id": "f8205c7392d7b1c73c8915e6719017a987cec65f88f7aecba4bdab079e60e2d4",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzlvTjhnLUVaNmh4cDF2MnViWUtOUjZhTnotdDktMi1nbDVPa29SZlZFNWZaRENISnZhZ2w4Rk1hY0w5ZHlrYWJEajFhUDNKWG5XS0l4UEFhT1dQektOU3ZDZmV6d3VsTXJreVV6ZVBuWjg5RWpGTnVpdEl5ZmV6V1hiUEZVanpRcmZNTmhuOHNQaFFjRjlKXzR4X0lzMHJjbWRuWDZhbFZhMXRhWjZLdC1uTUFXVnd3R3JEMlZXVDFKcVllUnJpR1VnMGJnOHVDS3RyMFVOTkdieHNJZlh2dg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T12:57:22+00:00",
-      "published_raw": "Thu, 13 Aug 2026 12:57:22 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-13T18:45:39.123559+00:00"
+      "collected_at": "2026-08-13T18:56:20.084880+00:00"
     },
     {
       "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T18:45:28.690303+00:00"
+      "collected_at": "2026-08-13T18:56:20.084698+00:00"
     },
     {
       "id": "e28f2788f4633af44c0ec5aa71240754e3c77d2871e6dd2ab959fbc3d47364cf",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T18:45:28.690402+00:00"
+      "collected_at": "2026-08-13T18:56:20.084796+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T18:45:28.690150+00:00"
+      "collected_at": "2026-08-13T18:56:20.084578+00:00"
     }
   ]
 }
