@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T15:54:35.553658+00:00",
+  "updated_at": "2026-08-13T18:45:45.118949+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "80863ef10ca73971a2cb7e2b8b129e662f8a3665f1d7e7638f886a5e1f847038",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - jornalpp.com.br",
-      "source": "jornalpp.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzlvTjhnLUVaNmh4cDF2MnViWUtOUjZhTnotdDktMi1nbDVPa29SZlZFNWZaRENISnZhZ2w4Rk1hY0w5ZHlrYWJEajFhUDNKWG5XS0l4UEFhT1dQektOU3ZDZmV6d3VsTXJreVV6ZVBuWjg5RWpGTnVpdEl5ZmV6V1hiUEZVanpRcmZNTmhuOHNQaFFjRjlKXzR4X0lzMHJjbWRuWDZhbFZhMXRhWjZLdC1uTUFXVnd3R3JEMlZXVDFKcVllUnJpR1VnMGJnOHVDS3RyMFVOTkdieHNJZlh2dg?oc=5",
+      "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
+      "title": "Ecovias Noroeste Paulista e Polícia Rodoviária promovem ações de conscientização no trânsito em Rio Preto e Mirassol - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWGtWRkdjbzlyX3JvUl9vZW00NGlLbW9LWXlKemhod00xaC1ZdFhDVllaeDRQYXBiMVVYUmxWakVJb3I0cDBMUWJ4WDNDSWNCV2xKSGNvNVJvU1VOa3dNVk9BVlpNNUE4a2ZyM3ppZXltaTV2cnlVdDhtdjRQU29MVjlubFpPTmVYWFI4RTVoRUNRQ1NSRGJ2MDM5WnYxeW1sNC1DV0RYVHVXU0RINHpTQjVrUlQ3VkQ1OU1sMFc3UkJwakxVb1htbk1pQXZkdVBlOFlaMmUya0haZ2Z5?oc=5",
       "resolved_link": "",
-      "published": "2026-08-13T12:57:22+00:00",
-      "published_raw": "Thu, 13 Aug 2026 12:57:22 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos jornalpp.com.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "published": "2026-08-13T15:59:00+00:00",
+      "published_raw": "Thu, 13 Aug 2026 15:59:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista e Polícia Rodoviária promovem ações de conscientização no trânsito em Rio Preto e Mirassol Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T15:54:17.297313+00:00"
+      "collected_at": "2026-08-13T18:45:28.690487+00:00"
+    },
+    {
+      "id": "f8205c7392d7b1c73c8915e6719017a987cec65f88f7aecba4bdab079e60e2d4",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSzlvTjhnLUVaNmh4cDF2MnViWUtOUjZhTnotdDktMi1nbDVPa29SZlZFNWZaRENISnZhZ2w4Rk1hY0w5ZHlrYWJEajFhUDNKWG5XS0l4UEFhT1dQektOU3ZDZmV6d3VsTXJreVV6ZVBuWjg5RWpGTnVpdEl5ZmV6V1hiUEZVanpRcmZNTmhuOHNQaFFjRjlKXzR4X0lzMHJjbWRuWDZhbFZhMXRhWjZLdC1uTUFXVnd3R3JEMlZXVDFKcVllUnJpR1VnMGJnOHVDS3RyMFVOTkdieHNJZlh2dg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T12:57:22+00:00",
+      "published_raw": "Thu, 13 Aug 2026 12:57:22 GMT",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-13T18:45:39.123559+00:00"
     },
     {
       "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
@@ -71,13 +88,13 @@
       "published": "2026-08-13T12:48:24+00:00",
       "published_raw": "Thu, 13 Aug 2026 12:48:24 GMT",
       "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T15:54:30.476262+00:00"
+      "collected_at": "2026-08-13T18:45:28.690303+00:00"
     },
     {
       "id": "e28f2788f4633af44c0ec5aa71240754e3c77d2871e6dd2ab959fbc3d47364cf",
@@ -88,13 +105,13 @@
       "published": "2026-08-13T12:39:58+00:00",
       "published_raw": "Thu, 13 Aug 2026 12:39:58 GMT",
       "snippet": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T15:54:17.297522+00:00"
+      "collected_at": "2026-08-13T18:45:28.690402+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -105,13 +122,13 @@
       "published": "2026-08-13T11:42:14+00:00",
       "published_raw": "Thu, 13 Aug 2026 11:42:14 GMT",
       "snippet": "Ecovias Noroeste Paulista promove ações de segurança viária OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T15:54:17.297129+00:00"
+      "collected_at": "2026-08-13T18:45:28.690150+00:00"
     }
   ]
 }
