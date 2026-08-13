@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T07:19:25.206671+00:00",
+  "updated_at": "2026-08-13T09:52:25.741088+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 1,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,23 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
+      "title": "Ecovias Noroeste Paulista promove ações de segurança viária - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV9wdzk2NFp4MGhxUm5yeVRWR1VWRFZIYlNCX3VZeWJTOUFXaTNLWlR5alM5RWxaZ0d5bUlseGtVMy1ldzdVbGZCSW5EUlJaTS1nS1ZnQmxJaDhfRFZqdTJvY3FKbzU1SEFWWWRxNDZVSGlVWWdrVkpkc2xtRVVIREI1SnhwUFNqNVFwQg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T09:03:35+00:00",
+      "published_raw": "Thu, 13 Aug 2026 09:03:35 GMT",
+      "snippet": "Ecovias Noroeste Paulista promove ações de segurança viária OExtra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-13T09:52:09.835046+00:00"
+    }
+  ]
 }
