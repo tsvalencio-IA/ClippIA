@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T12:58:42.389650+00:00",
+  "updated_at": "2026-08-13T15:47:19.387720+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 3,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,13 +46,47 @@
   ],
   "items": [
     {
+      "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakpySnd4Z1A0MWdSUmhncjRTUFgzcEdWX0N3YWpzdEZCdDc4SGlqc3FoanJLcDV5WkJiYzdiWHBDLUZHZHdfS3JEcGxoakNaOVB4VE1SQmI5MHlTWmJmWFZnTFBjcG13V2FkOXhrVFk4b3lpNW5Yc1Byc2d6QnB4VUx0dGhTMnR2NXVZS2l5U2Y5ZG9EUXlKUVFXMWtmZm9KSUdvaGNDWEs5RzJmZ1F5RVl5c1RXd0djaWxlYURDWWM4cG11dTRVT2lBcFFXdU9nSDJHdUpFM3lHZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T12:48:24+00:00",
+      "published_raw": "Thu, 13 Aug 2026 12:48:24 GMT",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-13T15:47:03.824681+00:00"
+    },
+    {
+      "id": "e28f2788f4633af44c0ec5aa71240754e3c77d2871e6dd2ab959fbc3d47364cf",
+      "title": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3lrLWpxVHg2U0ttRlZvd2tsZmEzLTF3enFrV2dOYXJiZFdiLXdzUlMzOEx0Nk85MDZXb1RuLThWT3RRTmowTF94VVZRenRfbUEzN0g3V1A3T21Qblh5RXNXUGZjVVUtejJpXzNfLXQxNEpNZ09LSUpGdXhZS3ZHM21nTXBJN1BvUXhEazhLSVNvdVRwQmtHczVDelNzYUJwSUdydWdVOS1LR1phUWtaNXNieVQ1OWV2WXcwNkFCNkpqME03LXRkV0pweWZ0T1VwYnZXQTA5TjV1UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T12:39:58+00:00",
+      "published_raw": "Thu, 13 Aug 2026 12:39:58 GMT",
+      "snippet": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-13T15:47:03.824795+00:00"
+    },
+    {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
       "title": "Ecovias Noroeste Paulista promove ações de segurança viária - OExtra.net",
       "source": "OExtra.net",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV9wdzk2NFp4MGhxUm5yeVRWR1VWRFZIYlNCX3VZeWJTOUFXaTNLWlR5alM5RWxaZ0d5bUlseGtVMy1ldzdVbGZCSW5EUlJaTS1nS1ZnQmxJaDhfRFZqdTJvY3FKbzU1SEFWWWRxNDZVSGlVWWdrVkpkc2xtRVVIREI1SnhwUFNqNVFwQg?oc=5",
       "resolved_link": "",
-      "published": "2026-08-13T09:03:35+00:00",
-      "published_raw": "Thu, 13 Aug 2026 09:03:35 GMT",
+      "published": "2026-08-13T11:42:14+00:00",
+      "published_raw": "Thu, 13 Aug 2026 11:42:14 GMT",
       "snippet": "Ecovias Noroeste Paulista promove ações de segurança viária OExtra.net",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T12:58:26.904681+00:00"
+      "collected_at": "2026-08-13T15:47:03.824548+00:00"
     }
   ]
 }
