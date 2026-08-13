@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-12T21:40:00.950370+00:00",
+  "updated_at": "2026-08-13T01:00:20.474216+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "b6969efb8b506105ca259fa4074baba3260ba954679804e85f4be723a2aa974a",
-      "title": "Ecovias promove ação educativa para motociclistas em Mirassol na próxima terça-feira - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb185OHlZeEJNSTZDTFNiMXJZS1dpTVlvelhwbjJ3c3g2Wk9JNVpmQS1uenhRTlZId0liVmo4VEd0MFAzOHFmNTFNUDFuX1h1dzN1dWIzME5FcU9rbzh4Y3JfZW1LWDMtcUZ0d3FWUXVneU9HU3g3dGJuQXpTcHJpRXFERWQ5M3J5U0JsNFM5Q1RKc2NuRi13LVB3RFlsR080YnJwblFSZktIYk11NkNjYndyWmcwa05jTi1nMlY1WFBXYUlQSDYtY1BrWm5GZzFyRzNSa0RmaGQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-11T23:41:00+00:00",
-      "published_raw": "Tue, 11 Aug 2026 23:41:00 GMT",
-      "snippet": "Ecovias promove ação educativa para motociclistas em Mirassol na próxima terça-feira Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-12T21:39:45.206597+00:00"
-    }
-  ]
+  "items": []
 }
