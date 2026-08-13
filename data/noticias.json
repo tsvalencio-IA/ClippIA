@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T21:33:38.980519+00:00",
+  "updated_at": "2026-08-13T21:39:32.444929+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 9,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:32.974006+00:00"
+      "collected_at": "2026-08-13T21:39:26.078761+00:00"
     },
     {
-      "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
-      "title": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas - Mix Vale",
-      "source": "Mix Vale",
+      "id": "b119e448acd40c30580e5102fe6d24f5ed04cca85041f909e898d110cabeff16",
+      "title": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas - mixvale.com.br",
+      "source": "mixvale.com.br",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHA5OGY2ZkY4OHpSRXJpZ2dkYkszNkxxQ09vbHJOUTZfdXBjNXJlQlAyOFFDOUJhdDM3OVNjWDh0d3IwZTZ0alo4RXQxWWFxc3hGcHNBTzFqOGFOcFA0ZWNDRVo0OU9CSXN6QzRITUxkS2dqUDJoXzJ1U0YtNHk2T3BiUmZHeWo2akF3dFppalltMnB0M0xYMVJEeUFnbGNDUjRybF85Vk1jZFBmQkZhTTVfNHktcUZfeHlKZGE4S3pZYVFtUDI2WjM2VDDSAdIBQVVfeXFMUDkxZmRnT01DNXVQMXBuN1dNU1ZoN1VsY1dwS3dIZVhBd0ZWREJxT3JiaGZXMmJGR0wxc3YwVy1TeVdoa1JLRU5YLW9yMkl5VmdFWHowNUlPaUpzTGpIZVhILXduSHFGbmFhWXNSdFM1UHNSSXVLcWlzWFMxNTVGV2l3ZW0tOS1BU2JTVmhqSlJZSFNqazBVNkhudVdiTmY3WTZTRVZKMzg2WW9teUl4SFo4RFRWNUlveUdVZHJwa0JZZkFSZlE1bXZvRE55cXJSWWV3?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T18:29:34+00:00",
       "published_raw": "Thu, 13 Aug 2026 18:29:34 GMT",
-      "snippet": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas Mix Vale",
+      "snippet": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas mixvale.com.br",
       "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:24.840523+00:00"
+      "collected_at": "2026-08-13T21:39:17.162642+00:00"
     },
     {
       "id": "902f7df374cd326dbf361babe8a4e7c45c9741e6ec70132d822be689f88086a5",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:22.580829+00:00"
+      "collected_at": "2026-08-13T21:39:14.710140+00:00"
     },
     {
       "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:22.580738+00:00"
+      "collected_at": "2026-08-13T21:39:14.710039+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:22.580909+00:00"
+      "collected_at": "2026-08-13T21:39:14.710187+00:00"
     },
     {
       "id": "f8205c7392d7b1c73c8915e6719017a987cec65f88f7aecba4bdab079e60e2d4",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:32.974101+00:00"
+      "collected_at": "2026-08-13T21:39:26.078817+00:00"
     },
     {
       "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
@@ -162,7 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:22.580648+00:00"
+      "collected_at": "2026-08-13T21:39:14.709985+00:00"
+    },
+    {
+      "id": "e28f2788f4633af44c0ec5aa71240754e3c77d2871e6dd2ab959fbc3d47364cf",
+      "title": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3lrLWpxVHg2U0ttRlZvd2tsZmEzLTF3enFrV2dOYXJiZFdiLXdzUlMzOEx0Nk85MDZXb1RuLThWT3RRTmowTF94VVZRenRfbUEzN0g3V1A3T21Qblh5RXNXUGZjVVUtejJpXzNfLXQxNEpNZ09LSUpGdXhZS3ZHM21nTXBJN1BvUXhEazhLSVNvdVRwQmtHczVDelNzYUJwSUdydWdVOS1LR1phUWtaNXNieVQ1OWV2WXcwNkFCNkpqME03LXRkV0pweWZ0T1VwYnZXQTA5TjV1UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T12:39:58+00:00",
+      "published_raw": "Thu, 13 Aug 2026 12:39:58 GMT",
+      "snippet": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-13T21:39:14.710092+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:33:22.580521+00:00"
+      "collected_at": "2026-08-13T21:39:14.709913+00:00"
     }
   ]
 }
