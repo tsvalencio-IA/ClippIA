@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-13T21:39:32.444929+00:00",
+  "updated_at": "2026-08-14T00:59:34.473833+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 8,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -51,50 +51,33 @@
       "source": "Diário da Região",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTQ0eV83M29HTXRmMWZESlYtUXdURVlQVzZiN0lPNVhZemh4ODJ3anowbnk1Qm1uTlJOTFBxN1g1ZmtKczFfLXd4UDU2QlpRSkxMbklWc0JmYWJwdm9Ya01BSHJRX01wZGtKQXR5NzN4OFpSVUFCd3pHQ2tDU3VwaEVhTjZnNE9TakRpQTljVXlUMHZrV3ViQlBvaU9EU1JSYXljOHpncVhjbFhXSDJDbWZnR0dFaEpYblhEVG96dlFtbDNVVkFv?oc=5",
       "resolved_link": "",
-      "published": "2026-08-13T19:37:42+00:00",
-      "published_raw": "Thu, 13 Aug 2026 19:37:42 GMT",
+      "published": "2026-08-13T22:28:54+00:00",
+      "published_raw": "Thu, 13 Aug 2026 22:28:54 GMT",
       "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol Diário da Região",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:26.078761+00:00"
+      "collected_at": "2026-08-14T00:59:28.814242+00:00"
     },
     {
-      "id": "b119e448acd40c30580e5102fe6d24f5ed04cca85041f909e898d110cabeff16",
-      "title": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas - mixvale.com.br",
-      "source": "mixvale.com.br",
+      "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
+      "title": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas - Mix Vale",
+      "source": "Mix Vale",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHA5OGY2ZkY4OHpSRXJpZ2dkYkszNkxxQ09vbHJOUTZfdXBjNXJlQlAyOFFDOUJhdDM3OVNjWDh0d3IwZTZ0alo4RXQxWWFxc3hGcHNBTzFqOGFOcFA0ZWNDRVo0OU9CSXN6QzRITUxkS2dqUDJoXzJ1U0YtNHk2T3BiUmZHeWo2akF3dFppalltMnB0M0xYMVJEeUFnbGNDUjRybF85Vk1jZFBmQkZhTTVfNHktcUZfeHlKZGE4S3pZYVFtUDI2WjM2VDDSAdIBQVVfeXFMUDkxZmRnT01DNXVQMXBuN1dNU1ZoN1VsY1dwS3dIZVhBd0ZWREJxT3JiaGZXMmJGR0wxc3YwVy1TeVdoa1JLRU5YLW9yMkl5VmdFWHowNUlPaUpzTGpIZVhILXduSHFGbmFhWXNSdFM1UHNSSXVLcWlzWFMxNTVGV2l3ZW0tOS1BU2JTVmhqSlJZSFNqazBVNkhudVdiTmY3WTZTRVZKMzg2WW9teUl4SFo4RFRWNUlveUdVZHJwa0JZZkFSZlE1bXZvRE55cXJSWWV3?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T18:29:34+00:00",
       "published_raw": "Thu, 13 Aug 2026 18:29:34 GMT",
-      "snippet": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas mixvale.com.br",
+      "snippet": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas Mix Vale",
       "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:17.162642+00:00"
-    },
-    {
-      "id": "902f7df374cd326dbf361babe8a4e7c45c9741e6ec70132d822be689f88086a5",
-      "title": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVNIBsAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVA?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T16:46:47+00:00",
-      "published_raw": "Thu, 13 Aug 2026 16:46:47 GMT",
-      "snippet": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.710140+00:00"
+      "collected_at": "2026-08-14T00:59:21.006860+00:00"
     },
     {
       "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.710039+00:00"
+      "collected_at": "2026-08-14T00:59:18.923695+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -128,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.710187+00:00"
+      "collected_at": "2026-08-14T00:59:18.923818+00:00"
+    },
+    {
+      "id": "4a7f1bad1b82331b729958a2156633e9ebec04e31db40c5cb5f87eaec33d5004",
+      "title": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais - saocarlosdiaenoite.com.br",
+      "source": "saocarlosdiaenoite.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGhTQkhtVWJMYkcwLTI5bGhmbzBzNXRrTjk3Y2Z0eXUzUlhPb3FfbFRuTmZMUXdxX0x5ZXRfSElfdjNjbmhGM2k0UmFiZkFrN0l5TTQzMnZkVmFwRU92ZS1jSG5QYVl1YzRIdXliNTdkTUNWenJLb2hIVUJWSkIzOWJ2NnB1d1k2VVc3WlpzVWVjMWcxME5fTldPMEpXcVAxWFk1MHh4NHhkQ2lOMnYwdDFWS1VyczIxd3VKWFB3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T14:37:30+00:00",
+      "published_raw": "Thu, 13 Aug 2026 14:37:30 GMT",
+      "snippet": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais saocarlosdiaenoite.com.br",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T00:59:28.814408+00:00"
     },
     {
       "id": "f8205c7392d7b1c73c8915e6719017a987cec65f88f7aecba4bdab079e60e2d4",
@@ -145,41 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:26.078817+00:00"
+      "collected_at": "2026-08-14T00:59:28.814335+00:00"
     },
     {
-      "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
+      "id": "5acd93c704539b1e257d5cd3eff59aa38932a6216f2bb59b5e9d9eca946d60a0",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - saocarlosdiaenoite.com.br",
+      "source": "saocarlosdiaenoite.com.br",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakpySnd4Z1A0MWdSUmhncjRTUFgzcEdWX0N3YWpzdEZCdDc4SGlqc3FoanJLcDV5WkJiYzdiWHBDLUZHZHdfS3JEcGxoakNaOVB4VE1SQmI5MHlTWmJmWFZnTFBjcG13V2FkOXhrVFk4b3lpNW5Yc1Byc2d6QnB4VUx0dGhTMnR2NXVZS2l5U2Y5ZG9EUXlKUVFXMWtmZm9KSUdvaGNDWEs5RzJmZ1F5RVl5c1RXd0djaWxlYURDWWM4cG11dTRVT2lBcFFXdU9nSDJHdUpFM3lHZw?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T12:48:24+00:00",
       "published_raw": "Thu, 13 Aug 2026 12:48:24 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Portal SCDN - Porque a informação não para!",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos saocarlosdiaenoite.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.709985+00:00"
-    },
-    {
-      "id": "e28f2788f4633af44c0ec5aa71240754e3c77d2871e6dd2ab959fbc3d47364cf",
-      "title": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3lrLWpxVHg2U0ttRlZvd2tsZmEzLTF3enFrV2dOYXJiZFdiLXdzUlMzOEx0Nk85MDZXb1RuLThWT3RRTmowTF94VVZRenRfbUEzN0g3V1A3T21Qblh5RXNXUGZjVVUtejJpXzNfLXQxNEpNZ09LSUpGdXhZS3ZHM21nTXBJN1BvUXhEazhLSVNvdVRwQmtHczVDelNzYUJwSUdydWdVOS1LR1phUWtaNXNieVQ1OWV2WXcwNkFCNkpqME03LXRkV0pweWZ0T1VwYnZXQTA5TjV1UQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T12:39:58+00:00",
-      "published_raw": "Thu, 13 Aug 2026 12:39:58 GMT",
-      "snippet": "Trabalhadores da Embrapa em São Carlos rejeitam proposta de Acordo Coletivo por unanimidade Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.710092+00:00"
+      "collected_at": "2026-08-14T00:59:18.923597+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-13T21:39:14.709913+00:00"
+      "collected_at": "2026-08-14T00:59:18.923478+00:00"
     }
   ]
 }
