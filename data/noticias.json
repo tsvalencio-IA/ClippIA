@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T12:54:58.110758+00:00",
+  "updated_at": "2026-08-14T15:40:24.785181+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 10,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,55 +46,72 @@
   ],
   "items": [
     {
-      "id": "557dda668ed33f4bd630a059dd192bda439cedd75e3f9e3f2746be149b64766c",
-      "title": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
+      "id": "51ce425d101f63bca17a979afeba83b9d8fef33833ad6f06aaa557d543ae299b",
+      "title": "Ponte da Washington Luís entra em obras e trânsito terá mudanças em Rio Preto (SP) - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjFfUTR0bm92dkR4WHFyQnE0c2s5YmR4QlRqRko0N1ItSmpuMVg2bUFXWUNzQ0xVbVNySE5taHc0S3haYkN6ek5rSXN2dFJSVUplelVIWDFySk83VG9OVW91TkswYzFvRmlMMEEyRHM3MVlCNzN6VVdBNFNqZThsbHdESWx5bUlva2tqdVl4OTdLNG05Nm5vcDJDWFNnRlRJRHRrcVRRQTJQZlBSOTdHQ21lX250R2kwRkE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T15:23:29+00:00",
+      "published_raw": "Fri, 14 Aug 2026 15:23:29 GMT",
+      "snippet": "Ponte da Washington Luís entra em obras e trânsito terá mudanças em Rio Preto (SP) gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T15:40:06.302915+00:00"
+    },
+    {
+      "id": "ec05f222bb6becb0168b567837533eb94f746aec681110a9bc27d2b95334e749",
+      "title": "Obras da terceira faixa da Washington Luís alteram o trânsito sob a ponte do córrego dos Macacos - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHlzMEtnY3RyNVExeVBLNl90ZVdMR2ZJbm9TYTVFQ2p5QkptX2F2ZzlGSmdGWXBBbFQzN3dFNTdMR2VfLUZBZVM2bDFUMU4yRlhERC1reU5LMTlNa1U2WWpFS0tvcnRVaEdYenhHSFc1Y3pkeDl2SmtVOWlNZ003RUhJT2RuMUpEWXlueHJ1TWctUGNRUFNMQXRYU3dFdjJVSzhDNmZuaS05OWkxTUxTZFZtYjhZSWg4WWZEWXhzYk1VbFRQck9oeWZ3OGp4LXhtbktYYWdKSnNOVERfeG9aNURmSlltV2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T14:49:18+00:00",
+      "published_raw": "Fri, 14 Aug 2026 14:49:18 GMT",
+      "snippet": "Obras da terceira faixa da Washington Luís alteram o trânsito sob a ponte do córrego dos Macacos Diário da Região",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T15:40:18.035155+00:00"
+    },
+    {
+      "id": "217aa044a4b172093653e2d0a268d49385d0d828c1c32e2f79f4b43482466246",
+      "title": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia - radiosanca.com.br",
+      "source": "radiosanca.com.br",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzIyUWJlQS1GZzZfakFxRWVGX0ptOG82UmZ5Mno5ZUw2REtzZHQwODZ6ZFlnc2NDUU9BUVlnNWRDa1FpbVNCVUVOVGcwLTRzaFA2R0p3ZUl5ZWVZVnZuUlY3SWR0R25pME5QV3VhZDhqWEtzN2ZUdzYwVFBWVHQyQnQxRVhDT1UxZUdyTy1ycnJ5QnBBNnBuOGdJSEF0RUl3ZEsySXNNdkxVMmtSRUl6b05kRkpYSW0xLWNiOXJob1I?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T07:45:51+00:00",
       "published_raw": "Fri, 14 Aug 2026 07:45:51 GMT",
-      "snippet": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia Radio Sanca Web TV",
+      "snippet": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia radiosanca.com.br",
       "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:53.539801+00:00"
+      "collected_at": "2026-08-14T15:40:20.028858+00:00"
     },
     {
-      "id": "36f51554f56cfab6031ccf3c8a10d2431f57b6b7910da02689be82ea8e451166",
-      "title": "Prefeitura disponibiliza parcelamento de tributos municipais em até 12 vezes no cartão de crédito - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGNUU2pGR0RoTXcycThDR3U2WlhnMGdCSWdxU0lJTVlxUHc4Qm9VNzkyNllKTmp0TjhIc3dwRGlVYnpWRUNTV0RpcGVwa1g2bXIwSElTMEJjNGdiTVhiTXZ3bENnTXo0MTZiTlFMQWdCODVyLXpCVFBSVXJtNng3SjB3VHZsNTNDcDBQZUhIbHV2eE1pQnIwYi0xVEpaU3R0UzRKYldNYXBHd3BJSXI2ZTNIdm9uVEwyejF4NnJFYWRXNjM2NVZ2VV81azJqMm1jODVsMWtIZE5mcE9TaFVn?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T05:24:42+00:00",
-      "published_raw": "Fri, 14 Aug 2026 05:24:42 GMT",
-      "snippet": "Prefeitura disponibiliza parcelamento de tributos municipais em até 12 vezes no cartão de crédito Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T12:54:53.539896+00:00"
-    },
-    {
-      "id": "94d34c6f10e4786e4abd6ba558ad8400b6c0c42628fe16c618cc46ee462b5bf5",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
+      "id": "919d5a9179c4a89538ec750482019e8ced48304268bac98a94db3f5e193c0e01",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - radiosanca.com.br",
+      "source": "radiosanca.com.br",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRDZPOG1nWHJTN3Qwb1NJN2xidmM1dU5SU0s5ajhYamwxaTJkR1Y3NnVyQjZmRmZYc3hoMW5UVV9nTERRU3dPYXBsMl91dFQ5clQ5SjFjNXRNbU41UWZMN1YxalJ0NmhzNUNtUU90T0pFSE5oSDJPc0JOckFMdk5jVzVoc0pfVWk1Z3Y1MXpNaWExSjFnNU9GcDN3ckVPNk5zZnVIV01zZllORXEtXzlIYWpCSjN4MmhzWVVMdnQ0SWVFWTJsSkFGaFNPeVkwVUlsYmoxWjNwV09VaGFvcXloMkJZY2R1akNuSUF3?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T03:52:21+00:00",
       "published_raw": "Fri, 14 Aug 2026 03:52:21 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Radio Sanca Web TV",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos radiosanca.com.br",
       "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:51.733201+00:00"
+      "collected_at": "2026-08-14T15:40:18.035340+00:00"
     },
     {
       "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
@@ -105,13 +122,13 @@
       "published": "2026-08-13T22:28:54+00:00",
       "published_raw": "Thu, 13 Aug 2026 22:28:54 GMT",
       "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol Diário da Região",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:51.733139+00:00"
+      "collected_at": "2026-08-14T15:40:06.302464+00:00"
     },
     {
       "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:43.016277+00:00"
+      "collected_at": "2026-08-14T15:40:08.814358+00:00"
     },
     {
       "id": "425665011d546b7afb81b0994884f1879c7aed2b0e5ec2ec7a5543bf47bba79d",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648567+00:00"
+      "collected_at": "2026-08-14T15:40:06.302667+00:00"
     },
     {
       "id": "ca5b34c3691ebac46002504836b49a23b74c6f05c77f33ed5a568d11082e06ba",
@@ -162,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648672+00:00"
-    },
-    {
-      "id": "902f7df374cd326dbf361babe8a4e7c45c9741e6ec70132d822be689f88086a5",
-      "title": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVNIBsAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVA?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T16:46:47+00:00",
-      "published_raw": "Thu, 13 Aug 2026 16:46:47 GMT",
-      "snippet": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648513+00:00"
+      "collected_at": "2026-08-14T15:40:06.302836+00:00"
     },
     {
       "id": "84ab3838a932dfa3b3d16ec1959863bdd36e6f4d38f60a6ac395e084e9894ddc",
@@ -190,30 +190,13 @@
       "published": "2026-08-13T16:12:12+00:00",
       "published_raw": "Thu, 13 Aug 2026 16:12:12 GMT",
       "snippet": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T12:54:51.733340+00:00"
-    },
-    {
-      "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
-      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnF4WEZpeW44OXhTTnZycWt3U2ZhZVJTY2wzQXRsVDNHbzNZSHRPZDFkR1F2V2pTVjdGS3lCV2FZdW5Iak5XVVhkQlVZNFVWd0ZMNUdDTVJSV1o0eGdoeEpBOWhoaFQ2a2pkaHlBTkQ0eW1PVU9maUJRSmRwY3l2MXU3Q25LZ0dTaWpJamhsMmJWdWpTaDhhT0xxUGZVWUFkUFZNSXRR0gGmAUFVX3lxTE1CcXhYRml5bjg5eFNOdnJxa3dTZmFlUlNjbDNBdGxUM0dvM1lIdE9kMWRHUXZXalNWN0ZLeUJXYVl1bkhqTldVWGRCVVk0VVZ3Rkw1R0NNUlJXWjR4Z2h4SkE5aGhoVDZramRoeUFORDR5bU9VT2ZpQlFKZHBjeXYxdTdDbktnR1NpaklqaGwyYlZ1alNoOGFPTHFQZlVZQWRQVk1JdFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T16:04:02+00:00",
-      "published_raw": "Thu, 13 Aug 2026 16:04:02 GMT",
-      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648451+00:00"
+      "collected_at": "2026-08-14T15:40:06.302572+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -230,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648621+00:00"
-    },
-    {
-      "id": "ff73451fbf61c0f77595fa8a2194222bb7863035029391e198ea3cd38875e836",
-      "title": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGhTQkhtVWJMYkcwLTI5bGhmbzBzNXRrTjk3Y2Z0eXUzUlhPb3FfbFRuTmZMUXdxX0x5ZXRfSElfdjNjbmhGM2k0UmFiZkFrN0l5TTQzMnZkVmFwRU92ZS1jSG5QYVl1YzRIdXliNTdkTUNWenJLb2hIVUJWSkIzOWJ2NnB1d1k2VVc3WlpzVWVjMWcxME5fTldPMEpXcVAxWFk1MHh4NHhkQ2lOMnYwdDFWS1VyczIxd3VKWFB3?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T14:37:30+00:00",
-      "published_raw": "Thu, 13 Aug 2026 14:37:30 GMT",
-      "snippet": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T12:54:40.648373+00:00"
+      "collected_at": "2026-08-14T15:40:06.302753+00:00"
     }
   ]
 }
