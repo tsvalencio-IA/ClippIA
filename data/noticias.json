@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:40:24.785181+00:00",
+  "updated_at": "2026-08-14T15:45:42.063807+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302915+00:00"
+      "collected_at": "2026-08-14T15:45:26.362322+00:00"
     },
     {
       "id": "ec05f222bb6becb0168b567837533eb94f746aec681110a9bc27d2b95334e749",
@@ -77,41 +77,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:18.035155+00:00"
+      "collected_at": "2026-08-14T15:45:36.427585+00:00"
     },
     {
-      "id": "217aa044a4b172093653e2d0a268d49385d0d828c1c32e2f79f4b43482466246",
-      "title": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia - radiosanca.com.br",
-      "source": "radiosanca.com.br",
+      "id": "557dda668ed33f4bd630a059dd192bda439cedd75e3f9e3f2746be149b64766c",
+      "title": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzIyUWJlQS1GZzZfakFxRWVGX0ptOG82UmZ5Mno5ZUw2REtzZHQwODZ6ZFlnc2NDUU9BUVlnNWRDa1FpbVNCVUVOVGcwLTRzaFA2R0p3ZUl5ZWVZVnZuUlY3SWR0R25pME5QV3VhZDhqWEtzN2ZUdzYwVFBWVHQyQnQxRVhDT1UxZUdyTy1ycnJ5QnBBNnBuOGdJSEF0RUl3ZEsySXNNdkxVMmtSRUl6b05kRkpYSW0xLWNiOXJob1I?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T07:45:51+00:00",
       "published_raw": "Fri, 14 Aug 2026 07:45:51 GMT",
-      "snippet": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia radiosanca.com.br",
+      "snippet": "Prefeitura recupera estrada rural que dá acesso ao Santuário da Babilônia Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:20.028858+00:00"
+      "collected_at": "2026-08-14T15:45:38.053395+00:00"
     },
     {
-      "id": "919d5a9179c4a89538ec750482019e8ced48304268bac98a94db3f5e193c0e01",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - radiosanca.com.br",
-      "source": "radiosanca.com.br",
+      "id": "fb0c6c360114d818e1a153a1cc2de600f5a41f5daf5010c841fb6d2c0cea0807",
+      "title": "Estudo identifica mais de 13 mil empresas criadas por egressos da UFSCar - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDJDd3dKYzM3WGVyM09JSXlVSnNHS2dmSWxFOVV3VnN1VnMxRWQ2aC1Sc1lCd2JHSjRiZGdZdHExV0ZyR0RyYlE1bWpMRnBTN25GY1NyZ1ZwMC1Oc0FwSmpseDM5T00xWDZsb2RKU28tU016cmQ1TGhDTldTZ2ZUVm9ySW1nNGVxbTJlUVR6b2lDTTZWSnZfcjFTblRha2hSTmMzQW1HWXg0Z9IBqgFBVV95cUxOMDJDd3dKYzM3WGVyM09JSXlVSnNHS2dmSWxFOVV3VnN1VnMxRWQ2aC1Sc1lCd2JHSjRiZGdZdHExV0ZyR0RyYlE1bWpMRnBTN25GY1NyZ1ZwMC1Oc0FwSmpseDM5T00xWDZsb2RKU28tU016cmQ1TGhDTldTZ2ZUVm9ySW1nNGVxbTJlUVR6b2lDTTZWSnZfcjFTblRha2hSTmMzQW1HWXg0Zw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T04:42:01+00:00",
+      "published_raw": "Fri, 14 Aug 2026 04:42:01 GMT",
+      "snippet": "Estudo identifica mais de 13 mil empresas criadas por egressos da UFSCar - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T15:45:26.361995+00:00"
+    },
+    {
+      "id": "94d34c6f10e4786e4abd6ba558ad8400b6c0c42628fe16c618cc46ee462b5bf5",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRDZPOG1nWHJTN3Qwb1NJN2xidmM1dU5SU0s5ajhYamwxaTJkR1Y3NnVyQjZmRmZYc3hoMW5UVV9nTERRU3dPYXBsMl91dFQ5clQ5SjFjNXRNbU41UWZMN1YxalJ0NmhzNUNtUU90T0pFSE5oSDJPc0JOckFMdk5jVzVoc0pfVWk1Z3Y1MXpNaWExSjFnNU9GcDN3ckVPNk5zZnVIV01zZllORXEtXzlIYWpCSjN4MmhzWVVMdnQ0SWVFWTJsSkFGaFNPeVkwVUlsYmoxWjNwV09VaGFvcXloMkJZY2R1akNuSUF3?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T03:52:21+00:00",
       "published_raw": "Fri, 14 Aug 2026 03:52:21 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos radiosanca.com.br",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:18.035340+00:00"
+      "collected_at": "2026-08-14T15:45:36.427718+00:00"
     },
     {
       "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
@@ -128,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302464+00:00"
+      "collected_at": "2026-08-14T15:45:26.361887+00:00"
+    },
+    {
+      "id": "c3e665335629859cf491088f6762230629c281a7703ce5b42331066c9152c01d",
+      "title": "Gelato Borelli inaugura nova unidade no Shopping São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1oxX2ZFNEVBSXBnaTJ5WVhxeXZ0UFU2NnNPdHhMaHZhSnI1UDYwSkMwZU56NjdMOTFqTHNkZTdFQWRDemhKd21feDN2YndMc181Q3RhMFJWczJtdXhVM1pKYkFHM214S2xsVl9IR210dS1ZWHRUMllYZFgwQllLRjd3VF96R2FXd19Fb3k3TE9lWFBvTEQzbtIBmAFBVV95cUxPd1oxX2ZFNEVBSXBnaTJ5WVhxeXZ0UFU2NnNPdHhMaHZhSnI1UDYwSkMwZU56NjdMOTFqTHNkZTdFQWRDemhKd21feDN2YndMc181Q3RhMFJWczJtdXhVM1pKYkFHM214S2xsVl9IR210dS1ZWHRUMllYZFgwQllLRjd3VF96R2FXd19Fb3k3TE9lWFBvTEQzbg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T20:46:04+00:00",
+      "published_raw": "Thu, 13 Aug 2026 20:46:04 GMT",
+      "snippet": "Gelato Borelli inaugura nova unidade no Shopping São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T15:45:26.362082+00:00"
     },
     {
       "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
@@ -145,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:08.814358+00:00"
-    },
-    {
-      "id": "425665011d546b7afb81b0994884f1879c7aed2b0e5ec2ec7a5543bf47bba79d",
-      "title": "Virginia teria deixado Grande Rio para se mudar com Vini Jr. para a Espanha - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkN2Y3hzLTAxMzNlc2hzakhvY0IweXFXc0tIVGJOYUM2Z1BEcTN4ZS1Ka1Rjd2M5UVZKYldkQ3pUNEFJemR6ZFNEakZFV2g5NWwtYUFVd0ZkTnBRMjVmdGhqNnRpUzE5QW5DZERWdG9QVzZ6Qng0dFZySUJvWXJRd0tKVmxYNExld2JlMkl1c2U1M0JRZEk3cVFNWG84NDlhMlV0UFUxRHBUZ0910gGsAUFVX3lxTE12Q3ZjeHMtMDEzM2VzaHNqSG9jQjB5cVdzS0hUYk5hQzZnUERxM3hlLUprVGN3YzlRVkpiV2RDelQ0QUl6ZHpkU0RqRkVXaDk1bC1hQVV3RmROcFEyNWZ0aGo2dGlTMTlBbkNkRFZ0b1BXNnpCeDR0VnJJQm9ZclF3S0pWbFg0TGV3YmUySXVzZTUzQlFkSTdxUU1Ybzg0OWEyVXRQVTFEcFRnT3U?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T17:21:57+00:00",
-      "published_raw": "Thu, 13 Aug 2026 17:21:57 GMT",
-      "snippet": "Virginia teria deixado Grande Rio para se mudar com Vini Jr. para a Espanha - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302667+00:00"
+      "collected_at": "2026-08-14T15:45:28.540766+00:00"
     },
     {
       "id": "ca5b34c3691ebac46002504836b49a23b74c6f05c77f33ed5a568d11082e06ba",
@@ -179,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302836+00:00"
-    },
-    {
-      "id": "84ab3838a932dfa3b3d16ec1959863bdd36e6f4d38f60a6ac395e084e9894ddc",
-      "title": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS1xYXRHRmdQR25HU0tZUjZscEFVUU9FUklRZ0szWlJoR21Zd1NOWjhRc1FRMVZvazdXcUE0alF3dTcyZ1RuMzBRMmZCd0RYQW15SlI1Vm9zUmV6bjRYNEpBYTlSN2xxeUUyZXZEUjZwY2J4MnhCNnNvQndvQUtqR0dIYXFSOXBlb01tWFZFbzRxeFZjR3NDbm5UNV8yOUJpZHFSbEJR0gGmAUFVX3lxTE41LXFhdEdGZ1BHbkdTS1lSNmxwQVVRT0VSSVFnSzNaUmhHbVl3U05aOFFzUVExVm9rN1dxQTRqUXd1NzJnVG4zMFEyZkJ3RFhBbXlKUjVWb3NSZXpuNFg0SkFhOVI3bHF5RTJldkRSNnBjYngyeEI2c29Cd29BS2pHR0hhcVI5cGVvTW1YVkVvNHF4VmNHc0NublQ1XzI5QmlkcVJsQlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T16:12:12+00:00",
-      "published_raw": "Thu, 13 Aug 2026 16:12:12 GMT",
-      "snippet": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302572+00:00"
+      "collected_at": "2026-08-14T15:45:26.362247+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T15:40:06.302753+00:00"
+      "collected_at": "2026-08-14T15:45:26.362167+00:00"
     }
   ]
 }
