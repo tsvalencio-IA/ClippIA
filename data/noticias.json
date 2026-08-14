@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T07:16:55.274569+00:00",
+  "updated_at": "2026-08-14T09:50:29.618160+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 9,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "36f51554f56cfab6031ccf3c8a10d2431f57b6b7910da02689be82ea8e451166",
+      "title": "Prefeitura disponibiliza parcelamento de tributos municipais em até 12 vezes no cartão de crédito - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGNUU2pGR0RoTXcycThDR3U2WlhnMGdCSWdxU0lJTVlxUHc4Qm9VNzkyNllKTmp0TjhIc3dwRGlVYnpWRUNTV0RpcGVwa1g2bXIwSElTMEJjNGdiTVhiTXZ3bENnTXo0MTZiTlFMQWdCODVyLXpCVFBSVXJtNng3SjB3VHZsNTNDcDBQZUhIbHV2eE1pQnIwYi0xVEpaU3R0UzRKYldNYXBHd3BJSXI2ZTNIdm9uVEwyejF4NnJFYWRXNjM2NVZ2VV81azJqMm1jODVsMWtIZE5mcE9TaFVn?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T05:24:42+00:00",
+      "published_raw": "Fri, 14 Aug 2026 05:24:42 GMT",
+      "snippet": "Prefeitura disponibiliza parcelamento de tributos municipais em até 12 vezes no cartão de crédito Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T09:50:25.632794+00:00"
+    },
+    {
       "id": "94d34c6f10e4786e4abd6ba558ad8400b6c0c42628fe16c618cc46ee462b5bf5",
       "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:49.109075+00:00"
+      "collected_at": "2026-08-14T09:50:24.046255+00:00"
     },
     {
-      "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
-      "title": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol - Diário da Região",
-      "source": "Diário da Região",
+      "id": "1a6aeb9bf9b78960e9602cd74f2145ca4c2576e3550d19db8ebef7309cc5e3b5",
+      "title": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol - diariodaregiao.com.br",
+      "source": "diariodaregiao.com.br",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm00SzJsRlk1N09QU3pDeUR6UU45LW9KV0NXMlRkZTc0VlA2THNJZmlCQW9QRDJfclVNVng5M1lYX2RtUmNrS0p2RkxldHZVYVkxM2RFcjlxdERiMV9nYmNjTXlKVmVIWXhDRDYtSUI3dVRBbGNmTjkxX2RUVGZ6NDR4ZEppYmVVcWowb0w3Vlk5bC0xUEpvbkFvVVRKUWV2Qy13bGlvdDU5d1NLTXBLcEtTTWNwaW13U0ljR2VrU0RQd1ltcGc?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T22:28:54+00:00",
       "published_raw": "Thu, 13 Aug 2026 22:28:54 GMT",
-      "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol Diário da Região",
+      "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol diariodaregiao.com.br",
       "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:49.109143+00:00"
+      "collected_at": "2026-08-14T09:50:24.046188+00:00"
     },
     {
       "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
@@ -94,24 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:40.695008+00:00"
+      "collected_at": "2026-08-14T09:50:16.383858+00:00"
     },
     {
-      "id": "c085ada5354bac5cd488207dd8f59a2819f5b683adbf9809db940c4b58a61895",
-      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - saocarlosnotoque.com",
-      "source": "saocarlosnotoque.com",
+      "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
+      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnF4WEZpeW44OXhTTnZycWt3U2ZhZVJTY2wzQXRsVDNHbzNZSHRPZDFkR1F2V2pTVjdGS3lCV2FZdW5Iak5XVVhkQlVZNFVWd0ZMNUdDTVJSV1o0eGdoeEpBOWhoaFQ2a2pkaHlBTkQ0eW1PVU9maUJRSmRwY3l2MXU3Q25LZ0dTaWpJamhsMmJWdWpTaDhhT0xxUGZVWUFkUFZNSXRR0gGmAUFVX3lxTE1CcXhYRml5bjg5eFNOdnJxa3dTZmFlUlNjbDNBdGxUM0dvM1lIdE9kMWRHUXZXalNWN0ZLeUJXYVl1bkhqTldVWGRCVVk0VVZ3Rkw1R0NNUlJXWjR4Z2h4SkE5aGhoVDZramRoeUFORDR5bU9VT2ZpQlFKZHBjeXYxdTdDbktnR1NpaklqaGwyYlZ1alNoOGFPTHFQZlVZQWRQVk1JdFE?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T16:04:02+00:00",
       "published_raw": "Thu, 13 Aug 2026 16:04:02 GMT",
-      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque saocarlosnotoque.com",
+      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:38.361603+00:00"
+      "collected_at": "2026-08-14T09:50:14.316106+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:38.361659+00:00"
+      "collected_at": "2026-08-14T09:50:14.316189+00:00"
     },
     {
       "id": "ff73451fbf61c0f77595fa8a2194222bb7863035029391e198ea3cd38875e836",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:49.109192+00:00"
+      "collected_at": "2026-08-14T09:50:24.046314+00:00"
     },
     {
       "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:38.361545+00:00"
+      "collected_at": "2026-08-14T09:50:14.316042+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:16:38.361462+00:00"
+      "collected_at": "2026-08-14T09:50:14.315934+00:00"
     }
   ]
 }
