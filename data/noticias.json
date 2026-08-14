@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-08-14T04:48:12.557050+00:00",
+  "updated_at": "2026-08-14T07:06:15.425308+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 9,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 9,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,159 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "94d34c6f10e4786e4abd6ba558ad8400b6c0c42628fe16c618cc46ee462b5bf5",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRDZPOG1nWHJTN3Qwb1NJN2xidmM1dU5SU0s5ajhYamwxaTJkR1Y3NnVyQjZmRmZYc3hoMW5UVV9nTERRU3dPYXBsMl91dFQ5clQ5SjFjNXRNbU41UWZMN1YxalJ0NmhzNUNtUU90T0pFSE5oSDJPc0JOckFMdk5jVzVoc0pfVWk1Z3Y1MXpNaWExSjFnNU9GcDN3ckVPNk5zZnVIV01zZllORXEtXzlIYWpCSjN4MmhzWVVMdnQ0SWVFWTJsSkFGaFNPeVkwVUlsYmoxWjNwV09VaGFvcXloMkJZY2R1akNuSUF3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T03:52:21+00:00",
+      "published_raw": "Fri, 14 Aug 2026 03:52:21 GMT",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:09.832139+00:00"
+    },
+    {
+      "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
+      "title": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm00SzJsRlk1N09QU3pDeUR6UU45LW9KV0NXMlRkZTc0VlA2THNJZmlCQW9QRDJfclVNVng5M1lYX2RtUmNrS0p2RkxldHZVYVkxM2RFcjlxdERiMV9nYmNjTXlKVmVIWXhDRDYtSUI3dVRBbGNmTjkxX2RUVGZ6NDR4ZEppYmVVcWowb0w3Vlk5bC0xUEpvbkFvVVRKUWV2Qy13bGlvdDU5d1NLTXBLcEtTTWNwaW13U0ljR2VrU0RQd1ltcGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T22:28:54+00:00",
+      "published_raw": "Thu, 13 Aug 2026 22:28:54 GMT",
+      "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol Diário da Região",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:09.832289+00:00"
+    },
+    {
+      "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
+      "title": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas - Mix Vale",
+      "source": "Mix Vale",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHA5OGY2ZkY4OHpSRXJpZ2dkYkszNkxxQ09vbHJOUTZfdXBjNXJlQlAyOFFDOUJhdDM3OVNjWDh0d3IwZTZ0alo4RXQxWWFxc3hGcHNBTzFqOGFOcFA0ZWNDRVo0OU9CSXN6QzRITUxkS2dqUDJoXzJ1U0YtNHk2T3BiUmZHeWo2akF3dFppalltMnB0M0xYMVJEeUFnbGNDUjRybF85Vk1jZFBmQkZhTTVfNHktcUZfeHlKZGE4S3pZYVFtUDI2WjM2VDDSAdIBQVVfeXFMUDkxZmRnT01DNXVQMXBuN1dNU1ZoN1VsY1dwS3dIZVhBd0ZWREJxT3JiaGZXMmJGR0wxc3YwVy1TeVdoa1JLRU5YLW9yMkl5VmdFWHowNUlPaUpzTGpIZVhILXduSHFGbmFhWXNSdFM1UHNSSXVLcWlzWFMxNTVGV2l3ZW0tOS1BU2JTVmhqSlJZSFNqazBVNkhudVdiTmY3WTZTRVZKMzg2WW9teUl4SFo4RFRWNUlveUdVZHJwa0JZZkFSZlE1bXZvRE55cXJSWWV3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T18:29:34+00:00",
+      "published_raw": "Thu, 13 Aug 2026 18:29:34 GMT",
+      "snippet": "Motoristas têm até 16 de novembro de 2026 para regularizar pedágios Free Flow e evitar multas Mix Vale",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:02.180650+00:00"
+    },
+    {
+      "id": "84ab3838a932dfa3b3d16ec1959863bdd36e6f4d38f60a6ac395e084e9894ddc",
+      "title": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS1xYXRHRmdQR25HU0tZUjZscEFVUU9FUklRZ0szWlJoR21Zd1NOWjhRc1FRMVZvazdXcUE0alF3dTcyZ1RuMzBRMmZCd0RYQW15SlI1Vm9zUmV6bjRYNEpBYTlSN2xxeUUyZXZEUjZwY2J4MnhCNnNvQndvQUtqR0dIYXFSOXBlb01tWFZFbzRxeFZjR3NDbm5UNV8yOUJpZHFSbEJR0gGmAUFVX3lxTE41LXFhdEdGZ1BHbkdTS1lSNmxwQVVRT0VSSVFnSzNaUmhHbVl3U05aOFFzUVExVm9rN1dxQTRqUXd1NzJnVG4zMFEyZkJ3RFhBbXlKUjVWb3NSZXpuNFg0SkFhOVI3bHF5RTJldkRSNnBjYngyeEI2c29Cd29BS2pHR0hhcVI5cGVvTW1YVkVvNHF4VmNHc0NublQ1XzI5QmlkcVJsQlE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T16:12:12+00:00",
+      "published_raw": "Thu, 13 Aug 2026 16:12:12 GMT",
+      "snippet": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:09.832518+00:00"
+    },
+    {
+      "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
+      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnF4WEZpeW44OXhTTnZycWt3U2ZhZVJTY2wzQXRsVDNHbzNZSHRPZDFkR1F2V2pTVjdGS3lCV2FZdW5Iak5XVVhkQlVZNFVWd0ZMNUdDTVJSV1o0eGdoeEpBOWhoaFQ2a2pkaHlBTkQ0eW1PVU9maUJRSmRwY3l2MXU3Q25LZ0dTaWpJamhsMmJWdWpTaDhhT0xxUGZVWUFkUFZNSXRR0gGmAUFVX3lxTE1CcXhYRml5bjg5eFNOdnJxa3dTZmFlUlNjbDNBdGxUM0dvM1lIdE9kMWRHUXZXalNWN0ZLeUJXYVl1bkhqTldVWGRCVVk0VVZ3Rkw1R0NNUlJXWjR4Z2h4SkE5aGhoVDZramRoeUFORDR5bU9VT2ZpQlFKZHBjeXYxdTdDbktnR1NpaklqaGwyYlZ1alNoOGFPTHFQZlVZQWRQVk1JdFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T16:04:02+00:00",
+      "published_raw": "Thu, 13 Aug 2026 16:04:02 GMT",
+      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:00.128392+00:00"
+    },
+    {
+      "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
+      "title": "Ecovias Noroeste Paulista e Polícia Rodoviária promovem ações de conscientização no trânsito em Rio Preto e Mirassol - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWGtWRkdjbzlyX3JvUl9vZW00NGlLbW9LWXlKemhod00xaC1ZdFhDVllaeDRQYXBiMVVYUmxWakVJb3I0cDBMUWJ4WDNDSWNCV2xKSGNvNVJvU1VOa3dNVk9BVlpNNUE4a2ZyM3ppZXltaTV2cnlVdDhtdjRQU29MVjlubFpPTmVYWFI4RTVoRUNRQ1NSRGJ2MDM5WnYxeW1sNC1DV0RYVHVXU0RINHpTQjVrUlQ3VkQ1OU1sMFc3UkJwakxVb1htbk1pQXZkdVBlOFlaMmUya0haZ2Z5?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T15:59:00+00:00",
+      "published_raw": "Thu, 13 Aug 2026 15:59:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista e Polícia Rodoviária promovem ações de conscientização no trânsito em Rio Preto e Mirassol Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:00.128478+00:00"
+    },
+    {
+      "id": "ff73451fbf61c0f77595fa8a2194222bb7863035029391e198ea3cd38875e836",
+      "title": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGhTQkhtVWJMYkcwLTI5bGhmbzBzNXRrTjk3Y2Z0eXUzUlhPb3FfbFRuTmZMUXdxX0x5ZXRfSElfdjNjbmhGM2k0UmFiZkFrN0l5TTQzMnZkVmFwRU92ZS1jSG5QYVl1YzRIdXliNTdkTUNWenJLb2hIVUJWSkIzOWJ2NnB1d1k2VVc3WlpzVWVjMWcxME5fTldPMEpXcVAxWFk1MHh4NHhkQ2lOMnYwdDFWS1VyczIxd3VKWFB3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T14:37:30+00:00",
+      "published_raw": "Thu, 13 Aug 2026 14:37:30 GMT",
+      "snippet": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:09.832435+00:00"
+    },
+    {
+      "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakpySnd4Z1A0MWdSUmhncjRTUFgzcEdWX0N3YWpzdEZCdDc4SGlqc3FoanJLcDV5WkJiYzdiWHBDLUZHZHdfS3JEcGxoakNaOVB4VE1SQmI5MHlTWmJmWFZnTFBjcG13V2FkOXhrVFk4b3lpNW5Yc1Byc2d6QnB4VUx0dGhTMnR2NXVZS2l5U2Y5ZG9EUXlKUVFXMWtmZm9KSUdvaGNDWEs5RzJmZ1F5RVl5c1RXd0djaWxlYURDWWM4cG11dTRVT2lBcFFXdU9nSDJHdUpFM3lHZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T12:48:24+00:00",
+      "published_raw": "Thu, 13 Aug 2026 12:48:24 GMT",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:00.128291+00:00"
+    },
+    {
+      "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
+      "title": "Ecovias Noroeste Paulista promove ações de segurança viária - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV9wdzk2NFp4MGhxUm5yeVRWR1VWRFZIYlNCX3VZeWJTOUFXaTNLWlR5alM5RWxaZ0d5bUlseGtVMy1ldzdVbGZCSW5EUlJaTS1nS1ZnQmxJaDhfRFZqdTJvY3FKbzU1SEFWWWRxNDZVSGlVWWdrVkpkc2xtRVVIREI1SnhwUFNqNVFwQg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T11:42:14+00:00",
+      "published_raw": "Thu, 13 Aug 2026 11:42:14 GMT",
+      "snippet": "Ecovias Noroeste Paulista promove ações de segurança viária OExtra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T07:06:00.128138+00:00"
+    }
+  ]
 }
