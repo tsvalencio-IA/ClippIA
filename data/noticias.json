@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T00:59:34.473833+00:00",
+  "updated_at": "2026-08-14T01:27:33.284343+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 9,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:28.814242+00:00"
+      "collected_at": "2026-08-14T01:27:27.635324+00:00"
     },
     {
       "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:21.006860+00:00"
+      "collected_at": "2026-08-14T01:27:19.952017+00:00"
+    },
+    {
+      "id": "902f7df374cd326dbf361babe8a4e7c45c9741e6ec70132d822be689f88086a5",
+      "title": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVNIBsAFBVV95cUxONGdYWUwxTHVQcU5FdEpWdjZTMmlnYWUzLW9vOTlScE9SYnYtMXNTcy1iTUZraWxhUlpNTGZmaVRJRmkxb080V0ZKUFhGN3NwTUFOVkkwb01Bcmo5M1lIM2Yyc1BlbExJNUN2ODF1SzcyOXlNN1lVamRoSFN5bmRVUk5LcjJDZDJpWWhGUnJBWHI4cWpia3VNVk02ZXNmWE5UWl9KQndlV0M0cmJVSlllVA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-13T16:46:47+00:00",
+      "published_raw": "Thu, 13 Aug 2026 16:46:47 GMT",
+      "snippet": "Mensagem no WhatsApp termina em prejuízo de R$ 6,4 mil para idoso em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-14T01:27:17.901091+00:00"
     },
     {
       "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:18.923695+00:00"
+      "collected_at": "2026-08-14T01:27:17.901005+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -111,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:18.923818+00:00"
+      "collected_at": "2026-08-14T01:27:17.901175+00:00"
     },
     {
-      "id": "4a7f1bad1b82331b729958a2156633e9ebec04e31db40c5cb5f87eaec33d5004",
-      "title": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "ff73451fbf61c0f77595fa8a2194222bb7863035029391e198ea3cd38875e836",
+      "title": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGhTQkhtVWJMYkcwLTI5bGhmbzBzNXRrTjk3Y2Z0eXUzUlhPb3FfbFRuTmZMUXdxX0x5ZXRfSElfdjNjbmhGM2k0UmFiZkFrN0l5TTQzMnZkVmFwRU92ZS1jSG5QYVl1YzRIdXliNTdkTUNWenJLb2hIVUJWSkIzOWJ2NnB1d1k2VVc3WlpzVWVjMWcxME5fTldPMEpXcVAxWFk1MHh4NHhkQ2lOMnYwdDFWS1VyczIxd3VKWFB3?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T14:37:30+00:00",
       "published_raw": "Thu, 13 Aug 2026 14:37:30 GMT",
-      "snippet": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais saocarlosdiaenoite.com.br",
+      "snippet": "SAAE amplia ações no Parque do Bicão com limpeza de galerias pluviais Portal SCDN - Porque a informação não para!",
       "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:28.814408+00:00"
+      "collected_at": "2026-08-14T01:27:27.635509+00:00"
     },
     {
       "id": "f8205c7392d7b1c73c8915e6719017a987cec65f88f7aecba4bdab079e60e2d4",
@@ -145,24 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:28.814335+00:00"
+      "collected_at": "2026-08-14T01:27:27.635424+00:00"
     },
     {
-      "id": "5acd93c704539b1e257d5cd3eff59aa38932a6216f2bb59b5e9d9eca946d60a0",
-      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
+      "title": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakpySnd4Z1A0MWdSUmhncjRTUFgzcEdWX0N3YWpzdEZCdDc4SGlqc3FoanJLcDV5WkJiYzdiWHBDLUZHZHdfS3JEcGxoakNaOVB4VE1SQmI5MHlTWmJmWFZnTFBjcG13V2FkOXhrVFk4b3lpNW5Yc1Byc2d6QnB4VUx0dGhTMnR2NXVZS2l5U2Y5ZG9EUXlKUVFXMWtmZm9KSUdvaGNDWEs5RzJmZ1F5RVl5c1RXd0djaWxlYURDWWM4cG11dTRVT2lBcFFXdU9nSDJHdUpFM3lHZw?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T12:48:24+00:00",
       "published_raw": "Thu, 13 Aug 2026 12:48:24 GMT",
-      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos saocarlosdiaenoite.com.br",
+      "snippet": "Ecovias Noroeste Paulista realiza ações educativas para motociclistas, pedestres e ciclistas em São Carlos Portal SCDN - Porque a informação não para!",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:18.923597+00:00"
+      "collected_at": "2026-08-14T01:27:17.900897+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T00:59:18.923478+00:00"
+      "collected_at": "2026-08-14T01:27:17.900775+00:00"
     }
   ]
 }
