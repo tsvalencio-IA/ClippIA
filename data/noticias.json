@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T07:06:15.425308+00:00",
+  "updated_at": "2026-08-14T07:16:55.274569+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 8,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:09.832139+00:00"
+      "collected_at": "2026-08-14T07:16:49.109075+00:00"
     },
     {
       "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:09.832289+00:00"
+      "collected_at": "2026-08-14T07:16:49.109143+00:00"
     },
     {
       "id": "6d751b47c1e6cba3a1c1b611e2d2285dbe2c42d03c6c1c5d4bebade33e272f19",
@@ -94,41 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:02.180650+00:00"
+      "collected_at": "2026-08-14T07:16:40.695008+00:00"
     },
     {
-      "id": "84ab3838a932dfa3b3d16ec1959863bdd36e6f4d38f60a6ac395e084e9894ddc",
-      "title": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONS1xYXRHRmdQR25HU0tZUjZscEFVUU9FUklRZ0szWlJoR21Zd1NOWjhRc1FRMVZvazdXcUE0alF3dTcyZ1RuMzBRMmZCd0RYQW15SlI1Vm9zUmV6bjRYNEpBYTlSN2xxeUUyZXZEUjZwY2J4MnhCNnNvQndvQUtqR0dIYXFSOXBlb01tWFZFbzRxeFZjR3NDbm5UNV8yOUJpZHFSbEJR0gGmAUFVX3lxTE41LXFhdEdGZ1BHbkdTS1lSNmxwQVVRT0VSSVFnSzNaUmhHbVl3U05aOFFzUVExVm9rN1dxQTRqUXd1NzJnVG4zMFEyZkJ3RFhBbXlKUjVWb3NSZXpuNFg0SkFhOVI3bHF5RTJldkRSNnBjYngyeEI2c29Cd29BS2pHR0hhcVI5cGVvTW1YVkVvNHF4VmNHc0NublQ1XzI5QmlkcVJsQlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T16:12:12+00:00",
-      "published_raw": "Thu, 13 Aug 2026 16:12:12 GMT",
-      "snippet": "Saae amplia ações no Parque do Bicão com limpeza de galerias pluviais - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T07:06:09.832518+00:00"
-    },
-    {
-      "id": "940125a96c96c5d56eb393084798ba8fe5c8f350438e7d93f2d18aaa27b1ca9c",
-      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
+      "id": "c085ada5354bac5cd488207dd8f59a2819f5b683adbf9809db940c4b58a61895",
+      "title": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque - saocarlosnotoque.com",
+      "source": "saocarlosnotoque.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnF4WEZpeW44OXhTTnZycWt3U2ZhZVJTY2wzQXRsVDNHbzNZSHRPZDFkR1F2V2pTVjdGS3lCV2FZdW5Iak5XVVhkQlVZNFVWd0ZMNUdDTVJSV1o0eGdoeEpBOWhoaFQ2a2pkaHlBTkQ0eW1PVU9maUJRSmRwY3l2MXU3Q25LZ0dTaWpJamhsMmJWdWpTaDhhT0xxUGZVWUFkUFZNSXRR0gGmAUFVX3lxTE1CcXhYRml5bjg5eFNOdnJxa3dTZmFlUlNjbDNBdGxUM0dvM1lIdE9kMWRHUXZXalNWN0ZLeUJXYVl1bkhqTldVWGRCVVk0VVZ3Rkw1R0NNUlJXWjR4Z2h4SkE5aGhoVDZramRoeUFORDR5bU9VT2ZpQlFKZHBjeXYxdTdDbktnR1NpaklqaGwyYlZ1alNoOGFPTHFQZlVZQWRQVk1JdFE?oc=5",
       "resolved_link": "",
       "published": "2026-08-13T16:04:02+00:00",
       "published_raw": "Thu, 13 Aug 2026 16:04:02 GMT",
-      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "snippet": "Carro pega fogo na Washington Luís e mobiliza Bombeiros em São Carlos - São Carlos no Toque saocarlosnotoque.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:00.128392+00:00"
+      "collected_at": "2026-08-14T07:16:38.361603+00:00"
     },
     {
       "id": "49aba68745229f29ccfadb9ff4ac1c473e162b56c757d0592bc23740dc109dc0",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:00.128478+00:00"
+      "collected_at": "2026-08-14T07:16:38.361659+00:00"
     },
     {
       "id": "ff73451fbf61c0f77595fa8a2194222bb7863035029391e198ea3cd38875e836",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:09.832435+00:00"
+      "collected_at": "2026-08-14T07:16:49.109192+00:00"
     },
     {
       "id": "9f33cbf7093e8b57631fb60f923658763d7d4102e01e8c5717bec422802e4ee6",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:00.128291+00:00"
+      "collected_at": "2026-08-14T07:16:38.361545+00:00"
     },
     {
       "id": "179abfb843c1649cbc4b0951ccb8743efb49d3c6d3a3ebf9727f359509f09e50",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T07:06:00.128138+00:00"
+      "collected_at": "2026-08-14T07:16:38.361462+00:00"
     }
   ]
 }
