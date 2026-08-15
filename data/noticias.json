@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T21:20:28.740852+00:00",
+  "updated_at": "2026-08-15T00:35:16.272398+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 13,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,13 +46,30 @@
   ],
   "items": [
     {
+      "id": "ef1ee2fec0a30b08a48267a9537b652c845a6bb3c6e602125efe156c3437b444",
+      "title": "Motorista perde o controle após ser fechado e cai em vala na Rodovia Washington Luís, em Ibaté - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDcySDFjRGNjSlNVbVdSSW85bEpaWlVzTmFieGcta3pDUGgxVUo4dGlDTHFPUE5idFB0MFJnWGtuWS1LeDB5eFNtRURXSmZycGkzeFoyUk5jZldtbUF2Y0xCby0ycHZJTXdzT3JZT053R0piNFdGdXo0VS1qNHNUc3o4Tktkd0N1NzN5dzJONHZGRU5zTXZUUXlrNHlzQ095VUZXbHQwRVJpc2FZUVlhV3dmWWduZXJNMVFzWTJpXzVfUUdPZG1yTUFn0gG-AUFVX3lxTE1fNTBST2NOdGtyLWFCdTNUWGd6NnAxYmdTNFZVYURjWHcxSnhuMmhqV0NKWmowd0tjRUxWTUpTdU11Ym9aekZ6LUxHenBBLXJUTC1kQWJzYkNIa09tR09hNVFPSDQ4YWUzNC1QSk1tQ2ZpS2p3N0JfUnBEQy1MOENuNC01S0VoakpqZVBuSnpTSkd5ZVpRZjFYT2JFMnBMQTJpRGRvNmdjem1IZXZWNkRINkdqUFI2cXpmaThSdFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T20:42:00+00:00",
+      "published_raw": "Fri, 14 Aug 2026 20:42:00 GMT",
+      "snippet": "Motorista perde o controle após ser fechado e cai em vala na Rodovia Washington Luís, em Ibaté São Carlos Agora",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T00:35:01.031251+00:00"
+    },
+    {
       "id": "3a83351a399f5d458cbe26601ea8c4be5042ff8a96b1adaccc1a8fbc26639ca3",
       "title": "Ecovias altera trânsito sob ponte do Córrego dos Macacos em Rio Preto - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzllbHpQTExMbnA4azdmVE5qYkNBTFRVRUdBWkdvWnFscVBqQmpFUXRkT0lrZUJhTkcwOUh3LTJJcnJqemhCSTVPN0JDNjUzYXF0Q0VVN3llWU1ta1ZkcGxtU1UyZE1sZXJUa0FyaS1jaGM3dmU2akZYd1BINmFPekhBX0xaWmVsV1J3ZHFoVnhBRmp6bUxkbXluOW1zOXlYdkxBNlJrdHFsQQ?oc=5",
       "resolved_link": "",
-      "published": "2026-08-14T17:42:19+00:00",
-      "published_raw": "Fri, 14 Aug 2026 17:42:19 GMT",
+      "published": "2026-08-14T17:56:49+00:00",
+      "published_raw": "Fri, 14 Aug 2026 17:56:49 GMT",
       "snippet": "Ecovias altera trânsito sob ponte do Córrego dos Macacos em Rio Preto Gazeta de Rio Preto",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.143767+00:00"
+      "collected_at": "2026-08-15T00:35:00.505561+00:00"
     },
     {
       "id": "fe519977802b55f05ab3683628761dd7822e3cef74f754af0181ffc8c7bda966",
@@ -71,13 +88,13 @@
       "published": "2026-08-14T17:31:07+00:00",
       "published_raw": "Fri, 14 Aug 2026 17:31:07 GMT",
       "snippet": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.143844+00:00"
+      "collected_at": "2026-08-15T00:35:00.505818+00:00"
     },
     {
       "id": "da11e20d00c8a98fa5add2cce2d141a6aed2ed181218eb4c607f1cf02918f8b8",
@@ -88,13 +105,13 @@
       "published": "2026-08-14T16:34:00+00:00",
       "published_raw": "Fri, 14 Aug 2026 16:34:00 GMT",
       "snippet": "Interdição do viaduto do Jardim Jockey Club começa na segunda-feira e deve durar 90 dias São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.144041+00:00"
+      "collected_at": "2026-08-15T00:35:00.506120+00:00"
     },
     {
       "id": "1a7f5fff774607f5a7ac6fc22f08d30b1e1d66bf7c75c7f4d6e69ac11fe7c488",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:22.574811+00:00"
+      "collected_at": "2026-08-15T00:35:10.577007+00:00"
     },
     {
       "id": "71d0cf540ad70443062e0b137ea698244cceeeee922a97d4807162945fc04f72",
@@ -122,13 +139,13 @@
       "published": "2026-08-14T16:08:52+00:00",
       "published_raw": "Fri, 14 Aug 2026 16:08:52 GMT",
       "snippet": "Viaduto do Jockey Club na SP-310 terá interdição total Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.143906+00:00"
+      "collected_at": "2026-08-15T00:35:00.505643+00:00"
     },
     {
       "id": "51ce425d101f63bca17a979afeba83b9d8fef33833ad6f06aaa557d543ae299b",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.144173+00:00"
+      "collected_at": "2026-08-15T00:35:00.506272+00:00"
     },
     {
       "id": "769fb1162285844ab1dac4df4deb6434a73310d1d7045243684ac9c52e314ff5",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.144110+00:00"
+      "collected_at": "2026-08-15T00:35:00.506200+00:00"
     },
     {
       "id": "d8feba68e69a73fc97c961a3a405eec525fac46370f74f3a082c7c70edd78cf2",
@@ -179,24 +196,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.143974+00:00"
+      "collected_at": "2026-08-15T00:35:00.506042+00:00"
     },
     {
       "id": "ec05f222bb6becb0168b567837533eb94f746aec681110a9bc27d2b95334e749",
       "title": "Obras da terceira faixa da Washington Luís alteram o trânsito sob a ponte do córrego dos Macacos - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbWY1QzhtdGxsN0JhNDZBZlpRcWQtUEZieVJNUzl2YVo3Mk9LR2JlSzM5SmJNYjRlZ01YOUxrQWlyRXNSeHpJcGdNNmFHNC1lQWgwTzFXWW80SThyR2t6SVg4bVp3XzlZTUpkV3Bfd3ZBTWdQVXZyZ19oRkVoOEYzdHZBUG5HcnExSXRjUjdPUjEtR0xwNExRQWk2UmZtaEtCSnVRNWhsNjlRcE9ZUG1nRzFScGhHeXUtaGtvYUFVSUI2VEZUZm5tZ3daUHRZNFpXY3loN3k0R3dSSm9rZ014ZWJXSzVKdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHlzMEtnY3RyNVExeVBLNl90ZVdMR2ZJbm9TYTVFQ2p5QkptX2F2ZzlGSmdGWXBBbFQzN3dFNTdMR2VfLUZBZVM2bDFUMU4yRlhERC1reU5LMTlNa1U2WWpFS0tvcnRVaEdYenhHSFc1Y3pkeDl2SmtVOWlNZ003RUhJT2RuMUpEWXlueHJ1TWctUGNRUFNMQXRYU3dFdjJVSzhDNmZuaS05OWkxTUxTZFZtYjhZSWg4WWZEWXhzYk1VbFRQck9oeWZ3OGp4LXhtbktYYWdKSnNOVERfeG9aNURmSlltV2c?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T14:49:18+00:00",
       "published_raw": "Fri, 14 Aug 2026 14:49:18 GMT",
       "snippet": "Obras da terceira faixa da Washington Luís alteram o trânsito sob a ponte do córrego dos Macacos Diário da Região",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:22.574736+00:00"
+      "collected_at": "2026-08-15T00:35:00.505727+00:00"
+    },
+    {
+      "id": "a1a9e33a68a1370022104c0c137b7852bb84c2c5a6a6af5f259366bf86db02f3",
+      "title": "Quase 10 mil vagas da saúde são perdidas em um mês por faltas a consultas e exames - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUk9XbmNEQ2trWE9pb01HZk1fa2ZDSUM1TVFwbE1uWEZBNU80TEUtaTk3RVQ3QWRXZnhUUmJaMnZtT3hLQi1SNllBSVdhNzdzakJGMTJfdzlMZXhMaTRoRGtuVVZXSmRRVlYzYnpwYk9ROXVsY25sQTRCOUVIUFdIcnlmWFd6MXhsUExDNEdOdExWTXFIVG1GOUd2NFZVXzFDY2pSQmMyX3FWaG5wa0JuSE81eW9naUhocWNCRXF1OTZyTEZ2N3RTdGJ0dWxlaVZvN0NReWVmRTROeThYWWJmTGs1T0s?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T07:18:41+00:00",
+      "published_raw": "Fri, 14 Aug 2026 07:18:41 GMT",
+      "snippet": "Quase 10 mil vagas da saúde são perdidas em um mês por faltas a consultas e exames Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T00:35:12.206693+00:00"
+    },
+    {
+      "id": "994407b7b73bf8241f76b9d85708c7dd2cac2f945f2c49331aa60bda987b6287",
+      "title": "Estudo identifica mais de 13 mil empresas criadas por egressos da UFSCar - São Carlos no Toque - saocarlosnotoque.com",
+      "source": "saocarlosnotoque.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDJDd3dKYzM3WGVyM09JSXlVSnNHS2dmSWxFOVV3VnN1VnMxRWQ2aC1Sc1lCd2JHSjRiZGdZdHExV0ZyR0RyYlE1bWpMRnBTN25GY1NyZ1ZwMC1Oc0FwSmpseDM5T00xWDZsb2RKU28tU016cmQ1TGhDTldTZ2ZUVm9ySW1nNGVxbTJlUVR6b2lDTTZWSnZfcjFTblRha2hSTmMzQW1HWXg0Z9IBqgFBVV95cUxOMDJDd3dKYzM3WGVyM09JSXlVSnNHS2dmSWxFOVV3VnN1VnMxRWQ2aC1Sc1lCd2JHSjRiZGdZdHExV0ZyR0RyYlE1bWpMRnBTN25GY1NyZ1ZwMC1Oc0FwSmpseDM5T00xWDZsb2RKU28tU016cmQ1TGhDTldTZ2ZUVm9ySW1nNGVxbTJlUVR6b2lDTTZWSnZfcjFTblRha2hSTmMzQW1HWXg0Zw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-14T04:42:01+00:00",
+      "published_raw": "Fri, 14 Aug 2026 04:42:01 GMT",
+      "snippet": "Estudo identifica mais de 13 mil empresas criadas por egressos da UFSCar - São Carlos no Toque saocarlosnotoque.com",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T00:35:00.505955+00:00"
     },
     {
       "id": "94d34c6f10e4786e4abd6ba558ad8400b6c0c42628fe16c618cc46ee462b5bf5",
@@ -213,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-14T21:20:12.143677+00:00"
-    },
-    {
-      "id": "fc059a785a66f5c338ac68487985405b6d9381c44438dbabd484f04dbf864c55",
-      "title": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm00SzJsRlk1N09QU3pDeUR6UU45LW9KV0NXMlRkZTc0VlA2THNJZmlCQW9QRDJfclVNVng5M1lYX2RtUmNrS0p2RkxldHZVYVkxM2RFcjlxdERiMV9nYmNjTXlKVmVIWXhDRDYtSUI3dVRBbGNmTjkxX2RUVGZ6NDR4ZEppYmVVcWowb0w3Vlk5bC0xUEpvbkFvVVRKUWV2Qy13bGlvdDU5d1NLTXBLcEtTTWNwaW13U0ljR2VrU0RQd1ltcGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-13T22:28:54+00:00",
-      "published_raw": "Thu, 13 Aug 2026 22:28:54 GMT",
-      "snippet": "Obras na Washington Luís podem atrasar chegada de torcedores em Mirassol Diário da Região",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-14T21:20:13.834939+00:00"
+      "collected_at": "2026-08-15T00:35:00.505460+00:00"
     }
   ]
 }
