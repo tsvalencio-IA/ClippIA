@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:14:53.817843+00:00",
+  "updated_at": "2026-08-15T09:20:44.244582+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 17,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:49.417100+00:00"
+      "collected_at": "2026-08-15T09:20:40.243540+00:00"
     },
     {
       "id": "bdef36beb6254a515d2e5c20ae061ca04811f8a94310d94830f692e84ba15108",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:48.679925+00:00"
+      "collected_at": "2026-08-15T09:20:39.700013+00:00"
     },
     {
       "id": "74142af11b61388d8f52358c425c8f44a07765af1448ed06e9ba7f8d4df3f40e",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:49.417141+00:00"
+      "collected_at": "2026-08-15T09:20:40.243620+00:00"
     },
     {
       "id": "04c50c9c87bd2a65a320fb77807a1941f3dd6812a6cc875408650072785e669c",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:49.417180+00:00"
+      "collected_at": "2026-08-15T09:20:40.243716+00:00"
     },
     {
       "id": "4dee8ba62a222e3a9c1a8158f5285472748e2d110d589365a7f8531d2f4cb180",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:49.417249+00:00"
+      "collected_at": "2026-08-15T09:20:40.243792+00:00"
     },
     {
       "id": "91d88d97788ad389b18d211e97fb2740f1a5404b23ed6526db90dd2ec06005a7",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353054+00:00"
+      "collected_at": "2026-08-15T09:20:28.873531+00:00"
     },
     {
       "id": "ef1ee2fec0a30b08a48267a9537b652c845a6bb3c6e602125efe156c3437b444",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.949673+00:00"
+      "collected_at": "2026-08-15T09:20:29.395951+00:00"
     },
     {
       "id": "890d00d96c2915867f58df12e8a08dfe0745a89ecbee181675219c3fdc8a3808",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.352958+00:00"
+      "collected_at": "2026-08-15T09:20:28.873343+00:00"
     },
     {
       "id": "3a83351a399f5d458cbe26601ea8c4be5042ff8a96b1adaccc1a8fbc26639ca3",
@@ -196,24 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.352868+00:00"
+      "collected_at": "2026-08-15T09:20:28.868720+00:00"
     },
     {
-      "id": "fe519977802b55f05ab3683628761dd7822e3cef74f754af0181ffc8c7bda966",
-      "title": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | - Região em Destake",
-      "source": "Região em Destake",
+      "id": "966fc6757ebee6ad0233702ce1fc7c0f9a155d08405b06e57c44676b8f57024a",
+      "title": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | - regiaoemdestake.com.br",
+      "source": "regiaoemdestake.com.br",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2E3MHZPb290bDYwOTFsV2c3UWV1Y0Z6Nmw4eXlpVjhrdVpMWnk2MndrenRCOXV3dzB1Wmp3SlpwN0laeWtESVNhZUh2SXc5QVV2SzdLLTNzRjVHNk9wTGYyeXVUNk1fYVQwZGxJRWRqdWpiOHZ4ejlCYmdBdlViVDBnT1JXSWY1M1ZxNmQzNV9CakFYVlpOOXV2eXNTZmhXazQzZ3c4T2tXeXlWT3c?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T17:11:36+00:00",
       "published_raw": "Fri, 14 Aug 2026 17:11:36 GMT",
-      "snippet": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | Região em Destake",
+      "snippet": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | regiaoemdestake.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353009+00:00"
+      "collected_at": "2026-08-15T09:20:28.873446+00:00"
     },
     {
       "id": "da11e20d00c8a98fa5add2cce2d141a6aed2ed181218eb4c607f1cf02918f8b8",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353141+00:00"
+      "collected_at": "2026-08-15T09:20:28.873694+00:00"
     },
     {
       "id": "1a7f5fff774607f5a7ac6fc22f08d30b1e1d66bf7c75c7f4d6e69ac11fe7c488",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:47.484097+00:00"
+      "collected_at": "2026-08-15T09:20:38.631853+00:00"
     },
     {
       "id": "71d0cf540ad70443062e0b137ea698244cceeeee922a97d4807162945fc04f72",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:51.153550+00:00"
+      "collected_at": "2026-08-15T09:20:41.842971+00:00"
     },
     {
       "id": "51ce425d101f63bca17a979afeba83b9d8fef33833ad6f06aaa557d543ae299b",
@@ -281,24 +281,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353239+00:00"
+      "collected_at": "2026-08-15T09:20:28.873851+00:00"
     },
     {
-      "id": "09413a03b417e245f6719e76a64aa850fdf663ff5af6acf8d28ee65d83540093",
-      "title": "Obras em ponte do Córrego dos Macacos alteram tráfego na Washington Luís - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
+      "id": "769fb1162285844ab1dac4df4deb6434a73310d1d7045243684ac9c52e314ff5",
+      "title": "Obras em ponte do Córrego dos Macacos alteram tráfego na Washington Luís - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3lLYXZPcFdPZFFFOXhSSFg4NG41NjZWQnREV09XcTllRVFsWXY0YnJKXzNmLWM2MzJHMEcwTHptcWJSQ08zanhxQ1ZnaTRZa1VCQ0lGbXlsQldqQ1QtTjVjWUZCXzVGM0JhZGNJdHNRN3dxRHcydjQzdjByNXZWcXIxQ29iWWNHdGJZcnhyS0I1WDJ3Qmp5SnhqZlpFRW9vUDdxM0ZHSXBtYTBpVTNxOWJ6QU03bzJoNnVtMTVwSzdDZHZ2cjAxRw?oc=5",
       "resolved_link": "",
       "published": "2026-08-14T14:58:00+00:00",
       "published_raw": "Fri, 14 Aug 2026 14:58:00 GMT",
-      "snippet": "Obras em ponte do Córrego dos Macacos alteram tráfego na Washington Luís mirassol.portaldacidade.com",
+      "snippet": "Obras em ponte do Córrego dos Macacos alteram tráfego na Washington Luís Portal da Cidade - Mirassol / SP",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353182+00:00"
+      "collected_at": "2026-08-15T09:20:28.873777+00:00"
     },
     {
       "id": "d8feba68e69a73fc97c961a3a405eec525fac46370f74f3a082c7c70edd78cf2",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:36.353098+00:00"
+      "collected_at": "2026-08-15T09:20:28.873613+00:00"
     },
     {
       "id": "ec05f222bb6becb0168b567837533eb94f746aec681110a9bc27d2b95334e749",
@@ -332,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T09:14:47.484004+00:00"
+      "collected_at": "2026-08-15T09:20:38.631690+00:00"
     }
   ]
 }
