@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-15T15:15:12.906275+00:00",
+  "updated_at": "2026-08-15T18:12:29.422315+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 18,
+  "total": 16,
   "total_images": 0,
-  "new_items": 18,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,10 +46,61 @@
   ],
   "items": [
     {
+      "id": "bc3a6bb3cb5525eeedf0ba1bc3ed8af658587e497f5b39d2049f6d00fe7cb505",
+      "title": "Obras na da Washington Luís alteram tráfego em trevo de Cedral - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1ROV1IwcEVXU3NyZlc3SjRLX3RFLVowTUloTDkxRlBELU5aVk96TkxoZmVwZzZZWHNrTGc4elBHN1YtSEgwT05paVRlWVh0eVQxSC16OUhYRzcwX2NDeFE5S0JrWDllNXhBLW9zZ1ZQSUk2a0txbkRTbWVjVlh5dGdhVnpNOWVWT1JRRTlCMTBCN2gzTDZmY2pNVkJ6bmVOT3ZWeFlIbnluM2JOcnVwaFJwbkIyWVphSWc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T15:35:08+00:00",
+      "published_raw": "Sat, 15 Aug 2026 15:35:08 GMT",
+      "snippet": "Obras na da Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T18:12:11.504931+00:00"
+    },
+    {
+      "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
+      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdJQWtKNlNnVzBZSXAzT2dETjBrMnBzT1dFeklHbjlOU2haMmtvN3lPMjJWalgzSXVXX0JVamtLYW5yQmN2d2xaOFhVTm05QTFlMkgwN09WWGoyXzk2OW9JS3dBVGF0MmYyY2trcFBGdTh3V2FMR0hKYVZ0alpady02cnY1cDZtTGU5N1duelF5MEo3SlRJYVcxbUtpQzMzZDdiX2ZxNVpPOWlWS3c?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T15:34:20+00:00",
+      "published_raw": "Sat, 15 Aug 2026 15:34:20 GMT",
+      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T18:12:11.504846+00:00"
+    },
+    {
+      "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
+      "title": "Motorista de carreta morre após grave acidente na Rodovia Washington Luís - Repórter Beto Ribeiro",
+      "source": "Repórter Beto Ribeiro",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOV8zR19Mek1zdG85dUgwd1NReHpMdERoSzBIMTBOQVM4dFRHZUdmTlF6d005MXNuVXVnNGRFZEtUZW1RU1ZyaEVvWjJzUFRRUjYtMmJEYVNoemcxZHBsbmRfZENUenFucVMzZHVIZldyOUNCTWxvQVBuT2lFQmFzWVFnSnNIUXh2YmlUVi1acFdrYWZDb2ZBMGpEbjZiV1Q0M3hFR25zM2ZRWW91aVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T15:32:44+00:00",
+      "published_raw": "Sat, 15 Aug 2026 15:32:44 GMT",
+      "snippet": "Motorista de carreta morre após grave acidente na Rodovia Washington Luís Repórter Beto Ribeiro",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T18:12:11.504641+00:00"
+    },
+    {
       "id": "ae01ab82ac839f3db29e1d3c8c5da18fb3529c708d8a7ce93270fa99d916c5c8",
       "title": "Motorista de carreta morre após grave acidente em rodovia no interior de SP - G1",
       "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZTJSMkQxVmtwTWo4eXA3cFZRTzVtdWVkUHdNZzFiLUgxVTU3TE8xdmkyZEs4ZVJvN25SS0ZkbFBzVHJPaDMwRXJRQ0xVUFFEbS1xeHNpa0R2V2NtMTlydktaRlFFeHhHOXVfQTFUc1ZxOTVMTDRZa2Fvb2Vyak04WFZsWnpVbVluT2lIRklPMXI1ZWlBQTRBeUlFeDAwUHVBeWt3cWlNTkt4OU5mVXRCV3BIeXJYTzR6ZXNhQnVJUUMtSXZEbmJQem02ZF9oMU5PQ29YNFpjbC1JYW4wU1VPTVZOY0xTM2Jz0gHoAUFVX3lxTE9lMlIyRDFWa3BNajh5cDdwVlFPNW11ZWRQd01nMWItSDFVNTdMTzF2aTJkSzhlUm83blJLRmRsUHNUck9oMzBFclFDTFVQUURtLXF4c2lrRHZXY20xOXJ2S1pGUUV4eEc5dV9BMVRzVnE5NUxMNFlrYW9vZXJqTThYVmxaelVtWW5PaUhGSU8xcjVlaUFBNEF5SUV4MDBQdUF5a3dxaU1OS3g5TmZVdEJXcEh5clhPNHplc2FCdUlRQy1JdkRuYlB6bTZkX2gxTk9Db1g0WmNsLUlhbjBTVU9NVk5jTFMzYnM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd1IzMG04OGJXWHJJd3pTRmgzVURwTWUxTVhKQjIzR1V0ZXk2aVZUYnBWMHVidUVVSDBobDNfbERhcXJJU2ZaczdQZTA0a3hJU3FGMVZWT3M4QzhpdFVZOUhzTm5nMzA0bmpaNk1adXFZWHRSZkFwa2RCZ3RnQjVGTGlvVU9VMmVfRDRmNnRTeXNVQjd0WFZLMzV6dmVoRUJITVZnb0J5UlJyTzQ1MThzWTM4QUxORURpcG8tUi11VVZZTzMwUDd4NGtnd2tGVk8yNUxjb0d1X2duUdIB6AFBVV95cUxPZTJSMkQxVmtwTWo4eXA3cFZRTzVtdWVkUHdNZzFiLUgxVTU3TE8xdmkyZEs4ZVJvN25SS0ZkbFBzVHJPaDMwRXJRQ0xVUFFEbS1xeHNpa0R2V2NtMTlydktaRlFFeHhHOXVfQTFUc1ZxOTVMTDRZa2Fvb2Vyak04WFZsWnpVbVluT2lIRklPMXI1ZWlBQTRBeUlFeDAwUHVBeWt3cWlNTkt4OU5mVXRCV3BIeXJYTzR6ZXNhQnVJUUMtSXZEbmJQem02ZF9oMU5PQ29YNFpjbC1JYW4wU1VPTVZOY0xTM2Jz?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T14:20:20+00:00",
       "published_raw": "Sat, 15 Aug 2026 14:20:20 GMT",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.582878+00:00"
+      "collected_at": "2026-08-15T18:12:11.504745+00:00"
     },
     {
       "id": "ec124df2746510e7dd319a8eae54a5340d10ede5c55a74138199559d4d82bf63",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681067+00:00"
+      "collected_at": "2026-08-15T18:12:24.800756+00:00"
     },
     {
       "id": "03bc9f9652ba061f2e14a64480b21c8fd127006a3a78d567ffb2cde7e0a04aab",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681245+00:00"
+      "collected_at": "2026-08-15T18:12:24.800701+00:00"
     },
     {
       "id": "ecb34f6ec61294f0367a4b5a39bf80f756225a4ef66373b0ecda848ad9137814",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681494+00:00"
+      "collected_at": "2026-08-15T18:12:24.800958+00:00"
     },
     {
       "id": "2516bd55d8f28bb9fdd0e4de3c07b9ea3d56293b3a55441a6629b2a3abe1d5aa",
@@ -122,13 +173,13 @@
       "published": "2026-08-15T06:22:55+00:00",
       "published_raw": "Sat, 15 Aug 2026 06:22:55 GMT",
       "snippet": "Fesc abre inscrições para curso gratuito de Aromaterapia Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681567+00:00"
+      "collected_at": "2026-08-15T18:12:11.505152+00:00"
     },
     {
       "id": "cf1e15f4a1259fc1a1e69785d706738e3c74e1d59b540eb06e94b48c67de9f77",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681406+00:00"
+      "collected_at": "2026-08-15T18:12:24.800880+00:00"
     },
     {
       "id": "bdef36beb6254a515d2e5c20ae061ca04811f8a94310d94830f692e84ba15108",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.096658+00:00"
+      "collected_at": "2026-08-15T18:12:24.144534+00:00"
     },
     {
       "id": "74142af11b61388d8f52358c425c8f44a07765af1448ed06e9ba7f8d4df3f40e",
@@ -179,7 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.681642+00:00"
+      "collected_at": "2026-08-15T18:12:24.801022+00:00"
+    },
+    {
+      "id": "4dee8ba62a222e3a9c1a8158f5285472748e2d110d589365a7f8531d2f4cb180",
+      "title": "Propaganda eleitoral começa neste domingo (16); veja as novidades para as Eleições 2026 - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFZpOENueTRrYkZNMnBzVWFoV0ZmMjRRSWFZSGdXNWN4MG5yZTVUcFVUWHFJSFc5TFZfTFB4S0UzMS1lTF9PQ01KdGE4U2l4dFp5MEU4NlhlS3FFeW9xYjJVandoVmhtWEgybVIzZU9MLVZwYllQUTZ3ZEdoeHR2bnQ0ZWNnZnRPSnB1cmFJSzZQUlJ0SGRscWQ5TXZjdHFTQVZ2WTRsV2l0U2xDRkRmN3l5cHNjTGxHQ0k4bzR0Z3Vwam00LXBQX3Z3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T03:16:05+00:00",
+      "published_raw": "Sat, 15 Aug 2026 03:16:05 GMT",
+      "snippet": "Propaganda eleitoral começa neste domingo (16); veja as novidades para as Eleições 2026 Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-15T18:12:24.801126+00:00"
     },
     {
       "id": "8f9a656a7e47a02c8cc0cc9f6f1eaa855ff32d47de45f152d508e2d2364f988a",
@@ -190,13 +258,13 @@
       "published": "2026-08-15T01:02:00+00:00",
       "published_raw": "Sat, 15 Aug 2026 01:02:00 GMT",
       "snippet": "Colisão traseira envolvendo caminhão e carreta na rodovia Washington Luís (SP-310) em Matão deixa um morto Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:15:08.096737+00:00"
+      "collected_at": "2026-08-15T18:12:13.376544+00:00"
     },
     {
       "id": "91d88d97788ad389b18d211e97fb2740f1a5404b23ed6526db90dd2ec06005a7",
@@ -213,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.587118+00:00"
+      "collected_at": "2026-08-15T18:12:11.505261+00:00"
     },
     {
       "id": "ef1ee2fec0a30b08a48267a9537b652c845a6bb3c6e602125efe156c3437b444",
@@ -230,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:14:57.150079+00:00"
+      "collected_at": "2026-08-15T18:12:12.100420+00:00"
     },
     {
       "id": "890d00d96c2915867f58df12e8a08dfe0745a89ecbee181675219c3fdc8a3808",
@@ -241,115 +309,13 @@
       "published": "2026-08-14T18:40:56+00:00",
       "published_raw": "Fri, 14 Aug 2026 18:40:56 GMT",
       "snippet": "Interdição total do viaduto do Jardim Jockey Club (km 236+100m) começa na segunda-feira (17/08), para obras… Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.586940+00:00"
-    },
-    {
-      "id": "3a83351a399f5d458cbe26601ea8c4be5042ff8a96b1adaccc1a8fbc26639ca3",
-      "title": "Ecovias altera trânsito sob ponte do Córrego dos Macacos em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzllbHpQTExMbnA4azdmVE5qYkNBTFRVRUdBWkdvWnFscVBqQmpFUXRkT0lrZUJhTkcwOUh3LTJJcnJqemhCSTVPN0JDNjUzYXF0Q0VVN3llWU1ta1ZkcGxtU1UyZE1sZXJUa0FyaS1jaGM3dmU2akZYd1BINmFPekhBX0xaWmVsV1J3ZHFoVnhBRmp6bUxkbXluOW1zOXlYdkxBNlJrdHFsQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T17:56:49+00:00",
-      "published_raw": "Fri, 14 Aug 2026 17:56:49 GMT",
-      "snippet": "Ecovias altera trânsito sob ponte do Córrego dos Macacos em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.582720+00:00"
-    },
-    {
-      "id": "fe519977802b55f05ab3683628761dd7822e3cef74f754af0181ffc8c7bda966",
-      "title": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2E3MHZPb290bDYwOTFsV2c3UWV1Y0Z6Nmw4eXlpVjhrdVpMWnk2MndrenRCOXV3dzB1Wmp3SlpwN0laeWtESVNhZUh2SXc5QVV2SzdLLTNzRjVHNk9wTGYyeXVUNk1fYVQwZGxJRWRqdWpiOHZ4ejlCYmdBdlViVDBnT1JXSWY1M1ZxNmQzNV9CakFYVlpOOXV2eXNTZmhXazQzZ3c4T2tXeXlWT3c?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T17:11:36+00:00",
-      "published_raw": "Fri, 14 Aug 2026 17:11:36 GMT",
-      "snippet": "Ecovias fecha viaduto por três meses e população paga a conta dos transtornos | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.587032+00:00"
-    },
-    {
-      "id": "da11e20d00c8a98fa5add2cce2d141a6aed2ed181218eb4c607f1cf02918f8b8",
-      "title": "Interdição do viaduto do Jardim Jockey Club começa na segunda-feira e deve durar 90 dias - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1MxUDdfRTlsWTRrNVVsM0dsYVgyZG96S1FnSWo5SW5yS0llM3Z4UEhMMXc3bU81ek16N0ZmT00tekFfWExta0xCZl9GejkyTWwwby1Oc0pNU1dId3E4Q05rWmd6Qy1xRHItZFowTG9RM1R3cFF5T3Z1UE5ycmZ1ZFlrQ3pubzN2ay1ZeDVHSGN1WkxCS2tZY0JiUU5rNmFqeGdIWmgxNkxNRHVtVFFnZDlGRzNJcFhLYWfSAb8BQVVfeXFMTXctLVNXVFlmenpjWDZwclozNEdPTXREblZfWlc3eUVSRHFkMERZSlhsY1FfT0xoSjNsdk9yd2p6bzNzalhUVnY3UW82MmZ3aVpqMUVDXzBtck4ydVZLMWY3NU1DcGw0Znozc1JHQXBTVEc3cTI3WnBueGllQzNDel9xci1CUlM4SkVhalRZM1kxSUU5QTJQdEVxSXFMNUNZb0dEdEdxYVBrRWZ2Sl9yeXdIbG9td3lpMmt3R0I2N2s?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T16:34:00+00:00",
-      "published_raw": "Fri, 14 Aug 2026 16:34:00 GMT",
-      "snippet": "Interdição do viaduto do Jardim Jockey Club começa na segunda-feira e deve durar 90 dias São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.587201+00:00"
-    },
-    {
-      "id": "1a7f5fff774607f5a7ac6fc22f08d30b1e1d66bf7c75c7f4d6e69ac11fe7c488",
-      "title": "Atenção, motorista: viaduto entre Jockey Club e Vila Marina fecha por 90 dias em São Carlos - São Carlos em - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUxaTjRFZURSMHpXeVF6NnFkR1R1ZzgtbHlnSmdLX0xtQktPWkFfRnoxWWZFaXBSUExyWjJKNDNkR2FjUFVVLVlBZnpqWXNVR0ZMalp3V2s2c05wdU1TRmlSS2VrTmtSWVRkTVZNRU5WN0VYTWx5SV9DU3hUNk9TYzBZX05OQTFDYVlUaWhOS0tjXzRV0gGUAUFVX3lxTE81TFpONEVlRFIweld5UXo2cWRHVHVnOC1seWdKZ0tfTG1CS09aQV9GejFZZkVpcFJQTHJaMko0M2RHYWNQVVUtWUFmempZc1VHRkxqWndXazZzTnB1TVNGaVJLZWtOa1JZVGRNVk1FTlY3RVhNbHlJX0NTeFQ2T1NjMFlfTk5BMUNhWVRpaE5LS2NfNFU?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T16:30:08+00:00",
-      "published_raw": "Fri, 14 Aug 2026 16:30:08 GMT",
-      "snippet": "Atenção, motorista: viaduto entre Jockey Club e Vila Marina fecha por 90 dias em São Carlos - São Carlos em São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:15:06.954324+00:00"
-    },
-    {
-      "id": "71d0cf540ad70443062e0b137ea698244cceeeee922a97d4807162945fc04f72",
-      "title": "Viaduto do Jockey Club na SP-310 terá interdição total - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFFKdTdlZXdicWh5ZTluWFN5RV8wWVQ4THNBejVRSUsxOExzVDcyb1JOWU1HYTVjN2pHdGc5eEd3YVdzSWxVSTNaT3hDZjlqVGkzckFLSHN6bUx2QjB0aXJLemJTcUxmRzdVVmppMUdQLV9tLUJNYVAtQjBMRUxGZm9BdlgtYWJ2SVNzMGNVSGx5RHIxQWtJdjVBRDc?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T16:08:52+00:00",
-      "published_raw": "Fri, 14 Aug 2026 16:08:52 GMT",
-      "snippet": "Viaduto do Jockey Club na SP-310 terá interdição total Jornal Primeira Página",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:15:10.362333+00:00"
-    },
-    {
-      "id": "51ce425d101f63bca17a979afeba83b9d8fef33833ad6f06aaa557d543ae299b",
-      "title": "Ponte da Washington Luís entra em obras e trânsito terá mudanças em Rio Preto (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjFfUTR0bm92dkR4WHFyQnE0c2s5YmR4QlRqRko0N1ItSmpuMVg2bUFXWUNzQ0xVbVNySE5taHc0S3haYkN6ek5rSXN2dFJSVUplelVIWDFySk83VG9OVW91TkswYzFvRmlMMEEyRHM3MVlCNzN6VVdBNFNqZThsbHdESWx5bUlva2tqdVl4OTdLNG05Nm5vcDJDWFNnRlRJRHRrcVRRQTJQZlBSOTdHQ21lX250R2kwRkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T15:23:29+00:00",
-      "published_raw": "Fri, 14 Aug 2026 15:23:29 GMT",
-      "snippet": "Ponte da Washington Luís entra em obras e trânsito terá mudanças em Rio Preto (SP) gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T15:14:56.587278+00:00"
+      "collected_at": "2026-08-15T18:12:11.505066+00:00"
     }
   ]
 }
