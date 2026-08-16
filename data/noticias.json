@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:15:57.437330+00:00",
+  "updated_at": "2026-08-16T18:12:36.058249+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "7652cdeabd9ff624174554f99a15287ee7f6235df75b9df6d3319cff564778b1",
-      "title": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUhkZjJqdGoxS1BfZmRUOVpjeWFwWWtKbWtVTjgybXdXTXQtTmNIWUhKUEtmWmFnX0JOdTBuempiLU5PbnhLSm43Qi1DSHdJczhSTnNCc25YY29nSzhwdGtvRzVDelhyaXQ0OFZGQ3NTcUUtRzJzUTZ0SWVpd2xrekhjQUpoVkZydjh5SThzelZ3Qi14SUVfRnhLS3Bid2o2T2w3RDVYLVdUWGl1TmlCV3Z5TzRxMW5YQ205TTdLaWxGd3JQUFRJV3U3NElTOTgzRkJuRkhEVkI2Z9IB3wFBVV95cUxPbmJTUGVnR3ZzZHhSWXBfZGdiR3gwNzFTX3dKcmZFdFdqT3hqUk9hdlRLUUZWQ0FhNGpnZ3JUdWdkRlZaNnJtNGRQRHFxaUxLSjZmSkhpVW9xdnp6SjI3by1Qc1pmdmhwbnUwNHhMalZERkc1YmVFUjQ0U3lwRHRxVUNna2NsTHludmFtVUp3aFNWN2JKcURtMGY5d20xRTA4cTFUcTEyTWhLNFFQNC0xSWt1MHpNUldRbWVxMFh3NXViLS1ySU9SdmxaYjRYM2xRS2YyVk4wbnR2bE1tOXc4?oc=5",
+      "id": "5bf26e80e00aa7653d3e709ef7a65538c2e20a7114102827f79e7bca8bd3edc4",
+      "title": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3JHYXVmUS1QN0F4TXFxNnpmanRKWkwxZzZ6ZU4tMzdFTlU2TkdtaXlFUl9vNGkydy1VVHhjbGtqcDczb1RBb0Z3TlRUNzJRRjhNQ05aY2hCdTI3LVRmdTdNcU5oRWFoSUVxNXVqdmFTc1BwT0pJWFNBeUZPMURFZmZPUlNYZXZudHZDbHg3emRiMldsNkhuN2F4MkxQa2hP?oc=5",
       "resolved_link": "",
-      "published": "2026-08-16T14:01:40+00:00",
-      "published_raw": "Sun, 16 Aug 2026 14:01:40 GMT",
-      "snippet": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) Diário do Transporte",
+      "published": "2026-08-16T16:16:20+00:00",
+      "published_raw": "Sun, 16 Aug 2026 16:16:20 GMT",
+      "snippet": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T18:12:22.135344+00:00"
+    },
+    {
+      "id": "8768ca1b4f25c08c3b7cc9fa393c04bdc3f9d42b355504e3444a5cec847abb69",
+      "title": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) - diariodotransporte.com.br",
+      "source": "diariodotransporte.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmJTUGVnR3ZzZHhSWXBfZGdiR3gwNzFTX3dKcmZFdFdqT3hqUk9hdlRLUUZWQ0FhNGpnZ3JUdWdkRlZaNnJtNGRQRHFxaUxLSjZmSkhpVW9xdnp6SjI3by1Qc1pmdmhwbnUwNHhMalZERkc1YmVFUjQ0U3lwRHRxVUNna2NsTHludmFtVUp3aFNWN2JKcURtMGY5d20xRTA4cTFUcTEyTWhLNFFQNC0xSWt1MHpNUldRbWVxMFh3NXViLS1ySU9SdmxaYjRYM2xRS2YyVk4wbnR2bE1tOXc40gHfAUFVX3lxTE9uYlNQZWdHdnNkeFJZcF9kZ2JHeDA3MVNfd0pyZkV0V2pPeGpST2F2VEtRRlZDQWE0amdnclR1Z2RGVlo2cm00ZFBEcXFpTEtKNmZKSGlVb3F2enpKMjdvLVBzWmZ2aHBudTA0eExqVkRGRzViZUVSNDRTeXBEdHFVQ2drY2xMeW52YW1VSndoU1Y3YkpxRG0wZjl3bTFFMDhxMVRxMTJNaEs0UVA0LTFJa3Uwek1SV1FtZXEwWHc1dWItLXJJT1J2bFpiNFgzbFFLZjJWTjBudHZsTW05dzg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T14:00:00+00:00",
+      "published_raw": "Sun, 16 Aug 2026 14:00:00 GMT",
+      "snippet": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) diariodotransporte.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.994781+00:00"
+      "collected_at": "2026-08-16T18:12:20.495841+00:00"
     },
     {
       "id": "88f8b412a59a4b21e5802bf39c9c7c9f42daf91c99dffdccd3484280d1c5717f",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:41.835596+00:00"
+      "collected_at": "2026-08-16T18:12:22.135054+00:00"
     },
     {
       "id": "11a72be5a9cac15dc5312faf61a45c7bf783dbe4df3c26af9dee33ec84cb6045",
@@ -88,13 +105,13 @@
       "published": "2026-08-16T10:36:00+00:00",
       "published_raw": "Sun, 16 Aug 2026 10:36:00 GMT",
       "snippet": "Capotamento deixa vítima fatal na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:52.345497+00:00"
+      "collected_at": "2026-08-16T18:12:22.135271+00:00"
     },
     {
       "id": "367cd2420639e60b4c713a35af07d6f8f75b186eab06b1c0bf036c4298d2a0d7",
@@ -111,24 +128,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.994992+00:00"
+      "collected_at": "2026-08-16T18:12:20.495936+00:00"
     },
     {
-      "id": "e1fb7f23edbac9316e37e842b9303e8aca79d8d0cf39f9e943270a34245a37a4",
-      "title": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) - radiosanca.com.br",
-      "source": "radiosanca.com.br",
+      "id": "d5dd14f0d96e4202aefe3522ebca1a4de0fcef3c97ca675a3233f6196f5f1c45",
+      "title": "PM de SP recupera carga de medicamentos e produtos hospitalares avaliada em R$ 800 mil em Campinas - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1ZPeXpKZlBSRGU1TFpXZEhYTF9YU0lBMTFtbENhQWdIcEdJOTNUVXJ2YnZxTGt4U2hVNnk1S1o2amlYaC15UzBsZWJFZWduNEtnc1k2Z3NwbW51YVJHWEZYSmhxS3F3bi1KTTVoeU90UldYendRTDY5VEhTVVNWWEJiZTQ4NWpwZE9nR0tWeWZnQVpqZVUzNXFtbWdJbVhTS3c2NXlELUJ5cUk5VVZuVGFFSi1SZFR0ZlFjUnRLb1VrdHd1VkYyekJ1Z9IBywFBVV95cUxQa1ZPeXpKZlBSRGU1TFpXZEhYTF9YU0lBMTFtbENhQWdIcEdJOTNUVXJ2YnZxTGt4U2hVNnk1S1o2amlYaC15UzBsZWJFZWduNEtnc1k2Z3NwbW51YVJHWEZYSmhxS3F3bi1KTTVoeU90UldYendRTDY5VEhTVVNWWEJiZTQ4NWpwZE9nR0tWeWZnQVpqZVUzNXFtbWdJbVhTS3c2NXlELUJ5cUk5VVZuVGFFSi1SZFR0ZlFjUnRLb1VrdHd1VkYyekJ1Zw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T04:41:03+00:00",
+      "published_raw": "Sun, 16 Aug 2026 04:41:03 GMT",
+      "snippet": "PM de SP recupera carga de medicamentos e produtos hospitalares avaliada em R$ 800 mil em Campinas - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T18:12:20.502227+00:00"
+    },
+    {
+      "id": "b8345fba1dd0b55317a437f17a51a336c2a3714f8d91bdb5b9c0363bbda29a59",
+      "title": "Grupo de Nanomedicina e Nanotoxicologia do IFSC/USP conquista primeiro lugar na categoria “Inovação - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYkxKRjB0VmpmbDFzWU9SemNOX1UtbGRGZTZWczBaYkp5S1ZtQm1SeFJKZi1mUkJnLXYtVzFwVzNoTWlrNV94SXBuUEF0RXUzNzVKd2ZDX3h4NHA2Mi1oLUsydVplMXNza21EX1ZrSEQ2U1poVk5tbFdmM3hieFptNVl3dUhsVGdnSWZaZU5PSWlSN2JsYnRpV3lCMmprVjQ2Wno5MGlRWnFHdnA5N19RYUVoUVJBRUJFbVpBRzBhR3V3ZmM0b0FVdVJLWDZfX0tGcVc4aG5kUXVVWlZRTmNQWkE4M19OaGp1LWlScmx30gHuAUFVX3lxTE1iTEpGMHRWamZsMXNZT1J6Y05fVS1sZEZlNlZzMFpiSnlLVm1CbVJ4UkpmLWZSQmctdi1XMXBXM2hNaWs1X3hJcG5QQXRFdTM3NUp3ZkNfeHg0cDYyLWgtSzJ1WmUxc3NrbURfVmtIRDZTWmhWTm1sV2YzeGJ4Wm01WXd1SGxUZ2dJZlplTk9JaVI3YmxidGlXeUIyamtWNDZaejkwaVFacUd2cDk3X1FhRWhRUkFFQkVtWkFHMGFHdXdmYzRvQVV1UktYNl9fS0ZxVzhobmRRdVVaVlFOY1BaQTgzX05oanUtaVJybHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T04:41:02+00:00",
+      "published_raw": "Sun, 16 Aug 2026 04:41:02 GMT",
+      "snippet": "Grupo de Nanomedicina e Nanotoxicologia do IFSC/USP conquista primeiro lugar na categoria “Inovação São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T18:12:20.502131+00:00"
+    },
+    {
+      "id": "55d8eb03d9bb029adddaefb1700e924c4d1b0f0394948eae8036bb5502df9388",
+      "title": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDdkWWlkd3JsUWFha2d4QjJMY3lNaGVjNGdWbHJXT290UEhYTnN5amprbzNOWkdQNHZxS1lHX0pDUmZoSFdXMGxrVzJvRks0ZXAtZEFxSmpqT0VhbG1CaWRjR0p0cDNLUEp3LTA4bDJqaDhSN3hiZ3pyaFJ6M1FyYjNtTVZJWVByTUxxWmM2b2JITWFlS1dDTVo5bENNX2tRSDhsNVFwcFdoVDNma1IzWG9yekt1RDYzTVNQSFlWaTRDODktUlM0ag?oc=5",
       "resolved_link": "",
       "published": "2026-08-16T04:28:59+00:00",
       "published_raw": "Sun, 16 Aug 2026 04:28:59 GMT",
-      "snippet": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) radiosanca.com.br",
+      "snippet": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:52.917527+00:00"
+      "collected_at": "2026-08-16T18:12:32.042677+00:00"
     },
     {
       "id": "753d7573ef760a8d78ecf3e4cd78c699893f9d49066ac482b37ea5fb3045740e",
@@ -145,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.995117+00:00"
-    },
-    {
-      "id": "10f169ba913fc9f67370a6358e3e2aa95f446cadb0b154c404bde882a794742e",
-      "title": "Obras na Washington Luís alteram tráfego em trevo de Cedral - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXByVFpENThRaV9UaUtKWmgxYVNvZTItTVJ6Y2ZkQ0dHZkxnb1JpdVlic1cxMDlpcmQ2dkNXYW9MenAtaE1Eby1TME02YzVvaHpFczFqeGJES0VuWU53REplSmxvOFNUTUZkTEhjOHM0c2w2Y0VGdHhERF9PMGhlSUk5OEZBQmJYZXNsVmZ6NThTTHd6anR5TV9BSFpySkg3U1U2MmlLWWZham11WmtjZFR2cGZWVVhn?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-16T02:05:04+00:00",
-      "published_raw": "Sun, 16 Aug 2026 02:05:04 GMT",
-      "snippet": "Obras na Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.995053+00:00"
+      "collected_at": "2026-08-16T18:12:20.496017+00:00"
     },
     {
       "id": "d711ccc180d99ee12512299b4ed20e77ddd7a93dd4b20199874a2d22f72f4b8c",
@@ -179,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.994675+00:00"
-    },
-    {
-      "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
-      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdJQWtKNlNnVzBZSXAzT2dETjBrMnBzT1dFeklHbjlOU2haMmtvN3lPMjJWalgzSXVXX0JVamtLYW5yQmN2d2xaOFhVTm05QTFlMkgwN09WWGoyXzk2OW9JS3dBVGF0MmYyY2trcFBGdTh3V2FMR0hKYVZ0alpady02cnY1cDZtTGU5N1duelF5MEo3SlRJYVcxbUtpQzMzZDdiX2ZxNVpPOWlWS3c?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-15T15:33:33+00:00",
-      "published_raw": "Sat, 15 Aug 2026 15:33:33 GMT",
-      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.994856+00:00"
-    },
-    {
-      "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
-      "title": "Motorista de carreta morre após grave acidente na Rodovia Washington Luís - Repórter Beto Ribeiro",
-      "source": "Repórter Beto Ribeiro",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOV8zR19Mek1zdG85dUgwd1NReHpMdERoSzBIMTBOQVM4dFRHZUdmTlF6d005MXNuVXVnNGRFZEtUZW1RU1ZyaEVvWjJzUFRRUjYtMmJEYVNoemcxZHBsbmRfZENUenFucVMzZHVIZldyOUNCTWxvQVBuT2lFQmFzWVFnSnNIUXh2YmlUVi1acFdrYWZDb2ZBMGpEbjZiV1Q0M3hFR25zM2ZRWW91aVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-15T15:32:44+00:00",
-      "published_raw": "Sat, 15 Aug 2026 15:32:44 GMT",
-      "snippet": "Motorista de carreta morre após grave acidente na Rodovia Washington Luís Repórter Beto Ribeiro",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-16T15:15:39.994921+00:00"
+      "collected_at": "2026-08-16T18:12:20.495722+00:00"
     }
   ]
 }
