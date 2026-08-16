@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-15T21:16:12.780431+00:00",
+  "updated_at": "2026-08-16T00:36:47.585610+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 14,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "bc3a6bb3cb5525eeedf0ba1bc3ed8af658587e497f5b39d2049f6d00fe7cb505",
-      "title": "Obras na da Washington Luís alteram tráfego em trevo de Cedral - Diário da Região",
+      "id": "6e5375e7bbf3fee7853844715d1032e74862906b8dc8eb35a79f4d19679fdafb",
+      "title": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís - Boca do Rio Magazine",
+      "source": "Boca do Rio Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXNyNzhsMUYtcUZEaVFhOE5ycXJrRk1LakZBWU53ZTRyeXJHcGdmY25OSF9wX2x4dzlqSnA1aDQ0RnBBM0EtaGxRdGh4Y3U5MnJxMGtFa2dEejVPODF6N01VNGEzMGRmNDh3Q0NxM0xmUlpFOTZjelhZdDFaTkV3TTVTSWgydTM5cUNqcVdhRDdzSnJYZU5NLUdvVmh0NnU1aE5JVEpIVW0?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T22:21:58+00:00",
+      "published_raw": "Sat, 15 Aug 2026 22:21:58 GMT",
+      "snippet": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís Boca do Rio Magazine",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T00:36:29.004037+00:00"
+    },
+    {
+      "id": "10f169ba913fc9f67370a6358e3e2aa95f446cadb0b154c404bde882a794742e",
+      "title": "Obras na Washington Luís alteram tráfego em trevo de Cedral - Diário da Região",
       "source": "Diário da Região",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1ROV1IwcEVXU3NyZlc3SjRLX3RFLVowTUloTDkxRlBELU5aVk96TkxoZmVwZzZZWHNrTGc4elBHN1YtSEgwT05paVRlWVh0eVQxSC16OUhYRzcwX2NDeFE5S0JrWDllNXhBLW9zZ1ZQSUk2a0txbkRTbWVjVlh5dGdhVnpNOWVWT1JRRTlCMTBCN2gzTDZmY2pNVkJ6bmVOT3ZWeFlIbnluM2JOcnVwaFJwbkIyWVphSWc?oc=5",
       "resolved_link": "",
-      "published": "2026-08-15T15:35:08+00:00",
-      "published_raw": "Sat, 15 Aug 2026 15:35:08 GMT",
-      "snippet": "Obras na da Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "published": "2026-08-15T15:35:36+00:00",
+      "published_raw": "Sat, 15 Aug 2026 15:35:36 GMT",
+      "snippet": "Obras na Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894500+00:00"
+      "collected_at": "2026-08-16T00:36:29.003716+00:00"
     },
     {
       "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
@@ -68,8 +85,8 @@
       "source": "Gazeta de Rio Preto",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdJQWtKNlNnVzBZSXAzT2dETjBrMnBzT1dFeklHbjlOU2haMmtvN3lPMjJWalgzSXVXX0JVamtLYW5yQmN2d2xaOFhVTm05QTFlMkgwN09WWGoyXzk2OW9JS3dBVGF0MmYyY2trcFBGdTh3V2FMR0hKYVZ0alpady02cnY1cDZtTGU5N1duelF5MEo3SlRJYVcxbUtpQzMzZDdiX2ZxNVpPOWlWS3c?oc=5",
       "resolved_link": "",
-      "published": "2026-08-15T15:34:20+00:00",
-      "published_raw": "Sat, 15 Aug 2026 15:34:20 GMT",
+      "published": "2026-08-15T15:33:33+00:00",
+      "published_raw": "Sat, 15 Aug 2026 15:33:33 GMT",
       "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto Gazeta de Rio Preto",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894424+00:00"
+      "collected_at": "2026-08-16T00:36:29.003628+00:00"
     },
     {
       "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894574+00:00"
+      "collected_at": "2026-08-16T00:36:29.003807+00:00"
     },
     {
       "id": "ae01ab82ac839f3db29e1d3c8c5da18fb3529c708d8a7ce93270fa99d916c5c8",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894335+00:00"
+      "collected_at": "2026-08-16T00:36:29.003560+00:00"
     },
     {
       "id": "b23402c42e8f7a90d0fd08c1fd8aeb16edf32bb4d60341a97d46f9ca61807bc5",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894240+00:00"
+      "collected_at": "2026-08-16T00:36:29.003482+00:00"
     },
     {
       "id": "ec124df2746510e7dd319a8eae54a5340d10ede5c55a74138199559d4d82bf63",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.567634+00:00"
+      "collected_at": "2026-08-16T00:36:42.463279+00:00"
     },
     {
       "id": "03bc9f9652ba061f2e14a64480b21c8fd127006a3a78d567ffb2cde7e0a04aab",
@@ -156,13 +173,13 @@
       "published": "2026-08-15T07:54:58+00:00",
       "published_raw": "Sat, 15 Aug 2026 07:54:58 GMT",
       "snippet": "Passeio São Carlos recebe exposição gratuita de orquídeas neste fim de semana Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.567547+00:00"
+      "collected_at": "2026-08-16T00:36:29.003872+00:00"
     },
     {
       "id": "ecb34f6ec61294f0367a4b5a39bf80f756225a4ef66373b0ecda848ad9137814",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.567864+00:00"
+      "collected_at": "2026-08-16T00:36:42.463404+00:00"
     },
     {
       "id": "2516bd55d8f28bb9fdd0e4de3c07b9ea3d56293b3a55441a6629b2a3abe1d5aa",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894927+00:00"
+      "collected_at": "2026-08-16T00:36:29.003983+00:00"
     },
     {
       "id": "cf1e15f4a1259fc1a1e69785d706738e3c74e1d59b540eb06e94b48c67de9f77",
@@ -207,13 +224,13 @@
       "published": "2026-08-15T06:14:25+00:00",
       "published_raw": "Sat, 15 Aug 2026 06:14:25 GMT",
       "snippet": "Casa do Trabalhador Itinerante estará presente na festa da Babilônia Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894646+00:00"
+      "collected_at": "2026-08-16T00:36:29.003929+00:00"
     },
     {
       "id": "bdef36beb6254a515d2e5c20ae061ca04811f8a94310d94830f692e84ba15108",
@@ -224,13 +241,13 @@
       "published": "2026-08-15T04:36:37+00:00",
       "published_raw": "Sat, 15 Aug 2026 04:36:37 GMT",
       "snippet": "Santa Casa debate novos desafios no atendimento a acidentes com animais peçonhentos Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.001777+00:00"
+      "collected_at": "2026-08-16T00:36:41.770851+00:00"
     },
     {
       "id": "74142af11b61388d8f52358c425c8f44a07765af1448ed06e9ba7f8d4df3f40e",
@@ -247,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.567971+00:00"
-    },
-    {
-      "id": "4dee8ba62a222e3a9c1a8158f5285472748e2d110d589365a7f8531d2f4cb180",
-      "title": "Propaganda eleitoral começa neste domingo (16); veja as novidades para as Eleições 2026 - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFZpOENueTRrYkZNMnBzVWFoV0ZmMjRRSWFZSGdXNWN4MG5yZTVUcFVUWHFJSFc5TFZfTFB4S0UzMS1lTF9PQ01KdGE4U2l4dFp5MEU4NlhlS3FFeW9xYjJVandoVmhtWEgybVIzZU9MLVZwYllQUTZ3ZEdoeHR2bnQ0ZWNnZnRPSnB1cmFJSzZQUlJ0SGRscWQ5TXZjdHFTQVZ2WTRsV2l0U2xDRkRmN3l5cHNjTGxHQ0k4bzR0Z3Vwam00LXBQX3Z3?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-15T03:16:05+00:00",
-      "published_raw": "Sat, 15 Aug 2026 03:16:05 GMT",
-      "snippet": "Propaganda eleitoral começa neste domingo (16); veja as novidades para as Eleições 2026 Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T21:16:08.568127+00:00"
+      "collected_at": "2026-08-16T00:36:42.463337+00:00"
     },
     {
       "id": "8f9a656a7e47a02c8cc0cc9f6f1eaa855ff32d47de45f152d508e2d2364f988a",
@@ -281,24 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-15T21:15:58.475610+00:00"
-    },
-    {
-      "id": "91d88d97788ad389b18d211e97fb2740f1a5404b23ed6526db90dd2ec06005a7",
-      "title": "Ciclista fica em estado gravíssimo após acidente na Washington Luís - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FaR1VmQW8tMXRsMjFUY0h6WkVhX0h3ZDlKRVBjOGZCOVloQVBvcXNhXzIwZWk5Q1JNUG92NWlENXpweWpMZ0pXMzhnT1BPMGZCVHczSkI1bGRpaUthTk9ETWNiV0dLVTlQS2ZJTjJtNm9SbG5OdGZ4TTEySUZCSVN0YUJvc29PUVhKN2h3NEtyd2ttTEkwekdTWFU3cGJ6SmM00gGjAUFVX3lxTE1zQVpHVWZBby0xdGwyMVRjSHpaRWFfSHdkOUpFUGM4ZkI5WWhBUG9xc2FfMjBlaTlDUk1Qb3Y1aUQ1enB5akxnSlczOGdPUE8wZkJUdzNKQjVsZGlpS2FOT0RNY2JXR0tVOVBLZklOMm02b1Jsbk50ZnhNMTJJRkJJU3RhQm9zb09RWEo3aHc0S3J3a21MSTB6R1NYVTdwYnpKYzQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-14T23:50:51+00:00",
-      "published_raw": "Fri, 14 Aug 2026 23:50:51 GMT",
-      "snippet": "Ciclista fica em estado gravíssimo após acidente na Washington Luís - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-15T21:15:56.894761+00:00"
+      "collected_at": "2026-08-16T00:36:31.015944+00:00"
     }
   ]
 }
