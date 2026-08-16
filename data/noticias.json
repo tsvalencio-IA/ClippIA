@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-16T06:20:36.838229+00:00",
+  "updated_at": "2026-08-16T06:31:37.196645+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 11,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-08-16T03:59:59+00:00",
       "published_raw": "Sun, 16 Aug 2026 03:59:59 GMT",
       "snippet": "Fesc abre inscrições para aulas gratuitas de Jiu-Jítsu - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:23.144452+00:00"
+      "collected_at": "2026-08-16T06:31:22.922285+00:00"
     },
     {
       "id": "367cd2420639e60b4c713a35af07d6f8f75b186eab06b1c0bf036c4298d2a0d7",
@@ -71,30 +71,30 @@
       "published": "2026-08-16T03:29:00+00:00",
       "published_raw": "Sun, 16 Aug 2026 03:29:00 GMT",
       "snippet": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606819+00:00"
+      "collected_at": "2026-08-16T06:31:22.922136+00:00"
     },
     {
-      "id": "f025076350261f31c372812161e5ed39c81e9283161fa076a9e01b4cf9f80feb",
-      "title": "Obras na Washington Luís alteram tráfego em trevo de Cedral - diariodaregiao.com.br",
-      "source": "diariodaregiao.com.br",
+      "id": "10f169ba913fc9f67370a6358e3e2aa95f446cadb0b154c404bde882a794742e",
+      "title": "Obras na Washington Luís alteram tráfego em trevo de Cedral - Diário da Região",
+      "source": "Diário da Região",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXByVFpENThRaV9UaUtKWmgxYVNvZTItTVJ6Y2ZkQ0dHZkxnb1JpdVlic1cxMDlpcmQ2dkNXYW9MenAtaE1Eby1TME02YzVvaHpFczFqeGJES0VuWU53REplSmxvOFNUTUZkTEhjOHM0c2w2Y0VGdHhERF9PMGhlSUk5OEZBQmJYZXNsVmZ6NThTTHd6anR5TV9BSFpySkg3U1U2MmlLWWZham11WmtjZFR2cGZWVVhn?oc=5",
       "resolved_link": "",
       "published": "2026-08-16T02:05:04+00:00",
       "published_raw": "Sun, 16 Aug 2026 02:05:04 GMT",
-      "snippet": "Obras na Washington Luís alteram tráfego em trevo de Cedral diariodaregiao.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
+      "snippet": "Obras na Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606963+00:00"
+      "collected_at": "2026-08-16T06:31:31.997963+00:00"
     },
     {
       "id": "d711ccc180d99ee12512299b4ed20e77ddd7a93dd4b20199874a2d22f72f4b8c",
@@ -111,41 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606579+00:00"
+      "collected_at": "2026-08-16T06:31:22.921853+00:00"
     },
     {
-      "id": "6e5375e7bbf3fee7853844715d1032e74862906b8dc8eb35a79f4d19679fdafb",
-      "title": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís - Boca do Rio Magazine",
-      "source": "Boca do Rio Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXNyNzhsMUYtcUZEaVFhOE5ycXJrRk1LakZBWU53ZTRyeXJHcGdmY25OSF9wX2x4dzlqSnA1aDQ0RnBBM0EtaGxRdGh4Y3U5MnJxMGtFa2dEejVPODF6N01VNGEzMGRmNDh3Q0NxM0xmUlpFOTZjelhZdDFaTkV3TTVTSWgydTM5cUNqcVdhRDdzSnJYZU5NLUdvVmh0NnU1aE5JVEpIVW0?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-15T22:21:58+00:00",
-      "published_raw": "Sat, 15 Aug 2026 22:21:58 GMT",
-      "snippet": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís Boca do Rio Magazine",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-16T06:20:23.144520+00:00"
-    },
-    {
-      "id": "b8401567eb9b6cf7333663a47082cc4c4bc88279bb96998e844e12162eb80e10",
-      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - gazetaderiopreto.com.br",
-      "source": "gazetaderiopreto.com.br",
+      "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
+      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdJQWtKNlNnVzBZSXAzT2dETjBrMnBzT1dFeklHbjlOU2haMmtvN3lPMjJWalgzSXVXX0JVamtLYW5yQmN2d2xaOFhVTm05QTFlMkgwN09WWGoyXzk2OW9JS3dBVGF0MmYyY2trcFBGdTh3V2FMR0hKYVZ0alpady02cnY1cDZtTGU5N1duelF5MEo3SlRJYVcxbUtpQzMzZDdiX2ZxNVpPOWlWS3c?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T15:33:33+00:00",
       "published_raw": "Sat, 15 Aug 2026 15:33:33 GMT",
-      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto gazetaderiopreto.com.br",
+      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto Gazeta de Rio Preto",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606733+00:00"
+      "collected_at": "2026-08-16T06:31:22.921938+00:00"
     },
     {
       "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606893+00:00"
+      "collected_at": "2026-08-16T06:31:22.922210+00:00"
     },
     {
       "id": "ae01ab82ac839f3db29e1d3c8c5da18fb3529c708d8a7ce93270fa99d916c5c8",
@@ -179,24 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606658+00:00"
+      "collected_at": "2026-08-16T06:31:22.922049+00:00"
     },
     {
-      "id": "b23402c42e8f7a90d0fd08c1fd8aeb16edf32bb4d60341a97d46f9ca61807bc5",
-      "title": "Washington Luís (SP-310) terá interdições localizadas até 10 de setembro, em Cedral - Estradas",
-      "source": "Estradas",
+      "id": "681ef2f530e13af4a23134eaa54d132650f35cdf47740c155960bc91f742670e",
+      "title": "Washington Luís (SP-310) terá interdições localizadas até 10 de setembro, em Cedral - estradas.com.br",
+      "source": "estradas.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFhTNWREMTRDanQwOGJwRkxoaTZRUW9TZ1lXTnN3R0YybERmY1A3R2p0dXd1YWlBMGZ6QnVFWHlDVktBTzhEQy1Ea2tYMEI4VWYwd3lLamJPNGh2Z2RXeWViMkVkYldEUHNpS21jWFVCTWUyUXZHYUd2ZjFKem02UXdORmdRT1ZmdEJOSVJjZnVOdW9vR0RfTTV2bGR1MnM2dEdSN2ZCdDc?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T13:33:36+00:00",
       "published_raw": "Sat, 15 Aug 2026 13:33:36 GMT",
-      "snippet": "Washington Luís (SP-310) terá interdições localizadas até 10 de setembro, em Cedral Estradas",
+      "snippet": "Washington Luís (SP-310) terá interdições localizadas até 10 de setembro, em Cedral estradas.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:21.606479+00:00"
+      "collected_at": "2026-08-16T06:31:22.921755+00:00"
     },
     {
       "id": "ec124df2746510e7dd319a8eae54a5340d10ede5c55a74138199559d4d82bf63",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:32.895644+00:00"
+      "collected_at": "2026-08-16T06:31:33.500149+00:00"
     },
     {
       "id": "03bc9f9652ba061f2e14a64480b21c8fd127006a3a78d567ffb2cde7e0a04aab",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:32.895574+00:00"
+      "collected_at": "2026-08-16T06:31:33.500081+00:00"
     },
     {
       "id": "ecb34f6ec61294f0367a4b5a39bf80f756225a4ef66373b0ecda848ad9137814",
@@ -247,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T06:20:32.895723+00:00"
-    },
-    {
-      "id": "2516bd55d8f28bb9fdd0e4de3c07b9ea3d56293b3a55441a6629b2a3abe1d5aa",
-      "title": "Fesc abre inscrições para curso gratuito de Aromaterapia - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFlmSFdsUXE1ZWZRb0JsZWdNeUlqRmlFWS1rb0lRUm9QeFdtNGl0SFQwVjBFREloOThDSFRsZHdoRE42aEhpQ0xtUWJkbDVWTm9PODJuUmFUNnI5WGFJNXJtQkVrcjdYa0lQTjUxTlNyVmZEUF9QeTBPM1NueVBFV090VG1PRU44TWoxal9Rc2ZKNjR5T0FiSWJVdnRsWnZRZmIxT2Exb1Zhc280OXlabktHRQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-15T06:22:55+00:00",
-      "published_raw": "Sat, 15 Aug 2026 06:22:55 GMT",
-      "snippet": "Fesc abre inscrições para curso gratuito de Aromaterapia Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-16T06:20:32.895791+00:00"
+      "collected_at": "2026-08-16T06:31:33.500226+00:00"
     }
   ]
 }
