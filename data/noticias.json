@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-16T03:38:21.243223+00:00",
+  "updated_at": "2026-08-16T03:43:04.617415+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 14,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893705+00:00"
+      "collected_at": "2026-08-16T03:42:48.876742+00:00"
     },
     {
-      "id": "802daa92b99bf73a0dd5f33bfdad447e47334fa962bac603c914ac4dc4b603e8",
-      "title": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís - bocadoriomagazine.com.br",
-      "source": "bocadoriomagazine.com.br",
+      "id": "6e5375e7bbf3fee7853844715d1032e74862906b8dc8eb35a79f4d19679fdafb",
+      "title": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís - Boca do Rio Magazine",
+      "source": "Boca do Rio Magazine",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXNyNzhsMUYtcUZEaVFhOE5ycXJrRk1LakZBWU53ZTRyeXJHcGdmY25OSF9wX2x4dzlqSnA1aDQ0RnBBM0EtaGxRdGh4Y3U5MnJxMGtFa2dEejVPODF6N01VNGEzMGRmNDh3Q0NxM0xmUlpFOTZjelhZdDFaTkV3TTVTSWgydTM5cUNqcVdhRDdzSnJYZU5NLUdvVmh0NnU1aE5JVEpIVW0?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T22:21:58+00:00",
       "published_raw": "Sat, 15 Aug 2026 22:21:58 GMT",
-      "snippet": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís bocadoriomagazine.com.br",
+      "snippet": "Motorista de carreta morre em grave acidente na Rodovia Washington Luís Boca do Rio Magazine",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.894121+00:00"
+      "collected_at": "2026-08-16T03:42:48.877225+00:00"
     },
     {
       "id": "10f169ba913fc9f67370a6358e3e2aa95f446cadb0b154c404bde882a794742e",
@@ -94,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893920+00:00"
+      "collected_at": "2026-08-16T03:42:48.876960+00:00"
     },
     {
-      "id": "b8401567eb9b6cf7333663a47082cc4c4bc88279bb96998e844e12162eb80e10",
-      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - gazetaderiopreto.com.br",
-      "source": "gazetaderiopreto.com.br",
+      "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
+      "title": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGdJQWtKNlNnVzBZSXAzT2dETjBrMnBzT1dFeklHbjlOU2haMmtvN3lPMjJWalgzSXVXX0JVamtLYW5yQmN2d2xaOFhVTm05QTFlMkgwN09WWGoyXzk2OW9JS3dBVGF0MmYyY2trcFBGdTh3V2FMR0hKYVZ0alpady02cnY1cDZtTGU5N1duelF5MEo3SlRJYVcxbUtpQzMzZDdiX2ZxNVpPOWlWS3c?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T15:33:33+00:00",
       "published_raw": "Sat, 15 Aug 2026 15:33:33 GMT",
-      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto gazetaderiopreto.com.br",
+      "snippet": "Ponte do Córrego dos Macacos terá interdições durante obras em Rio Preto Gazeta de Rio Preto",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893852+00:00"
+      "collected_at": "2026-08-16T03:42:48.876893+00:00"
     },
     {
       "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
@@ -128,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893988+00:00"
+      "collected_at": "2026-08-16T03:42:48.877027+00:00"
     },
     {
-      "id": "ae01ab82ac839f3db29e1d3c8c5da18fb3529c708d8a7ce93270fa99d916c5c8",
-      "title": "Motorista de carreta morre após grave acidente em rodovia no interior de SP - G1",
-      "source": "G1",
+      "id": "e14523a857a011e2869eb8fdd5e50e87e315f781250dbb401977dcc3daa17693",
+      "title": "Motorista de carreta morre após grave acidente em rodovia no interior de SP - g1.globo.com",
+      "source": "g1.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZTJSMkQxVmtwTWo4eXA3cFZRTzVtdWVkUHdNZzFiLUgxVTU3TE8xdmkyZEs4ZVJvN25SS0ZkbFBzVHJPaDMwRXJRQ0xVUFFEbS1xeHNpa0R2V2NtMTlydktaRlFFeHhHOXVfQTFUc1ZxOTVMTDRZa2Fvb2Vyak04WFZsWnpVbVluT2lIRklPMXI1ZWlBQTRBeUlFeDAwUHVBeWt3cWlNTkt4OU5mVXRCV3BIeXJYTzR6ZXNhQnVJUUMtSXZEbmJQem02ZF9oMU5PQ29YNFpjbC1JYW4wU1VPTVZOY0xTM2Jz0gHoAUFVX3lxTE9lMlIyRDFWa3BNajh5cDdwVlFPNW11ZWRQd01nMWItSDFVNTdMTzF2aTJkSzhlUm83blJLRmRsUHNUck9oMzBFclFDTFVQUURtLXF4c2lrRHZXY20xOXJ2S1pGUUV4eEc5dV9BMVRzVnE5NUxMNFlrYW9vZXJqTThYVmxaelVtWW5PaUhGSU8xcjVlaUFBNEF5SUV4MDBQdUF5a3dxaU1OS3g5TmZVdEJXcEh5clhPNHplc2FCdUlRQy1JdkRuYlB6bTZkX2gxTk9Db1g0WmNsLUlhbjBTVU9NVk5jTFMzYnM?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T14:20:20+00:00",
       "published_raw": "Sat, 15 Aug 2026 14:20:20 GMT",
-      "snippet": "Motorista de carreta morre após grave acidente em rodovia no interior de SP G1",
+      "snippet": "Motorista de carreta morre após grave acidente em rodovia no interior de SP g1.globo.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893780+00:00"
+      "collected_at": "2026-08-16T03:42:48.876818+00:00"
     },
     {
       "id": "b23402c42e8f7a90d0fd08c1fd8aeb16edf32bb4d60341a97d46f9ca61807bc5",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.893609+00:00"
+      "collected_at": "2026-08-16T03:42:48.876642+00:00"
     },
     {
       "id": "ec124df2746510e7dd319a8eae54a5340d10ede5c55a74138199559d4d82bf63",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:17.215956+00:00"
+      "collected_at": "2026-08-16T03:43:00.529856+00:00"
     },
     {
       "id": "03bc9f9652ba061f2e14a64480b21c8fd127006a3a78d567ffb2cde7e0a04aab",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:17.215873+00:00"
+      "collected_at": "2026-08-16T03:43:00.529787+00:00"
     },
     {
       "id": "ecb34f6ec61294f0367a4b5a39bf80f756225a4ef66373b0ecda848ad9137814",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:17.216104+00:00"
+      "collected_at": "2026-08-16T03:43:00.529995+00:00"
     },
     {
       "id": "2516bd55d8f28bb9fdd0e4de3c07b9ea3d56293b3a55441a6629b2a3abe1d5aa",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:05.894056+00:00"
+      "collected_at": "2026-08-16T03:42:48.877160+00:00"
     },
     {
       "id": "cf1e15f4a1259fc1a1e69785d706738e3c74e1d59b540eb06e94b48c67de9f77",
@@ -241,13 +241,13 @@
       "published": "2026-08-15T06:14:25+00:00",
       "published_raw": "Sat, 15 Aug 2026 06:14:25 GMT",
       "snippet": "Casa do Trabalhador Itinerante estará presente na festa da Babilônia Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:17.216024+00:00"
+      "collected_at": "2026-08-16T03:42:48.877095+00:00"
     },
     {
       "id": "bdef36beb6254a515d2e5c20ae061ca04811f8a94310d94830f692e84ba15108",
@@ -264,7 +264,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T03:38:16.662136+00:00"
+      "collected_at": "2026-08-16T03:42:59.947271+00:00"
+    },
+    {
+      "id": "74142af11b61388d8f52358c425c8f44a07765af1448ed06e9ba7f8d4df3f40e",
+      "title": "INSS: Aposentadoria especial pode ser garantida a partir dos 58 anos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3pxZlZwaE5CeWtWMk9xUVRhNlczWHhycjVOVGZlcFZBOEh3Q05kZEkwbzAybnROV2pJTFdEUWd3X1JNQmdId29QR09Rc2ZSY1BVTTR5TlFZbkd5aHh0Q3dSNXZhRS1WS29hWWg4UklVZEI4MHZFQ1ZxcUVkcGp1Q1hQT281Y3IxR3JOaEtIa1diWU56VGVqTkRMMmk2dXV2X2szQl9EMm45UHgtT3pTLTRaMA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-15T03:56:15+00:00",
+      "published_raw": "Sat, 15 Aug 2026 03:56:15 GMT",
+      "snippet": "INSS: Aposentadoria especial pode ser garantida a partir dos 58 anos Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T03:43:00.530061+00:00"
     }
   ]
 }
