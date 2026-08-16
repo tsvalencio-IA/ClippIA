@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-16T09:21:57.430136+00:00",
+  "updated_at": "2026-08-16T12:16:13.967944+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "88f8b412a59a4b21e5802bf39c9c7c9f42daf91c99dffdccd3484280d1c5717f",
+      "title": "Grave acidente na Rodovia Washington Luís mata motorista e fere outro - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtiN1lwd3I4MWNrclF6VTRKRzhESzF2NXpUcXNHdktLWkc3eVozV3QySGlTcGpVbUhEVkVYb2d6UEE5clFROU1OVVRXM3VpTWNTUi1EQjFhaWdveGo3LXRORUN6VTBCYnZfX05yVGpOUHh4MmV4QVk1OGJFb1g4Y3RyVVYxZU9wcDRqckZmTVA2WmdSeXNPczdzZTdVUEVlV1RaR1lwNlBWdWp3SHZMNg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T11:25:00+00:00",
+      "published_raw": "Sun, 16 Aug 2026 11:25:00 GMT",
+      "snippet": "Grave acidente na Rodovia Washington Luís mata motorista e fere outro Araraquara News",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-16T12:15:59.033494+00:00"
+    },
+    {
       "id": "55d8eb03d9bb029adddaefb1700e924c4d1b0f0394948eae8036bb5502df9388",
       "title": "Interdição total do viaduto do Jardim Jockey Club começa na segunda-feira (17/08) - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:53.459669+00:00"
+      "collected_at": "2026-08-16T12:16:09.804073+00:00"
     },
     {
       "id": "753d7573ef760a8d78ecf3e4cd78c699893f9d49066ac482b37ea5fb3045740e",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.213232+00:00"
+      "collected_at": "2026-08-16T12:15:57.266408+00:00"
     },
     {
       "id": "367cd2420639e60b4c713a35af07d6f8f75b186eab06b1c0bf036c4298d2a0d7",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.213086+00:00"
+      "collected_at": "2026-08-16T12:15:57.266212+00:00"
     },
     {
       "id": "10f169ba913fc9f67370a6358e3e2aa95f446cadb0b154c404bde882a794742e",
@@ -105,13 +122,13 @@
       "published": "2026-08-16T02:05:04+00:00",
       "published_raw": "Sun, 16 Aug 2026 02:05:04 GMT",
       "snippet": "Obras na Washington Luís alteram tráfego em trevo de Cedral Diário da Região",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:51.844301+00:00"
+      "collected_at": "2026-08-16T12:16:08.143185+00:00"
     },
     {
       "id": "d711ccc180d99ee12512299b4ed20e77ddd7a93dd4b20199874a2d22f72f4b8c",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.212852+00:00"
+      "collected_at": "2026-08-16T12:15:57.265925+00:00"
     },
     {
       "id": "c87c9736815e9d2ceb5887d00a45057f33d6b747df3684e7cf5f7fe4960392b8",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.213004+00:00"
+      "collected_at": "2026-08-16T12:15:57.266113+00:00"
     },
     {
       "id": "2eaf680d335fa3053c407cf960f834edc263f4ca70c50a75d22af76f9bff20f6",
@@ -162,24 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.213156+00:00"
+      "collected_at": "2026-08-16T12:15:57.266296+00:00"
     },
     {
-      "id": "e14523a857a011e2869eb8fdd5e50e87e315f781250dbb401977dcc3daa17693",
-      "title": "Motorista de carreta morre após grave acidente em rodovia no interior de SP - g1.globo.com",
-      "source": "g1.globo.com",
+      "id": "ae01ab82ac839f3db29e1d3c8c5da18fb3529c708d8a7ce93270fa99d916c5c8",
+      "title": "Motorista de carreta morre após grave acidente em rodovia no interior de SP - G1",
+      "source": "G1",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZTJSMkQxVmtwTWo4eXA3cFZRTzVtdWVkUHdNZzFiLUgxVTU3TE8xdmkyZEs4ZVJvN25SS0ZkbFBzVHJPaDMwRXJRQ0xVUFFEbS1xeHNpa0R2V2NtMTlydktaRlFFeHhHOXVfQTFUc1ZxOTVMTDRZa2Fvb2Vyak04WFZsWnpVbVluT2lIRklPMXI1ZWlBQTRBeUlFeDAwUHVBeWt3cWlNTkt4OU5mVXRCV3BIeXJYTzR6ZXNhQnVJUUMtSXZEbmJQem02ZF9oMU5PQ29YNFpjbC1JYW4wU1VPTVZOY0xTM2Jz0gHoAUFVX3lxTE9lMlIyRDFWa3BNajh5cDdwVlFPNW11ZWRQd01nMWItSDFVNTdMTzF2aTJkSzhlUm83blJLRmRsUHNUck9oMzBFclFDTFVQUURtLXF4c2lrRHZXY20xOXJ2S1pGUUV4eEc5dV9BMVRzVnE5NUxMNFlrYW9vZXJqTThYVmxaelVtWW5PaUhGSU8xcjVlaUFBNEF5SUV4MDBQdUF5a3dxaU1OS3g5TmZVdEJXcEh5clhPNHplc2FCdUlRQy1JdkRuYlB6bTZkX2gxTk9Db1g0WmNsLUlhbjBTVU9NVk5jTFMzYnM?oc=5",
       "resolved_link": "",
       "published": "2026-08-15T14:20:20+00:00",
       "published_raw": "Sat, 15 Aug 2026 14:20:20 GMT",
-      "snippet": "Motorista de carreta morre após grave acidente em rodovia no interior de SP g1.globo.com",
+      "snippet": "Motorista de carreta morre após grave acidente em rodovia no interior de SP G1",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.212929+00:00"
+      "collected_at": "2026-08-16T12:15:57.266022+00:00"
     },
     {
       "id": "b23402c42e8f7a90d0fd08c1fd8aeb16edf32bb4d60341a97d46f9ca61807bc5",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-16T09:21:42.212755+00:00"
+      "collected_at": "2026-08-16T12:15:57.265805+00:00"
     }
   ]
 }
