@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-17T12:33:49.718013+00:00",
+  "updated_at": "2026-08-17T15:14:54.850760+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T12:33:32.181390+00:00"
+      "collected_at": "2026-08-17T15:14:37.064294+00:00"
     },
     {
       "id": "c8c1471ae827905c03c6686a15e804b5fde64a6d56a4cddf8a137ab343fae7f7",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T12:33:32.181179+00:00"
+      "collected_at": "2026-08-17T15:14:37.064197+00:00"
     },
     {
       "id": "ec520071572180f4c0f195d639d4b1dac3a4977e6bfa2b77cf464702288ccd60",
@@ -85,8 +85,8 @@
       "source": "Diário do Transporte",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWGRqSXUzM2tfUlozdW1UZS1DZHIzSVIzMGthOExfTGlSZGNveHIxdTl0VUZuemFUSXFERVZFRFJCZ1hQSlJvWUZ1dkRLVjdPU0dhSnVsMDRJbW1HSHBSSTFLcENVOVRqX2FzNmJXTmo5WV9scUFEMHdVYmRwM2JOVWZNSGJFMTFSMXdaOWFPdjgxM284dTRrZ0pJTTc2QnBrbnpUZDJ6ampZQW1wNG1HTXJ6aXZOTElZWGRMZmw5MVNZVE5XQ2R1NUFhVWVBai14bGdvVGFRVUwwLUtYVHpjWkQwZGRwY3o2amFvRnJwZ2lieW1OaC1rcG5iRjdKUEht0gGGAkFVX3lxTE1UMGc2ZTBFVzVhOEpZWF83Q2VQYk9qOEY4UFktbjc2TTZnOWpwY19JVUs4elJtODBESXBhZHJFbVhSUlBSLWJEUlVYcDMyU19PWjNtNUxZUWE0VExQMTQwZS01dU1WZG53Q1Fob2ZHMjlNM3JoMGpnMTlvLUxZQ1lNVllQWEM1aUwxQVgzLXpFeDVVakgxTVlsTmpiaXVZWGV0c3M4b0g2bGxkVWZEZ3d6dy1wYUFIUnRDckFmNEZYLTlaWlRMNUdKTmhOcGhFMkZyN3g4YjJDcGxhNEJFWU1kbEx2alFzNjNRR1dNZkpUejdJUVEwWnlVN2M3WjZZVFpRX2ZGemc?oc=5",
       "resolved_link": "",
-      "published": "2026-08-17T02:03:45+00:00",
-      "published_raw": "Mon, 17 Aug 2026 02:03:45 GMT",
+      "published": "2026-08-17T02:07:51+00:00",
+      "published_raw": "Mon, 17 Aug 2026 02:07:51 GMT",
       "snippet": "Ecovias Noroeste Paulista realiza ação educativa para motociclistas, pedestres e ciclistas em São Carlos (SP) na quarta-feira (19) Diário do Transporte",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -94,41 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T12:33:32.181022+00:00"
+      "collected_at": "2026-08-17T15:14:37.064050+00:00"
     },
     {
-      "id": "5bf26e80e00aa7653d3e709ef7a65538c2e20a7114102827f79e7bca8bd3edc4",
-      "title": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "275a124ba946a0462340c61400a2ec8f44fafc5f791ff3e1bad5d120a6c0d50a",
+      "title": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3JHYXVmUS1QN0F4TXFxNnpmanRKWkwxZzZ6ZU4tMzdFTlU2TkdtaXlFUl9vNGkydy1VVHhjbGtqcDczb1RBb0Z3TlRUNzJRRjhNQ05aY2hCdTI3LVRmdTdNcU5oRWFoSUVxNXVqdmFTc1BwT0pJWFNBeUZPMURFZmZPUlNYZXZudHZDbHg3emRiMldsNkhuN2F4MkxQa2hP?oc=5",
       "resolved_link": "",
       "published": "2026-08-16T16:16:20+00:00",
       "published_raw": "Sun, 16 Aug 2026 16:16:20 GMT",
-      "snippet": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto Mobilidade Sampa",
+      "snippet": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto mobilidadesampa.com.br",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T12:33:33.935784+00:00"
-    },
-    {
-      "id": "7652cdeabd9ff624174554f99a15287ee7f6235df75b9df6d3319cff564778b1",
-      "title": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmJTUGVnR3ZzZHhSWXBfZGdiR3gwNzFTX3dKcmZFdFdqT3hqUk9hdlRLUUZWQ0FhNGpnZ3JUdWdkRlZaNnJtNGRQRHFxaUxLSjZmSkhpVW9xdnp6SjI3by1Qc1pmdmhwbnUwNHhMalZERkc1YmVFUjQ0U3lwRHRxVUNna2NsTHludmFtVUp3aFNWN2JKcURtMGY5d20xRTA4cTFUcTEyTWhLNFFQNC0xSWt1MHpNUldRbWVxMFh3NXViLS1ySU9SdmxaYjRYM2xRS2YyVk4wbnR2bE1tOXc40gHfAUFVX3lxTE9uYlNQZWdHdnNkeFJZcF9kZ2JHeDA3MVNfd0pyZkV0V2pPeGpST2F2VEtRRlZDQWE0amdnclR1Z2RGVlo2cm00ZFBEcXFpTEtKNmZKSGlVb3F2enpKMjdvLVBzWmZ2aHBudTA0eExqVkRGRzViZUVSNDRTeXBEdHFVQ2drY2xMeW52YW1VSndoU1Y3YkpxRG0wZjl3bTFFMDhxMVRxMTJNaEs0UVA0LTFJa3Uwek1SV1FtZXEwWHc1dWItLXJJT1J2bFpiNFgzbFFLZjJWTjBudHZsTW05dzg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-16T14:00:00+00:00",
-      "published_raw": "Sun, 16 Aug 2026 14:00:00 GMT",
-      "snippet": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-17T12:33:32.181299+00:00"
+      "collected_at": "2026-08-17T15:14:38.843452+00:00"
     }
   ]
 }
