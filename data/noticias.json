@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-17T15:20:05.932693+00:00",
+  "updated_at": "2026-08-17T18:21:01.810316+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "546661803d0df50d81bf141b8a7d67cfd4860c52a8089c6e046b0f29afd38c2d",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 17/8 a 23/8/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnJnS1RaZ0R1Rlc4UmMxQ1hNN3JFVjFuRUxEVmZsYnJrOWh4MzZYNDFfM0tCVWwzUW9ORWl4MDBCTlM3YnBPbVJrNGJYR3pBX08weFdIMFhUOG56a2V1bVpwcXM0R09fei1fZmNzaU91cEFBOGVLbUNVU2dDVU41RjB6SlZQd0hNQTZvMUoxaGg3SUpjU1M4WlJjUjZXZDBWZ25DM01NS2lzRjVYNzNGQ0pBNnJwQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T16:52:19+00:00",
+      "published_raw": "Mon, 17 Aug 2026 16:52:19 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 17/8 a 23/8/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T18:20:45.718336+00:00"
+    },
+    {
+      "id": "c9600e3df7a20ba5d02d20c7dde9860a4bd1a8acf11009d1afc1e80cd5544085",
+      "title": "EcoRodovias aprova emissão de debêntures no total de R$ 1 bilhão - Investidor10",
+      "source": "Investidor10",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0RhR1VNMHRnbVphVm1kMzE1ZUtTcGh5YVBDM3pWTzJtbnA4bUhwdjd6ZWJibGhrMFVEMWVUMk9CdTFhTlhXandjRVl5ZEotYU14Z0J0RVZsc3BKZ3p3S0hWMGYtUHpubzFpTlpNMDVvMlRxZXZaZjNqQ2pXRkdTTHJMRmI1b25PUkphaU5mN3hkU0tOV0NZczF0QVFlQ0FrVmVNWmR4ZWgzVm1KaXA1aUtR0gGyAUFVX3lxTFBzRGFHVU0wdGdtWmFWbWQzMTVlS1NwaHlhUEMzelZPMm1ucDhtSHB2N3plYmJsaGswVUQxZVQyT0J1MWFOWFdqd2NFWXlkSi1hTXhnQnRFVmxzcEpnendLSFYwZi1Qem5vMWlOWk0wNW8yVHFldlpmM2pDaldGR1NMckxGYjVvbk9SSmFpTmY3eGRTS05XQ1lzMXRBUWVDQWtWZU1aZHhlaDNWbUppcDVpS1E?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T15:02:09+00:00",
+      "published_raw": "Mon, 17 Aug 2026 15:02:09 GMT",
+      "snippet": "EcoRodovias aprova emissão de debêntures no total de R$ 1 bilhão Investidor10",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T18:20:45.718584+00:00"
+    },
+    {
       "id": "bdf91570f9d3a94f3c6212de9c16a6cee41eb417d420b3524311ae16dfee9349",
       "title": "Ecovias, Brasilux e Paraty têm novas vagas em Araraquara e Matão; confira requisitos - Araraquara Agora",
       "source": "Araraquara Agora",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T15:19:49.852423+00:00"
+      "collected_at": "2026-08-17T18:20:45.718763+00:00"
     },
     {
       "id": "8dac24d2a5bff71b071819e5d5518dce8fc3ba2e09c2b13205af70420fc02273",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T15:19:49.852499+00:00"
+      "collected_at": "2026-08-17T18:20:45.718836+00:00"
     },
     {
       "id": "c8c1471ae827905c03c6686a15e804b5fde64a6d56a4cddf8a137ab343fae7f7",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T15:19:49.852340+00:00"
+      "collected_at": "2026-08-17T18:20:45.718684+00:00"
     },
     {
       "id": "ec520071572180f4c0f195d639d4b1dac3a4977e6bfa2b77cf464702288ccd60",
@@ -111,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T15:19:49.852238+00:00"
-    },
-    {
-      "id": "5bf26e80e00aa7653d3e709ef7a65538c2e20a7114102827f79e7bca8bd3edc4",
-      "title": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3JHYXVmUS1QN0F4TXFxNnpmanRKWkwxZzZ6ZU4tMzdFTlU2TkdtaXlFUl9vNGkydy1VVHhjbGtqcDczb1RBb0Z3TlRUNzJRRjhNQ05aY2hCdTI3LVRmdTdNcU5oRWFoSUVxNXVqdmFTc1BwT0pJWFNBeUZPMURFZmZPUlNYZXZudHZDbHg3emRiMldsNkhuN2F4MkxQa2hP?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-16T16:16:20+00:00",
-      "published_raw": "Sun, 16 Aug 2026 16:16:20 GMT",
-      "snippet": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-17T15:19:51.513486+00:00"
+      "collected_at": "2026-08-17T18:20:45.718482+00:00"
     }
   ]
 }
