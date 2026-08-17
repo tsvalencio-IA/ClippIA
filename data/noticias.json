@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-17T06:30:48.569565+00:00",
+  "updated_at": "2026-08-17T06:43:14.843055+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "dcb356e23b417a3f39664a84e759817af5cb45bf32bcd87e8e80a8837bbf3faf",
-      "title": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias - jornalpp.com.br",
-      "source": "jornalpp.com.br",
+      "id": "c8c1471ae827905c03c6686a15e804b5fde64a6d56a4cddf8a137ab343fae7f7",
+      "title": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXFJNDE4LUVkSUVNUU9XNnpaVFJpRVhrUFVEM3Vid3dLaWVTWnJCcTd1Tkp5dVZzRzZmN09iV0FoMmQ4SnByd3BVdGRYX1BZamdtQ09UV051U1I5ZGhpTURFWDR2R1h2VFJmQ2dnWjNqMXhVOTgxSE41dnI4RTA5WnhHQ0hUbzVTV1ltNzRNQjN6QTRyRzdKNjlseTFwUzBuMGhUNE1lbk9LaFZ4TWV3?oc=5",
       "resolved_link": "",
       "published": "2026-08-17T03:20:56+00:00",
       "published_raw": "Mon, 17 Aug 2026 03:20:56 GMT",
-      "snippet": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias jornalpp.com.br",
+      "snippet": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias Jornal Primeira Página",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:31.565537+00:00"
+      "collected_at": "2026-08-17T06:42:59.227813+00:00"
     },
     {
       "id": "ec520071572180f4c0f195d639d4b1dac3a4977e6bfa2b77cf464702288ccd60",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:31.565453+00:00"
+      "collected_at": "2026-08-17T06:42:59.227714+00:00"
     },
     {
       "id": "5bf26e80e00aa7653d3e709ef7a65538c2e20a7114102827f79e7bca8bd3edc4",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:33.271532+00:00"
+      "collected_at": "2026-08-17T06:43:00.894699+00:00"
     },
     {
       "id": "7652cdeabd9ff624174554f99a15287ee7f6235df75b9df6d3319cff564778b1",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:31.565616+00:00"
+      "collected_at": "2026-08-17T06:42:59.227903+00:00"
     },
     {
       "id": "88f8b412a59a4b21e5802bf39c9c7c9f42daf91c99dffdccd3484280d1c5717f",
@@ -128,41 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:33.271267+00:00"
+      "collected_at": "2026-08-17T06:43:00.894342+00:00"
     },
     {
       "id": "11a72be5a9cac15dc5312faf61a45c7bf783dbe4df3c26af9dee33ec84cb6045",
       "title": "Capotamento deixa vítima fatal na Washington Luís - São Carlos Agora",
       "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TNIBpAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1RHVUdqXzlfRDJxQjJWWURSV3VtWjM4TDhRemV1YTRnVGZOa2lRYXBsclprV2Vxc09vY3BoTGpSRXVGZllzeVhfd1hUeThHY25VelA1ZEQ5cmtfNjRJaVhHenhsWDJ2UHQ4Rkl2NHJocEEzQ3VVVU1jSGJzRm0ySnhVZVRwaTdoc3p6eDY2REdRSmY1dFhUX2E2Mm5iY03SAaQBQVVfeXFMTnNydkZkZXVxUlJEN1RYcXdFdXlab04zM2FBbExiQkdFVXE1VUtaZTQwbmUtY0pDc3R4cGZWTzVPRlhXQUxwVXhNUUtSbDlQa0RhTzVZaGR2NUxUaXBvcGJtVG5MUGlzVTN4UzVsRzRTY2FjbnYwODM5eVphSVNTTXpyNGZ4dWtRTmFSMGdYTzRrc01iUm16MUhDVDB4NzlwU1lmdkw?oc=5",
       "resolved_link": "",
-      "published": "2026-08-16T10:59:35+00:00",
-      "published_raw": "Sun, 16 Aug 2026 10:59:35 GMT",
+      "published": "2026-08-16T10:36:00+00:00",
+      "published_raw": "Sun, 16 Aug 2026 10:36:00 GMT",
       "snippet": "Capotamento deixa vítima fatal na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T06:30:33.271466+00:00"
-    },
-    {
-      "id": "8e2d9ef23df83d51d3dd9be43706dd00579ae2c48ca8cda79db1a8cc4d8a6789",
-      "title": "Capotamento deixa vítima fatal na Washington Luís - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TNIBpAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TA?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-16T10:59:35+00:00",
-      "published_raw": "Sun, 16 Aug 2026 10:59:35 GMT",
-      "snippet": "Capotamento deixa vítima fatal na Washington Luís saocarlosagora.com.br",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-17T06:30:43.572989+00:00"
+      "collected_at": "2026-08-17T06:43:00.894624+00:00"
     }
   ]
 }
