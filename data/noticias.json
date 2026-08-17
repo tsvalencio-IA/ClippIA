@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-08-17T03:48:26.847550+00:00",
+  "updated_at": "2026-08-17T06:30:48.569565+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 7,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 7,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,125 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "dcb356e23b417a3f39664a84e759817af5cb45bf32bcd87e8e80a8837bbf3faf",
+      "title": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias - jornalpp.com.br",
+      "source": "jornalpp.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXFJNDE4LUVkSUVNUU9XNnpaVFJpRVhrUFVEM3Vid3dLaWVTWnJCcTd1Tkp5dVZzRzZmN09iV0FoMmQ4SnByd3BVdGRYX1BZamdtQ09UV051U1I5ZGhpTURFWDR2R1h2VFJmQ2dnWjNqMXhVOTgxSE41dnI4RTA5WnhHQ0hUbzVTV1ltNzRNQjN6QTRyRzdKNjlseTFwUzBuMGhUNE1lbk9LaFZ4TWV3?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T03:20:56+00:00",
+      "published_raw": "Mon, 17 Aug 2026 03:20:56 GMT",
+      "snippet": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias jornalpp.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:31.565537+00:00"
+    },
+    {
+      "id": "ec520071572180f4c0f195d639d4b1dac3a4977e6bfa2b77cf464702288ccd60",
+      "title": "Ecovias Noroeste Paulista realiza ação educativa para motociclistas, pedestres e ciclistas em São Carlos (SP) na quarta-feira (19) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWGRqSXUzM2tfUlozdW1UZS1DZHIzSVIzMGthOExfTGlSZGNveHIxdTl0VUZuemFUSXFERVZFRFJCZ1hQSlJvWUZ1dkRLVjdPU0dhSnVsMDRJbW1HSHBSSTFLcENVOVRqX2FzNmJXTmo5WV9scUFEMHdVYmRwM2JOVWZNSGJFMTFSMXdaOWFPdjgxM284dTRrZ0pJTTc2QnBrbnpUZDJ6ampZQW1wNG1HTXJ6aXZOTElZWGRMZmw5MVNZVE5XQ2R1NUFhVWVBai14bGdvVGFRVUwwLUtYVHpjWkQwZGRwY3o2amFvRnJwZ2lieW1OaC1rcG5iRjdKUEht0gGGAkFVX3lxTE1UMGc2ZTBFVzVhOEpZWF83Q2VQYk9qOEY4UFktbjc2TTZnOWpwY19JVUs4elJtODBESXBhZHJFbVhSUlBSLWJEUlVYcDMyU19PWjNtNUxZUWE0VExQMTQwZS01dU1WZG53Q1Fob2ZHMjlNM3JoMGpnMTlvLUxZQ1lNVllQWEM1aUwxQVgzLXpFeDVVakgxTVlsTmpiaXVZWGV0c3M4b0g2bGxkVWZEZ3d6dy1wYUFIUnRDckFmNEZYLTlaWlRMNUdKTmhOcGhFMkZyN3g4YjJDcGxhNEJFWU1kbEx2alFzNjNRR1dNZkpUejdJUVEwWnlVN2M3WjZZVFpRX2ZGemc?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T02:03:45+00:00",
+      "published_raw": "Mon, 17 Aug 2026 02:03:45 GMT",
+      "snippet": "Ecovias Noroeste Paulista realiza ação educativa para motociclistas, pedestres e ciclistas em São Carlos (SP) na quarta-feira (19) Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:31.565453+00:00"
+    },
+    {
+      "id": "5bf26e80e00aa7653d3e709ef7a65538c2e20a7114102827f79e7bca8bd3edc4",
+      "title": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3JHYXVmUS1QN0F4TXFxNnpmanRKWkwxZzZ6ZU4tMzdFTlU2TkdtaXlFUl9vNGkydy1VVHhjbGtqcDczb1RBb0Z3TlRUNzJRRjhNQ05aY2hCdTI3LVRmdTdNcU5oRWFoSUVxNXVqdmFTc1BwT0pJWFNBeUZPMURFZmZPUlNYZXZudHZDbHg3emRiMldsNkhuN2F4MkxQa2hP?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T16:16:20+00:00",
+      "published_raw": "Sun, 16 Aug 2026 16:16:20 GMT",
+      "snippet": "Acidente envolvendo dois automóveis na rodovia Washington Luís (SP-310) em São José do Rio Preto deixa um morto Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:33.271532+00:00"
+    },
+    {
+      "id": "7652cdeabd9ff624174554f99a15287ee7f6235df75b9df6d3319cff564778b1",
+      "title": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmJTUGVnR3ZzZHhSWXBfZGdiR3gwNzFTX3dKcmZFdFdqT3hqUk9hdlRLUUZWQ0FhNGpnZ3JUdWdkRlZaNnJtNGRQRHFxaUxLSjZmSkhpVW9xdnp6SjI3by1Qc1pmdmhwbnUwNHhMalZERkc1YmVFUjQ0U3lwRHRxVUNna2NsTHludmFtVUp3aFNWN2JKcURtMGY5d20xRTA4cTFUcTEyTWhLNFFQNC0xSWt1MHpNUldRbWVxMFh3NXViLS1ySU9SdmxaYjRYM2xRS2YyVk4wbnR2bE1tOXc40gHfAUFVX3lxTE9uYlNQZWdHdnNkeFJZcF9kZ2JHeDA3MVNfd0pyZkV0V2pPeGpST2F2VEtRRlZDQWE0amdnclR1Z2RGVlo2cm00ZFBEcXFpTEtKNmZKSGlVb3F2enpKMjdvLVBzWmZ2aHBudTA0eExqVkRGRzViZUVSNDRTeXBEdHFVQ2drY2xMeW52YW1VSndoU1Y3YkpxRG0wZjl3bTFFMDhxMVRxMTJNaEs0UVA0LTFJa3Uwek1SV1FtZXEwWHc1dWItLXJJT1J2bFpiNFgzbFFLZjJWTjBudHZsTW05dzg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T14:00:00+00:00",
+      "published_raw": "Sun, 16 Aug 2026 14:00:00 GMT",
+      "snippet": "Interdição total do viaduto do Jardim Jockey Club, em São Carlos (SP), começa nesta segunda-feira (17) Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:31.565616+00:00"
+    },
+    {
+      "id": "88f8b412a59a4b21e5802bf39c9c7c9f42daf91c99dffdccd3484280d1c5717f",
+      "title": "Grave acidente na Rodovia Washington Luís mata motorista e fere outro - Araraquara News",
+      "source": "Araraquara News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtiN1lwd3I4MWNrclF6VTRKRzhESzF2NXpUcXNHdktLWkc3eVozV3QySGlTcGpVbUhEVkVYb2d6UEE5clFROU1OVVRXM3VpTWNTUi1EQjFhaWdveGo3LXRORUN6VTBCYnZfX05yVGpOUHh4MmV4QVk1OGJFb1g4Y3RyVVYxZU9wcDRqckZmTVA2WmdSeXNPczdzZTdVUEVlV1RaR1lwNlBWdWp3SHZMNg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T11:25:00+00:00",
+      "published_raw": "Sun, 16 Aug 2026 11:25:00 GMT",
+      "snippet": "Grave acidente na Rodovia Washington Luís mata motorista e fere outro Araraquara News",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:33.271267+00:00"
+    },
+    {
+      "id": "11a72be5a9cac15dc5312faf61a45c7bf783dbe4df3c26af9dee33ec84cb6045",
+      "title": "Capotamento deixa vítima fatal na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TNIBpAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T10:59:35+00:00",
+      "published_raw": "Sun, 16 Aug 2026 10:59:35 GMT",
+      "snippet": "Capotamento deixa vítima fatal na Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:33.271466+00:00"
+    },
+    {
+      "id": "8e2d9ef23df83d51d3dd9be43706dd00579ae2c48ca8cda79db1a8cc4d8a6789",
+      "title": "Capotamento deixa vítima fatal na Washington Luís - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TNIBpAFBVV95cUxOc3J2RmRldXFSUkQ3VFhxd0V1eVpvTjMzYUFsTGJCR0VVcTVVS1plNDBuZS1jSkNzdHhwZlZPNU9GWFdBTHBVeE1RS1JsOVBrRGFPNVloZHY1TFRpcG9wYm1UbkxQaXNVM3hTNWxHNFNjYWNudjA4Mzl5WmFJU1NNenI0Znh1a1FOYVIwZ1hPNGtzTWJSbXoxSENUMHg3OXBTWWZ2TA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-16T10:59:35+00:00",
+      "published_raw": "Sun, 16 Aug 2026 10:59:35 GMT",
+      "snippet": "Capotamento deixa vítima fatal na Washington Luís saocarlosagora.com.br",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T06:30:43.572989+00:00"
+    }
+  ]
 }
