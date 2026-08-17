@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-17T21:15:27.702141+00:00",
+  "updated_at": "2026-08-17T21:20:47.224834+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 13,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "a0ce7173381094e21a847474fcf4b8d57713d8e634374a982f46540a3a1fce2f",
+      "title": "São Carlos celebra 160 anos de devoção a Nossa Senhora Aparecida da Babilônia - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkFleU82MVVUTjlCZ1ZBOWlJcmh5NlZtaGhjUnBQNkJkVEFEeHVyY3Q2OW94NllTc2hKVmZ3QmV0YUdSTTRVQlVRMmRaR3pyMXpMV0tDa3JmaDJkQXVCeVpYQUNYOFdiaW16cXFXZk5JTThXWVdrSzlRcmZWY1RxQzhoVVg3RDFuLVF3aTRHbUQyWXp3UlZPQVdfdnhwQjhDN2dKNWx3N0p1d01rN2hpVtIBsAFBVV95cUxQNkFleU82MVVUTjlCZ1ZBOWlJcmh5NlZtaGhjUnBQNkJkVEFEeHVyY3Q2OW94NllTc2hKVmZ3QmV0YUdSTTRVQlVRMmRaR3pyMXpMV0tDa3JmaDJkQXVCeVpYQUNYOFdiaW16cXFXZk5JTThXWVdrSzlRcmZWY1RxQzhoVVg3RDFuLVF3aTRHbUQyWXp3UlZPQVdfdnhwQjhDN2dKNWx3N0p1d01rN2hpVg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T20:21:50+00:00",
+      "published_raw": "Mon, 17 Aug 2026 20:21:50 GMT",
+      "snippet": "São Carlos celebra 160 anos de devoção a Nossa Senhora Aparecida da Babilônia - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T21:20:41.457725+00:00"
+    },
+    {
       "id": "71d0cf540ad70443062e0b137ea698244cceeeee922a97d4807162945fc04f72",
       "title": "Viaduto do Jockey Club na SP-310 terá interdição total - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -54,13 +71,13 @@
       "published": "2026-08-17T19:40:54+00:00",
       "published_raw": "Mon, 17 Aug 2026 19:40:54 GMT",
       "snippet": "Viaduto do Jockey Club na SP-310 terá interdição total Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899349+00:00"
+      "collected_at": "2026-08-17T21:20:32.912865+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899300+00:00"
+      "collected_at": "2026-08-17T21:20:31.289532+00:00"
     },
     {
       "id": "42e9eded92ac908a94e5924773ef67325ce26202efaffca5c1890fd8155ba446",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899449+00:00"
+      "collected_at": "2026-08-17T21:20:31.289704+00:00"
     },
     {
       "id": "20b9b31bc383ae70d5cf507b748e2b14fc38ebc5090b214859bc308d5e0fc372",
@@ -111,7 +128,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899401+00:00"
+      "collected_at": "2026-08-17T21:20:31.289771+00:00"
+    },
+    {
+      "id": "4b4e9ccad4eb8c9d6214ecc5a2708ecb270668b1a2796c467a557aa5508b04b0",
+      "title": "Split Payment: o Estado vai receber antes de você entender quanto deve pagar - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUliMXdKLUlCQ2RFcVhCSzBVTTBwcTRwN2RoYmZ0T0U0ZmVwWUVkT2tUS3NmaTJLS0Fudy1wSHp4Q3RqdGxQU2tYZGFkcnZXX0E2eVhDYTZjeUdPbkNYVmZ5RjVmMUpsdDVIZzN0eUZLTUwtMWQzb0JHNFlDdWtGc0phTDZaUU9Dc2VCamh0a05vdkN2LWs4NlYyWS1sRjZUWjY1RTJxbm5qZ05zekHSAa4BQVVfeXFMT3FJYjF3Si1JQkNkRXFYQkswVU0wcHE0cDdkaGJmdE9FNGZlcFlFZE9rVEtzZmkyS0tBbnctcEh6eEN0anRsUFNrWGRhZHJ2V19BNnlYQ2E2Y3lHT25DWFZmeUY1ZjFKbHQ1SGczdHlGS01MLTFkM29CRzRZQ3VrRnNKYUw2WlFPQ3NlQmpodGtOb3ZDdi1rODZWMlktbEY2VFo2NUUycW5uamdOc3pB?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T17:22:09+00:00",
+      "published_raw": "Mon, 17 Aug 2026 17:22:09 GMT",
+      "snippet": "Split Payment: o Estado vai receber antes de você entender quanto deve pagar - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T21:20:31.289631+00:00"
+    },
+    {
+      "id": "64fa489680e2de7100909c2dd34f330d30c94a5b87cd1dee404e016de87ffcd1",
+      "title": "Obras na Washington Luís terão interdições e serviços em São Carlos nesta semana - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wOVF1MXZ4cm5hWXAxbE91QV9JWGVva0pfOWgxU2RqdWNST0tDU01OVk9oVGtSU2ZjME1tcng2eHN6NzZpZERBN0R5MGtxdzI0MDRaanYzdXNpOWdaRlp1ODR2OG1nUUFRMGhOUC00R2wxTHPSAccCQVVfeXFMTmJrRE8xVUsyeHMxNEFKaGZwQlhKcUhBcFRoMUlMUk9UTTkxMFRqTTg1SklwNkxzM1ZOTER3VU5pckl3OGQ5SVdQRlBZMmR2VkJOOHBnRFVwa3ZzU21QMlFxbUNja2Rhb2tRbXRMbG9JdnNvYTk2TjR3RE1rQVhjR1lnOGs0UXZoRlQ3bks5WUlRcnRYZGpVeHV3SlQ0NmhZR1JwUW8xRzU1WmU5M1VGUnNrNlVoLVRTQXlRQkJmWTlpUERKUDRwX3FsUWphVWFsRkxhMzUwWXJMaVVxUXoza2cxTDdVNFM5aGdmY2RGM2pTQjRjTGRDS1E4VDliXzVFVThNME5CRzd1VmtEazdEX3hXYmZoRXk5SkdselJJc3QzQTg2S0pxWlREbGluTWZ2ak9LX2M5VjZuWEJLbDRLV0hpM3FwMkFj?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-17T16:54:47+00:00",
+      "published_raw": "Mon, 17 Aug 2026 16:54:47 GMT",
+      "snippet": "Obras na Washington Luís terão interdições e serviços em São Carlos nesta semana - São Carlos em Rede São Carlos em Rede",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-17T21:20:44.674736+00:00"
     },
     {
       "id": "546661803d0df50d81bf141b8a7d67cfd4860c52a8089c6e046b0f29afd38c2d",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899173+00:00"
+      "collected_at": "2026-08-17T21:20:31.289366+00:00"
     },
     {
       "id": "c9600e3df7a20ba5d02d20c7dde9860a4bd1a8acf11009d1afc1e80cd5544085",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:24.598896+00:00"
+      "collected_at": "2026-08-17T21:20:44.133244+00:00"
     },
     {
       "id": "bdf91570f9d3a94f3c6212de9c16a6cee41eb417d420b3524311ae16dfee9349",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899499+00:00"
+      "collected_at": "2026-08-17T21:20:31.289835+00:00"
     },
     {
       "id": "8dac24d2a5bff71b071819e5d5518dce8fc3ba2e09c2b13205af70420fc02273",
@@ -173,13 +224,13 @@
       "published": "2026-08-17T12:06:09+00:00",
       "published_raw": "Mon, 17 Aug 2026 12:06:09 GMT",
       "snippet": "Trevo de Cedral é interditado e motoristas de Potirendaba precisam usar rotas alternativas gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899549+00:00"
+      "collected_at": "2026-08-17T21:20:32.913085+00:00"
     },
     {
       "id": "c8c1471ae827905c03c6686a15e804b5fde64a6d56a4cddf8a137ab343fae7f7",
@@ -190,13 +241,13 @@
       "published": "2026-08-17T03:20:56+00:00",
       "published_raw": "Mon, 17 Aug 2026 03:20:56 GMT",
       "snippet": "Viaduto entre Jockey Club e Vila Marina será interditado por 90 dias Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:21.841624+00:00"
+      "collected_at": "2026-08-17T21:20:42.004041+00:00"
     },
     {
       "id": "ec520071572180f4c0f195d639d4b1dac3a4977e6bfa2b77cf464702288ccd60",
@@ -207,13 +258,13 @@
       "published": "2026-08-17T02:07:51+00:00",
       "published_raw": "Mon, 17 Aug 2026 02:07:51 GMT",
       "snippet": "Ecovias Noroeste Paulista realiza ação educativa para motociclistas, pedestres e ciclistas em São Carlos (SP) na quarta-feira (19) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-17T21:15:11.899253+00:00"
+      "collected_at": "2026-08-17T21:20:31.289470+00:00"
     }
   ]
 }
