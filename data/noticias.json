@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-18T21:18:37.135927+00:00",
+  "updated_at": "2026-08-19T00:34:59.616936+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 6,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -49,7 +49,7 @@
       "id": "49247da6707b35c1c937ed9df0842e69ddea4ed95bd7a5cd4a3be4f7b0678f7a",
       "title": "Trecho da rodovia Washington Luís será interditado em nova fase das obras da terceira faixa - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMTlHN2hXREFJTmhiQW5jQW1GaWlhMkdFNTJjUVVRRVdXNDJRNlpjMFZ6by1KNXdzZXpISmN6cGVGM0lfVU9rUlkyaW5PbW9WcTdXTzJzMlpJSmxOblB4bHExWUQycUkwRWs3VjQ2LXhzUF9MSUhDbHZHYWhCS2xPMVRGWGNGbGJ6V3BnS2Q2a0lOQVd6RG5ueGd3NVBzS3h0di1taGNtV3NfUTJZOW9KQzI3WWFtY2VrcU9kMFFYU0RUSktFWng2STdORVl0bnFDakc1NHBRejdmQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmdnS1Y5RkpNeHkzVlFWMEhIZHR1c2NEdDF1Z2lKTzR3cTZXSVJHVW1iTzYybTB5d19SUXJuWGE2bTZzR1NhREdtVDFTQzRDZmtndmh6M3NMNV9NTDJhQlUzSExfM29VbnRKY0gyNVBYVWwyYTVUX2tfNHAwOU1TaUVZX2dpaGZ4WlJQekV6NE90YWp0ZTBrVnZ1M2w2UFZ3YTdmZ0NBbkh2T05qUW1GamRtU05lREtXSllUOS1DMTNqdURJY1E0bjRDbFRIek9IRUk4WXRPVHZ3MEVORXg1Wg?oc=5",
       "resolved_link": "",
       "published": "2026-08-18T20:15:03+00:00",
       "published_raw": "Tue, 18 Aug 2026 20:15:03 GMT",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635639+00:00"
+      "collected_at": "2026-08-19T00:34:41.761231+00:00"
     },
     {
       "id": "85aa9d0ff06a27c21c4a8f93a95dc0435f6c659d1f6eb98d3cab6154d71cbd66",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635766+00:00"
+      "collected_at": "2026-08-19T00:34:41.761352+00:00"
+    },
+    {
+      "id": "7a3a66ad3b4fc1e77ed9eefd8d4b43f45fd8746f217eb749662996b5c8e8cadb",
+      "title": "Em Cedral: Obras alteram tráfego em dispositivo da Washington Luís - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFB2S1pEOWJpVVMtZGt0cEtVbUhDQTc4d3RBRTRBLWxNXzE4azZZM0JYTGZzMXhpVWVDZG1STnd2V0ZXZmFnQzFvT0Q4UE5zQzVGT1Nud20xZk9KdlljaGhyLV9pdlR2cVBzdDJ1MlhnQ2ZrYnNDLWRIdUJaZ3FuQjhJY3F3RHJxTzNLTGR1WVZOYVZucVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-18T17:30:32+00:00",
+      "published_raw": "Tue, 18 Aug 2026 17:30:32 GMT",
+      "snippet": "Em Cedral: Obras alteram tráfego em dispositivo da Washington Luís odefensor.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-19T00:34:41.761145+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635559+00:00"
+      "collected_at": "2026-08-19T00:34:41.761055+00:00"
     },
     {
       "id": "606a2e17b7a37a9091dd9be94f4060c6ae4c80d06e96c3441fa77d4c92457805",
@@ -111,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-18T21:18:22.292380+00:00"
-    },
-    {
-      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
-      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-18T09:08:31+00:00",
-      "published_raw": "Tue, 18 Aug 2026 09:08:31 GMT",
-      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-18T21:18:33.952984+00:00"
+      "collected_at": "2026-08-19T00:34:43.578571+00:00"
     },
     {
       "id": "9853371b7084ac9d58f02abd21e85c52e03a5b40e0b56225f63410793ca3e5ad",
@@ -145,41 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635825+00:00"
-    },
-    {
-      "id": "e9eb37e7a11440aacaed98e886d2b172640d52a4a5122c35798ebd19d47c27ab",
-      "title": "Trecho da Rua Sara Cooper em Suzano terá sentido único a partir desta segunda - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1l0Y1I5Q04yQTdxN0RSdWpRSUtrZ21MMkc0WXRvQlhPMFJBQXRMMUNIQ3o0SUtIcEdaUnJnd2tKUkFjRllJbjZvU01Uc2h2R3N0RE5oZ1lSajdEdkdjNmhNRGdWek9IS2RsVzNEUjZwX19OdTdZMWFyWEFNRGV0SUl3V2h0NS12QXc?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-17T23:29:18+00:00",
-      "published_raw": "Mon, 17 Aug 2026 23:29:18 GMT",
-      "snippet": "Trecho da Rua Sara Cooper em Suzano terá sentido único a partir desta segunda Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635881+00:00"
-    },
-    {
-      "id": "b4bf6edf8c0dbba1d2e43440d290aa4575ff410092d3dc841c8326edd421fbd7",
-      "title": "Artista de São Carlos surpreende Ferrugem com desenho feito especialmente para o cantor - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkx5SlViZHlhX0JwNkNNNVZ2MWlZZnVEOXd0Yk0yV0FoYmY4OUlzVmRQZURVTVo1S3NmNlVKQVdKMkhMZGEybW1fZHJtTkNUZmZMd0lhZnF6UXpHQzExRHZzYy01cEltQXlUcE43Z21VeE5sbVZodzh4azctZGQta2NiNFBGNmhhRnVJZzgxQVFSdHdmWnRiUXBfTkRLOXd5eXZfUnNYQS1tOGJicko1ZmlTNGNjOXFvYzh3WFJR0gG-AUFVX3lxTE1aTHlKVWJkeWFfQnA2Q001VnYxaVlmdUQ5d3RiTTJXQWhiZjg5SXNWZFBlRFVNWjVLc2Y2VUpBV0oySExkYTJtbV9kcm1OQ1RmZkx3SWFmcXpRekdDMTFEdnNjLTVwSW1BeVRwTjdnbVV4TmxtVmh3OHhrNy1kZC1rY2I0UEY2aGFGdUlnODFBUVJ0d2ZadGJRcF9OREs5d3l5dl9Sc1hBLW04YmJySjVmaVM0Y2M5cW9jOHdYUlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-17T22:55:00+00:00",
-      "published_raw": "Mon, 17 Aug 2026 22:55:00 GMT",
-      "snippet": "Artista de São Carlos surpreende Ferrugem com desenho feito especialmente para o cantor - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-18T21:18:20.635711+00:00"
+      "collected_at": "2026-08-19T00:34:41.761436+00:00"
     }
   ]
 }
