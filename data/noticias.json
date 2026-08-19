@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-19T09:28:03.171040+00:00",
+  "updated_at": "2026-08-19T12:21:17.902394+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "11afbe91035d8333095745b2ba818d619a91150fed59b08b537f593e45e4b8df",
+      "title": "Obras interditam acesso da Washington Luís em viaduto da zona norte de Rio Preto - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRk91dnYtaWpvb0pUeURESnZoamtTUGE5Mm0ydkZMZWtWMDh3NzZyaGcyN0hFYWMzRzJmRS14bTNQTEpkNm1rS19MZU1NbXdHREJrTEs0OVNtaXVoY3lEZE5zTzdoMFNwRUNqY2JYYkNBbmk4UkRsbHdyZkRBOUxIREtzQV94U2k0Zi01UFJsSFNzV3hLeFdNOGRjcWhFXzlTWTgzblMzeFd6N2tlYm1IOTF5eHdwT0NDQUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-19T12:10:11+00:00",
+      "published_raw": "Wed, 19 Aug 2026 12:10:11 GMT",
+      "snippet": "Obras interditam acesso da Washington Luís em viaduto da zona norte de Rio Preto gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-19T12:21:01.624722+00:00"
+    },
+    {
       "id": "711a99f6968dafcf2cbf67c3094c20da338addfa7ad008a2f3bba65af9e86b8d",
       "title": "Obras na Rodovia Washington Luís (SP-310) vão afetar o tráfego na região de S.J.do Rio Preto - Estradas",
       "source": "Estradas",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:47.805340+00:00"
+      "collected_at": "2026-08-19T12:21:01.624307+00:00"
     },
     {
       "id": "49247da6707b35c1c937ed9df0842e69ddea4ed95bd7a5cd4a3be4f7b0678f7a",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:47.805588+00:00"
+      "collected_at": "2026-08-19T12:21:01.624582+00:00"
     },
     {
       "id": "85aa9d0ff06a27c21c4a8f93a95dc0435f6c659d1f6eb98d3cab6154d71cbd66",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:47.805729+00:00"
+      "collected_at": "2026-08-19T12:21:01.624656+00:00"
     },
     {
       "id": "7a3a66ad3b4fc1e77ed9eefd8d4b43f45fd8746f217eb749662996b5c8e8cadb",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:47.805509+00:00"
+      "collected_at": "2026-08-19T12:21:01.624460+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -128,24 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:47.805432+00:00"
+      "collected_at": "2026-08-19T12:21:01.624393+00:00"
     },
     {
-      "id": "6a98ffd45b2c73bcb7bebbe9a5bdf86a7e7feb2b36711bef3a83ea5a29b36fbb",
-      "title": "Motociclista morre após ser atropelado por caminhão na rodovia Washington Luís (SP-310) em Matão - mobilidadesampa.com.br",
-      "source": "mobilidadesampa.com.br",
+      "id": "606a2e17b7a37a9091dd9be94f4060c6ae4c80d06e96c3441fa77d4c92457805",
+      "title": "Motociclista morre após ser atropelado por caminhão na rodovia Washington Luís (SP-310) em Matão - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZy1peDlfRVFNTkZXeU1Gb2RIWmhnM2poWFkyMjBwWnZLdmVESHVUek9nd3MxV1pNSzdrVVNGQklKWDF0Qy1rc0kydnM5WlpqdWtwNHJ3QW96NXo3ZF95elRxZTl4NUIySDF4QkdpeFA4V2VlZW9idGNGdGs0cFQ2N2ozNnIyZ2Y4b0NJMk5tV1g1UQ?oc=5",
       "resolved_link": "",
       "published": "2026-08-18T16:53:19+00:00",
       "published_raw": "Tue, 18 Aug 2026 16:53:19 GMT",
-      "snippet": "Motociclista morre após ser atropelado por caminhão na rodovia Washington Luís (SP-310) em Matão mobilidadesampa.com.br",
+      "snippet": "Motociclista morre após ser atropelado por caminhão na rodovia Washington Luís (SP-310) em Matão Mobilidade Sampa",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T09:27:49.432987+00:00"
+      "collected_at": "2026-08-19T12:21:03.278220+00:00"
     }
   ]
 }
