@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:36:48.220751+00:00",
+  "updated_at": "2026-08-19T03:41:36.222918+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 5,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T03:36:31.850723+00:00"
+      "collected_at": "2026-08-19T03:41:19.978432+00:00"
     },
     {
       "id": "85aa9d0ff06a27c21c4a8f93a95dc0435f6c659d1f6eb98d3cab6154d71cbd66",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T03:36:31.850802+00:00"
+      "collected_at": "2026-08-19T03:41:19.978512+00:00"
     },
     {
       "id": "7a3a66ad3b4fc1e77ed9eefd8d4b43f45fd8746f217eb749662996b5c8e8cadb",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T03:36:31.850634+00:00"
+      "collected_at": "2026-08-19T03:41:19.978340+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T03:36:31.850529+00:00"
+      "collected_at": "2026-08-19T03:41:19.978234+00:00"
     },
     {
       "id": "606a2e17b7a37a9091dd9be94f4060c6ae4c80d06e96c3441fa77d4c92457805",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T03:36:33.548928+00:00"
+      "collected_at": "2026-08-19T03:41:21.566905+00:00"
     }
   ]
 }
