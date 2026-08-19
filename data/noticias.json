@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-19T00:57:28.416903+00:00",
+  "updated_at": "2026-08-19T03:36:48.220751+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -49,10 +49,10 @@
       "id": "49247da6707b35c1c937ed9df0842e69ddea4ed95bd7a5cd4a3be4f7b0678f7a",
       "title": "Trecho da rodovia Washington Luís será interditado em nova fase das obras da terceira faixa - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmdnS1Y5RkpNeHkzVlFWMEhIZHR1c2NEdDF1Z2lKTzR3cTZXSVJHVW1iTzYybTB5d19SUXJuWGE2bTZzR1NhREdtVDFTQzRDZmtndmh6M3NMNV9NTDJhQlUzSExfM29VbnRKY0gyNVBYVWwyYTVUX2tfNHAwOU1TaUVZX2dpaGZ4WlJQekV6NE90YWp0ZTBrVnZ1M2w2UFZ3YTdmZ0NBbkh2T05qUW1GamRtU05lREtXSllUOS1DMTNqdURJY1E0bjRDbFRIek9IRUk4WXRPVHZ3MEVORXg1Wg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMTlHN2hXREFJTmhiQW5jQW1GaWlhMkdFNTJjUVVRRVdXNDJRNlpjMFZ6by1KNXdzZXpISmN6cGVGM0lfVU9rUlkyaW5PbW9WcTdXTzJzMlpJSmxOblB4bHExWUQycUkwRWs3VjQ2LXhzUF9MSUhDbHZHYWhCS2xPMVRGWGNGbGJ6V3BnS2Q2a0lOQVd6RG5ueGd3NVBzS3h0di1taGNtV3NfUTJZOW9KQzI3WWFtY2VrcU9kMFFYU0RUSktFWng2STdORVl0bnFDakc1NHBRejdmQQ?oc=5",
       "resolved_link": "",
-      "published": "2026-08-18T20:15:03+00:00",
-      "published_raw": "Tue, 18 Aug 2026 20:15:03 GMT",
+      "published": "2026-08-18T20:14:00+00:00",
+      "published_raw": "Tue, 18 Aug 2026 20:14:00 GMT",
       "snippet": "Trecho da rodovia Washington Luís será interditado em nova fase das obras da terceira faixa Diário da Região",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T00:57:10.840495+00:00"
+      "collected_at": "2026-08-19T03:36:31.850723+00:00"
     },
     {
       "id": "85aa9d0ff06a27c21c4a8f93a95dc0435f6c659d1f6eb98d3cab6154d71cbd66",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T00:57:10.840547+00:00"
+      "collected_at": "2026-08-19T03:36:31.850802+00:00"
     },
     {
       "id": "7a3a66ad3b4fc1e77ed9eefd8d4b43f45fd8746f217eb749662996b5c8e8cadb",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T00:57:10.840434+00:00"
+      "collected_at": "2026-08-19T03:36:31.850634+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T00:57:10.840366+00:00"
+      "collected_at": "2026-08-19T03:36:31.850529+00:00"
     },
     {
       "id": "606a2e17b7a37a9091dd9be94f4060c6ae4c80d06e96c3441fa77d4c92457805",
@@ -128,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-19T00:57:12.613244+00:00"
-    },
-    {
-      "id": "9853371b7084ac9d58f02abd21e85c52e03a5b40e0b56225f63410793ca3e5ad",
-      "title": "Obras da 3ª faixa da Washington Luís avançam entre Cedral, Rio Preto e Mirassol - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2FSYmpHdnZWdVpGS2liOVBuUmVPdXZ1cEEwQVpDd1hqNllQU3E5Y2lPNzJuNHRsNlNDZ1JEd25KSEM5Vks5b0ttWjhMUGNIb0diTW9PdHZnS1RGc0ROSTBTWjlhX2J1UDh0elFVZTJjU0VxVWlGc3MzLWdUdDFPYzBlOEtMX25zZHVYSGVzMjlLaXVmVTBLeFFlYUtrS0syV1lUM0pWMkRLWTJSTUJLQUE2OHRGTnVrNG95UWhKLXZ1QVNwbE1qUWgta0hrQWtZ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-18T01:47:00+00:00",
-      "published_raw": "Tue, 18 Aug 2026 01:47:00 GMT",
-      "snippet": "Obras da 3ª faixa da Washington Luís avançam entre Cedral, Rio Preto e Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-19T00:57:10.840607+00:00"
+      "collected_at": "2026-08-19T03:36:33.548928+00:00"
     }
   ]
 }
