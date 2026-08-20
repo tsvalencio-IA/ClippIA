@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T09:28:45.301662+00:00",
+  "updated_at": "2026-08-20T12:23:01.518380+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "9b558c8735c232da4c2558cc3c955cb428a0006e4f4b7ab45029d9ef5f90fdb0",
+      "title": "Rodovia Washington Luís tem novas interdições para obras a partir de hoje - O Regional",
+      "source": "O Regional",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFFycDRFOHpxUHljbHBtWjExdy1XLWJOaWI5SkNTem9HSDR6TDhjRG5kcTRYRzNPVlBjYWVNdjB4VF9WcG51QUhZdGcwMDYxS3ozR3FNVm9iYlpLSWdCajlWVjZkejhVa0hvUkRyRHNueVJJaVphandiRkNvb3ktR2FDdFM0SzNYcmljbXdDVXVrVE02SjUtV1ktSC1pa0ZCOU5vSTF1RUZ0Mk14T2JlWA?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-20T10:52:21+00:00",
+      "published_raw": "Thu, 20 Aug 2026 10:52:21 GMT",
+      "snippet": "Rodovia Washington Luís tem novas interdições para obras a partir de hoje O Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-20T12:22:43.818175+00:00"
+    },
+    {
       "id": "2b9c7cf724dd88fd80c51bd5c0e2c33ac58b59d8a94b3523b507e32beb8ef6a3",
       "title": "Concessionária inicia novas interdições na Rodovia SP-310 - OExtra.net",
       "source": "OExtra.net",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.919910+00:00"
+      "collected_at": "2026-08-20T12:22:43.818447+00:00"
     },
     {
       "id": "75a30a84a006f0a76b7a26e0897b1830cfbcb241f3d0d7baeef8e1ed7fa55022",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.919828+00:00"
+      "collected_at": "2026-08-20T12:22:43.818330+00:00"
     },
     {
       "id": "0c9bccaeff6d8af59e5d3c6d7cb3518f12653617116927ba455a176d9c28e65e",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:30.524423+00:00"
+      "collected_at": "2026-08-20T12:22:45.569263+00:00"
     },
     {
       "id": "9c9da1539edd76219b1635c746bfefb9a8fec17692e9e7578bab1546b8248902",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.920179+00:00"
+      "collected_at": "2026-08-20T12:22:43.819094+00:00"
     },
     {
       "id": "ecb8c27835c9a511c0237662ce10b67e18c2e939f1e9fb27acc67c030c5be7f8",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.919983+00:00"
+      "collected_at": "2026-08-20T12:22:43.818573+00:00"
     },
     {
       "id": "7bb70e804d62b77eaa20f99e9e70626e759ebe536b6e85fcd97ef4dc7605664a",
@@ -139,13 +156,13 @@
       "published": "2026-08-19T13:40:05+00:00",
       "published_raw": "Wed, 19 Aug 2026 13:40:05 GMT",
       "snippet": "Faixa é interditada para reparo de asfalto na Washington, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste\" interdição",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:39.927022+00:00"
+      "collected_at": "2026-08-20T12:22:43.818969+00:00"
     },
     {
       "id": "c277f8abecd1180abbaf987b4ac683f6d1916d709b55f269ed0aa474242c2c39",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:31.086480+00:00"
+      "collected_at": "2026-08-20T12:22:46.166703+00:00"
     },
     {
       "id": "468ed360100a9b35f8372dafd5ce6d477bf9df9f8357e8c28f5a16d12c943dce",
@@ -173,13 +190,13 @@
       "published": "2026-08-19T13:00:11+00:00",
       "published_raw": "Wed, 19 Aug 2026 13:00:11 GMT",
       "snippet": "Em Rio Preto: Obras na ponte do Córrego dos Macacos alteram trânsito na Washington Luís odefensor.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.920114+00:00"
+      "collected_at": "2026-08-20T12:22:43.818846+00:00"
     },
     {
       "id": "0d356a42456a9858e5b2ec6431c0ea55a318ccce2a55bac27305ccaefda8033d",
@@ -196,24 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.920051+00:00"
-    },
-    {
-      "id": "11afbe91035d8333095745b2ba818d619a91150fed59b08b537f593e45e4b8df",
-      "title": "Obras interditam acesso da Washington Luís em viaduto da zona norte de Rio Preto - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRk91dnYtaWpvb0pUeURESnZoamtTUGE5Mm0ydkZMZWtWMDh3NzZyaGcyN0hFYWMzRzJmRS14bTNQTEpkNm1rS19MZU1NbXdHREJrTEs0OVNtaXVoY3lEZE5zTzdoMFNwRUNqY2JYYkNBbmk4UkRsbHdyZkRBOUxIREtzQV94U2k0Zi01UFJsSFNzV3hLeFdNOGRjcWhFXzlTWTgzblMzeFd6N2tlYm1IOTF5eHdwT0NDQUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-19T12:10:11+00:00",
-      "published_raw": "Wed, 19 Aug 2026 12:10:11 GMT",
-      "snippet": "Obras interditam acesso da Washington Luís em viaduto da zona norte de Rio Preto gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-20T09:28:28.920241+00:00"
+      "collected_at": "2026-08-20T12:22:43.818703+00:00"
     }
   ]
 }
