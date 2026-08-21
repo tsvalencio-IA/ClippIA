@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T12:22:59.358745+00:00",
+  "updated_at": "2026-08-21T12:36:20.472344+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T12:22:42.012404+00:00"
+      "collected_at": "2026-08-21T12:36:04.503051+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T12:22:42.012335+00:00"
+      "collected_at": "2026-08-21T12:36:04.502964+00:00"
     },
     {
       "id": "71bc34259da9d510e00f427fa9254457b95399dbce9de3e9b494dc8828bed98e",
@@ -88,13 +88,13 @@
       "published": "2026-08-20T14:30:43+00:00",
       "published_raw": "Thu, 20 Aug 2026 14:30:43 GMT",
       "snippet": "Em Rio Preto: Obras na Washington Luís alteram tráfego e bloqueiam acesso à SP-310 odefensor.com.br",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T12:22:53.187322+00:00"
+      "collected_at": "2026-08-21T12:36:17.920457+00:00"
     }
   ]
 }
