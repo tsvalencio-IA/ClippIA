@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-21T03:40:57.701442+00:00",
+  "updated_at": "2026-08-21T03:45:50.135717+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T03:40:42.090049+00:00"
+      "collected_at": "2026-08-21T03:45:32.588279+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T03:40:42.089881+00:00"
+      "collected_at": "2026-08-21T03:45:32.587986+00:00"
+    },
+    {
+      "id": "71bc34259da9d510e00f427fa9254457b95399dbce9de3e9b494dc8828bed98e",
+      "title": "Em Rio Preto: Obras na Washington Luís alteram tráfego e bloqueiam acesso à SP-310 - odefensor.com.br",
+      "source": "odefensor.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjVMRzBHeThoemkxSTZsVzFxOUxLT21Tc01HbmlMVVZISnl1ai1LZkMybTRkcmV3SE9HTElIMlRNcFNqdTRWOHJoc3g4YUpqdUkxeTQtdVFJY2dGeEUxc281ZFZQU2N6VFBNOW9yOEtqOVlCXy11Vmp2U01oaDlOVkRmSmxmWWVGUjF0SmxFVEdJTHRhMzkxeE1vdmxBNGdsWVlndUNmQ1RsWmM?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-20T14:30:43+00:00",
+      "published_raw": "Thu, 20 Aug 2026 14:30:43 GMT",
+      "snippet": "Em Rio Preto: Obras na Washington Luís alteram tráfego e bloqueiam acesso à SP-310 odefensor.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-21T03:45:32.588226+00:00"
     },
     {
       "id": "9b558c8735c232da4c2558cc3c955cb428a0006e4f4b7ab45029d9ef5f90fdb0",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T03:40:42.089950+00:00"
+      "collected_at": "2026-08-21T03:45:32.588063+00:00"
     },
     {
       "id": "73f2b02245cc39a1066d0af4c7e8c72c6cae9ceea635d20654552f9acb7882d7",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T03:40:42.090002+00:00"
+      "collected_at": "2026-08-21T03:45:32.588123+00:00"
     }
   ]
 }
