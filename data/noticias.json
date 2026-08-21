@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-21T21:13:01.113272+00:00",
+  "updated_at": "2026-08-21T21:18:52.621798+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:45.552411+00:00"
+      "collected_at": "2026-08-21T21:18:34.872470+00:00"
     },
     {
       "id": "a6da0f03621fdc3dd206065e71c319cfd821c6d3de6310500f1292170b87c608",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:45.552542+00:00"
+      "collected_at": "2026-08-21T21:18:34.872643+00:00"
     },
     {
       "id": "b6bbccd3919a641f37e544bb22004a71e7b2e6dce29bec7df5d72ec00cdf01a1",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:45.552486+00:00"
+      "collected_at": "2026-08-21T21:18:34.872571+00:00"
     },
     {
       "id": "8b9cfb9682b3b5ad56abf3c549e16f4aa3ff472604be247331a60a4c467041f6",
@@ -105,13 +105,30 @@
       "published": "2026-08-21T17:46:27+00:00",
       "published_raw": "Fri, 21 Aug 2026 17:46:27 GMT",
       "snippet": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de amanhã São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:45.552601+00:00"
+      "collected_at": "2026-08-21T21:18:34.872715+00:00"
+    },
+    {
+      "id": "54cb6d904efe12ea40742a5d705814ed8846c3bf0d553e8ed63ef3cedece8660",
+      "title": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de amanhã - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmhPbmFqb3VNX1c1MVpYV1E4OXlZcVVaNkVtUGc3aV9BZTFablBsenh0Rmd1UWNLbk1LVkpoLUIxTUh0NWIxaUF2NmYtVG5tdFU4dU54NUNvcktSbkJwQ0FNSmFqWl90Y0NaTExCOThiOVJpaE1vOXRkSkhEUG1iX0NRSFpSRTJRcnBkNkV4LWl1bDhtUW11ZGJsajZ0RUxyZUs0V0ZPU1VsUF9TQWwxMC1vU2hiZTNKVTMwR3MzMDdSSmZGSFd1TlR0bWhMWk90QUY3T1R6TDQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-21T16:47:17+00:00",
+      "published_raw": "Fri, 21 Aug 2026 16:47:17 GMT",
+      "snippet": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de amanhã Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-21T21:18:36.675348+00:00"
     },
     {
       "id": "9f5c0b2e3de1056b6bf20464470472dcd46c24e08d23195a81cb5ce4f64f315a",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:55.438283+00:00"
+      "collected_at": "2026-08-21T21:18:46.265796+00:00"
     },
     {
       "id": "1c6bbf67b661448b87da573f602fc9cd120aa2c0da1ee4b5cfc8f91657f7276e",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-21T21:12:45.552647+00:00"
+      "collected_at": "2026-08-21T21:18:34.872775+00:00"
     }
   ]
 }
