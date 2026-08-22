@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-22T00:34:49.625805+00:00",
+  "updated_at": "2026-08-22T00:57:23.130377+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 7,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914025+00:00"
+      "collected_at": "2026-08-22T00:57:07.345814+00:00"
     },
     {
       "id": "403b8f026b1d06ab5c6636232d9002f2ab1a764f419d92d1c056ecc869e0192f",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:35.473532+00:00"
+      "collected_at": "2026-08-22T00:57:08.931364+00:00"
     },
     {
       "id": "3ce014520251133f0dfa0438f1fb10b3599415c6a353639984708a86136aae9b",
@@ -88,13 +88,13 @@
       "published": "2026-08-21T21:48:44+00:00",
       "published_raw": "Fri, 21 Aug 2026 21:48:44 GMT",
       "snippet": "Nova marginal da Washington Luís vai ligar Getúlio Vargas ao Jardim Tangará em São Carlos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:43.900772+00:00"
+      "collected_at": "2026-08-22T00:57:07.346150+00:00"
     },
     {
       "id": "8071c561279c6e62cf5163f8559b73df3be9fedd8e3d9b8abde0594bd46ee527",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914373+00:00"
-    },
-    {
-      "id": "a6da0f03621fdc3dd206065e71c319cfd821c6d3de6310500f1292170b87c608",
-      "title": "Frente fria derruba temperaturas e aumenta risco de ar seco em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmZVN0l5QjdKbnlZU1ZvaGdYTWN4NkpfUDRUa3RtbWJyUVZ5SWV0T2hPVHJkaHliaXAxcWJxNi1SeEFJbU5SaS0ycDByanVndDVBbEI3VE10aFBnVUZ1TGhhYlhaN3BXYlpGbTFZSzhiZXVyRDFWaTJsQ0hLZmd6TE45NnFFNDUtUnF0alpLUVlLVW1zWkdrU0dpekFmQ0t1ZWhNWklVSmw5MnRJcFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-21T19:50:41+00:00",
-      "published_raw": "Fri, 21 Aug 2026 19:50:41 GMT",
-      "snippet": "Frente fria derruba temperaturas e aumenta risco de ar seco em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914556+00:00"
+      "collected_at": "2026-08-22T00:57:07.346034+00:00"
     },
     {
       "id": "b6bbccd3919a641f37e544bb22004a71e7b2e6dce29bec7df5d72ec00cdf01a1",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914473+00:00"
+      "collected_at": "2026-08-22T00:57:07.346245+00:00"
     },
     {
       "id": "54cb6d904efe12ea40742a5d705814ed8846c3bf0d553e8ed63ef3cedece8660",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914239+00:00"
+      "collected_at": "2026-08-22T00:57:07.345941+00:00"
     },
     {
       "id": "1c6bbf67b661448b87da573f602fc9cd120aa2c0da1ee4b5cfc8f91657f7276e",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T00:34:33.914634+00:00"
+      "collected_at": "2026-08-22T00:57:07.346316+00:00"
     }
   ]
 }
