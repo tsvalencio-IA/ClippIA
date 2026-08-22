@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-22T03:37:13.772866+00:00",
+  "updated_at": "2026-08-22T06:19:53.436579+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 11,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "7b4ece5aa76742bc96d38062a0a0441e21097ce607f033c4b79b2c7a7685d907",
+      "title": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de hoje - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckE2SzhycWJnODRJSFJXWjBYUTZyRWNxcFRZcFhNZ3BqN3ZfVHFwQkdiNHh2M1E1Zi1vQkFmM0Nyb3ZPazI4VThYRkVQY3JlNE5BaF9GRGhnYzJxYThyTmd3Y2NBZlhiNVVXVTlMbDhpZ2g4emZXemd4Um9kY2dQYzlHVHA3WTU4WTQ1VmJ5Y2VqSV9mQ2JfREVDVlE5R0otemxKZmdEcURaaTdKUTRSY1hRT1JpdVFzYTBydnpMa3HSAcABQVVfeXFMT3JBNks4cnFiZzg0SUhSV1owWFE2ckVjcXBUWXBYTWdwajd2X1RxcEJHYjR4djNRNWYtb0JBZjNDcm92T2syOFU4WEZFUGNyZTROQWhfRkRoZ2MycWE4ck5nd2NjQWZYYjVVV1U5TGw4aWdoOHpmV3pneFJvZGNnUGM5R1RwN1k1OFk0NVZieWNlaklfZkNiX0RFQ1ZROUdKLXpsSmZnRHFEWmk3SlE0UmNYUU9SaXVRc2EwcnZ6TGtx?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-22T04:23:55+00:00",
+      "published_raw": "Sat, 22 Aug 2026 04:23:55 GMT",
+      "snippet": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de hoje - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-22T06:19:47.103569+00:00"
+    },
+    {
+      "id": "b89eafef41b3dd10e9b00cc4f04bc80eb0c5da1f89ead72bc5fec094cb54114e",
+      "title": "Viaduto que liga Jardim Santa Helena a UFSCar, em São Carlos (SP), terá interdição temporária a partir deste sábado (22) - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ0RMd21vN0ttTnZ1SHl3MjZvWUNORzRlbDBvMHVHLVdvSlZuZ1FVdDA4SU9NRjk1UUlpb1U1enV5LXVqWjdTNFREd0o4S3R2U3FzZEozREJDZ0hXMHQwY2Z0NGlNZXdwWjJ5RnBBWWtYLUhoT3daSkY2TWd6c01HdnFIY0E0Q1I3ZTlBYWMtTWE2dVRrazUyOWx5RHgtQ0hEOW9rbUZ3MlJlbXZvMXpfOUZ2U2hWSmZJRlpISkhZMGJ3djNnQi1VdVJYNUI3NXRmNGRFTUdTT202S1ZUYmlr?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-22T01:48:33+00:00",
+      "published_raw": "Sat, 22 Aug 2026 01:48:33 GMT",
+      "snippet": "Viaduto que liga Jardim Santa Helena a UFSCar, em São Carlos (SP), terá interdição temporária a partir deste sábado (22) lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-22T06:19:36.148077+00:00"
+    },
+    {
+      "id": "5b09afec9963250a9166e1fab494b8db27ae302b95748402c50848d71e3fd897",
+      "title": "RJ: Novo centro de saúde pode fazer até 7 mil exames por mês - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFUtT0E1MXN1Q2x6Nmh1TFFuaWZpX3lfWXFzdzlnTlNfVmQ4UmkyWUdUcVJsX1BkV2hoY3NMTE1oWWFnNzZJRDdrWVlUMmpmWFZzTGk5YkRhNUtrSk5NQV9ZbERZR3pRTElOR0lkRmpBQmE4MnYzQkJmWm9FclVydnY4SmhDMF80eEV3a2lzM0lJOXZjcFhQRnBhOXFBM1Exa1VTYm93OTY?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-22T01:48:31+00:00",
+      "published_raw": "Sat, 22 Aug 2026 01:48:31 GMT",
+      "snippet": "RJ: Novo centro de saúde pode fazer até 7 mil exames por mês lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-22T06:19:48.291205+00:00"
+    },
+    {
       "id": "f35ab5bdc6903ef555cdebd8b6fdaf0eab2a1fb31d4af862e8a454796f19f334",
       "title": "Trânsito alterado: Ecovias inicia obras sob viaduto da Washington Luís neste sábado - portaldacidade.com",
       "source": "portaldacidade.com",
@@ -54,13 +105,30 @@
       "published": "2026-08-22T00:57:00+00:00",
       "published_raw": "Sat, 22 Aug 2026 00:57:00 GMT",
       "snippet": "Trânsito alterado: Ecovias inicia obras sob viaduto da Washington Luís neste sábado portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:36:58.271197+00:00"
+      "collected_at": "2026-08-22T06:19:36.147796+00:00"
+    },
+    {
+      "id": "f1f6c462672d0bb4e75514e4b7a3fb541d27edc7da63aae881176877253e8b42",
+      "title": "Bets são bloqueadas para milhões de beneficiários de programas sociais - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVJFYUdCTGp4QnBXMHMzV29ySWNBaHNKdzFwTkg2WGNBc1UzSzBFTGJkT25KU1p1NUxrSHliZFJzNWJpZnBWdGZ1cGdaSkV1N1c5OUVBeHBxcERBdGNvQ0xCdUt5ZEkzNzZ4VnI0UG9aX3JYbk9WbnJPVWhKelZYS0pLLURybFBhT1dxblV1REJGYkcweGlibUQ1RU9wN3h6bzF4WFNWT3U0a3JBTktkTGdiVklLNEk?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-22T00:45:50+00:00",
+      "published_raw": "Sat, 22 Aug 2026 00:45:50 GMT",
+      "snippet": "Bets são bloqueadas para milhões de beneficiários de programas sociais lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-22T06:19:48.964721+00:00"
     },
     {
       "id": "2e6f6cca4c72f032c7467a00eaedc3182f036b5012fc5452089f01cf0fe3ec33",
@@ -77,30 +145,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:36:58.271098+00:00"
-    },
-    {
-      "id": "403b8f026b1d06ab5c6636232d9002f2ab1a764f419d92d1c056ecc869e0192f",
-      "title": "Prefeitura comemora avanço das obras da marginal que vai ligar a Getúlio Vargas ao Jardim Tangará - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTG1zTmkxTTZZMXVIWkM1OGRwc1hnODBvX3BvTGpScXhQendpb1BqSThkd2pHejloUnNLMUF3bFRZR1BGUzhYOVBVR2pCR0p2YV9qZjd2dXpQT3hGQzNSdGxyeXgwZ0JLbUNfSXJfSm52QUFlemRGVFYxLUhKTjdDSXdHdWtiTWhmRXI2bnB3cEtqdXNrM3hoS3BwVjFLOG0yT3p1eS1qVXFfZlYxblpIMkRJeXRpRFVGRi1IZE90MlVUWjY0aktZUg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-21T22:45:20+00:00",
-      "published_raw": "Fri, 21 Aug 2026 22:45:20 GMT",
-      "snippet": "Prefeitura comemora avanço das obras da marginal que vai ligar a Getúlio Vargas ao Jardim Tangará Região em Destake",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-22T03:37:08.044359+00:00"
+      "collected_at": "2026-08-22T06:19:36.147675+00:00"
     },
     {
       "id": "3ce014520251133f0dfa0438f1fb10b3599415c6a353639984708a86136aae9b",
       "title": "Nova marginal da Washington Luís vai ligar Getúlio Vargas ao Jardim Tangará em São Carlos - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSF9kYWczc24xei1PSV9SRXEwamY1c09SckFJS0JVY3R0dS1NWEhyOTZsajhaUkFtLU9kTnh2T3BoU2paYi00aEN3eTcyVDNuLW8tMWN4QXpFX2xkdnpkSTdWNUE5TjVScHVqR29TV1FocmlUeG9kczZoaEZVZkY3bXY0UTVpd9IB5wJBVV95cUxPNk1aalpmMWFWUEVoV1ZRMU1jSU12SWdFcmNDZ3BROW5SZ1dQdlBqM2lDQTFlMFk0eEYzUzZlaTJreWNvQ3hmSFRDNjg1cU5VSk54aDloVHRkTzNER1pzaE9xTDhFNVhqSjF2dlRmeE85cE94VUpLWXNlLThjdjkxX2RzUHdaRjk1UF9ucVREend5enlOVlVWZHgwUU9vR25XYi1zSENIOWZpdUxidmhzNC11ZlNnYzY3YUZGSzZYNkpydG5qUEprWTBNaG0yQmsyRk95VTNNT3p1MDFjVEg5MjBUYjdiYU1YUUtHSkEwNC1hcy1YeTM4Y2NaMHNjMFM0bzNfaUNyZXYtZGowQVZMX2xuN05qZFAxTTBPQnhsVk1ianIxano0dzVuVV9qdmI3WXdSdHE0Tlh6YUhCSTJxVnQtU0QwX0JtR0t2NHBoVmJadUlRXzZtcnFjWEFwaEhVN0JSOW9MRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSF9kYWczc24xei1PSV9SRXEwamY1c09SckFJS0JVY3R0dS1NWEhyOTZsajhaUkFtLU9kTnh2T3BoU2paYi00aEN3eTcyVDNuLW8tMWN4QXpFX2xkdnpkSTdWNUE5TjVScHVqR29TV1FocmlUeG9kczZoaEZVZkY3bXY0UTVpd9IBiwFBVV95cUxNSm8yUlNScU9RWTZyVVo3TlRXTElvWGtHNkVRVVN6cXBUcWJ1MzJ4dW96OG1vdEhLWnp3a285YVZIa004azA2M0YwaG9nV1o0N3R3MFZ5N1lPMnhuNENDRkRsSTJ0Y1FHS29rc2NTT3hzaTNhaVNIZi01TFprakY5U2FQMGs2UFJDMS1r?oc=5",
       "resolved_link": "",
       "published": "2026-08-21T21:48:44+00:00",
       "published_raw": "Fri, 21 Aug 2026 21:48:44 GMT",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:37:11.252385+00:00"
+      "collected_at": "2026-08-22T06:19:50.701573+00:00"
     },
     {
       "id": "8071c561279c6e62cf5163f8559b73df3be9fedd8e3d9b8abde0594bd46ee527",
@@ -122,13 +173,13 @@
       "published": "2026-08-21T20:29:21+00:00",
       "published_raw": "Fri, 21 Aug 2026 20:29:21 GMT",
       "snippet": "Obra de marginal avança e promete desafogar trânsito na região da Getúlio Vargas Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:37:09.651494+00:00"
+      "collected_at": "2026-08-22T06:19:47.103405+00:00"
     },
     {
       "id": "b6bbccd3919a641f37e544bb22004a71e7b2e6dce29bec7df5d72ec00cdf01a1",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:36:58.271385+00:00"
+      "collected_at": "2026-08-22T06:19:36.147990+00:00"
     },
     {
       "id": "54cb6d904efe12ea40742a5d705814ed8846c3bf0d553e8ed63ef3cedece8660",
@@ -156,13 +207,13 @@
       "published": "2026-08-21T16:47:17+00:00",
       "published_raw": "Fri, 21 Aug 2026 16:47:17 GMT",
       "snippet": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de amanhã Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:36:58.271299+00:00"
+      "collected_at": "2026-08-22T06:19:36.147901+00:00"
     },
     {
       "id": "1c6bbf67b661448b87da573f602fc9cd120aa2c0da1ee4b5cfc8f91657f7276e",
@@ -179,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T03:37:08.044600+00:00"
+      "collected_at": "2026-08-22T06:19:47.103780+00:00"
     }
   ]
 }
