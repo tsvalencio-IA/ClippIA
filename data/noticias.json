@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-22T06:31:14.306437+00:00",
+  "updated_at": "2026-08-22T09:16:50.995852+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 12,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "e40aac7dcbe62118e41d4a87bd269713eed905084b99edd4dac0e087c75d01b0",
+      "title": "Segundo viaduto tem interdição em São Carlos e amplia transtornos no trânsito | - Região em Destake",
+      "source": "Região em Destake",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3o2bDdzSTlibmVjNDIxX3VUeU1lZ2ZFUzVQZWItUmVOWkFLTTZZcWtxN2x6Z05GREZPbGpJeGg4Ml9VRUktZU9BN1ZOd1pHSUh4cmlfQUhmdG9haVp4YVNyLW96T2RZb05Ba1M4ZUF6akJ4eTZBVU15cEtXRWNMazVDSlIyNll5U2dDZXU1YTBFNGhLYjJGY2c0bnJRMzFXUENBYUl5Wi1qaGtEMFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-22T09:15:03+00:00",
+      "published_raw": "Sat, 22 Aug 2026 09:15:03 GMT",
+      "snippet": "Segundo viaduto tem interdição em São Carlos e amplia transtornos no trânsito | Região em Destake",
+      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-22T09:16:46.771364+00:00"
+    },
+    {
       "id": "7b4ece5aa76742bc96d38062a0a0441e21097ce607f033c4b79b2c7a7685d907",
       "title": "Viaduto que liga Jardim Santa Helena a UFSCar terá interdição temporária a partir de hoje - São Carlos no - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:08.566634+00:00"
+      "collected_at": "2026-08-22T09:16:45.105188+00:00"
     },
     {
       "id": "b89eafef41b3dd10e9b00cc4f04bc80eb0c5da1f89ead72bc5fec094cb54114e",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:30:58.627001+00:00"
+      "collected_at": "2026-08-22T09:16:34.762192+00:00"
     },
     {
       "id": "5b09afec9963250a9166e1fab494b8db27ae302b95748402c50848d71e3fd897",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:09.658201+00:00"
+      "collected_at": "2026-08-22T09:16:46.192249+00:00"
     },
     {
       "id": "f35ab5bdc6903ef555cdebd8b6fdaf0eab2a1fb31d4af862e8a454796f19f334",
@@ -105,13 +122,13 @@
       "published": "2026-08-22T00:57:00+00:00",
       "published_raw": "Sat, 22 Aug 2026 00:57:00 GMT",
       "snippet": "Trânsito alterado: Ecovias inicia obras sob viaduto da Washington Luís neste sábado portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:30:58.626659+00:00"
+      "collected_at": "2026-08-22T09:16:34.761923+00:00"
     },
     {
       "id": "f1f6c462672d0bb4e75514e4b7a3fb541d27edc7da63aae881176877253e8b42",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:10.191561+00:00"
+      "collected_at": "2026-08-22T09:16:46.771770+00:00"
     },
     {
       "id": "2e6f6cca4c72f032c7467a00eaedc3182f036b5012fc5452089f01cf0fe3ec33",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:30:58.626563+00:00"
+      "collected_at": "2026-08-22T09:16:34.761826+00:00"
     },
     {
       "id": "3ce014520251133f0dfa0438f1fb10b3599415c6a353639984708a86136aae9b",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:11.786626+00:00"
+      "collected_at": "2026-08-22T09:16:48.394276+00:00"
     },
     {
       "id": "8071c561279c6e62cf5163f8559b73df3be9fedd8e3d9b8abde0594bd46ee527",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:08.566469+00:00"
+      "collected_at": "2026-08-22T09:16:45.104991+00:00"
     },
     {
       "id": "b6bbccd3919a641f37e544bb22004a71e7b2e6dce29bec7df5d72ec00cdf01a1",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:30:58.626917+00:00"
+      "collected_at": "2026-08-22T09:16:34.762109+00:00"
     },
     {
       "id": "54cb6d904efe12ea40742a5d705814ed8846c3bf0d553e8ed63ef3cedece8660",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:30:58.626822+00:00"
+      "collected_at": "2026-08-22T09:16:34.762022+00:00"
     },
     {
       "id": "1c6bbf67b661448b87da573f602fc9cd120aa2c0da1ee4b5cfc8f91657f7276e",
@@ -224,13 +241,13 @@
       "published": "2026-08-21T13:20:21+00:00",
       "published_raw": "Fri, 21 Aug 2026 13:20:21 GMT",
       "snippet": "Obras da terceira faixa interditam trecho da Washington Luís até setembro EcoSerrano",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-22T06:31:08.566843+00:00"
+      "collected_at": "2026-08-22T09:16:45.105354+00:00"
     }
   ]
 }
