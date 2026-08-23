@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-23T18:21:09.563348+00:00",
+  "updated_at": "2026-08-23T21:10:57.939046+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T18:20:53.412850+00:00"
-    },
-    {
-      "id": "ce0c4731fef895ed1d65d1d1e2d065eee55896ad781b08e9a2e0788cd18ab8c5",
-      "title": "CNH digital vai mostrar cobranças de free flow; entenda - SBT News",
-      "source": "SBT News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGtkdndROTlMYVItSWtlTWg0cDU4dFB1cHBtSHJmdEdiWXh4MHVkazlEdVlCNDI1bFNGQ1RqVmJvVDVORXBFc3oxcGg0YnBrNEpfX2pkeWtpS0RlNUtQUnBLdXRpVHU3dGlSdWFYRlNnUHRxRVAyN0oxSU0yUVRzRUVuc19Nem10ZUR5S2p3VFBpdHMwYzNpMWlubnM?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-22T19:31:05+00:00",
-      "published_raw": "Sat, 22 Aug 2026 19:31:05 GMT",
-      "snippet": "CNH digital vai mostrar cobranças de free flow; entenda SBT News",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-23T18:20:53.962684+00:00"
+      "collected_at": "2026-08-23T21:10:42.180500+00:00"
     }
   ]
 }
