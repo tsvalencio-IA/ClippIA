@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-23T09:22:50.374116+00:00",
+  "updated_at": "2026-08-23T12:17:08.242449+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 2,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T09:22:35.750791+00:00"
+      "collected_at": "2026-08-23T12:16:53.607221+00:00"
     },
     {
       "id": "6eb4e89231326600da53b34fe32a8aca9782242b8d28773c1e03e4561d94eab1",
@@ -77,41 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T09:22:35.217969+00:00"
-    },
-    {
-      "id": "e40aac7dcbe62118e41d4a87bd269713eed905084b99edd4dac0e087c75d01b0",
-      "title": "Segundo viaduto tem interdição em São Carlos e amplia transtornos no trânsito | - Região em Destake",
-      "source": "Região em Destake",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3o2bDdzSTlibmVjNDIxX3VUeU1lZ2ZFUzVQZWItUmVOWkFLTTZZcWtxN2x6Z05GREZPbGpJeGg4Ml9VRUktZU9BN1ZOd1pHSUh4cmlfQUhmdG9haVp4YVNyLW96T2RZb05Ba1M4ZUF6akJ4eTZBVU15cEtXRWNMazVDSlIyNll5U2dDZXU1YTBFNGhLYjJGY2c0bnJRMzFXUENBYUl5Wi1qaGtEMFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-22T11:41:14+00:00",
-      "published_raw": "Sat, 22 Aug 2026 11:41:14 GMT",
-      "snippet": "Segundo viaduto tem interdição em São Carlos e amplia transtornos no trânsito | Região em Destake",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-23T09:22:35.217756+00:00"
-    },
-    {
-      "id": "6d493f649776a281a31dab84bd2dd097573cb45b1e657bccd1292a519fb605b7",
-      "title": "Obras de marginal entre Getúlio Vargas e Jardim Tangará avançam em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdzNHU3RBa2x0bTg3emlvTkFWMXpmZDl6cUtRVkMzNWhDQ2ZvWndpSHoyVmlwdnBsOF9ldXp5WmdDQlVWRDlRejE2R25Tb1FzWHFTazViMnAydGhzcFo1Y25SS3MzRmY4ajI1ZnhLT2dMWm5uNG55TFhPWWxZYTZFdHcwTU9TMWhvUGVScExaR3J5R2ktQ0JMTHpnUlJSV25rZWlIUDI0QWFYSG53Q1hMbEJBRjNkVFgxZVZPUGhLTFDSAcABQVVfeXFMTXczR1N0QWtsdG04N3ppb05BVjF6ZmQ5enFLUVZDMzVoQ0Nmb1p3aUh6MlZpcHZwbDhfZXV6eVpnQ0JVVkQ5UXoxNkduU29Rc1hxU2s1YjJwMnRoc3BaNWNuUktzM0ZmOGoyNWZ4S09nTFpubjRueUxYT1lsWWE2RXR3ME1PUzFob1BlUnBMWkdyeUdpLUNCTEx6Z1JSUldua2VpSFAyNEFhWEhud0NYTGxCQUYzZFRYMWVWT1BoS0xQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-22T09:39:43+00:00",
-      "published_raw": "Sat, 22 Aug 2026 09:39:43 GMT",
-      "snippet": "Obras de marginal entre Getúlio Vargas e Jardim Tangará avançam em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-23T09:22:35.217856+00:00"
+      "collected_at": "2026-08-23T12:16:53.097551+00:00"
     }
   ]
 }
