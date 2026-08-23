@@ -1,16 +1,11 @@
 {
-  "updated_at": "2026-08-23T18:13:16.277240+00:00",
+  "updated_at": "2026-08-23T18:21:09.563348+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
   "total_images": 0,
   "new_items": 2,
-  "errors": [
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
-    }
-  ],
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -65,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T18:12:32.403317+00:00"
+      "collected_at": "2026-08-23T18:20:53.412850+00:00"
     },
     {
       "id": "ce0c4731fef895ed1d65d1d1e2d065eee55896ad781b08e9a2e0788cd18ab8c5",
@@ -82,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T18:12:32.927729+00:00"
+      "collected_at": "2026-08-23T18:20:53.962684+00:00"
     }
   ]
 }
