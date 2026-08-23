@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-23T03:40:20.964436+00:00",
+  "updated_at": "2026-08-23T03:45:26.506452+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 5,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T03:40:06.025917+00:00"
+      "collected_at": "2026-08-23T03:45:11.498335+00:00"
     },
     {
       "id": "6eb4e89231326600da53b34fe32a8aca9782242b8d28773c1e03e4561d94eab1",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495909+00:00"
+      "collected_at": "2026-08-23T03:45:10.985278+00:00"
     },
     {
       "id": "e40aac7dcbe62118e41d4a87bd269713eed905084b99edd4dac0e087c75d01b0",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495598+00:00"
+      "collected_at": "2026-08-23T03:45:10.984721+00:00"
     },
     {
       "id": "6d493f649776a281a31dab84bd2dd097573cb45b1e657bccd1292a519fb605b7",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495862+00:00"
-    },
-    {
-      "id": "f0b6688d18378aa9b01e33be86c90ffe1c51187b8fc50adb9eb282d8e54a4cd3",
-      "title": "São Carlos recebe programa \"Na Pista Certa\" com atividades de educação para o trânsito para - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWlDYlk4Z0tQWGo5VVM0Wk9mQnlfUHBCNjcwazhxRTljdHFZcXRVZUxnY1J3NWpBM3h5QWV1dC15SUZYZGo0cHdWMVhNeUhGSndNSU1IT0UwWk5RNTZ1N1V6VzdLcGVNMmtrbUFxYW96TjJ4dkF4cVNsZldXWlVaVm9fZEJ5dzZpczhFUHVJa0dPWGhDd0RnYTJYLVpaT1BtaW85TW1neVliODZnTVpDaTBsZm0xSlZMRDlWTC0tZnNNUkYyaW9FOFFrQTjSAcwBQVVfeXFMUEFpQ2JZOGdLUFhqOVVTNFpPZkJ5X1BwQjY3MGs4cUU5Y3RxWXF0VWVMZ2NSdzVqQTN4eUFldXQteUlGWGRqNHB3VjFYTXlIRkp3TUlNSE9FMFpOUTU2dTdVelc3S3BlTTJra21BcWFvek4yeHZBeHFTbGZXV1pVWlZvX2RCeXc2aXM4RVB1SWtHT1hoQ3dEZ2EyWC1aWk9QbWlvOU1tZ3lZYjg2Z01aQ2kwbGZtMUpWTEQ5VkwtLWZzTVJGMmlvRThRa0E4?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-22T04:23:57+00:00",
-      "published_raw": "Sat, 22 Aug 2026 04:23:57 GMT",
-      "snippet": "São Carlos recebe programa \"Na Pista Certa\" com atividades de educação para o trânsito para São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495672+00:00"
+      "collected_at": "2026-08-23T03:45:10.985135+00:00"
     },
     {
       "id": "82e16154260d96dac7e8a746bce24dac7ecf4f594ca2c3a879c15111d31394cc",
@@ -145,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495810+00:00"
-    },
-    {
-      "id": "5b9562ce346a8639106c85f05025e4a26a1d61594dd28d85be041e3222985f1b",
-      "title": "Semana da Deficiência Intelectual e Múltipla terá apresentações artísticas no Teatro Municipal - São Carlos - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDJlTzE2V01rb2xBSnZFeDAydExnOVo0T1g0RDJ0bFdFSWY2R05aM1IyV1ljWW9pVHVUZnN4YVQxNzRZRUtjc1g5eWN1bzZ1eGR1MkEzczRsOU0tQy1nX2FHMjQ0S1Z0emZ0ZmtQZ3lldmUxRFFpaXY4WlZwYzJXc3BOOWcxVUwxYW1QQnBtWGN3VUdYeGxNRkR4dlNfNURHbmgzUW5oWG5Ib1pXYkNPZktCVXlOa2E4VTgxYktjY0pic1lmODQ00gHHAUFVX3lxTE5QMmVPMTZXTWtvbEFKdkV4MDJ0TGc5WjRPWDREMnRsV0VJZjZHTlozUjJXWWNZb2lUdVRmc3hhVDE3NFlFS2NzWDl5Y3VvNnV4ZHUyQTNzNGw5TS1DLWdfYUcyNDRLVnR6ZnRma1BneWV2ZTFEUWlpdjhaVnBjMldzcE45ZzFVTDFhbVBCcG1YY3dVR1h4bE1GRHh2U181REduaDNRbmhYbkhvWldiQ09mS0JVeU5rYThVODFiS2NjSmJzWWY4NDQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-22T04:09:43+00:00",
-      "published_raw": "Sat, 22 Aug 2026 04:09:43 GMT",
-      "snippet": "Semana da Deficiência Intelectual e Múltipla terá apresentações artísticas no Teatro Municipal - São Carlos São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-23T03:40:05.495735+00:00"
+      "collected_at": "2026-08-23T03:45:10.984965+00:00"
     }
   ]
 }
