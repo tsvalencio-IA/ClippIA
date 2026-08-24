@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-24T12:38:58.365817+00:00",
+  "updated_at": "2026-08-24T15:27:52.181660+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 1,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,23 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "fec77713d2a3d5ba767feae07cecd049cb1de1c6496752efdbd7b7c1052b4b22",
+      "title": "Passou pelo free flow? CNH do Brasil agora mostra a cobrança e onde pagar - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFdVeEkxSENkLW9DcHhiZzBGZ1NhNGpsdEF2T0o1V3g1YTQ4Q2tpRUVkaVBTUkdremVXdjFJQUJxOWpVekZOdnRQd1Y2dFFkRUozUGxqazhrNUtHanFVNDZfOUxQOTRJaWRTZmx6MC0wREZHVGJydHRsbG5SNVMxdU1YYXJBLVNqLXctZXUtV2hVSnFEZjNEM3FMRV9zZmc0WG5DQVdkUWZOMkp0cGw3VUhHUmZOTlBXQjhacGM4MG3SAcYBQVVfeXFMTm5yTTQ1bFJ2RTF4Q04tM3NLSFh5Tl9CdXA4RUlTejZhSkJTb3p0aWdDLUx0bHB2NV9nODd5WmFVNS02WGpPREZNZzIzaUVTQkJnVFRQQlFLaGdCLVFmMEtXTUpHTmMtQ3JqaWl2UzdVUG9PSGZ6QnZfc0JHSVNobDR5c0szY1llMy1wbnNETkRkcU9zbE5XNWRpTnNBenl1ZXhRbHFvVlFYcEZjN0RZc3h3MFFsRmFXQUJDNjhCV1YtbjJtQ213?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-24T15:20:22+00:00",
+      "published_raw": "Mon, 24 Aug 2026 15:20:22 GMT",
+      "snippet": "Passou pelo free flow? CNH do Brasil agora mostra a cobrança e onde pagar ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-24T15:27:37.437719+00:00"
+    }
+  ]
 }
