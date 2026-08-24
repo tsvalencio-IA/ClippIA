@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-24T12:23:54.281756+00:00",
+  "updated_at": "2026-08-24T12:38:58.365817+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "a08193743ae14d3ab52af6a7d2397674ac91aff99877223b09762fa38bae730b",
-      "title": "Prefeitura comemora avanço de obras de marginal ligando a Getúlio Vargas ao Jardim Tangará - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVRlX3Z5YnpGUS1XZ25QXzZOSVp1ZWRBay02WWFXcWM1c0hwdmxMMW92bTloYUpCdERsd2c3cms3MVQ5X25ES1B3VUZKTkVNcTdyWS1KWEhVLWhKamNIZUxTYkhGczFvU1Fsb3hWVVBTWEJBT3ZjNnNoanNsVmhwUTNrSzlnOHhhdm9QSkRsQkV3RFBPQi1ZMWt6RjJKSjVNLTB3djRRMXFsWU5sNHRZX05ENGdSVk1VOWJIZXJ6SXRNbHUyMnJNWUMwblZqelUw?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-23T12:36:56+00:00",
-      "published_raw": "Sun, 23 Aug 2026 12:36:56 GMT",
-      "snippet": "Prefeitura comemora avanço de obras de marginal ligando a Getúlio Vargas ao Jardim Tangará Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-24T12:23:38.244699+00:00"
-    }
-  ]
+  "items": []
 }
