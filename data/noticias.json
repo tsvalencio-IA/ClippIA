@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T18:22:48.496010+00:00",
+  "updated_at": "2026-08-24T18:32:44.493979+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 5,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-24T18:22:31.981970+00:00"
+      "collected_at": "2026-08-24T18:32:25.360851+00:00"
     },
     {
       "id": "e80458cb1d04788d69801553a0cbf1d6bcf4b816c34fdef601ef03befb3c7723",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-24T18:22:33.692954+00:00"
+      "collected_at": "2026-08-24T18:32:27.249984+00:00"
     },
     {
       "id": "392be6de01f6841f7e44913637909de41563139dfc6842283525ec5e93734c37",
@@ -88,13 +88,13 @@
       "published": "2026-08-24T16:12:02+00:00",
       "published_raw": "Mon, 24 Aug 2026 16:12:02 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 24/8 a 30/8/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-24T18:22:31.981796+00:00"
+      "collected_at": "2026-08-24T18:32:25.360733+00:00"
     },
     {
       "id": "fec77713d2a3d5ba767feae07cecd049cb1de1c6496752efdbd7b7c1052b4b22",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-24T18:22:34.263748+00:00"
+      "collected_at": "2026-08-24T18:32:27.892125+00:00"
     },
     {
       "id": "b0bdd338a73bc70aac38298586f2509938f92793494fe83b5b6f34f350e65009",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-24T18:22:31.981888+00:00"
+      "collected_at": "2026-08-24T18:32:25.360797+00:00"
     }
   ]
 }
