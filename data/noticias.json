@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:37:24.398755+00:00",
+  "updated_at": "2026-08-25T18:22:15.544778+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 9,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "216704a6e9100c28706ecaa95fa6a203e4df47527de79e646d56e3611a96e3ee",
+      "title": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTNpazdwLWg2c1MzLVRQandKZjFIQ201dFFBOTZLUVdNNHdfM2E3bEhVY3dVMDZxVElEdElab19CNUxkU1UzZ09zeDl2UU1PY1BnVDFXSnlWNlA0ZWhSMXlDbUp6YTdiYTVaZE1LN2tTTVYzZ29wUWRXd29fODQyNkhhUEFwNHEwTVBtaGNrajFJR2ZxNW5vZ2tjR0VZZTZQYzh4NnZabGJkV00zRXRNd0dvc0dGVkdJ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-25T17:35:00+00:00",
+      "published_raw": "Tue, 25 Aug 2026 17:35:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo Votunews",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-25T18:22:10.399887+00:00"
+    },
+    {
+      "id": "498f1cb4a4cc26759f6475fef3515a79a16919ca4e947398f6acc6e3043fe539",
+      "title": "Pedágio free flow: veja como consultar cobranças pelo aplicativo CNH do Brasil - R7",
+      "source": "R7",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQW9lelFObVlVY1N4dUk2alVPT1JMaHFCMlNZQ3M3NVFna0d4MTU1LUZ6dUp2TTZnSkR4WE40T2dBeWwya1JmUDB3bC1NLS1MODY4akU2aW9xWEgza1RuVVU1WHg2cWFGMTFWcXhYZGZNTDVuQ3VtLTRYR0oyYXE4cHZ3SFZ5VkVBM0RjUXMxa2pfZk8xZUNCanJSUHJqU2hyamd4Q19ZaUFtZWtXSUJfTzNIOVY1aW8yTWRjTFFHNDlmYjBaa0FLUFFiQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-25T17:01:12+00:00",
+      "published_raw": "Tue, 25 Aug 2026 17:01:12 GMT",
+      "snippet": "Pedágio free flow: veja como consultar cobranças pelo aplicativo CNH do Brasil R7",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-25T18:22:00.124381+00:00"
+    },
+    {
       "id": "133b847b76683b6d8dc46238de4c3b0f0b21bec7bcea04842ea874fa8c07fd59",
       "title": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo - Região Noroeste",
       "source": "Região Noroeste",
@@ -54,13 +88,13 @@
       "published": "2026-08-25T11:56:00+00:00",
       "published_raw": "Tue, 25 Aug 2026 11:56:00 GMT",
       "snippet": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:08.131444+00:00"
+      "collected_at": "2026-08-25T18:21:57.761421+00:00"
     },
     {
       "id": "74cba55d2a953ef2f678ba75e74174e712ba549f84749e3c61b4ba7b9ae987c1",
@@ -71,13 +105,30 @@
       "published": "2026-08-25T11:55:48+00:00",
       "published_raw": "Tue, 25 Aug 2026 11:55:48 GMT",
       "snippet": "Projeto de conscientização ambiental alcança 1.800 estudantes em cinco cidades Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-25T18:21:57.761294+00:00"
+    },
+    {
+      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFphUnVTd0x1NDVXSndWTGV3TkcwdlF3TFc0bjVGbFNqRkc4VFd2Tm9pT0xXS2k2TGFrWFJlXzRZMzhhZWFWR19ldjZvR3c3Ujc3VkdfQ2RjTkt2UXdNQmVFdTduWU80enRTSlkwLXBpYWZpVmJDc0pfOFF0OERzT3gxSmRWTHdRWklTSlY1UGhPd3NT?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-25T11:09:48+00:00",
+      "published_raw": "Tue, 25 Aug 2026 11:09:48 GMT",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:18.521476+00:00"
+      "collected_at": "2026-08-25T18:21:57.761065+00:00"
     },
     {
       "id": "17ed6a6b95e4750ea0c161749ce734d95433fefada579699e6db41d1fb856942",
@@ -88,13 +139,13 @@
       "published": "2026-08-25T10:25:32+00:00",
       "published_raw": "Tue, 25 Aug 2026 10:25:32 GMT",
       "snippet": "Free Flow terá consulta pelo aplicativo CNH do Brasil Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:10.271679+00:00"
+      "collected_at": "2026-08-25T18:21:59.549416+00:00"
     },
     {
       "id": "ab4568023645c307c4141c6112f77b12ff755ed956416e4ba9748b3e2561b2c6",
@@ -105,13 +156,13 @@
       "published": "2026-08-25T02:30:00+00:00",
       "published_raw": "Tue, 25 Aug 2026 02:30:00 GMT",
       "snippet": "Rodovia Fernão Dias terá interdição alternada para obras no viaduto Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:10.271737+00:00"
+      "collected_at": "2026-08-25T18:21:57.761557+00:00"
     },
     {
       "id": "a7ef89531daf75a419a3adf7071d2e069397720211cd95529391136b894968f1",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:08.131517+00:00"
+      "collected_at": "2026-08-25T18:21:57.761492+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -145,58 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T15:37:08.131228+00:00"
-    },
-    {
-      "id": "8b43425ce825936b48e36b76169036bc2282072e273550de9b2f6b14498df828",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 24/8 a 30/8/2026 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzBNaGItN3hsVlRlTjBiZmplX3NzbnRUNHludFNRWU5RcUtXQTFSWTZxSGhDeDZIN3lXdTF6LUJXXzBmZlI0d3Q0czFuamg2aUdaRnZ3M2NyYlRtYnNIbUN5M3FMb25zRDkyOU5vN19RWGprM2NfdW9iTkktZm9XcXM5eV9yNG5CZ1VvbWZEOF9uRV83d05Hb2plZFFOalFTT1Vkdnpienl6MWxkemZiV1QzZE84Zw?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-24T18:06:31+00:00",
-      "published_raw": "Mon, 24 Aug 2026 18:06:31 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 24/8 a 30/8/2026 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-25T15:37:08.131039+00:00"
-    },
-    {
-      "id": "5db0a58f413ca3dfc5545858187bac29d631270c2f5d95b48a66edc2e06fdd02",
-      "title": "Obras da 3ª faixa da Washington Luís alteram tráfego entre Rio Preto e Mirassol - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWlxSDloUXNWVl9WTWxTWnd1eEY1aTFuU2J4NzBCUjB6N25qbGo4c21DbnhnNm1oSmhmNlVTYXdvVDBfbTViWGI3RGw3VDhzcW1weXhXY3lMUEZqQ3lPMDVjbWpXaHpqdE80cHQ5d3ZwWmNrVy1IcTZ0QzlmNzNfUjFNRVgxd05RVWxKcFlJV3oxbFRZa1ZfUWFJczRUazZRWEVyeGxKVUpuaVc5UTlqOVUxNkRGaHpUZE9DLUQxMkRrUkFOaDV2em13eEZFLU40TFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-24T17:01:00+00:00",
-      "published_raw": "Mon, 24 Aug 2026 17:01:00 GMT",
-      "snippet": "Obras da 3ª faixa da Washington Luís alteram tráfego entre Rio Preto e Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-25T15:37:08.131598+00:00"
-    },
-    {
-      "id": "e80458cb1d04788d69801553a0cbf1d6bcf4b816c34fdef601ef03befb3c7723",
-      "title": "Pedágio Free Flow: veja como consultar cobranças no app CNH do Brasil - Autoesporte",
-      "source": "Autoesporte",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcTdHRy13Q3JDR1hfNTdkS3pvYkJYSEJ5YnI2MV9zZUZ1dGdPTUdxOXhPLXExWWlmb2RsQnZSTVhaYU1GUExFVmZjTW82UHU0M0p4bllYTDVZTkhtSTktNnFjUjVJZ1RZWEhrSlNyTFBjT1dnYm1xM0NHNFFzd0VXbmZ0MmxLZGJTaklpd2xwWi1ISDc1VExUV05LMzlWREw5aThhNjdQUmVBdHpfQTNtaWtKQi1SNjMzMjhMYXpyckR2SUF5c2Y1MVFhMjJwd2fSAc8BQVVfeXFMTnE3R0ctd0NyQ0dYXzU3ZEt6b2JCWEhCeWJyNjFfc2VGdXRnT01HcTl4Ty1xMVlpZm9kbEJ2Uk1YWmFNRlBMRVZmY01vNlB1NDNKeG5ZWEw1WU5IbUk5LTZxY1I1SWdUWVhIa0pTckxQY09XZ2JtcTNDRzRRc3dFV25mdDJsS2RiU2pJaXdscFotSEg3NVRMVFdOSzM5VkRMOWk4YTY3UFJlQXR6X0EzbWlrSkItUjYzMzI4TGF6cnJEdklBeXNmNTFRYTIycHdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-24T16:25:31+00:00",
-      "published_raw": "Mon, 24 Aug 2026 16:25:31 GMT",
-      "snippet": "Pedágio Free Flow: veja como consultar cobranças no app CNH do Brasil Autoesporte",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-25T15:37:10.271621+00:00"
+      "collected_at": "2026-08-25T18:21:57.761146+00:00"
     }
   ]
 }
