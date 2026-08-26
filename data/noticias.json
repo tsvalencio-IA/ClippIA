@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-26T16:13:44.108475+00:00",
+  "updated_at": "2026-08-26T19:29:33.170556+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 7,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,13 +46,64 @@
   ],
   "items": [
     {
+      "id": "5ee1fce669ebd055d98bc268e5e5f87323f1e8a99053b71f480b8f091d07ccdd",
+      "title": "Acidente grave deixa vítima presa às ferragens na Washington Luís em Rio Preto (SP) - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzJlVjlpVXZsdThWQ3RLelZBY244ZjdIUnc5X1Bsb09HSGpIbjlNMXRua3c3NU9ZUjYySm1HQTJETlk1c0ZfSXkxZlEydEd0UUJ2VEVKbGJuZXRDT2tKVUVnZldZUzl2UjdhRk5FTlFLTFE5QVJQSEpwSU5oS21zaW9Na0tMMTFuQko1b0cxSnJPOXN5MHpWWVgtb1dPSDRVTkViQ0VaNWIwVTV5V2U1eG0ySS1oYUVxV3NyTnNzUDhwelnSAcMBQVVfeXFMTk8yZVY5aVV2bHU4VkN0S3pWQWNuOGY3SFJ3OV9QbG9PR0hqSG45TTF0bmt3NzVPWVI2MkptR0EyRE5ZNXNGX0l5MWZRMnRHdFFCdlRFSmxibmV0Q09rSlVFZ2ZXWVM5dlI3YUZORU5RS0xROUFSUEhKcElOaEttc2lvTWtLTDExbkJKNW9HMUpyTzlzeTB6VllYLW9XT0g0VU5FYkNFWjViMFU1eVdlNXhtMkktaGFFcVdzck5zc1A4cHpZ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T18:07:24+00:00",
+      "published_raw": "Wed, 26 Aug 2026 18:07:24 GMT",
+      "snippet": "Acidente grave deixa vítima presa às ferragens na Washington Luís em Rio Preto (SP) gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-26T19:29:11.676571+00:00"
+    },
+    {
+      "id": "72331f08d20ba6a8e1ec46b1d6bb89835e6666d43783a31e7ae9adb272fce995",
+      "title": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbzlSY1piODlrejQ3YVdYcVFoNUVVNndsLUt1Mms4WUNCOWZnLTVHU25obUg5VmotR05mYlc3RHgxNTJsQ0tRZF9VWnVRdVBNNlNBX3YtODJ2WXB2NGlNTV9LQUhRM1cyTkhHcjhWYW5saklhVGF1YWYxS1o4enpSVEY3WlIwMmJadmJVbGNxWV9fdVNDYmhzanpaZlF6VUlkcVRTc0tPT3RVbnFfbGhwRHVoWVBJS3Y1TEwyeHExSWVUVFdQR2V1cExhWXpBaU83aFHSAdIBQVVfeXFMTW85UmNaYjg5a3o0N2FXWHFRaDVFVTZ3bC1LdTJrOFlDQjlmZy01R1NuaG1IOVZqLUdOZmJXN0R4MTUybENLUWRfVVp1UXVQTTZTQV92LTgydllwdjRpTU1fS0FIUTNXMk5IR3I4VmFubGpJYVRhdWFmMUtaOHp6UlRGN1pSMDJiWnZiVWxjcVlfX3VTQ2Joc2p6WmZRelVJZHFUU3NLT090VW5xX2xocER1aFlQSUt2NUxMMnhxMUllVFRXUEdldXBMYVl6QWlPN2hR?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T18:06:35+00:00",
+      "published_raw": "Wed, 26 Aug 2026 18:06:35 GMT",
+      "snippet": "Após um ano de obras, Washington Luís recebe 16 km de novas faixas entre Mirassol e Cedral (SP) gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-26T19:29:11.676353+00:00"
+    },
+    {
+      "id": "282924fec958ff38f9959cab71c3f70fffb35c1ff5a74a37abfa63689731f21e",
+      "title": "Otávio Gomes percorre 10 cidades do Noroeste Paulista em um único dia - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNngxS3BKdUY5VW5kSFJNM2ZfZWZabnRBU3dTQUhYRHBEZ3I1NmJaV1p6UF9IbjBuTVBUd0xiaGxZZ3o2M19haFJOQ1BneEdfSWdSSlJKcGRFeHdnNFpaNmZ2ZGpaQ0NaWlUzblVTakE5dGk1M0Q1YzBPUzhJYW8yNlkyMi1QX2dMLVU5QWxROFR4SjZzQXA4T0xKX1VoZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T17:53:00+00:00",
+      "published_raw": "Wed, 26 Aug 2026 17:53:00 GMT",
+      "snippet": "Otávio Gomes percorre 10 cidades do Noroeste Paulista em um único dia Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-26T19:29:11.676453+00:00"
+    },
+    {
       "id": "2e89490989e65a30738653a3da54129ac7a9be747e14413220e29091d4125035",
       "title": "Ecovias libera trecho da terceira faixa da Washington Luís entre Mirassol e Rio Preto - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3JzY1BvRFFvWFlFOXc1M1ZGVUtKWThmdXJxcDktNTJOaWRNZThFUjh3OFJQMXRpNG9pWmpOazRQNHQxbllQajYzOHg4SWJqa2RzNndNTDBSSEFBbEhzOVNpZDZBQV9IWlJubG9NaHVEMWc0STRKY2gxaHVpY056b3hjZVFsTWU1NkVfYlVKNkJZekJFTzUtSFNjSkFmRDhPc3FDTWZZRHZ5TWd6bjlWYU1TMGpoVURUanpJbzI2eXg2MjBISDBINlFCa0xWZFdlZ3Exa0hGeVdnQWZ6RjBR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbHBLZnZEM3hRbDU0d0g5Mmd2Z25FZVRrTEF4UUFJOEpoLWFnYkxRSzRNYnE3a19MQlNQSjItYWRoNWFoaXAxcl91RkNGakQwMElDcjFRdHRjNnVmSWVaYnVZem1DQ3VjWGtxem9yTGFzZXl0UVJ0UmE1ZmdoYkR4akF4UGVvQ0c3SzRldG5wLXVLLTZmdWxGQkhPZG5hd0FrdDZ0ZnRCOTg5bUZ4S3paRjl1QTFQTzRVUWZkR0VPbG50S2FnNHVjYWRha1RhYjQxd0Y5X1k2SWdhTU1aQ1E?oc=5",
       "resolved_link": "",
-      "published": "2026-08-26T13:44:26+00:00",
-      "published_raw": "Wed, 26 Aug 2026 13:44:26 GMT",
+      "published": "2026-08-26T16:47:54+00:00",
+      "published_raw": "Wed, 26 Aug 2026 16:47:54 GMT",
       "snippet": "Ecovias libera trecho da terceira faixa da Washington Luís entre Mirassol e Rio Preto Diário da Região",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T16:13:27.621584+00:00"
+      "collected_at": "2026-08-26T19:29:11.675893+00:00"
+    },
+    {
+      "id": "706b74b438644a48172ad4482105d2ed0ae31b7bc922a8c952eb50a84b3df320",
+      "title": "Terceira faixa é liberada temporariamente entre Mirassol e Rio Preto - band.com.br",
+      "source": "band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnlVbC1LMDZYRzdkMG80bEN3NjN4YVpKVnR0Y0xFUzBnTWo5UnphRjFBSEZyT3BzR081bE1iS0lncG5wQ2xqYW5YRHd3MDV6QUtJSlNQazd1YVRXUjRMY3RJY1hVZFBkYlpkY2Z5ZGg1MHdwYWN4WGx0ejEzSWRXQkFLMTMtZGFCNFloc1BvaWhxeTRtZDRPeW11NXhVYlBPc3VKN1FkUzBaMVFDTzZDYnF3NVhQMG5UX1RDMTE4VFhST2lXNmY0YkNvZE5Yb0RkUWFtbjlkeTJnajYwSnNhdFJGOXlHT0pY?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T16:44:36+00:00",
+      "published_raw": "Wed, 26 Aug 2026 16:44:36 GMT",
+      "snippet": "Terceira faixa é liberada temporariamente entre Mirassol e Rio Preto band.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-26T19:29:11.676013+00:00"
     },
     {
       "id": "c375595894613dfc033af4370eadf064c15b7a65943360af2241f962127f0830",
@@ -77,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T16:13:27.621690+00:00"
+      "collected_at": "2026-08-26T19:29:11.676136+00:00"
     },
     {
       "id": "8bbfd8a615a450f2fa6ac49a2ae55e6d8b3adcdbd13f33a704ecf43886c52df7",
@@ -94,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T16:13:27.621777+00:00"
-    },
-    {
-      "id": "216704a6e9100c28706ecaa95fa6a203e4df47527de79e646d56e3611a96e3ee",
-      "title": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTNpazdwLWg2c1MzLVRQandKZjFIQ201dFFBOTZLUVdNNHdfM2E3bEhVY3dVMDZxVElEdElab19CNUxkU1UzZ09zeDl2UU1PY1BnVDFXSnlWNlA0ZWhSMXlDbUp6YTdiYTVaZE1LN2tTTVYzZ29wUWRXd29fODQyNkhhUEFwNHEwTVBtaGNrajFJR2ZxNW5vZ2tjR0VZZTZQYzh4NnZabGJkV00zRXRNd0dvc0dGVkdJ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-25T17:35:00+00:00",
-      "published_raw": "Tue, 25 Aug 2026 17:35:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-26T16:13:27.621850+00:00"
-    },
-    {
-      "id": "498f1cb4a4cc26759f6475fef3515a79a16919ca4e947398f6acc6e3043fe539",
-      "title": "Pedágio free flow: veja como consultar cobranças pelo aplicativo CNH do Brasil - R7",
-      "source": "R7",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQW9lelFObVlVY1N4dUk2alVPT1JMaHFCMlNZQ3M3NVFna0d4MTU1LUZ6dUp2TTZnSkR4WE40T2dBeWwya1JmUDB3bC1NLS1MODY4akU2aW9xWEgza1RuVVU1WHg2cWFGMTFWcXhYZGZNTDVuQ3VtLTRYR0oyYXE4cHZ3SFZ5VkVBM0RjUXMxa2pfZk8xZUNCanJSUHJqU2hyamd4Q19ZaUFtZWtXSUJfTzNIOVY1aW8yTWRjTFFHNDlmYjBaa0FLUFFiQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-25T17:01:12+00:00",
-      "published_raw": "Tue, 25 Aug 2026 17:01:12 GMT",
-      "snippet": "Pedágio free flow: veja como consultar cobranças pelo aplicativo CNH do Brasil R7",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-26T16:13:29.809564+00:00"
+      "collected_at": "2026-08-26T19:29:11.676247+00:00"
     }
   ]
 }
