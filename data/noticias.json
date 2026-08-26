@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:22:14.567781+00:00",
+  "updated_at": "2026-08-26T00:36:44.316007+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:22:09.781111+00:00"
+      "collected_at": "2026-08-26T00:36:39.355500+00:00"
     },
     {
       "id": "498f1cb4a4cc26759f6475fef3515a79a16919ca4e947398f6acc6e3043fe539",
@@ -71,13 +71,13 @@
       "published": "2026-08-25T17:01:12+00:00",
       "published_raw": "Tue, 25 Aug 2026 17:01:12 GMT",
       "snippet": "Pedágio free flow: veja como consultar cobranças pelo aplicativo CNH do Brasil R7",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:22:00.793340+00:00"
+      "collected_at": "2026-08-26T00:36:30.211544+00:00"
     },
     {
       "id": "133b847b76683b6d8dc46238de4c3b0f0b21bec7bcea04842ea874fa8c07fd59",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:21:58.719902+00:00"
+      "collected_at": "2026-08-26T00:36:28.024570+00:00"
     },
     {
       "id": "74cba55d2a953ef2f678ba75e74174e712ba549f84749e3c61b4ba7b9ae987c1",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:21:58.719819+00:00"
+      "collected_at": "2026-08-26T00:36:28.024486+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:21:58.719691+00:00"
+      "collected_at": "2026-08-26T00:36:28.024374+00:00"
     },
     {
       "id": "ab4568023645c307c4141c6112f77b12ff755ed956416e4ba9748b3e2561b2c6",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:21:58.720029+00:00"
+      "collected_at": "2026-08-26T00:36:28.024759+00:00"
     },
     {
       "id": "a7ef89531daf75a419a3adf7071d2e069397720211cd95529391136b894968f1",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-25T21:21:58.719970+00:00"
+      "collected_at": "2026-08-26T00:36:28.024680+00:00"
     }
   ]
 }
