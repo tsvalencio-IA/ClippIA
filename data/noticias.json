@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-26T03:49:53.928010+00:00",
+  "updated_at": "2026-08-26T06:27:44.418828+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "c375595894613dfc033af4370eadf064c15b7a65943360af2241f962127f0830",
+      "title": "Previsão do tempo para quarta-feira (26), em SP: tempo instável - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHRsVTJYc0JneFJaNHNpT2NSMDNCOWowLVlJUE1iTGVadGZLeHVvQ0Z5cEJuRWVDUUJnRmZfSGlVajZFVzlSeWJwUXdlZnk5djZscm00V0tza3BrOVFmczFrVVpJeVJfQ0MwbGtGR1h4VkVBZ2k5YU1QajB0REVxdklVMVVPa0U1UGFQOElJQmp2dm91TnNvYUdPTGZFV2szOGh6eV9jTQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-25T21:50:34+00:00",
+      "published_raw": "Tue, 25 Aug 2026 21:50:34 GMT",
+      "snippet": "Previsão do tempo para quarta-feira (26), em SP: tempo instável Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-26T06:27:28.738726+00:00"
+    },
+    {
       "id": "216704a6e9100c28706ecaa95fa6a203e4df47527de79e646d56e3611a96e3ee",
       "title": "Ecovias Noroeste Paulista programa obras e interdições em rodovias da região até domingo - Votunews",
       "source": "Votunews",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T03:49:48.499637+00:00"
+      "collected_at": "2026-08-26T06:27:39.791213+00:00"
     },
     {
       "id": "498f1cb4a4cc26759f6475fef3515a79a16919ca4e947398f6acc6e3043fe539",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T03:49:38.515845+00:00"
+      "collected_at": "2026-08-26T06:27:30.858746+00:00"
     },
     {
       "id": "133b847b76683b6d8dc46238de4c3b0f0b21bec7bcea04842ea874fa8c07fd59",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T03:49:35.794823+00:00"
+      "collected_at": "2026-08-26T06:27:28.738895+00:00"
     },
     {
       "id": "74cba55d2a953ef2f678ba75e74174e712ba549f84749e3c61b4ba7b9ae987c1",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T03:49:35.794759+00:00"
+      "collected_at": "2026-08-26T06:27:28.738818+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T03:49:35.794671+00:00"
+      "collected_at": "2026-08-26T06:27:28.738613+00:00"
     }
   ]
 }
