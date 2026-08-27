@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:41:36.743283+00:00",
+  "updated_at": "2026-08-27T00:19:55.555427+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "96d7ac721a1de301a737748b9599d10f45ea37549ffa06e6b19819c7189e7969",
+      "title": "Free Flow: entenda os métodos de pagamento e benefícios da tag - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWcwUXlWTUg3a0w1STZDMEVPZkZXNENQQTBMZnNpRkFmMXNSXzhUb3lEWjRWeVdsdnFibGUxekJkTHo1U2JBXzZueHZXOGtIaHNWalZpVExOWmdzZ0Q5WlZLVktTbGI2Z2Vld3RFb2pvMzc4SWRBU2pqVWl6cVR0RGtpVDVIZ0oya1E?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T21:38:38+00:00",
+      "published_raw": "Wed, 26 Aug 2026 21:38:38 GMT",
+      "snippet": "Free Flow: entenda os métodos de pagamento e benefícios da tag Mobilidade Sampa",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-27T00:19:36.456531+00:00"
+    },
+    {
+      "id": "7f0e147575ec9603068bb8b4fc306ee3f73e28f3eeed45144ff52f30cc7fcc8e",
+      "title": "Educação para o trânsito leva aprendizado prático às crianças no Rancho do Peãzinho - O Diário Interativo Online",
+      "source": "O Diário Interativo Online",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGRfMUhyXzVXRXpEUExBZEJvenNHQmFITmk5bDRoOXprWk5oNGhaV1ZKaEFtNS0ybGp3WjlQSHdfRkNqMkl3ampRVVRQU2VOLTR2ME9pN2ZTQ1pGSk05bE5xSTUweDNUaElyV3NLakt0am1OZDVpZUJjdHl5SnJZd3JTdE12aHpOVGRLWjFiejI0UGc4dzA3VmZNRFNKNGVUV1BCT2szRUZoWW1ZaDFCTDNTZC1mUTg5?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-26T20:04:56+00:00",
+      "published_raw": "Wed, 26 Aug 2026 20:04:56 GMT",
+      "snippet": "Educação para o trânsito leva aprendizado prático às crianças no Rancho do Peãzinho O Diário Interativo Online",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-27T00:19:35.823541+00:00"
+    },
+    {
       "id": "5ee1fce669ebd055d98bc268e5e5f87323f1e8a99053b71f480b8f091d07ccdd",
       "title": "Acidente grave deixa vítima presa às ferragens na Washington Luís em Rio Preto (SP) - gazetainterior.com.br",
       "source": "gazetainterior.com.br",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049714+00:00"
+      "collected_at": "2026-08-27T00:19:35.823667+00:00"
     },
     {
       "id": "72331f08d20ba6a8e1ec46b1d6bb89835e6666d43783a31e7ae9adb272fce995",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049521+00:00"
+      "collected_at": "2026-08-27T00:19:35.823586+00:00"
     },
     {
       "id": "282924fec958ff38f9959cab71c3f70fffb35c1ff5a74a37abfa63689731f21e",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049619+00:00"
+      "collected_at": "2026-08-27T00:19:35.823627+00:00"
     },
     {
       "id": "2e89490989e65a30738653a3da54129ac7a9be747e14413220e29091d4125035",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049015+00:00"
+      "collected_at": "2026-08-27T00:19:35.823432+00:00"
     },
     {
       "id": "706b74b438644a48172ad4482105d2ed0ae31b7bc922a8c952eb50a84b3df320",
@@ -128,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049174+00:00"
-    },
-    {
-      "id": "c375595894613dfc033af4370eadf064c15b7a65943360af2241f962127f0830",
-      "title": "Previsão do tempo para quarta-feira (26), em SP: tempo instável - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHRsVTJYc0JneFJaNHNpT2NSMDNCOWowLVlJUE1iTGVadGZLeHVvQ0Z5cEJuRWVDUUJnRmZfSGlVajZFVzlSeWJwUXdlZnk5djZscm00V0tza3BrOVFmczFrVVpJeVJfQ0MwbGtGR1h4VkVBZ2k5YU1QajB0REVxdklVMVVPa0U1UGFQOElJQmp2dm91TnNvYUdPTGZFV2szOGh6eV9jTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-25T21:50:34+00:00",
-      "published_raw": "Tue, 25 Aug 2026 21:50:34 GMT",
-      "snippet": "Previsão do tempo para quarta-feira (26), em SP: tempo instável Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049300+00:00"
-    },
-    {
-      "id": "8bbfd8a615a450f2fa6ac49a2ae55e6d8b3adcdbd13f33a704ecf43886c52df7",
-      "title": "Mulheres de Itirapina terão formação gratuita em moda sustentável - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFZqOHk3dXBOalVvT2xlaENRSzQzdTFGWEhwSTk1dHBwTzNOX0xpWU5ZTF9CcXhSZFpiUU04ZkRLc1RWbkM1Y0poZVBzeUFKbkp3QzBNNlVMdE42TjV6RzlyYzNmbHpCZ0IyeU5BSm5Md2stZG1SV3ZBWFduVFVKRDF5bHNBVmplX1JBR0szaERMOTI2Sm5QcG4weldVMkZyUm5OZmR2Q1FGWFhQODVCcGZlVzByNC1w?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-25T20:56:57+00:00",
-      "published_raw": "Tue, 25 Aug 2026 20:56:57 GMT",
-      "snippet": "Mulheres de Itirapina terão formação gratuita em moda sustentável Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-26T19:41:21.049415+00:00"
+      "collected_at": "2026-08-27T00:19:35.823489+00:00"
     }
   ]
 }
