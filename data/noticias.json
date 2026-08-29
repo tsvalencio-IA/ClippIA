@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:53:52.556245+00:00",
+  "updated_at": "2026-08-29T18:08:23.999795+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 9,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "1396b319dd23a3bd4146607c1eea717b70a8db3d16be06ada0e93cdf3cab14d2",
+      "title": "Motorista de ônibus morre em grave acidente no interior de SP - Correio do Povo Penedo",
+      "source": "Correio do Povo Penedo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2I3bnczc1Nub0RiMkpWN3VlSzYyQnpoSjhXRGpHVFhtcGJrMl9CaDJOc0FHbkhZbTFKVzhPa01CT080X19PRWstdm14Wm5peXVxNThXNW94Z2ZPLWNnMXlVSW5BQjRpWS13bzc4eTk0UXNEZXFHZE9Rc3VpemVsR1pGcWNYdlltRFo2WXJDcHR0NjlQejhYQUg2STNWYllmZmcybWtia3Q3cWI3NkJzTg?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-29T17:17:03+00:00",
+      "published_raw": "Sat, 29 Aug 2026 17:17:03 GMT",
+      "snippet": "Motorista de ônibus morre em grave acidente no interior de SP Correio do Povo Penedo",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-29T18:08:05.836013+00:00"
+    },
+    {
       "id": "600fcad1998b3e611a7feb046d1b2e6e257e35c1c2587f7412dfd6b691b6c533",
       "title": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro - Região Noroeste",
       "source": "Região Noroeste",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076514+00:00"
+      "collected_at": "2026-08-29T18:08:05.836447+00:00"
     },
     {
       "id": "483722b421c3f17e89d76218d08822d218e70b37e9c3a346c0c1c0681a57516d",
       "title": "Acidente envolvendo ônibus da Piracicabana deixa morto e feridos em Araraquara (SP) neste sábado (29) - Diário do Transporte",
       "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUx3SGViRE5JWjFydzdyR3IxVVlIRTBuejc4SzFmZ2ppYlh1SmlxanNvZlVqVW9VOEc2cng3My1HR0FGMzU0QnBwSTJCM2IydlVUTURtOHE4RHU3SkFSblpUVk9tSnhvQlBzVUhhY3pfRzQ2R2t1VWJSX3RhMEIwNzh5V2NtY3FJTXdqa0VnN3E1T2FoZFcxY2RaNWxIeFZzR2o3WVFKMm1FQUNVUzRWRWZMcDBIaEtfbWNXcF9SbDJ0TGtpc0l5MWZHQUxQem15WF9GYmhmMFEyaWvSAeABQVVfeXFMT1VoOUpBTHFkWW5RR1ctNnFuMEdZMEZQX29rR2c5WGV6VjF6VGJFUElFdzhKaUVQVzVFU1VCLXEyQVVjeXRNUFRuSWNuVUtRaU1PTmlyendaRGlhUjUzeERKUHAyNHRVM2JSLXo0aXQyUG9hZTIyVzZHTUxlUFJZRzQxMzIzUG5kdlpWQXAwOElQOEdFZUtjQmhWcENPeXFFVk9Qc3RSaFV1YTJDMlZsdnFxYlQxQlpmWWsyeEtqT0gtNmJjRmh1UHNqdXdVUVQyclM0UG1hdHRCNmFJNUlHVVo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVWg5SkFMcWRZblFHVy02cW4wR1kwRlBfb2tHZzlYZXpWMXpUYkVQSUV3OEppRVBXNUVTVUItcTJBVWN5dE1QVG5JY25VS1FpTU9OaXJ6d1pEaWFSNTN4REpQcDI0dFUzYlItejRpdDJQb2FlMjJXNkdNTGVQUllHNDEzMjNQbmR2WlZBcDA4SVA4R0VlS2NCaFZwQ095cUVWT1BzdFJoVXVhMkMyVmx2cXFiVDFCWmZZazJ4S2pPSC02YmNGaHVQc2p1d1VRVDJyUzRQbWF0dEI2YUk1SUdVWtIB4AFBVV95cUxPVWg5SkFMcWRZblFHVy02cW4wR1kwRlBfb2tHZzlYZXpWMXpUYkVQSUV3OEppRVBXNUVTVUItcTJBVWN5dE1QVG5JY25VS1FpTU9OaXJ6d1pEaWFSNTN4REpQcDI0dFUzYlItejRpdDJQb2FlMjJXNkdNTGVQUllHNDEzMjNQbmR2WlZBcDA4SVA4R0VlS2NCaFZwQ095cUVWT1BzdFJoVXVhMkMyVmx2cXFiVDFCWmZZazJ4S2pPSC02YmNGaHVQc2p1d1VRVDJyUzRQbWF0dEI2YUk1SUdVWg?oc=5",
       "resolved_link": "",
-      "published": "2026-08-29T13:28:20+00:00",
-      "published_raw": "Sat, 29 Aug 2026 13:28:20 GMT",
+      "published": "2026-08-29T13:23:59+00:00",
+      "published_raw": "Sat, 29 Aug 2026 13:23:59 GMT",
       "snippet": "Acidente envolvendo ônibus da Piracicabana deixa morto e feridos em Araraquara (SP) neste sábado (29) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076300+00:00"
+      "collected_at": "2026-08-29T18:08:05.836289+00:00"
     },
     {
       "id": "37c11f3034feb607aa045215012667b74af5886f4e6d341d713af6caeddd97d3",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076388+00:00"
-    },
-    {
-      "id": "63623db3e0a52d39feb7ae69b5ec449bf3f629a21e73142aae1218ca7e6ee2bc",
-      "title": "Grave acidente mata motorista de ônibus e fere 5 passageiros em rodovia no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdWhJQWxBbWhtUG5yUXMwVXFFcUhoNHlJMFNCNUNfcENRbVhmMkIzeE9tcm9ILVo3bVhjNjFoanVPWm1jRy0zUVdhRDJMSFZIdGI3Wk9iYU4tYzVJMmVya3ZaVUE1YTZDNTNQQzJlLXkxRFptOUdLZjdlMVNSQmhIYW1VYi1NTG5Ndm9EUDY3X1lJaXpSV0tUM1J3dVBfZ3lZeXpPa2hfeDktaGRxWVk4bEtxMGd2Y0pydUFBTEgxUmNwS3Y3Ujd4aEI3cFRvaWhGRXJyZnpuV2N2Qlh5UWRYWGlSWU81dnF0aGxxd002aFVmU3IzU1BJQjQ5ZWo4cDhTNlZr0gGSAkFVX3lxTE14OWVpemRnYkc2TXBMLTZiNThMeklKTWVfcDNxVDlxX1pXWnV0X3pJYWwxc1FVUjFvZk5sUzBmVDQ2RmVLakZ4TGpBYjZuZEplOXlVMnYzeWt6M1lMZFRRM29aQ2NldFR2bTBHdDhKOHBhSkFTdHVXMnFsTUl0WGJWSzRQTmJJVlZFVVFxSWZVLTZvaFd6VW5YVF9KeUFtQk04dDRnazZVVTdXZ1N6THJvemQwZ0I1MkhWMDZQQ1pKMDdRSG5OeW9kZVRtQnB6VnZGOHowSVZPa3d6OURJaUtvdUJoU1FNMGpCYm82Z3BTbWRuaXZTT1ZJNk9oQTI4NWpqZ182c3h6cDRGU1A3VzNpZHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-29T12:43:23+00:00",
-      "published_raw": "Sat, 29 Aug 2026 12:43:23 GMT",
-      "snippet": "Grave acidente mata motorista de ônibus e fere 5 passageiros em rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076091+00:00"
+      "collected_at": "2026-08-29T18:08:05.836367+00:00"
     },
     {
       "id": "94475dc5c7b1f24a2cf3f6d9c8f3642be697220bc4eac8904b72037c742a87ad",
@@ -122,13 +122,13 @@
       "published": "2026-08-29T12:43:23+00:00",
       "published_raw": "Sat, 29 Aug 2026 12:43:23 GMT",
       "snippet": "Motorista de ônibus morre e 5 passageiros ficam feridos após grave acidente com caminhão no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:37.813948+00:00"
+      "collected_at": "2026-08-29T18:08:05.836112+00:00"
     },
     {
       "id": "5cf46ff5c315d11dbc7746a51ef1cc1c36f8c61fd28e7673f2b861dc27e4df95",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.668698+00:00"
+      "collected_at": "2026-08-29T18:08:06.382828+00:00"
     },
     {
       "id": "3dcbc1f00eaed2301985d11320f123cd95e429ac24109554893d330d7fdf267d",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076675+00:00"
+      "collected_at": "2026-08-29T18:08:05.836621+00:00"
     },
     {
       "id": "3e2427f561dfa7e63f82e79ee3acb9df3ade84399136c1cbed49f0a6151aaa3f",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076600+00:00"
+      "collected_at": "2026-08-29T18:08:05.836529+00:00"
     },
     {
       "id": "ab9dcaf56d45204d8b9f41c641c2f69d3ae10524e3c30c791f945339a065fd5f",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T15:53:36.076210+00:00"
+      "collected_at": "2026-08-29T18:08:05.836205+00:00"
     }
   ]
 }
