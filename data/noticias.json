@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-29T20:07:01.182059+00:00",
+  "updated_at": "2026-08-29T22:54:18.627827+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533470+00:00"
+      "collected_at": "2026-08-29T22:54:02.957936+00:00"
     },
     {
       "id": "600fcad1998b3e611a7feb046d1b2e6e257e35c1c2587f7412dfd6b691b6c533",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533796+00:00"
+      "collected_at": "2026-08-29T22:54:02.958278+00:00"
     },
     {
       "id": "483722b421c3f17e89d76218d08822d218e70b37e9c3a346c0c1c0681a57516d",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533672+00:00"
+      "collected_at": "2026-08-29T22:54:02.958122+00:00"
     },
     {
       "id": "37c11f3034feb607aa045215012667b74af5886f4e6d341d713af6caeddd97d3",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533733+00:00"
+      "collected_at": "2026-08-29T22:54:02.958199+00:00"
     },
     {
       "id": "94475dc5c7b1f24a2cf3f6d9c8f3642be697220bc4eac8904b72037c742a87ad",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533558+00:00"
+      "collected_at": "2026-08-29T22:54:02.958035+00:00"
     },
     {
       "id": "5cf46ff5c315d11dbc7746a51ef1cc1c36f8c61fd28e7673f2b861dc27e4df95",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-29T20:06:45.078870+00:00"
-    },
-    {
-      "id": "3dcbc1f00eaed2301985d11320f123cd95e429ac24109554893d330d7fdf267d",
-      "title": "Inteligência artificial amplia segurança nas rodovias concedidas de SP - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2RyWTVZTkg0TlZaTzQzQUtUMWp5QjNXWWQySVg1Q2U0V2xjMERWN2FzdjZ5SS1VaGxnbzBaejhSSm1aZElyaFQ1S0VGT3FrWXRyMUxucUcxai1kR0c1NFRVNVBKM2VzMThmU1JLZ0ZxaG9RbWs3OTlFQXZTendGU2RSa1BURWREaWhvSjZ3?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-28T21:27:11+00:00",
-      "published_raw": "Fri, 28 Aug 2026 21:27:11 GMT",
-      "snippet": "Inteligência artificial amplia segurança nas rodovias concedidas de SP Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-29T20:06:44.533855+00:00"
+      "collected_at": "2026-08-29T22:54:03.528679+00:00"
     }
   ]
 }
