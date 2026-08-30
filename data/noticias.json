@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:55:42.888490+00:00",
+  "updated_at": "2026-08-30T18:14:11.391883+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "af9f6304b9dc8672203cfe416cd4f83699c9be992036e2d10682cddb44552bbb",
+      "title": "SP-340 é rota turística para a Expoflora e reforça acesso a eventos no interior paulista - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4Um1vWWhKLTZoM2lnY0xYcEl2WGh6QkNMS3V4Rml3RnVKY05NRHZOcWtFYnJkTlFfbmVZTTFIZWNDWXFpZ1ZmWjFOZEV5M1dkekdXNmhVSjBIQ1FObVpzUGQ4UWNEek1uU0RIRGI4R3pWU2psMzQ3V3F3aw?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-30T17:13:11+00:00",
+      "published_raw": "Sun, 30 Aug 2026 17:13:11 GMT",
+      "snippet": "SP-340 é rota turística para a Expoflora e reforça acesso a eventos no interior paulista Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-30T18:13:53.404054+00:00"
+    },
+    {
       "id": "d9af26cc6e8f077b914ed2df00f8d5749689ddc8db8a8255dd06cb5e450cf578",
       "title": "CNL inicia levantamento documental de acessos nas rodovias Mogi-Bertioga e Pedro Eroles - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T15:55:26.228134+00:00"
+      "collected_at": "2026-08-30T18:13:53.404243+00:00"
     },
     {
       "id": "b327008c26f56126997263f5c3512bafaffbcd4b2ca083d545d82c43e0617c77",
@@ -77,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T15:55:26.228061+00:00"
-    },
-    {
-      "id": "1396b319dd23a3bd4146607c1eea717b70a8db3d16be06ada0e93cdf3cab14d2",
-      "title": "Motorista de ônibus morre em grave acidente no interior de SP - Correio do Povo Penedo",
-      "source": "Correio do Povo Penedo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2I3bnczc1Nub0RiMkpWN3VlSzYyQnpoSjhXRGpHVFhtcGJrMl9CaDJOc0FHbkhZbTFKVzhPa01CT080X19PRWstdm14Wm5peXVxNThXNW94Z2ZPLWNnMXlVSW5BQjRpWS13bzc4eTk0UXNEZXFHZE9Rc3VpemVsR1pGcWNYdlltRFo2WXJDcHR0NjlQejhYQUg2STNWYllmZmcybWtia3Q3cWI3NkJzTg?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-29T17:17:03+00:00",
-      "published_raw": "Sat, 29 Aug 2026 17:17:03 GMT",
-      "snippet": "Motorista de ônibus morre em grave acidente no interior de SP Correio do Povo Penedo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-30T15:55:26.227969+00:00"
+      "collected_at": "2026-08-30T18:13:53.404152+00:00"
     }
   ]
 }
