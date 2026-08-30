@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-30T14:03:32.960058+00:00",
+  "updated_at": "2026-08-30T15:55:42.888490+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T14:03:16.546194+00:00"
+      "collected_at": "2026-08-30T15:55:26.228134+00:00"
+    },
+    {
+      "id": "b327008c26f56126997263f5c3512bafaffbcd4b2ca083d545d82c43e0617c77",
+      "title": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUplbVpCWmNQSndmSkZTdVlHbGJrNHJiVHMzR0xoMjBZdmpYWkZSb3p0MUpjdU9pWV9TdzI5NWhtYks2XzMtemw2M2VGX2I4Q0dwVWc5ZGJQekY5dTZ2Mnk5YTFvQTZlMm13OHhJM2txc19zSzBRWS1RZE5rd0d0MUhqNktKY3U2UWRQT0taeklaRU5vUkQyUWFWdnFVaFhDOE1UdFdRSS16Mzg5dXBPbTJ6R3dNN1FuSlFNc0NURQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-30T01:35:00+00:00",
+      "published_raw": "Sun, 30 Aug 2026 01:35:00 GMT",
+      "snippet": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro Votunews",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-30T15:55:26.228061+00:00"
     },
     {
       "id": "1396b319dd23a3bd4146607c1eea717b70a8db3d16be06ada0e93cdf3cab14d2",
@@ -77,41 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T14:03:16.545963+00:00"
-    },
-    {
-      "id": "600fcad1998b3e611a7feb046d1b2e6e257e35c1c2587f7412dfd6b691b6c533",
-      "title": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkhTTFdFbnljS2NCcE5kdEpnTko4azh5R0xFOElnQTd0MTFLcWVnUGZDZk5zR1QzMFJNX0QweXhCVWRkS0NBLUFRMjE4d2RaNmYzaUxrQ0RUd3ctM3JRWHMyNE5aUnZFSTFhRVNJemwwc0F5c2JuZURKZzdaWl91dy1aY0twQ2RCSU12WUwxb0ZRdWZBb1ZxNURVU0VGOEw5NmdUYm9McTZ4OHpHa3IyUFlZcGpWZmktYTRaLWpn?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-29T15:02:00+00:00",
-      "published_raw": "Sat, 29 Aug 2026 15:02:00 GMT",
-      "snippet": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-30T14:03:16.546130+00:00"
-    },
-    {
-      "id": "1b779d4379de2179284c692eaa3bfed82678df7e53fb02fa07ed1d8c697103fd",
-      "title": "Grave acidente mata motorista de ônibus e fere 5 passageiros em rodovia no interior de SP - redeutv.com.br",
-      "source": "redeutv.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1hSbzhNWjktZ1NfNFAwVDJ3dEh2NUdvdkhYYmUwN0ctOHIyaENTT2QxanRabG1Ga3RQYlhwVWlKWGVqMGpwWV9XVmFyOVBPU3RvaW5VTWhyaUgycHRUSnZ0TWs3WFdfOFFibkxGWjRmRmxBRDhUbmszRUJsOUxfUE82aHhsVm5qUHFrSGVPZXFKc1lMOGNXbkV3YjF1cEJFYURYZnZMWWNVTm1fSFBocGtB?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-29T14:20:00+00:00",
-      "published_raw": "Sat, 29 Aug 2026 14:20:00 GMT",
-      "snippet": "Grave acidente mata motorista de ônibus e fere 5 passageiros em rodovia no interior de SP redeutv.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-30T14:03:16.546053+00:00"
+      "collected_at": "2026-08-30T15:55:26.227969+00:00"
     }
   ]
 }
