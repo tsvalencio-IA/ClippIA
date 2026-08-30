@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-30T08:38:00.457072+00:00",
+  "updated_at": "2026-08-30T11:07:03.267367+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "83870feab08989d106199a08886ecc4bf850d128b12cab60b0c7bda08bd46174",
+      "title": "CNL inicia levantamento documental de acessos nas rodovias Mogi-Bertioga e Mogi-Dutra - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOXpZMzlJZS16MEpjSGlGc28tSXNBcGtZWk9nVnVxWWNfdTlDY3owaVkzTWNoMElqZkVvcU9OWWJ5YlBJaFpGUTFvbVFLYVRiejNXcDNLaTg2Qml0M3FwdnNvLXRMVHhJdG5WSGl4Rk9qdGhCM21OZzFUeFoxcjVTeGdwclFfeTI1WnVB?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-30T10:59:25+00:00",
+      "published_raw": "Sun, 30 Aug 2026 10:59:25 GMT",
+      "snippet": "CNL inicia levantamento documental de acessos nas rodovias Mogi-Bertioga e Mogi-Dutra Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-30T11:06:47.979908+00:00"
+    },
+    {
       "id": "1396b319dd23a3bd4146607c1eea717b70a8db3d16be06ada0e93cdf3cab14d2",
       "title": "Motorista de ônibus morre em grave acidente no interior de SP - Correio do Povo Penedo",
       "source": "Correio do Povo Penedo",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:44.568901+00:00"
+      "collected_at": "2026-08-30T11:06:47.979408+00:00"
     },
     {
       "id": "600fcad1998b3e611a7feb046d1b2e6e257e35c1c2587f7412dfd6b691b6c533",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:44.569264+00:00"
+      "collected_at": "2026-08-30T11:06:47.979827+00:00"
     },
     {
       "id": "483722b421c3f17e89d76218d08822d218e70b37e9c3a346c0c1c0681a57516d",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:44.569104+00:00"
+      "collected_at": "2026-08-30T11:06:47.979648+00:00"
     },
     {
       "id": "37c11f3034feb607aa045215012667b74af5886f4e6d341d713af6caeddd97d3",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:44.569183+00:00"
+      "collected_at": "2026-08-30T11:06:47.979739+00:00"
     },
     {
       "id": "94475dc5c7b1f24a2cf3f6d9c8f3642be697220bc4eac8904b72037c742a87ad",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:44.569011+00:00"
+      "collected_at": "2026-08-30T11:06:47.979515+00:00"
     },
     {
       "id": "5cf46ff5c315d11dbc7746a51ef1cc1c36f8c61fd28e7673f2b861dc27e4df95",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T08:37:45.069987+00:00"
+      "collected_at": "2026-08-30T11:06:48.496556+00:00"
     }
   ]
 }
