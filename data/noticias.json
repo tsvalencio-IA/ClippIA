@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-30T23:05:34.180186+00:00",
+  "updated_at": "2026-08-31T02:08:07.222077+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T23:05:18.694221+00:00"
+      "collected_at": "2026-08-31T02:07:50.347797+00:00"
     },
     {
       "id": "d9af26cc6e8f077b914ed2df00f8d5749689ddc8db8a8255dd06cb5e450cf578",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-30T23:05:18.694276+00:00"
-    },
-    {
-      "id": "b327008c26f56126997263f5c3512bafaffbcd4b2ca083d545d82c43e0617c77",
-      "title": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUplbVpCWmNQSndmSkZTdVlHbGJrNHJiVHMzR0xoMjBZdmpYWkZSb3p0MUpjdU9pWV9TdzI5NWhtYks2XzMtemw2M2VGX2I4Q0dwVWc5ZGJQekY5dTZ2Mnk5YTFvQTZlMm13OHhJM2txc19zSzBRWS1RZE5rd0d0MUhqNktKY3U2UWRQT0taeklaRU5vUkQyUWFWdnFVaFhDOE1UdFdRSS16Mzg5dXBPbTJ6R3dNN1FuSlFNc0NURQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-08-30T01:35:00+00:00",
-      "published_raw": "Sun, 30 Aug 2026 01:35:00 GMT",
-      "snippet": "Obras da terceira faixa bloqueiam trecho da Rodovia Washington Luís em Rio Preto até setembro Votunews",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-08-30T23:05:18.694149+00:00"
+      "collected_at": "2026-08-31T02:07:50.347891+00:00"
     }
   ]
 }
