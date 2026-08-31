@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-31T03:10:28.383283+00:00",
+  "updated_at": "2026-08-31T09:00:59.278395+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "d1ff123e9675ffb2edeb7847704b3a7c9385e10a6ee5f6f754e305466d3b5fbc",
+      "title": "Como consultar o pedágio Free Flow? - InfoMoney",
+      "source": "InfoMoney",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWpyYUV5Vmw1aDNhWkhuSmY0eGxkVm5hcTVGSzFreXd6bmhkbVpKNUlCRWJoWnZUQy1XdDVoT0xSTHdSMzJtdllraUtiTTByaXZ2UkZaYWo3WjU0SGZDWFU4YVhqc2pPMzdjMkpnelJNM2ZHS0xWVnh0WHYyUi1hdlJB0gGCAUFVX3lxTFA5anJhRXlWbDVoM2FaSG5KZjR4bGRWbmFxNUZLMWt5d3puaGRtWko1SUJFYmhadlRDLVd0NWhPTFJMd1IzMm12WWtpS2JNMHJpdnZSRlphajdaNTRIZkNYVThhWGpzak8zN2MySmd6Uk0zZkdLTFZWeHRYdjJSLWF2UkE?oc=5",
+      "resolved_link": "",
+      "published": "2026-08-31T08:01:32+00:00",
+      "published_raw": "Mon, 31 Aug 2026 08:01:32 GMT",
+      "snippet": "Como consultar o pedágio Free Flow? InfoMoney",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-08-31T09:00:44.426508+00:00"
+    },
+    {
       "id": "af9f6304b9dc8672203cfe416cd4f83699c9be992036e2d10682cddb44552bbb",
       "title": "SP-340 é rota turística para a Expoflora e reforça acesso a eventos no interior paulista - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-31T03:10:12.780983+00:00"
+      "collected_at": "2026-08-31T09:00:43.918460+00:00"
     },
     {
       "id": "d9af26cc6e8f077b914ed2df00f8d5749689ddc8db8a8255dd06cb5e450cf578",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-08-31T03:10:12.781086+00:00"
+      "collected_at": "2026-08-31T09:00:43.918560+00:00"
     }
   ]
 }
