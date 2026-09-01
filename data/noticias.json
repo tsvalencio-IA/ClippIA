@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:10:40.184760+00:00",
+  "updated_at": "2026-09-01T00:19:54.895708+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -54,13 +54,13 @@
       "published": "2026-08-31T22:00:39+00:00",
       "published_raw": "Mon, 31 Aug 2026 22:00:39 GMT",
       "snippet": "Usuários do Pedágio Eletrônico Siga Fácil podem consultar débitos no aplicativo CNH do Brasil Diário do Transporte",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:23.468579+00:00"
+      "collected_at": "2026-09-01T00:19:39.615014+00:00"
     },
     {
       "id": "903246dd947562046664185494d8b441e93b1daac21cc3c82a0c39672c9c9783",
@@ -71,13 +71,13 @@
       "published": "2026-08-31T20:04:15+00:00",
       "published_raw": "Mon, 31 Aug 2026 20:04:15 GMT",
       "snippet": "Usuários do Pedágio Eletrônico Siga Fácil podem consultar débitos no aplicativo CNH do Brasil saocarlosdiaenoite.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:21.801572+00:00"
+      "collected_at": "2026-09-01T00:19:37.846055+00:00"
     },
     {
       "id": "f0f367f3cc251baa6f198603141f3613f109967a79f1978cc1303a1a74e70f66",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:21.801767+00:00"
+      "collected_at": "2026-09-01T00:19:37.846208+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:32.684814+00:00"
+      "collected_at": "2026-09-01T00:19:48.639716+00:00"
     },
     {
       "id": "460c856ed4a6e10f0f94ee6acef13ebefc95b3d78a951d521e78feeb7c3b79cd",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:32.685146+00:00"
+      "collected_at": "2026-09-01T00:19:48.640058+00:00"
     },
     {
       "id": "5290c7e45c4be7a2fb82e761bffdae90863e4a5550872fa9517c5759d3fa899d",
@@ -139,13 +139,13 @@
       "published": "2026-08-31T17:23:47+00:00",
       "published_raw": "Mon, 31 Aug 2026 17:23:47 GMT",
       "snippet": "Homem com mandado de prisão em aberto é detido pela ROCAM no Jardim Medeiros - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:21.801657+00:00"
+      "collected_at": "2026-09-01T00:19:48.639866+00:00"
     },
     {
       "id": "730a1e533fb00e31104a663861d07e6f89ab29aa3626c12bf1fd9ee426cbb106",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:21.801841+00:00"
+      "collected_at": "2026-09-01T00:19:37.846136+00:00"
     },
     {
       "id": "ff7af04c0ec6581b5ffab33c1eede155c93d51f94d11968d55a37fddb70290df",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:34.476012+00:00"
+      "collected_at": "2026-09-01T00:19:50.376918+00:00"
     },
     {
       "id": "cd824b233ad9824a3a7769561760ae1e859fee2706a3c9b6c05eb0d5fb550933",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:32.684889+00:00"
+      "collected_at": "2026-09-01T00:19:48.639795+00:00"
     },
     {
       "id": "f1673b1eb9f769c1ff253c9c7b635a22829e2393de9acbdc0bfb66597f6205bd",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:21.801490+00:00"
+      "collected_at": "2026-09-01T00:19:37.845971+00:00"
     },
     {
       "id": "786a79d708aa94b224f7c06a045a689d48e07866ace5afccd33122f0a8433189",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:34.476210+00:00"
+      "collected_at": "2026-09-01T00:19:50.377118+00:00"
     },
     {
       "id": "d1ff123e9675ffb2edeb7847704b3a7c9385e10a6ee5f6f754e305466d3b5fbc",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-01T00:10:22.371004+00:00"
+      "collected_at": "2026-09-01T00:19:38.391828+00:00"
     }
   ]
 }
