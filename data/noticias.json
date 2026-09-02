@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-02T02:33:30.188181+00:00",
+  "updated_at": "2026-09-02T07:24:06.325316+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-02T02:33:14.289511+00:00"
-    },
-    {
-      "id": "c4f20ced8f7451d11d94574e0998a852edbf54f237389790e32d8e92e0d2a49d",
-      "title": "Usuários do Pedágio Eletrônico Siga Fácil podem consultar débitos no aplicativo CNH do Brasil - São Carlos - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3JHalNZZ09tZWFXemZyMGhWcEhQT0RUVXV5VVB2a1NwOXh1eUxKRXhkRE9FYmtPc1VSN2tQRXNrNjlkd05rR1JjME9xbjJMeEQxZ2dEcjlyb0hiNm8xaWlCTl9GS0RTYllPdF9sUWFFNGVkTk1CQ0lMLVFYRGE5bDE0UmNPc2t5bkEwRXFOdy1yVzVPcDNsNlJMWkc1cUJWNFhGdngxdDFNUDNtSWVCZGtTUzVjNnNrVjIzejZNejlfNzRVV2fSAcYBQVVfeXFMTjdyR2pTWWdPbWVhV3pmcjBoVnBIUE9EVFV1eVVQdmtTcDl4dXlMSkV4ZERPRWJrT3NVUjdrUEVzazY5ZHdOa0dSYzBPcW4yTHhEMWdnRHI5cm9IYjZvMWlpQk5fRktEU2JZT3RfbFFhRTRlZE5NQkNJTC1RWERhOWwxNFJjT3NreW5BMEVxTnctclc1T3AzbDZSTFpHNXFCVjRYRnZ4MXQxTVAzbUllQmRrU1M1YzZza1YyM3o2TXo5Xzc0VVdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-01T04:01:18+00:00",
-      "published_raw": "Tue, 01 Sep 2026 04:01:18 GMT",
-      "snippet": "Usuários do Pedágio Eletrônico Siga Fácil podem consultar débitos no aplicativo CNH do Brasil - São Carlos São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-02T02:33:14.289449+00:00"
+      "collected_at": "2026-09-02T07:23:50.937671+00:00"
     }
   ]
 }
