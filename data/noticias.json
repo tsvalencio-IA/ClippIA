@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:41:08.059176+00:00",
+  "updated_at": "2026-09-03T13:05:08.868259+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 1,
@@ -54,13 +54,13 @@
       "published": "2026-09-02T16:09:56+00:00",
       "published_raw": "Wed, 02 Sep 2026 16:09:56 GMT",
       "snippet": "Usuários do Pedágio Eletrônico Siga Fácil podem consultar débitos no aplicativo CNH do Brasil Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-03T07:40:52.546371+00:00"
+      "collected_at": "2026-09-03T13:04:59.373966+00:00"
     }
   ]
 }
