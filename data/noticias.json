@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:59:38.437121+00:00",
+  "updated_at": "2026-09-04T13:05:48.928233+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 16,
@@ -54,30 +54,30 @@
       "published": "2026-09-04T12:15:53+00:00",
       "published_raw": "Fri, 04 Sep 2026 12:15:53 GMT",
       "snippet": "Rodovias da região de Rio Preto devem receber 180 mil veículos durante feriado da Independência G1",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-04T12:59:32.557460+00:00"
-    },
-    {
-      "id": "c62d0d67cc412a607cb51cdfcc0f856ff2b4f5233d6dfd561ed04548572dc200",
-      "title": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkhfTDFDX3N3dllPLXNPMTFSNFY4cUdFWjRWWEl3el91YUZEalZMaGZTbTg1MVpGODY5SW5OdUhGRjUtNkh4a0ctUElMQUpHOVFONlhidlZEcGNqSlZ3U0oyU0tHM1QwV1VDOG5JdmNtNEk0eXhRTVBvR0hLcWxQdnNxTUNRMFFqdzQwRDAtSl8tSVZmbmVWNFpYZmg2VGctWW9ZSmo1dzF1ZGx1YVJQOUo3RWUwSXBTT3hkTkQyNVBSdUhsNUItV2t3YVFjSlgxNlYxN0ljNDF0REc2WjJIOFczX1JxZ1XSAecBQVVfeXFMT25IX0wxQ19zd3ZZTy1zTzExUjRWOHFHRVo0VlhJd3pfdWFGRGpWTGhmU204NTFaRjg2OUluTnVIRkY1LTZIeGtHLVBJTEFKRzlRTjZYYnZWRHBjakpWd1NKMlNLRzNUMFdVQzhuSXZjbTRJNHl4UU1Qb0dIS3FsUHZzcU1DUTBRanc0MEQwLUpfLUlWZm5lVjRaWGZoNlRnLVlvWUpqNXcxdWRsdWFSUDlKN0VlMElwU094ZE5EMjVQUnVIbDVCLVdrd2FRY0pYMTZWMTdJYzQxdERHNloySDhXM19ScWdV?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T12:07:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 12:07:00 GMT",
-      "snippet": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto Valor Econômico",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:23.774506+00:00"
+      "collected_at": "2026-09-04T13:05:32.545005+00:00"
+    },
+    {
+      "id": "c62d0d67cc412a607cb51cdfcc0f856ff2b4f5233d6dfd561ed04548572dc200",
+      "title": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto - Valor Econômico",
+      "source": "Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemF2QUU0bHFmYklYRGtnbHpyUm9PTGU4czcyRXo4ZWQtOFFBN05mZlRIcG96eWVBQldrQ3JQZHVUZjlaN0hkdFFIVVlnY2VkLUkyRTk0eGNSd0psYmR2WktjTVJMcjZlbFVqeDVCMjJGcnBEREppc1ZUNE12b0pyVkVkRGgtNy1vRk5xLW00WElnUTU1aEtMNnNzd2NVMk9abDdkT2ExWmRialpxMm1PVlBrcG1relBVYUFRY3kyTzhWdUNVR21PVFhIYjhKOGZvMUUzOWdmRFbSAecBQVVfeXFMT25IX0wxQ19zd3ZZTy1zTzExUjRWOHFHRVo0VlhJd3pfdWFGRGpWTGhmU204NTFaRjg2OUluTnVIRkY1LTZIeGtHLVBJTEFKRzlRTjZYYnZWRHBjakpWd1NKMlNLRzNUMFdVQzhuSXZjbTRJNHl4UU1Qb0dIS3FsUHZzcU1DUTBRanc0MEQwLUpfLUlWZm5lVjRaWGZoNlRnLVlvWUpqNXcxdWRsdWFSUDlKN0VlMElwU094ZE5EMjVQUnVIbDVCLVdrd2FRY0pYMTZWMTdJYzQxdERHNloySDhXM19ScWdV?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T12:07:00+00:00",
+      "published_raw": "Fri, 04 Sep 2026 12:07:00 GMT",
+      "snippet": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto Valor Econômico",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-04T13:05:45.532944+00:00"
     },
     {
       "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049180+00:00"
+      "collected_at": "2026-09-04T13:05:30.913545+00:00"
     },
     {
       "id": "40de0fa68ec13fe8a711c457eb8497fb37d1c4a5d2fd1cbfe6e8e3ad75279dac",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:35.305558+00:00"
+      "collected_at": "2026-09-04T13:05:45.533022+00:00"
     },
     {
       "id": "90a20cc56d33160d4fee1c88c9d1448ec5b83f2facb4c2ff54b37267de5ee633",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049294+00:00"
+      "collected_at": "2026-09-04T13:05:30.913752+00:00"
     },
     {
       "id": "d530f11b655c92d8228324cf77248d6f2a4332b471c00528dfdf534a1f0d496e",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-351%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:38.086452+00:00"
+      "collected_at": "2026-09-04T13:05:48.577797+00:00"
     },
     {
       "id": "542efb174fd78ae5d6d77e385d36e1a45a17f95051a74c4ef745f1842d9002c1",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:34.164834+00:00"
+      "collected_at": "2026-09-04T13:05:44.277548+00:00"
     },
     {
       "id": "82c1cb72e2cb32ea76a619459e37982441385ca19c3d210d0a564621eec4eb9f",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049020+00:00"
+      "collected_at": "2026-09-04T13:05:30.913355+00:00"
     },
     {
       "id": "a9dc0fa0d3271dc44d5cdd7d37a7384bcddf17d1990d5b2f273f39ac1a35647c",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:35.858249+00:00"
+      "collected_at": "2026-09-04T13:05:46.120793+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049232+00:00"
+      "collected_at": "2026-09-04T13:05:30.913607+00:00"
     },
     {
       "id": "278625889670905e973e8eb3cb77eb324684c7984218aee1282ed9ac70d242de",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049523+00:00"
+      "collected_at": "2026-09-04T13:05:30.913909+00:00"
     },
     {
       "id": "a524cb29e2de2ec3ba6ec71085b46ee2bf64e4ce8ef2705967a3b8e9f7b3727c",
@@ -241,13 +241,13 @@
       "published": "2026-09-03T17:49:00+00:00",
       "published_raw": "Thu, 03 Sep 2026 17:49:00 GMT",
       "snippet": "Trecho da Washington Luís em Mirassol deve receber 88 mil veículos no feriado Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:26.453829+00:00"
+      "collected_at": "2026-09-04T13:05:30.913991+00:00"
     },
     {
       "id": "409bb9af3d4fbb6fa5b493d97902e403beda8a4011021f6b0bbf8a72d5118834",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049455+00:00"
+      "collected_at": "2026-09-04T13:05:30.913830+00:00"
     },
     {
       "id": "a1b076c847bcf3bc64ba6504761e91571319bcd8134f55be130869d079d1ed1f",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049114+00:00"
+      "collected_at": "2026-09-04T13:05:30.913470+00:00"
     },
     {
       "id": "3e4c389154352fb720b668774d1e8c9813d0bd568e82b6438e82fffd58cfd97b",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:22.049382+00:00"
+      "collected_at": "2026-09-04T13:05:30.913684+00:00"
     },
     {
       "id": "e8ca4bae5585b51295e7696dce6159ad68d1f74d195ba86fafb6a12adc1a0f25",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T12:59:31.950508+00:00"
+      "collected_at": "2026-09-04T13:05:41.484742+00:00"
     }
   ]
 }
