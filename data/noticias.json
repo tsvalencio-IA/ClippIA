@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-04T02:37:17.248224+00:00",
+  "updated_at": "2026-09-04T07:29:52.052688+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 13,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "f1624e2cf6a1b9bb3865ec36894d2b4f69bc39848d8e11e41e7ee752b9b52e9e",
+      "title": "Feriado da Independência deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRl9jNVhlTXN2VnNjcjlzcmpIV2JuSnVlOHdVR3BIaWFuMzBiMmkzbXJnekR6SDhfNERscGpSSjZRcnpWeWJpT0pERjB2Q0NZb0pqSjlMTHFDalZCWXAwOEhGYnQ0VnpJZUhvWXhCQzMzNGxidk1xdndhamRJQ0NRR3lqZkRWT0dFYUxGRjc0MklTSjNsWjIyUk9xWWh6WGNBUmp0eUxNeVFYRVpURC1WbW13dktrTmsxQWFzSThoa3A3SlhrNjR2VnVpc09iLVg3NUdYQ0JwNzdtTl9WZENUZ0p5V3g0YnBKSnIyZ1dn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T03:55:20+00:00",
+      "published_raw": "Fri, 04 Sep 2026 03:55:20 GMT",
+      "snippet": "Feriado da Independência deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-04T07:29:36.464487+00:00"
+    },
+    {
+      "id": "542efb174fd78ae5d6d77e385d36e1a45a17f95051a74c4ef745f1842d9002c1",
+      "title": "Secretaria de Educação realiza 2ª Parada Pedagógica da Educação Infantil - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1UwSDlGWTk5SVliQnQ3SE14TUFMbURfTWlNdFJPQ09uSzY5NEZCQjB6Ny1HZUFlS0Vtcy02OHc0clhiNUxTUEhYc2Z0b3poOXFfbnlVbVhSWG90Q1c2TC1jTXo1UDQ3ckVOQk1raVRrZ2tSTFVQOVNsMDJoY2xremdaZVF2cVdNQzB2QVNCaVlTZzlwaEpyX3BMRVZYSzJCd18yaFliNGhhQdIBqgFBVV95cUxQV1UwSDlGWTk5SVliQnQ3SE14TUFMbURfTWlNdFJPQ09uSzY5NEZCQjB6Ny1HZUFlS0Vtcy02OHc0clhiNUxTUEhYc2Z0b3poOXFfbnlVbVhSWG90Q1c2TC1jTXo1UDQ3ckVOQk1raVRrZ2tSTFVQOVNsMDJoY2xremdaZVF2cVdNQzB2QVNCaVlTZzlwaEpyX3BMRVZYSzJCd18yaFliNGhhQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T03:52:48+00:00",
+      "published_raw": "Fri, 04 Sep 2026 03:52:48 GMT",
+      "snippet": "Secretaria de Educação realiza 2ª Parada Pedagógica da Educação Infantil - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-04T07:29:47.950868+00:00"
+    },
+    {
+      "id": "82c1cb72e2cb32ea76a619459e37982441385ca19c3d210d0a564621eec4eb9f",
+      "title": "Feriado da Independência deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzMzWkljemJtWEFlZ1Rwb0NtLU5aOUwxRkVrODBpcU9BcUtHSXlvSEY1S25iNlczTGdLb1JrZ0JmSEVNWXNJTnhPcjU2RGJoUlVRMVZlX0dOS3FlTG1UZXBTYUdaZkhhRENsZUVpRGttMkd6WUJtZUJsaldGdzFTWFFSMUtvSnVxUFRaWGlwbk1kUGY0UGFOUTVGNWhva1ZNWkw5Vy1EcmhQT2RfM2tUTG9jYV9iQl82ZTJ3ZmlRcV91TVJVcndiTnR1NWpPLVR1cEVtaklaTS3SAdgBQVVfeXFMT28zM1pJY3pibVhBZWdUcG9DbS1OWjlMMUZFazgwaXFPQXFLR0l5b0hGNUtuYjZXM0xnS29Sa2dCZkhFTVlzSU54T3I1NkRiaFJVUTFWZV9HTktxZUxtVGVwU2FHWmZIYURDbGVFaURrbTJHellCbWVCbGpXRncxU1hRUjFLb0p1cVBUWlhpcG5NZFBmNFBhTlE1RjVob2tWTVpMOVctRHJoUE9kXzNrVExvY2FfYkJfNmUyd2ZpUXFfdU1SVXJ3Yk50dTVqTy1UdXBFbWpJWk0t?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T03:27:08+00:00",
+      "published_raw": "Fri, 04 Sep 2026 03:27:08 GMT",
+      "snippet": "Feriado da Independência deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-04T07:29:41.130787+00:00"
+    },
+    {
       "id": "a9dc0fa0d3271dc44d5cdd7d37a7384bcddf17d1990d5b2f273f39ac1a35647c",
       "title": "Concessionária prevê mais de 564 mil veículos no feriado da Independência - O Diário Interativo Online",
       "source": "O Diário Interativo Online",
@@ -60,16 +111,16 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:37:14.704209+00:00"
+      "collected_at": "2026-09-04T07:29:49.550285+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
       "title": "Notícias - Jornal de Barretos",
       "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0ZIaE41aXlESE0wanJQc2ppSkplZ0NLeGdOeWZSR0QxWTkwVkhPX0EzVE1lTldkS3lrakdDTnFaamhCNHVCMlJDNW14N1EzYkxlalpuaUhTdVZ5SHhZZ0xmMHVwTHpHdHNFX2NEdWhWck16WUluZlFobm5WOERSQ3NaS2swbjMycE9ubFYzSDd3dm1qOWpLUVktUXQtMmhjWm9NbUVyMEIwYmNmd0ZOQ3dCV2pOUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWVNvd2x1d1R1REVIMFdJQ2FiSVI5Y2JWZl9fM1pwS251NXpDODZJdmE2c1BJeERtUVRnV3o3dzlCS2NRdVRoYm5jM0xma1BCZEVETDh3aFE0R0JjRWxLb0NUa0RzQnJxQ3U4QXdSSVo0eVJDYVpBZWVuUjJnbkVzOVlsU3BZQk1wQXc5b0RQU2stUDVYMG50SHBZMGVSQXdDeHY5dmxqc0kyVHg2YVNGUGcwWHVzM3FzWUxhMm5ZbW5jUVA0QmZYMXhlREQtbjNOMjY3anZtdUdXOG9MZmxTMVYzUEVDS3E4WlUzVzJCWjR4aEhNekM4?oc=5",
       "resolved_link": "",
-      "published": "2026-09-03T20:50:54+00:00",
-      "published_raw": "Thu, 03 Sep 2026 20:50:54 GMT",
+      "published": "2026-09-03T19:46:39+00:00",
+      "published_raw": "Thu, 03 Sep 2026 19:46:39 GMT",
       "snippet": "Notícias Jornal de Barretos",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.270005+00:00"
+      "collected_at": "2026-09-04T07:29:36.464829+00:00"
     },
     {
       "id": "278625889670905e973e8eb3cb77eb324684c7984218aee1282ed9ac70d242de",
@@ -94,24 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.270212+00:00"
+      "collected_at": "2026-09-04T07:29:36.464995+00:00"
     },
     {
-      "id": "ff31990c7d35ed59abc5ce9f26321f5494d97d42f0cd782d81aa7cdb503437af",
-      "title": "Trecho da Washington Luís em Mirassol deve receber 88 mil veículos no feriado - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
+      "id": "a524cb29e2de2ec3ba6ec71085b46ee2bf64e4ce8ef2705967a3b8e9f7b3727c",
+      "title": "Trecho da Washington Luís em Mirassol deve receber 88 mil veículos no feriado - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUlrcXBTVHZQODVYalRBeC11Wnd4cExwc01lM3J3c0Z5NVh4Wl9ONjB4MVFSOGZ5ZGl6SjZMOUk2bVlad0dIb2kyN3hrUk5GQlNrSXBwMEYxRGU0ZkF3NTI5VnVsUlJPMnJMM3owdnBvWHVvZ0ZJWE9rc2ZPNjAtTWlnenl3d1dUOUVFbFYtaWJ2YUkyYjRjcHlvbll3cVVSazc2S0xpUC1SbGo5QTV3aUZLYUxmZnhOQnFtRy1zRVZNUFN6bXN2Wl9LaW5pZjQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-03T17:49:00+00:00",
       "published_raw": "Thu, 03 Sep 2026 17:49:00 GMT",
-      "snippet": "Trecho da Washington Luís em Mirassol deve receber 88 mil veículos no feriado mirassol.portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "snippet": "Trecho da Washington Luís em Mirassol deve receber 88 mil veículos no feriado Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.270284+00:00"
+      "collected_at": "2026-09-04T07:29:36.465074+00:00"
     },
     {
       "id": "409bb9af3d4fbb6fa5b493d97902e403beda8a4011021f6b0bbf8a72d5118834",
@@ -128,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.270135+00:00"
-    },
-    {
-      "id": "cd3c8321c50867044e0e8b4f63b4434757dfb32bd915e9a2c20f8942ee49cd54",
-      "title": "Operação Independência reforça fiscalização nas rodovias - band.com.br",
-      "source": "band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUndjUkdCRExKTS0xQnA5bnd0ZEw5NDVCSTlseDMzek41bVgxRTJLTFNESmt4MlBFcExZZVd1UUdDM19BVjVVcFloU0hrOVZTc0JkS0taOW44Nkp6bEw1NDByb1NuYVloeFpVMDNTVjY2LWhTdm5fVGwwdFlIRkNtWUx3N2t5WVBjbXZwTXRwSDEybVQzRlow?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-03T17:27:00+00:00",
-      "published_raw": "Thu, 03 Sep 2026 17:27:00 GMT",
-      "snippet": "Operação Independência reforça fiscalização nas rodovias band.com.br",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-04T02:37:11.406792+00:00"
+      "collected_at": "2026-09-04T07:29:36.464919+00:00"
     },
     {
       "id": "accc0ee79411179d48e6fd840e2cf85964c816842655130600b88e5b10b2ff35",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.269862+00:00"
+      "collected_at": "2026-09-04T07:29:36.464652+00:00"
     },
     {
       "id": "3e4c389154352fb720b668774d1e8c9813d0bd568e82b6438e82fffd58cfd97b",
@@ -173,13 +207,13 @@
       "published": "2026-09-03T15:14:46+00:00",
       "published_raw": "Thu, 03 Sep 2026 15:14:46 GMT",
       "snippet": "Feriado deve levar 564 mil veículos às rodovias da região de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.269946+00:00"
+      "collected_at": "2026-09-04T07:29:36.464756+00:00"
     },
     {
       "id": "e8ca4bae5585b51295e7696dce6159ad68d1f74d195ba86fafb6a12adc1a0f25",
@@ -190,13 +224,13 @@
       "published": "2026-09-03T14:56:23+00:00",
       "published_raw": "Thu, 03 Sep 2026 14:56:23 GMT",
       "snippet": "Washington Luís deve receber 88 mil veículos durante feriado na região de Rio Preto gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.270354+00:00"
+      "collected_at": "2026-09-04T07:29:45.826647+00:00"
     },
     {
       "id": "18e1ffb6cfac9649bc7ed508c59b8ac46f8f65e81a56f8cfe5fa77bafcf42085",
@@ -207,13 +241,13 @@
       "published": "2026-09-03T12:54:52+00:00",
       "published_raw": "Thu, 03 Sep 2026 12:54:52 GMT",
       "snippet": "Feriado terá 210 mil veículos na Washington Luís entre São Carlos e região - São Carlos em Rede São Carlos em Rede",
-      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:37:02.162340+00:00"
+      "collected_at": "2026-09-04T07:29:41.130856+00:00"
     },
     {
       "id": "311b3aed80aed37cda46747ca4381e9ce5cb037ce0b87688f05e65cc12f3509e",
@@ -224,13 +258,13 @@
       "published": "2026-09-03T12:54:11+00:00",
       "published_raw": "Thu, 03 Sep 2026 12:54:11 GMT",
       "snippet": "Feriado deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" tarifa",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-04T02:36:57.269760+00:00"
+      "collected_at": "2026-09-04T07:29:45.281045+00:00"
     }
   ]
 }
