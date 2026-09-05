@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-05T12:18:29.416816+00:00",
+  "updated_at": "2026-09-05T16:59:32.921514+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 9,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,38 @@
   ],
   "items": [
     {
-      "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
-      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - Terra",
-      "source": "Terra",
+      "id": "7ea2989bd1606107a5bb31bfa6ae2e1a80bb53fa816d2750bef185628f3de213",
+      "title": "Guia do feriado em São Carlos: veja o que abre, horários, lazer, estradas e como fica o tempo - São Carlos - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWJKdWkyZzBYdFJLdlltdkwxNDhoV3ItNU5Ca0N0VW1jZ1V4TkRrYV9RTzlNWUNfT20zeHRIbFl1QlRfdEYxWUEya1ZPSzlaRFJTWGVkRUpMM3ZPb2RwaXF4QU5WNEFHN2FvMUtCbWZRaTBKQUFnaW84X2pwS1RnczVuWXFocjhnVnFVaWxJQkh3UmtmQW11ZEM4T3hMaUljb0JlT0t2aEk1RFB6Tkl5RHpoQU90N1o0T2ZYNk1R0gHDAUFVX3lxTFBVN3RFcEZVRGFVYlFzVkZaOVB1NEhZWkMtZFJ1ckFseU1GeXVCMkNtUmI5bVJtSlVYbmVucWlDTXBVQk1OdEJ3VmNiSXpmYk9pVEc4cGRObXZlYWNidnlWM1ctYlVORjQwd2dNcF9PQ2E3WVFNWmhqaFZWVTVHMGh5R0p5VWVKN19wVjg3WmRhU2plaDkwZ1l2OFFiNE44cnlSbmpxMHBhU3JSQ3ZtVmg5cWJNeldGelFDbWFtakctLVc3aw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-05T15:15:18+00:00",
+      "published_raw": "Sat, 05 Sep 2026 15:15:18 GMT",
+      "snippet": "Guia do feriado em São Carlos: veja o que abre, horários, lazer, estradas e como fica o tempo - São Carlos São Carlos em Rede",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T16:59:30.262178+00:00"
+    },
+    {
+      "id": "a486e89e4c976dde288a571673ea14838510120cdc5ac55ae3101624cb668cef",
+      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - terra.com.br",
+      "source": "terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1R3LTdQM09JT3ltWmxBeFlSdjdKcXlucmJaRTE1UFVfUnR3RVBaaWNiVXpnb0ZyTnZvaUN1azN6Y2tjSUh4elVZMEtSbzhKdUVuTm1kYThXeEhjN2xfdng3VmtOSVFMbDVCNlVBV01Zc0dfYU53Y28tS09uSjFVTmNyTjJVZG5zOEl6M09KU1h5blpjWkowUHpxdVhtV2VmX2F0OGxRTTl3SFd5c2xndkw3Z25jdjdVbkJyUGxlUEVVbGZ0bVE?oc=5",
       "resolved_link": "",
       "published": "2026-09-05T07:04:00+00:00",
       "published_raw": "Sat, 05 Sep 2026 07:04:00 GMT",
-      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto Terra",
+      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto terra.com.br",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.106948+00:00"
+      "collected_at": "2026-09-05T16:59:15.695871+00:00"
     },
     {
       "id": "fd71ec45c19648a40d2d9d2c02ac3defc03c0f5e50d1c63c86a6e9329a3d9aa0",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.106776+00:00"
+      "collected_at": "2026-09-05T16:59:15.695722+00:00"
     },
     {
       "id": "632cd850a735537c7dfb0b05e3608bf810e37a83837ed742d401dfa94cb81e21",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.107310+00:00"
+      "collected_at": "2026-09-05T16:59:15.696143+00:00"
     },
     {
       "id": "09446c8f815d56e48bd1213ecef3dc22284fa834fa9e33f2a7c44378a66486d0",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.107169+00:00"
+      "collected_at": "2026-09-05T16:59:15.696023+00:00"
     },
     {
       "id": "475e56588f35aff05932ebbcdcc3c6d4233e0acffcf91a81381df2f2c92d70a6",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:25.394959+00:00"
+      "collected_at": "2026-09-05T16:59:28.547874+00:00"
     },
     {
       "id": "f3e585e78b4382a37927b2fc8cf4d876d710de60256b242def02c60a227e1202",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.106872+00:00"
+      "collected_at": "2026-09-05T16:59:15.695806+00:00"
     },
     {
       "id": "7c42a3a9ef22d5e25fcdef5fc808d7c428bd73395f19fe2ff75a7287b4607435",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.107242+00:00"
+      "collected_at": "2026-09-05T16:59:15.696085+00:00"
     },
     {
       "id": "ec48ead87a8c48ec0fd5b999bf733c3b3c0dd51387f646f04bb1baf09f56a4ed",
@@ -179,41 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.107092+00:00"
-    },
-    {
-      "id": "b53a7e02536465cd577fd431db28e07c3df8bae13b900d27707a0b1d3a310029",
-      "title": "Ecorodovias aumenta tráfego em 2,6% em agosto e acumula alta de 9,4% no ano - ADVFN",
-      "source": "ADVFN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODRCT3BWRjNmRlZ3Z0cxRkpxanFKXzZmY1JpZ3liNU91aVJ3cFJBQjZlX09vbTBqYUtzeVRPclJ1dTRqY25zU01od1NVR0diMTZpSEowN1ZISzl5cFBtSHl4ZVZQOE5oejVVbnE3eWd5VEtpd2twejVEQ0RqRXdBdmp6S3pwTS1sWFl4MUQ2UWQ4dWs5NmtZd1hPZE0yenk1TXhDT3N1ZjlOeURSMmc?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T14:07:21+00:00",
-      "published_raw": "Fri, 04 Sep 2026 14:07:21 GMT",
-      "snippet": "Ecorodovias aumenta tráfego em 2,6% em agosto e acumula alta de 9,4% no ano ADVFN",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T12:18:26.424733+00:00"
-    },
-    {
-      "id": "e0302792530378f8280c612afc47c35163e2783770609b42576d54fde1f20f36",
-      "title": "Ecorodovias (ECOR3) registra alta de 2,6% no tráfego em agosto - BPMoney",
-      "source": "BPMoney",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2ctbkJpR2UzN2xsVm1hREs5Z2JpUHVnZEJhOXFfLXktaV94eHR3ZFBEQ2ZuWkxXYU5zLVRjWFp5bW1nN05VeVQzSm1xaUZucG92Um42bWVCSDdzOC0xRW9MMmdQUlI3cHlQRndPcUNDdWNRM3dTa0czRzFUNkhTZUhlYm41dU1Ebzk3Y19PYVd2RzByZHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T13:37:03+00:00",
-      "published_raw": "Fri, 04 Sep 2026 13:37:03 GMT",
-      "snippet": "Ecorodovias (ECOR3) registra alta de 2,6% no tráfego em agosto BPMoney",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T12:18:14.107018+00:00"
+      "collected_at": "2026-09-05T16:59:15.695954+00:00"
     }
   ]
 }
