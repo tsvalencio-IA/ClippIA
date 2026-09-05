@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-05T07:19:35.322137+00:00",
+  "updated_at": "2026-09-05T12:11:56.994964+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 11,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
+      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - Terra",
+      "source": "Terra",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1R3LTdQM09JT3ltWmxBeFlSdjdKcXlucmJaRTE1UFVfUnR3RVBaaWNiVXpnb0ZyTnZvaUN1azN6Y2tjSUh4elVZMEtSbzhKdUVuTm1kYThXeEhjN2xfdng3VmtOSVFMbDVCNlVBV01Zc0dfYU53Y28tS09uSjFVTmNyTjJVZG5zOEl6M09KU1h5blpjWkowUHpxdVhtV2VmX2F0OGxRTTl3SFd5c2xndkw3Z25jdjdVbkJyUGxlUEVVbGZ0bVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-05T07:04:00+00:00",
+      "published_raw": "Sat, 05 Sep 2026 07:04:00 GMT",
+      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto Terra",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T12:11:41.615391+00:00"
+    },
+    {
       "id": "fd71ec45c19648a40d2d9d2c02ac3defc03c0f5e50d1c63c86a6e9329a3d9aa0",
       "title": "Feriado da Independência deve movimentar mais de 564 mil veículos nas rodovias da Ecovias Noroeste Paulista - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +77,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817501+00:00"
+      "collected_at": "2026-09-05T12:11:41.615073+00:00"
+    },
+    {
+      "id": "632cd850a735537c7dfb0b05e3608bf810e37a83837ed742d401dfa94cb81e21",
+      "title": "Cartões de inscrição no Enamed e Revalida estão disponíveis - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmVVQ3dZd1pfZVo2M3RQUzd3ZFRSaHFNZkVCcGFnUmFHYzJzVmthNm9RYW8yX2huMEhvWGpHZmp2Z2Q5d3VLVkFWYllNYkV3c25JZkpSZEpFSFdkcTdNRFNRalZsWXJabnZzZjRGRmxvWHQwaUh1bmRJVlB3QkNDMWF1ZkNGT1JWajNTQ251NE10NzBZYUlpdFB0MW5EMF9uUFBudUV4dE8?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-05T00:06:13+00:00",
+      "published_raw": "Sat, 05 Sep 2026 00:06:13 GMT",
+      "snippet": "Cartões de inscrição no Enamed e Revalida estão disponíveis lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T12:11:43.146944+00:00"
+    },
+    {
+      "id": "09446c8f815d56e48bd1213ecef3dc22284fa834fa9e33f2a7c44378a66486d0",
+      "title": "Vídeo: Carlos Viana pede abertura de processo de impeachment de Alexandre de Moraes - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUN4anZoT1FQYUdrczBpVWNlV3prTE01c2tYMkdPV2FEQ0FCdEdlbFA2cDdhUjlVaDJBQ0g4OW03c05aa3hoQlRZYUwyRmRCV1hzNkllY0tkaHZ4S0tKbVJiYjJYSnVIMWlNQ3NwMlVKbHlpQm0wZVZHRjg2cjVvbXBnM1lHWkdyeEVzaVRSbDE2UDlsVFZxOHlfSnMydXlhU3V3a1huVWFsU3VybF82d1ZyM2s0N2lYelhCamJwVGNBZ1FibXNN?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T22:35:31+00:00",
+      "published_raw": "Fri, 04 Sep 2026 22:35:31 GMT",
+      "snippet": "Vídeo: Carlos Viana pede abertura de processo de impeachment de Alexandre de Moraes lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T12:11:41.615568+00:00"
     },
     {
       "id": "475e56588f35aff05932ebbcdcc3c6d4233e0acffcf91a81381df2f2c92d70a6",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:30.767003+00:00"
+      "collected_at": "2026-09-05T12:11:52.934454+00:00"
     },
     {
       "id": "f3e585e78b4382a37927b2fc8cf4d876d710de60256b242def02c60a227e1202",
@@ -94,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817605+00:00"
+      "collected_at": "2026-09-05T12:11:41.615284+00:00"
+    },
+    {
+      "id": "7c42a3a9ef22d5e25fcdef5fc808d7c428bd73395f19fe2ff75a7287b4607435",
+      "title": "Ecovias Imigrantes prevê até 330 mil veículos no feriado da Independência - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXhmNTYxNEVGYWJBSHZPRVhPdVRkLWV1RWpXR2dhWks5R19UM2szS3k0djVPcTRrcjhBYkpTbDIxOGlHU2lwV3BOdTExTTE3TDZVdzh0YVU1U0FfZWI0S3lac2xiMWwtdHpiSkRmak45RlRvdUY5MzlILUhXOFZOS25mZVc3VGR4N21YYS1VS3A5YW1jNG95RjBhWFlsZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T20:46:14+00:00",
+      "published_raw": "Fri, 04 Sep 2026 20:46:14 GMT",
+      "snippet": "Ecovias Imigrantes prevê até 330 mil veículos no feriado da Independência Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T12:11:41.615652+00:00"
     },
     {
       "id": "ec48ead87a8c48ec0fd5b999bf733c3b3c0dd51387f646f04bb1baf09f56a4ed",
@@ -111,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817802+00:00"
+      "collected_at": "2026-09-05T12:11:41.615478+00:00"
     },
     {
       "id": "b53a7e02536465cd577fd431db28e07c3df8bae13b900d27707a0b1d3a310029",
@@ -128,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:31.972901+00:00"
+      "collected_at": "2026-09-05T12:11:53.950475+00:00"
     },
     {
       "id": "e0302792530378f8280c612afc47c35163e2783770609b42576d54fde1f20f36",
@@ -145,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:31.972987+00:00"
+      "collected_at": "2026-09-05T12:11:53.950545+00:00"
     },
     {
       "id": "0474b7732480b0af0ff536a7a3f93e7f56b6b26242aff5d857791de96b61ce74",
@@ -156,98 +224,13 @@
       "published": "2026-09-04T12:15:53+00:00",
       "published_raw": "Fri, 04 Sep 2026 12:15:53 GMT",
       "snippet": "Rodovias da região de Rio Preto devem receber 180 mil veículos durante feriado da Independência G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817560+00:00"
-    },
-    {
-      "id": "c62d0d67cc412a607cb51cdfcc0f856ff2b4f5233d6dfd561ed04548572dc200",
-      "title": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto - Valor Econômico",
-      "source": "Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkhfTDFDX3N3dllPLXNPMTFSNFY4cUdFWjRWWEl3el91YUZEalZMaGZTbTg1MVpGODY5SW5OdUhGRjUtNkh4a0ctUElMQUpHOVFONlhidlZEcGNqSlZ3U0oyU0tHM1QwV1VDOG5JdmNtNEk0eXhRTVBvR0hLcWxQdnNxTUNRMFFqdzQwRDAtSl8tSVZmbmVWNFpYZmg2VGctWW9ZSmo1dzF1ZGx1YVJQOUo3RWUwSXBTT3hkTkQyNVBSdUhsNUItV2t3YVFjSlgxNlYxN0ljNDF0REc2WjJIOFczX1JxZ1XSAecBQVVfeXFMT25IX0wxQ19zd3ZZTy1zTzExUjRWOHFHRVo0VlhJd3pfdWFGRGpWTGhmU204NTFaRjg2OUluTnVIRkY1LTZIeGtHLVBJTEFKRzlRTjZYYnZWRHBjakpWd1NKMlNLRzNUMFdVQzhuSXZjbTRJNHl4UU1Qb0dIS3FsUHZzcU1DUTBRanc0MEQwLUpfLUlWZm5lVjRaWGZoNlRnLVlvWUpqNXcxdWRsdWFSUDlKN0VlMElwU094ZE5EMjVQUnVIbDVCLVdrd2FRY0pYMTZWMTdJYzQxdERHNloySDhXM19ScWdV?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T12:07:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 12:07:00 GMT",
-      "snippet": "Ecorodovias tem crescimento de 2,6% no tráfego de veículos em agosto Valor Econômico",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817648+00:00"
-    },
-    {
-      "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
-      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - Terra",
-      "source": "Terra",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1R3LTdQM09JT3ltWmxBeFlSdjdKcXlucmJaRTE1UFVfUnR3RVBaaWNiVXpnb0ZyTnZvaUN1azN6Y2tjSUh4elVZMEtSbzhKdUVuTm1kYThXeEhjN2xfdng3VmtOSVFMbDVCNlVBV01Zc0dfYU53Y28tS09uSjFVTmNyTjJVZG5zOEl6M09KU1h5blpjWkowUHpxdVhtV2VmX2F0OGxRTTl3SFd5c2xndkw3Z25jdjdVbkJyUGxlUEVVbGZ0bVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T12:05:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 12:05:00 GMT",
-      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto Terra",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817722+00:00"
-    },
-    {
-      "id": "59a04fe4c219dad273e8b4e88cf715d13a62f055413ef697ad7bc62d78c0e881",
-      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto Por Reuters - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1l2VnQ1UXdkdmo3ZUJQRDg3bHgtcWJYcmU5bmtETzN6VDNNUnlMRWptU2cweHE1UDdIT0ktTHBNTzZuYW13WXRlc1VpSDd1WkwxUFBFY2ZaLW9FRWhkcDEwM1lBd2I2STQ0dFN3b0lad1d4NTlPUENiODRCUU5yaVdxLVZOeGw0a3NpUjN0d3Z4eUFCZWN6bzJwU1lGT3c?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T12:03:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 12:03:00 GMT",
-      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T07:19:31.972951+00:00"
-    },
-    {
-      "id": "90a20cc56d33160d4fee1c88c9d1448ec5b83f2facb4c2ff54b37267de5ee633",
-      "title": "EcoRodovias (ECOR3) registra alta de 9% no tráfego em 2026 - Visno Invest",
-      "source": "Visno Invest",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcGlLODVrdm9FM1RkN0ZKbzEteFZNd0tSaEZuYTg1d0hzbUV1dExEMzJPUUdqREE3ZFNDc3BRMHpCRVlKLUM1X2lLX0lqV0k0Wkw4bjYwNTkzU29vbDhLSlpuZmxxbVVvUFVBWXU1TzJ4X0otVG9STkVtaUdfZk1NX3JBX0szNTlNZjQ2dlJ2M3dtMG4xdnpuZg?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T11:52:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 11:52:00 GMT",
-      "snippet": "EcoRodovias (ECOR3) registra alta de 9% no tráfego em 2026 Visno Invest",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T07:19:17.817687+00:00"
-    },
-    {
-      "id": "d530f11b655c92d8228324cf77248d6f2a4332b471c00528dfdf534a1f0d496e",
-      "title": "Feriado da Independência deve movimentar 564 mil veículos nas rodovias - O Regional",
-      "source": "O Regional",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV01xQVZsZDQ4WkMwWW0waE1qakFrN2MtM3FZeGdQa0pCaVo4WEJHZjZaOEtrTU5tdkRTX2kyNUVnc0VBVHhBQmtyQnh5TzdNdnRMZWJvRjFQU01nMXZ0SGlqcmVBM04xd1c5UzlQVTJQS3Y2ZkVZb1MxRXRfTHJETUN2UmJnMGZuWFFILVlZcDhscTMyOUZxWGR6WXctNjBndFQxbnFOWk5DUUJr?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T11:37:49+00:00",
-      "published_raw": "Fri, 04 Sep 2026 11:37:49 GMT",
-      "snippet": "Feriado da Independência deve movimentar 564 mil veículos nas rodovias O Regional",
-      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T07:19:32.559335+00:00"
+      "collected_at": "2026-09-05T12:11:41.615191+00:00"
     }
   ]
 }
