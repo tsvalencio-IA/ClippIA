@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-05T19:50:24.144468+00:00",
+  "updated_at": "2026-09-05T22:27:27.457969+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 10,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:21.538728+00:00"
+      "collected_at": "2026-09-05T22:27:24.840382+00:00"
     },
     {
       "id": "8137db8ee9979854c5dcc68dd2bc1371f11dee9b7c6eff2beaa6b45c0380ea75",
@@ -71,13 +71,13 @@
       "published": "2026-09-05T08:32:56+00:00",
       "published_raw": "Sat, 05 Sep 2026 08:32:56 GMT",
       "snippet": "Motoristas devem redobrar atenção com obras na Washington Luís entre Cedral e Mirassol (SP) gazetainterior.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:21.538805+00:00"
+      "collected_at": "2026-09-05T22:27:21.540588+00:00"
     },
     {
       "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828283+00:00"
+      "collected_at": "2026-09-05T22:27:03.153500+00:00"
     },
     {
       "id": "fd71ec45c19648a40d2d9d2c02ac3defc03c0f5e50d1c63c86a6e9329a3d9aa0",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828105+00:00"
+      "collected_at": "2026-09-05T22:27:03.153399+00:00"
     },
     {
       "id": "a47adec690bbfce564ee5762fc68a007401ebb575c23961e467ceeb5d4013d7a",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828502+00:00"
+      "collected_at": "2026-09-05T22:27:03.153692+00:00"
     },
     {
       "id": "632cd850a735537c7dfb0b05e3608bf810e37a83837ed742d401dfa94cb81e21",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828635+00:00"
+      "collected_at": "2026-09-05T22:27:03.153853+00:00"
     },
     {
       "id": "fa8271320b5d1b8a512bb4f27187cb6fcad1c939bf23485a650ff31d0cab4b4e",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:09.453085+00:00"
+      "collected_at": "2026-09-05T22:27:04.837784+00:00"
     },
     {
       "id": "09446c8f815d56e48bd1213ecef3dc22284fa834fa9e33f2a7c44378a66486d0",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828434+00:00"
+      "collected_at": "2026-09-05T22:27:03.153606+00:00"
     },
     {
       "id": "2595e3b0e1beb6c4e02a11a213263854cad6c63fac293aa712d727865f0ec566",
@@ -190,13 +190,13 @@
       "published": "2026-09-04T22:35:28+00:00",
       "published_raw": "Fri, 04 Sep 2026 22:35:28 GMT",
       "snippet": "PF faz operação contra fraudes no registro de armas de colecionadores lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:09.453016+00:00"
+      "collected_at": "2026-09-05T22:27:03.153931+00:00"
     },
     {
       "id": "475e56588f35aff05932ebbcdcc3c6d4233e0acffcf91a81381df2f2c92d70a6",
@@ -207,64 +207,13 @@
       "published": "2026-09-04T22:35:08+00:00",
       "published_raw": "Fri, 04 Sep 2026 22:35:08 GMT",
       "snippet": "Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T19:50:19.751588+00:00"
-    },
-    {
-      "id": "f3e585e78b4382a37927b2fc8cf4d876d710de60256b242def02c60a227e1202",
-      "title": "Washington Luís deve receber 88 mil veículos durante feriado - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnBzU19pRk9lYVRudnN4a1dWM3pNdlVCTDBNdlBlQ2JkLXM5RTBSUmRsTkJMTmZhNEUySWlZQ1RlcENvQWJUQTRpM0dJOEFLcHY0Njg3TDc1b19LdXp4UUxuYkhQMGw4TXRFVXdBdlR6UHV3TEl0Wm5SeUVGcWFkckU5UHFIRm5Dck5YSy1pSmpmMjM5QkU0RW85UHdVQzNqMUlKRUVvV0g?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T21:54:00+00:00",
-      "published_raw": "Fri, 04 Sep 2026 21:54:00 GMT",
-      "snippet": "Washington Luís deve receber 88 mil veículos durante feriado Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828208+00:00"
-    },
-    {
-      "id": "395d4113fbe7ece483e4dee1208321e139c25e67e92b1bd9f5263c1dae1f923f",
-      "title": "SP: laudo descarta suicídio e diz que policial Gisele foi assassinada - lucianapombo.com.br",
-      "source": "lucianapombo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFJTV1RDa2VnNW9yaDlfeTFIbXg0MFNSR0hKUUhSR0ltLVJISVRvNDFDRm0zaS1QRkcwejlZTlpZUDRtNnFveFkwVFZKenRITWdmVnltTC1jX1BQV3pIRVF5UUtTalVFbklCX2FmYzNLU0JOU1RYSlZkRnJNd2d6cTBuN1k4c3BlTkNJTHRVckF2a3VEN3JDQWhDa3pNazlSbG8yNXhHc3VQNl9kT0h0NTJvUlU?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T21:04:29+00:00",
-      "published_raw": "Fri, 04 Sep 2026 21:04:29 GMT",
-      "snippet": "SP: laudo descarta suicídio e diz que policial Gisele foi assassinada lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828570+00:00"
-    },
-    {
-      "id": "7c42a3a9ef22d5e25fcdef5fc808d7c428bd73395f19fe2ff75a7287b4607435",
-      "title": "Ecovias Imigrantes prevê até 330 mil veículos no feriado da Independência - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXhmNTYxNEVGYWJBSHZPRVhPdVRkLWV1RWpXR2dhWks5R19UM2szS3k0djVPcTRrcjhBYkpTbDIxOGlHU2lwV3BOdTExTTE3TDZVdzh0YVU1U0FfZWI0S3lac2xiMWwtdHpiSkRmak45RlRvdUY5MzlILUhXOFZOS25mZVc3VGR4N21YYS1VS3A5YW1jNG95RjBhWFlsZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T20:46:14+00:00",
-      "published_raw": "Fri, 04 Sep 2026 20:46:14 GMT",
-      "snippet": "Ecovias Imigrantes prevê até 330 mil veículos no feriado da Independência Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T19:50:07.828359+00:00"
+      "collected_at": "2026-09-05T22:27:03.153777+00:00"
     }
   ]
 }
