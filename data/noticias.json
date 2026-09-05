@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-05T17:04:45.186665+00:00",
+  "updated_at": "2026-09-05T19:40:12.946492+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 13,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,41 +60,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:42.556195+00:00"
+      "collected_at": "2026-09-05T19:40:10.050153+00:00"
     },
     {
-      "id": "8137db8ee9979854c5dcc68dd2bc1371f11dee9b7c6eff2beaa6b45c0380ea75",
-      "title": "Motoristas devem redobrar atenção com obras na Washington Luís entre Cedral e Mirassol (SP) - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2E3RnR4d2lsbGQxUlJGckFONHlTT3Z3VldkR1JaUXhiYmVLVFAxSVcxRXFFMk1OOXZCNEI3Uk5LX0hGRHdrSkNPckpsSVlxc094RjJaTEJrXzZfRGVUUVFGSWJFTkZyN18yQ0ZmdGZyRkdFZDdFRU5sX2l0dy1qRktJWFItaS1QZS02aGhnazVON1ZDTWxzUzFmVDFqazQzWUI3SVFtVVN4d0JqRjJ0VXAxNXV4aUdCbkpBWHRmM21TRzZLS040RmRkTXlzUdIBzgFBVV95cUxPR2E3RnR4d2lsbGQxUlJGckFONHlTT3Z3VldkR1JaUXhiYmVLVFAxSVcxRXFFMk1OOXZCNEI3Uk5LX0hGRHdrSkNPckpsSVlxc094RjJaTEJrXzZfRGVUUVFGSWJFTkZyN18yQ0ZmdGZyRkdFZDdFRU5sX2l0dy1qRktJWFItaS1QZS02aGhnazVON1ZDTWxzUzFmVDFqazQzWUI3SVFtVVN4d0JqRjJ0VXAxNXV4aUdCbkpBWHRmM21TRzZLS040RmRkTXlzUQ?oc=5",
+      "id": "3ca19e421f6cb79120533fb54d3ac4df28ba895a62e9c7ce209dd08ba72b2a6a",
+      "title": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2RibURxRXg5RVc2V0Fnd3prVjV2SVczY2ZiNU1WTzNPd3pQNXNFS3ZNRG5nRFJfWUU2VnF2Tzl5ZEFlUFhuZlJ4eDZfQnBiNVROYUlubFhsYlpoUUxwQXRqOTdHNGdOaHRIUW96S2lTMVFRbzRUWDh4T0hjMVpCTHl3UVFtWjBiSXR0SVVVX0wteDJEUE9DZUh6dGtubmxyZGdvZF95SXY?oc=5",
       "resolved_link": "",
-      "published": "2026-09-05T08:32:56+00:00",
-      "published_raw": "Sat, 05 Sep 2026 08:32:56 GMT",
-      "snippet": "Motoristas devem redobrar atenção com obras na Washington Luís entre Cedral e Mirassol (SP) gazetainterior.com.br",
+      "published": "2026-09-05T14:03:27+00:00",
+      "published_raw": "Sat, 05 Sep 2026 14:03:27 GMT",
+      "snippet": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto Gazeta de Rio Preto",
       "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:42.556346+00:00"
+      "collected_at": "2026-09-05T19:40:10.050071+00:00"
     },
     {
-      "id": "a486e89e4c976dde288a571673ea14838510120cdc5ac55ae3101624cb668cef",
-      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - terra.com.br",
-      "source": "terra.com.br",
+      "id": "ad4db56e5caf4ece51e00c03e67e907666811bf328ba58ee901608aa357a04ee",
+      "title": "Ecorodovias tem alta de 2,6% no tráfego em agosto - Terra",
+      "source": "Terra",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1R3LTdQM09JT3ltWmxBeFlSdjdKcXlucmJaRTE1UFVfUnR3RVBaaWNiVXpnb0ZyTnZvaUN1azN6Y2tjSUh4elVZMEtSbzhKdUVuTm1kYThXeEhjN2xfdng3VmtOSVFMbDVCNlVBV01Zc0dfYU53Y28tS09uSjFVTmNyTjJVZG5zOEl6M09KU1h5blpjWkowUHpxdVhtV2VmX2F0OGxRTTl3SFd5c2xndkw3Z25jdjdVbkJyUGxlUEVVbGZ0bVE?oc=5",
       "resolved_link": "",
       "published": "2026-09-05T07:04:00+00:00",
       "published_raw": "Sat, 05 Sep 2026 07:04:00 GMT",
-      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto terra.com.br",
+      "snippet": "Ecorodovias tem alta de 2,6% no tráfego em agosto Terra",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730536+00:00"
+      "collected_at": "2026-09-05T19:39:53.444299+00:00"
     },
     {
       "id": "fd71ec45c19648a40d2d9d2c02ac3defc03c0f5e50d1c63c86a6e9329a3d9aa0",
@@ -111,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730358+00:00"
+      "collected_at": "2026-09-05T19:39:53.444135+00:00"
+    },
+    {
+      "id": "a47adec690bbfce564ee5762fc68a007401ebb575c23961e467ceeb5d4013d7a",
+      "title": "Candidatos à Presidência realizam atos de campanha pelo país - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYUNydnBNbU04czZsZGt5OE84VDU5SjlBa0ZzWk90dXlLY2pLSzhRZks5WDJxTjlFYktSMjRqVjVKNDI2Wm9pRlR5MG5sR093QVRwY244Wm5sMWdId253NkF3NFQtM2FDc09zX3F1cWsyVHFJbDVLZTg1Nm1TVzJtaFJSd2poYkZOQWo0c3hmTTRVUFM5ZnprbklHQnNPeklZb0dGWXpjSGIyQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-05T00:06:14+00:00",
+      "published_raw": "Sat, 05 Sep 2026 00:06:14 GMT",
+      "snippet": "Candidatos à Presidência realizam atos de campanha pelo país lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T19:39:53.444512+00:00"
     },
     {
       "id": "632cd850a735537c7dfb0b05e3608bf810e37a83837ed742d401dfa94cb81e21",
@@ -128,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730908+00:00"
+      "collected_at": "2026-09-05T19:39:53.444676+00:00"
+    },
+    {
+      "id": "fa8271320b5d1b8a512bb4f27187cb6fcad1c939bf23485a650ff31d0cab4b4e",
+      "title": "TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOendMcUNzX0k4RzZrY1RSaEFqQW1RZl9tZjBDNmpjV2h3ZnBIYVNHVl9nQjRyOGtPOHBRcUljNTNzYzdzYjFRWUxFQy1RMDAxRHlVSjlRQmpsYzVaT0FoXzRVeGticG5mSzlvRzlZaURmTkQ5OEg3UHN6TThfQmI0SzJWdXZSWTJ6d1FJRWdKcHN4SnN5ZjdYb1c1UnptdzVnM0tGQVZ3UmIxR3ZyOS0yeGtrWQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-04T22:35:34+00:00",
+      "published_raw": "Fri, 04 Sep 2026 22:35:34 GMT",
+      "snippet": "TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-05T19:39:55.384355+00:00"
     },
     {
       "id": "09446c8f815d56e48bd1213ecef3dc22284fa834fa9e33f2a7c44378a66486d0",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730690+00:00"
+      "collected_at": "2026-09-05T19:39:53.444445+00:00"
     },
     {
       "id": "2595e3b0e1beb6c4e02a11a213263854cad6c63fac293aa712d727865f0ec566",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:30.323648+00:00"
+      "collected_at": "2026-09-05T19:39:55.384292+00:00"
     },
     {
       "id": "475e56588f35aff05932ebbcdcc3c6d4233e0acffcf91a81381df2f2c92d70a6",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:40.786757+00:00"
+      "collected_at": "2026-09-05T19:40:07.922014+00:00"
     },
     {
       "id": "f3e585e78b4382a37927b2fc8cf4d876d710de60256b242def02c60a227e1202",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730457+00:00"
+      "collected_at": "2026-09-05T19:39:53.444228+00:00"
     },
     {
       "id": "395d4113fbe7ece483e4dee1208321e139c25e67e92b1bd9f5263c1dae1f923f",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730839+00:00"
+      "collected_at": "2026-09-05T19:39:53.444611+00:00"
     },
     {
       "id": "7c42a3a9ef22d5e25fcdef5fc808d7c428bd73395f19fe2ff75a7287b4607435",
@@ -230,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730766+00:00"
-    },
-    {
-      "id": "ec48ead87a8c48ec0fd5b999bf733c3b3c0dd51387f646f04bb1baf09f56a4ed",
-      "title": "Feriado da Independência: 564 mil veículos nas rodovias - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVFOYVJHQnZDdGpZb2ppck52WmlzVVVjZExFcUdwR0hjTFlxUVo1NC10M0g1bjZsZXpjdnYwajAzS2ZuWmZneXJCa05jZnl4TFN3d21qc3ZuNVg5UVRlcWpMQmszbGpmN3pvVkg2QkVoUGJHRzBHY0tjRkp5TnZpYXpycjFUU2lab0V5NEUwOXRFcElaSGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-04T17:53:14+00:00",
-      "published_raw": "Fri, 04 Sep 2026 17:53:14 GMT",
-      "snippet": "Feriado da Independência: 564 mil veículos nas rodovias Mobilidade Sampa",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-05T17:04:28.730611+00:00"
+      "collected_at": "2026-09-05T19:39:53.444373+00:00"
     }
   ]
 }
