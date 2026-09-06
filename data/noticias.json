@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-06T07:23:10.030040+00:00",
+  "updated_at": "2026-09-06T07:32:24.197759+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T07:22:54.919373+00:00"
+      "collected_at": "2026-09-06T07:32:08.942604+00:00"
+    },
+    {
+      "id": "6b36ac1dc70e0fe1f37f846da7fc170077bbc45c126ffc90866054f8558a8f1a",
+      "title": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto - gazetaderiopreto.com.br",
+      "source": "gazetaderiopreto.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2RibURxRXg5RVc2V0Fnd3prVjV2SVczY2ZiNU1WTzNPd3pQNXNFS3ZNRG5nRFJfWUU2VnF2Tzl5ZEFlUFhuZlJ4eDZfQnBiNVROYUlubFhsYlpoUUxwQXRqOTdHNGdOaHRIUW96S2lTMVFRbzRUWDh4T0hjMVpCTHl3UVFtWjBiSXR0SVVVX0wteDJEUE9DZUh6dGtubmxyZGdvZF95SXY?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-05T14:03:27+00:00",
+      "published_raw": "Sat, 05 Sep 2026 14:03:27 GMT",
+      "snippet": "Após quase dez horas, 126 porcos são resgatados com vida em Rio Preto gazetaderiopreto.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-06T07:32:08.942489+00:00"
     },
     {
       "id": "8137db8ee9979854c5dcc68dd2bc1371f11dee9b7c6eff2beaa6b45c0380ea75",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T07:22:54.919445+00:00"
+      "collected_at": "2026-09-06T07:32:08.942692+00:00"
     }
   ]
 }
