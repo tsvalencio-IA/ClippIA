@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:27:50.737472+00:00",
+  "updated_at": "2026-09-06T19:42:51.913429+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T17:27:34.902334+00:00"
+      "collected_at": "2026-09-06T19:42:34.479233+00:00"
     },
     {
       "id": "5d4263297a1f147626f551b8a46244599cd778554865cce0e6ab5d0b7336b78e",
@@ -77,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T17:27:34.902430+00:00"
+      "collected_at": "2026-09-06T19:42:34.479325+00:00"
     },
     {
-      "id": "ec51ea7d44de130cd44d5f95b624f722256b0673469b5e6b30c52d06eef28395",
-      "title": "Motorista morre após carro sair da pista e capotar na SP-310 - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
+      "id": "140906b937dedf8d5d91b45095a04a68988d47927a74bd5fcf8f6b2399a32aaf",
+      "title": "Motorista morre após carro sair da pista e capotar na SP-310 - São Carlos Agora",
+      "source": "São Carlos Agora",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXhZT19PdnlCazVCc2lXWUZiNllnaEluNkVjY0lQYzV5N3ZQVmtwd2xvQnRwTzU4SEc0bGd0c0N4Y1NJek1KdW1FMGh1ODJkQXlCMmNZYWh1SVhEcTAweXJmSmh4Vm5ab3hxa0xZLTd5V2JlMjNBd1l0Y2lNanQxeXh4OTcya29sSC1jdkdqR1lnNklfcDBXbDh0ZGRJLU9xakR3dTZFaFpLeFRUQnfSAbMBQVVfeXFMTnpsZnJKMXRVZmROOFo2MzlYS3Z2bEpSVTZkeEp2bWM1bW11SVd3bXNkemJwcjdJT1VNSzBvc1gza3RQdDBVOG0tSWdRczJkd3c5VktrWjFJVnlvekRTcWs2V050aF9XZm9iMkpfODNXUlJPejlDc3RrTHNqdDdOa0ZqN0JVRkpBV3pVZVExTl9yYU1ScHVucGhUQmlGanRRQU9xcEthbFhNUnpBNi1ua2txWms?oc=5",
       "resolved_link": "",
       "published": "2026-09-06T13:44:00+00:00",
       "published_raw": "Sun, 06 Sep 2026 13:44:00 GMT",
-      "snippet": "Motorista morre após carro sair da pista e capotar na SP-310 saocarlosagora.com.br",
+      "snippet": "Motorista morre após carro sair da pista e capotar na SP-310 São Carlos Agora",
       "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T17:27:34.902509+00:00"
+      "collected_at": "2026-09-06T19:42:34.479403+00:00"
     }
   ]
 }
