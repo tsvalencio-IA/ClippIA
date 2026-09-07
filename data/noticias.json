@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T18:57:55.819048+00:00",
+  "updated_at": "2026-09-07T23:08:28.820632+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 6,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "ce892297cf87eb03d9476c6f375977c46840c560388645d94445acd8b1e7e00a",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 7/9 a 13/9/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVW5aSE1SaE5XbVQ5Mm9oS3ZReFVhY1BjdXR3TTZFcXAtZ0FvNUtrX29lcDNHUFlQSktRMWpHSUJKQ3BHRDE0Tmx5aDhRbmJRT0ZIdG84RnFvcC1xZFBmcXJlVVVldW5ZSG1TczlaMmdrWG9MS0Jza1J1Q19jSEItbWdON2dOMmtmR0ZxM0pOMHpRM2ZYNnJRb2tUMTdJZTI1VXJ4NUI3X09LS0ZpNHNSQkVYX1g?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T16:56:18+00:00",
+      "published_raw": "Mon, 07 Sep 2026 16:56:18 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 7/9 a 13/9/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T23:08:12.852512+00:00"
+    },
+    {
       "id": "055c000bb5c82cecede1ff79d20f4e18c4cd9021d4ff1890671b499bc50fc405",
       "title": "Atenção, motorista: obras na Washington Luís terão interdições em São Carlos nesta semana - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -60,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T18:57:39.318976+00:00"
+      "collected_at": "2026-09-07T23:08:12.852615+00:00"
+    },
+    {
+      "id": "d4203a7a9904f4a5c1b715c14f3c1460198031deefcd602bc9e5c833383bdc3f",
+      "title": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BrS2FKcHhiME5iWFNpcy0yVF83ZHI3cHZfTmhDNUxQT3dERF9RTU9kdkpmQTdPRGtLTG1waWpPOHV4LUhGV1RQNlQ2a2V5Tmp5VUJQbEt1bXNuRW9mcGR3ZTlEYkdFdElSbS00cERqaE1kLUZ5ZDl1eENaSHZ0Q3A2TUJ5c2QtTzRQMF9zZEtEWEZocWs1ekgxV3ZWLVNmQUxmWWo1TndQTGlJaE9XRmZJcWRYWnBoSUpIaU5mTjA1Um93bk5rZG8zVkhvdExYV0N4UlJR0gHWAUFVX3lxTFBvUGtLYUpweGIwTmJYU2lzLTJUXzdkcjdwdl9OaEM1TFBPd0REX1FNT2R2SmZBN09Ea0tMbXBpak84dXgtSEZXVFA2VDZrZXlOanlVQlBsS3Vtc25Fb2ZwZHdlOURiR0V0SVJtLTRwRGpoTWQtRnlkOXV4Q1pIdnRDcDZNQnlzZC1PNFAwX3NkS0RYRmhxazV6SDFXdlYtU2ZBTGZZajVOd1BMaUloT1dGZklxZFhacGhJSkhpTmZOMDVSb3duTmtkbzNWSG90TFhXQ3hSUlE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T08:17:42+00:00",
+      "published_raw": "Mon, 07 Sep 2026 08:17:42 GMT",
+      "snippet": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T23:08:12.852771+00:00"
     },
     {
       "id": "4eb6ad7f18708b7f495e10864e2358e83acc3edc171e45b303ae9c02c41d566a",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T18:57:39.319141+00:00"
+      "collected_at": "2026-09-07T23:08:12.852841+00:00"
     },
     {
       "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
@@ -94,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T18:57:39.319063+00:00"
+      "collected_at": "2026-09-07T23:08:12.852695+00:00"
     },
     {
-      "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
-      "title": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWDZoSFc3bGx1X3RxTHY3RWxFLXdvT0k2X0N5SGZhUEdod3VzVmNuZHlPZ2F6d3IweV9qblpMRGJReW1TSmpHenRZTy0xOEw1T3F6VVhUb1RwZWJnRkJ4b1dBZjJldXZRRHkyTTUxUzc1ZkF6b3hMOU0zcmtGcklHLTV4ZXY4dGlkNzFBNXlFUEt4dXE5bzZCWHpMWHlXbnRSV0JSYlVTTEhSNlFSZG5MV1hJMUd1Q0VmY3F6RjZselJrVHVUSGZ2RXhhYTQzdkRVdmRwRWRtdlo2UkpoV1FvTjRxbm5jSDhiRHNrNE82X1dicm5zSlAtdWpPRkR0aTJRb25DQ0h30gGLAkFVX3lxTE1weU5HaE5aOG5BSFh0YjdMbzdENjV6SFNqLWhYN0h6MmdPTGtFZWpVdmI4TldTSGhka1l0NmNxNDB4dWpRZ0g5dExzZmpha3l4OTNfdmYzU1VaR0NuSEFjU2Z1b04yRUlYbXBRNmItWEQtc1d5am9NY1pNTkZFS2JOTE4tcE5XUjdMVmJ1VkhwVHFwVUVBQXQ2TUF6cm00NU9HV2hjc0xiZkZLMDJJNW12bmZLVGdCSFRVVVhfZGtvSzVEWXNIeTJWWW9fWEJjT3ZDdFZqVElVS0JLa19kclBRSzQ2WHB3ZU9KMHFHXzc4SUFFNG5uMW5PLVIxZ1VkMEhCZ2x4OTU3RWtKYw?oc=5",
+      "id": "cf12f51a00531b31b3598ed3d2b5069599d14fd9df48fb3821d496a06d5ddb41",
+      "title": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORVZaRFBGVlJveUdWNVBnZXBMWUhGMHhUWVo0bHBkOUlwQWF0N0EtbjZrUTQtR290cFI5YW83aUtWR1d5YXlVY0JWT3lld3FCN0tadDMtYlljRE5PZ0lGbUZONlA4NmtPWjVVSjlYYTFZUEUwSFlXR1kwd3AyTW02R3l3cnFwWktqbTFMWFMwRXptWGFHUWhrd0hwVHhEX3lRTnNubFg3SDI2RmJiU3JFYTdfWEljSUlrRkQ0NXpyTFB5OW4ydzNGUVdIUnp6M3RCMF94QUtlODd1SEVQbFZXeg?oc=5",
       "resolved_link": "",
-      "published": "2026-09-06T23:00:34+00:00",
-      "published_raw": "Sun, 06 Sep 2026 23:00:34 GMT",
-      "snippet": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "published": "2026-09-06T23:25:26+00:00",
+      "published_raw": "Sun, 06 Sep 2026 23:25:26 GMT",
+      "snippet": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T18:57:39.318860+00:00"
+      "collected_at": "2026-09-07T23:08:14.454472+00:00"
     }
   ]
 }
