@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T14:33:35.452854+00:00",
+  "updated_at": "2026-09-07T14:43:11.790400+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "d4203a7a9904f4a5c1b715c14f3c1460198031deefcd602bc9e5c833383bdc3f",
-      "title": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BrS2FKcHhiME5iWFNpcy0yVF83ZHI3cHZfTmhDNUxQT3dERF9RTU9kdkpmQTdPRGtLTG1waWpPOHV4LUhGV1RQNlQ2a2V5Tmp5VUJQbEt1bXNuRW9mcGR3ZTlEYkdFdElSbS00cERqaE1kLUZ5ZDl1eENaSHZ0Q3A2TUJ5c2QtTzRQMF9zZEtEWEZocWs1ekgxV3ZWLVNmQUxmWWo1TndQTGlJaE9XRmZJcWRYWnBoSUpIaU5mTjA1Um93bk5rZG8zVkhvdExYV0N4UlJR0gHWAUFVX3lxTFBvUGtLYUpweGIwTmJYU2lzLTJUXzdkcjdwdl9OaEM1TFBPd0REX1FNT2R2SmZBN09Ea0tMbXBpak84dXgtSEZXVFA2VDZrZXlOanlVQlBsS3Vtc25Fb2ZwZHdlOURiR0V0SVJtLTRwRGpoTWQtRnlkOXV4Q1pIdnRDcDZNQnlzZC1PNFAwX3NkS0RYRmhxazV6SDFXdlYtU2ZBTGZZajVOd1BMaUloT1dGZklxZFhacGhJSkhpTmZOMDVSb3duTmtkbzNWSG90TFhXQ3hSUlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-07T08:17:42+00:00",
-      "published_raw": "Mon, 07 Sep 2026 08:17:42 GMT",
-      "snippet": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T14:33:19.461808+00:00"
-    },
-    {
       "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
       "title": "Motorista morre depois de acidente com Fiat Uno na Washington Luís - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -77,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:33:19.455620+00:00"
+      "collected_at": "2026-09-07T14:42:52.946907+00:00"
     },
     {
       "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:33:19.455526+00:00"
+      "collected_at": "2026-09-07T14:42:52.946816+00:00"
     },
     {
       "id": "26cad2aa7fb3fde2c92f06108a3d17b2633f10fdcbd2923934c31fdf05fa2b60",
@@ -111,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:33:19.461725+00:00"
+      "collected_at": "2026-09-07T14:42:52.959017+00:00"
     },
     {
-      "id": "17ceffb1035b7c4af416a891ae42c3532b87a671b60c5c85f7be9dbfa65d411e",
-      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - jornalpp.com.br",
-      "source": "jornalpp.com.br",
+      "id": "02514104ed554acf74c534d87c72ccc32973d98bd60193e68dba0745b065db7a",
+      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXhRWWF3dTdqOXdNVUFtMmU4eXpqQktCaHM5TjItSWN4V0wxbHdSNmxSTEl2Z1o0VWU4MjduVGpuUzEwWjJ0NkNGZWdhZWR5SWYwOGNESDMwbUh5a3M0U0d6WGdXVURzNHpaMUJJU3VlOGlNXzFKdC1Wem90Vld6LVJPbTN0LUZwQm00eENaQk5VRXpobmhiVDl2MzdqSnM3aEE?oc=5",
       "resolved_link": "",
       "published": "2026-09-06T16:58:23+00:00",
       "published_raw": "Sun, 06 Sep 2026 16:58:23 GMT",
-      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 jornalpp.com.br",
+      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 Jornal Primeira Página",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:33:20.992599+00:00"
+      "collected_at": "2026-09-07T14:42:54.733419+00:00"
     },
     {
       "id": "15db7cf9286dd3ddfe7bd23226bc30deeec2dac09341b3e4606926773fac24be",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:33:19.455692+00:00"
+      "collected_at": "2026-09-07T14:42:52.946976+00:00"
     }
   ]
 }
