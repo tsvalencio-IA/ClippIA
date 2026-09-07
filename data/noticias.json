@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T14:43:11.790400+00:00",
+  "updated_at": "2026-09-07T18:54:53.422788+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,10 +46,44 @@
   ],
   "items": [
     {
+      "id": "055c000bb5c82cecede1ff79d20f4e18c4cd9021d4ff1890671b499bc50fc405",
+      "title": "Atenção, motorista: obras na Washington Luís terão interdições em São Carlos nesta semana - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlpsaDlEcjJOaGZDclJfRWxjdWhRRWlZOW1qeHQ3UGYxTzFyVXFuRmZCM2Q4T3pmay1hQ1djWmM0bHJvTGdLU3kzTkxzdGFSeXBfOFp0NkRGQzFPeWhRWEJNazdnLWdhRHNwRTN5YjljUjZBbklRdktHSWFYRXRpRUpHZzdVZDk20gGIAUFVX3lxTE5WWmxoOURyMk5oZkNyUl9FbGN1aFFFaVk5bWp4dDdQZjFPMXJVcW5GZkIzZDhPemZrLWFDV2NaYzRscm9MZ0tTeTNOTHN0YVJ5cF84WnQ2REZDMU95aFFYQk1rN2ctZ2FEc3BFM3liOWNSNkFuSVF2S0dJYVhFdGlFSkdnN1VkOTY?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T15:00:54+00:00",
+      "published_raw": "Mon, 07 Sep 2026 15:00:54 GMT",
+      "snippet": "Atenção, motorista: obras na Washington Luís terão interdições em São Carlos nesta semana - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T18:54:35.890953+00:00"
+    },
+    {
+      "id": "4eb6ad7f18708b7f495e10864e2358e83acc3edc171e45b303ae9c02c41d566a",
+      "title": "Assista: Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUppUTJlNWdJQkpMSTRTaU8xLWZQSFNFRUNPRGZ3YlQtSldLaFVxZnFKd3dfOWJKU1BrbnIwVzJHSTl4Slhadzd0b1BzaVo3R3ZiUW5sLURoTHpjSXZqdl9rVXowTGgwR3l0OFU5THRCSFlfZTBheWNXbWU3bHhPSU9fSlc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T03:57:00+00:00",
+      "published_raw": "Mon, 07 Sep 2026 03:57:00 GMT",
+      "snippet": "Assista: Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits Rio Preto Indica",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T18:54:35.891093+00:00"
+    },
+    {
       "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
       "title": "Motorista morre depois de acidente com Fiat Uno na Washington Luís - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFR1Z3d3aWVDNjF3QU5QZXU2NmpYemlVOU9qSVE0Z2ZWczFaLWI1NThsRHZya1hUbVk0QjdrUTVRaXJTOVE4RkhYaUZnMVFGZEVnZDRGaDdxR29nLXVpLXZVV0FRUWkzSFNMbEZFWU9lZmw1SnJpZGpha2hPeGc1TlZPODl2SUdFd1BlbE1oMzdXUjJfMVhfNDNaZ1hwa1XSAYADQVVfeXFMUHFXODZHM2YtMnU5ZVdrbTgyb0wwRS1CeUZIbEdDQzdmU0FrdEd3dXBJLUdvYVNiYngwQ2owR0Zna211V3RGS3BXTldzVHg3Qm02QmdrYVdXbzEyTEdYOXlWLUIzTVFrNFRUM1FLR1h1VTcyYTJ2NWR2UzZaSGdvd2twc05aUnJlNkFOR1Q4aHFMNllRQjI5NmQ3N1A3Z0FWOW1tRE9sU2E0N1YzVWVRTTMyV2V6UmJ6R3YxQW1USEJGWEkxb2U1SmFHc2I4X3MyYjduXzJtZmZ2Y0ZhNkVlbVEyaVJzbGxFTzA0WEdrbWFvTldzOUZnc0QydFZMYkVYUnRFQTl4dlppTmliUG1pcXdFZ0Q5Z2VpajkyX3FhWXd3MTY4VlFOeGsweVlOYnNVSmdzcUxaNnRQaUk1X2gwWFRIV2k4LS1mdVlNel9SUG1hTkw2dm9vVkcxdG5JMXVOa3EzcTEtSmFQaTZJbGkwZUFFVFVqemVQQjUybDhNcDB0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFR1Z3d3aWVDNjF3QU5QZXU2NmpYemlVOU9qSVE0Z2ZWczFaLWI1NThsRHZya1hUbVk0QjdrUTVRaXJTOVE4RkhYaUZnMVFGZEVnZDRGaDdxR29nLXVpLXZVV0FRUWkzSFNMbEZFWU9lZmw1SnJpZGpha2hPeGc1TlZPODl2SUdFd1BlbE1oMzdXUjJfMVhfNDNaZ1hwa1XSAYADQVVfeXFMTlg0UG00Ty1RSjFBU09SY0t6cERwODdycHV3REp1R3U3RVlTRUtMdXdkVmFnbnZ3TlVMbm5GS3pCcThWaU1uTkFfc0pjeGMwU3BuTlNqS3BaNXZJSzdzdV9ad0RkZk84WTZ5TkdmZDdRNHdKZU91WjNCYkhOUTJoV0p4YWxfcWtoajNnM1FFWmdyOWFhSFB3aWdjczlHdkxaZy1CUzlOT0FnbEdwUi1OQl8xSUQxRDBpV3JZQUhQN3B1NC10S3ZUVHVKNV9DNG5DS2NuTzBIOTB6aWFXUkY5NmlrcEItRWc3YUwzaXNhT0RCMTZ0YW1mNENSel90T252MG12anQ0MnUzZTZKUFJadWVTdTZ4SzlDNkw5amtFYXpZbmJSMDAzcXJHOGUxQ2dxMTJxaHhBTmxvTnFZelhZY1VUVzUzYm1EVXZSeHE3TF9yTVlxVlVUWG5lUmNyaHNfdWVMdl92Zk51UUw2WkNaRGNNVVJTZE4tengwWGRYUUVD?oc=5",
       "resolved_link": "",
       "published": "2026-09-07T00:31:59+00:00",
       "published_raw": "Mon, 07 Sep 2026 00:31:59 GMT",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:42:52.946907+00:00"
+      "collected_at": "2026-09-07T18:54:35.891046+00:00"
     },
     {
       "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
@@ -77,58 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T14:42:52.946816+00:00"
-    },
-    {
-      "id": "26cad2aa7fb3fde2c92f06108a3d17b2633f10fdcbd2923934c31fdf05fa2b60",
-      "title": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) - Rio Preto Indica",
-      "source": "Rio Preto Indica",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJrNEl5S1lnS1huQkdLdThlcGJja05tOHZXWXJhN0tKWklnQ3NodjN0US0yRGpXQXRPQXZ3T2FTSkxhcUhtQXVpTG93enJCTGdndUxmMERaaXFaUHBNdFg4ZVA5ekN4Wk5jTGVZQzFMT0xmVkk2akYzZW5JTmZwXzFSckxCakE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-06T18:38:00+00:00",
-      "published_raw": "Sun, 06 Sep 2026 18:38:00 GMT",
-      "snippet": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) Rio Preto Indica",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T14:42:52.959017+00:00"
-    },
-    {
-      "id": "02514104ed554acf74c534d87c72ccc32973d98bd60193e68dba0745b065db7a",
-      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXhRWWF3dTdqOXdNVUFtMmU4eXpqQktCaHM5TjItSWN4V0wxbHdSNmxSTEl2Z1o0VWU4MjduVGpuUzEwWjJ0NkNGZWdhZWR5SWYwOGNESDMwbUh5a3M0U0d6WGdXVURzNHpaMUJJU3VlOGlNXzFKdC1Wem90Vld6LVJPbTN0LUZwQm00eENaQk5VRXpobmhiVDl2MzdqSnM3aEE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-06T16:58:23+00:00",
-      "published_raw": "Sun, 06 Sep 2026 16:58:23 GMT",
-      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T14:42:54.733419+00:00"
-    },
-    {
-      "id": "15db7cf9286dd3ddfe7bd23226bc30deeec2dac09341b3e4606926773fac24be",
-      "title": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaS1menV2dXRzMWRLMlFFWGRST3Y2QnpBX2lpbFV6eUVNbE0yQmM0WmN3R2ZiNURNVVdyV0FKNFhLLW11MTUzWHY4R0NLeWJENDJyaDcxQWFhbjdueXpOSWktUWFsanNldEtPaE1IMVcyRFA1c090MDNmbnFXYmNPSUJ5OExEZER0REp0VWFBcVNRYkJpSlgzVmdpTWJnNkhIMHNsZWM0RDM0LWowYWhDZ2ZucEZvOU1ReXl2U3dnRExXNGZNa3BVM1BRQWfSAcwBQVVfeXFMTmktZnp1dnV0czFkSzJRRVhkUk92NkJ6QV9paWxVenlFTWxNMkJjNFpjd0dmYjVETVVXcldBSjRYSy1tdTE1M1h2OEdDS3liRDQycmg3MUFhYW43bnl6TklpLVFhbGpzZXRLT2hNSDFXMkRQNXNPdDAzZm5xV2JjT0lCeThMRGREdERKdFVhQXFTUWJCaUpYM1ZnaU1iZzZISDBzbGVjNEQzNC1qMGFoQ2dmbnBGbzlNUXl5dlN3Z0RMVzRmTWtwVTNQUUFn?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-06T16:29:24+00:00",
-      "published_raw": "Sun, 06 Sep 2026 16:29:24 GMT",
-      "snippet": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T14:42:52.946976+00:00"
+      "collected_at": "2026-09-07T18:54:35.890887+00:00"
     }
   ]
 }
