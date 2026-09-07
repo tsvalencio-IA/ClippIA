@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-06T22:38:41.164233+00:00",
+  "updated_at": "2026-09-07T01:42:13.623682+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 5,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,55 @@
   ],
   "items": [
     {
-      "id": "17ceffb1035b7c4af416a891ae42c3532b87a671b60c5c85f7be9dbfa65d411e",
-      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - jornalpp.com.br",
-      "source": "jornalpp.com.br",
+      "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
+      "title": "Motorista morre depois de acidente com Fiat Uno na Washington Luís - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFR1Z3d3aWVDNjF3QU5QZXU2NmpYemlVOU9qSVE0Z2ZWczFaLWI1NThsRHZya1hUbVk0QjdrUTVRaXJTOVE4RkhYaUZnMVFGZEVnZDRGaDdxR29nLXVpLXZVV0FRUWkzSFNMbEZFWU9lZmw1SnJpZGpha2hPeGc1TlZPODl2SUdFd1BlbE1oMzdXUjJfMVhfNDNaZ1hwa1XSAYADQVVfeXFMUHFXODZHM2YtMnU5ZVdrbTgyb0wwRS1CeUZIbEdDQzdmU0FrdEd3dXBJLUdvYVNiYngwQ2owR0Zna211V3RGS3BXTldzVHg3Qm02QmdrYVdXbzEyTEdYOXlWLUIzTVFrNFRUM1FLR1h1VTcyYTJ2NWR2UzZaSGdvd2twc05aUnJlNkFOR1Q4aHFMNllRQjI5NmQ3N1A3Z0FWOW1tRE9sU2E0N1YzVWVRTTMyV2V6UmJ6R3YxQW1USEJGWEkxb2U1SmFHc2I4X3MyYjduXzJtZmZ2Y0ZhNkVlbVEyaVJzbGxFTzA0WEdrbWFvTldzOUZnc0QydFZMYkVYUnRFQTl4dlppTmliUG1pcXdFZ0Q5Z2VpajkyX3FhWXd3MTY4VlFOeGsweVlOYnNVSmdzcUxaNnRQaUk1X2gwWFRIV2k4LS1mdVlNel9SUG1hTkw2dm9vVkcxdG5JMXVOa3EzcTEtSmFQaTZJbGkwZUFFVFVqemVQQjUybDhNcDB0?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T00:31:59+00:00",
+      "published_raw": "Mon, 07 Sep 2026 00:31:59 GMT",
+      "snippet": "Motorista morre depois de acidente com Fiat Uno na Washington Luís - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T01:41:54.696003+00:00"
+    },
+    {
+      "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
+      "title": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcHlOR2hOWjhuQUhYdGI3TG83RDY1ekhTai1oWDdIejJnT0xrRWVqVXZiOE5XU0hoZGtZdDZjcTQweHVqUWdIOXRMc2ZqYWt5eDkzX3ZmM1NVWkdDbkhBY1NmdW9OMkVJWG1wUTZiLVhELXNXeWpvTWNaTU5GRUtiTkxOLXBOV1I3TFZidVZIcFRxcFVFQUF0Nk1BenJtNDVPR1doY3NMYmZGSzAySTVtdm5mS1RnQkhUVVVYX2Rrb0s1RFlzSHkyVllvX1hCY092Q3RWalRJVUtCS2tfZHJQUUs0Nlhwd2VPSjBxR183OElBRTRubjFuTy1SMWdVZDBIQmdseDk1N0VrSmPSAYsCQVVfeXFMTXB5TkdoTlo4bkFIWHRiN0xvN0Q2NXpIU2otaFg3SHoyZ09Ma0VlalV2YjhOV1NIaGRrWXQ2Y3E0MHh1alFnSDl0THNmamFreXg5M192ZjNTVVpHQ25IQWNTZnVvTjJFSVhtcFE2Yi1YRC1zV3lqb01jWk1ORkVLYk5MTi1wTldSN0xWYnVWSHBUcXBVRUFBdDZNQXpybTQ1T0dXaGNzTGJmRkswMkk1bXZuZktUZ0JIVFVVWF9ka29LNURZc0h5MlZZb19YQmNPdkN0VmpUSVVLQktrX2RyUFFLNDZYcHdlT0owcUdfNzhJQUU0bm4xbk8tUjFnVWQwSEJnbHg5NTdFa0pj?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-06T23:00:25+00:00",
+      "published_raw": "Sun, 06 Sep 2026 23:00:25 GMT",
+      "snippet": "Ecovias prevê fluxo de mais de 500 mil veículos durante o feriado prolongado da Independência do Brasil nas rodovias de São Paulo Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T01:41:54.695912+00:00"
+    },
+    {
+      "id": "02514104ed554acf74c534d87c72ccc32973d98bd60193e68dba0745b065db7a",
+      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXhRWWF3dTdqOXdNVUFtMmU4eXpqQktCaHM5TjItSWN4V0wxbHdSNmxSTEl2Z1o0VWU4MjduVGpuUzEwWjJ0NkNGZWdhZWR5SWYwOGNESDMwbUh5a3M0U0d6WGdXVURzNHpaMUJJU3VlOGlNXzFKdC1Wem90Vld6LVJPbTN0LUZwQm00eENaQk5VRXpobmhiVDl2MzdqSnM3aEE?oc=5",
       "resolved_link": "",
       "published": "2026-09-06T16:58:23+00:00",
       "published_raw": "Sun, 06 Sep 2026 16:58:23 GMT",
-      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 jornalpp.com.br",
+      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 Jornal Primeira Página",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T22:38:25.479479+00:00"
+      "collected_at": "2026-09-07T01:41:56.554984+00:00"
     },
     {
       "id": "5d4263297a1f147626f551b8a46244599cd778554865cce0e6ab5d0b7336b78e",
@@ -71,13 +105,13 @@
       "published": "2026-09-06T14:25:00+00:00",
       "published_raw": "Sun, 06 Sep 2026 14:25:00 GMT",
       "snippet": "Motorista morre após grave acidente na SP-310 em Fernando Prestes Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T22:38:25.479570+00:00"
+      "collected_at": "2026-09-07T01:41:56.555037+00:00"
     },
     {
       "id": "140906b937dedf8d5d91b45095a04a68988d47927a74bd5fcf8f6b2399a32aaf",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-06T22:38:25.479713+00:00"
+      "collected_at": "2026-09-07T01:41:56.555089+00:00"
     }
   ]
 }
