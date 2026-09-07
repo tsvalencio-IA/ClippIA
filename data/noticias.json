@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T07:49:46.958548+00:00",
+  "updated_at": "2026-09-07T14:33:35.452854+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "f21f5b5949a613bf2ef64b4d77244700acd0cd59a9ce5614b1248290f631c3a5",
-      "title": "Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits - rpindica.com.br",
-      "source": "rpindica.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUppUTJlNWdJQkpMSTRTaU8xLWZQSFNFRUNPRGZ3YlQtSldLaFVxZnFKd3dfOWJKU1BrbnIwVzJHSTl4Slhadzd0b1BzaVo3R3ZiUW5sLURoTHpjSXZqdl9rVXowTGgwR3l0OFU5THRCSFlfZTBheWNXbWU3bHhPSU9fSlc?oc=5",
+      "id": "d4203a7a9904f4a5c1b715c14f3c1460198031deefcd602bc9e5c833383bdc3f",
+      "title": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BrS2FKcHhiME5iWFNpcy0yVF83ZHI3cHZfTmhDNUxQT3dERF9RTU9kdkpmQTdPRGtLTG1waWpPOHV4LUhGV1RQNlQ2a2V5Tmp5VUJQbEt1bXNuRW9mcGR3ZTlEYkdFdElSbS00cERqaE1kLUZ5ZDl1eENaSHZ0Q3A2TUJ5c2QtTzRQMF9zZEtEWEZocWs1ekgxV3ZWLVNmQUxmWWo1TndQTGlJaE9XRmZJcWRYWnBoSUpIaU5mTjA1Um93bk5rZG8zVkhvdExYV0N4UlJR0gHWAUFVX3lxTFBvUGtLYUpweGIwTmJYU2lzLTJUXzdkcjdwdl9OaEM1TFBPd0REX1FNT2R2SmZBN09Ea0tMbXBpak84dXgtSEZXVFA2VDZrZXlOanlVQlBsS3Vtc25Fb2ZwZHdlOURiR0V0SVJtLTRwRGpoTWQtRnlkOXV4Q1pIdnRDcDZNQnlzZC1PNFAwX3NkS0RYRmhxazV6SDFXdlYtU2ZBTGZZajVOd1BMaUloT1dGZklxZFhacGhJSkhpTmZOMDVSb3duTmtkbzNWSG90TFhXQ3hSUlE?oc=5",
       "resolved_link": "",
-      "published": "2026-09-07T03:57:00+00:00",
-      "published_raw": "Mon, 07 Sep 2026 03:57:00 GMT",
-      "snippet": "Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits rpindica.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
+      "published": "2026-09-07T08:17:42+00:00",
+      "published_raw": "Mon, 07 Sep 2026 08:17:42 GMT",
+      "snippet": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:31.907141+00:00"
+      "collected_at": "2026-09-07T14:33:19.461808+00:00"
     },
     {
       "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:31.907013+00:00"
+      "collected_at": "2026-09-07T14:33:19.455620+00:00"
     },
     {
       "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
@@ -94,75 +94,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:31.906911+00:00"
+      "collected_at": "2026-09-07T14:33:19.455526+00:00"
     },
     {
-      "id": "d5554dc7300292a291bad113d51f1d8607fe1b4044bbd8253ee17188df91bc36",
-      "title": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) - rpindica.com.br",
-      "source": "rpindica.com.br",
+      "id": "26cad2aa7fb3fde2c92f06108a3d17b2633f10fdcbd2923934c31fdf05fa2b60",
+      "title": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) - Rio Preto Indica",
+      "source": "Rio Preto Indica",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJrNEl5S1lnS1huQkdLdThlcGJja05tOHZXWXJhN0tKWklnQ3NodjN0US0yRGpXQXRPQXZ3T2FTSkxhcUhtQXVpTG93enJCTGdndUxmMERaaXFaUHBNdFg4ZVA5ekN4Wk5jTGVZQzFMT0xmVkk2akYzZW5JTmZwXzFSckxCakE?oc=5",
       "resolved_link": "",
       "published": "2026-09-06T18:38:00+00:00",
       "published_raw": "Sun, 06 Sep 2026 18:38:00 GMT",
-      "snippet": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) rpindica.com.br",
+      "snippet": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) Rio Preto Indica",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:31.907638+00:00"
+      "collected_at": "2026-09-07T14:33:19.461725+00:00"
     },
     {
-      "id": "02514104ed554acf74c534d87c72ccc32973d98bd60193e68dba0745b065db7a",
-      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
+      "id": "17ceffb1035b7c4af416a891ae42c3532b87a671b60c5c85f7be9dbfa65d411e",
+      "title": "Motorista morre após Uno sair da pista e capotar na SP-310 - jornalpp.com.br",
+      "source": "jornalpp.com.br",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXhRWWF3dTdqOXdNVUFtMmU4eXpqQktCaHM5TjItSWN4V0wxbHdSNmxSTEl2Z1o0VWU4MjduVGpuUzEwWjJ0NkNGZWdhZWR5SWYwOGNESDMwbUh5a3M0U0d6WGdXVURzNHpaMUJJU3VlOGlNXzFKdC1Wem90Vld6LVJPbTN0LUZwQm00eENaQk5VRXpobmhiVDl2MzdqSnM3aEE?oc=5",
       "resolved_link": "",
       "published": "2026-09-06T16:58:23+00:00",
       "published_raw": "Sun, 06 Sep 2026 16:58:23 GMT",
-      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 Jornal Primeira Página",
+      "snippet": "Motorista morre após Uno sair da pista e capotar na SP-310 jornalpp.com.br",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:33.406554+00:00"
+      "collected_at": "2026-09-07T14:33:20.992599+00:00"
     },
     {
-      "id": "5d4263297a1f147626f551b8a46244599cd778554865cce0e6ab5d0b7336b78e",
-      "title": "Motorista morre após grave acidente na SP-310 em Fernando Prestes - Araraquara News",
-      "source": "Araraquara News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ05iYmJBY0ViR1U1eUZvY2VsQTJtMG1zRjNrbEJBSE1SM2JtQlgwUGVOdEVVaEJEamw0Wmd4NzFodWtTWExQSnJXdVVBUDhoTVN5eXFIQUlJV2o4UkVZUk5sQlBkSWNHZkpNYmV3dGdsOWx3TDFHbkFfMm1EazVtbTJPU3JUX19fQm5GUXR0d0ZRTHpiTVEzd2k2bFF0WllIYm1BS0I2ZTJaVEE?oc=5",
+      "id": "15db7cf9286dd3ddfe7bd23226bc30deeec2dac09341b3e4606926773fac24be",
+      "title": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaS1menV2dXRzMWRLMlFFWGRST3Y2QnpBX2lpbFV6eUVNbE0yQmM0WmN3R2ZiNURNVVdyV0FKNFhLLW11MTUzWHY4R0NLeWJENDJyaDcxQWFhbjdueXpOSWktUWFsanNldEtPaE1IMVcyRFA1c090MDNmbnFXYmNPSUJ5OExEZER0REp0VWFBcVNRYkJpSlgzVmdpTWJnNkhIMHNsZWM0RDM0LWowYWhDZ2ZucEZvOU1ReXl2U3dnRExXNGZNa3BVM1BRQWfSAcwBQVVfeXFMTmktZnp1dnV0czFkSzJRRVhkUk92NkJ6QV9paWxVenlFTWxNMkJjNFpjd0dmYjVETVVXcldBSjRYSy1tdTE1M1h2OEdDS3liRDQycmg3MUFhYW43bnl6TklpLVFhbGpzZXRLT2hNSDFXMkRQNXNPdDAzZm5xV2JjT0lCeThMRGREdERKdFVhQXFTUWJCaUpYM1ZnaU1iZzZISDBzbGVjNEQzNC1qMGFoQ2dmbnBGbzlNUXl5dlN3Z0RMVzRmTWtwVTNQUUFn?oc=5",
       "resolved_link": "",
-      "published": "2026-09-06T14:25:00+00:00",
-      "published_raw": "Sun, 06 Sep 2026 14:25:00 GMT",
-      "snippet": "Motorista morre após grave acidente na SP-310 em Fernando Prestes Araraquara News",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "published": "2026-09-06T16:29:24+00:00",
+      "published_raw": "Sun, 06 Sep 2026 16:29:24 GMT",
+      "snippet": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T07:49:33.406407+00:00"
-    },
-    {
-      "id": "140906b937dedf8d5d91b45095a04a68988d47927a74bd5fcf8f6b2399a32aaf",
-      "title": "Motorista morre após carro sair da pista e capotar na SP-310 - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXhZT19PdnlCazVCc2lXWUZiNllnaEluNkVjY0lQYzV5N3ZQVmtwd2xvQnRwTzU4SEc0bGd0c0N4Y1NJek1KdW1FMGh1ODJkQXlCMmNZYWh1SVhEcTAweXJmSmh4Vm5ab3hxa0xZLTd5V2JlMjNBd1l0Y2lNanQxeXh4OTcya29sSC1jdkdqR1lnNklfcDBXbDh0ZGRJLU9xakR3dTZFaFpLeFRUQnfSAbMBQVVfeXFMTnpsZnJKMXRVZmROOFo2MzlYS3Z2bEpSVTZkeEp2bWM1bW11SVd3bXNkemJwcjdJT1VNSzBvc1gza3RQdDBVOG0tSWdRczJkd3c5VktrWjFJVnlvekRTcWs2V050aF9XZm9iMkpfODNXUlJPejlDc3RrTHNqdDdOa0ZqN0JVRkpBV3pVZVExTl9yYU1ScHVucGhUQmlGanRRQU9xcEthbFhNUnpBNi1ua2txWms?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-06T13:44:00+00:00",
-      "published_raw": "Sun, 06 Sep 2026 13:44:00 GMT",
-      "snippet": "Motorista morre após carro sair da pista e capotar na SP-310 São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T07:49:33.406686+00:00"
+      "collected_at": "2026-09-07T14:33:19.455692+00:00"
     }
   ]
 }
