@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-07T02:33:21.062012+00:00",
+  "updated_at": "2026-09-07T07:38:33.276167+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "f21f5b5949a613bf2ef64b4d77244700acd0cd59a9ce5614b1248290f631c3a5",
+      "title": "Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits - rpindica.com.br",
+      "source": "rpindica.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUppUTJlNWdJQkpMSTRTaU8xLWZQSFNFRUNPRGZ3YlQtSldLaFVxZnFKd3dfOWJKU1BrbnIwVzJHSTl4Slhadzd0b1BzaVo3R3ZiUW5sLURoTHpjSXZqdl9rVXowTGgwR3l0OFU5THRCSFlfZTBheWNXbWU3bHhPSU9fSlc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-07T03:57:00+00:00",
+      "published_raw": "Mon, 07 Sep 2026 03:57:00 GMT",
+      "snippet": "Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits rpindica.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T07:38:17.926855+00:00"
+    },
+    {
       "id": "db762e074ed379837c67cdab32c058da973f5eea3223aafecf8383dede505f1b",
       "title": "Motorista morre depois de acidente com Fiat Uno na Washington Luís - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T02:33:04.285444+00:00"
+      "collected_at": "2026-09-07T07:38:17.926765+00:00"
     },
     {
       "id": "81a6aada9b491f3f59767ffdfbbc116d822b035c59ae0fab827ec8cc0f64edad",
@@ -77,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T02:33:04.285298+00:00"
+      "collected_at": "2026-09-07T07:38:17.926616+00:00"
+    },
+    {
+      "id": "d5554dc7300292a291bad113d51f1d8607fe1b4044bbd8253ee17188df91bc36",
+      "title": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) - rpindica.com.br",
+      "source": "rpindica.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJrNEl5S1lnS1huQkdLdThlcGJja05tOHZXWXJhN0tKWklnQ3NodjN0US0yRGpXQXRPQXZ3T2FTSkxhcUhtQXVpTG93enJCTGdndUxmMERaaXFaUHBNdFg4ZVA5ekN4Wk5jTGVZQzFMT0xmVkk2akYzZW5JTmZwXzFSckxCakE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-06T18:38:00+00:00",
+      "published_raw": "Sun, 06 Sep 2026 18:38:00 GMT",
+      "snippet": "Luan Santana faz show da turnê “Registro Histórico” em Rio Preto no próximo sábado (12) rpindica.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-07T07:38:17.927284+00:00"
     },
     {
       "id": "02514104ed554acf74c534d87c72ccc32973d98bd60193e68dba0745b065db7a",
@@ -94,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T02:33:05.921938+00:00"
-    },
-    {
-      "id": "15db7cf9286dd3ddfe7bd23226bc30deeec2dac09341b3e4606926773fac24be",
-      "title": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaS1menV2dXRzMWRLMlFFWGRST3Y2QnpBX2lpbFV6eUVNbE0yQmM0WmN3R2ZiNURNVVdyV0FKNFhLLW11MTUzWHY4R0NLeWJENDJyaDcxQWFhbjdueXpOSWktUWFsanNldEtPaE1IMVcyRFA1c090MDNmbnFXYmNPSUJ5OExEZER0REp0VWFBcVNRYkJpSlgzVmdpTWJnNkhIMHNsZWM0RDM0LWowYWhDZ2ZucEZvOU1ReXl2U3dnRExXNGZNa3BVM1BRQWfSAcwBQVVfeXFMTmktZnp1dnV0czFkSzJRRVhkUk92NkJ6QV9paWxVenlFTWxNMkJjNFpjd0dmYjVETVVXcldBSjRYSy1tdTE1M1h2OEdDS3liRDQycmg3MUFhYW43bnl6TklpLVFhbGpzZXRLT2hNSDFXMkRQNXNPdDAzZm5xV2JjT0lCeThMRGREdERKdFVhQXFTUWJCaUpYM1ZnaU1iZzZISDBzbGVjNEQzNC1qMGFoQ2dmbnBGbzlNUXl5dlN3Z0RMVzRmTWtwVTNQUUFn?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-06T16:29:24+00:00",
-      "published_raw": "Sun, 06 Sep 2026 16:29:24 GMT",
-      "snippet": "Ecovias alerta motoristas para redobrarem atenção em trechos em obras da Washington Luís gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-07T02:33:04.285531+00:00"
+      "collected_at": "2026-09-07T07:38:19.477349+00:00"
     },
     {
       "id": "5d4263297a1f147626f551b8a46244599cd778554865cce0e6ab5d0b7336b78e",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T02:33:05.922004+00:00"
+      "collected_at": "2026-09-07T07:38:19.477264+00:00"
     },
     {
       "id": "140906b937dedf8d5d91b45095a04a68988d47927a74bd5fcf8f6b2399a32aaf",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-07T02:33:05.922136+00:00"
+      "collected_at": "2026-09-07T07:38:19.477515+00:00"
     }
   ]
 }
