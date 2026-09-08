@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:45:27.730817+00:00",
+  "updated_at": "2026-09-08T13:08:53.342155+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "fcee409e8b3f75ca4e02e97e4d9834d1c1b4e47d9205455f2e6e33cb9488ed38",
+      "title": "Terça-feira terá sol entre nuvens e possibilidade de chuva rápida em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnJPZTNhc0U5cTlDUE9IRno3SU1tU1NLc0tYTm9WWTh3alZfcGxlb2JkNkp4MHpueDQ2NVdXOFFDMGE4cGZmMUZpSF9hNFF5SlhTWDhsREtPLVo4WkotT2xLcE1IY2FadGc3ZzM3UkVJNXM5cHcwMGhBY0V6UE1zNjNHaDBpMDRScDIyTHpPMjVQc1dEM3ROSFl5RWxsR0xxaVAzU1Z0bXh2bDNRVEhWXy1IONIBswFBVV95cUxQdnJPZTNhc0U5cTlDUE9IRno3SU1tU1NLc0tYTm9WWTh3alZfcGxlb2JkNkp4MHpueDQ2NVdXOFFDMGE4cGZmMUZpSF9hNFF5SlhTWDhsREtPLVo4WkotT2xLcE1IY2FadGc3ZzM3UkVJNXM5cHcwMGhBY0V6UE1zNjNHaDBpMDRScDIyTHpPMjVQc1dEM3ROSFl5RWxsR0xxaVAzU1Z0bXh2bDNRVEhWXy1IOA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-08T08:47:46+00:00",
+      "published_raw": "Tue, 08 Sep 2026 08:47:46 GMT",
+      "snippet": "Terça-feira terá sol entre nuvens e possibilidade de chuva rápida em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-08T13:08:38.478854+00:00"
+    },
+    {
       "id": "592b2e35111798a2badcef30c83905a7e6370ed195d45263848786c05b695239",
       "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (12) - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-08T07:45:12.090193+00:00"
+      "collected_at": "2026-09-08T13:08:36.888282+00:00"
     },
     {
       "id": "055c000bb5c82cecede1ff79d20f4e18c4cd9021d4ff1890671b499bc50fc405",
@@ -77,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-08T07:45:12.090294+00:00"
-    },
-    {
-      "id": "d4203a7a9904f4a5c1b715c14f3c1460198031deefcd602bc9e5c833383bdc3f",
-      "title": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BrS2FKcHhiME5iWFNpcy0yVF83ZHI3cHZfTmhDNUxQT3dERF9RTU9kdkpmQTdPRGtLTG1waWpPOHV4LUhGV1RQNlQ2a2V5Tmp5VUJQbEt1bXNuRW9mcGR3ZTlEYkdFdElSbS00cERqaE1kLUZ5ZDl1eENaSHZ0Q3A2TUJ5c2QtTzRQMF9zZEtEWEZocWs1ekgxV3ZWLVNmQUxmWWo1TndQTGlJaE9XRmZJcWRYWnBoSUpIaU5mTjA1Um93bk5rZG8zVkhvdExYV0N4UlJR0gHWAUFVX3lxTFBvUGtLYUpweGIwTmJYU2lzLTJUXzdkcjdwdl9OaEM1TFBPd0REX1FNT2R2SmZBN09Ea0tMbXBpak84dXgtSEZXVFA2VDZrZXlOanlVQlBsS3Vtc25Fb2ZwZHdlOURiR0V0SVJtLTRwRGpoTWQtRnlkOXV4Q1pIdnRDcDZNQnlzZC1PNFAwX3NkS0RYRmhxazV6SDFXdlYtU2ZBTGZZajVOd1BMaUloT1dGZklxZFhacGhJSkhpTmZOMDVSb3duTmtkbzNWSG90TFhXQ3hSUlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-07T08:17:42+00:00",
-      "published_raw": "Mon, 07 Sep 2026 08:17:42 GMT",
-      "snippet": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-08T07:45:12.090373+00:00"
+      "collected_at": "2026-09-08T13:08:36.888382+00:00"
     }
   ]
 }
