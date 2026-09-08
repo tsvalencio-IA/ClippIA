@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:46:10.530932+00:00",
+  "updated_at": "2026-09-08T07:30:49.988849+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-08T02:45:53.399679+00:00"
+      "collected_at": "2026-09-08T07:30:34.261615+00:00"
     },
     {
       "id": "055c000bb5c82cecede1ff79d20f4e18c4cd9021d4ff1890671b499bc50fc405",
@@ -77,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-08T02:45:53.399760+00:00"
+      "collected_at": "2026-09-08T07:30:34.261725+00:00"
     },
     {
-      "id": "4eb6ad7f18708b7f495e10864e2358e83acc3edc171e45b303ae9c02c41d566a",
-      "title": "Assista: Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits - Rio Preto Indica",
-      "source": "Rio Preto Indica",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUppUTJlNWdJQkpMSTRTaU8xLWZQSFNFRUNPRGZ3YlQtSldLaFVxZnFKd3dfOWJKU1BrbnIwVzJHSTl4Slhadzd0b1BzaVo3R3ZiUW5sLURoTHpjSXZqdl9rVXowTGgwR3l0OFU5THRCSFlfZTBheWNXbWU3bHhPSU9fSlc?oc=5",
+      "id": "d4203a7a9904f4a5c1b715c14f3c1460198031deefcd602bc9e5c833383bdc3f",
+      "title": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1BrS2FKcHhiME5iWFNpcy0yVF83ZHI3cHZfTmhDNUxQT3dERF9RTU9kdkpmQTdPRGtLTG1waWpPOHV4LUhGV1RQNlQ2a2V5Tmp5VUJQbEt1bXNuRW9mcGR3ZTlEYkdFdElSbS00cERqaE1kLUZ5ZDl1eENaSHZ0Q3A2TUJ5c2QtTzRQMF9zZEtEWEZocWs1ekgxV3ZWLVNmQUxmWWo1TndQTGlJaE9XRmZJcWRYWnBoSUpIaU5mTjA1Um93bk5rZG8zVkhvdExYV0N4UlJR0gHWAUFVX3lxTFBvUGtLYUpweGIwTmJYU2lzLTJUXzdkcjdwdl9OaEM1TFBPd0REX1FNT2R2SmZBN09Ea0tMbXBpak84dXgtSEZXVFA2VDZrZXlOanlVQlBsS3Vtc25Fb2ZwZHdlOURiR0V0SVJtLTRwRGpoTWQtRnlkOXV4Q1pIdnRDcDZNQnlzZC1PNFAwX3NkS0RYRmhxazV6SDFXdlYtU2ZBTGZZajVOd1BMaUloT1dGZklxZFhacGhJSkhpTmZOMDVSb3duTmtkbzNWSG90TFhXQ3hSUlE?oc=5",
       "resolved_link": "",
-      "published": "2026-09-07T03:57:00+00:00",
-      "published_raw": "Mon, 07 Sep 2026 03:57:00 GMT",
-      "snippet": "Assista: Maroon 5 impressiona em Rio Preto com apresentação enérgica e recheada de hits Rio Preto Indica",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
+      "published": "2026-09-07T08:17:42+00:00",
+      "published_raw": "Mon, 07 Sep 2026 08:17:42 GMT",
+      "snippet": "Interdição em viaduto da Washington Luís em Mirassol vai alterar trânsito até o fim de novembro gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-08T02:45:53.399823+00:00"
+      "collected_at": "2026-09-08T07:30:34.261821+00:00"
     }
   ]
 }
