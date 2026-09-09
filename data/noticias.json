@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-09T18:07:14.841766+00:00",
+  "updated_at": "2026-09-09T18:15:41.094317+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 14,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:00.036299+00:00"
+      "collected_at": "2026-09-09T18:15:25.831073+00:00"
     },
     {
       "id": "d371767909c2ebe12bbb6ce1b906db941423afa259fda30b497948f2ac633a23",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:12.252602+00:00"
+      "collected_at": "2026-09-09T18:15:38.427814+00:00"
     },
     {
       "id": "6294d179460662cd6b3d9978c928febbbb556d0035a789135628f2c5d09bf9ac",
@@ -94,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:09.914530+00:00"
+      "collected_at": "2026-09-09T18:15:36.097792+00:00"
     },
     {
-      "id": "763cc26881450fc21e7ab99e37d4bb8837f2d52de3a0e5212ebb209d3f630736",
-      "title": "Ponte sobre Córrego dos Macacos na SP-310 será interditada, a desta quarta-feira (9) - Estradas",
-      "source": "Estradas",
+      "id": "a5bc0283538ce01264f32dc0d838ab00bc99fc238d99ca7fb155966705debdba",
+      "title": "Ponte sobre Córrego dos Macacos na SP-310 será interditada, a desta quarta-feira (9) - estradas.com.br",
+      "source": "estradas.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkhwNUNPWFlIMDZ3NTdxZjRnZTJvWFg3QlNmWXItdTBTdWZxbzFYRWhwRjBzTTdvWGI3elFMSVV0Y3JVX3V1Mk5kOVVsLV9ERDJpNjl5M01ZQTk2TGFlQS1mSEFLRXhVaXpsNHlLM2dMSlJMUVIzWUwxVi1kZW4tWjJLcnR6LXVjTDRITUJyUktxdHk1TUpwZUhCUHhHYWFDZWdxbENwSjRjdw?oc=5",
       "resolved_link": "",
       "published": "2026-09-08T23:39:10+00:00",
       "published_raw": "Tue, 08 Sep 2026 23:39:10 GMT",
-      "snippet": "Ponte sobre Córrego dos Macacos na SP-310 será interditada, a desta quarta-feira (9) Estradas",
+      "snippet": "Ponte sobre Córrego dos Macacos na SP-310 será interditada, a desta quarta-feira (9) estradas.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.405990+00:00"
+      "collected_at": "2026-09-09T18:15:24.102158+00:00"
     },
     {
       "id": "066d71ae6b4a4113f6c73b0edc716ca98c191ba9f084adc70770e3a5f4f5f53b",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:08.774050+00:00"
+      "collected_at": "2026-09-09T18:15:34.879574+00:00"
     },
     {
       "id": "be0b1c253948c389832f3a9b101904237f14fc7efee9b7b4737173cd1ac73504",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:10.519256+00:00"
+      "collected_at": "2026-09-09T18:15:36.713997+00:00"
     },
     {
       "id": "76695f877929e89d1beaaf5ac0e066ac608c304c6b463f4529e9fa4ae4555abe",
@@ -156,13 +156,13 @@
       "published": "2026-09-08T20:20:00+00:00",
       "published_raw": "Tue, 08 Sep 2026 20:20:00 GMT",
       "snippet": "Motociclista de 30 anos morre em grave acidente na SP-310 no interior de SP redeutv.com.br",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:12.252392+00:00"
+      "collected_at": "2026-09-09T18:15:36.097708+00:00"
     },
     {
       "id": "88475fda602d358700c2acfda28efa20ce018ac99ff74def1141ffce017e2afd",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.413055+00:00"
+      "collected_at": "2026-09-09T18:15:24.102515+00:00"
     },
     {
       "id": "4fbdc0ead6028c66a9abbb098b77fedab86dc6034faff7f868e72d84401c0f5c",
@@ -190,30 +190,30 @@
       "published": "2026-09-08T19:40:41+00:00",
       "published_raw": "Tue, 08 Sep 2026 19:40:41 GMT",
       "snippet": "Motociclista morre após colisão com caminhonete na Rodovia Washington Luís Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" ARTESP",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:07:09.914448+00:00"
+      "collected_at": "2026-09-09T18:15:37.254063+00:00"
     },
     {
-      "id": "4b7d849f824235c17e887a959d7bfd48a172f311b11de6cf03cf00741f243a7b",
-      "title": "Motociclista de 30 anos morre em grave acidente na SP-310 no interior de SP - G1",
-      "source": "G1",
+      "id": "7ce8cf817a3b228d73a514cfc9f743c07be3e8289b2fc1ec347cc931c2a36a3d",
+      "title": "Motociclista de 30 anos morre em grave acidente na SP-310 no interior de SP - g1.globo.com",
+      "source": "g1.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY0NxbEUwQnpUM1NPSXNBTUY2aWxxZDd4TE14NnFhV3cwYjRiUXEtSzE4NHJuWlJtOERhQmUwNXExY2xVT3VldlFXamNIRTZDS3dZb1hsTXBteUdEbmxMYjBSRDRhWWtXdjY5RUFlS2stSXZXRkF0djBka2g4X3h3eC1uekZrWDA5LVJPSU00b094RTIzdzhHX1FuSnQtRV84VnNDSjRpUWJ4RnJOVElMYkF2QnMtS0hVYWg3ajluMkVLODluUkstNTFodktzV3J5dml0SVpYUHZrNkVUU0YzOEltNUJmb0R30gHoAUFVX3lxTE1jQ3FsRTBCelQzU09Jc0FNRjZpbHFkN3hMTXg2cWFXdzBiNGJRcS1LMTg0cm5aUm04RGFCZTA1cTFjbFVPdWV2UVdqY0hFNkNLd1lvWGxNcG15R0RubExiMFJENGFZa1d2NjlFQWVLay1JdldGQXR2MGRraDhfeHd4LW56RmtYMDktUk9JTTRvT3hFMjN3OEdfUW5KdC1FXzhWc0NKNGlRYnhGck5USUxiQXZCcy1LSFVhaDdqOW4yRUs4OW5SSy01MWh2S3NXcnl2aXRJWlhQdms2RVRTRjM4SW01QmZvRHc?oc=5",
       "resolved_link": "",
       "published": "2026-09-08T19:37:34+00:00",
       "published_raw": "Tue, 08 Sep 2026 19:37:34 GMT",
-      "snippet": "Motociclista de 30 anos morre em grave acidente na SP-310 no interior de SP G1",
+      "snippet": "Motociclista de 30 anos morre em grave acidente na SP-310 no interior de SP g1.globo.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.405821+00:00"
+      "collected_at": "2026-09-09T18:15:24.102071+00:00"
     },
     {
       "id": "91ec8fdefe3ad4f04091d9a1ea0205feef242e4bd5a1f51588f8b916da15483e",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.406328+00:00"
+      "collected_at": "2026-09-09T18:15:24.102327+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.405637+00:00"
+      "collected_at": "2026-09-09T18:15:24.101972+00:00"
     },
     {
       "id": "1ff895c103964c25d2e016092db31abd58139e4b3c7487ed4bc2d1a67ab44ec6",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.406168+00:00"
+      "collected_at": "2026-09-09T18:15:24.102251+00:00"
     },
     {
       "id": "5f8209415941f59a1d6fc0c30226c3066eec2f5144c3e41810999dee91fd36d3",
@@ -281,24 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.406487+00:00"
-    },
-    {
-      "id": "0c4b71f2cc3fcd69fcb06bd1df71010e8cad6fcfb0084e934606a62eab18062b",
-      "title": "Ponte sobre o Córrego dos Macacos terá interdições na SP‑310 até outubro - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQelBxZTRkSkRYdnNUNGQyM2J1R1JxTVc0Vmtsb3YtX08xZVNlZVFCc2xvSlpkWHV1ZDA3NHVOMHVzcW1fSzU2Sl94Nl80UkQ5LWF2SnV4aU81R0JPOC1sbkxvR2t3YVowREMzdHUxX0EwYUg1WUx6RHViY1dKdk5XZFlpYTB6d0NkSEpodmt6bWdqOHN6VkRyTHpTMzBuWGFYaWVYTjdIUkotd3BPOV8zejBYbkwxdmgyWERWTmJIUG9JTmxUUldJU01LMm4xSGVSXzlKNmZhV3JqODJSc0x3R0pQSHY?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-08T18:15:00+00:00",
-      "published_raw": "Tue, 08 Sep 2026 18:15:00 GMT",
-      "snippet": "Ponte sobre o Córrego dos Macacos terá interdições na SP‑310 até outubro Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-09T18:06:58.412894+00:00"
+      "collected_at": "2026-09-09T18:15:24.102438+00:00"
     }
   ]
 }
