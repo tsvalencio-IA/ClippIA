@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-09T01:59:18.484539+00:00",
+  "updated_at": "2026-09-09T02:45:44.785976+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 20,
+  "total": 21,
   "total_images": 0,
-  "new_items": 20,
+  "new_items": 21,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.700140+00:00"
+      "collected_at": "2026-09-09T02:45:28.407990+00:00"
     },
     {
       "id": "be0b1c253948c389832f3a9b101904237f14fc7efee9b7b4737173cd1ac73504",
@@ -71,13 +71,13 @@
       "published": "2026-09-08T20:39:00+00:00",
       "published_raw": "Tue, 08 Sep 2026 20:39:00 GMT",
       "snippet": "Ecovias Noroeste Paulista programa obras e intervenções nas principais rodovias da região Votunews",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:14.085377+00:00"
+      "collected_at": "2026-09-09T02:45:38.274010+00:00"
     },
     {
       "id": "88475fda602d358700c2acfda28efa20ce018ac99ff74def1141ffce017e2afd",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:13.420172+00:00"
+      "collected_at": "2026-09-09T02:45:39.945382+00:00"
     },
     {
       "id": "727476bccecaefa47fc6d58ffc4cc14e262230e3afd1cbc99c87a5791e6bae5b",
@@ -105,30 +105,13 @@
       "published": "2026-09-08T19:46:00+00:00",
       "published_raw": "Tue, 08 Sep 2026 19:46:00 GMT",
       "snippet": "Pedestre é atropelado ao tentar atravessar Rodovia Washington Luís Dhoje Interior",
-      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:14.085154+00:00"
-    },
-    {
-      "id": "4fbdc0ead6028c66a9abbb098b77fedab86dc6034faff7f868e72d84401c0f5c",
-      "title": "Motociclista morre após colisão com caminhonete na Rodovia Washington Luís - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVVyVmdRd1gycDFKOG8wU25uRWZoSzZtQUx3MXZldHlGejdiMGpXWVZSNF8zT2tXcktIZVpVWnpvR19EQ2R6SE5SalI0OTNrRndYelZPUGZ3dFZNMjZMeFQzQWhodjJ4a1VrOUc4MXl4TXEtX3NpN0cxYkVxVkNKdWhpWXVha1pSVnpCa2xnNlQzckhERnlObWY2cWVmdC1JQzByc09udzZEYlFDcHg0SGpFS0w3RndkeWg2ZXpUcw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-08T19:40:41+00:00",
-      "published_raw": "Tue, 08 Sep 2026 19:40:41 GMT",
-      "snippet": "Motociclista morre após colisão com caminhonete na Rodovia Washington Luís Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-09T01:59:13.419813+00:00"
+      "collected_at": "2026-09-09T02:45:40.531410+00:00"
     },
     {
       "id": "4b7d849f824235c17e887a959d7bfd48a172f311b11de6cf03cf00741f243a7b",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.700065+00:00"
+      "collected_at": "2026-09-09T02:45:28.407924+00:00"
     },
     {
       "id": "91ec8fdefe3ad4f04091d9a1ea0205feef242e4bd5a1f51588f8b916da15483e",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.700284+00:00"
+      "collected_at": "2026-09-09T02:45:28.408113+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.699878+00:00"
+      "collected_at": "2026-09-09T02:45:28.407766+00:00"
     },
     {
       "id": "1ff895c103964c25d2e016092db31abd58139e4b3c7487ed4bc2d1a67ab44ec6",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:13.419955+00:00"
+      "collected_at": "2026-09-09T02:45:39.945141+00:00"
     },
     {
       "id": "5f8209415941f59a1d6fc0c30226c3066eec2f5144c3e41810999dee91fd36d3",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:12.274033+00:00"
+      "collected_at": "2026-09-09T02:45:38.826212+00:00"
     },
     {
       "id": "0c4b71f2cc3fcd69fcb06bd1df71010e8cad6fcfb0084e934606a62eab18062b",
@@ -230,7 +213,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.700796+00:00"
+      "collected_at": "2026-09-09T02:45:28.414617+00:00"
+    },
+    {
+      "id": "43049c29a5060be43ed1cec38860d4d562df317901bed820edb121a07eda119d",
+      "title": "Caminhoneiro fica gravemente ferido em acidente na Washington Luís - Jornal Dia Dia",
+      "source": "Jornal Dia Dia",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zVjVBYXMwdVdmQl8wWVVTT0VqelVmRFFGbFhTZ0RXN0hFYjJLMGh0WEx0Q2FPbXBFaVFCYnR4c0puaWFFRllTNGFrMXNYTzB0Z2Z6bWNsNjV5QW5yX0FzdjVORTEyYUtnallxd1V3dGNHYXpk?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-08T17:31:11+00:00",
+      "published_raw": "Tue, 08 Sep 2026 17:31:11 GMT",
+      "snippet": "Caminhoneiro fica gravemente ferido em acidente na Washington Luís Jornal Dia Dia",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-09T02:45:39.945323+00:00"
     },
     {
       "id": "c82071f130bb1d51fc0cef3a253202c11801820a44bfa9596ae096d227a78ede",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:15.191136+00:00"
+      "collected_at": "2026-09-09T02:45:41.651213+00:00"
     },
     {
       "id": "18f8426a693fee1f94ef1bf66e1483d0ae49db31a2f19269d324bc610d966601",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:15.191212+00:00"
+      "collected_at": "2026-09-09T02:45:41.651283+00:00"
     },
     {
       "id": "487d66ececba29b73c2656ee3e845a055849242a569d5f5edaa55c52c5f76337",
@@ -281,24 +281,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.699986+00:00"
+      "collected_at": "2026-09-09T02:45:28.407857+00:00"
     },
     {
-      "id": "19f7036288e4a1f49303e70d4b266b33a95efc8a49f6be661f0995c1cd05c0d2",
-      "title": "Ponte sobre o Córrego dos Macacos terá novas interdições - gazetaderiopreto.com.br",
-      "source": "gazetaderiopreto.com.br",
+      "id": "1ed9b64c2f67c888de0394624a8f4e7adbb502398d0bf2ff0c907411aa04dba1",
+      "title": "Ponte sobre o Córrego dos Macacos terá novas interdições - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGUwZjVOekI1QXUwcUFTRnlsUWhVTGVoMkM5ZnJUMEtRMFJKVWpWTHNGWlRLTjdIUGZ4NGNLczdzUzZPMVYzWlpQd2lDamNpRnhkYU1BTWxyVEpSXzh5N3lDY2lZS1dzUlg4R1pJOF9EU0xQT1F4elFkU2MwQm53TFNxTER6OVlrb0t5RUVoamhtb0V3d1pkUg?oc=5",
       "resolved_link": "",
       "published": "2026-09-08T15:27:46+00:00",
       "published_raw": "Tue, 08 Sep 2026 15:27:46 GMT",
-      "snippet": "Ponte sobre o Córrego dos Macacos terá novas interdições gazetaderiopreto.com.br",
+      "snippet": "Ponte sobre o Córrego dos Macacos terá novas interdições Gazeta de Rio Preto",
       "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:12.836272+00:00"
+      "collected_at": "2026-09-09T02:45:39.394092+00:00"
     },
     {
       "id": "864d3ba9e7752f1f98de9d46d19c6a770ba1a9471d8f51822a4d124f46a93a55",
@@ -315,24 +315,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:03.402753+00:00"
+      "collected_at": "2026-09-09T02:45:30.070755+00:00"
     },
     {
       "id": "58af2a0a9cb936f636c97ac6c4543f7b6eb6a8bdd903e06900d76c35158b64ca",
       "title": "Washington Luís terá interdições na região do Córrego dos Macacos, em Rio Preto - Diário da Região",
       "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLXppZi1CQmJZRHhEbHpseWVmX1JsZHBON0RjY1QySGt4NUJMU0Jxc0pXckExTTBOeXh6bEh4TTR6VXlmaUpYbU9fYUZ5b3Ztb18wd0dISHI3S01PRkpUdk9zejYxZ3M4QWFsNHRHa09MNWEwS0pHT0tqS00wUFliT1hFb1JJYnlYMFpSck03SEl2dFhKeHFKYnlyS3I2Uk55MEgwN1ZyaEJaOWtlWVBaWWNhcHhPMFVfM1FXWUxpSGVaYlBPNW1yRkRjUVBTV1k?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-08T13:54:10+00:00",
+      "published_raw": "Tue, 08 Sep 2026 13:54:10 GMT",
+      "snippet": "Washington Luís terá interdições na região do Córrego dos Macacos, em Rio Preto Diário da Região",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-09T02:45:39.393973+00:00"
+    },
+    {
+      "id": "19bfa925956292ed94e6459e0183b11e3636cbc69673ba636a2fd3cfb1c03e03",
+      "title": "Washington Luís terá interdições na região do Córrego dos Macacos, em Rio Preto - diarioweb.com.br",
+      "source": "diarioweb.com.br",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWFPOUE3UUxYY2VMWWtndHA2MjU1VHJEbGhBUU5WdFlTekFuSjR5LS1qODNoV0pFQXhDTVZGVHNPSXB3dmdxVHFmNi1EakwwUFVMVHZ0Nl9YZElLNzR2TXFCamNPVUlvMjJKcGgwTUM1SkdxS1VTUGk5Q3h2VndXRjU2SElBVzl1YkRORWlWcUZRQktGenRPbUEtalRYVnlEbG9ySjI4YXE0SU4xYmxqRjdkQ2ItdFdLUVdJNUJTRTY0dm5YOXNwWQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-08T13:50:53+00:00",
       "published_raw": "Tue, 08 Sep 2026 13:50:53 GMT",
-      "snippet": "Washington Luís terá interdições na região do Córrego dos Macacos, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "snippet": "Washington Luís terá interdições na região do Córrego dos Macacos, em Rio Preto diarioweb.com.br",
+      "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:12.273710+00:00"
+      "collected_at": "2026-09-09T02:45:38.826011+00:00"
     },
     {
       "id": "b518945d776f8bb4949384ce7d6abee617ca95ebc64db1f342cd965face32b40",
@@ -349,7 +366,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:01.700209+00:00"
+      "collected_at": "2026-09-09T02:45:28.408048+00:00"
     },
     {
       "id": "fcee409e8b3f75ca4e02e97e4d9834d1c1b4e47d9205455f2e6e33cb9488ed38",
@@ -366,7 +383,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:12.273788+00:00"
+      "collected_at": "2026-09-09T02:45:38.826083+00:00"
     },
     {
       "id": "2792d96d46aba379ebe1988c01b2acdb42031afd8ffd956b0779a5e2998cde2a",
@@ -383,7 +400,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-09T01:59:12.274210+00:00"
+      "collected_at": "2026-09-09T02:45:38.826364+00:00"
     }
   ]
 }
