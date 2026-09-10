@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-10T18:00:26.762023+00:00",
+  "updated_at": "2026-09-10T20:17:49.108825+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 7,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856334+00:00"
+      "collected_at": "2026-09-10T20:17:31.466679+00:00"
     },
     {
       "id": "62bb9af3bf2cd3159b15cdbd49a9492c24dbca26797dab7c5571d1d6d9555b73",
@@ -71,13 +71,30 @@
       "published": "2026-09-10T06:17:56+00:00",
       "published_raw": "Thu, 10 Sep 2026 06:17:56 GMT",
       "snippet": "Obras em ligação viária entre Jockey e Embaré prosseguem Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-10T20:17:42.786578+00:00"
+    },
+    {
+      "id": "a972eb9b742f3f888babbed750c59a7fa524e9910273075777e54e18fbb40c0e",
+      "title": "Obras da nova ligação viária entre Jockey Clube e Jardim Embaré avançam com asfalto em São Carlos - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWFvT3VoOWQtR3FtNE5TTlVCSVVnN3owS1FrS2c1TUx1cjhTZUt6OTZ2dWU2MUt4WG5tM3RLV2NTdEFSS3oyUTJLcXhwRjJCeDNvWjlQdWVzQ0ZjcUM1V0hwMWJOenVVMnJrUVMxWUtUS2JKRk5hZVBBY0Q0LTR5U0JlYUhaWm1wSTdnazNVNUZnei1kaXhVTm9adVh6NmtSa1Nyd01FNVFUWVBVWFpaWE1pTkQ5VjBCQmRCSFR6WWduRzB0dDhBRDlKbnNFZmk2?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-09T23:48:46+00:00",
+      "published_raw": "Wed, 09 Sep 2026 23:48:46 GMT",
+      "snippet": "Obras da nova ligação viária entre Jockey Clube e Jardim Embaré avançam com asfalto em São Carlos Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856447+00:00"
+      "collected_at": "2026-09-10T20:17:31.466810+00:00"
     },
     {
       "id": "763025952454528d3ee94e1f14530a8d81cab9235389bf6f7579c832a473df49",
@@ -88,30 +105,30 @@
       "published": "2026-09-09T21:34:43+00:00",
       "published_raw": "Wed, 09 Sep 2026 21:34:43 GMT",
       "snippet": "Obras avançam na ligação entre Jockey Clube e Jardim Embaré em São Carlos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:21.024543+00:00"
+      "collected_at": "2026-09-10T20:17:31.467012+00:00"
     },
     {
-      "id": "732e0f64ef5fb3fe64b11b0dae357302284ef9a69e06698b84c84354f8e57eb3",
-      "title": "Centro de Especialidades completa um ano com quase 70 mil atendimentos em Mirassol - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
+      "id": "6fddab0c3b3c665638dd980cd243cb4777951b3a156add0734416a9dfc268f5b",
+      "title": "Centro de Especialidades completa um ano com quase 70 mil atendimentos em Mirassol - mirassol.portaldacidade.com",
+      "source": "mirassol.portaldacidade.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGpld3FNeDlCTFU5MFQ4bm1tX1A5cGZxcHpHeTlQTXJOemU1dTZoRXFYa0Z3cFRyeV9fMHhKZGpDb2JwdlJMMGZ0Y0JiVTRUdTh3TVlQQnpVVXYzaUJIQXk2dFE2RVAxdHEzV2lPLTdkN2xZanQ0Y3ZZQUM0aFRheGY5RkxzTXBYeEoyb2RuMXpGNUUtYzVFN1h6RVJSUE9DNmhhU2lwYXpMQ2F2VElNS2UxeDd6NVdJWVFDVFBsNTJ5aS0wb2tqQWRlWHQwektMbU9vOA?oc=5",
       "resolved_link": "",
       "published": "2026-09-09T21:28:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 21:28:00 GMT",
-      "snippet": "Centro de Especialidades completa um ano com quase 70 mil atendimentos em Mirassol Portal da Cidade - Mirassol / SP",
+      "snippet": "Centro de Especialidades completa um ano com quase 70 mil atendimentos em Mirassol mirassol.portaldacidade.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856714+00:00"
+      "collected_at": "2026-09-10T20:17:31.467194+00:00"
     },
     {
       "id": "7d1d2b20b746fc76c92b68dacc06fb9552275864191528ac1b4ac0e0401f787c",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856794+00:00"
+      "collected_at": "2026-09-10T20:17:31.467107+00:00"
     },
     {
       "id": "cfde078cefd60e182af8583dfc2ddb2e24b2cb98aae6ef72a86350cff76c36f2",
@@ -145,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856556+00:00"
-    },
-    {
-      "id": "71f287593a2c3f1d3ff22a2b0a6de7922296ce32d6555f875ccbb082c22e11d5",
-      "title": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnZQWDluT3liVkNpZlhDOW9US0p6WFFTSUI4UU1ncDR2UHpqN1JMYU54djV6OE04UVNkRHUyYnQxRWtlTl9mdjNMc0NDYU9NcXZXVjBVb3dnaGY2U1p5a3I1MDhGOVI3bnd1OGJ6QWZzTEVnWEtadTFYekV4eTRyV2c2OC1kNEQ2N0pzRWtSQ1I4LTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-09T18:45:00+00:00",
-      "published_raw": "Wed, 09 Sep 2026 18:45:00 GMT",
-      "snippet": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856631+00:00"
-    },
-    {
-      "id": "e206d6e84dfb2dca534ec177353493e6b49e64d0356a5d6aad1bb0c24128e977",
-      "title": "Obras em ponte causam interdições na Rodovia Washington Luís no interior de SP - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaGl0OU1qMFo3eGpyOC11TTM4YlZpZ2pTMGR5dmFfNW9Vby1kT2pMTUF4OXI5RGY2azkzcmNZTzNtVVpoeGVmczI3N09OUllCTEM2NDFFSnZzeWJiaW9ESUJ6QTh6ZDB3RkF6M3J6REwyNzNNOURPb2R3bjgtazFiM0NrckdOSmJ6TTZ1SUN6WjM1WF9uR2xvQlJjQ0tjY1EzWU9MckE1c21rdDJNdmFTUHZBNUd6Mkc2amZEOEd2MFI0dnBabGNUNDEzenE4dGxZeUl1X1JTTUNrcl83eU5wVmtaSG5DZFlURXR6UUo2QmhqRVJYbHdnR0ZIakpuTFNLeEo1b3h3MNIBlgJBVV95cUxONUk0UVowNkFISGRmTnlPVkdpdHJQMjZuWnpwbVU2bzR0cGVuNmlTWXZZNTZjSFR5dFhUMC1ldzZLajJ1NVVpSHcycS1LWUpEZmhhcHJraFVtbXpXSUZiajVxbXgwZVJSekpvbHNoZDFsUnd0dlpzNkRHdS1hZ3JWVVVkZFkyWkRZSXBkSElsRXNpTVRsQ3NuUVV0SlYyUTY0QzRFMHpScFNrb3lZMGlFTS02NGljTWU2anA0OVZPaExsRmVHYkFhbThOcHVFamMzZjhGWFJmOFM4dU5MZXFjOTlyREczWnl0Y2ZXbll5OWN1N25ZX1BVa1ZIY3Q0QlZiR2dUbF9xVmlMOHdvUlo1d29MRXA3QQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-09T18:18:15+00:00",
-      "published_raw": "Wed, 09 Sep 2026 18:18:15 GMT",
-      "snippet": "Obras em ponte causam interdições na Rodovia Washington Luís no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-10T18:00:10.856229+00:00"
+      "collected_at": "2026-09-10T20:17:31.466904+00:00"
     }
   ]
 }
