@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:47:44.699427+00:00",
+  "updated_at": "2026-09-10T07:35:26.605307+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 13,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "86fc151c4adf5512d384fcfa58866efd3dd92b50171e408e0e8597791330cf2f",
+      "title": "Obras da nova ligação viária entre Jockey Clube e Jardim Embaré avançam com asfalto em São Carlos - saocarlosdiaenoite.com.br",
+      "source": "saocarlosdiaenoite.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWFvT3VoOWQtR3FtNE5TTlVCSVVnN3owS1FrS2c1TUx1cjhTZUt6OTZ2dWU2MUt4WG5tM3RLV2NTdEFSS3oyUTJLcXhwRjJCeDNvWjlQdWVzQ0ZjcUM1V0hwMWJOenVVMnJrUVMxWUtUS2JKRk5hZVBBY0Q0LTR5U0JlYUhaWm1wSTdnazNVNUZnei1kaXhVTm9adVh6NmtSa1Nyd01FNVFUWVBVWFpaWE1pTkQ5VjBCQmRCSFR6WWduRzB0dDhBRDlKbnNFZmk2?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-09T23:48:46+00:00",
+      "published_raw": "Wed, 09 Sep 2026 23:48:46 GMT",
+      "snippet": "Obras da nova ligação viária entre Jockey Clube e Jardim Embaré avançam com asfalto em São Carlos saocarlosdiaenoite.com.br",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-10T07:35:12.353418+00:00"
+    },
+    {
       "id": "763025952454528d3ee94e1f14530a8d81cab9235389bf6f7579c832a473df49",
       "title": "Obras avançam na ligação entre Jockey Clube e Jardim Embaré em São Carlos - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:38.950763+00:00"
+      "collected_at": "2026-09-10T07:35:20.895807+00:00"
     },
     {
-      "id": "8b41819e368a38660caaa60a4c8d1b28ecdb20348c8574efc5d5ba9086d42f0a",
-      "title": "Rodovia Washington Luís tem faixas bloqueadas para obras na ponte sobre o Córrego dos Macacos em Rio Preto - regiaonoroeste.com",
-      "source": "regiaonoroeste.com",
+      "id": "7d1d2b20b746fc76c92b68dacc06fb9552275864191528ac1b4ac0e0401f787c",
+      "title": "Rodovia Washington Luís tem faixas bloqueadas para obras na ponte sobre o Córrego dos Macacos em Rio Preto - Região Noroeste",
+      "source": "Região Noroeste",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORllFWGlnVzlPMklhdWVBY1ZWamk0WEZ4eHNVa2QtU2lzMTR4UGNqRzlCN1hEaFhzU2tTVUYybGVOQjBJSzFMSWtyc0VneG1iMDBKWWlldU1BdWtWclhXOEJCUGFKc0FPMUVwc0xpWjJ5dHJIVDhaU19zRWEtR0hPRzVEZi13d0FZRDdvenBvNktKeWVsajBBVGJBdm85MDlRSGlMcXdEc1FGeF9wWUZrOUt0cUFoMmRZYXZMSHljMjVRUk9kY2xoMC02RlhIR3M?oc=5",
       "resolved_link": "",
       "published": "2026-09-09T21:15:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 21:15:00 GMT",
-      "snippet": "Rodovia Washington Luís tem faixas bloqueadas para obras na ponte sobre o Córrego dos Macacos em Rio Preto regiaonoroeste.com",
+      "snippet": "Rodovia Washington Luís tem faixas bloqueadas para obras na ponte sobre o Córrego dos Macacos em Rio Preto Região Noroeste",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836917+00:00"
+      "collected_at": "2026-09-10T07:35:10.804857+00:00"
     },
     {
       "id": "cfde078cefd60e182af8583dfc2ddb2e24b2cb98aae6ef72a86350cff76c36f2",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:38.950663+00:00"
+      "collected_at": "2026-09-10T07:35:20.895737+00:00"
     },
     {
       "id": "812a4abb664e4421ffc10cb06916b23da6e4d375f936432d6de6beefa64875b5",
@@ -105,30 +122,30 @@
       "published": "2026-09-09T20:04:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 20:04:00 GMT",
       "snippet": "Pavimentação da ligação entre Jockey Clube e Embaré prossegue em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836685+00:00"
+      "collected_at": "2026-09-10T07:35:10.804568+00:00"
     },
     {
-      "id": "b4a1f7c0365111ae99655963bc6fc8c407f00ca1bf73cb64079b1509fb8a64da",
-      "title": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto - regiaonoroeste.com",
-      "source": "regiaonoroeste.com",
+      "id": "71f287593a2c3f1d3ff22a2b0a6de7922296ce32d6555f875ccbb082c22e11d5",
+      "title": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto - Região Noroeste",
+      "source": "Região Noroeste",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnZQWDluT3liVkNpZlhDOW9US0p6WFFTSUI4UU1ncDR2UHpqN1JMYU54djV6OE04UVNkRHUyYnQxRWtlTl9mdjNMc0NDYU9NcXZXVjBVb3dnaGY2U1p5a3I1MDhGOVI3bnd1OGJ6QWZzTEVnWEtadTFYekV4eTRyV2c2OC1kNEQ2N0pzRWtSQ1I4LTQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-09T18:45:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 18:45:00 GMT",
-      "snippet": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto regiaonoroeste.com",
+      "snippet": "Pedestre é atropelado na Rodovia Washington Luís em Rio Preto Região Noroeste",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836838+00:00"
+      "collected_at": "2026-09-10T07:35:10.804790+00:00"
     },
     {
       "id": "a71f4aec0eb060d85951d5b5bff1ac311be0a54faae9a7a0c2b804e8108695eb",
@@ -145,7 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836372+00:00"
+      "collected_at": "2026-09-10T07:35:10.804329+00:00"
+    },
+    {
+      "id": "ad7898b73d43fbe50f4598dc94c5def030bec717ae54294baa568b153ff187f7",
+      "title": "Caminhão carregado com equipamentos de usinagem capota na rodovia - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZG11bm5hVy1lalBYY2wzRHFUb2lnU3hVRTNPbF9LLWIwbHJrNXBHcGVvNExFRGJpNUVkakt1aUx0NDFya1VNWmhmaVhyZ0ZYQkxMVzJsMWJ4dlNvVnp0eEUyVjJEQkJmaDZHRDVSdGo3QjhWZ2RsOFFpY04wVGw5M0dCczBSWVJRTENTWjNUVUFjckIxeVZzUU9BMNIB_AJBVV95cUxPQ240X3RLRnJxOFRMZG9JOGtXRS1aSzhzOHNHcUhncWxCNGoyM3FkQVFtZ3RRaWdMa2x3aE5PUFg5MERsdG5jS3VrV0lrLTJleTZEeXZFNHl1VlN1VlFwQzM4UVE3Wk5ZMVI0MFZvM21IdHFMTXNPNjBPS2JCc3gwVU80WElneURSQ1c3N3JJVE1JNlg3VlN3bHJkckVlbTdrMkNqcUFhVDUxc0Ryb0FiRWQ4WjVVN0tUVHNjTVkwWUpqRVpJdkIyOHBQZHVodE1RNGFTN2oteHZWbzBJRi1nMm50ZHA1MVdyUWtaVzJuUnl6c2ljRVM0RzJfcV9SMmNrY19yb1hQdHNoSFJBMldKV2JvcDdrR3BzdGp1eFdvN2RjZmlHVDEzMUdkOE9Vb0xyQUZzeHhXbXlBUmhRN25wcFdVSXlXYjYwa3JnQlZRMmw3ZEJTaVNzUlB4QWNTOG9KbHBSVFk1Y202ZlFjLUVjRjNKV3M3YkthcERjVA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-09T17:28:39+00:00",
+      "published_raw": "Wed, 09 Sep 2026 17:28:39 GMT",
+      "snippet": "Caminhão carregado com equipamentos de usinagem capota na rodovia - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-10T07:35:10.804728+00:00"
     },
     {
       "id": "852825ad92bb8168a10559234da70d36c2aa39b59c82defc1f8dd56f94faba71",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836565+00:00"
+      "collected_at": "2026-09-10T07:35:10.804491+00:00"
     },
     {
       "id": "0db6cdeafb2a178d0c20fde14570fd02f761cdc26770b2d25c7e2d28f5a76485",
@@ -173,13 +207,13 @@
       "published": "2026-09-09T13:50:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 13:50:00 GMT",
       "snippet": "Motociclista de 29 anos morre em grave acidente na SP-310 no interior de SP redeutv.com.br",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:40.126746+00:00"
+      "collected_at": "2026-09-10T07:35:21.958032+00:00"
     },
     {
       "id": "d371767909c2ebe12bbb6ce1b906db941423afa259fda30b497948f2ac633a23",
@@ -196,24 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:40.126978+00:00"
+      "collected_at": "2026-09-10T07:35:21.958295+00:00"
     },
     {
-      "id": "b29482ad80dd81d1689ed6d2ceefb829ba1999f796fe2d2a59961c1852166b69",
-      "title": "Ponte sobre o Córrego dos Macacos terá novas interdições - jornaldhoje.com.br",
-      "source": "jornaldhoje.com.br",
+      "id": "8b432fb212da124788c958547d108b30cf4c6debbbbb2c39766a9a677522b764",
+      "title": "Ponte sobre o Córrego dos Macacos terá novas interdições - Dhoje Interior",
+      "source": "Dhoje Interior",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1IwbkxUUjdMXzQtQmVUMVNZNlhqY3g4TmU4c3dHNWFoSnpiMkJpTmJwRmJfQ05zZWhSN0hnNE5ZSnpqUGQyNy0yeWREUTB5M3NrZVZsVU5hNzRTZ0E0WTdpcjBlQzNQWWk1VDZGRjN4M0VnSl9OMHo3VTNYNndscjVWdVVzNHl6aXI2UGIzVXpfMUM5NmVvTzlYOVdkU0tJeE5CeTRFZlFuSEV6dFB6Rw?oc=5",
       "resolved_link": "",
       "published": "2026-09-09T11:00:00+00:00",
       "published_raw": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "snippet": "Ponte sobre o Córrego dos Macacos terá novas interdições jornaldhoje.com.br",
+      "snippet": "Ponte sobre o Córrego dos Macacos terá novas interdições Dhoje Interior",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836479+00:00"
+      "collected_at": "2026-09-10T07:35:10.804417+00:00"
     },
     {
       "id": "6294d179460662cd6b3d9978c928febbbb556d0035a789135628f2c5d09bf9ac",
@@ -230,41 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836766+00:00"
-    },
-    {
-      "id": "5f8209415941f59a1d6fc0c30226c3066eec2f5144c3e41810999dee91fd36d3",
-      "title": "Ponte sobre o Córrego dos Macacos terá novas interdições na Washington Luís em Rio Preto - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGNLNXd2LXc0NG5xLU1DaDh5Tm9LT0Npb0xVMDFnRk96VmVfd2duY05hQThjOEJPYWZUd2ZEQl9IQnJUQlU3ODhHeVRhZHJLYUstOGhUSlhrbDY5dUVrcEZldENSVnVoS2dPNzJGbllNVG81bWMwazMtUXhzYUNZZUhZVU4yclExVUNMclZPT3NXOHY0VEpPZXhoNnlkcXpLTTctVllFN0xTS0VzWVJvRTgxSzFyMWNCUXgtay1QSU9zZU5SRk5PNWRBNzHSAcwBQVVfeXFMUERjSzV3di13NDRucS1NQ2g4eU5vS09DaW9MVTAxZ0ZPelZlX3dnbmNOYUE4YzhCT2FmVHdmREJfSEJyVEJVNzg4R3lUYWRyS2FLLThoVEpYa2w2OXVFa3BGZXRDUlZ1aEtnTzcyRm5ZTVRvNW1jMGszLVF4c2FDWWVIWVVOMnJRMVVDTHJWT09zVzh2NFRKT2V4aDZ5ZHF6S003LVZZRTdMU0tFc1lSb0U4MUsxcjFjQlF4LWstUElPc2VOUkZOTzVkQTcx?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-09T06:51:27+00:00",
-      "published_raw": "Wed, 09 Sep 2026 06:51:27 GMT",
-      "snippet": "Ponte sobre o Córrego dos Macacos terá novas interdições na Washington Luís em Rio Preto gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-10T02:47:38.950981+00:00"
-    },
-    {
-      "id": "102216afa91d5c212e68ab60f4740dfbb429fd4d697820545d42bf889d9a2cb7",
-      "title": "Pedestre é atropelado ao tentar atravessar a Washington Luís em Rio Preto - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDhCM1RvUF82T0hWZGpYVF80NkVQVEtBUW1aUXVxRS1vQnlBSTFEMThQUVNOVF9IYW5lZXREMDNJaDVkN2dfNThCUHk0aG1EQzNSZ1o5NzMtdHRPXzdpeUdjemlZeGxtMFVPQW1nUXk1WExWd0NUSjJvaGYzRjIzc2piR0J3WDFnRlI2OUtJVUhsOXBVT3QwSUI2RGVRb2JSd09neGxjRVlFcmZCX1h1RVFVbkl0bTJU0gG4AUFVX3lxTE5IOEIzVG9QXzZPSFZkalhUXzQ2RVBUS0FRbVpRdXFFLW9CeUFJMUQxOFBRU05UX0hhbmVldEQwM0loNWQ3Z181OEJQeTRobURDM1JnWjk3My10dE9fN2l5R2N6aVl4bG0wVU9BbWdReTVYTFZ3Q1RKMm9oZjNGMjNzamJHQndYMWdGUjY5S0lVSGw5cFVPdDBJQjZEZVFvYlJ3T2d4bGNFWUVyZkJfWHVFUVVuSXRtMlQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-09T06:51:22+00:00",
-      "published_raw": "Wed, 09 Sep 2026 06:51:22 GMT",
-      "snippet": "Pedestre é atropelado ao tentar atravessar a Washington Luís em Rio Preto gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-10T02:47:28.836989+00:00"
+      "collected_at": "2026-09-10T07:35:10.804659+00:00"
     }
   ]
 }
