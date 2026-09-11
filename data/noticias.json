@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-11T07:41:59.433048+00:00",
+  "updated_at": "2026-09-11T13:05:10.931460+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "cc8d2a8cb351a6fdbd6e23de304b4f9a00ebc82296aa79c1e7b3b843706c50a0",
+      "title": "ÔNIBUS SOFRE ACIDENTE NA RODOVIA FARIA LIMA EM BEBEDOURO (SP). NÃO HOUVE VÍTIMAS - guairainforma.com.br",
+      "source": "guairainforma.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUlTN0RKb1JlV19KVk9nZWY3MURacjNSWl9CVUR1eGdKYnRMLVZqOHl2dVlQWnRQMTRtWUw5Zl9iclA1Mk9ZZ2NjTjhkVFBWYXRBUVJodWQtU1YxZXdnRnhoRS1NejFpLUtLNTF1eVFBSm9OOEJMb1dZek9wNFdwbl9WcXFoWUY2VURNVXhySVFtbms5d1BleDBoNnRaT1A0TUczWFhMUG50WU1QZXhQYzNHNzF6ckFKZXc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-11T10:49:35+00:00",
+      "published_raw": "Fri, 11 Sep 2026 10:49:35 GMT",
+      "snippet": "ÔNIBUS SOFRE ACIDENTE NA RODOVIA FARIA LIMA EM BEBEDOURO (SP). NÃO HOUVE VÍTIMAS guairainforma.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-11T13:04:54.724987+00:00"
+    },
+    {
       "id": "af3f632144f55d5547530c49ab624494fdaca83118ee68c3540d3c7d5d10ae1d",
       "title": "Ônibus com 42 ocupantes sai da pista e bate em talude em rodovia na região de Ribeirão Preto - ACidade ON",
       "source": "ACidade ON",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-11T07:41:44.242972+00:00"
+      "collected_at": "2026-09-11T13:04:54.724890+00:00"
     }
   ]
 }
