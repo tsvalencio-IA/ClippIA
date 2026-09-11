@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-11T02:41:00.543309+00:00",
+  "updated_at": "2026-09-11T07:33:56.174521+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-11T02:40:44.396468+00:00"
-    },
-    {
-      "id": "62bb9af3bf2cd3159b15cdbd49a9492c24dbca26797dab7c5571d1d6d9555b73",
-      "title": "Obras em ligação viária entre Jockey e Embaré prosseguem - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2FWWUdDSlJBdERZU2d5Wmo5cWJPQW9GQmowNndncThLMGJPNzlSd3lyckM4eFdaSHRRcmpwS3R3bzVYLVUxNm43WThVNFhwLWw1V2hLT1VITzdHa1Vpd1l2YzVJeVM1V2ZLbDFlcHdZaUN5Mkp5alN3c1BCdmJaMFlSTVhXa3FCUFJrYzNvLVdHY0F2eXk0TUF4WUFWLVk?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-10T06:17:56+00:00",
-      "published_raw": "Thu, 10 Sep 2026 06:17:56 GMT",
-      "snippet": "Obras em ligação viária entre Jockey e Embaré prosseguem Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-11T02:40:44.396366+00:00"
+      "collected_at": "2026-09-11T07:33:39.193240+00:00"
     }
   ]
 }
