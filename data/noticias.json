@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:11:19.846815+00:00",
+  "updated_at": "2026-09-11T17:58:36.500155+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-11T13:11:03.070509+00:00"
+      "collected_at": "2026-09-11T17:58:16.111163+00:00"
     },
     {
-      "id": "8e0001b4ee8d94cc8abfafbe382283e4298b671982133aec6bc673d855534236",
-      "title": "Ônibus com 42 ocupantes sai da pista e bate em talude em rodovia na região de Ribeirão Preto - acidadeon.com",
-      "source": "acidadeon.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdjBubWtJNzRCZnhJX2VSRTU3YzlzVUdXQXJmUVFJR2Vqa29iR2Mtc3Y2dE04TEFQWEtjWWZ0M1RqeF9IZHAyVEloUEk2MFAwUk5sckJXa1d4aV9DMU85cl9mXy1QQnluZUR1djBWQkJOS1E5bUpXdHdNUEdwY1YtbEZlQkdqM1NMRGZrUHFjZ2RHeVZyUmdpSVNTaWw1eldUN2cybzZmR3h1TkJDVi04b3lmR3BsbzE0TG4waktZWEppMTAxQmRnSWhic1hEd3NQQ2pMVThJRi0yd2c?oc=5",
+      "id": "4913e1e1d06fabea02fd78627dbdbaa66e724ff82124f64502ff4b6b15092c17",
+      "title": "Homem morre atropelado por ônibus na Rodovia Washington Luís, em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkNLM0hYNUJZY0xNTGJVdUROcy1oa3Z4akllMmN3Vk83VzhLZ3VHZ0lQWjVaWjFFWHFMRjZVc2l0Y1U4SVB2SkRBWU9KcDVFVjY4cTJiVnVEWUZFZlJOTnZobnpzOE53dV9FcloxTzlPRkhON1FlV0pkLWh5WXl4VzhFQ0o4Vld5X0hUNXdkS0FETEV1d1ZxSFNjcjlzZ2xuUEFXYmR4c9IBrAFBVV95cUxNUzRocXNzSzBmTUFEblZDcUpmbHFvN0pPZUNDenZsQm9HcldGWlE3T2I4aXlpUHZfNThlNFRSTWpfWklzSUJPZUh6X01WM3FUaXhtQ1RWdUJyWjB0Y2R1cGRwSktsbU1DVmFTTDd5c2c1cGVvQmZvYWpUM3FHblVuLUFPeHg3ZGlIQnprcjBLUE1ja0FXY0c4cTJHWGFtX2pYaldfZ1FnUlIwNkJW?oc=5",
       "resolved_link": "",
-      "published": "2026-09-10T14:47:52+00:00",
-      "published_raw": "Thu, 10 Sep 2026 14:47:52 GMT",
-      "snippet": "Ônibus com 42 ocupantes sai da pista e bate em talude em rodovia na região de Ribeirão Preto acidadeon.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "published": "2026-09-11T09:29:47+00:00",
+      "published_raw": "Fri, 11 Sep 2026 09:29:47 GMT",
+      "snippet": "Homem morre atropelado por ônibus na Rodovia Washington Luís, em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-11T13:11:03.070404+00:00"
+      "collected_at": "2026-09-11T17:58:16.111062+00:00"
     }
   ]
 }
