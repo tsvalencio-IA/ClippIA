@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:42:01.175008+00:00",
+  "updated_at": "2026-09-12T22:47:43.729964+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -54,13 +54,13 @@
       "published": "2026-09-12T16:46:00+00:00",
       "published_raw": "Sat, 12 Sep 2026 16:46:00 GMT",
       "snippet": "O que se sabe sobre o prédio em construção que desabou sobre casa e deixou 2 mortos ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-12T22:41:44.887374+00:00"
+      "collected_at": "2026-09-12T22:47:27.599138+00:00"
     },
     {
       "id": "31992ea6858807e81ad6fb54f3cbffdd3f74426cbcd78f663cc47935664cc396",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-12T22:41:44.887225+00:00"
+      "collected_at": "2026-09-12T22:47:27.599027+00:00"
     }
   ]
 }
