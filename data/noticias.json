@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-12T07:37:48.479792+00:00",
+  "updated_at": "2026-09-12T12:29:09.380286+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,40 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "cc8d2a8cb351a6fdbd6e23de304b4f9a00ebc82296aa79c1e7b3b843706c50a0",
-      "title": "ÔNIBUS SOFRE ACIDENTE NA RODOVIA FARIA LIMA EM BEBEDOURO (SP). NÃO HOUVE VÍTIMAS - guairainforma.com.br",
-      "source": "guairainforma.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUlTN0RKb1JlV19KVk9nZWY3MURacjNSWl9CVUR1eGdKYnRMLVZqOHl2dVlQWnRQMTRtWUw5Zl9iclA1Mk9ZZ2NjTjhkVFBWYXRBUVJodWQtU1YxZXdnRnhoRS1NejFpLUtLNTF1eVFBSm9OOEJMb1dZek9wNFdwbl9WcXFoWUY2VURNVXhySVFtbms5d1BleDBoNnRaT1A0TUczWFhMUG50WU1QZXhQYzNHNzF6ckFKZXc?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-11T10:49:35+00:00",
-      "published_raw": "Fri, 11 Sep 2026 10:49:35 GMT",
-      "snippet": "ÔNIBUS SOFRE ACIDENTE NA RODOVIA FARIA LIMA EM BEBEDOURO (SP). NÃO HOUVE VÍTIMAS guairainforma.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-12T07:37:32.933423+00:00"
-    },
-    {
-      "id": "4913e1e1d06fabea02fd78627dbdbaa66e724ff82124f64502ff4b6b15092c17",
-      "title": "Homem morre atropelado por ônibus na Rodovia Washington Luís, em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkNLM0hYNUJZY0xNTGJVdUROcy1oa3Z4akllMmN3Vk83VzhLZ3VHZ0lQWjVaWjFFWHFMRjZVc2l0Y1U4SVB2SkRBWU9KcDVFVjY4cTJiVnVEWUZFZlJOTnZobnpzOE53dV9FcloxTzlPRkhON1FlV0pkLWh5WXl4VzhFQ0o4Vld5X0hUNXdkS0FETEV1d1ZxSFNjcjlzZ2xuUEFXYmR4c9IBiANBVV95cUxPNUlLU3pIQ1FfZ3BnOE9EUTJNS1VYNGdOVzJHYkh4enAwYjRncHJuY0tDVWs3U25TQVVfaVl4c2pwM29KVlVjUjNFT3pOSlliWWgyeEJJRFJzNERzZGRPa3RGRkh3WWNEb193TVE4T25TSHJRS3NDT1BpejNxdXlGUzgwdlRPNThoRktENFF5ZkFyWVJyQTRJaGVmNlNJdEVyZGJ3T21USk1mZnpvSHZlUXJLNmRmUlpaTDByRmpneEFNSzRnd25lUWw5OTFLWldodnFHOFN0UmQ2NUlSZlJvX2t6Q2xKNkZpZmFlMWNjLXhwYjc4NEdNYXUxcl9fbDl0cFgwZ3JLaXo1WkFrdDJPN0FHYXUxVk1feHA4RDJ5cHJvMTh3cTZxbWpYX2JzUC1nQW80elJnZ05IOFF1YVdtTlFabjMtMUtOUkZwcW1ZdFZOdHAwOXhXSThqV0J1dER0aDB3bUVWM2FGUXY0c0FxdWE5YXB4SGdjNDFVQ3V5ZEt4VlVJbFBZdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-11T09:29:47+00:00",
-      "published_raw": "Fri, 11 Sep 2026 09:29:47 GMT",
-      "snippet": "Homem morre atropelado por ônibus na Rodovia Washington Luís, em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-12T07:37:32.933241+00:00"
-    }
-  ]
+  "items": []
 }
