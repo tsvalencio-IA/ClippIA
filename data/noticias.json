@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:30:54.924917+00:00",
+  "updated_at": "2026-09-12T17:39:40.407863+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 1,
@@ -54,13 +54,13 @@
       "published": "2026-09-12T13:38:25+00:00",
       "published_raw": "Sat, 12 Sep 2026 13:38:25 GMT",
       "snippet": "Caminhonete capota e deixa 1 morto e 4 feridos em rodovia na região de Ribeirão Preto ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-12T17:30:38.096467+00:00"
+      "collected_at": "2026-09-12T17:39:24.178072+00:00"
     }
   ]
 }
