@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-14T17:30:55.500445+00:00",
+  "updated_at": "2026-09-14T21:08:37.940973+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 6,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
+      "title": "Notícias - Jornal de Barretos",
+      "source": "Jornal de Barretos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3Z0c1YyWGE4N3g5cGgyNHY3Q1BXcHVvXzVoUDZvejNrYWJ5Q3NnaUV5N3piM2ZIb3I5OXRERlJHUWhaSUV0LUVwMmEwSWVfSWtTbnd0ekd2d0VFWFN6R2F5ZHA5YTBzSXBLR0FOOFNNWWY1X3FTcHgxdWIxMnlfM096MWlsdmQzT3dCQmJNT0MzZER2SzhLYVpEWUI1THVIeTVDTVc3dUxBaVk?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-14T19:02:34+00:00",
+      "published_raw": "Mon, 14 Sep 2026 19:02:34 GMT",
+      "snippet": "Notícias Jornal de Barretos",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-14T21:08:14.743245+00:00"
+    },
+    {
       "id": "7c3f3ba65535454e772ac469f0379f114620fa15730faced330587c63af72c48",
       "title": "Chuvas em São Paulo: governo intensifica resgate e acolhimento no Vale do Ribeira e em Itapeva - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-14T17:30:38.396359+00:00"
+      "collected_at": "2026-09-14T21:08:14.743540+00:00"
     },
     {
       "id": "fe20d7e9bf59e89325e368daae6fdbd1893562a040620d1967f0d07dd2246bb0",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-14T17:30:38.396289+00:00"
+      "collected_at": "2026-09-14T21:08:14.743469+00:00"
     },
     {
       "id": "5784d32c49e554675f826a7fe1715f2ef9e31b53d612be3d0f21fb38498570cf",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-14T17:30:38.396199+00:00"
+      "collected_at": "2026-09-14T21:08:14.743409+00:00"
     },
     {
       "id": "b6d9e1184c6f16542bc88e4c4314c8f0ecc61953a0ccd2c832026cb3f2725135",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-14T17:30:38.396010+00:00"
+      "collected_at": "2026-09-14T21:08:14.743167+00:00"
     },
     {
       "id": "97c0b4ad1d4dab4d1914ea976a4d83b30d387475557f7ebbc69f582d3ab17ea9",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-14T17:30:38.396111+00:00"
+      "collected_at": "2026-09-14T21:08:14.743329+00:00"
     }
   ]
 }
