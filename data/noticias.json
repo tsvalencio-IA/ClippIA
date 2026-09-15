@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-15T03:05:36.977575+00:00",
+  "updated_at": "2026-09-15T08:06:45.273954+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,55 +46,72 @@
   ],
   "items": [
     {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
+      "id": "470c4afd3ca68ed162287f31121c25c73037fffb56ae4ee8d7992080d84f7565",
+      "title": "Notícias - jornaldebarretos.com.br",
+      "source": "jornaldebarretos.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3Z0c1YyWGE4N3g5cGgyNHY3Q1BXcHVvXzVoUDZvejNrYWJ5Q3NnaUV5N3piM2ZIb3I5OXRERlJHUWhaSUV0LUVwMmEwSWVfSWtTbnd0ekd2d0VFWFN6R2F5ZHA5YTBzSXBLR0FOOFNNWWY1X3FTcHgxdWIxMnlfM096MWlsdmQzT3dCQmJNT0MzZER2SzhLYVpEWUI1THVIeTVDTVc3dUxBaVk?oc=5",
       "resolved_link": "",
       "published": "2026-09-14T19:19:25+00:00",
       "published_raw": "Mon, 14 Sep 2026 19:19:25 GMT",
-      "snippet": "Notícias Jornal de Barretos",
+      "snippet": "Notícias jornaldebarretos.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.953628+00:00"
+      "collected_at": "2026-09-15T08:06:29.363691+00:00"
     },
     {
-      "id": "7c3f3ba65535454e772ac469f0379f114620fa15730faced330587c63af72c48",
-      "title": "Chuvas em São Paulo: governo intensifica resgate e acolhimento no Vale do Ribeira e em Itapeva - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0ZReW5WazZyNzlFRURpcFJIRnVMdjhSQUtlQ2EtZDAyanRUMDFSYkNzUzIxN3pFbkdIMWJWVzdRWWlwN09uSmVDNk5xVWlncHZobktsTV8tSFpPQmhmbk02WVlDTEZseFRLX2RzcWxnWTdNN25EakJZVW9ldlRSdVFQTkdudTZ4U3V1YkJTeGg?oc=5",
+      "id": "ff96e3d2d9aa12691f127ba241fefdfc7b1912d792c87961a8a54c3a5509d35f",
+      "title": "Homem é contido pela PM após ameaçar funcionários e quebrar garrafas em mercado de Dourado - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXl6bmRUS090dDI2RnJTVGd6cGJzMlNmZDVzNE1NblBBUXJkZXQybDVoTHU0R0NUTmYtc2RPbXRwMmFmQWJ2eVpHV0FLNmFqemY4U3RrVnNyd09uY3E4YnBEWHV2V1I0cEd2YTRPUjJ3QzJ5MVVOT3hSbVZDTldZNHFYbmd2VzF2NXNpcG5uay1ZV08tdFNXb0ZhTlVGR2lNVFd6bnEyR1otekNIUVlSVVJBcnJ3Ry05Mkk4N082X2E5UdIBwgFBVV95cUxOSXl6bmRUS090dDI2RnJTVGd6cGJzMlNmZDVzNE1NblBBUXJkZXQybDVoTHU0R0NUTmYtc2RPbXRwMmFmQWJ2eVpHV0FLNmFqemY4U3RrVnNyd09uY3E4YnBEWHV2V1I0cEd2YTRPUjJ3QzJ5MVVOT3hSbVZDTldZNHFYbmd2VzF2NXNpcG5uay1ZV08tdFNXb0ZhTlVGR2lNVFd6bnEyR1otekNIUVlSVVJBcnJ3Ry05Mkk4N082X2E5UQ?oc=5",
       "resolved_link": "",
-      "published": "2026-09-14T16:19:33+00:00",
-      "published_raw": "Mon, 14 Sep 2026 16:19:33 GMT",
-      "snippet": "Chuvas em São Paulo: governo intensifica resgate e acolhimento no Vale do Ribeira e em Itapeva Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "published": "2026-09-14T18:20:04+00:00",
+      "published_raw": "Mon, 14 Sep 2026 18:20:04 GMT",
+      "snippet": "Homem é contido pela PM após ameaçar funcionários e quebrar garrafas em mercado de Dourado - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.954189+00:00"
+      "collected_at": "2026-09-15T08:06:29.364056+00:00"
     },
     {
-      "id": "fe20d7e9bf59e89325e368daae6fdbd1893562a040620d1967f0d07dd2246bb0",
-      "title": "Ecovias Noroeste Paulista divulga cronograma de obras entre 14 e 20 de setembro - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "79dbb8f8553186c712633b82598757063618b5e12dbfaa4f26e1af8bee7df82f",
+      "title": "Chuvas em São Paulo: governo intensifica resgate e acolhimento no Vale do Ribeira e em Itapeva - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0ZReW5WazZyNzlFRURpcFJIRnVMdjhSQUtlQ2EtZDAyanRUMDFSYkNzUzIxN3pFbkdIMWJWVzdRWWlwN09uSmVDNk5xVWlncHZobktsTV8tSFpPQmhmbk02WVlDTEZseFRLX2RzcWxnWTdNN25EakJZVW9ldlRSdVFQTkdudTZ4U3V1YkJTeGg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-14T16:19:33+00:00",
+      "published_raw": "Mon, 14 Sep 2026 16:19:33 GMT",
+      "snippet": "Chuvas em São Paulo: governo intensifica resgate e acolhimento no Vale do Ribeira e em Itapeva mobilidadesampa.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-15T08:06:29.364121+00:00"
+    },
+    {
+      "id": "b82264e84c8b541e9c1219a6da1d395c433b7675889ff437bc66955bbfab69fa",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras entre 14 e 20 de setembro - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG05bE9DOVlfempwcWhNLUhEVXNVUlhlRlBzRXJQWGFQUDRZQXpWUFZ2czZXeUJHd2s4UnZDRjJxMklUTTM2VzdELW5KeGlvUVlIUWJvZVlBb0ZmVHJVbU1SX1ptUzc5VlZvS2tXNHUtY2FWZnlJSy0xTDFvQXNzM3k4MWJZMDUtb0VUaXlUODdKQm10bnZv?oc=5",
       "resolved_link": "",
       "published": "2026-09-14T16:15:27+00:00",
       "published_raw": "Mon, 14 Sep 2026 16:15:27 GMT",
-      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras entre 14 e 20 de setembro Mobilidade Sampa",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras entre 14 e 20 de setembro mobilidadesampa.com.br",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.954113+00:00"
+      "collected_at": "2026-09-15T08:06:29.363982+00:00"
     },
     {
       "id": "5784d32c49e554675f826a7fe1715f2ef9e31b53d612be3d0f21fb38498570cf",
@@ -111,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.953866+00:00"
+      "collected_at": "2026-09-15T08:06:29.363854+00:00"
     },
     {
-      "id": "6bec8d428fda428a185f248541fbcc9f2fc5a4b4ef810df5002ed0565355f043",
-      "title": "BRT Sorocaba inicia 6ª pesquisa de satisfação para avaliar transporte público - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "0c8268077c1152f61d2ccddf9d2f1d98119bdd16278ba75d025a4e51e71e29c4",
+      "title": "BRT Sorocaba inicia 6ª pesquisa de satisfação para avaliar transporte público - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0RDdGdCVjFXN1JkOEk4dXA5dTFNckVEeGFNTi1feEQ0aVVZelQySXhDbEJxM3VXZFVKcHJpVy1WTjJWT1dUb1VKYUlGZ1BUMUpCZ2JhNy14ZDRFR1RPa0VYam9WSVpyaE1EeXdmM2tHNTkwdHNKTHJLeTJxd0ZqZA?oc=5",
       "resolved_link": "",
       "published": "2026-09-14T16:12:56+00:00",
       "published_raw": "Mon, 14 Sep 2026 16:12:56 GMT",
-      "snippet": "BRT Sorocaba inicia 6ª pesquisa de satisfação para avaliar transporte público Mobilidade Sampa",
+      "snippet": "BRT Sorocaba inicia 6ª pesquisa de satisfação para avaliar transporte público mobilidadesampa.com.br",
       "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:22.536820+00:00"
+      "collected_at": "2026-09-15T08:06:30.918839+00:00"
     },
     {
       "id": "b6d9e1184c6f16542bc88e4c4314c8f0ecc61953a0ccd2c832026cb3f2725135",
@@ -145,24 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.953545+00:00"
+      "collected_at": "2026-09-15T08:06:29.363619+00:00"
     },
     {
-      "id": "b48299a54881e38b7959930ea28cbea5bb147aeeefa0dfba87ff8d48f892e9ce",
-      "title": "Obras na Washington Luís terão interdições e mudanças no trânsito em São Carlos nesta semana - São Carlos em - saocarlosemrede.com.br",
-      "source": "saocarlosemrede.com.br",
+      "id": "97c0b4ad1d4dab4d1914ea976a4d83b30d387475557f7ebbc69f582d3ab17ea9",
+      "title": "Obras na Washington Luís terão interdições e mudanças no trânsito em São Carlos nesta semana - São Carlos em - São Carlos em Rede",
+      "source": "São Carlos em Rede",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OS3FGSzM1VUxYQlBMcXhQV3ROa2dISDB2M1BJMl9aYkFiSmlIWG5BMFFFY21SRlVhY1M4VkhVWmF6V2wwbnhHWER2dE9CNlgxa3NFVUI2ODcyZS1iVG9rNi1ha08wdUtPMVJxUUpqSHU3eUMtMVFqUktB0gF6QVVfeXFMTk5LcUZLMzVVTFhCUExxeFBXdE5rZ0hIMHYzUEkyX1piQWJKaUhYbkEwUUVjbVJGVWFjUzhWSFVaYXpXbDBueEdYRHZ0T0I2WDFrc0VVQjY4NzJlLWJUb2s2LWFrTzB1S08xUnFRSmpIdTd5Qy0xUWpSS0E?oc=5",
       "resolved_link": "",
       "published": "2026-09-14T15:38:46+00:00",
       "published_raw": "Mon, 14 Sep 2026 15:38:46 GMT",
-      "snippet": "Obras na Washington Luís terão interdições e mudanças no trânsito em São Carlos nesta semana - São Carlos em saocarlosemrede.com.br",
+      "snippet": "Obras na Washington Luís terão interdições e mudanças no trânsito em São Carlos nesta semana - São Carlos em São Carlos em Rede",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.953757+00:00"
+      "collected_at": "2026-09-15T08:06:29.363774+00:00"
     },
     {
       "id": "71221539bef45248491778f6a23091c656e4cacb1312f9ad0a6c13b65d7e5021",
@@ -173,13 +190,13 @@
       "published": "2026-09-14T15:25:22+00:00",
       "published_raw": "Mon, 14 Sep 2026 15:25:22 GMT",
       "snippet": "Quaest mostra Flávio numericamente à frente de Lula no segundo turno, mas cenário ainda é de empate técnico São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.953959+00:00"
+      "collected_at": "2026-09-15T08:06:39.470117+00:00"
     },
     {
       "id": "31233ed145ba7263dad6ada3a156467a888f2230af65cdc30923a56d4f0fbaac",
@@ -190,13 +207,13 @@
       "published": "2026-09-14T13:26:41+00:00",
       "published_raw": "Mon, 14 Sep 2026 13:26:41 GMT",
       "snippet": "São-carlense surpreende ao tocar no casamento de Ana Hickmann e Edu Guedes - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T03:05:20.954045+00:00"
+      "collected_at": "2026-09-15T08:06:29.363924+00:00"
     }
   ]
 }
