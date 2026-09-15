@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-15T20:47:45.299281+00:00",
+  "updated_at": "2026-09-15T23:16:55.137443+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 15,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 15,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "af180671aee54e89429f82778b22b01df351b09a15892e4e9358e695e16b1463",
+      "title": "“Vá Seguro” reforça segurança no trânsito em Mirassol - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkh0Vk9EQy1QWmJSNjBPTThKVUtBLWZGaFNkNktFUG5hN3RKdUt5RHNrQ3UtekxPRVJMUnoyOHpHRDJBTms4Q3h2cjZNZ3JoTWV5enVaNUNleXVleGkzVHB4cTVjU3pyT3Jwd1FKUFRqWWxQMlpMUTdPOWVYbnd4dkg1WmYwaHZpNXlKMTFmYXRGTEZMT1BmZDFqVlNrcWdPQ0FMQ09xaGQ5bkFv?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-15T21:19:00+00:00",
+      "published_raw": "Tue, 15 Sep 2026 21:19:00 GMT",
+      "snippet": "“Vá Seguro” reforça segurança no trânsito em Mirassol Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-15T23:16:36.594785+00:00"
+    },
+    {
       "id": "40eca23c044437602509668a9ac159165faccb85b54461e8f505fb422803185a",
       "title": "Sistemas sobre trilhos em curso da ANPTrilhos - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:41.036694+00:00"
+      "collected_at": "2026-09-15T23:16:50.850054+00:00"
     },
     {
       "id": "d866c739eb4d43ce1d2b001f47f570a20b9a2454faf11e623627055ecec5df2b",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.867062+00:00"
+      "collected_at": "2026-09-15T23:16:36.595025+00:00"
     },
     {
       "id": "785314275ba669647b4373048d8bc9a8d9a1684928c3c83a6a35c6a981b4f04f",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.866967+00:00"
+      "collected_at": "2026-09-15T23:16:36.594272+00:00"
     },
     {
       "id": "1539c2081ed92920d91dbd87e670b6500277ef3d3298de3ccd484219e8112069",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:41.036573+00:00"
+      "collected_at": "2026-09-15T23:16:50.849927+00:00"
     },
     {
       "id": "716b4bf107eb0d6568cb8011a2df7e3b3ecbfa175fcc96ca52a49fe5f7ff1936",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:30.564807+00:00"
+      "collected_at": "2026-09-15T23:16:38.207048+00:00"
     },
     {
       "id": "b1425230adbfb97acd158995e4a1f919e949bfe369c935feeb91d48a5da3f645",
@@ -139,13 +156,13 @@
       "published": "2026-09-15T16:38:17+00:00",
       "published_raw": "Tue, 15 Sep 2026 16:38:17 GMT",
       "snippet": "Homem é achado morto com ferimento na cabeça às margens da SP-310 RP10",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.867134+00:00"
+      "collected_at": "2026-09-15T23:16:36.594866+00:00"
     },
     {
       "id": "e7ec259ccf83bb4f614a64a93300d79ecdef50455f171f217d657b6ce998b093",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.866641+00:00"
+      "collected_at": "2026-09-15T23:16:36.594003+00:00"
     },
     {
       "id": "1b3b2cc82aed724cd6fff13ee5ddcb2fe7cab7b1b7f852032e5a7bb6e48f7c71",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:40.463144+00:00"
+      "collected_at": "2026-09-15T23:16:50.293096+00:00"
     },
     {
       "id": "117fd5bdbe2de08f0358214c0c2b1dc7661356ad6143b64423464724bf532598",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:30.564419+00:00"
+      "collected_at": "2026-09-15T23:16:38.206571+00:00"
     },
     {
       "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:40.463216+00:00"
+      "collected_at": "2026-09-15T23:16:50.293026+00:00"
     },
     {
       "id": "bf8dd2ec3111b9bb0007a88e246dec15f878a80e9ed1a8b86284e1d3ca4273f1",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:40.463078+00:00"
+      "collected_at": "2026-09-15T23:16:50.292946+00:00"
     },
     {
       "id": "363a4a6634e620bd84eebe31b55423d67716fa37072c85298abd09151eb707e9",
@@ -247,24 +264,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.866824+00:00"
+      "collected_at": "2026-09-15T23:16:36.594188+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - oextra.net",
+      "source": "oextra.net",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGJ2OGx0ZHBxRFBiN2VyU2tiUFdkZ1VxZ1V1R3phQ3BHcG9ORkxqdnpMLU9yazBBcHF3QjEwUnlEMVM1MzgzMV9uUDRVUkEyYVplVHFaV0tWVmt0RU9zdlZtQUFuZ3Jkak12MnoxcFYtRC1pelMwUGppc2o0dlhXelFSUU1DOXB6N1lvWWNyNGhNQnFO?oc=5",
       "resolved_link": "",
       "published": "2026-09-15T11:40:25+00:00",
       "published_raw": "Tue, 15 Sep 2026 11:40:25 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana oextra.net",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.866737+00:00"
+      "collected_at": "2026-09-15T23:16:36.594099+00:00"
     },
     {
       "id": "2617b29be6f6ecf9a6cb555d126d04c73ad608878b3aac37092b34ea775a2a7f",
@@ -281,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-15T20:47:28.867200+00:00"
+      "collected_at": "2026-09-15T23:16:36.594933+00:00"
     }
   ]
 }
