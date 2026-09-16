@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:59:34.656769+00:00",
+  "updated_at": "2026-09-16T18:31:59.445406+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 11,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
+      "title": "Corpo é encontrado às margens da Rodovia Washington Luís - band.com.br",
+      "source": "band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZE1WV25zanN1WVRFb1hSRlBMbHpmTkZvM1ZmbDdGRXdYMXBGVGFDUnJicmVSSDl4blRQbzUxbWN5M1V4QWlzYXpxWWVoWFZxdVRBVFp5dWpXUkdJcW12dEhSa0VQZ182bEpQWXBRdFVvdHFWVHBOS2RKMFBtMG9rRVpzR1VVTXJyUW53QldXVUhoZndGMEdn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T16:49:00+00:00",
+      "published_raw": "Wed, 16 Sep 2026 16:49:00 GMT",
+      "snippet": "Corpo é encontrado às margens da Rodovia Washington Luís band.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T18:31:41.708240+00:00"
+    },
+    {
+      "id": "a3b65ec71592b6ee67e95b92222acdea698656dbe0c5d8ca4c85fbc36f4396b9",
+      "title": "Porpetone traz “Epidemia de Risos” a São Carlos neste sábado com stand-up e imitações - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTV2QVFiMndRUUdFTENNUDVON0R2MXBZaXp3V0NlM1FfTXBzVktzZ3p5WEczYmdqTG1XRVdyTFlRUFVWODNLdlkyMkRWZVo1dU5MZ1AxQ0k4cXZ5LVZqdTFZTk9VUWN0QVVOeEJKTlNlVnNlc1VxbDN1U3FMZTBxbDc2ZWVONG9vMVA0Mk04OW1sNlprRklOYVpBY1pwMnpXM0U2cHB6QVYydVFlUXBqa00wM3pHbDBq0gG4AUFVX3lxTE4tNXZBUWIyd1FRR0VMQ01QNU43RHYxcFlpendXQ2UzUV9NcHNWS3NnenlYRzNiZ2pMbVdFV3JMWVFQVVY4M0t2WTIyRFZlWjV1TkxnUDFDSThxdnktVmp1MVlOT1VRY3RBVU54QkpOU2VWc2VzVXFsM3VTcUxlMHFsNzZlZU40b28xUDQyTTg5bWw2WmtGSU5hWkFjWnAyelczRTZwcHpBVjJ1UWVRcGprTTAzekdsMGo?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T12:13:25+00:00",
+      "published_raw": "Wed, 16 Sep 2026 12:13:25 GMT",
+      "snippet": "Porpetone traz “Epidemia de Risos” a São Carlos neste sábado com stand-up e imitações - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T18:31:41.708761+00:00"
+    },
+    {
       "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
       "title": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol - gazetainterior.com.br",
       "source": "gazetainterior.com.br",
@@ -54,47 +88,64 @@
       "published": "2026-09-16T11:53:28+00:00",
       "published_raw": "Wed, 16 Sep 2026 11:53:28 GMT",
       "snippet": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416938+00:00"
+      "collected_at": "2026-09-16T18:31:41.709049+00:00"
     },
     {
-      "id": "0f9a7156ccb48d733e1dd7b6e0f9516d6a7a5dbe1cc550a932271d514bae075b",
-      "title": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque - saocarlosnotoque.com",
-      "source": "saocarlosnotoque.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmZXZmZqQnAxUUpBVTVGSmVrQ2t0dVdDb2dlR1o1OFE5UWdOSnN0eWwxcTQ1SHV5VjNGNmlxQmotbkhCaU0wbFZXejU5QU56RUJxd05qY1hOcHFPMmtKcHlsMVpoRW1tVUxtTHVwNkFHcGlNYXEyRmltbGdnR3RNLWh6NVY1VUY2Mmk2VmhtbjZRQUVac19aS01zRHA1Y0VmRGfSAaIBQVVfeXFMUGJmV2ZmakJwMVFKQVU1Rkpla0NrdHVXQ29nZUdaNThROVFnTkpzdHlsMXE0NUh1eVYzRjZpcUJqLW5IQmlNMGxWV3o1OUFOekVCcXdOamNYTnBxTzJrSnB5bDFaaEVtbVVMbUx1cDZBR3BpTWFxMkZpbWxnZ0d0TS1oejVWNVVGNjJpNlZobW42UUFFWnNfWktNc0RwNWNFZkRn?oc=5",
+      "id": "b3b996c0f0531745c7edbdece8329e493d75b879df8753458a32d0bd86064795",
+      "title": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3cybF8wWHc0ZjBXNnotVS0wMVA5MG1yWEpJSFhRdi1GV3Zvbi1McW5XeC13SVZrQkZlU0l1U0U3TFJ2WEprUFNEZFN0aUR2SWJGMnRwVktIUDZ1UFFXcnBmZmFjYWktNWVMMnlpVkIxVWM1bmZFbm4yWnFVOXUzVENfeEYtTzFwZk5XUElRRUJISEh4LXRacmM1Q2FsY1dXTmlj0gGjAUFVX3lxTE9TdzJsXzBYdzRmMFc2ei1VLTAxUDkwbXJYSklIWFF2LUZXdm9uLUxxbld4LXdJVmtCRmVTSXVTRTdMUnZYSmtQU0RkU3RpRHZJYkYydHBWS0hQNnVQUVdycGZmYWNhaS01ZUwyeWlWQjFVYzVuZkVubjJacVU5dTNUQ194Ri1PMXBmTldQSVFFQkhISHgtdFpyYzVDYWxjV1dOaWM?oc=5",
       "resolved_link": "",
-      "published": "2026-09-16T04:05:28+00:00",
-      "published_raw": "Wed, 16 Sep 2026 04:05:28 GMT",
-      "snippet": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque saocarlosnotoque.com",
+      "published": "2026-09-16T09:34:13+00:00",
+      "published_raw": "Wed, 16 Sep 2026 09:34:13 GMT",
+      "snippet": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416214+00:00"
+      "collected_at": "2026-09-16T18:31:41.708839+00:00"
     },
     {
-      "id": "f5a5af0707340dd9786477aae2711f1e36e89780127f3e2fc6ceb227fb4522d3",
-      "title": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - São Carlos no Toque - saocarlosnotoque.com",
-      "source": "saocarlosnotoque.com",
+      "id": "61622b647feaccab5fd9cea44a44facebcf32e8165f4c02b252c132a95155f00",
+      "title": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmZXZmZqQnAxUUpBVTVGSmVrQ2t0dVdDb2dlR1o1OFE5UWdOSnN0eWwxcTQ1SHV5VjNGNmlxQmotbkhCaU0wbFZXejU5QU56RUJxd05qY1hOcHFPMmtKcHlsMVpoRW1tVUxtTHVwNkFHcGlNYXEyRmltbGdnR3RNLWh6NVY1VUY2Mmk2VmhtbjZRQUVac19aS01zRHA1Y0VmRGfSAaIBQVVfeXFMUGJmV2ZmakJwMVFKQVU1Rkpla0NrdHVXQ29nZUdaNThROVFnTkpzdHlsMXE0NUh1eVYzRjZpcUJqLW5IQmlNMGxWV3o1OUFOekVCcXdOamNYTnBxTzJrSnB5bDFaaEVtbVVMbUx1cDZBR3BpTWFxMkZpbWxnZ0d0TS1oejVWNVVGNjJpNlZobW42UUFFWnNfWktNc0RwNWNFZkRn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T04:05:28+00:00",
+      "published_raw": "Wed, 16 Sep 2026 04:05:28 GMT",
+      "snippet": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T18:31:41.708320+00:00"
+    },
+    {
+      "id": "7d814bf835e89882a0dfe6af96c949c856112300e33849968f6838b7f45437bc",
+      "title": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzlvU1JPRElyWkZwdDlJUk9WMWdRMXNrWXNHd3otejRSTWNrNHpBb1hybDBxS1laVWlhLXN5RHBBcFNQTGVwY3JSVEpYcHhzNW9idXlodlZfb1Vobk56bWFIdHVnUmlHdTBJZV9XdGg3dFo2S053NmhKa2lEZ3pvODVqV3hFdDV0WWVwYjdvdlY0YTk1Z3UzSFRIUkFDZXNWa01zOUpFSnhvYXpy0gGyAUFVX3lxTE1NTTZ1cGU2SDVVeGVydy1TZHFCQVlOMkgtRUZYV1ExOE5McFdWSVJtX0RsQ0lSanhhRi1ZZ3p4aUJIeWh5WnhBZFM5eXhQWlZLRzJXb21acUlWWmxpNmFEYUw1ejJYUXk5LWJSazl4Ykh6U2lpRUNmQTluZnNXWUo4Z0JTNkRKcnExNFR4eVlVUFZCQ3pYREptcEdpeVRHUGFTLWlKVGs2MXRWb1hkbXZLZ0E?oc=5",
       "resolved_link": "",
       "published": "2026-09-16T03:13:00+00:00",
       "published_raw": "Wed, 16 Sep 2026 03:13:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - São Carlos no Toque saocarlosnotoque.com",
+      "snippet": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.415960+00:00"
+      "collected_at": "2026-09-16T18:31:41.708156+00:00"
     },
     {
       "id": "af180671aee54e89429f82778b22b01df351b09a15892e4e9358e695e16b1463",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416757+00:00"
+      "collected_at": "2026-09-16T18:31:41.708982+00:00"
     },
     {
       "id": "8d068392917b82ac28f4cadfe9580cf924c762d3083079c94c6a3b4ec6cd88ad",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:30.267437+00:00"
+      "collected_at": "2026-09-16T18:31:54.672374+00:00"
     },
     {
       "id": "d866c739eb4d43ce1d2b001f47f570a20b9a2454faf11e623627055ecec5df2b",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.417130+00:00"
+      "collected_at": "2026-09-16T18:31:41.709121+00:00"
     },
     {
       "id": "785314275ba669647b4373048d8bc9a8d9a1684928c3c83a6a35c6a981b4f04f",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416315+00:00"
+      "collected_at": "2026-09-16T18:31:41.708908+00:00"
     },
     {
       "id": "1539c2081ed92920d91dbd87e670b6500277ef3d3298de3ccd484219e8112069",
@@ -173,64 +224,13 @@
       "published": "2026-09-15T18:36:01+00:00",
       "published_raw": "Tue, 15 Sep 2026 18:36:01 GMT",
       "snippet": "SABÓ participa da Expo Peças 2026 e reforça presença junto aos profissionais da reparação em Goiás Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T15:59:30.267385+00:00"
-    },
-    {
-      "id": "19c9e7aaa25142dd0afef788c99ad30bc72400dd645c4e8d0f38f86825d2eb19",
-      "title": "Corpo de idoso é encontrado com ferimento na cabeça na Rodovia Washington Luís em Mirassol - regiaonoroeste.com",
-      "source": "regiaonoroeste.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGRRT3AzVmlKZmlEVXl2OTE1WjJ0VnE1OVR4UmEtblUyX1d6NHBqeU9JcjUwMHZfNlN4bGFseEU2ajluSWJvZDh3ZlotTFloN185MzduekxZZmdSNi1QN0llTGRCS3pCclhFU3FaT3ZyYzl3Ny1uc2t5Y2V4bHpQdlU0c1AtN2prZnlsTlE1d0VTRk9xUVJrNGRSUTNGMTdmVVNwSHlDSDlKbmlRMmVtdGFqaUZDX3FmaHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T17:27:00+00:00",
-      "published_raw": "Tue, 15 Sep 2026 17:27:00 GMT",
-      "snippet": "Corpo de idoso é encontrado com ferimento na cabeça na Rodovia Washington Luís em Mirassol regiaonoroeste.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416852+00:00"
-    },
-    {
-      "id": "b5048e4979924dde41830d80030e104f491cffedda14bc7db7186808e290201e",
-      "title": "Homem é achado morto com ferimento na cabeça às margens da SP-310 - rp10.com.br",
-      "source": "rp10.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMU5FcjJENzFscTd5TzFHbGZiTjVFdWh5enZqaW5GRnZHazd5bzF2d0FPWWFjOGR0MXhvbFJ1bFByU0J3UTFmV2JjMFBmN19GUlFTcXdXeWZWQl8tX0czNUxGUG1aaXdPMEVUWVlsc044eXpwd2lUTGFmYTByU3ZNZ09uel9XaVlBNjAyZmF1R0FReF94eHptREtEbWdFUWfSAaQBQVVfeXFMTXRPYXVPR3FwVUdTZElZTHhDWHp1cWwwQ0xhaXpueEgtT0ZIS2gwcUF6ZG5LcWJ3dWZxMTg2VXJUc2FrSTBVelVSN2twQlZma3hPQVZueUZ6YkdYUFUxSXA5UU9kcDZMLWx4eVZ3SjQ1YVlPdi0tZkxHRW1wVEI4OXNSQUo2LTFuX1YwZVJQcHkzX3hUNWViUloxTVRJWWJMcFdqQUM?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T16:38:17+00:00",
-      "published_raw": "Tue, 15 Sep 2026 16:38:17 GMT",
-      "snippet": "Homem é achado morto com ferimento na cabeça às margens da SP-310 rp10.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.417013+00:00"
-    },
-    {
-      "id": "f651efbc3024d1988746c496cf296f860f61053a9be5f580cb3bd36f6857978d",
-      "title": "Idoso é encontrado morto com corte profundo na cabeça na Washington Luís - jornaldhoje.com.br",
-      "source": "jornaldhoje.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc29McTRISmxNU3pSVmxIN3JUMjN3X2hGTG5hYXluMzlfU3VUbWJlTzZ3VDlQdERlU1dXeTExaF9YLVA1NEdrUFRMRm9hdUVqSjdPOWpTMU9KWEVQUDNFcVUwVWlSeWJyaTBkaWp4RnpNMXZlRy01QmYyaVZNWFFsZnp5czZ5SjVaaFNJRlVja3dBelNPeUJQRWlUd29nclVNVEl2X0c4a3FHd0tVWW5SajMwTHo2aW9jMHRacnpZNA?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T16:07:00+00:00",
-      "published_raw": "Tue, 15 Sep 2026 16:07:00 GMT",
-      "snippet": "Idoso é encontrado morto com corte profundo na cabeça na Washington Luís jornaldhoje.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T15:59:18.416079+00:00"
+      "collected_at": "2026-09-16T18:31:41.709187+00:00"
     }
   ]
 }
