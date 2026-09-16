@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-16T10:44:44.956923+00:00",
+  "updated_at": "2026-09-16T13:49:26.036191+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 12,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "61622b647feaccab5fd9cea44a44facebcf32e8165f4c02b252c132a95155f00",
+      "title": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmZXZmZqQnAxUUpBVTVGSmVrQ2t0dVdDb2dlR1o1OFE5UWdOSnN0eWwxcTQ1SHV5VjNGNmlxQmotbkhCaU0wbFZXejU5QU56RUJxd05qY1hOcHFPMmtKcHlsMVpoRW1tVUxtTHVwNkFHcGlNYXEyRmltbGdnR3RNLWh6NVY1VUY2Mmk2VmhtbjZRQUVac19aS01zRHA1Y0VmRGfSAaIBQVVfeXFMUGJmV2ZmakJwMVFKQVU1Rkpla0NrdHVXQ29nZUdaNThROVFnTkpzdHlsMXE0NUh1eVYzRjZpcUJqLW5IQmlNMGxWV3o1OUFOekVCcXdOamNYTnBxTzJrSnB5bDFaaEVtbVVMbUx1cDZBR3BpTWFxMkZpbWxnZ0d0TS1oejVWNVVGNjJpNlZobW42UUFFWnNfWktNc0RwNWNFZkRn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T04:05:28+00:00",
+      "published_raw": "Wed, 16 Sep 2026 04:05:28 GMT",
+      "snippet": "Fesc abre inscrições para curso gratuito de Barbeiro em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T13:49:11.290770+00:00"
+    },
+    {
       "id": "7d814bf835e89882a0dfe6af96c949c856112300e33849968f6838b7f45437bc",
       "title": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.398529+00:00"
+      "collected_at": "2026-09-16T13:49:09.656798+00:00"
     },
     {
       "id": "af180671aee54e89429f82778b22b01df351b09a15892e4e9358e695e16b1463",
@@ -71,13 +88,13 @@
       "published": "2026-09-15T21:19:00+00:00",
       "published_raw": "Tue, 15 Sep 2026 21:19:00 GMT",
       "snippet": "“Vá Seguro” reforça segurança no trânsito em Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.408011+00:00"
+      "collected_at": "2026-09-16T13:49:09.662109+00:00"
     },
     {
       "id": "8d068392917b82ac28f4cadfe9580cf924c762d3083079c94c6a3b4ec6cd88ad",
@@ -88,13 +105,13 @@
       "published": "2026-09-15T18:59:03+00:00",
       "published_raw": "Tue, 15 Sep 2026 18:59:03 GMT",
       "snippet": "Curso da ANPTrilhos e Ministério das Cidades aprofunda projeto e construção de sistemas sobre trilhos Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:40.014082+00:00"
+      "collected_at": "2026-09-16T13:49:21.631638+00:00"
     },
     {
       "id": "d866c739eb4d43ce1d2b001f47f570a20b9a2454faf11e623627055ecec5df2b",
@@ -105,13 +122,13 @@
       "published": "2026-09-15T18:55:00+00:00",
       "published_raw": "Tue, 15 Sep 2026 18:55:00 GMT",
       "snippet": "Homem de 68 anos é encontrado morto às margens da Rodovia Washington Luís, em Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.408213+00:00"
+      "collected_at": "2026-09-16T13:49:09.662387+00:00"
     },
     {
       "id": "785314275ba669647b4373048d8bc9a8d9a1684928c3c83a6a35c6a981b4f04f",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.398803+00:00"
+      "collected_at": "2026-09-16T13:49:09.657057+00:00"
     },
     {
       "id": "1539c2081ed92920d91dbd87e670b6500277ef3d3298de3ccd484219e8112069",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:40.013962+00:00"
+      "collected_at": "2026-09-16T13:49:21.631563+00:00"
     },
     {
       "id": "716b4bf107eb0d6568cb8011a2df7e3b3ecbfa175fcc96ca52a49fe5f7ff1936",
@@ -156,30 +173,47 @@
       "published": "2026-09-15T17:27:00+00:00",
       "published_raw": "Tue, 15 Sep 2026 17:27:00 GMT",
       "snippet": "Corpo de idoso é encontrado com ferimento na cabeça na Rodovia Washington Luís em Mirassol Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:28.097526+00:00"
-    },
-    {
-      "id": "b1425230adbfb97acd158995e4a1f919e949bfe369c935feeb91d48a5da3f645",
-      "title": "Homem é achado morto com ferimento na cabeça às margens da SP-310 - RP10",
-      "source": "RP10",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMU5FcjJENzFscTd5TzFHbGZiTjVFdWh5enZqaW5GRnZHazd5bzF2d0FPWWFjOGR0MXhvbFJ1bFByU0J3UTFmV2JjMFBmN19GUlFTcXdXeWZWQl8tX0czNUxGUG1aaXdPMEVUWVlsc044eXpwd2lUTGFmYTByU3ZNZ09uel9XaVlBNjAyZmF1R0FReF94eHptREtEbWdFUWfSAaQBQVVfeXFMTXRPYXVPR3FwVUdTZElZTHhDWHp1cWwwQ0xhaXpueEgtT0ZIS2gwcUF6ZG5LcWJ3dWZxMTg2VXJUc2FrSTBVelVSN2twQlZma3hPQVZueUZ6YkdYUFUxSXA5UU9kcDZMLWx4eVZ3SjQ1YVlPdi0tZkxHRW1wVEI4OXNSQUo2LTFuX1YwZVJQcHkzX3hUNWViUloxTVRJWWJMcFdqQUM?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T16:38:17+00:00",
-      "published_raw": "Tue, 15 Sep 2026 16:38:17 GMT",
-      "snippet": "Homem é achado morto com ferimento na cabeça às margens da SP-310 RP10",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.408080+00:00"
+      "collected_at": "2026-09-16T13:49:09.662218+00:00"
+    },
+    {
+      "id": "b5048e4979924dde41830d80030e104f491cffedda14bc7db7186808e290201e",
+      "title": "Homem é achado morto com ferimento na cabeça às margens da SP-310 - rp10.com.br",
+      "source": "rp10.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMU5FcjJENzFscTd5TzFHbGZiTjVFdWh5enZqaW5GRnZHazd5bzF2d0FPWWFjOGR0MXhvbFJ1bFByU0J3UTFmV2JjMFBmN19GUlFTcXdXeWZWQl8tX0czNUxGUG1aaXdPMEVUWVlsc044eXpwd2lUTGFmYTByU3ZNZ09uel9XaVlBNjAyZmF1R0FReF94eHptREtEbWdFUWfSAaQBQVVfeXFMTXRPYXVPR3FwVUdTZElZTHhDWHp1cWwwQ0xhaXpueEgtT0ZIS2gwcUF6ZG5LcWJ3dWZxMTg2VXJUc2FrSTBVelVSN2twQlZma3hPQVZueUZ6YkdYUFUxSXA5UU9kcDZMLWx4eVZ3SjQ1YVlPdi0tZkxHRW1wVEI4OXNSQUo2LTFuX1YwZVJQcHkzX3hUNWViUloxTVRJWWJMcFdqQUM?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-15T16:38:17+00:00",
+      "published_raw": "Tue, 15 Sep 2026 16:38:17 GMT",
+      "snippet": "Homem é achado morto com ferimento na cabeça às margens da SP-310 rp10.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T13:49:09.662300+00:00"
+    },
+    {
+      "id": "1ca1faef0130b9876c934c9f95092be6c4aa296ba78d4b71771deb8fbdc8895e",
+      "title": "Idoso é encontrado morto com corte profundo na cabeça na Washington Luís - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc29McTRISmxNU3pSVmxIN3JUMjN3X2hGTG5hYXluMzlfU3VUbWJlTzZ3VDlQdERlU1dXeTExaF9YLVA1NEdrUFRMRm9hdUVqSjdPOWpTMU9KWEVQUDNFcVUwVWlSeWJyaTBkaWp4RnpNMXZlRy01QmYyaVZNWFFsZnp5czZ5SjVaaFNJRlVja3dBelNPeUJQRWlUd29nclVNVEl2X0c4a3FHd0tVWW5SajMwTHo2aW9jMHRacnpZNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-15T16:07:00+00:00",
+      "published_raw": "Tue, 15 Sep 2026 16:07:00 GMT",
+      "snippet": "Idoso é encontrado morto com corte profundo na cabeça na Washington Luís Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T13:49:09.656977+00:00"
     },
     {
       "id": "1b3b2cc82aed724cd6fff13ee5ddcb2fe7cab7b1b7f852032e5a7bb6e48f7c71",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:39.276952+00:00"
+      "collected_at": "2026-09-16T13:49:20.941847+00:00"
     },
     {
       "id": "117fd5bdbe2de08f0358214c0c2b1dc7661356ad6143b64423464724bf532598",
@@ -207,98 +241,13 @@
       "published": "2026-09-15T13:58:03+00:00",
       "published_raw": "Tue, 15 Sep 2026 13:58:03 GMT",
       "snippet": "Corpo de homem com ferimento na cabeça é encontrado na rodovia Washington Luís G1",
-      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:28.097189+00:00"
-    },
-    {
-      "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
-      "title": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONG5qYnBBTl9vRHRjUGM1aGx5REF6T244NU13S1lYVmwzOGVPM3BuSmJ6M2NLbGlMX2JJeXBMcWlnd3N1X0VXTVRhRURZVHRxYzVMQ2c5c09TVHpzaHNRbWhaSzQ3RDlUNVNFRWlJYmdSQVp4dGJGMjc1SjNoTDZKT29fTEFObFlMUzR0RmE1WkJwMnl4MmlONXR0UHJTTU40RW14Zm8tVnI2ZVdLbHpfLWx5bEhJWExpNUQ2NVNUZzdDOGU4Sk5R?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T13:38:18+00:00",
-      "published_raw": "Tue, 15 Sep 2026 13:38:18 GMT",
-      "snippet": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:39.276895+00:00"
-    },
-    {
-      "id": "bf8dd2ec3111b9bb0007a88e246dec15f878a80e9ed1a8b86284e1d3ca4273f1",
-      "title": "Ecovias Noroeste Paulista programa obras e interdições de faixas em rodovias da região - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajllYUd2QkI3ZTV3alA3LWQ2aEhWMVlaZTFpbXBvMTJEbXJ3VVZsLWRYWVRFc1cyYkhVWmVtd1hmNW5RUk5MTTIxLVdJTkNuZVloZ1pKSEprY0FfZ1ZrYVBNQUlVZjBEVDNlNTluNWVYNUhDRTA2YlJqX1lHNnFGc3E1TzVxNmhvVEFlUDJmWnVONWhLQ19DU1FEeXBObDhzdVVzZl80NHFWLXNfR2ZEUmFtZlhRdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T13:19:00+00:00",
-      "published_raw": "Tue, 15 Sep 2026 13:19:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista programa obras e interdições de faixas em rodovias da região Votunews",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:39.276614+00:00"
-    },
-    {
-      "id": "363a4a6634e620bd84eebe31b55423d67716fa37072c85298abd09151eb707e9",
-      "title": "Ecovias Noroeste Paulista programa obras e interdições de faixas em rodovias da região - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3hCMW04SG1XQWVMbk5yaDcxbDJ6WmFEaDBJM3U1NGItSHJULUktUjZydVBtWFViVUNUS0lJdjNSRWJtRXZrWGhsUGQyWjM3MF9WZkUzZ3hoOG9YV3FjU2c3eE1iaXlULWZuWjV0X19kb3lwQ3RuSUI2RXVGR1RobjdSRGRDODFyUFBZMWNOOVpVU2JLU2NPUlhaTmw0b0gzdkh5VXhnNTYtM01QcTBZZ1BEQnk?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T12:36:00+00:00",
-      "published_raw": "Tue, 15 Sep 2026 12:36:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista programa obras e interdições de faixas em rodovias da região Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.398730+00:00"
-    },
-    {
-      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGJ2OGx0ZHBxRFBiN2VyU2tiUFdkZ1VxZ1V1R3phQ3BHcG9ORkxqdnpMLU9yazBBcHF3QjEwUnlEMVM1MzgzMV9uUDRVUkEyYVplVHFaV0tWVmt0RU9zdlZtQUFuZ3Jkak12MnoxcFYtRC1pelMwUGppc2o0dlhXelFSUU1DOXB6N1lvWWNyNGhNQnFO?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T11:40:25+00:00",
-      "published_raw": "Tue, 15 Sep 2026 11:40:25 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.398613+00:00"
-    },
-    {
-      "id": "2617b29be6f6ecf9a6cb555d126d04c73ad608878b3aac37092b34ea775a2a7f",
-      "title": "Arteris Intervias interdita marginais da SP-147 em Itapira - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkZBdEV0RWM1NDR1RkZDUU1COU82elJqVDJLWjZOQWtOQWJhTzVXVXZ3ZFR3NGhLbEhTUGkwbWxkdm83QTQyS2g1NXRreE4xeHp0dm93YTZHZXRDMDl1VUQ0TzRDTTNoNnY2QjFPT0VRREkxM0Z5RjhKbmtSb2J3OGRad3l3dE83ak5uNlhLd0tRR2RuVFdB?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T11:24:47+00:00",
-      "published_raw": "Tue, 15 Sep 2026 11:24:47 GMT",
-      "snippet": "Arteris Intervias interdita marginais da SP-147 em Itapira Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T10:44:26.408138+00:00"
+      "collected_at": "2026-09-16T13:49:09.656894+00:00"
     }
   ]
 }
