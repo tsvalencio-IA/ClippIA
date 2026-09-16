@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:47:18.049442+00:00",
+  "updated_at": "2026-09-16T23:21:57.990126+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.248484+00:00"
+      "collected_at": "2026-09-16T23:21:41.572348+00:00"
     },
     {
       "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.248744+00:00"
+      "collected_at": "2026-09-16T23:21:41.572523+00:00"
     },
     {
       "id": "a3b65ec71592b6ee67e95b92222acdea698656dbe0c5d8ca4c85fbc36f4396b9",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.254021+00:00"
+      "collected_at": "2026-09-16T23:21:41.572974+00:00"
     },
     {
       "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
@@ -111,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.254298+00:00"
+      "collected_at": "2026-09-16T23:21:41.573125+00:00"
+    },
+    {
+      "id": "b3b996c0f0531745c7edbdece8329e493d75b879df8753458a32d0bd86064795",
+      "title": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3cybF8wWHc0ZjBXNnotVS0wMVA5MG1yWEpJSFhRdi1GV3Zvbi1McW5XeC13SVZrQkZlU0l1U0U3TFJ2WEprUFNEZFN0aUR2SWJGMnRwVktIUDZ1UFFXcnBmZmFjYWktNWVMMnlpVkIxVWM1bmZFbm4yWnFVOXUzVENfeEYtTzFwZk5XUElRRUJISEh4LXRacmM1Q2FsY1dXTmlj0gGjAUFVX3lxTE9TdzJsXzBYdzRmMFc2ei1VLTAxUDkwbXJYSklIWFF2LUZXdm9uLUxxbld4LXdJVmtCRmVTSXVTRTdMUnZYSmtQU0RkU3RpRHZJYkYydHBWS0hQNnVQUVdycGZmYWNhaS01ZUwyeWlWQjFVYzVuZkVubjJacVU5dTNUQ194Ri1PMXBmTldQSVFFQkhISHgtdFpyYzVDYWxjV1dOaWM?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T09:34:13+00:00",
+      "published_raw": "Wed, 16 Sep 2026 09:34:13 GMT",
+      "snippet": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-16T23:21:43.172427+00:00"
     },
     {
       "id": "61622b647feaccab5fd9cea44a44facebcf32e8165f4c02b252c132a95155f00",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.254120+00:00"
+      "collected_at": "2026-09-16T23:21:41.573052+00:00"
     },
     {
       "id": "7d814bf835e89882a0dfe6af96c949c856112300e33849968f6838b7f45437bc",
@@ -145,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.248632+00:00"
-    },
-    {
-      "id": "af180671aee54e89429f82778b22b01df351b09a15892e4e9358e695e16b1463",
-      "title": "“Vá Seguro” reforça segurança no trânsito em Mirassol - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkh0Vk9EQy1QWmJSNjBPTThKVUtBLWZGaFNkNktFUG5hN3RKdUt5RHNrQ3UtekxPRVJMUnoyOHpHRDJBTms4Q3h2cjZNZ3JoTWV5enVaNUNleXVleGkzVHB4cTVjU3pyT3Jwd1FKUFRqWWxQMlpMUTdPOWVYbnd4dkg1WmYwaHZpNXlKMTFmYXRGTEZMT1BmZDFqVlNrcWdPQ0FMQ09xaGQ5bkFv?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-15T21:19:00+00:00",
-      "published_raw": "Tue, 15 Sep 2026 21:19:00 GMT",
-      "snippet": "“Vá Seguro” reforça segurança no trânsito em Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-16T20:47:02.254213+00:00"
+      "collected_at": "2026-09-16T23:21:41.572456+00:00"
     }
   ]
 }
