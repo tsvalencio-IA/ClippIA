@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-16T23:29:23.014877+00:00",
+  "updated_at": "2026-09-17T02:14:08.468924+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.397545+00:00"
+      "collected_at": "2026-09-17T02:13:52.571999+00:00"
     },
     {
       "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.397854+00:00"
+      "collected_at": "2026-09-17T02:13:52.572187+00:00"
     },
     {
       "id": "a3b65ec71592b6ee67e95b92222acdea698656dbe0c5d8ca4c85fbc36f4396b9",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.398618+00:00"
+      "collected_at": "2026-09-17T02:13:52.581068+00:00"
     },
     {
       "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
@@ -111,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.398870+00:00"
+      "collected_at": "2026-09-17T02:13:52.581173+00:00"
+    },
+    {
+      "id": "79334a56f2cb0aa67a4348ac0757c013c13a98ae1e100c0dee7e5b4c55ff0d3e",
+      "title": "Osorio, do São Paulo, é denunciado pelo STJD por expulsão contra o Palmeiras - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdDZtVU9zWHNtUE55MVNDYVEzVG9JbUpuYnpSOGVXRXhCTUFtcGNzQzc1ZFFjV09zYjJnZUhTMnpCeWFZYXFwa2liWGxRamY1ak9pVlBUUXVuLWlJVEpBY2hjOW85YWR3NWp5djcySnVJbTdDLUxRUlFuTlozczgwSkdiYUhjSUE4YXNLaUFFXzN0TXc0STlxVVNtaE1wdWlzRlZHM2c0YmdSRUFNTzZURlR2RlBhdmphbENURg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-16T05:34:39+00:00",
+      "published_raw": "Wed, 16 Sep 2026 05:34:39 GMT",
+      "snippet": "Osorio, do São Paulo, é denunciado pelo STJD por expulsão contra o Palmeiras Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T02:13:52.572269+00:00"
     },
     {
       "id": "61622b647feaccab5fd9cea44a44facebcf32e8165f4c02b252c132a95155f00",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.398759+00:00"
+      "collected_at": "2026-09-17T02:13:52.572351+00:00"
     },
     {
       "id": "7d814bf835e89882a0dfe6af96c949c856112300e33849968f6838b7f45437bc",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-16T23:29:05.397734+00:00"
+      "collected_at": "2026-09-17T02:13:52.572109+00:00"
     }
   ]
 }
