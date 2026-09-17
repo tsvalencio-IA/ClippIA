@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-17T08:06:53.287885+00:00",
+  "updated_at": "2026-09-17T10:51:41.334512+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 10,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,72 @@
   ],
   "items": [
     {
-      "id": "fd2a81f8e10fed3d8fad3c9bc165bd4c97abba06784509bfccfcd51700eea6a7",
-      "title": "Bets reduzem consumo e atividade econômica, diz pesquisa da USP - Radio Sanca Web TV",
+      "id": "2e91289e62c6f8886d3decf41fd52ee838d1097e51b65f41cb5e79cc4383d409",
+      "title": "Polícia Militar recupera mais de R$ 6 mil em mercadorias furtadas de supermercado em Brotas - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDBjTVJ6ZFY0TkZBWDNZYVJWZVNpa2F1dm1Ld21uYl9Ua3B2Z2FzMndnTGJrc1lISEV3MWVQR1otUjRuZU96ZGZMRTFvQWdiOW5Ba1N1dXhlTXVnRktwWVI3dGJJM1NUY0NuQ0w2Y3hfM3BSVDc0Q2JMRmh1Z0VIdFhWdVNmZGZNaVNMd2diQ0FVMnBGMlViWm1UTlZjVUREcVNCRW9FQUwxRWs0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPby1yN1hSU2lGZFA2el93OEUxZFJXZXBiX3ZPcTdVX19UTGhNdWJVMVIwUWZnelJITWZuZWNwX2N5ajZPMDAxZTFqS1pLQjVoSm5VNDI2OG9xd0JMYV9KRGZRY0tmSm1wOGs1UWNwR25idzJ4ckRfdjV3VkFxaDgzXzNIdDVlUHR0YVh0X091NGFRVXRzazRvbXI5MTBJc2pVQ01KbTZRVTNFRnNpY3BwZHJOXzNhVlM3MkljNXMzQXZySkY3NXFMcXBvUWV0QTA4?oc=5",
       "resolved_link": "",
-      "published": "2026-09-17T03:22:09+00:00",
-      "published_raw": "Thu, 17 Sep 2026 03:22:09 GMT",
-      "snippet": "Bets reduzem consumo e atividade econômica, diz pesquisa da USP Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "published": "2026-09-17T07:29:00+00:00",
+      "published_raw": "Thu, 17 Sep 2026 07:29:00 GMT",
+      "snippet": "Polícia Militar recupera mais de R$ 6 mil em mercadorias furtadas de supermercado em Brotas Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776056+00:00"
+      "collected_at": "2026-09-17T10:51:25.078897+00:00"
+    },
+    {
+      "id": "d46909b2ea7f096291079bcf8f314ca5c0afadb20ca318d04fe76a96838eb4d4",
+      "title": "Prefeitura promove Semana de Conciliação para Regularizar Débitos de Empreendedores - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUlBYXo1SFJ4dFl2VW5iWjZSV2h5Y0FhX1RBYkNRUUQ4SVJmVGxQX1ZsUU5MTFREN1RHSDFYVVNWckdweVRDRDJ6bTlmOWhDRDNPbmpJcmxFNWd6Q2Y1cDA5V0UxVXNTRkVLcGJxZWx5MHVTUUExSTJlU29wejVVdk4zdVRQamNIb3J6Ym5aMkRaZVBhM0ZoSTl4eGRDckUtSndzSGxOVFdSdXh4NDNMMWNYYzIwSE55TERmWTJqNTVaa1c3eGtIYXRJWXZXUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T07:21:57+00:00",
+      "published_raw": "Thu, 17 Sep 2026 07:21:57 GMT",
+      "snippet": "Prefeitura promove Semana de Conciliação para Regularizar Débitos de Empreendedores Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T10:51:25.078997+00:00"
+    },
+    {
+      "id": "a85c27304b3c2048c149a664bea505c813aeed9135d02d50a4909fce2ae13dc5",
+      "title": "Paróquia Nossa Senhora de Fátima promove Feijoada da Padroeira neste sábado (19) - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjNHTmh5d2NRNnN5QjI1RTRqZ3c4aGUySndxcVo2bkhHYUNPVk1YYWVvb2FoWjB0SDJXck9jOE1KZWZZWHo1a2Q3ZFlra2dDRTliV2p3YTdhV05KTVJzZFpCNm1nSnM1YnpaY1RxUlRnaG1IY2Fua0hoUXgweHhxSmxJVTZPZ2o3empER1lNeTNqXzZhektxNUpOLTctXy1PQzJfcS0xQy1aNWkxSGtiN0Vaa1FtMWpqdUR0ZkJpX1lRamtSdGNBTA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T06:47:24+00:00",
+      "published_raw": "Thu, 17 Sep 2026 06:47:24 GMT",
+      "snippet": "Paróquia Nossa Senhora de Fátima promove Feijoada da Padroeira neste sábado (19) Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T10:51:25.078946+00:00"
+    },
+    {
+      "id": "b54903200b83f33a42d6f2701c8f5b44ea2f05811926378c423d0de5076565c6",
+      "title": "São Carlos registra queda de 98% nos casos confirmados de dengue em 2026 - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUWtiS0M3enVUek9hckNQY3NyQ1hoRTlCR3VndnFNUXNNUjhQQWhBNktWV3lUOU1VZUN0Vm5JdC1BeGNlanpsaXFPRjJpSjRsT3pZMkJsUUpocWNsc05YUkUxZjVJUlF0UmsyT2lSWWI4aHdEZnZTN3R2LTJtc2FDdm1wc2hoS2lOcHl1b0hmMUFYSjBMenNtemxHV2xtZWJraEtpUFctTlZzUTY2dU00bmVuTDBIVjNHN0VVNEVxTXppUkhJdlhySVkzWEE5clFqZWhON1E0X1ZCMW5WUVFpVmpyUllLQUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T06:13:48+00:00",
+      "published_raw": "Thu, 17 Sep 2026 06:13:48 GMT",
+      "snippet": "São Carlos registra queda de 98% nos casos confirmados de dengue em 2026 Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T10:51:25.078282+00:00"
     },
     {
       "id": "8bdd7529b681b6e6bcb1d097a7d4ea174dc967bf185513ee9d6a3828b6356686",
@@ -77,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776368+00:00"
-    },
-    {
-      "id": "cd1c74eb29e240c3a21071c58371d2dedebba815e9263a3daaf01231625f09b2",
-      "title": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTB1Q2dZRE82TDMxcXB3RTlvb3phX3ZjQU52QnlLcjZmVzRwOVVsODh6NGFfcTUySWtKR1FqZnB5NFJSNnhwOU5SQ3pBSVF4NzZ2d1prRm83ZWJVUEkyOW9ONFdQeURmTU9mdHBUMzZwSF9Nd2lfU2VqdWZjckpFcHJUVjVpMVpCN25nd08yQ3N4Y0ZESU5scFJwbGVFeGNpcS1SWndhM2lpdmxLWG1uOU1fbHE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T03:12:49+00:00",
-      "published_raw": "Thu, 17 Sep 2026 03:12:49 GMT",
-      "snippet": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776213+00:00"
+      "collected_at": "2026-09-17T10:51:25.079044+00:00"
     },
     {
       "id": "f9f5163931815dffee533c6a91cc4002b8db007e89882d46ad7e2ac2f88b913e",
@@ -111,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776296+00:00"
-    },
-    {
-      "id": "1b93f7bff7308ddbfbbfd4d7431059f0ed8cd90f308d7a93b7ea102696f817b8",
-      "title": "Trabalho social da Gaia+ em Piracicaba conta com apoio da Eixo SP - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcERLWFZ0NjdxaS1WZmZtMW4zel8zdnRqcWhUcVlZeFpYZ2pNdUJnR2lGNEVwUHR6OWdGZl9leTd1UHlydjQtN09aM2tHQUpaWV9KYnMwWFNBVTN2aDczbnd5TWVYd29ZNnhTVmlDc3kxR1VYVkhVNzUtblpFSHVGc3ZHT1JpRTd4YjlFb25rX1ByYkVHQmFOX1V5Z2cwdGI4dWxIMUlJeVRITXNaUXRHYnpSeENGS2RR?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T03:01:52+00:00",
-      "published_raw": "Thu, 17 Sep 2026 03:01:52 GMT",
-      "snippet": "Trabalho social da Gaia+ em Piracicaba conta com apoio da Eixo SP Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.775482+00:00"
+      "collected_at": "2026-09-17T10:51:25.078842+00:00"
     },
     {
       "id": "ca364fac5df0d0d460b88f459141a2c34e847a032d1add6769f19627d4525e57",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.775308+00:00"
+      "collected_at": "2026-09-17T10:51:25.078160+00:00"
     },
     {
       "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.775400+00:00"
+      "collected_at": "2026-09-17T10:51:25.078224+00:00"
     },
     {
       "id": "a3b65ec71592b6ee67e95b92222acdea698656dbe0c5d8ca4c85fbc36f4396b9",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.775966+00:00"
+      "collected_at": "2026-09-17T10:51:25.078778+00:00"
     },
     {
       "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
@@ -196,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776443+00:00"
-    },
-    {
-      "id": "b3b996c0f0531745c7edbdece8329e493d75b879df8753458a32d0bd86064795",
-      "title": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3cybF8wWHc0ZjBXNnotVS0wMVA5MG1yWEpJSFhRdi1GV3Zvbi1McW5XeC13SVZrQkZlU0l1U0U3TFJ2WEprUFNEZFN0aUR2SWJGMnRwVktIUDZ1UFFXcnBmZmFjYWktNWVMMnlpVkIxVWM1bmZFbm4yWnFVOXUzVENfeEYtTzFwZk5XUElRRUJISEh4LXRacmM1Q2FsY1dXTmlj0gGjAUFVX3lxTE9TdzJsXzBYdzRmMFc2ei1VLTAxUDkwbXJYSklIWFF2LUZXdm9uLUxxbld4LXdJVmtCRmVTSXVTRTdMUnZYSmtQU0RkU3RpRHZJYkYydHBWS0hQNnVQUVdycGZmYWNhaS01ZUwyeWlWQjFVYzVuZkVubjJacVU5dTNUQ194Ri1PMXBmTldQSVFFQkhISHgtdFpyYzVDYWxjV1dOaWM?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-16T09:34:13+00:00",
-      "published_raw": "Wed, 16 Sep 2026 09:34:13 GMT",
-      "snippet": "Mega-Sena acumula e prêmio chega a R$ 102 milhões; confira as dezenas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T08:06:37.776140+00:00"
-    },
-    {
-      "id": "02d14f9448b012562cd2965702a37873ce53b7462b9153001e3cab659f675647",
-      "title": "Devastação na Amazônia pode quebrar maior \"máquina de chuva\" do mundo - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXM5UGFBUTVlT2NrZFBZQ0RWekRaam9wakVOTlJiR29fRW51ekZEbTkzcEFyTllFeGh6cTlhMmFXZWJpdmhVWTB2c2tSZllzYk1hRjNkU2lCUHZNS2VnV3ltb2dBR1l6c1RGYkd0WUdRQVhheVRoa2dOaU9vcEd4MGd6aENwY2NjMUhTN3NPRHFXNzQwVGNkWW1qeDVHMXhpNFhQSkpGbW1oVFA3Szl6TDRQOA?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-16T08:15:05+00:00",
-      "published_raw": "Wed, 16 Sep 2026 08:15:05 GMT",
-      "snippet": "Devastação na Amazônia pode quebrar maior \"máquina de chuva\" do mundo Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T08:06:39.305540+00:00"
+      "collected_at": "2026-09-17T10:51:25.079095+00:00"
     }
   ]
 }
