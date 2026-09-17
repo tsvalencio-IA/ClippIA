@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:53:46.248491+00:00",
+  "updated_at": "2026-09-17T16:06:33.892193+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "92dc1f3e93ce179af8793a04ffb8fbf0dbd3191f312a85cc14cb3095be405140",
+      "title": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento - Agência iNFRA",
+      "source": "Agência iNFRA",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1R1T1RwYUozb2J4b1dxalFnbVR4WDBVVFBRdTkwVzdhYzdITGZLdnRuT0NMOTZaTXUtVHM1bkphRWNuQW50RXNWZDNNd1RlNUZkejFBS3ZGcktOVWhfcGlIaFZBX0NEa1Z4Q3RzMkp2eDE4UmwwU1hZOVhkS29kNTZTWUxIZkw2b3hFdER3Wm9ZWEIwOGlDRjZPcDNjUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T14:58:53+00:00",
+      "published_raw": "Thu, 17 Sep 2026 14:58:53 GMT",
+      "snippet": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento Agência iNFRA",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T16:06:18.161031+00:00"
+    },
+    {
       "id": "f49ae659f256d811ce99b9893b501ed856ac05b635cd3ec5b12c8d80bc607eef",
       "title": "Tecnologia HS-WIM: veja como sistema pesa caminhões em movimento - Surgiu",
       "source": "Surgiu",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.598283+00:00"
+      "collected_at": "2026-09-17T16:06:18.161769+00:00"
     },
     {
       "id": "2e91289e62c6f8886d3decf41fd52ee838d1097e51b65f41cb5e79cc4383d409",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596645+00:00"
+      "collected_at": "2026-09-17T16:06:18.161472+00:00"
     },
     {
       "id": "d46909b2ea7f096291079bcf8f314ca5c0afadb20ca318d04fe76a96838eb4d4",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.597961+00:00"
+      "collected_at": "2026-09-17T16:06:18.161627+00:00"
     },
     {
       "id": "a85c27304b3c2048c149a664bea505c813aeed9135d02d50a4909fce2ae13dc5",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596995+00:00"
+      "collected_at": "2026-09-17T16:06:18.161551+00:00"
     },
     {
       "id": "b54903200b83f33a42d6f2701c8f5b44ea2f05811926378c423d0de5076565c6",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596457+00:00"
+      "collected_at": "2026-09-17T16:06:18.161231+00:00"
     },
     {
       "id": "8bdd7529b681b6e6bcb1d097a7d4ea174dc967bf185513ee9d6a3828b6356686",
@@ -145,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.598146+00:00"
-    },
-    {
-      "id": "cd1c74eb29e240c3a21071c58371d2dedebba815e9263a3daaf01231625f09b2",
-      "title": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTB1Q2dZRE82TDMxcXB3RTlvb3phX3ZjQU52QnlLcjZmVzRwOVVsODh6NGFfcTUySWtKR1FqZnB5NFJSNnhwOU5SQ3pBSVF4NzZ2d1prRm83ZWJVUEkyOW9ONFdQeURmTU9mdHBUMzZwSF9Nd2lfU2VqdWZjckpFcHJUVjVpMVpCN25nd08yQ3N4Y0ZESU5scFJwbGVFeGNpcS1SWndhM2lpdmxLWG1uOU1fbHE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T03:12:49+00:00",
-      "published_raw": "Thu, 17 Sep 2026 03:12:49 GMT",
-      "snippet": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.597807+00:00"
+      "collected_at": "2026-09-17T16:06:18.161703+00:00"
     },
     {
       "id": "f9f5163931815dffee533c6a91cc4002b8db007e89882d46ad7e2ac2f88b913e",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596831+00:00"
+      "collected_at": "2026-09-17T16:06:18.161364+00:00"
     },
     {
       "id": "ca364fac5df0d0d460b88f459141a2c34e847a032d1add6769f19627d4525e57",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596109+00:00"
+      "collected_at": "2026-09-17T16:06:18.160916+00:00"
     },
     {
       "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T13:53:30.596293+00:00"
+      "collected_at": "2026-09-17T16:06:18.161130+00:00"
     }
   ]
 }
