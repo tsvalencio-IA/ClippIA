@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T10:51:41.334512+00:00",
+  "updated_at": "2026-09-17T13:53:46.248491+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 10,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "f49ae659f256d811ce99b9893b501ed856ac05b635cd3ec5b12c8d80bc607eef",
+      "title": "Tecnologia HS-WIM: veja como sistema pesa caminhões em movimento - Surgiu",
+      "source": "Surgiu",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0MtVmI5OXJhZ2U2UDdOaFJqT19TcUIwU0c1eHFRUVV2MjktTWFZQ0t4R0pjcFJzMzRXbWViRnNaZ1JfY2JvWmJKM3lqUVk1VHVQdDVISmhRM284MnVDcEpocWFJLTFZSU1rRW1DMG5MX2dqYVg1a2VCRDR4OUcxVVBoSm9uYk04ZS1TODRxOXF0Sk9BSDV5Q25qNmJpRmJqVVhmdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T13:33:00+00:00",
+      "published_raw": "Thu, 17 Sep 2026 13:33:00 GMT",
+      "snippet": "Tecnologia HS-WIM: veja como sistema pesa caminhões em movimento Surgiu",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T13:53:30.598283+00:00"
+    },
+    {
       "id": "2e91289e62c6f8886d3decf41fd52ee838d1097e51b65f41cb5e79cc4383d409",
       "title": "Polícia Militar recupera mais de R$ 6 mil em mercadorias furtadas de supermercado em Brotas - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078897+00:00"
+      "collected_at": "2026-09-17T13:53:30.596645+00:00"
     },
     {
       "id": "d46909b2ea7f096291079bcf8f314ca5c0afadb20ca318d04fe76a96838eb4d4",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078997+00:00"
+      "collected_at": "2026-09-17T13:53:30.597961+00:00"
     },
     {
       "id": "a85c27304b3c2048c149a664bea505c813aeed9135d02d50a4909fce2ae13dc5",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078946+00:00"
+      "collected_at": "2026-09-17T13:53:30.596995+00:00"
     },
     {
       "id": "b54903200b83f33a42d6f2701c8f5b44ea2f05811926378c423d0de5076565c6",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078282+00:00"
+      "collected_at": "2026-09-17T13:53:30.596457+00:00"
     },
     {
       "id": "8bdd7529b681b6e6bcb1d097a7d4ea174dc967bf185513ee9d6a3828b6356686",
@@ -128,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.079044+00:00"
+      "collected_at": "2026-09-17T13:53:30.598146+00:00"
+    },
+    {
+      "id": "cd1c74eb29e240c3a21071c58371d2dedebba815e9263a3daaf01231625f09b2",
+      "title": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTB1Q2dZRE82TDMxcXB3RTlvb3phX3ZjQU52QnlLcjZmVzRwOVVsODh6NGFfcTUySWtKR1FqZnB5NFJSNnhwOU5SQ3pBSVF4NzZ2d1prRm83ZWJVUEkyOW9ONFdQeURmTU9mdHBUMzZwSF9Nd2lfU2VqdWZjckpFcHJUVjVpMVpCN25nd08yQ3N4Y0ZESU5scFJwbGVFeGNpcS1SWndhM2lpdmxLWG1uOU1fbHE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T03:12:49+00:00",
+      "published_raw": "Thu, 17 Sep 2026 03:12:49 GMT",
+      "snippet": "Samba com Teroca é destaque na Feira Aqa Criativa deste sábado (19) Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-17T13:53:30.597807+00:00"
     },
     {
       "id": "f9f5163931815dffee533c6a91cc4002b8db007e89882d46ad7e2ac2f88b913e",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078842+00:00"
+      "collected_at": "2026-09-17T13:53:30.596831+00:00"
     },
     {
       "id": "ca364fac5df0d0d460b88f459141a2c34e847a032d1add6769f19627d4525e57",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078160+00:00"
+      "collected_at": "2026-09-17T13:53:30.596109+00:00"
     },
     {
       "id": "3e2ee86381a159c05117816b3dc57acedf3b05fbff58eb1cd0b0e0bf1b221888",
@@ -179,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078224+00:00"
-    },
-    {
-      "id": "a3b65ec71592b6ee67e95b92222acdea698656dbe0c5d8ca4c85fbc36f4396b9",
-      "title": "Porpetone traz “Epidemia de Risos” a São Carlos neste sábado com stand-up e imitações - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTV2QVFiMndRUUdFTENNUDVON0R2MXBZaXp3V0NlM1FfTXBzVktzZ3p5WEczYmdqTG1XRVdyTFlRUFVWODNLdlkyMkRWZVo1dU5MZ1AxQ0k4cXZ5LVZqdTFZTk9VUWN0QVVOeEJKTlNlVnNlc1VxbDN1U3FMZTBxbDc2ZWVONG9vMVA0Mk04OW1sNlprRklOYVpBY1pwMnpXM0U2cHB6QVYydVFlUXBqa00wM3pHbDBq0gG4AUFVX3lxTE4tNXZBUWIyd1FRR0VMQ01QNU43RHYxcFlpendXQ2UzUV9NcHNWS3NnenlYRzNiZ2pMbVdFV3JMWVFQVVY4M0t2WTIyRFZlWjV1TkxnUDFDSThxdnktVmp1MVlOT1VRY3RBVU54QkpOU2VWc2VzVXFsM3VTcUxlMHFsNzZlZU40b28xUDQyTTg5bWw2WmtGSU5hWkFjWnAyelczRTZwcHpBVjJ1UWVRcGprTTAzekdsMGo?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-16T12:13:25+00:00",
-      "published_raw": "Wed, 16 Sep 2026 12:13:25 GMT",
-      "snippet": "Porpetone traz “Epidemia de Risos” a São Carlos neste sábado com stand-up e imitações - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.078778+00:00"
-    },
-    {
-      "id": "b0c8a221afcff8ef01a705568bf781ee6ffa20945194cfc8a320f0a629f81cde",
-      "title": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1FGUTk1Q1h3OVI5Y0lmYnYzNEhmRVVlN1E2OG5XSE5DSlhneG41V2RGU29LTmtyR3VUMi0xVGgxbXZ0Qk0zYVhLd3Q3WDgwZmljbWduRWRvSWRlUUV0aG9EYVVUY0c5dnRUZzBLbnAwWXg0TUs2Z2hhUTREcUJUSVdSRnQ3aGFBeXJfRDEtYjY0TzJKczdvbkdqckd3Y2J6LURJdWpYSkdmUi1SZE84WEotZmJKYWs5Y1E3MHJaaHpQRFVXT0tHakpJYW16UEXSAc8BQVVfeXFMTmtRRlE5NUNYdzlSOWNJZmJ2MzRIZkVVZTdRNjhuV0hOQ0pYZ3huNVdkRlNvS05rckd1VDItMVRoMW12dEJNM2FYS3d0N1g4MGZpY21nbkVkb0lkZVFFdGhvRGFVVGNHOXZ0VGcwS25wMFl4NE1LNmdoYVE0RHFCVElXUkZ0N2hhQXlyX0QxLWI2NE8ySnM3b25HanJHd2Niei1ESXVqWEpHZlItUmRPOFhKLWZiSmFrOWNRNzByWmh6UERVV09LR2pKSWFtelBF?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-16T11:53:28+00:00",
-      "published_raw": "Wed, 16 Sep 2026 11:53:28 GMT",
-      "snippet": "Homem é encontrado morto com ferimento na cabeça às margens da Washington Luís em Mirassol gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-17T10:51:25.079095+00:00"
+      "collected_at": "2026-09-17T13:53:30.596293+00:00"
     }
   ]
 }
