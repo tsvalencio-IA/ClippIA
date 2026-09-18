@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-18T18:01:11.029198+00:00",
+  "updated_at": "2026-09-18T20:14:09.370706+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 8,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "698651ac104155d2ac3818b18cdf9cabb362b6edc39ace9c9b372e709284802c",
+      "title": "Alça de acesso à Avenida Fernando Bonvino é fechada para obras - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXJLMVA3dTk1a2hLTl9MV2NCU0wtVGlNZzRuOE82ZTBKb2tnTWdqQnZTY3VBdGxYWVdPUjJRQkdvbVliZGZpQjhfYTFxeXp0RTJfYXRnS1BKTjFLYng0eEJIOW9hT3N2WUM1SkREVDZ2WTl1LWh1VlNaZDhyTVI3aXVjcHhrMTlhQmN6cmZvaHJGR3Fnbjc0VEtNQ1ZOUmph?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T18:14:24+00:00",
+      "published_raw": "Fri, 18 Sep 2026 18:14:24 GMT",
+      "snippet": "Alça de acesso à Avenida Fernando Bonvino é fechada para obras Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-18T20:13:53.637800+00:00"
+    },
+    {
+      "id": "07a6a927988f9a73d1eb6b3d0ed5be9774f777564123a6a5f56564a867daa245",
+      "title": "Alça de acesso à Washington Luís pela Av. Fernando Bonvino será fechada em Rio Preto - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmZLUnE2dkd1cnNmY2p2Qy14MjlyS2JvTTJaQ0Y3UHQzTl9xZ0ZQQ19NMHpSR0ZRQ3d2Z19ZY0gzSXNBdFBXOUd4QjBfeGpFUFNtTXlUNzJkZmxaWTNoUG9vSEF5Y0NsVm5pZi1sdGNFb2Z2YnJqdjc3N2ZsTzVNWTJVZ3FrY3BkRHNWQVZ4LWpRcDdOc1Z6RTJvdXJ6QkFTV0ZSQnhncC15eWVtcEFyNnFkMHp2ZWIwTG9DMERn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T18:06:13+00:00",
+      "published_raw": "Fri, 18 Sep 2026 18:06:13 GMT",
+      "snippet": "Alça de acesso à Washington Luís pela Av. Fernando Bonvino será fechada em Rio Preto gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-18T20:13:53.638111+00:00"
+    },
+    {
       "id": "db1b5f9042d620881d72d9b974156b10a0e022314ea042adb28721b3438087d1",
       "title": "EcoRodovias amplia fiscalização com 16 novas balanças em 4 estados - Portal BE News",
       "source": "Portal BE News",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.300038+00:00"
+      "collected_at": "2026-09-18T20:13:53.637729+00:00"
     },
     {
       "id": "3acf3343c32c4d15639897e428c63788531646f205a5efa6ed5fa9100036c780",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.300122+00:00"
+      "collected_at": "2026-09-18T20:13:53.637881+00:00"
     },
     {
       "id": "e2db8299935139c2391a55eabe38783354755f15e68dcda370073de6bd2fa4c9",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.299861+00:00"
+      "collected_at": "2026-09-18T20:13:53.637557+00:00"
     },
     {
       "id": "9518e4f5bc5234780cb5477c8f378248698250f2f8c753a03e4b2f3a97274f00",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.299958+00:00"
+      "collected_at": "2026-09-18T20:13:53.637653+00:00"
     },
     {
       "id": "b9f3cb5fdfcedb9416894644370470dea99a9b10a4c4548136b7abe87b5d7801",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.300292+00:00"
+      "collected_at": "2026-09-18T20:13:53.638041+00:00"
     },
     {
       "id": "9fa183f7c5895fbc3b46c8b6eec38bb299e4a278408b09c8f80514dc1dfd08d9",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T18:00:54.300215+00:00"
+      "collected_at": "2026-09-18T20:13:53.637968+00:00"
     }
   ]
 }
