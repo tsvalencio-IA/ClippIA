@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-18T07:41:42.201746+00:00",
+  "updated_at": "2026-09-18T07:55:09.082770+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 5,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.820764+00:00"
+      "collected_at": "2026-09-18T07:54:52.889409+00:00"
     },
     {
       "id": "92dc1f3e93ce179af8793a04ffb8fbf0dbd3191f312a85cc14cb3095be405140",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.820606+00:00"
+      "collected_at": "2026-09-18T07:54:52.889302+00:00"
     },
     {
       "id": "f49ae659f256d811ce99b9893b501ed856ac05b635cd3ec5b12c8d80bc607eef",
@@ -94,41 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.821250+00:00"
-    },
-    {
-      "id": "b634e00d11326eea958d07499249305de126bc3fdf1fae96cee7958b2055d7d0",
-      "title": "Presença negra em São Carlos no pós-abolição é tema de palestra na OAB nesta sexta-feira - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWxCS1hQb3phcERiOXVhRG9WRjJlQWRtbzNkcy1DQ1pZRHlGY3l2R24tcnMyeEhtMFdQY1Q3OFVxLW55MWs0TnBySUFNbm1PLVU5Z25HUDRzWkdrVFdIZ3JnZWtpMXlTWDNVdlRHU2RDN1Rrdm5qZ2FESFNDN2thQUpra1lyR0tENDd1WXNfdkZCM1NZN2dGUldjSlhOcHJPV1ZYQnJHUXhfX2tka0dBNjVQTVpxVkg0MTl5eFY0RjZwd3p1Q18wWEQ4VmNBd0V5RW16SGdn?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T10:04:30+00:00",
-      "published_raw": "Thu, 17 Sep 2026 10:04:30 GMT",
-      "snippet": "Presença negra em São Carlos no pós-abolição é tema de palestra na OAB nesta sexta-feira Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.820891+00:00"
-    },
-    {
-      "id": "2e91289e62c6f8886d3decf41fd52ee838d1097e51b65f41cb5e79cc4383d409",
-      "title": "Polícia Militar recupera mais de R$ 6 mil em mercadorias furtadas de supermercado em Brotas - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPby1yN1hSU2lGZFA2el93OEUxZFJXZXBiX3ZPcTdVX19UTGhNdWJVMVIwUWZnelJITWZuZWNwX2N5ajZPMDAxZTFqS1pLQjVoSm5VNDI2OG9xd0JMYV9KRGZRY0tmSm1wOGs1UWNwR25idzJ4ckRfdjV3VkFxaDgzXzNIdDVlUHR0YVh0X091NGFRVXRzazRvbXI5MTBJc2pVQ01KbTZRVTNFRnNpY3BwZHJOXzNhVlM3MkljNXMzQXZySkY3NXFMcXBvUWV0QTA4?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T10:04:30+00:00",
-      "published_raw": "Thu, 17 Sep 2026 10:04:30 GMT",
-      "snippet": "Polícia Militar recupera mais de R$ 6 mil em mercadorias furtadas de supermercado em Brotas Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.821015+00:00"
+      "collected_at": "2026-09-18T07:54:52.889593+00:00"
     },
     {
       "id": "2ef2ee498dc82d2a3a53e316540207e40596b8477d8323577ec27bf559330b44",
@@ -139,13 +105,13 @@
       "published": "2026-09-17T09:52:27+00:00",
       "published_raw": "Thu, 17 Sep 2026 09:52:27 GMT",
       "snippet": "Loyle Carner desembarca no Brasil pela primeira vez para show único em São Paulo Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:41:25.540539+00:00"
+      "collected_at": "2026-09-18T07:54:52.889543+00:00"
     },
     {
       "id": "a68f40a957584ee90f456895b1d677e78820254d7166d829c57bfbd0101359ca",
@@ -156,30 +122,13 @@
       "published": "2026-09-17T08:45:34+00:00",
       "published_raw": "Thu, 17 Sep 2026 08:45:34 GMT",
       "snippet": "Semana da Cidadania LGBTQIAPN+ retoma programação com debates cultura e ações de conscientização Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T07:41:25.540475+00:00"
-    },
-    {
-      "id": "489aaa409128d5ed769e8d6f7097bf8652923ebb1939dba360d61fb80272f343",
-      "title": "Prefeitura formaliza participação na etapa inicial do Distrito de Inovação do Estado - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc0NHNVBtZjVKQkhyTlEtN04xdzFUU3had0Z1c3VZX2IzbnZpTVlJaEpOX1J6aEZDcVVHcF92bVV6S0laclQ3RW42LXpKVWFfUFlTVjRjVGxROENJVkJKNFRHUXNfZnRHQjZuTHU1eUlQLVAtVk5kVlBDZ2tFY1hZVzZfN2ROZ2xSNjlYTi1Ga0NUTURDeU5GTHhKYkN4SUZ6RGVaMVczcVlIcE5aNHZ1Z2NFaXNwWmNiazdBTW0xT1NWY3pQOWdMY3BaSnphRTA?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T07:53:44+00:00",
-      "published_raw": "Thu, 17 Sep 2026 07:53:44 GMT",
-      "snippet": "Prefeitura formaliza participação na etapa inicial do Distrito de Inovação do Estado Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:41:23.821156+00:00"
+      "collected_at": "2026-09-18T07:54:52.889481+00:00"
     }
   ]
 }
