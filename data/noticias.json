@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T13:13:58.872968+00:00",
+  "updated_at": "2026-09-18T13:19:45.442179+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T13:13:41.203692+00:00"
+      "collected_at": "2026-09-18T13:19:29.206887+00:00"
     },
     {
       "id": "145a34a6875390cd3d69790b41b470aa923a6b03d1362ea46677033dad71b5c4",
@@ -77,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T13:13:41.203757+00:00"
+      "collected_at": "2026-09-18T13:19:29.206934+00:00"
     },
     {
-      "id": "857beb5dea589d5acefae065a71b73e53a743f6832c3b583f43bd92b904a1854",
-      "title": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento - agenciainfra.com",
-      "source": "agenciainfra.com",
+      "id": "92dc1f3e93ce179af8793a04ffb8fbf0dbd3191f312a85cc14cb3095be405140",
+      "title": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento - Agência iNFRA",
+      "source": "Agência iNFRA",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1R1T1RwYUozb2J4b1dxalFnbVR4WDBVVFBRdTkwVzdhYzdITGZLdnRuT0NMOTZaTXUtVHM1bkphRWNuQW50RXNWZDNNd1RlNUZkejFBS3ZGcktOVWhfcGlIaFZBX0NEa1Z4Q3RzMkp2eDE4UmwwU1hZOVhkS29kNTZTWUxIZkw2b3hFdER3Wm9ZWEIwOGlDRjZPcDNjUQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-17T14:58:53+00:00",
       "published_raw": "Thu, 17 Sep 2026 14:58:53 GMT",
-      "snippet": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento agenciainfra.com",
+      "snippet": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento Agência iNFRA",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T13:13:41.203609+00:00"
+      "collected_at": "2026-09-18T13:19:29.206825+00:00"
     },
     {
       "id": "f49ae659f256d811ce99b9893b501ed856ac05b635cd3ec5b12c8d80bc607eef",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T13:13:41.203809+00:00"
+      "collected_at": "2026-09-18T13:19:29.206972+00:00"
     }
   ]
 }
