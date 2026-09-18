@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-18T22:54:29.473460+00:00",
+  "updated_at": "2026-09-18T22:58:21.012252+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 16,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "c0c6481197a83c17b27422c1d968b1430d81f863c7afde5f1056332c2c6b1f7e",
-      "title": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) - estradas.com.br",
-      "source": "estradas.com.br",
+      "id": "d08d147538739ae7090eeee6fa0adfe0625c62ce594afce53e3ac82221d15321",
+      "title": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) - Estradas",
+      "source": "Estradas",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGFrQjJwUTNOX3Q3aU51MURkUU5FRTdOZThXMlk5TmxqaVZKTmk0ZVNtVTFaaDAzS05DNEFFajlpTG1lSV9kb0t5UzRCbVg3WVpHWENaVGg4Q2pBbUJkOHlNWThhVGVHYXBIZ1hQNW5rbjliWHhBSzczdXpSMVJlS1ZiN19nanMxb1RnTDR3TEtiNy1PRDZjckZyLUlXVkN1ZjE3Rw?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T22:01:58+00:00",
       "published_raw": "Fri, 18 Sep 2026 22:01:58 GMT",
-      "snippet": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) estradas.com.br",
+      "snippet": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) Estradas",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717849+00:00"
+      "collected_at": "2026-09-18T22:58:05.011281+00:00"
     },
     {
       "id": "ecf9c69a5e56772bb9570c2fa9406ead7a67b512f551f7aaf7a1662578b51ccd",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717968+00:00"
+      "collected_at": "2026-09-18T22:58:05.011612+00:00"
+    },
+    {
+      "id": "012ab2ad03e96b3dd2abf1d18c84d6d784201346ac1bdaa5c6521c27cdb4e911",
+      "title": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUksyWUtuSVg4RzJLQl9fWkl0b0tBa2hCMUJfSG90dEd2dzlKM1d3TnBtbmQ5eHZDRDV2NFVieklxQUVUa0dmTDQwRVFCaEVvWE1uSUltcWZEeVQwR2IzdFgzenAydjBncWVGcGtXVHFxSFBVVGZoY2NWMzFIaHkzSGVQajN1UTRKYTlYeDFWMDdjRWlyZVRhcG5mQdIBmwFBVV95cUxOUksyWUtuSVg4RzJLQl9fWkl0b0tBa2hCMUJfSG90dEd2dzlKM1d3TnBtbmQ5eHZDRDV2NFVieklxQUVUa0dmTDQwRVFCaEVvWE1uSUltcWZEeVQwR2IzdFgzenAydjBncWVGcGtXVHFxSFBVVGZoY2NWMzFIaHkzSGVQajN1UTRKYTlYeDFWMDdjRWlyZVRhcG5mQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T20:17:27+00:00",
+      "published_raw": "Fri, 18 Sep 2026 20:17:27 GMT",
+      "snippet": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-18T22:58:15.145580+00:00"
     },
     {
       "id": "44665ab11d7443aff4630730eb32fe8fda5987b145ca2a16cd19f8dab17c2519",
@@ -88,13 +105,13 @@
       "published": "2026-09-18T20:05:23+00:00",
       "published_raw": "Fri, 18 Sep 2026 20:05:23 GMT",
       "snippet": "Mbappé encerra parceria de 20 anos com a Nike e será estrela da entrada da On no futebol - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "term": "\"Ecovias Noroeste\" reajuste",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:22.827739+00:00"
+      "collected_at": "2026-09-18T22:58:14.560431+00:00"
     },
     {
       "id": "24182a332b7d99231cdd0e7409a3796dbb7541c52a6b021a02673e73854094dc",
@@ -105,13 +122,13 @@
       "published": "2026-09-18T20:05:22+00:00",
       "published_raw": "Fri, 18 Sep 2026 20:05:22 GMT",
       "snippet": "MP junto ao TCU pede suspensão do reajuste de 15% do Bolsa Família anunciado por Lula - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:22.827650+00:00"
+      "collected_at": "2026-09-18T22:58:05.011526+00:00"
     },
     {
       "id": "698651ac104155d2ac3818b18cdf9cabb362b6edc39ace9c9b372e709284802c",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:23.449968+00:00"
+      "collected_at": "2026-09-18T22:58:15.145271+00:00"
     },
     {
       "id": "07a6a927988f9a73d1eb6b3d0ed5be9774f777564123a6a5f56564a867daa245",
@@ -145,24 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.718006+00:00"
+      "collected_at": "2026-09-18T22:58:05.011718+00:00"
     },
     {
-      "id": "7b58baa2f8913e6c683e3354d59fc7afb71d84c65ed667798ba14e5295d89fc3",
-      "title": "Estudo avalia possível relação entre obesidade e relações agressivas - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "ffb8930596bb670792678c397f1bb31a87dfb08785138d679132b14358b62d85",
+      "title": "Estudo avalia possível relação entre obesidade e relações agressivas - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0EwTHo4a2FhNFM0RXhFY2l4ZGw1QThaTXgxeDlIOWRvb2Jkb2FhSlZNdmpjY3hwVFVfclB4Qzh5NVBWd0NvbEVCUmNvUFBmNnpJeXdhNjNTeHFaSkxpWHNiU3d2ZHBuUjdjekl1dFllWHRITk1FZXBJQnczUjBTYUNTQTlQZnRBc1ZDZVdUaktOend1SW9xdS1aRDc3ck5pRUdpNElRRXl4QkNNZ3g2cnpzUkxOTTNsaEZvWQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T17:37:35+00:00",
       "published_raw": "Fri, 18 Sep 2026 17:37:35 GMT",
-      "snippet": "Estudo avalia possível relação entre obesidade e relações agressivas saocarlosdiaenoite.com.br",
+      "snippet": "Estudo avalia possível relação entre obesidade e relações agressivas Portal SCDN - Porque a informação não para!",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717925+00:00"
+      "collected_at": "2026-09-18T22:58:05.011442+00:00"
     },
     {
       "id": "5052dde01eef403a1175a88cd954bd60c1aeda69b861979217d4424f07c633d1",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717806+00:00"
+      "collected_at": "2026-09-18T22:58:05.011196+00:00"
     },
     {
       "id": "db1b5f9042d620881d72d9b974156b10a0e022314ea042adb28721b3438087d1",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717887+00:00"
+      "collected_at": "2026-09-18T22:58:05.011356+00:00"
     },
     {
       "id": "3acf3343c32c4d15639897e428c63788531646f205a5efa6ed5fa9100036c780",
@@ -213,24 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:25.073949+00:00"
+      "collected_at": "2026-09-18T22:58:16.794388+00:00"
     },
     {
-      "id": "ef2edecec2236a92dea56737b2e9d5b49334c0e33215dfab6fa3daef6ac2623e",
-      "title": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "818f94fa1e91a81c3ba0cbb2073dc82dac447f507c10774b1579e0bfd109f0fd",
+      "title": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHotYnFmejhTWlo2czh0VlVOTEF1YlJVWExPejRuMUp1Z3FhSEUxRTBjU0dvOWZ0NTE4am5KeGtyZUdXek9BNUF5Yi1zR0ZYb3ZNb2hYTHFmb01wRXRhRFp0YjRlQ2VwWTJVa3hpZUIzSkdOVkpDY1Y5ZWZhNWVnNWR4N0Jwb3RicXRWSm9HdWpYRGoxenNGWmQ1ZEdBWkE5azhXUHhGM2pvRXRDS3BzblNxMGxIMUQ1ZnF5d1ZIVQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T14:08:58+00:00",
       "published_raw": "Fri, 18 Sep 2026 14:08:58 GMT",
-      "snippet": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação saocarlosdiaenoite.com.br",
+      "snippet": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação Portal SCDN - Porque a informação não para!",
       "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:23.989561+00:00"
+      "collected_at": "2026-09-18T22:58:15.694200+00:00"
     },
     {
       "id": "e2db8299935139c2391a55eabe38783354755f15e68dcda370073de6bd2fa4c9",
@@ -247,24 +264,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:12.717748+00:00"
+      "collected_at": "2026-09-18T22:58:05.011088+00:00"
     },
     {
-      "id": "9d963a2211b2d5c4ba17c99e4809c99a335ba122775c77da72c60ffc9679ac20",
-      "title": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação - jornalpp.com.br",
-      "source": "jornalpp.com.br",
+      "id": "9518e4f5bc5234780cb5477c8f378248698250f2f8c753a03e4b2f3a97274f00",
+      "title": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTdfM1N3YXl6SzRsczcyNGlMYmZIbjdYY0hMdDUyWDc0cTh6SmR5TGhNZFROVVA3VVB5eVlKVnNQZlYyT1dEdUlsbGFISHlKTnV3NVZ0dWNZeDNZZlJYTlFPRW9jM1U5XzdHV1hjcUc3R1o2T2VjLV9Xc2JTaktCQjBQa3lDSjVTRURIMlcyeXdOUkdXcU02NzFNUGNtNDJrVHItdV95ak84X1k4TzNOU1FPRlg3TXc?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T12:26:23+00:00",
       "published_raw": "Fri, 18 Sep 2026 12:26:23 GMT",
-      "snippet": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação jornalpp.com.br",
+      "snippet": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação Jornal Primeira Página",
       "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:24.519037+00:00"
+      "collected_at": "2026-09-18T22:58:16.239467+00:00"
     },
     {
       "id": "b9f3cb5fdfcedb9416894644370470dea99a9b10a4c4548136b7abe87b5d7801",
@@ -281,7 +298,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:54:25.073990+00:00"
+      "collected_at": "2026-09-18T22:58:16.794463+00:00"
+    },
+    {
+      "id": "f80d1dfbd5d593563bf9c77eade0dc0ff9d1cc0689d9ab3af4c6e5b5d1a6f88b",
+      "title": "Viaduto da Washington Luís em Mirassol (SP) será interditado no fim de semana - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTBQdVB0cWJ0SWZiQ0FIOVBUN01hS0R2a21QejFRd1J1MkZweXlILWNaa3BLZTlGZFdyeWhheld5RU1aNFNnMC1Ib3Q4V3lLMDdjLTBYRVlBNnRaVE9fYWJFOGlxc21YVlprTWVhTEM0WjV2ZWRBYWdBdkdTc3VDSGtHcWIyTTQ2N0t2NGdZNkxIQUVHUnlVWVoxa3luZ1hsTXJQdG1rMHc0RFdkc1hYUUJCSXFaalg4c25V0gG7AUFVX3lxTE9lMFB1UHRxYnRJZmJDQUg5UFQ3TWFLRHZrbVB6MVF3UnUyRnB5eUgtY1prcEtlOUZkV3J5aGF6V3lFTVo0U2cwLUhvdDhXeUswN2MtMFhFWUE2dFpUT19hYkU4aXFzbVhWWmtNZWFMQzRaNXZlZEFhZ0F2R1NzdUNIa0dxYjJNNDY3S3Y0Z1k2TEhBRUdSeVVZWjFreW5nWGxNclB0bWswdzREV2RzWFhRQkJJcVpqWDhzblU?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T02:27:44+00:00",
+      "published_raw": "Fri, 18 Sep 2026 02:27:44 GMT",
+      "snippet": "Viaduto da Washington Luís em Mirassol (SP) será interditado no fim de semana gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-18T22:58:15.694421+00:00"
     }
   ]
 }
