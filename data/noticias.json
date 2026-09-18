@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-18T07:55:09.082770+00:00",
+  "updated_at": "2026-09-18T13:13:58.872968+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:54:52.889409+00:00"
+      "collected_at": "2026-09-18T13:13:41.203692+00:00"
     },
     {
-      "id": "92dc1f3e93ce179af8793a04ffb8fbf0dbd3191f312a85cc14cb3095be405140",
-      "title": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento - Agência iNFRA",
-      "source": "Agência iNFRA",
+      "id": "145a34a6875390cd3d69790b41b470aa923a6b03d1362ea46677033dad71b5c4",
+      "title": "Golpes digitais: veja como identificar fraudes e saiba o que fazer para se proteger - saocarlosdiaenoite.com.br",
+      "source": "saocarlosdiaenoite.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObUIzMWNPMHltYkF2bkdkYmhHSG1kZHpEMFNvX1RIQWg4NV9hZ00zakhweV9BcFRuZmNMUWluUGF3ZGZOQ2E4R0txUmRNNm44d1lkSXRIa25sZFAxVVBnQVkzd1BJU0pHZnZiQ1FQN041dzM3U21sSnp5S3M5cl8wQ1Bod3I5LWNpWEoxWldCOFVIQkNNbzdhVTdPMHlPUl9rcTF6UDJ1c3JaVXVGaUgxdktaei1sdGhkZG1fVXRNemEweHJjNXZOaE9WLVBIaGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-17T17:25:55+00:00",
+      "published_raw": "Thu, 17 Sep 2026 17:25:55 GMT",
+      "snippet": "Golpes digitais: veja como identificar fraudes e saiba o que fazer para se proteger saocarlosdiaenoite.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-18T13:13:41.203757+00:00"
+    },
+    {
+      "id": "857beb5dea589d5acefae065a71b73e53a743f6832c3b583f43bd92b904a1854",
+      "title": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento - agenciainfra.com",
+      "source": "agenciainfra.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1R1T1RwYUozb2J4b1dxalFnbVR4WDBVVFBRdTkwVzdhYzdITGZLdnRuT0NMOTZaTXUtVHM1bkphRWNuQW50RXNWZDNNd1RlNUZkejFBS3ZGcktOVWhfcGlIaFZBX0NEa1Z4Q3RzMkp2eDE4UmwwU1hZOVhkS29kNTZTWUxIZkw2b3hFdER3Wm9ZWEIwOGlDRjZPcDNjUQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-17T14:58:53+00:00",
       "published_raw": "Thu, 17 Sep 2026 14:58:53 GMT",
-      "snippet": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento Agência iNFRA",
+      "snippet": "EcoRodovias vai instalar 16 novas balanças de pesagem em movimento agenciainfra.com",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:54:52.889302+00:00"
+      "collected_at": "2026-09-18T13:13:41.203609+00:00"
     },
     {
       "id": "f49ae659f256d811ce99b9893b501ed856ac05b635cd3ec5b12c8d80bc607eef",
@@ -94,41 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T07:54:52.889593+00:00"
-    },
-    {
-      "id": "2ef2ee498dc82d2a3a53e316540207e40596b8477d8323577ec27bf559330b44",
-      "title": "Loyle Carner desembarca no Brasil pela primeira vez para show único em São Paulo - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTi1SMF9BaWJQT2pjT3lINnFMRzhGN3F6aGtDeXpHdjhfOVhqUEwxWWtWNjFxTHJOR3Z1VWtsVXVLemF6RGEtSUdQdzBmQnNXY3UySTl1QnpRZk1sTEl0UjVfbmREaU1pTzM2alEzRHlHbUtLT3VpRmdaWlpycXdqTTEybUFDRjlvNDRBUTgzMWVUbE54dnpwTVN4YXFNVkw3SFJ1aFJGVjlmRXU2bjlTYTJrU0lLYVlqM0YxVU50T2UtR3pQS0g4Yy1zc2JjVjRl?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T09:52:27+00:00",
-      "published_raw": "Thu, 17 Sep 2026 09:52:27 GMT",
-      "snippet": "Loyle Carner desembarca no Brasil pela primeira vez para show único em São Paulo Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T07:54:52.889543+00:00"
-    },
-    {
-      "id": "a68f40a957584ee90f456895b1d677e78820254d7166d829c57bfbd0101359ca",
-      "title": "Semana da Cidadania LGBTQIAPN+ retoma programação com debates cultura e ações de conscientização - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOXYzTlJXaklWOU1wOFE4MnEyVTBpWU5kclEwNmdkbWlGY1FvTllvQUJvZGFJdVJabnhvalZKVWpIa3p1alYwdkU2N3RlLWNfZ3NSSllKU0xuaXBUQ2pyaV95WVVuTWVjdTc3amw3dllHX3pYYUVQcWFuakh5eUF6V0k4NFA4SGtpZzl5aFJyWVREQmpyNU9iZUNNMEtoZjVsdFlPVEx0Y0JXMl94MVpUclBFRVRGVXY5dmZOcHRmZHk3SHdsVkpsTGFXbzZwTFhXT0dqampYZnl1bVZ3ZjVn?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-17T08:45:34+00:00",
-      "published_raw": "Thu, 17 Sep 2026 08:45:34 GMT",
-      "snippet": "Semana da Cidadania LGBTQIAPN+ retoma programação com debates cultura e ações de conscientização Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T07:54:52.889481+00:00"
+      "collected_at": "2026-09-18T13:13:41.203809+00:00"
     }
   ]
 }
