@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-09-19T17:46:20.635422+00:00",
+  "updated_at": "2026-09-19T19:43:56.474995+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 15,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 15,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,261 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "09962ca463e8ae8c30734946d97e8a3021b913fe97153a65796d7c454e58dcee",
+      "title": "Polícia Militar prende suspeito com drogas durante abordagem em São Carlos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3BSMWJfbFQ0ejgyLWd5RXdubTcyZm9PWFFISHZ6UXlyTDByVXE0T3lIUzhGZC1ESzNPS2tNTzItMlZ0VDBIVlV6eXlNZl9nSk90VUhsMHZXdUhBU29wTXYzQkJKQnJBU1M2aVRUaWphbkpTT2Y1QmdxVElmcmhqZUQ3WkJFUzRMMlJETWgzMzd2MDhYTU9SOU43QkFlNm5LZk5QMlNHMEROdjMxXzJWTTl6MUhsTVNWWlhrUXVzX2RuQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T08:28:29+00:00",
+      "published_raw": "Sat, 19 Sep 2026 08:28:29 GMT",
+      "snippet": "Polícia Militar prende suspeito com drogas durante abordagem em São Carlos Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.071231+00:00"
+    },
+    {
+      "id": "6640c86b50107c3f399dea04334cf165f36253de56d97531bd590943d6d6b180",
+      "title": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTdrRFBBUElldHVfSXROeGoyWXp4LVpTNmdRcEpQZm9US3hYcEZLd21IUjl4dFdWbURmLW5vNUZWazg2SVRQeXVZTnpwU3ZFa2l3QnFWbkQzRENUbjBzYnR6WXk1Mkk5Tm1zQWhlMDg5Q3dlNm5UcGxFaVVyZ0dSZEpQS0cxcnhpMkpuc19TaEZnNHpGeDZKSWdLYjNuOGQxSUNhWm9GMGFMMHJicUY0?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T08:12:58+00:00",
+      "published_raw": "Sat, 19 Sep 2026 08:12:58 GMT",
+      "snippet": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:49.913233+00:00"
+    },
+    {
+      "id": "4492375cc5a0fd2b9cda08c5dc9985b1b9d71e7cfe31cfae6c2ae35e7c01a88e",
+      "title": "PM Rodoviária apreende 246 kg de cocaína e pasta base em caminhão no interior de SP - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJfUGlteFlUUkVfdVozRXJsdjRiQTVsTzhUZFFCMF9LZHlFQVctem1ZeDhGcUNaZUFuTzRkT3lfU0E1M0hFY280ZGliUXpQNm9STWFVYm9MalQtMXRkRVQ2a0Y5NjdHMXRVQ2RDNzg5YnZYLTg0d2lJOVlObXdHc05TenlxRFEtaGwtYTA2UjhmOGwyaHoxUEhqVDRGSFNZYXlWMHo4Qjg4RTFDWXRnNlphbkhEMGoybTk2YlNQTTVLN2FNNXRteGVsbW9zQUlkR1E?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T05:48:35+00:00",
+      "published_raw": "Sat, 19 Sep 2026 05:48:35 GMT",
+      "snippet": "PM Rodoviária apreende 246 kg de cocaína e pasta base em caminhão no interior de SP Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:48.214121+00:00"
+    },
+    {
+      "id": "9e88941b681682e1075d95ffcca53c793c3af64c4afe28f804f49f25886b5c08",
+      "title": "Parceria entre Uniara e Lupo promove Feira de Oportunidades Industriais - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdl9wX3JkNm5yQjl2WWVkbklQRy0tZkdMQlBnTWNYS0lQS1FkR0dvdjBYX0NfZTdDX3dnS1k2eXVWV0s3cWRSRDNodlNHUjdhc1cwa01tLUdUVThMMGJYajNyVTJHX3hUNTBJRV9wNll2YXBXUjJmYXhPMnc2clhYUHpWa2EydWdoV0JBVllfNVliOHA5TGwzV3lSTTVBSDBBZklfdnNJVXg2LXhqemxMc0NBZnZjcjI2OEVXdA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T05:40:34+00:00",
+      "published_raw": "Sat, 19 Sep 2026 05:40:34 GMT",
+      "snippet": "Parceria entre Uniara e Lupo promove Feira de Oportunidades Industriais Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.070975+00:00"
+    },
+    {
+      "id": "a5f194cedd7450c2f89e21ba1efe849d1bc81e7ad21fb835890ea40a76a5bac7",
+      "title": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjExTERuTjNsRzhyOXZ0T2s0UktiNS1aMXByUEZISG1la1cxTE43RGFZZHpjTUtkdlNXOWZyOEdIaDJRUFNPVnBpWDJ5dEVCUGJRaGJUNXVQVE9rZ3VNNDVadjFWUV9SbkNTQnNtd0d6REh5cDhWbVpZN0I2VEFDVlNoTFIweHdDeG9Cb2gySXQ0MjRHTTczTEhoNDBBYkhweWtTU3ZpMk5lM2RPU2ZsU2lmck4zMGZSZGtGYllnbTlGZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T04:57:16+00:00",
+      "published_raw": "Sat, 19 Sep 2026 04:57:16 GMT",
+      "snippet": "Ecovias Noroeste Paulista compartilha experiências em obras e pavimentação Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reclamação | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.070739+00:00"
+    },
+    {
+      "id": "fa61eafc087e31a16786d84e51812e6bfd34ef52093d6ca6908a1acf92bb91d5",
+      "title": "Pix terá novas regras para fraudes, cobrança híbrida e contas-salário - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmNnb0RKQm5KRTl6aVM4aHB0Q2dLSl83aEk2dWd1X1ZUYWI1eWtVdjVkV0xwLWVVNWhqRGdrNzZnanJtb0VZUERJM0h3dEdUNlliWGFaM1Jydkh2RllLczc0V3Y5WDlOVDRxN0NGbS1mM21XaUVxN1NTMmYtbERrUkJ3ajJfWFBfcW9VUXVCcG1yTzVsTDBpWWVibzh4Rlg5V1pQY3J2UEhuRHFaOGlnN2pONDg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T03:41:27+00:00",
+      "published_raw": "Sat, 19 Sep 2026 03:41:27 GMT",
+      "snippet": "Pix terá novas regras para fraudes, cobrança híbrida e contas-salário Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:49.913173+00:00"
+    },
+    {
+      "id": "51d43016606fd4f409b42f3790612ad1fefa431f61b2fccf24df93492fa31598",
+      "title": "Conselho Municipal da Comunidade Negra toma posse para mandato 2026-2028 - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3ZsYkxRQm42WTYzbnFCa05tdWhTTTRjVi1DcGl5bFVsME9hRWY3bmlDNjB0Qno4aU9iaUh4aUJjZFlBYkFJeVhWakxGcTlqblB0TkFOX3VIOHNfbWhJazlTd0trc1V6YlJQdjVaRVdoWGdDeTdDcEtzYnN0ZFBINW9hS0RraFQ3dG1qc1Z3djJMNXEtRWpXZGdXUS10akNBQUVVbGhJem1CR2lrdzZPczhUVUtWbmJRT3RCSWFwQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T03:16:35+00:00",
+      "published_raw": "Sat, 19 Sep 2026 03:16:35 GMT",
+      "snippet": "Conselho Municipal da Comunidade Negra toma posse para mandato 2026-2028 Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:48.214178+00:00"
+    },
+    {
+      "id": "4fccdfb087c3033c5610ea4d5af35288cac436cff3e90fd04b970d291c58edcb",
+      "title": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSE11OGdjZ01wUmxJdEx1T1Q1eDRheU12Znc0VG9rS1Q3eHpnQWJxNWoxRTVJQk1JRTVBN0xfSGxRTmNUS1dEYWlrbDRiVHVCMGRZUjRVZXFCRm56cHY5YXRlUnVrSkpnQUR5emNpSEhCQUJhWnhIX1FhMG5HZk9kZnpMTXRwOWlNZjF3cEd3THhja2szMFQtLVRJM3BXUFNEYno3WGFZazdJNG5HUk0xaVhVTlgxczVDODU0WDFsZlNtTE15bktz?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T03:02:07+00:00",
+      "published_raw": "Sat, 19 Sep 2026 03:02:07 GMT",
+      "snippet": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:49.912983+00:00"
+    },
+    {
+      "id": "255ab7c638b5f5a18efb68573b48ecd6523f696d103ba9e92e082cece9517063",
+      "title": "Sexta, 18 Setembro 2026 - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1bFFNT2VuVXYtUWJqV2pwZ3BJTmJwYndGUDRTOVJJX0RXQVdIZFZpNkF6bkE1T2dqTUtmT1FkU050R1pGcTZuWTVMYnphVUtzcE40NU9ZUzB5ckEtX3B1UFFB?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T03:02:00+00:00",
+      "published_raw": "Sat, 19 Sep 2026 03:02:00 GMT",
+      "snippet": "Sexta, 18 Setembro 2026 Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.071168+00:00"
+    },
+    {
+      "id": "d08d147538739ae7090eeee6fa0adfe0625c62ce594afce53e3ac82221d15321",
+      "title": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGFrQjJwUTNOX3Q3aU51MURkUU5FRTdOZThXMlk5TmxqaVZKTmk0ZVNtVTFaaDAzS05DNEFFajlpTG1lSV9kb0t5UzRCbVg3WVpHWENaVGg4Q2pBbUJkOHlNWThhVGVHYXBIZ1hQNW5rbjliWHhBSzczdXpSMVJlS1ZiN19nanMxb1RnTDR3TEtiNy1PRDZjckZyLUlXVkN1ZjE3Rw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T22:01:58+00:00",
+      "published_raw": "Fri, 18 Sep 2026 22:01:58 GMT",
+      "snippet": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) Estradas",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.070831+00:00"
+    },
+    {
+      "id": "c0c6481197a83c17b27422c1d968b1430d81f863c7afde5f1056332c2c6b1f7e",
+      "title": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) - estradas.com.br",
+      "source": "estradas.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGFrQjJwUTNOX3Q3aU51MURkUU5FRTdOZThXMlk5TmxqaVZKTmk0ZVNtVTFaaDAzS05DNEFFajlpTG1lSV9kb0t5UzRCbVg3WVpHWENaVGg4Q2pBbUJkOHlNWThhVGVHYXBIZ1hQNW5rbjliWHhBSzczdXpSMVJlS1ZiN19nanMxb1RnTDR3TEtiNy1PRDZjckZyLUlXVkN1ZjE3Rw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T22:01:58+00:00",
+      "published_raw": "Fri, 18 Sep 2026 22:01:58 GMT",
+      "snippet": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) estradas.com.br",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:48.213789+00:00"
+    },
+    {
+      "id": "ecf9c69a5e56772bb9570c2fa9406ead7a67b512f551f7aaf7a1662578b51ccd",
+      "title": "Após quatro anos, Melodia Café Bar anuncia encerramento das atividades em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzZYQkdVUzA0TU9EMmpKQW5DNTNsc2h0Rl9TOUcwOG9GSENSRW1uVXRfTlVJV0x2bHZhMkswQ3U5Ym01ZG51aWNrVWdDcWtoeThXcXZwY1o5c2lVSTJKVVdCcjE2R3RNbVNDcU04eFJySkt4cnNMaUJ3bzctRjVTaFh1Nk9JaGEtdFI1UjVmb3lIZlZWd28wRi1tZ0FwWVd0RkZjRHZiUktjSC1wRk9sdzdtM0JjRlRP0gG4AUFVX3lxTE4zNlhCR1VTMDRNT0QyakpBbkM1M2xzaHRGX1M5RzA4b0ZIQ1JFbW5VdF9OVUlXTHZsdmEySzBDdTlibTVkbnVpY2tVZ0Nxa2h5OFdxdnBjWjlzaVVJMkpVV0JyMTZHdE1tU0NxTTh4UnJKS3hyc0xpQndvNy1GNVNoWHU2T0loYS10UjVSNWZveUhmVlZ3bzBGLW1nQXBZV3RGRmNEdmJSS2NILXBGT2x3N20zQmNGVE8?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T20:21:33+00:00",
+      "published_raw": "Fri, 18 Sep 2026 20:21:33 GMT",
+      "snippet": "Após quatro anos, Melodia Café Bar anuncia encerramento das atividades em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.071050+00:00"
+    },
+    {
+      "id": "012ab2ad03e96b3dd2abf1d18c84d6d784201346ac1bdaa5c6521c27cdb4e911",
+      "title": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUksyWUtuSVg4RzJLQl9fWkl0b0tBa2hCMUJfSG90dEd2dzlKM1d3TnBtbmQ5eHZDRDV2NFVieklxQUVUa0dmTDQwRVFCaEVvWE1uSUltcWZEeVQwR2IzdFgzenAydjBncWVGcGtXVHFxSFBVVGZoY2NWMzFIaHkzSGVQajN1UTRKYTlYeDFWMDdjRWlyZVRhcG5mQdIBmwFBVV95cUxOUksyWUtuSVg4RzJLQl9fWkl0b0tBa2hCMUJfSG90dEd2dzlKM1d3TnBtbmQ5eHZDRDV2NFVieklxQUVUa0dmTDQwRVFCaEVvWE1uSUltcWZEeVQwR2IzdFgzenAydjBncWVGcGtXVHFxSFBVVGZoY2NWMzFIaHkzSGVQajN1UTRKYTlYeDFWMDdjRWlyZVRhcG5mQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T20:17:27+00:00",
+      "published_raw": "Fri, 18 Sep 2026 20:17:27 GMT",
+      "snippet": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.071116+00:00"
+    },
+    {
+      "id": "24182a332b7d99231cdd0e7409a3796dbb7541c52a6b021a02673e73854094dc",
+      "title": "MP junto ao TCU pede suspensão do reajuste de 15% do Bolsa Família anunciado por Lula - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTktEYzlHZl9sckZjMDVCTE9sZkJnY3Zid1EyV1U5Ymc0RFpGa2JfQnFja0VYTkdGdUFia2ZFb0JGZDJsanpJTDQwYTVsdUhRakYzOEhrS2NCMWJIbkY3Ynk3NHY0Tm44OVdfaDBXT1BuWE1QUGFTQnJMRFNoRnBNcnl0dV9TWUJfRmR0RWV1Q1Q2cU9FMGNjWUxJb1FsZ3JEcDlqcUxWekhISXVpTmRTclhkanItanBhQ1HSAboBQVVfeXFMT05LRGM5R2ZfbHJGYzA1QkxPbGZCZ2N2YndRMldVOWJnNERaRmtiX0JxY2tFWE5HRnVBYmtmRW9CRmQybGp6SUw0MGE1bHVIUWpGMzhIa0tjQjFiSG5GN2J5NzR2NE5uODlXX2gwV09QblhNUFBhU0JyTERTaEZwTXJ5dHVfU1lCX0ZkdEVldUNUNnFPRTBjY1lMSW9RbGdyRHA5anFMVnpISEl1aU5kU3JYZGpyLWpwYUNR?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T20:05:22+00:00",
+      "published_raw": "Fri, 18 Sep 2026 20:05:22 GMT",
+      "snippet": "MP junto ao TCU pede suspensão do reajuste de 15% do Bolsa Família anunciado por Lula - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.070910+00:00"
+    },
+    {
+      "id": "be92fc3668c2eb024d60a954391dd120ba33ad1e7c9e47f521b128ccd73d9b6b",
+      "title": "Obra na Washington Luís altera acesso à SP-310 em Rio Preto a partir de quarta - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDRhSjZLZF81UHFHX3lFcjBTTnJYaEJYMDV5MzJVZUNYT0U3dXBfZlI2NFNkRjFVWGVXcGxnNWZQZ3U0bTJNV1dlWlVCdm9wMG1NSFI5VzFxZ0hQTFR6cjlEVV9xRWFJY0xsQUViZ1VTeEMtcjFZS0FRYXFuZ0xYckxTQmw0eENwaTBpeXVrWFBNbnJUS18yLTZ4ZnkyUG9rYnRsSGRfMlBqbE02anRmNjcwbEFkX1c2cjFlRVdZdnZROV9pTVFYMUJEdHVjUk5oTlVnLV9nTTVoXzAtZDVhYkthN0Myemx3bGZyZENEMGg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T20:03:00+00:00",
+      "published_raw": "Fri, 18 Sep 2026 20:03:00 GMT",
+      "snippet": "Obra na Washington Luís altera acesso à SP-310 em Rio Preto a partir de quarta Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T19:43:37.071301+00:00"
+    }
+  ]
 }
