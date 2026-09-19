@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T22:58:21.012252+00:00",
+  "updated_at": "2026-09-19T02:05:04.113932+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 16,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "be92fc3668c2eb024d60a954391dd120ba33ad1e7c9e47f521b128ccd73d9b6b",
+      "title": "Obra na Washington Luís altera acesso à SP-310 em Rio Preto a partir de quarta - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDRhSjZLZF81UHFHX3lFcjBTTnJYaEJYMDV5MzJVZUNYT0U3dXBfZlI2NFNkRjFVWGVXcGxnNWZQZ3U0bTJNV1dlWlVCdm9wMG1NSFI5VzFxZ0hQTFR6cjlEVV9xRWFJY0xsQUViZ1VTeEMtcjFZS0FRYXFuZ0xYckxTQmw0eENwaTBpeXVrWFBNbnJUS18yLTZ4ZnkyUG9rYnRsSGRfMlBqbE02anRmNjcwbEFkX1c2cjFlRVdZdnZROV9pTVFYMUJEdHVjUk5oTlVnLV9nTTVoXzAtZDVhYkthN0Myemx3bGZyZENEMGg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-18T23:17:28+00:00",
+      "published_raw": "Fri, 18 Sep 2026 23:17:28 GMT",
+      "snippet": "Obra na Washington Luís altera acesso à SP-310 em Rio Preto a partir de quarta Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-19T02:04:58.352798+00:00"
+    },
+    {
       "id": "d08d147538739ae7090eeee6fa0adfe0625c62ce594afce53e3ac82221d15321",
       "title": "Alça de acesso à Rodovia Washington Luís (SP-310) será interditada, na quarta (23) - Estradas",
       "source": "Estradas",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011281+00:00"
+      "collected_at": "2026-09-19T02:04:48.549767+00:00"
     },
     {
       "id": "ecf9c69a5e56772bb9570c2fa9406ead7a67b512f551f7aaf7a1662578b51ccd",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011612+00:00"
+      "collected_at": "2026-09-19T02:04:48.549854+00:00"
     },
     {
       "id": "012ab2ad03e96b3dd2abf1d18c84d6d784201346ac1bdaa5c6521c27cdb4e911",
@@ -88,13 +105,13 @@
       "published": "2026-09-18T20:17:27+00:00",
       "published_raw": "Fri, 18 Sep 2026 20:17:27 GMT",
       "snippet": "São Carlos realiza 5º módulo do programa Alfabetiza Juntos SP - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:15.145580+00:00"
+      "collected_at": "2026-09-19T02:04:48.549893+00:00"
     },
     {
       "id": "44665ab11d7443aff4630730eb32fe8fda5987b145ca2a16cd19f8dab17c2519",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:14.560431+00:00"
+      "collected_at": "2026-09-19T02:04:57.815820+00:00"
     },
     {
       "id": "24182a332b7d99231cdd0e7409a3796dbb7541c52a6b021a02673e73854094dc",
@@ -122,13 +139,13 @@
       "published": "2026-09-18T20:05:22+00:00",
       "published_raw": "Fri, 18 Sep 2026 20:05:22 GMT",
       "snippet": "MP junto ao TCU pede suspensão do reajuste de 15% do Bolsa Família anunciado por Lula - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste",
+      "term": "\"Ecovias Noroeste\" reajuste",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011526+00:00"
+      "collected_at": "2026-09-19T02:04:57.815700+00:00"
     },
     {
       "id": "698651ac104155d2ac3818b18cdf9cabb362b6edc39ace9c9b372e709284802c",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:15.145271+00:00"
+      "collected_at": "2026-09-19T02:04:58.352643+00:00"
     },
     {
       "id": "07a6a927988f9a73d1eb6b3d0ed5be9774f777564123a6a5f56564a867daa245",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011718+00:00"
+      "collected_at": "2026-09-19T02:04:48.549931+00:00"
     },
     {
       "id": "ffb8930596bb670792678c397f1bb31a87dfb08785138d679132b14358b62d85",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011442+00:00"
+      "collected_at": "2026-09-19T02:04:48.549812+00:00"
     },
     {
       "id": "5052dde01eef403a1175a88cd954bd60c1aeda69b861979217d4424f07c633d1",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011196+00:00"
+      "collected_at": "2026-09-19T02:04:48.549725+00:00"
     },
     {
       "id": "db1b5f9042d620881d72d9b974156b10a0e022314ea042adb28721b3438087d1",
@@ -207,13 +224,13 @@
       "published": "2026-09-18T15:05:00+00:00",
       "published_raw": "Fri, 18 Sep 2026 15:05:00 GMT",
       "snippet": "EcoRodovias amplia fiscalização com 16 novas balanças em 4 estados Portal BE News",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011356+00:00"
+      "collected_at": "2026-09-19T02:04:50.105020+00:00"
     },
     {
       "id": "3acf3343c32c4d15639897e428c63788531646f205a5efa6ed5fa9100036c780",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:16.794388+00:00"
+      "collected_at": "2026-09-19T02:05:00.067172+00:00"
     },
     {
       "id": "818f94fa1e91a81c3ba0cbb2073dc82dac447f507c10774b1579e0bfd109f0fd",
@@ -247,24 +264,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:15.694200+00:00"
+      "collected_at": "2026-09-19T02:04:58.885370+00:00"
     },
     {
-      "id": "e2db8299935139c2391a55eabe38783354755f15e68dcda370073de6bd2fa4c9",
-      "title": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização - A Comarca | Home",
+      "id": "f28496177b040151551943a56d7b2fba1f8741495bbba1903545fcad3393aaa1",
+      "title": "Ecovias Noroeste e parceiros mobilizam ações de conscientização - A Comarca | Home",
       "source": "A Comarca | Home",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNmhNTDJla0lDUkltc0tIbXZteURxN0FUczlpNlVlQWxPSElUWjFTMHJncm1JNnItOUZmd1FkSm5ReVNvRTJUS20tb2xtSlBzU1lvT2ctMTk3OWU4b1dfVTE2WHVhQS1LWHc?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T13:31:00+00:00",
       "published_raw": "Fri, 18 Sep 2026 13:31:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista e parceiros se mobilizam em ações de conscientização A Comarca | Home",
+      "snippet": "Ecovias Noroeste e parceiros mobilizam ações de conscientização A Comarca | Home",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:05.011088+00:00"
+      "collected_at": "2026-09-19T02:04:48.549669+00:00"
     },
     {
       "id": "9518e4f5bc5234780cb5477c8f378248698250f2f8c753a03e4b2f3a97274f00",
@@ -281,41 +298,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:16.239467+00:00"
+      "collected_at": "2026-09-19T02:04:59.507391+00:00"
     },
     {
-      "id": "b9f3cb5fdfcedb9416894644370470dea99a9b10a4c4548136b7abe87b5d7801",
-      "title": "Serviço de água e esgoto provoca bloqueio temporário no Centro de São Carlos - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
+      "id": "1e0ade838f32fb382c06ffd8fd5508d867a0e9a1c5d1e2210cba0c070a6c77af",
+      "title": "Serviço de água e esgoto provoca bloqueio temporário no Centro de São Carlos - radiosanca.com.br",
+      "source": "radiosanca.com.br",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3lPaEUwZ05nYm02TXVhSXlJSUIySl8wUGdjcWFUVndFUG5oZlhKcDJFMzBETjl4cWdfOF8zUHhkcE05b19lRmh6ekVZWlZRU0ExRTZlUl9tN2ZvUW5Ja0JoWTFuOXhvX09xQUdwWFJZbVdvUkI3UHRxVk93R2QxRlUzRmRNczZPSXU5ZDBVdHBUeERyaFhSQVMwWG5KZi1yVTZRQ2xKWWl3aG83M2xFM1pZeE5EMWxFbmdEMUZPRlhua19p?oc=5",
       "resolved_link": "",
       "published": "2026-09-18T04:23:02+00:00",
       "published_raw": "Fri, 18 Sep 2026 04:23:02 GMT",
-      "snippet": "Serviço de água e esgoto provoca bloqueio temporário no Centro de São Carlos Radio Sanca Web TV",
+      "snippet": "Serviço de água e esgoto provoca bloqueio temporário no Centro de São Carlos radiosanca.com.br",
       "term": "\"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-18T22:58:16.794463+00:00"
-    },
-    {
-      "id": "f80d1dfbd5d593563bf9c77eade0dc0ff9d1cc0689d9ab3af4c6e5b5d1a6f88b",
-      "title": "Viaduto da Washington Luís em Mirassol (SP) será interditado no fim de semana - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTBQdVB0cWJ0SWZiQ0FIOVBUN01hS0R2a21QejFRd1J1MkZweXlILWNaa3BLZTlGZFdyeWhheld5RU1aNFNnMC1Ib3Q4V3lLMDdjLTBYRVlBNnRaVE9fYWJFOGlxc21YVlprTWVhTEM0WjV2ZWRBYWdBdkdTc3VDSGtHcWIyTTQ2N0t2NGdZNkxIQUVHUnlVWVoxa3luZ1hsTXJQdG1rMHc0RFdkc1hYUUJCSXFaalg4c25V0gG7AUFVX3lxTE9lMFB1UHRxYnRJZmJDQUg5UFQ3TWFLRHZrbVB6MVF3UnUyRnB5eUgtY1prcEtlOUZkV3J5aGF6V3lFTVo0U2cwLUhvdDhXeUswN2MtMFhFWUE2dFpUT19hYkU4aXFzbVhWWmtNZWFMQzRaNXZlZEFhZ0F2R1NzdUNIa0dxYjJNNDY3S3Y0Z1k2TEhBRUdSeVVZWjFreW5nWGxNclB0bWswdzREV2RzWFhRQkJJcVpqWDhzblU?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-18T02:27:44+00:00",
-      "published_raw": "Fri, 18 Sep 2026 02:27:44 GMT",
-      "snippet": "Viaduto da Washington Luís em Mirassol (SP) será interditado no fim de semana gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-18T22:58:15.694421+00:00"
+      "collected_at": "2026-09-19T02:05:00.067208+00:00"
     }
   ]
 }
