@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-20T02:10:25.421258+00:00",
+  "updated_at": "2026-09-20T03:03:36.168359+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:19.259881+00:00"
+      "collected_at": "2026-09-20T03:03:30.209057+00:00"
     },
     {
       "id": "09962ca463e8ae8c30734946d97e8a3021b913fe97153a65796d7c454e58dcee",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483521+00:00"
+      "collected_at": "2026-09-20T03:03:19.593370+00:00"
     },
     {
       "id": "6640c86b50107c3f399dea04334cf165f36253de56d97531bd590943d6d6b180",
@@ -94,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483383+00:00"
+      "collected_at": "2026-09-20T03:03:19.593274+00:00"
+    },
+    {
+      "id": "0a4016bb732dc8e32df86ac8807802a075735e75f8ed973700fa2ae14a114ba7",
+      "title": "ACISC lança campanha de brinquedos e vai doar R$ 5 por item arrecadado em São Carlos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ19rV3dkdk9QblNtNTN3Z3dDc2hySjNtdnJqLUJoYm15ekdON0FNSmMxSWROcDBJWWlZblF6TXRwZU0xWnFRSzFrcnhWc3dpRzE1WjY3Wlp5R29OenpuLXQ4YjdvOWhCbGxmdjdIQ05fcFFlazFRM2xKRlZCSjJJX0tfSk5Oc1ZJQTRBU3JkZ3JOaGh0X0Y3dDJqY05Lc3ZHZTJFSGh4TjBtZk1ab1JZWkZJYW9PUlluZkRhb1NZQzc0VWZsYjRlOGxGM1ZrQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T07:30:33+00:00",
+      "published_raw": "Sat, 19 Sep 2026 07:30:33 GMT",
+      "snippet": "ACISC lança campanha de brinquedos e vai doar R$ 5 por item arrecadado em São Carlos Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-20T03:03:19.593031+00:00"
     },
     {
       "id": "88a7d39c6ef6c9f7daed75bdccce1b98e64d94488e9bc8923f026deead82c3ea",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483462+00:00"
+      "collected_at": "2026-09-20T03:03:19.593323+00:00"
     },
     {
       "id": "4492375cc5a0fd2b9cda08c5dc9985b1b9d71e7cfe31cfae6c2ae35e7c01a88e",
@@ -128,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483286+00:00"
+      "collected_at": "2026-09-20T03:03:19.593137+00:00"
+    },
+    {
+      "id": "4fccdfb087c3033c5610ea4d5af35288cac436cff3e90fd04b970d291c58edcb",
+      "title": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSE11OGdjZ01wUmxJdEx1T1Q1eDRheU12Znc0VG9rS1Q3eHpnQWJxNWoxRTVJQk1JRTVBN0xfSGxRTmNUS1dEYWlrbDRiVHVCMGRZUjRVZXFCRm56cHY5YXRlUnVrSkpnQUR5emNpSEhCQUJhWnhIX1FhMG5HZk9kZnpMTXRwOWlNZjF3cEd3THhja2szMFQtLVRJM3BXUFNEYno3WGFZazdJNG5HUk0xaVhVTlgxczVDODU0WDFsZlNtTE15bktz?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-19T05:43:32+00:00",
+      "published_raw": "Sat, 19 Sep 2026 05:43:32 GMT",
+      "snippet": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-20T03:03:19.593084+00:00"
     },
     {
       "id": "9e88941b681682e1075d95ffcca53c793c3af64c4afe28f804f49f25886b5c08",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483228+00:00"
+      "collected_at": "2026-09-20T03:03:19.592969+00:00"
     },
     {
       "id": "a5f194cedd7450c2f89e21ba1efe849d1bc81e7ad21fb835890ea40a76a5bac7",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483095+00:00"
+      "collected_at": "2026-09-20T03:03:19.592901+00:00"
     },
     {
       "id": "fa61eafc087e31a16786d84e51812e6bfd34ef52093d6ca6908a1acf92bb91d5",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483334+00:00"
+      "collected_at": "2026-09-20T03:03:19.593181+00:00"
     },
     {
       "id": "51d43016606fd4f409b42f3790612ad1fefa431f61b2fccf24df93492fa31598",
@@ -190,30 +224,13 @@
       "published": "2026-09-19T03:16:35+00:00",
       "published_raw": "Sat, 19 Sep 2026 03:16:35 GMT",
       "snippet": "Conselho Municipal da Comunidade Negra toma posse para mandato 2026-2028 Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-20T02:10:19.259567+00:00"
-    },
-    {
-      "id": "4fccdfb087c3033c5610ea4d5af35288cac436cff3e90fd04b970d291c58edcb",
-      "title": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSE11OGdjZ01wUmxJdEx1T1Q1eDRheU12Znc0VG9rS1Q3eHpnQWJxNWoxRTVJQk1JRTVBN0xfSGxRTmNUS1dEYWlrbDRiVHVCMGRZUjRVZXFCRm56cHY5YXRlUnVrSkpnQUR5emNpSEhCQUJhWnhIX1FhMG5HZk9kZnpMTXRwOWlNZjF3cEd3THhja2szMFQtLVRJM3BXUFNEYno3WGFZazdJNG5HUk0xaVhVTlgxczVDODU0WDFsZlNtTE15bktz?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-19T03:02:07+00:00",
-      "published_raw": "Sat, 19 Sep 2026 03:02:07 GMT",
-      "snippet": "Agentes da Vigilância Ambiental em Saúde participam de palestra sobre segurança Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-20T02:10:08.483172+00:00"
+      "collected_at": "2026-09-20T03:03:19.593226+00:00"
     }
   ]
 }
