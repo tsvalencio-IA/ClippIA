@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-21T11:48:59.750460+00:00",
+  "updated_at": "2026-09-21T15:26:35.059108+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 1,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,23 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "56787826de006a3c87c075ee8f82945f4b32e58771b74b284edcedb0f6b0fa90",
+      "title": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zcThKOXFRV1IxTXh4dXMycUhUd0drMFEtUkRNNEFyem9SMlZGdTVtSEh1Q2pmMjZ2MUczVUM5NncyRXloOUlTTnI3YURnQUoxT2Y2T05ZYnBJZ2RrVk9LM2hSa3UzNkh3eDJIXzZtOWs1d3BGZUNaZ1ZuSzNRd9IBgwFBVV95cUxPaG80MnB5ZnpUa0lXd0lMOHoxZURrM2ZxZVZ6Wi15MDBWTlVVOW9XMXllaFdWYjB2MS1yMDk2ckcyUDQ0VWxjRXpUN1BBSWs5YnR6OTJ6Z21ySkhvYmpNam9wTGpEQmpHaDV0ejRnRTh0b2ZaWXpKVnBVdnpTbHJOMEFWVQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-21T13:14:54+00:00",
+      "published_raw": "Mon, 21 Sep 2026 13:14:54 GMT",
+      "snippet": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-21T15:26:17.712203+00:00"
+    }
+  ]
 }
