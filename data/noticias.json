@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-21T15:26:35.059108+00:00",
+  "updated_at": "2026-09-21T17:44:20.726718+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 3,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,55 @@
   ],
   "items": [
     {
-      "id": "56787826de006a3c87c075ee8f82945f4b32e58771b74b284edcedb0f6b0fa90",
-      "title": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São - São Carlos em Rede",
-      "source": "São Carlos em Rede",
+      "id": "a478183e613153f7341c1d277c87936835a20a660dc98c3a8cc424f68fe64a99",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras na Washington Luís - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemFybjBrU3N5TFV2S1pkRnowSTk4Y0ZJekQteDlmaE00azh0QXdkaDFkdEE2NVdqOXhneFpTRWZ5YmFiaWhtaGRnRV92eldfTXhyQ3h0UnFlVVF3OEFtbGpqY3BtaVBBbS0yX2xuYXJQN0k4MzB0Y3NHRkZFQmYxZDdyZUxFWGEwdnE3WDFRMTFRVkI5R0tGTUNESXdod3VlQWFTSVVBSThfRVVQeE5KSWlBdWpYU2VZUXNrdNIBvAFBVV95cUxPemFybjBrU3N5TFV2S1pkRnowSTk4Y0ZJekQteDlmaE00azh0QXdkaDFkdEE2NVdqOXhneFpTRWZ5YmFiaWhtaGRnRV92eldfTXhyQ3h0UnFlVVF3OEFtbGpqY3BtaVBBbS0yX2xuYXJQN0k4MzB0Y3NHRkZFQmYxZDdyZUxFWGEwdnE3WDFRMTFRVkI5R0tGTUNESXdod3VlQWFTSVVBSThfRVVQeE5KSWlBdWpYU2VZUXNrdA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-21T14:53:08+00:00",
+      "published_raw": "Mon, 21 Sep 2026 14:53:08 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras na Washington Luís saocarlosagora.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-21T17:44:04.701959+00:00"
+    },
+    {
+      "id": "c82d5ee7d4ed806c8a8b687b15e063544cae224d7928984ba8cfe4f68ef1da3a",
+      "title": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São - saocarlosemrede.com.br",
+      "source": "saocarlosemrede.com.br",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zcThKOXFRV1IxTXh4dXMycUhUd0drMFEtUkRNNEFyem9SMlZGdTVtSEh1Q2pmMjZ2MUczVUM5NncyRXloOUlTTnI3YURnQUoxT2Y2T05ZYnBJZ2RrVk9LM2hSa3UzNkh3eDJIXzZtOWs1d3BGZUNaZ1ZuSzNRd9IBgwFBVV95cUxPaG80MnB5ZnpUa0lXd0lMOHoxZURrM2ZxZVZ6Wi15MDBWTlVVOW9XMXllaFdWYjB2MS1yMDk2ckcyUDQ0VWxjRXpUN1BBSWs5YnR6OTJ6Z21ySkhvYmpNam9wTGpEQmpHaDV0ejRnRTh0b2ZaWXpKVnBVdnpTbHJOMEFWVQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-21T13:14:54+00:00",
       "published_raw": "Mon, 21 Sep 2026 13:14:54 GMT",
-      "snippet": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São São Carlos em Rede",
+      "snippet": "Washington Luís terá interdições em São Carlos nesta semana; Atenção para o viaduto do Jockey Club - São saocarlosemrede.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T15:26:17.712203+00:00"
+      "collected_at": "2026-09-21T17:44:04.701904+00:00"
+    },
+    {
+      "id": "7acf83b8a3c3476dcab3b0141a9ddac11ef5b0428b51031bbdd8fdaccf17e1b8",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 21/9 a 27/9/2026 - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjJoTmZDOEhqY2o4NldaSkJWMjJSTDFxN3FvOVo3NWlkMFdkVzdVczgxQUxETkJtRUpHemxDUDNHUmJrUjY3X2pxQ0dsRmdxQW5wcjJ5NVM5MXJIUGZpYWRReGg5cE5NMUU1Y1BobmlXd0VuSEtSajRSV0RVZGRXWXAzNm1leEVyYmV6dVRSWW9hM3pNajJKUkFUdkgwelphLVFPMVZpOTlxUDFMdVBFMV9HZnB5UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-21T12:50:53+00:00",
+      "published_raw": "Mon, 21 Sep 2026 12:50:53 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 21/9 a 27/9/2026 Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-21T17:44:04.701824+00:00"
     }
   ]
 }
