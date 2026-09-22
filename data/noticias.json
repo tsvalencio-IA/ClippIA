@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:37:03.489113+00:00",
+  "updated_at": "2026-09-22T02:15:51.472333+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 9,
@@ -46,13 +46,30 @@
   ],
   "items": [
     {
+      "id": "2213d1a543dba5b608015693c59cf64efa5dba5e7aec299b6064b6ed6f64d4e0",
+      "title": "Rodovia ganha câmera que flagra uso de celular e falta de cinto - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHRsaDNoVDJFanZwWHJqYUtJQjV0RjZmb0tRSTVxT2pKQ0I1MFFhZHNLX3dRN29BZDVjZElfdlIwOXdERktJSGtLajZUNXJUbkJvWGxsdDlLV0xxZmpzbVhxMGdzZnNscE0ySzgwX2F5VkdMbjMydV91c0d6M2RILVY4S3BJVE5iVnByQXMyOXAtN2JGNHo3Umt5Y2ZqWUJoX1U5R0hzZHVudDZKd255MW5qVU4?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T00:19:03+00:00",
+      "published_raw": "Tue, 22 Sep 2026 00:19:03 GMT",
+      "snippet": "Rodovia ganha câmera que flagra uso de celular e falta de cinto Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T02:15:33.898404+00:00"
+    },
+    {
       "id": "28a3ea7c3edc4a56d993deb9d33c081a8f0bf6b3707c90ee5c5ef540d8eff64b",
       "title": "Obras da terceira faixa 'eliminaram' 73 espécies de árvores em Rio Preto - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDhQUjJSOEtHX1h5X3JTb0NreU5qblBFUk5pRy1SZV9TM3BrUURhS2lhR0lYM1BvZFV6UVpiMlBCbW1tWk1xVUNNRG9Sbkk3eHJFNHlYR05MaXNLbXd0T3YtRE1SMzEtQ0pOb2cxd3BqWUlBZllGNy14ZHQ0NmYwRGhkeGQ2WHNjVTVxTU5IeGwxRG1qcHF3VS1BUlRvdnlWbk9PanFPY3E2ODd5am9BM3pqV0xqTm16ZG5TZFVn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVNNakI3Z0I3Q3NQajBWQzNtd2VvOERRa2lpclJONjBOLUlzUGpfb3BZWVdQNWQ0X3NJdFRJRFVRT1lBaUlYMmxzNzg0UjlLZjNVZnh4Um85b3RlcWhLemJILUk5Tzh5eU04T2ZvWGJ4MzZBaFlJUjlKSkxEenlwRTZyLTZ2eEpkbGxUN2xzQk5pOXVLdnRfZElxTXRucGV0S3hYZlJ5Q1ZEd3JyeTFMNV9qSkNVMWtNNXJkRW11Ny02cnoy?oc=5",
       "resolved_link": "",
-      "published": "2026-09-21T20:26:47+00:00",
-      "published_raw": "Mon, 21 Sep 2026 20:26:47 GMT",
+      "published": "2026-09-21T20:26:22+00:00",
+      "published_raw": "Mon, 21 Sep 2026 20:26:22 GMT",
       "snippet": "Obras da terceira faixa 'eliminaram' 73 espécies de árvores em Rio Preto Diário da Região",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
@@ -60,41 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736408+00:00"
-    },
-    {
-      "id": "64a544a931728d1e11f8d166d04d77f1b7001c356ea2d7a65eccd9cee6305e47",
-      "title": "Obras na Washington Luís afetam acesso de Mirassol a Rio Preto nesta semana - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjBWSmJ0ZEZfWVA0RndmdmNsMWt6SG1sdVZqYWd6dm5UMEFJc0V5MnZTcnN2Tk9JYkFDeXRYcDhYM3VqZkdXeHlYNm5SWmtnb28xWFBzWjNOeFJJZDZzS2N1RHp6SldnNDluSVNvZ0pOcE5zS3REek1zYTBLNi1KdmowdVpPOVVnSHhwT3gwZXdrNmxyd0hDYWRWbzZMellxd1lCZndHeG1PWldmMDY0a1lMbTRkNVo5eEZ5YzhNd3ZnakV3ZWl6bFpWcTg?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-21T20:01:23+00:00",
-      "published_raw": "Mon, 21 Sep 2026 20:01:23 GMT",
-      "snippet": "Obras na Washington Luís afetam acesso de Mirassol a Rio Preto nesta semana Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736807+00:00"
-    },
-    {
-      "id": "c750907db235672fdf5a5a63a045a58ac8f9181f01265f69829464ba08a97996",
-      "title": "Alça de acesso à rodovia Washington Luís no Distrito Industrial será fechada - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdFpKTUhTUFowVzVSOTlfTEdpS09LeUNkMUJsOVpDeWFIc2VlSjdYaHBEYlY2WVJuN2pQR2luZ3FTRE11MkNFTWk3MTFZSTdQZEdPQ3pmc2RGeUJiZUE1d09GaXc0UTAxZGZaUUFQR0xKZzdnd052dExJX2hYamFVdjlOTlA2NUVWVC1XbzlPbElLRV9fSUlGRjJNcEREUFFvZHUteUZZZFhkVGJoVmotS2JadHllU2JBYjFrVnFod1JYTEVtNzJvRmlyTjY?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-21T19:15:17+00:00",
-      "published_raw": "Mon, 21 Sep 2026 19:15:17 GMT",
-      "snippet": "Alça de acesso à rodovia Washington Luís no Distrito Industrial será fechada Diário da Região",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-21T21:37:00.621116+00:00"
+      "collected_at": "2026-09-22T02:15:33.898476+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736291+00:00"
+      "collected_at": "2026-09-22T02:15:33.898322+00:00"
     },
     {
       "id": "6e4e8e09316bb61f29f05085f057635178caeeb6ceafc10d7de535a265bfb778",
@@ -128,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:37:00.621209+00:00"
+      "collected_at": "2026-09-22T02:15:48.730251+00:00"
+    },
+    {
+      "id": "64a544a931728d1e11f8d166d04d77f1b7001c356ea2d7a65eccd9cee6305e47",
+      "title": "Obras na Washington Luís afetam acesso de Mirassol a Rio Preto nesta semana - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQjBWSmJ0ZEZfWVA0RndmdmNsMWt6SG1sdVZqYWd6dm5UMEFJc0V5MnZTcnN2Tk9JYkFDeXRYcDhYM3VqZkdXeHlYNm5SWmtnb28xWFBzWjNOeFJJZDZzS2N1RHp6SldnNDluSVNvZ0pOcE5zS3REek1zYTBLNi1KdmowdVpPOVVnSHhwT3gwZXdrNmxyd0hDYWRWbzZMellxd1lCZndHeG1PWldmMDY0a1lMbTRkNVo5eEZ5YzhNd3ZnakV3ZWl6bFpWcTg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-21T16:56:00+00:00",
+      "published_raw": "Mon, 21 Sep 2026 16:56:00 GMT",
+      "snippet": "Obras na Washington Luís afetam acesso de Mirassol a Rio Preto nesta semana Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T02:15:33.898709+00:00"
     },
     {
       "id": "e51acf7bab03a07d524ecf4a97b9f7f82650bb11e8e3e01be06f8fb22d765381",
@@ -139,13 +139,13 @@
       "published": "2026-09-21T14:53:08+00:00",
       "published_raw": "Mon, 21 Sep 2026 14:53:08 GMT",
       "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras na Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736663+00:00"
+      "collected_at": "2026-09-22T02:15:33.898628+00:00"
     },
     {
       "id": "0a3bcdfa6ce8d935ff2c0005c861b6fc282afd4476068d970966ca135326dbbc",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736134+00:00"
+      "collected_at": "2026-09-22T02:15:33.898224+00:00"
     },
     {
       "id": "56787826de006a3c87c075ee8f82945f4b32e58771b74b284edcedb0f6b0fa90",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:36:45.736584+00:00"
+      "collected_at": "2026-09-22T02:15:33.898559+00:00"
     },
     {
       "id": "7acf83b8a3c3476dcab3b0141a9ddac11ef5b0428b51031bbdd8fdaccf17e1b8",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-21T21:37:01.260644+00:00"
+      "collected_at": "2026-09-22T02:15:49.316914+00:00"
     }
   ]
 }
