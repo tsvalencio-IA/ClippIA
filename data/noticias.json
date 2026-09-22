@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-22T03:00:15.483254+00:00",
+  "updated_at": "2026-09-22T08:01:59.866687+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 12,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,13 +46,47 @@
   ],
   "items": [
     {
+      "id": "73a6df126ef2dfa50ca0c9f1a097734d27d5b94b7a387b983d1cd90084b63a28",
+      "title": "Araraquara abre consulta pública online sobre o Plano Diretor - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalNONHBOQ3FYYVZhZnVGMDB0alFBVkVGMXFfQ3R5WGNtMXgxXzJHZkFTMWd5alA5NzJZN2l4TDc5UU1YQVZCT0MtZV9pY1dpY0R0X3p2amVKMlc4eWNOLWZibkdWZHkweDZDUkJ2bGQzVDBENHB4dGdEVzVXUjNWWWo3Y3NwT0k3d1VrR25vYUJTVnkxeUZDTlZaVloyQ3dYRldmMWU2RnJyM0ZvWGtN?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T03:24:51+00:00",
+      "published_raw": "Tue, 22 Sep 2026 03:24:51 GMT",
+      "snippet": "Araraquara abre consulta pública online sobre o Plano Diretor Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T08:01:55.380229+00:00"
+    },
+    {
+      "id": "f6abe8657e393659776e70ecdcfaf2a279e61801bb8e90d9e30965b162a92b5d",
+      "title": "Vazamentos levam SAAE a realizar intervenções em dois pontos de São Carlos - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSm9QYzlVak9TcHhLT19rSlZnZUIwemlVLWt2ekZ3Q2ZmTDlmWGFidFZYZ3Y0bXVjUDJMMXN4Zm5EZkxoZW5DSmhLWTh6cm5EbFZ3eXc0dW1YMUtBWHZ0amtIRWNacW4wcUFCTVpGd1pqSWFtaWdleHViMFBiWU9PRHBCR1p6VC1qU0VYR0U2eXlkYzdFMHFjazVlQV9FNnN3ZnNsNUdqWkh2VURjZEpPT1VfZ0RjMlZ1a3g2eFN4Y2dIUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T03:04:44+00:00",
+      "published_raw": "Tue, 22 Sep 2026 03:04:44 GMT",
+      "snippet": "Vazamentos levam SAAE a realizar intervenções em dois pontos de São Carlos Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T08:01:53.636218+00:00"
+    },
+    {
       "id": "2213d1a543dba5b608015693c59cf64efa5dba5e7aec299b6064b6ed6f64d4e0",
       "title": "Rodovia ganha câmera que flagra uso de celular e falta de cinto - Diário da Região",
       "source": "Diário da Região",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHRsaDNoVDJFanZwWHJqYUtJQjV0RjZmb0tRSTVxT2pKQ0I1MFFhZHNLX3dRN29BZDVjZElfdlIwOXdERktJSGtLajZUNXJUbkJvWGxsdDlLV0xxZmpzbVhxMGdzZnNscE0ySzgwX2F5VkdMbjMydV91c0d6M2RILVY4S3BJVE5iVnByQXMyOXAtN2JGNHo3Umt5Y2ZqWUJoX1U5R0hzZHVudDZKd255MW5qVU4?oc=5",
       "resolved_link": "",
-      "published": "2026-09-22T00:19:03+00:00",
-      "published_raw": "Tue, 22 Sep 2026 00:19:03 GMT",
+      "published": "2026-09-22T00:18:03+00:00",
+      "published_raw": "Tue, 22 Sep 2026 00:18:03 GMT",
       "snippet": "Rodovia ganha câmera que flagra uso de celular e falta de cinto Diário da Região",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626476+00:00"
+      "collected_at": "2026-09-22T08:01:42.975273+00:00"
     },
     {
       "id": "28a3ea7c3edc4a56d993deb9d33c081a8f0bf6b3707c90ee5c5ef540d8eff64b",
@@ -77,24 +111,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626563+00:00"
+      "collected_at": "2026-09-22T08:01:42.975333+00:00"
     },
     {
-      "id": "470c4afd3ca68ed162287f31121c25c73037fffb56ae4ee8d7992080d84f7565",
-      "title": "Notícias - jornaldebarretos.com.br",
-      "source": "jornaldebarretos.com.br",
+      "id": "c750907db235672fdf5a5a63a045a58ac8f9181f01265f69829464ba08a97996",
+      "title": "Alça de acesso à rodovia Washington Luís no Distrito Industrial será fechada - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdFpKTUhTUFowVzVSOTlfTEdpS09LeUNkMUJsOVpDeWFIc2VlSjdYaHBEYlY2WVJuN2pQR2luZ3FTRE11MkNFTWk3MTFZSTdQZEdPQ3pmc2RGeUJiZUE1d09GaXc0UTAxZGZaUUFQR0xKZzdnd052dExJX2hYamFVdjlOTlA2NUVWVC1XbzlPbElLRV9fSUlGRjJNcEREUFFvZHUteUZZZFhkVGJoVmotS2JadHllU2JBYjFrVnFod1JYTEVtNzJvRmlyTjY?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-21T19:15:17+00:00",
+      "published_raw": "Mon, 21 Sep 2026 19:15:17 GMT",
+      "snippet": "Alça de acesso à rodovia Washington Luís no Distrito Industrial será fechada Diário da Região",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T08:01:57.084246+00:00"
+    },
+    {
+      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
+      "title": "Notícias - Jornal de Barretos",
+      "source": "Jornal de Barretos",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWI4ejJGYmo5blJKa0tTN0J2Y2NCakc0LWxOZE5mUmRSWXJRNnI0SHZfTmFrdnFmRWZZLUpwa3dxeXpaUVc3ODdTUHZ6Mnh5RzhrRTZOQnhCcWFhVEtQd3B6WHQzaXNQZ0owY0tQenhuSFdJVC1ZQ2tHT3pzVDJfMG1Oa2xaLUhadVJnUnJ5b1RCM1NGNTlJRXJteWt0U3pyMTZmelpBYll0V1NBcS1RUHpBNnA0bElXT0tYQU5R?oc=5",
       "resolved_link": "",
       "published": "2026-09-21T19:03:18+00:00",
       "published_raw": "Mon, 21 Sep 2026 19:03:18 GMT",
-      "snippet": "Notícias jornaldebarretos.com.br",
+      "snippet": "Notícias Jornal de Barretos",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626375+00:00"
+      "collected_at": "2026-09-22T08:01:42.975204+00:00"
     },
     {
       "id": "6e4e8e09316bb61f29f05085f057635178caeeb6ceafc10d7de535a265bfb778",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T03:00:12.817503+00:00"
+      "collected_at": "2026-09-22T08:01:57.084373+00:00"
     },
     {
       "id": "64a544a931728d1e11f8d166d04d77f1b7001c356ea2d7a65eccd9cee6305e47",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626845+00:00"
+      "collected_at": "2026-09-22T08:01:42.975523+00:00"
     },
     {
       "id": "e51acf7bab03a07d524ecf4a97b9f7f82650bb11e8e3e01be06f8fb22d765381",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626767+00:00"
+      "collected_at": "2026-09-22T08:01:42.975457+00:00"
     },
     {
       "id": "0a3bcdfa6ce8d935ff2c0005c861b6fc282afd4476068d970966ca135326dbbc",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626276+00:00"
+      "collected_at": "2026-09-22T08:01:42.975132+00:00"
     },
     {
       "id": "56787826de006a3c87c075ee8f82945f4b32e58771b74b284edcedb0f6b0fa90",
@@ -179,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T02:59:58.626694+00:00"
+      "collected_at": "2026-09-22T08:01:42.975402+00:00"
     },
     {
       "id": "7acf83b8a3c3476dcab3b0141a9ddac11ef5b0428b51031bbdd8fdaccf17e1b8",
@@ -196,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T03:00:13.360368+00:00"
+      "collected_at": "2026-09-22T08:01:57.762004+00:00"
     }
   ]
 }
