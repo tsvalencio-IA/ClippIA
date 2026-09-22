@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-22T18:24:05.074371+00:00",
+  "updated_at": "2026-09-22T18:27:54.503673+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 14,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:24:00.202168+00:00"
+      "collected_at": "2026-09-22T18:27:49.077364+00:00"
     },
     {
       "id": "e7f4bca1efe2a0d0b7a4c45c404d450eb1a3a86da0e37e83e1b585b7117cbbcd",
@@ -71,30 +71,47 @@
       "published": "2026-09-22T12:26:00+00:00",
       "published_raw": "Tue, 22 Sep 2026 12:26:00 GMT",
       "snippet": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390883+00:00"
+      "collected_at": "2026-09-22T18:27:37.005234+00:00"
     },
     {
-      "id": "2aed1b110dd29189ce95e9b6e810f553d3e80309a667ce86e06ae2fea5677d67",
-      "title": "EcoRodovias abre 39 vagas de emprego em seis estados - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "cdd6a357cd77eabfc08557f4cd6c93821ebc116ce327031bf195952fdc783959",
+      "title": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias - regiaonoroeste.com",
+      "source": "regiaonoroeste.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOU83bF9hN21iNnV6aXd3cHdKYkJrZXFPbWdiYnBGdHNoTkViOVNBZUVEcWZvZ2VlVm9aYlRNRW1RRlVhY3NDT3ZKUU91TXdqajN0WUZWX3NIRmdhdzZJU2pXZWJMTkt0a01ValdUYUxwOXRtal8yVjVud3Q0ZUl2SzhZVnJ4VXRNS09zWHZsZFEwTnR0eE9kSGhIWXphSjJiZUk4?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T12:26:00+00:00",
+      "published_raw": "Tue, 22 Sep 2026 12:26:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias regiaonoroeste.com",
+      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T18:27:52.331874+00:00"
+    },
+    {
+      "id": "942dfac4bf0a0af2e4bbc89015316c083e4c8d349293762d7c85d89e8faa7fb5",
+      "title": "EcoRodovias abre 39 vagas de emprego em seis estados - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmdNdzR2UkdpZGsyVlFZYVdrY2NlVEktZVdWWEFTWW1Pelp0LXE3cmMxR21vR1FYeGMzM0ZfS2lmNVJrcnRxZ05YdjQ1Yzd3ekYwelJCc1J4R3FhZjVBaDRsOHhfeG9JQXluelBFdXVvbkdZSDJzamVLallxQVVoZFpJbXNVMUlCckI2alp6Yw?oc=5",
       "resolved_link": "",
       "published": "2026-09-22T11:45:03+00:00",
       "published_raw": "Tue, 22 Sep 2026 11:45:03 GMT",
-      "snippet": "EcoRodovias abre 39 vagas de emprego em seis estados Mobilidade Sampa",
+      "snippet": "EcoRodovias abre 39 vagas de emprego em seis estados mobilidadesampa.com.br",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390948+00:00"
+      "collected_at": "2026-09-22T18:27:37.005291+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390505+00:00"
+      "collected_at": "2026-09-22T18:27:37.005032+00:00"
     },
     {
       "id": "31006647a2592b036db4ee5b12e56267d6d39db1a4094d2e0737aafa58914d16",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.391030+00:00"
+      "collected_at": "2026-09-22T18:27:37.005355+00:00"
     },
     {
       "id": "c0ce6bb81c51c8e1213efb7e44d51f611a37c4f75e84d3a9b23a658e93ad17af",
@@ -139,30 +156,47 @@
       "published": "2026-09-22T08:48:45+00:00",
       "published_raw": "Tue, 22 Sep 2026 08:48:45 GMT",
       "snippet": "Obras seguem na Faria Lima em Barretos O Diário Interativo Online",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:59.070287+00:00"
+      "collected_at": "2026-09-22T18:27:47.908722+00:00"
     },
     {
-      "id": "c3e92cd5699b245847de13b73d6fd47439557f91c01a5935bbffbc196ed4f667",
-      "title": "RioSP realiza desmontes na Serra das Araras entre 21 e 26 de setembro - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
+      "id": "a56aed2c49f5d7019f815897f627a45fe9f9bc52d15d44d92ec2cae23724f740",
+      "title": "Obras seguem na Faria Lima em Barretos - odiarioonline.com.br",
+      "source": "odiarioonline.com.br",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kRWFrNVA5bndGY0hJNmFMZzJHbVpQX0xsUUljMzc0N25sam9pQUlpcnh4SlZWQ2ZvTGxnSkNveHphMUE0Z21FNXVSWGtucWRlUHBYZkxFdXZzdEJaM1JtZDh0YldRQXQzdXVkQ2d5RWtyZ3VpYTc2ZGZRVVA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T08:48:45+00:00",
+      "published_raw": "Tue, 22 Sep 2026 08:48:45 GMT",
+      "snippet": "Obras seguem na Faria Lima em Barretos odiarioonline.com.br",
+      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-323%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-22T18:27:52.331757+00:00"
+    },
+    {
+      "id": "167cac4411ef4d540a419c924c43b096ace02bbd8609d594cc7c87596d6583bb",
+      "title": "RioSP realiza desmontes na Serra das Araras entre 21 e 26 de setembro - mobilidadesampa.com.br",
+      "source": "mobilidadesampa.com.br",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DX0o5WFRVby11dURWQXF2OFloeUVsa0hRUnNFYTdLTjdJd25IcV9vWGlYRWpXYWdkeWFUV1hfZGhqZDhIZ1RjOXJBM2d3X3BzTGdnMmh5R29JM04xVnVkYWY4THpPcHJvQTJsQ2ZhaGo2dnZfd2VpV08weE4?oc=5",
       "resolved_link": "",
       "published": "2026-09-22T01:01:00+00:00",
       "published_raw": "Tue, 22 Sep 2026 01:01:00 GMT",
-      "snippet": "RioSP realiza desmontes na Serra das Araras entre 21 e 26 de setembro Mobilidade Sampa",
+      "snippet": "RioSP realiza desmontes na Serra das Araras entre 21 e 26 de setembro mobilidadesampa.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.391096+00:00"
+      "collected_at": "2026-09-22T18:27:37.005413+00:00"
     },
     {
       "id": "2213d1a543dba5b608015693c59cf64efa5dba5e7aec299b6064b6ed6f64d4e0",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390654+00:00"
+      "collected_at": "2026-09-22T18:27:37.005107+00:00"
     },
     {
       "id": "28a3ea7c3edc4a56d993deb9d33c081a8f0bf6b3707c90ee5c5ef540d8eff64b",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390734+00:00"
+      "collected_at": "2026-09-22T18:27:37.005172+00:00"
     },
     {
       "id": "c750907db235672fdf5a5a63a045a58ac8f9181f01265f69829464ba08a97996",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:24:02.458010+00:00"
+      "collected_at": "2026-09-22T18:27:51.573457+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -230,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390413+00:00"
+      "collected_at": "2026-09-22T18:27:37.004947+00:00"
     },
     {
       "id": "c50df6157e03061b405165bbddf94f7a7957e1d333aba3eadee6a9ed9f6e10a7",
@@ -241,13 +275,13 @@
       "published": "2026-09-21T18:32:00+00:00",
       "published_raw": "Mon, 21 Sep 2026 18:32:00 GMT",
       "snippet": "Projetos de infraestrutura precisam considerar impactos ambientais durante toda a vida útil CBN Ribeirão",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-22T18:23:48.390812+00:00"
+      "collected_at": "2026-09-22T18:27:49.685427+00:00"
     }
   ]
 }
