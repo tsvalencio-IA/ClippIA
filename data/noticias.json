@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-23T08:29:27.329707+00:00",
+  "updated_at": "2026-09-23T13:56:35.803103+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 13,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "5054214a7ce020c6daa4e3d44fa6b8e8442b0e8113e6e2b8e92abe074317e10f",
+      "title": "Corpos de vítimas de queda de helicóptero seguem para perícia em SC - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSnFGakxEMXRtWG5UaGNJajVtOGRWVjBOTUVVbmNRWXVoV1BPUXVYcmREaFFhb3QxRW5HVGgtb1RNN1lPV0JKbU5nM1lta0N5NlFFZEhLd2RBRlY2YzhvTm0tWUFwdFlvS3RSSEdzTU0wcFY3VmtjMDFsNzhwTWNKdFNnc2xtbzVSY20yaGVlMEJucjlKZ1Zsa1hHNWI3WUdraFBoVDN5VzQzLWFfLW5IQUlXSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-23T05:03:49+00:00",
+      "published_raw": "Wed, 23 Sep 2026 05:03:49 GMT",
+      "snippet": "Corpos de vítimas de queda de helicóptero seguem para perícia em SC lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-23T13:56:30.876230+00:00"
+    },
+    {
+      "id": "ff6e66aacb0561ac351b2ff8bcaab8d28e6c09390be3b04069b131b15a736de2",
+      "title": "Linha 7-Rubi da TIC Trens volta a operar normalmente na noite desta terça-feira (22) - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMjRmeVF5cGpSWHlkLXIxQ1lLczFvUUZIcGxabWUxZnpsZGNYbTN1Nm1PTVMzSWRpTGdOT09GNElsV3VDMFRRQVBUYVRybWVmN0dfRnJZS3NwdVIwQjU3Y25hOXJ6eWVPRVA0UlJoa01LSmlMNDJFdFJieGpreXg0Ry1TbEJ5SWlkRDhxWU1ZbUMyVWhoLUNlV2ZSdmQtWVZ1WEdaWjdGeVY5djB0dWRUdnJTb1dBQW9qc21yZkFHQUExV3g4al9B?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-23T04:01:19+00:00",
+      "published_raw": "Wed, 23 Sep 2026 04:01:19 GMT",
+      "snippet": "Linha 7-Rubi da TIC Trens volta a operar normalmente na noite desta terça-feira (22) lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-23T13:56:30.876373+00:00"
+    },
+    {
       "id": "70201f42021c372d1fc63d2dda2768aa40662866c23d1ba7eeb82f09a4e506c6",
       "title": "Ônibus pega fogo durante operação da linha 500 em Manaus (AM) nesta terça-feira (22) - lucianapombo.com.br",
       "source": "lucianapombo.com.br",
@@ -54,13 +88,13 @@
       "published": "2026-09-23T02:56:21+00:00",
       "published_raw": "Wed, 23 Sep 2026 02:56:21 GMT",
       "snippet": "Ônibus pega fogo durante operação da linha 500 em Manaus (AM) nesta terça-feira (22) lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:23.170135+00:00"
+      "collected_at": "2026-09-23T13:56:19.463219+00:00"
     },
     {
       "id": "25863438d3a93785014875a2c0c0424f14cccbeb2007a36cf9879d8726836128",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.637642+00:00"
+      "collected_at": "2026-09-23T13:56:30.876438+00:00"
     },
     {
       "id": "05d466f26eef1e10838e888328ae385b5a1f436471f27b4c7e88869a33cffe56",
@@ -94,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:11.619777+00:00"
+      "collected_at": "2026-09-23T13:56:19.462850+00:00"
+    },
+    {
+      "id": "898dddb0dbd9c3eb00c3d3d2f88adda88fa9f1666472d052d153b86526ffdfab",
+      "title": "Corpo de Zuenir Ventura será velado nesta quarta na sede da ABL - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHZ2Zi1ZdHZzbU90b2JBdVQtOEpucEthbHhtazNMVHRDYmtFRlZpbkxzMjgyMDJlZEo0LTQ0YzdwTkNqTW9lRUdydWxSTFFiSzRzWl9nX2J4WVFWRDNmbWFpa3gwNVRzeUlXU3F5U0lyaUN3STQ4Y3RpTmNyWkpqZzI0UVNlWlI0UFZIcEhqSjE0bkk3RFh1Z1Ezazd1d1Z3cWpSMC01YjBtV2ZwTVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-23T00:53:04+00:00",
+      "published_raw": "Wed, 23 Sep 2026 00:53:04 GMT",
+      "snippet": "Corpo de Zuenir Ventura será velado nesta quarta na sede da ABL lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-23T13:56:29.728022+00:00"
     },
     {
       "id": "be4e84765c9d3fcfd336405f85cfd37604cb029dcec92b1851ecdf92222101fa",
@@ -111,24 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:11.619952+00:00"
+      "collected_at": "2026-09-23T13:56:19.463293+00:00"
     },
     {
-      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
-      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
+      "id": "8425f1a207281f003aa2437ca77e755526b62bc915f11ab10371e8d89230a373",
+      "title": "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados - lucianapombo.com.br",
+      "source": "lucianapombo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkJLRnNJVGhfazJ0aURwVzJ2OUVRbXNUQjgtQTdmSTBYYmhXZ21QRGFyUUd6OXBNSkdjbjMxMjlONmRrUndSVWtQX1ZnakJOM0FfUFdlMVVadzRBRXo4ODI5SEtCNHRKVWp4RERyQUUxUEQweXBNSGh3ZDBUYzNjdFVoYy05ZU1SZ3l1dm9rWnhJRXotcXdOSExvYWMtRFVEMXRxbjJYMzE5ZjJpOVZMNGhVRHZRQQ?oc=5",
       "resolved_link": "",
-      "published": "2026-09-22T23:54:50+00:00",
-      "published_raw": "Tue, 22 Sep 2026 23:54:50 GMT",
-      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "published": "2026-09-22T21:46:02+00:00",
+      "published_raw": "Tue, 22 Sep 2026 21:46:02 GMT",
+      "snippet": "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados lucianapombo.com.br",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:24.210459+00:00"
+      "collected_at": "2026-09-23T13:56:31.442451+00:00"
     },
     {
       "id": "7ab211d16a5139fdbe88f075a51a448ec72949add0208f5cf337270463351c3e",
@@ -139,13 +190,13 @@
       "published": "2026-09-22T20:43:55+00:00",
       "published_raw": "Tue, 22 Sep 2026 20:43:55 GMT",
       "snippet": "Circulação dos ônibus do transporte público de Manaus (AM) é retomada após paralisação dos rodoviários lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.086627+00:00"
+      "collected_at": "2026-09-23T13:56:19.463138+00:00"
     },
     {
       "id": "83d46d742487b451589c638d546209b1ba6677c878c4a4a1f95679c77ffb14ab",
@@ -156,13 +207,13 @@
       "published": "2026-09-22T20:42:24+00:00",
       "published_raw": "Tue, 22 Sep 2026 20:42:24 GMT",
       "snippet": "Mortes do cantor Rick e de mais quatro pessoas são confirmadas em SC lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.637492+00:00"
+      "collected_at": "2026-09-23T13:56:19.463366+00:00"
     },
     {
       "id": "8859254975ebcbacc9d73996aae62b2fb3d9e938197f6c96e80db71b73cf7111",
@@ -173,13 +224,13 @@
       "published": "2026-09-22T19:40:23+00:00",
       "published_raw": "Tue, 22 Sep 2026 19:40:23 GMT",
       "snippet": "Linha 3-Vermelha do Metrô de São Paulo opera com lentidão na tarde desta terça-feira (22) lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:23.170050+00:00"
+      "collected_at": "2026-09-23T13:56:19.463054+00:00"
     },
     {
       "id": "3015d20a839184fd312d275baa944b73f95988ed01964c22450f44499afbcaea",
@@ -190,13 +241,13 @@
       "published": "2026-09-22T19:40:20+00:00",
       "published_raw": "Tue, 22 Sep 2026 19:40:20 GMT",
       "snippet": "Helicóptero que transportava o cantor Rick estava regular, diz Anac lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.637573+00:00"
+      "collected_at": "2026-09-23T13:56:19.463436+00:00"
     },
     {
       "id": "6e35e66b6e8ae7216f31233355302450a9252bf1c6743c61743e63d559a725d7",
@@ -213,92 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T08:29:11.619873+00:00"
-    },
-    {
-      "id": "ab53c97758c45277a7b43f2e57b745e3883f3f6db5496e81806891b41affe2bd",
-      "title": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWd1ZEhDZWlHbTU1b0FPb2liQlhjWGhMZk9SLXBicUhVcHJwNnVCcmNvLW8tbjdjMlljTTB6TktxMEtTaThyam53cE9jRDdMeS1md3U3VElidjFwWEpFVkx2NzgyeHdrSGx0eUlyWUg3cEdlMlFfU2w0bDY1bEJqTXdrUlI3WnVqQVhwanhtSUNudWQxUnFMNnRkUkFCS1lHUk9INg?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T13:31:00+00:00",
-      "published_raw": "Tue, 22 Sep 2026 13:31:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias Votunews",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.637708+00:00"
-    },
-    {
-      "id": "e7f4bca1efe2a0d0b7a4c45c404d450eb1a3a86da0e37e83e1b585b7117cbbcd",
-      "title": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOU83bF9hN21iNnV6aXd3cHdKYkJrZXFPbWdiYnBGdHNoTkViOVNBZUVEcWZvZ2VlVm9aYlRNRW1RRlVhY3NDT3ZKUU91TXdqajN0WUZWX3NIRmdhdzZJU2pXZWJMTkt0a01ValdUYUxwOXRtal8yVjVud3Q0ZUl2SzhZVnJ4VXRNS09zWHZsZFEwTnR0eE9kSGhIWXphSjJiZUk4?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T12:26:00+00:00",
-      "published_raw": "Tue, 22 Sep 2026 12:26:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista programa obras e bloqueios de faixa em rodovias Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T08:29:11.620024+00:00"
-    },
-    {
-      "id": "2aed1b110dd29189ce95e9b6e810f553d3e80309a667ce86e06ae2fea5677d67",
-      "title": "EcoRodovias abre 39 vagas de emprego em seis estados - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOURud241NEN3Qzl3M19JZ0NFTmxraUxMRkg3ZVV1UnZpQlRRcXhCT2U1WlA0UzU1WkJ4cmsyNWdwLTY1WGZtYmhwOFEtT3RvYXpRak1xWTJ2N2tXTmNHV2pCR2ZDVDJhOHNrbnZhRGlaV01uT1Bkc2ZlZWNGZ1BFV3pqRFk?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T11:45:03+00:00",
-      "published_raw": "Tue, 22 Sep 2026 11:45:03 GMT",
-      "snippet": "EcoRodovias abre 39 vagas de emprego em seis estados Mobilidade Sampa",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T08:29:22.637769+00:00"
-    },
-    {
-      "id": "31006647a2592b036db4ee5b12e56267d6d39db1a4094d2e0737aafa58914d16",
-      "title": "Obras de ampliação da Rodovia Washington Luís chegam a mais de 70% de execução na região - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTAyNGhLd0daTDdWbWstU0QyRWpveGhSbGFfdHhyNmJTMlZSYUg0dDVtLTNnYS1jVVo0aW05LWxiZlR2dExjeWxuMFpqTUZjV0FVUm9VbS14RmxPc3paNk4xRUlHUE5BWVp4MnRKczhqem1qeVNjbU5kQkhFdENrUXhxMDd1cXM4SjV6dUFKNF94UXVNWjFFR2JSMVYwdEx3d28xUWk0aXB2aHBBSFkwd0VwYkxVZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T09:00:00+00:00",
-      "published_raw": "Tue, 22 Sep 2026 09:00:00 GMT",
-      "snippet": "Obras de ampliação da Rodovia Washington Luís chegam a mais de 70% de execução na região Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T08:29:11.620101+00:00"
-    },
-    {
-      "id": "c0ce6bb81c51c8e1213efb7e44d51f611a37c4f75e84d3a9b23a658e93ad17af",
-      "title": "Obras seguem na Faria Lima em Barretos - O Diário Interativo Online",
-      "source": "O Diário Interativo Online",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kRWFrNVA5bndGY0hJNmFMZzJHbVpQX0xsUUljMzc0N25sam9pQUlpcnh4SlZWQ2ZvTGxnSkNveHphMUE0Z21FNXVSWGtucWRlUHBYZkxFdXZzdEJaM1JtZDh0YldRQXQzdXVkQ2d5RWtyZ3VpYTc2ZGZRVVA?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T08:48:45+00:00",
-      "published_raw": "Tue, 22 Sep 2026 08:48:45 GMT",
-      "snippet": "Obras seguem na Faria Lima em Barretos O Diário Interativo Online",
-      "term": "\"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T08:29:24.753228+00:00"
+      "collected_at": "2026-09-23T13:56:19.462958+00:00"
     }
   ]
 }
