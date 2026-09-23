@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:15:47.007466+00:00",
+  "updated_at": "2026-09-23T03:00:19.518037+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 8,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969259+00:00"
+      "collected_at": "2026-09-23T03:00:02.692316+00:00"
     },
     {
       "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:43.864054+00:00"
+      "collected_at": "2026-09-23T03:00:16.280145+00:00"
+    },
+    {
+      "id": "6e35e66b6e8ae7216f31233355302450a9252bf1c6743c61743e63d559a725d7",
+      "title": "Washington Luís terá novas obras e interdições nesta semana em Rio Preto - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkttVWIxMkNpT2xaMnJITF9EZU04cDI2WHE3Y01FMGxwTE5fU1lxX1dDYnNfZkQ0d0V4UWdjNlNfRElocTdjdWdfdzVBQ3ZmYVFzSF94QWE3a0RWY1lGMlFLNDVwLTAwdURuUXhSWkZxZXpqdnRHOUgwTFlqWUdnZXBQNTZFVVM1VW54d3NhR181ai16aXBTeU1Qd2tXN3ZidkxWaDRidFJxSFZXd3ZBSGM5Ymt5V2YzWjltTHhTV3BhMlkzeWc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-22T14:33:52+00:00",
+      "published_raw": "Tue, 22 Sep 2026 14:33:52 GMT",
+      "snippet": "Washington Luís terá novas obras e interdições nesta semana em Rio Preto Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-23T03:00:02.692410+00:00"
     },
     {
       "id": "ab53c97758c45277a7b43f2e57b745e3883f3f6db5496e81806891b41affe2bd",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:42.187514+00:00"
+      "collected_at": "2026-09-23T03:00:14.590354+00:00"
     },
     {
       "id": "e7f4bca1efe2a0d0b7a4c45c404d450eb1a3a86da0e37e83e1b585b7117cbbcd",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969516+00:00"
+      "collected_at": "2026-09-23T03:00:02.692557+00:00"
     },
     {
       "id": "2aed1b110dd29189ce95e9b6e810f553d3e80309a667ce86e06ae2fea5677d67",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969585+00:00"
+      "collected_at": "2026-09-23T03:00:02.692622+00:00"
     },
     {
       "id": "31006647a2592b036db4ee5b12e56267d6d39db1a4094d2e0737aafa58914d16",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969665+00:00"
+      "collected_at": "2026-09-23T03:00:02.692699+00:00"
     },
     {
       "id": "c0ce6bb81c51c8e1213efb7e44d51f611a37c4f75e84d3a9b23a658e93ad17af",
@@ -162,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969353+00:00"
-    },
-    {
-      "id": "a19cadb8ac687f915c29df52a3e795b59d166ce68572830f9b62f02f4bb8f51b",
-      "title": "São Carlos promove ações de educação no trânsito e alerta para mortes de motociclistas - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlRpcGlxcXFEVnRPWmFYOXJ2YkJEU3FaU2lTSzBNNWhYT2xsdTRMb3N0cnV5NFFsRUU3ZWhSTkktWHJ3ZWFfUFpwNDU0cXAwemktSVNkUXJIMGZaeDVoVHVRSFNoLUNIWUNLQmpzMlY4ZXRieUZtUFMxdWwzTlBrdkVwQ3hOVWIzODViTnBaYnJqVVJfYXc4MFhqWGxSaURBbTYwY19YM3FHT0paYUZjbUJnZXMyVmJaLUhVdzFrenZwemthZk13SklieGQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-22T06:33:25+00:00",
-      "published_raw": "Tue, 22 Sep 2026 06:33:25 GMT",
-      "snippet": "São Carlos promove ações de educação no trânsito e alerta para mortes de motociclistas Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-23T02:15:30.969440+00:00"
+      "collected_at": "2026-09-23T03:00:02.692486+00:00"
     }
   ]
 }
