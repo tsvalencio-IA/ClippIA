@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T13:58:36.042790+00:00",
+  "updated_at": "2026-09-24T18:44:07.904307+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-24T13:58:20.007940+00:00"
-    },
-    {
-      "id": "bdf49786938e234ab9e8c4675cb5b003e350eb6675d9f8a6bb7ced67a54c87f1",
-      "title": "Obras na Washington Luís alteram tráfego entre Rio Preto e Mirassol até sábado - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkJYNjRlWFRnbkpFdk5OUHRNV0lNWFpTWVhFZjdzUGhTcW9uRmRTejBhMWhKWHZ3RHZwS1RBeDFUakxUSzZGWU1Ba3diZ2pWSktMMkl6Y184WThpNE9BTDhiY1ZVQlF5aF9vV1JUUnFLWlllZnFlWmNhdHJIdlpNUnVMck5UV282SHV3Q2JkX2kzdmU2U1Joc0xGVHluZzFIaUYtelFBU2NGOU4xMUJBTHkwYjcxbUpPa2dSRVFySDFXYlZjekJpYi05MGp3emZM?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-23T16:13:00+00:00",
-      "published_raw": "Wed, 23 Sep 2026 16:13:00 GMT",
-      "snippet": "Obras na Washington Luís alteram tráfego entre Rio Preto e Mirassol até sábado Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-24T13:58:19.429710+00:00"
+      "collected_at": "2026-09-24T18:43:52.036965+00:00"
     }
   ]
 }
