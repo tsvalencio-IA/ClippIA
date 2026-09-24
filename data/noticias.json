@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T08:04:26.263122+00:00",
+  "updated_at": "2026-09-24T13:53:04.838349+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 2,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "cb08b01538ec4fc27859c8de60ef3c25166f30e1b48d594c3354e9930d9ec775",
-      "title": "Pedágio sem barreiras eleva o risco físico e a cibersegurança no free flow - mobilidadesampa.com.br",
-      "source": "mobilidadesampa.com.br",
+      "id": "a51f2038a515f07756b0aa5196e3b2f641de852c9c0a0b225b4f4b99ea8d6b2c",
+      "title": "Pedágio sem barreiras eleva o risco físico e a cibersegurança no free flow - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGc2b0lBWEhGRE83THVUNE1lX3hzaGVMSnptLTFDZlp4UVVPUTIwSGt2SXM0RGRQeGx0RkRNRXppbEdlUWxoUU9ta0dTM1BfQjVpbVNacjVrTjktSDZfU1pFLXJleG9sNzNud1hXeHJOWmhuX0ljTFVUektJbkJqOW4yRlN1dlFNWmk4?oc=5",
       "resolved_link": "",
       "published": "2026-09-23T21:56:57+00:00",
       "published_raw": "Wed, 23 Sep 2026 21:56:57 GMT",
-      "snippet": "Pedágio sem barreiras eleva o risco físico e a cibersegurança no free flow mobilidadesampa.com.br",
+      "snippet": "Pedágio sem barreiras eleva o risco físico e a cibersegurança no free flow Mobilidade Sampa",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-24T08:04:10.568538+00:00"
+      "collected_at": "2026-09-24T13:52:46.031903+00:00"
     },
     {
       "id": "bdf49786938e234ab9e8c4675cb5b003e350eb6675d9f8a6bb7ced67a54c87f1",
@@ -77,58 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-24T08:04:10.029918+00:00"
-    },
-    {
-      "id": "01ac89e9ee2e6b1d4ba487090895f7377ee2d80616f7b807562a0e44581acaa3",
-      "title": "Prefeitura de São Paulo vai contratar verificação externa para melhor a gestão do transporte coletivo e acompanhar eletrificação dos ônibus - lucianapombo.com.br",
-      "source": "lucianapombo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGsxRjFQcEVIbWY2bjRDOUtQUV9oaENaYU5FMmc1a3JfT1FLMTdBRjlKdVhCcHphamt4TnZwYzljU1dCVDFJbE54b0lTVVZLaWtPVkxTQXkwOVJHdEhlNUhaLVd0MWFsaXdGX1NsMy1FdUk5b015ZUVuc0NYLUpXNnNXWFBJWTB5VHlKeTdoRHNmSUp1ZXRoVS1OdW00ZFNUVFNvVldFZG5zMXF4MGpTTF8tOGt6d2tveWJRQlN6cXRPX0NfdkktOEZocDkxSjd5WEowZDhPaVducmlSVTYw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-23T10:15:04+00:00",
-      "published_raw": "Wed, 23 Sep 2026 10:15:04 GMT",
-      "snippet": "Prefeitura de São Paulo vai contratar verificação externa para melhor a gestão do transporte coletivo e acompanhar eletrificação dos ônibus lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-24T08:04:10.029789+00:00"
-    },
-    {
-      "id": "048d4ebe814fc16d43c9b10c953d9aef0aea79462b2caa4ce1a7559462c33c0d",
-      "title": "Linha 9-Esmeralda opera com restrições nesta quarta-feira (23) devido a risco de deslizamento próximo aos trilhos - lucianapombo.com.br",
-      "source": "lucianapombo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3doeVZ5ZEpBeGZCR3hmX2JNQVBJcG13XzNaV3didXZhRHZCWWEtZGJBakdTRmZLXzFHSTFIYTdQbHZvalZUSThXdV95eGVCWHlCSGx1enRab3Q1akIySy16NmM3LWhfQldXYTFvT2pwUjR3N0RXb3ROX2EzcXM0Zm9IQ2pkT3o4MXpXRi02WEhPZnQwQWk1X0NoS19hVkpSTmVndkZaZjJFanFRaXBrWXdlT1RUcTM2QWcxWmJwb3phckt2OW1xQ1phajZQNTMtOTZKWVhSZnpJaUd6T0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-23T09:12:15+00:00",
-      "published_raw": "Wed, 23 Sep 2026 09:12:15 GMT",
-      "snippet": "Linha 9-Esmeralda opera com restrições nesta quarta-feira (23) devido a risco de deslizamento próximo aos trilhos lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-24T08:04:10.029710+00:00"
-    },
-    {
-      "id": "1b9fb24bbf50195511208acdb4a6ef9e56021383388a72e5880339a0ce97cef9",
-      "title": "ANTT nega mercados pedidos pela Viação Novo Horizonte após Justiça mandar agência concluir análise pelas regras atuais. Empresa queria que pedido fosse analisado pelas normas de 2023 - lucianapombo.com.br",
-      "source": "lucianapombo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeWdnbXdpMlh1TkJ2bjdLYU5Zd01vOVpsbHFYdnU2S21KN3JsZWhteEoyX2I5SzItNTM0ekZYVjZtODF3RTU0alZJaWljeDFjQWFqWmVoUXBaMXpXblY0MmtoczlaWG9naV9vUDZnRUFqdjdhT2F3d2Z2Wl8ycjczS1JJdWRicGVXZENYeXgtVk1RQlFqRGdSa1VZVGpvMTFkZmFpQVVuTFNVemRXZ01wc0U1VHhIdklfZUNXenNyQ1dnblN2LWI3U0daUk1LcWJOaTVxQmUzYldDcERidkt3?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-23T08:08:23+00:00",
-      "published_raw": "Wed, 23 Sep 2026 08:08:23 GMT",
-      "snippet": "ANTT nega mercados pedidos pela Viação Novo Horizonte após Justiça mandar agência concluir análise pelas regras atuais. Empresa queria que pedido fosse analisado pelas normas de 2023 lucianapombo.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-24T08:04:10.029860+00:00"
+      "collected_at": "2026-09-24T13:52:45.362197+00:00"
     }
   ]
 }
