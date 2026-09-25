@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T02:19:28.037408+00:00",
+  "updated_at": "2026-09-25T03:07:52.591891+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T02:19:11.861856+00:00"
+      "collected_at": "2026-09-25T03:07:36.000610+00:00"
     },
     {
       "id": "5bfdca31382e806f43ea2d80c62c4cafb1f031cf5e2321b7dcd3ed86d4cefb2d",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T02:19:11.862107+00:00"
+      "collected_at": "2026-09-25T03:07:36.000874+00:00"
     },
     {
       "id": "1d91dc2157848fffaeb580bd6bbe63d221ee44ba8e71c10cc4b5735d50cf9d83",
@@ -88,13 +88,13 @@
       "published": "2026-09-24T20:50:39+00:00",
       "published_raw": "Thu, 24 Sep 2026 20:50:39 GMT",
       "snippet": "Ecovias transplantará três ipês da entrada do Jardim Embaré, em São Carlos Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T02:19:11.861953+00:00"
+      "collected_at": "2026-09-25T03:07:36.000713+00:00"
     },
     {
       "id": "6af98eb05189bf1f0d66f0023a9ddef74f6c2d640884472213e8d36fdff0b298",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T02:19:11.862042+00:00"
+      "collected_at": "2026-09-25T03:07:36.000806+00:00"
     }
   ]
 }
