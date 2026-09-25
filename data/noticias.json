@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-24T23:43:41.399594+00:00",
+  "updated_at": "2026-09-25T02:19:28.037408+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "0cf532521e5e2f6006fe5a075b0d0c4af0afd5576e6daf7f3910f12c473a0bdf",
+      "title": "Três ipês plantados por pai e filha serão transplantados durante obras na Washington Luís, em São Carlos - - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81T05rNnZEbTJNUXQwS0xHZF92aU9fZXpRNkxnTjRJbWE0bERnQmliWTFiT2tGY0NSZHlVTFM0Rm5YemlsYlZVcmdWTE0wWU84dDFMcmtWRWFUb3lrbWZ1OHBYZFlSbTM0ZVJSZmpZcWVIZmfSAXNBVV95cUxPNU9OazZ2RG0yTVF0MEtMR2RfdmlPX2V6UTZMZ040SW1hNGxEZ0JpYlkxYk9rRmNDUmR5VUxTNEZuWHppbGJWVXJnVkxNMFlPOHQxTHJrVkVhVG95a21mdThwWGRZUm0zNGVSUmZqWXFlSGZn?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-24T23:39:15+00:00",
+      "published_raw": "Thu, 24 Sep 2026 23:39:15 GMT",
+      "snippet": "Três ipês plantados por pai e filha serão transplantados durante obras na Washington Luís, em São Carlos - São Carlos em Rede",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T02:19:11.861856+00:00"
+    },
+    {
       "id": "5bfdca31382e806f43ea2d80c62c4cafb1f031cf5e2321b7dcd3ed86d4cefb2d",
       "title": "Semana do Trânsito simula acidente no Mercado Municipal - Região em Destake",
       "source": "Região em Destake",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-24T23:43:25.109861+00:00"
-    },
-    {
-      "id": "6af98eb05189bf1f0d66f0023a9ddef74f6c2d640884472213e8d36fdff0b298",
-      "title": "Câmeras com IA que flagram uso de celular entram em operação no dia 1º de outubro na Washington Luís - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTFZyM2o2eEp2VjBsMm9iV0FwcHNtWGhWTG9rVjhSS0pfU0tyTUhzaWpCMzRCQk91SHQ3azhiQ1FJYzhkcTdsMU5RYUpyRjhrblZBZi16LWl2cHVDbmJ5YnFBVHNzRktZdzBJSEdrMXQwTTFYN1NicGUyRDhzMGFqVzc1MkxabWp3SEdCd1E5MEZKN3FVakFGUzF6MVhvWHZXajByM0lOeFZ2VHA2U2NRQWdiZEhkb2ZpWkt3RHhlYmdJR3BtT0tCQm14OWRWSWtxX3BTUWpDZEw5VW5CVUVINmt3UUJ4QkJfUzl3?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-24T20:54:04+00:00",
-      "published_raw": "Thu, 24 Sep 2026 20:54:04 GMT",
-      "snippet": "Câmeras com IA que flagram uso de celular entram em operação no dia 1º de outubro na Washington Luís Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-24T23:43:25.109952+00:00"
+      "collected_at": "2026-09-25T02:19:11.862107+00:00"
     },
     {
       "id": "1d91dc2157848fffaeb580bd6bbe63d221ee44ba8e71c10cc4b5735d50cf9d83",
@@ -94,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-24T23:43:25.109767+00:00"
+      "collected_at": "2026-09-25T02:19:11.861953+00:00"
+    },
+    {
+      "id": "6af98eb05189bf1f0d66f0023a9ddef74f6c2d640884472213e8d36fdff0b298",
+      "title": "Câmeras com IA que flagram uso de celular entram em operação no dia 1º de outubro na Washington Luís - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWE8wSC1OQWw4YVhLM2ZxMDBTbVJQcEZQSE11YVVFZnZKU1ZGQ1ZfVlRLREFpSDdVeU5BcEM2VnYyR2x2MkNOLUVfWVp3bEtuYVJSd1dxRFpGLVVNQTdTbTdCMUItcWVCOER6YktvNG5CYmhGczFrakxkdzgtXzNkVm5tc1RTYU9ObWk5QTdleEQ0UVpIMlNoTkprOGFUcGRRSW1ud3ZzX0hGbUtmTWV5Z1RVNl92Mm5rYnpkdHo0ckRaTTRKV3p1X000dEcxY19JN2NSSUxfOVdmYnZiME1RU1hSRnpmZzFjbGgwYg?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-24T20:49:14+00:00",
+      "published_raw": "Thu, 24 Sep 2026 20:49:14 GMT",
+      "snippet": "Câmeras com IA que flagram uso de celular entram em operação no dia 1º de outubro na Washington Luís Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T02:19:11.862042+00:00"
     }
   ]
 }
