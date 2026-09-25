@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-25T03:07:52.591891+00:00",
+  "updated_at": "2026-09-25T08:17:35.692371+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 8,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "dc712739786f5a8c0eb376325bfe5a182472fc6aa7600aa7683141f8358881b7",
+      "title": "Curupira, bichos e mistérios da floresta ocupam o Cemac neste sábado - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRXl2NWMzX0d2RE1FREN6c2xMMHpOemlvbEZ5R05iLUdOU1lvSlliS3dVZWpocWdnVlY2ZzBCQUFVdTBwUndBTTZEbGpGbVNyVGVnLThNd3dKWTFKWW1yQXdLRTlnQlRGSTdqTmJVZ1ppWkdvdzdveUcwS0xVcjBlQ3BCRGRod1dDZTktV0hKOHRKWVRPTjhBOGplNGxSRnYyQnNv0gGjAUFVX3lxTE9FeXY1YzNfR3ZETUVEQ3pzbEwwek56aW9sRnlHTmItR05TWW9KWWJLd1VlamhxZ2dWVjZnMEJBQVV1MHBSd0FNNkRsakZtU3JUZWctOE13d0pZMUpZbXJBd0tFOWdCVEZJN2pOYlVnWmlaR293N295RzBLTFVyMGVDcEJEZGh3V0NlOS1XSEo4dEpZVE9OOEE4amU0bFJGdjJCc28?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-25T04:22:12+00:00",
+      "published_raw": "Fri, 25 Sep 2026 04:22:12 GMT",
+      "snippet": "Curupira, bichos e mistérios da floresta ocupam o Cemac neste sábado - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T08:17:19.027858+00:00"
+    },
+    {
+      "id": "d2c7779f5381d59e39ab70c51b042297f395bf067e1691d84cb8692f567d61bb",
+      "title": "Galinha Pintadinha lança o videoclipe \"Mentira, Mentira\", música inédita de seu primeiro filme - - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGVycmh3Vl9SdElqcmNwOWVKSFQ1Q1NOUGNmTmhxdXdvQmZERFA5dE9sQkhyMVYwOS1majJINjV1bnp3SVdkUzRtc2RNbWJpakVwR0Q5VGg3Zlg1OEotUXphd0xNVnM4bXE2SU4zR25IMjAydVNpQ3Y1UjZpanRTd0VWWmJBMVgybm5mYkJHQk9JajhvNnhKcUZfSWRYaVZVVVBfMDM3a0FfcnFaeFVSU2xVZURoYng4NlgxSXdQN0hxZ9IBwgFBVV95cUxNRGVycmh3Vl9SdElqcmNwOWVKSFQ1Q1NOUGNmTmhxdXdvQmZERFA5dE9sQkhyMVYwOS1majJINjV1bnp3SVdkUzRtc2RNbWJpakVwR0Q5VGg3Zlg1OEotUXphd0xNVnM4bXE2SU4zR25IMjAydVNpQ3Y1UjZpanRTd0VWWmJBMVgybm5mYkJHQk9JajhvNnhKcUZfSWRYaVZVVVBfMDM3a0FfcnFaeFVSU2xVZURoYng4NlgxSXdQN0hxZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-25T04:22:10+00:00",
+      "published_raw": "Fri, 25 Sep 2026 04:22:10 GMT",
+      "snippet": "Galinha Pintadinha lança o videoclipe \"Mentira, Mentira\", música inédita de seu primeiro filme - São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T08:17:19.027940+00:00"
+    },
+    {
       "id": "0cf532521e5e2f6006fe5a075b0d0c4af0afd5576e6daf7f3910f12c473a0bdf",
       "title": "Três ipês plantados por pai e filha serão transplantados durante obras na Washington Luís, em São Carlos - - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -60,24 +94,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T03:07:36.000610+00:00"
+      "collected_at": "2026-09-25T08:17:19.027423+00:00"
     },
     {
-      "id": "5bfdca31382e806f43ea2d80c62c4cafb1f031cf5e2321b7dcd3ed86d4cefb2d",
-      "title": "Semana do Trânsito simula acidente no Mercado Municipal - Região em Destake",
+      "id": "b20b851d58cb61ed30db2058743973435b42b824fc5f53c6f0552722447e0614",
+      "title": "Semana Nacional do Trânsito leva simulação de acidente e ações educativas ao Mercado Municipal de São Carlos - Região em Destake",
       "source": "Região em Destake",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkNra0lHZUV0OXA5bjZLMVFzSjZicjNfX185TWx1WU55MmNhZi1Sa1ViU1E3RjNBR3Q4UUJoT3ltWmhTcHM1NGtJNXBUVXRKcDVmNFZoSzBaRWhydEJoNXloZFVJSjBaN3FsX25LQzR2RnRlNWFDWnRtTkJJT0F4b1lrVW9aVnFSb3BtUFRn?oc=5",
       "resolved_link": "",
       "published": "2026-09-24T22:35:20+00:00",
       "published_raw": "Thu, 24 Sep 2026 22:35:20 GMT",
-      "snippet": "Semana do Trânsito simula acidente no Mercado Municipal Região em Destake",
+      "snippet": "Semana Nacional do Trânsito leva simulação de acidente e ações educativas ao Mercado Municipal de São Carlos Região em Destake",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T03:07:36.000874+00:00"
+      "collected_at": "2026-09-25T08:17:19.027680+00:00"
+    },
+    {
+      "id": "92506514992d7d4f680d1e8a596d633ed07e7edc5df8f9897d32030402129552",
+      "title": "Ecovias Noroeste Paulista transplantará três ipês da entrada do Jardim Embaré, em São Carlos - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzhLbWNFSnNrdnRneXhYMmltTERXUEFscXltZHJ6N1JSUDUzM0d3RmVCNjc1MjRuUUloQW53ZmVFNWtKUWtCQlo5TGFCaXYtRV95S2VDdWF1SngyczVoNE9GSlVOam9WLXhiRG8zQ29PNm95Yk9ucGEwX0Rvd3BjNWo5NmItSDdxMFBJZUJFc1pZYzhYZmFNQkFnUzlpYkZBMjM5dGhub0tYUExuSVdBbm5RMXpNdnpCc2c0OVJR0gHDAUFVX3lxTE9SSy1vbmJmbjU1U3pEWVBsRnFDa2cweTJ3ZTV2OWhHNWxKRkxkTVpDM3B5Sk5SQ2tEaVdFZzRESEtMTWR5VTNnVWhScmtnZ2poRXlBUTJvMDN6cHVMazc4alJ1ajVXVmVRSUNJbGR1c1k1dnBFR1VaLU1MRktZUF9yRGNoZEIxOVR1VFdCUTFQWWdGR3Izcm5PczZYWUZETi03YlFUUHljNXp0VHJyVkxCUUluOVhfQlZkZVhEeUFwY1hmOA?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-24T20:55:48+00:00",
+      "published_raw": "Thu, 24 Sep 2026 20:55:48 GMT",
+      "snippet": "Ecovias Noroeste Paulista transplantará três ipês da entrada do Jardim Embaré, em São Carlos - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T08:17:19.027314+00:00"
     },
     {
       "id": "1d91dc2157848fffaeb580bd6bbe63d221ee44ba8e71c10cc4b5735d50cf9d83",
@@ -88,13 +139,13 @@
       "published": "2026-09-24T20:50:39+00:00",
       "published_raw": "Thu, 24 Sep 2026 20:50:39 GMT",
       "snippet": "Ecovias transplantará três ipês da entrada do Jardim Embaré, em São Carlos Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T03:07:36.000713+00:00"
+      "collected_at": "2026-09-25T08:17:30.842861+00:00"
     },
     {
       "id": "6af98eb05189bf1f0d66f0023a9ddef74f6c2d640884472213e8d36fdff0b298",
@@ -111,7 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-25T03:07:36.000806+00:00"
+      "collected_at": "2026-09-25T08:17:19.027593+00:00"
+    },
+    {
+      "id": "f6865888d0d23581ae55b469c5314de1bbc4553ebdeb9459e048d2d553019ebd",
+      "title": "Semana nacional do Trânsito promove simulação de acidente e ações de conscientização no mercado municipal - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMWtZWWZMb0NpV1FtZnNNTFFOSGNtRUttUDRjamxpWDZ6dmxRbXM5NVprRGVnVS1QZHlwQkd0YVh0SUgxQjJpR200cGZZMFduZk1HeVNnQ1NBZXliZk5zbDhmaHpGQjA4WFhwM0RQYm5SVzVpSC1UV1hFLVg3VjFEQXctak5Jc2FPWGNqd2JLZ2wzSmtZMWdtVnBMc1BTdXY1a0s4UURiak10Ykw5cVJkaDVYVDh1NzJqei1aTF8zZk1iSFZWamVacjB4ellxbkFBUmRlN3hlTllxQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-24T20:48:40+00:00",
+      "published_raw": "Thu, 24 Sep 2026 20:48:40 GMT",
+      "snippet": "Semana nacional do Trânsito promove simulação de acidente e ações de conscientização no mercado municipal Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-25T08:17:19.027773+00:00"
     }
   ]
 }
