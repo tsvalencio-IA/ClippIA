@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T08:04:45.267233+00:00",
+  "updated_at": "2026-09-26T10:42:48.345450+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 14,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "0a0d98434cbbc0459d3d97c0110da354d9d695fdc43abb619f4ae0216f47fe9a",
+      "title": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnBPRi0tZFRPNXJlaVVYWXZibXhSUjVDX284UnpYZGxtUDhpdFV0RUd3d19pUEd6YTBVNkhRSVFybVdwR0ZVX0JmYWhaOFpZUVdNLTU0RE16M0FVVGZRcG1yYUJ4YkJmRHdUaW1DYzJIRTY5SF9uRkQ3UE5Ca2ltcFBDM3lEeDNvQkljQ250VEY2VGpna3YxTWMteHpmcWRWMzFDNXlBM0h3TFFEYWpXUzFWVXBxRjIzcjAyY0xOZU50ajJyT1ZUZ1hSWDNLNXhCUkdldjBxV1k0TFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-26T10:07:00+00:00",
+      "published_raw": "Sat, 26 Sep 2026 10:07:00 GMT",
+      "snippet": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-26T10:42:43.657694+00:00"
+    },
+    {
+      "id": "889a9e0010fd040ed7d50067f65ee31d2d6c6be7256bae5709e4b5044dfd995b",
+      "title": "Fiscalização de trânsito por câmeras com IA na região começa na quinta (1º) - oextra.net",
+      "source": "oextra.net",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSVhpbG1hVzU4UHFUREdzZ3JUdkNzTTdHaS0yQ2s2S09TekdBMEFVVDhDdVdNTFNLMHNnbF9IaDBoMDlGNWFrQUxfNE56TzRLXzM2R21MUHRpbkN3VHhZSFh6RGJVTGhBaVZwU05FQzdrbjRNSE4zSGxWcXhFMTdmcHM2S0FLYkN5c0J3OVlXTFhJN2w5QUlRaDNKV0JsUmc?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-26T09:01:12+00:00",
+      "published_raw": "Sat, 26 Sep 2026 09:01:12 GMT",
+      "snippet": "Fiscalização de trânsito por câmeras com IA na região começa na quinta (1º) oextra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-26T10:42:32.454955+00:00"
+    },
+    {
       "id": "825fb453bb677a093b450e61fefa1aab1d1ecdf980c67a74412abb83eb2d16d5",
       "title": "Motociclista morre após tombar e ser atropelado por carreta na Washington Luís - Portal da Cidade - Mirassol / SP",
       "source": "Portal da Cidade - Mirassol / SP",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756817+00:00"
+      "collected_at": "2026-09-26T10:42:32.455519+00:00"
     },
     {
       "id": "d9dc4875dcd93a065d26469f16f69a3c413ca2f417f3759664cc76c84a3783e9",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756508+00:00"
+      "collected_at": "2026-09-26T10:42:32.455056+00:00"
     },
     {
       "id": "0cee19bac4d3bd23888f41740973331388be8c6f1652b310d2ed3af6fffff5db",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:38.899877+00:00"
+      "collected_at": "2026-09-26T10:42:42.628611+00:00"
     },
     {
       "id": "27a14efd68f45cd81e1b7c752d95a15bb9716fc58a6268085dd2c855c311ff0a",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:41.393721+00:00"
+      "collected_at": "2026-09-26T10:42:44.753275+00:00"
     },
     {
       "id": "546e67ec5cb7df44e3a100f1771c22631304bf3fe1f738eb70844f12a48c42bf",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:40.231067+00:00"
+      "collected_at": "2026-09-26T10:42:43.657326+00:00"
     },
     {
       "id": "bd049826eed2e5a7cb5a122054e170413d37d46054696da6ee8f2c77fe0de6cd",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:28.524976+00:00"
+      "collected_at": "2026-09-26T10:42:32.961565+00:00"
     },
     {
       "id": "cf099db96c6b7f6bdeefb631e0a9b0802a8ed8df9a4228b0c0bdb2320f0b9ca1",
@@ -156,13 +190,13 @@
       "published": "2026-09-25T21:00:26+00:00",
       "published_raw": "Fri, 25 Sep 2026 21:00:26 GMT",
       "snippet": "Motociclista morre ao ser atropelado por carreta em rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756372+00:00"
+      "collected_at": "2026-09-26T10:42:32.454835+00:00"
     },
     {
       "id": "4d2308373ad1bc540f62b4e6a27d0d1758a1b6c8ea84a864b49e568f594cd7e4",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:40.231122+00:00"
+      "collected_at": "2026-09-26T10:42:43.657457+00:00"
     },
     {
       "id": "643d3749fdbe16bd9bc650573e8374ace67fe2a915b725c085d774d37b3ffac2",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756658+00:00"
+      "collected_at": "2026-09-26T10:42:32.455233+00:00"
     },
     {
       "id": "1c411ef70506836a8abd2f70759f2d15dea8a20365ac814b54a2ac7cd95b0738",
@@ -213,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756765+00:00"
-    },
-    {
-      "id": "46034c34062145105034a8871c8115e2a12f817a33ea8f7d28b5069716cb6919",
-      "title": "Câmeras com IA vão fiscalizar uso de celular e cinto na Washington em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkxxcllNWUlfUWxaekxndWJzNmRlS2lfT1U5ampHOHJLQTdxR0dWZE9BRnYzTDRBam13OWlOUmtGXzZxSE1pdWhGRXpPdXh1YTk5SWw4Y1htVEV5eUxwVzdBemVNbFdWSkpMUkNLblgzV3pJanpWSkpoakRGWFMydEFQRjhtX0hrMENxakVwSjlsZEo1Y0hjRlFoQndTaG84MWZiYXpoTG8yWjQwT1NQVW1BWUdmUFk?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-25T12:15:55+00:00",
-      "published_raw": "Fri, 25 Sep 2026 12:15:55 GMT",
-      "snippet": "Câmeras com IA vão fiscalizar uso de celular e cinto na Washington em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756451+00:00"
+      "collected_at": "2026-09-26T10:42:32.455418+00:00"
     },
     {
       "id": "ef449a66623e4b01d4bd2eefad4c34e07b3c481a4d9a3348fef8bbdca99bc414",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756711+00:00"
+      "collected_at": "2026-09-26T10:42:32.455309+00:00"
     },
     {
       "id": "1a0fcbea9abb2ff5a8b379a2b2cc69d8c6ab1e68170f6245118dd861c354cfc0",
@@ -264,24 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756606+00:00"
-    },
-    {
-      "id": "8fd1092ae68975a787cdfe10bd16204a16d56fbb1eb0e9ee3bb388fcde7ae5d7",
-      "title": "Ecovias transplantará três ipês da entrada do Jardim Embaré, em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2ZyVldGaVV3d1NTYVZDbEw2eEpKUFhSVlVSSnNpTmR0XzJHSDF3a21oUTAwZjIzOVc4RGEwSjRJQTRZWVhzZldpaGZpWWxlZ0oxQ25ORTZjUnlKNTNfbndLVERwS1ZiS3A1Zmljb3lOTWtmNlE1aGpTbC1BallTWU9vbWpMRldlVElNaHNjQkxxM0NXNnZiXzRfSUdISHVIc2gwdzRvd0VURldqOXV5QUI2VlJYckc5Z25IVE42d2FFaDR1bkVZcjln?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-25T10:16:00+00:00",
-      "published_raw": "Fri, 25 Sep 2026 10:16:00 GMT",
-      "snippet": "Ecovias transplantará três ipês da entrada do Jardim Embaré, em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-26T08:04:27.756560+00:00"
+      "collected_at": "2026-09-26T10:42:32.455140+00:00"
     }
   ]
 }
