@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-26T18:08:53.524923+00:00",
+  "updated_at": "2026-09-26T20:34:46.333379+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 16,
+  "total": 17,
   "total_images": 0,
-  "new_items": 16,
+  "new_items": 17,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,30 @@
       "published": "2026-09-26T16:42:31+00:00",
       "published_raw": "Sat, 26 Sep 2026 16:42:31 GMT",
       "snippet": "Motociclista de 33 anos morre após bater na traseira de ônibus RP10",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:48.536246+00:00"
+      "collected_at": "2026-09-26T20:34:29.988443+00:00"
+    },
+    {
+      "id": "38145b046917716565ed1221e34180041051ad781712d0aa630b3c1b5d431fe8",
+      "title": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWU5iUkJGMkJzdjNDTUJzRkxadFVlLVdURWl2bU9PeENvMHBzMDlwVjdNdGpEZWt0d3NPU29xUDEwN2hBWF9oSW04VktkeE5lMmRhWU93Q0F4dG4yVVJGek9mNmlxX2Z3T2JGakozbkVhN0VDOEZsWE9STVVJR1lJVzUyNEdLQ1JQTGtTTExaaldvWmxwTTNLdUZOZVZFcHJDRC0xdkJBMjYtNW5mWG85Nml3MWU?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-26T16:21:00+00:00",
+      "published_raw": "Sat, 26 Sep 2026 16:21:00 GMT",
+      "snippet": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-26T20:34:31.679593+00:00"
     },
     {
       "id": "2bc975dedeb1814aaf7497f0a0aaad3468620711116b0e7efc1bf5e679e2eda7",
@@ -77,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:48.536172+00:00"
+      "collected_at": "2026-09-26T20:34:41.545707+00:00"
     },
     {
-      "id": "508d5757c9bafa5091a6c8b4683e7f86d7447640e96ecfd2da52b93c27cb5d1b",
-      "title": "Obras interditarão acesso da SP-215 para a pista norte da SP-310, em São Carlos - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
+      "id": "413d69e0035eb87bae8f5d4893e881432c4e1ceb354f375bd73ddab1d3cb3ca7",
+      "title": "Obras interditarão acesso da SP-215 para a pista norte da SP-310, em São Carlos - jornalpp.com.br",
+      "source": "jornalpp.com.br",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFMQVAzT2ppTmNUTHZnX3RsWDZOMVk2aFhpYXBUMm1WdjFORFA1ZEhQSFRySmRSbUhfc1hEZjJkU21KaV9OLW9jWjR1NDJFajh6U3B5WlFsRVFkZ0NkR0tQQVFIOU1OOTJGVFFkR0U5cUdrRnUwMzFFZV8wTGhleThjLUxuUGJndzhZMmx4RmVrYTJ0MnRKbTVHc1ZhVnFNc3BCc2k0VkhXNTZ4VE40ZTF3RkZKb1lJM1B6cA?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T14:06:20+00:00",
       "published_raw": "Sat, 26 Sep 2026 14:06:20 GMT",
-      "snippet": "Obras interditarão acesso da SP-215 para a pista norte da SP-310, em São Carlos Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "snippet": "Obras interditarão acesso da SP-215 para a pista norte da SP-310, em São Carlos jornalpp.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.577592+00:00"
+      "collected_at": "2026-09-26T20:34:29.987910+00:00"
     },
     {
       "id": "502eb18403601967c22de3060ff71c6ff549026ffeffabe567660796ba68231f",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:48.536101+00:00"
+      "collected_at": "2026-09-26T20:34:41.545634+00:00"
     },
     {
       "id": "f91bc4fd7b8f6a4e3862fbac04da5cd153bb240ae073eba5d0ef8e5f9c1fc677",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.578138+00:00"
+      "collected_at": "2026-09-26T20:34:29.988524+00:00"
     },
     {
       "id": "fe3d4573f5c41aef6950550613abc4512a56358413f15fb5678e2e1e7debebee",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.577760+00:00"
+      "collected_at": "2026-09-26T20:34:29.988036+00:00"
     },
     {
       "id": "21a67c1757780b084e5aa6520d05b2401fe033b97c10e4458732994a33d55073",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:47.927618+00:00"
+      "collected_at": "2026-09-26T20:34:40.967556+00:00"
     },
     {
       "id": "0a0d98434cbbc0459d3d97c0110da354d9d695fdc43abb619f4ae0216f47fe9a",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:48.536461+00:00"
+      "collected_at": "2026-09-26T20:34:41.545911+00:00"
     },
     {
       "id": "889a9e0010fd040ed7d50067f65ee31d2d6c6be7256bae5709e4b5044dfd995b",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.577926+00:00"
+      "collected_at": "2026-09-26T20:34:29.988193+00:00"
     },
     {
       "id": "1a0fcbea9abb2ff5a8b379a2b2cc69d8c6ab1e68170f6245118dd861c354cfc0",
@@ -207,13 +224,13 @@
       "published": "2026-09-26T07:38:23+00:00",
       "published_raw": "Sat, 26 Sep 2026 07:38:23 GMT",
       "snippet": "Câmeras Inteligentes Combatem Distração em Rodovias Portal Hortolândia",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.578068+00:00"
+      "collected_at": "2026-09-26T20:34:29.988340+00:00"
     },
     {
       "id": "825fb453bb677a093b450e61fefa1aab1d1ecdf980c67a74412abb83eb2d16d5",
@@ -224,47 +241,47 @@
       "published": "2026-09-25T22:16:00+00:00",
       "published_raw": "Fri, 25 Sep 2026 22:16:00 GMT",
       "snippet": "Motociclista morre após tombar e ser atropelado por carreta na Washington Luís Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.578221+00:00"
+      "collected_at": "2026-09-26T20:34:41.545989+00:00"
     },
     {
-      "id": "71a1e90a130c984e8cd07abb2dbb597268613e2de4f7923e8afd2052175163d2",
-      "title": "Ecovias Noroeste Paulista inicia fiscalização por câmeras com IA na SP-310 - mobilidadesampa.com.br",
-      "source": "mobilidadesampa.com.br",
+      "id": "d9dc4875dcd93a065d26469f16f69a3c413ca2f417f3759664cc76c84a3783e9",
+      "title": "Ecovias Noroeste Paulista inicia fiscalização por câmeras com IA na SP-310 - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0Y2UVlJaDlnX0xJeVZBRlUyV2dZV2d1bm9jRVk3YUtZZXV0dFM1WnAyLXM4ODhFUDJRdmRmSkVkUlVRZmNYbjU0ZkJ2Q2lNSWNEMnBiQ3hPUUxkcWlzb0U5UHEtWTA5bTRRX0NWTDBUdFFkVEgya256V1lvTFV0cTZOLTU?oc=5",
       "resolved_link": "",
       "published": "2026-09-25T21:44:26+00:00",
       "published_raw": "Fri, 25 Sep 2026 21:44:26 GMT",
-      "snippet": "Ecovias Noroeste Paulista inicia fiscalização por câmeras com IA na SP-310 mobilidadesampa.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "snippet": "Ecovias Noroeste Paulista inicia fiscalização por câmeras com IA na SP-310 Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.577999+00:00"
+      "collected_at": "2026-09-26T20:34:29.988269+00:00"
     },
     {
-      "id": "488f771180a4c1502ff6dcb74271c1945ca2cd51f70981ace5482eefdb06aa01",
-      "title": "Motiva Minas_SP divulga cronograma diário de recuperação do pavimento na Fernão Dias - mobilidadesampa.com.br",
-      "source": "mobilidadesampa.com.br",
+      "id": "0cee19bac4d3bd23888f41740973331388be8c6f1652b310d2ed3af6fffff5db",
+      "title": "Motiva Minas_SP divulga cronograma diário de recuperação do pavimento na Fernão Dias - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlpTV2Rob05qLWEwUl9FemZuZzFrYkdaaFA5NDZmSF9pT0xnejFqX1dackpFSWt0MTJ4MGxWN2VMWFRnR25oamhLd0YzdE85eWZsR20zQVN5cGo3Z2hnY0tZenJ1M0lsY2RYWXhEWTJtcVNzYjN6ZXU5cG1IN1BsUDA3dU9mUDduR2dBdUxQRFZRWUhoTmc?oc=5",
       "resolved_link": "",
       "published": "2026-09-25T21:41:36+00:00",
       "published_raw": "Fri, 25 Sep 2026 21:41:36 GMT",
-      "snippet": "Motiva Minas_SP divulga cronograma diário de recuperação do pavimento na Fernão Dias mobilidadesampa.com.br",
+      "snippet": "Motiva Minas_SP divulga cronograma diário de recuperação do pavimento na Fernão Dias Mobilidade Sampa",
       "term": "\"Ecovias Noroeste\" obras",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:47.361972+00:00"
+      "collected_at": "2026-09-26T20:34:40.436626+00:00"
     },
     {
       "id": "27a14efd68f45cd81e1b7c752d95a15bb9716fc58a6268085dd2c855c311ff0a",
@@ -275,30 +292,30 @@
       "published": "2026-09-25T21:30:57+00:00",
       "published_raw": "Fri, 25 Sep 2026 21:30:57 GMT",
       "snippet": "Motociclista morre ao ser atropelado por carreta em rodovia no interior de SP... condorcontabilidade.com.br",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" ARTESP",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:49.709168+00:00"
+      "collected_at": "2026-09-26T20:34:42.646467+00:00"
     },
     {
-      "id": "36b3521fd749d121c40cc46cac8e1fc4561c29e2218da31cddad0bd4462fd53e",
-      "title": "6 dicas para evitar golpes em sites falsos de pedágio no Free Flow - mobilidadesampa.com.br",
-      "source": "mobilidadesampa.com.br",
+      "id": "bd049826eed2e5a7cb5a122054e170413d37d46054696da6ee8f2c77fe0de6cd",
+      "title": "6 dicas para evitar golpes em sites falsos de pedágio no Free Flow - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWVOc2ZmN2laVmZnZWFTVmtzNjEwc3V4V2Q5N29yMjBDTjdmSW5vVjVaQWtWaGdzN2FfbVR0a1hjV0FTX1NzVWJUMFlzR0VBNE01aUg1U0oxQTNRaVhSbHNwMlRqb0NmRklod2dmbXhISTN5Znc1V3gyVzhhMDJNelc2UEVITzJvTHk3amR2d1FZdURr?oc=5",
       "resolved_link": "",
       "published": "2026-09-25T21:13:07+00:00",
       "published_raw": "Fri, 25 Sep 2026 21:13:07 GMT",
-      "snippet": "6 dicas para evitar golpes em sites falsos de pedágio no Free Flow mobilidadesampa.com.br",
+      "snippet": "6 dicas para evitar golpes em sites falsos de pedágio no Free Flow Mobilidade Sampa",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:37.138774+00:00"
+      "collected_at": "2026-09-26T20:34:30.535361+00:00"
     },
     {
       "id": "cf099db96c6b7f6bdeefb631e0a9b0802a8ed8df9a4228b0c0bdb2320f0b9ca1",
@@ -315,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T18:08:36.577848+00:00"
+      "collected_at": "2026-09-26T20:34:29.988112+00:00"
     }
   ]
 }
