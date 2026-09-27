@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T23:28:10.354544+00:00",
+  "updated_at": "2026-09-27T23:33:49.661200+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 8,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498259+00:00"
+      "collected_at": "2026-09-27T23:33:34.093767+00:00"
     },
     {
       "id": "4e285e7f372a509ec15bcadef8dfd4a36bf93059b458ac72307aaa5c9a789054",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498397+00:00"
+      "collected_at": "2026-09-27T23:33:34.093880+00:00"
     },
     {
       "id": "b1bd64b26f9c640fc45c1cd65486db19bb375468ea9a15300c168dbaaaa14152",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498670+00:00"
+      "collected_at": "2026-09-27T23:33:34.094263+00:00"
     },
     {
       "id": "993a9a126c9dc3508b3a66e1cab5de111760ce380b2fd234a0c61f1ec19bc1b0",
@@ -105,81 +105,81 @@
       "published": "2026-09-27T13:28:17+00:00",
       "published_raw": "Sun, 27 Sep 2026 13:28:17 GMT",
       "snippet": "Mais um motociclista morre em acidente em rodovia de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:28:04.847286+00:00"
+      "collected_at": "2026-09-27T23:33:34.094186+00:00"
     },
     {
-      "id": "ed8e76d09763c215a499989aa9455458800c3aecacfb6f795c564ead1a9a1575",
-      "title": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro - estradas.com.br",
-      "source": "estradas.com.br",
+      "id": "d5dc27d76e9f7f111f6ff1bbb20c6a822e3e47c8db022baabd9ad1194396f53b",
+      "title": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro - Estradas",
+      "source": "Estradas",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFITHNUUDVVMmlFTENwbU5PWVJ3dlFZVm9aOFF1cXBwaGhCZkd0RjhhcEtWYWxMeThCZy1uQU9hOExkdnRIX2IyOERseE9ibVdxdW9HR2NsSFdSbERxbWk5M3NuWDN1N2RrLWl6ZzZqa2tyUllxTTEtOWtPWkh1TGRqdDF6NVVpOVB3QWtrMGJoa21jRk5xRXZROWdfSUMxSU1Sbk1FMnVoRHBWZlhlUm1n?oc=5",
       "resolved_link": "",
       "published": "2026-09-27T10:13:11+00:00",
       "published_raw": "Sun, 27 Sep 2026 10:13:11 GMT",
-      "snippet": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro estradas.com.br",
+      "snippet": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro Estradas",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498601+00:00"
+      "collected_at": "2026-09-27T23:33:34.094120+00:00"
     },
     {
-      "id": "d1d1b8cae0fda0d02303d1fc99d70286fc82a62518f48c465031077c3e46090c",
-      "title": "Obras interditarão acesso da SP-215 para a pista norte da Rodovia Washington Luís - saocarlosdiaenoite.com.br",
-      "source": "saocarlosdiaenoite.com.br",
+      "id": "4acfc15b43ab8c0fba70d4b850b6eea5f859de5b06d63c418bc07ef024f7af39",
+      "title": "Obras interditarão acesso da SP-215 para a pista norte da Rodovia Washington Luís - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjhQUHlOQmZPQzNDUHJiSWFnVml5UW9KVDZJcEU2eE5QOWNQNWRfQzcwajU3VmZ3RWtSZnhGSlRndmNVQ2psYUdLanYzbHIzaUR1RmxXbEdXR05hSHNPLVdNVDhsaS1aVHZmYU5DclRGNE11cVFVV1I2S0pHVnZRbkxRckVqaGp0ZENibTg0Q2ZrcmN3dXNkeTZrNVlDbGVXUlU5cFVUZjFrXzdiWDdtQUktOHM0OG5MS2daZEk1S2s2b1E?oc=5",
       "resolved_link": "",
       "published": "2026-09-27T08:30:34+00:00",
       "published_raw": "Sun, 27 Sep 2026 08:30:34 GMT",
-      "snippet": "Obras interditarão acesso da SP-215 para a pista norte da Rodovia Washington Luís saocarlosdiaenoite.com.br",
+      "snippet": "Obras interditarão acesso da SP-215 para a pista norte da Rodovia Washington Luís Portal SCDN - Porque a informação não para!",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498476+00:00"
+      "collected_at": "2026-09-27T23:33:34.093974+00:00"
     },
     {
-      "id": "a9078887ec72374c9da07cc242607cdfd109673ac0a69f681dde8d94842e7691",
-      "title": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão - Votunews",
-      "source": "Votunews",
+      "id": "28cfd1aa8f7bfafde45fa58205735d5b112e92e9d3423e4a2ab92c1ff53cb4d5",
+      "title": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão - votunews.com.br",
+      "source": "votunews.com.br",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWhCbjlGOUVDWU9IT3NxcmhlUGk4VVNTQ1E5VlFPWER6ZjBrX2JKbHlpb2hGbG1OWFRnTEpqejJNNFVsNzN5aGJtdW56OU1SNVFOa2hHckV1UGlNXzNrMWItRWJ3ajZvYTJnS19EOHRqRkIyZVc4SW1MRFA1Z192Rlo3emUtclNMZ1BPSTBFUjVXZU92aE5jWlZJczBTMmtYeGp3MkpkNm5HakVNc0NjdDF0ak5Sdw?oc=5",
       "resolved_link": "",
       "published": "2026-09-27T02:38:00+00:00",
       "published_raw": "Sun, 27 Sep 2026 02:38:00 GMT",
-      "snippet": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão Votunews",
+      "snippet": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão votunews.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498728+00:00"
+      "collected_at": "2026-09-27T23:33:34.094332+00:00"
     },
     {
-      "id": "04d6fad3763e5a0a64d1beced343f799dcafd1d2b39e01c3de49d310ceb173a7",
-      "title": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa - portaldacidade.com",
-      "source": "portaldacidade.com",
+      "id": "a7389148c17907f950512da2540dbbade5db06abef1275f1698ef53c1c23900f",
+      "title": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa - saocarlos.portaldacidade.com",
+      "source": "saocarlos.portaldacidade.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTRwbFp5bmQ0MEVyMmZRZ1daR3l6djlrbTI3d290V3R3NXF4N2w1T09RSDI2SXZaZmh5ZjJnR0JnMjV1b3h2czZwLUEwU1FuNU5iSHVxNVhvb29aSmRrdF9lbjJfR0pvTXlxSXlOT1Frc0F3RTdHYnVETzNYM3ZpcHFfak9JTGphZ2ZFaW5lZ1hLakJGclNJMjZxUURScnEtTXA5enNoU3VPdTM1VzVlWTdJeDFTeG1seWt0TDlNWU9qdDBYT0E?oc=5",
       "resolved_link": "",
       "published": "2026-09-27T02:00:00+00:00",
       "published_raw": "Sun, 27 Sep 2026 02:00:00 GMT",
-      "snippet": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa portaldacidade.com",
+      "snippet": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa saocarlos.portaldacidade.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T23:27:52.498538+00:00"
+      "collected_at": "2026-09-27T23:33:34.094049+00:00"
     }
   ]
 }
