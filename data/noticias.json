@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-27T03:19:04.710381+00:00",
+  "updated_at": "2026-09-27T08:40:43.932909+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 13,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709322+00:00"
+      "collected_at": "2026-09-27T08:40:27.071877+00:00"
     },
     {
       "id": "9771237fe8b7d19d722a968e4980ee8927b7b6c3cb0e05e1c23bc186627a9d65",
@@ -77,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709612+00:00"
+      "collected_at": "2026-09-27T08:40:27.072213+00:00"
     },
     {
-      "id": "38145b046917716565ed1221e34180041051ad781712d0aa630b3c1b5d431fe8",
-      "title": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão - Região Noroeste",
-      "source": "Região Noroeste",
+      "id": "d0879b42ac7eb6c716fbb08ef47906c01ac1141e059688cc81643c4a2d7f9616",
+      "title": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão - regiaonoroeste.com",
+      "source": "regiaonoroeste.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWU5iUkJGMkJzdjNDTUJzRkxadFVlLVdURWl2bU9PeENvMHBzMDlwVjdNdGpEZWt0d3NPU29xUDEwN2hBWF9oSW04VktkeE5lMmRhWU93Q0F4dG4yVVJGek9mNmlxX2Z3T2JGakozbkVhN0VDOEZsWE9STVVJR1lJVzUyNEdLQ1JQTGtTTExaaldvWmxwTTNLdUZOZVZFcHJDRC0xdkJBMjYtNW5mWG85Nml3MWU?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T16:21:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 16:21:00 GMT",
-      "snippet": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão Região Noroeste",
+      "snippet": "Jovem de 21 anos é a vítima fatal de acidente envolvendo motocicleta, furgão e caminhão regiaonoroeste.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709706+00:00"
+      "collected_at": "2026-09-27T08:40:27.072349+00:00"
     },
     {
       "id": "2bc975dedeb1814aaf7497f0a0aaad3468620711116b0e7efc1bf5e679e2eda7",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:59.808121+00:00"
+      "collected_at": "2026-09-27T08:40:38.978556+00:00"
     },
     {
       "id": "508d5757c9bafa5091a6c8b4683e7f86d7447640e96ecfd2da52b93c27cb5d1b",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709397+00:00"
+      "collected_at": "2026-09-27T08:40:27.071988+00:00"
     },
     {
       "id": "502eb18403601967c22de3060ff71c6ff549026ffeffabe567660796ba68231f",
@@ -145,58 +145,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:59.808178+00:00"
+      "collected_at": "2026-09-27T08:40:38.978634+00:00"
     },
     {
-      "id": "f91bc4fd7b8f6a4e3862fbac04da5cd153bb240ae073eba5d0ef8e5f9c1fc677",
-      "title": "Motociclista morre atropelado por carreta após queda na Rodovia Washington Luís - Região Noroeste",
-      "source": "Região Noroeste",
+      "id": "f309f7192222396fb899f7798d1f823411047ca1a6442a3df556fa50a6e9bf3f",
+      "title": "Motociclista morre atropelado por carreta após queda na Rodovia Washington Luís - regiaonoroeste.com",
+      "source": "regiaonoroeste.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekxZbVJmaW00emJ4NDRTTzNiRzMydFpvYjNlR3A2S0VlbDlNQjRPcWdxNU9HdjdQRUhHYnZJM2FxWXlzSlFFNDN3VjkySXNpWi1LVDZCaHdZZm5CNngxcmhhNGVCcjVKSlJyYWRtY3JQZF9rcVlvXzJZcEpuMXdTQ2lRQ2tzalFSUHV4aEp0Rk9DSDdENGJhQzQxRmJnc21QVnJ4ZmRRcklVOVU?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T13:38:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 13:38:00 GMT",
-      "snippet": "Motociclista morre atropelado por carreta após queda na Rodovia Washington Luís Região Noroeste",
+      "snippet": "Motociclista morre atropelado por carreta após queda na Rodovia Washington Luís regiaonoroeste.com",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709659+00:00"
+      "collected_at": "2026-09-27T08:40:27.072281+00:00"
     },
     {
-      "id": "fe3d4573f5c41aef6950550613abc4512a56358413f15fb5678e2e1e7debebee",
-      "title": "Acesso da SP-215 à Washington Luís será interditado por 60 dias; veja o desvio - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
+      "id": "21db894bf1aeb6648c86253c0f24ec98194c7b201f8028eef2b01c3ad4424f5e",
+      "title": "Acesso da SP-215 à Washington Luís será interditado por 60 dias; veja o desvio - São Carlos em Rede - saocarlosemrede.com.br",
+      "source": "saocarlosemrede.com.br",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2s4cFpEbEhVdm1icEtoSmEtc0pER3NCUjhpeERYWG5HVlZqQkZCX1JSWjExWVB1c0VFdTdiRTRxQjhTSXl6SVRnclBvdzRUUzQ2VE50NVREOVZCY0xQYzUyUUZNamo5aTZaX0FTbVh6T2Z0cWhHX1ZBRm9XN1ZpcWExa9IBgwFBVV95cUxNV2s4cFpEbEhVdm1icEtoSmEtc0pER3NCUjhpeERYWG5HVlZqQkZCX1JSWjExWVB1c0VFdTdiRTRxQjhTSXl6SVRnclBvdzRUUzQ2VE50NVREOVZCY0xQYzUyUUZNamo5aTZaX0FTbVh6T2Z0cWhHX1ZBRm9XN1ZpcWExaw?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T12:32:20+00:00",
       "published_raw": "Sat, 26 Sep 2026 12:32:20 GMT",
-      "snippet": "Acesso da SP-215 à Washington Luís será interditado por 60 dias; veja o desvio - São Carlos em Rede São Carlos em Rede",
+      "snippet": "Acesso da SP-215 à Washington Luís será interditado por 60 dias; veja o desvio - São Carlos em Rede saocarlosemrede.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709468+00:00"
+      "collected_at": "2026-09-27T08:40:27.072076+00:00"
     },
     {
-      "id": "1f5f4844948deaca77ed36dce71bb7ca05fc9ac2c85344de5059248563fbdda8",
-      "title": "Alça da SP-215 para a Washington Luís será interditada por 60 dias - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
+      "id": "21a67c1757780b084e5aa6520d05b2401fe033b97c10e4458732994a33d55073",
+      "title": "Alça da SP-215 para a Washington Luís será interditada por 60 dias - São Carlos Agora",
+      "source": "São Carlos Agora",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclRoaVdpV3YyY2VrYW1yNGJZM0NLWDBCZDNqZU9PbHBRV0FMT0ROc1h4RUZZMS1oNzhleTBtemJEU0lkWEN6V0dydXVYV3gyZ1E2VVNncnJ0RUEzUExPOUNtVVVSQUxBcl9Ed3MxdTcyZTRqU3M4MEdiVTFWZ1hBU2t1MmNPRUlScU1vNTAxNEZia0xnY3g5YlJpakFKNEVUb0p6ekVIYUdBd2k0WGZKOWRTTUF1UEtPWTluaHphZU4?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T12:27:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 12:27:00 GMT",
-      "snippet": "Alça da SP-215 para a Washington Luís será interditada por 60 dias saocarlosagora.com.br",
+      "snippet": "Alça da SP-215 para a Washington Luís será interditada por 60 dias São Carlos Agora",
       "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:59.248169+00:00"
+      "collected_at": "2026-09-27T08:40:38.333396+00:00"
     },
     {
       "id": "5e6e2dea5452622c77baaac932541257281952d4493b2b82d6056c776aa5b8ee",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:59.808321+00:00"
+      "collected_at": "2026-09-27T08:40:38.978877+00:00"
     },
     {
       "id": "cb4f9ae21c5a0bfd7e62a08dd901eb2e7d33db0721fffc353a3e4c33f57d67d9",
@@ -230,24 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:19:02.114882+00:00"
+      "collected_at": "2026-09-27T08:40:41.338920+00:00"
     },
     {
-      "id": "f9a13c99749dad86a35759343e8932700a501dc847b18e873929e790d848e5b4",
-      "title": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 - saocarlosagora.com.br",
-      "source": "saocarlosagora.com.br",
+      "id": "0a0d98434cbbc0459d3d97c0110da354d9d695fdc43abb619f4ae0216f47fe9a",
+      "title": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 - São Carlos Agora",
+      "source": "São Carlos Agora",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnBPRi0tZFRPNXJlaVVYWXZibXhSUjVDX284UnpYZGxtUDhpdFV0RUd3d19pUEd6YTBVNkhRSVFybVdwR0ZVX0JmYWhaOFpZUVdNLTU0RE16M0FVVGZRcG1yYUJ4YkJmRHdUaW1DYzJIRTY5SF9uRkQ3UE5Ca2ltcFBDM3lEeDNvQkljQ250VEY2VGpna3YxTWMteHpmcWRWMzFDNXlBM0h3TFFEYWpXUzFWVXBxRjIzcjAyY0xOZU50ajJyT1ZUZ1hSWDNLNXhCUkdldjBxV1k0TFE?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T10:07:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 10:07:00 GMT",
-      "snippet": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 saocarlosagora.com.br",
+      "snippet": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 São Carlos Agora",
       "term": "\"Ecovias Noroeste\" acidente | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:59.808366+00:00"
+      "collected_at": "2026-09-27T08:40:38.978960+00:00"
     },
     {
       "id": "889a9e0010fd040ed7d50067f65ee31d2d6c6be7256bae5709e4b5044dfd995b",
@@ -264,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709522+00:00"
-    },
-    {
-      "id": "1a0fcbea9abb2ff5a8b379a2b2cc69d8c6ab1e68170f6245118dd861c354cfc0",
-      "title": "Câmeras Inteligentes Combatem Distração em Rodovias - Portal Hortolândia",
-      "source": "Portal Hortolândia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTdsQWtXWTBNZ1N0ajFTYUFlZ2N3VUlvdnVwaDRmdDRYM2g0X1JjVW15NTllbV9rZVN1bmpsVlRGaE9HZUdtS3FNMXlMeGYyZkgxNlpaVXpGN3pOaGlpYmVGbmsySHVuUFpmNlVnTHNWOTN5b1pDVUpvV253bkZsVUZxZXBkdnhsMk9fLVA2cEpwaE5XSUluRVBLOFjSAZwBQVVfeXFMTkU3bEFrV1kwTWdTdGoxU2FBZWdjd1VJb3Z1cGg0ZnQ0WDNoNF9SY1VteTU5ZW1fa2VTdW5qbFZURmhPR2VHbUtxTTF5THhmMmZIMTZaWlV6Rjd6TmhpaWJlRm5rMkh1blBaZjZVZ0xzVjkzeW9aQ1VKb1dud25GbFVGcWVwZHZ4bDJPXy1QNnBKcGhOV0lJbkVQSzhY?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-26T07:38:23+00:00",
-      "published_raw": "Sat, 26 Sep 2026 07:38:23 GMT",
-      "snippet": "Câmeras Inteligentes Combatem Distração em Rodovias Portal Hortolândia",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-27T03:18:47.709569+00:00"
+      "collected_at": "2026-09-27T08:40:27.072147+00:00"
     }
   ]
 }
