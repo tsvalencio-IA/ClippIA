@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-26T23:21:00.631265+00:00",
+  "updated_at": "2026-09-27T02:20:33.896168+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 15,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 15,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "04d6fad3763e5a0a64d1beced343f799dcafd1d2b39e01c3de49d310ceb173a7",
+      "title": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa - portaldacidade.com",
+      "source": "portaldacidade.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTRwbFp5bmQ0MEVyMmZRZ1daR3l6djlrbTI3d290V3R3NXF4N2w1T09RSDI2SXZaZmh5ZjJnR0JnMjV1b3h2czZwLUEwU1FuNU5iSHVxNVhvb29aSmRrdF9lbjJfR0pvTXlxSXlOT1Frc0F3RTdHYnVETzNYM3ZpcHFfak9JTGphZ2ZFaW5lZ1hLakJGclNJMjZxUURScnEtTXA5enNoU3VPdTM1VzVlWTdJeDFTeG1seWt0TDlNWU9qdDBYT0E?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-27T02:00:00+00:00",
+      "published_raw": "Sun, 27 Sep 2026 02:00:00 GMT",
+      "snippet": "Ecovias interdita alça na SP-310 em São Carlos para obras da 3ª faixa portaldacidade.com",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-27T02:20:17.686618+00:00"
+    },
+    {
       "id": "9771237fe8b7d19d722a968e4980ee8927b7b6c3cb0e05e1c23bc186627a9d65",
       "title": "Motociclista de 33 anos morre após bater na traseira de ônibus - RP10",
       "source": "RP10",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.118156+00:00"
+      "collected_at": "2026-09-27T02:20:17.687141+00:00"
     },
     {
       "id": "38145b046917716565ed1221e34180041051ad781712d0aa630b3c1b5d431fe8",
@@ -77,24 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.118229+00:00"
+      "collected_at": "2026-09-27T02:20:17.687300+00:00"
     },
     {
-      "id": "f23e22582221d621b68efb5f43ee9b4073b4872a5db067a0ae6b436eadbc00b5",
-      "title": "Motociclista morre após bater na traseira de ônibus na Rodovia Washington Luís em Uchoa - g1.globo.com",
-      "source": "g1.globo.com",
+      "id": "2bc975dedeb1814aaf7497f0a0aaad3468620711116b0e7efc1bf5e679e2eda7",
+      "title": "Motociclista morre após bater na traseira de ônibus na Rodovia Washington Luís em Uchoa - G1",
+      "source": "G1",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYjcxYUZBZS00cjY3Q3pKX2lTb3FZQWFrRVd3eF9JMTlHYXZnQjBSbkFaQTRQdGZ4QU9WeTE5QlhnVU5HTFhDa1NRcnNBaHYtV2xVVFVwWkJUVDNRTHQ4elFyNUZ5eVpVMlp1S2QxZUdYZ01oaHhxbm9GZEN4dUQ5Wm9CNElRVTBtdllQbEtJMHVValBrUE1EcWgyVjhnSXJZeW8wVFZ2S3FrTURpRklIRVRkdEpsYXZOZWxZTy1CbXpNclJJeWdiUVVjUzduMUpJell1b3JVcXVQRXdQeFpQUkxvSTJaVU5aMG5pUnlBRTlDeU04VVkza3FodFBJVEVIWTJVZTk5QdIBlgJBVV95cUxOV2VwM1R1TDVyeERtMnBvOUlUclgySGZ4UmgwSF9XdW80X2cwWUtSbVpTVDZMQ0lnejhHNmhscUEtM182Vk1Cc0RqaXhUVlZlQkJfa25QZElFTkFWSzJrX1ZRZEladlIxM2ZiU2FGb1JVcUlhbmRoMVhpRGVjWm9COWhMUHlzSmZ6elMtWk4xcndGSDdWUlNIMHNEMTc4OTIwQjEtMFRWSGp5RmVYREpWX2xtdnFEVjZRS3BSamxkSGVULUx5T1FsQkZPZWJmQ002Q3phTS1OOVVzSVN3VE5UcnhXUzZqbmNiNXpYRkFCNXhWb0l3TjFwdVNJYUdrVGJBTXp4eUZoTmt0UG53ajZLMDdoV0ZTQQ?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T14:47:20+00:00",
       "published_raw": "Sat, 26 Sep 2026 14:47:20 GMT",
-      "snippet": "Motociclista morre após bater na traseira de ônibus na Rodovia Washington Luís em Uchoa g1.globo.com",
+      "snippet": "Motociclista morre após bater na traseira de ônibus na Rodovia Washington Luís em Uchoa G1",
       "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:51.956606+00:00"
+      "collected_at": "2026-09-27T02:20:29.111395+00:00"
     },
     {
       "id": "4de5a24d7ab35352eaa978a4145ed70ee5a6e8f6306f8c2c26553bdc2f6951f7",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:51.956760+00:00"
+      "collected_at": "2026-09-27T02:20:29.111548+00:00"
     },
     {
       "id": "508d5757c9bafa5091a6c8b4683e7f86d7447640e96ecfd2da52b93c27cb5d1b",
@@ -122,13 +139,13 @@
       "published": "2026-09-26T14:06:20+00:00",
       "published_raw": "Sat, 26 Sep 2026 14:06:20 GMT",
       "snippet": "Obras interditarão acesso da SP-215 para a pista norte da SP-310, em São Carlos Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.117781+00:00"
+      "collected_at": "2026-09-27T02:20:17.686717+00:00"
     },
     {
       "id": "502eb18403601967c22de3060ff71c6ff549026ffeffabe567660796ba68231f",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:51.956685+00:00"
+      "collected_at": "2026-09-27T02:20:29.111473+00:00"
     },
     {
       "id": "f91bc4fd7b8f6a4e3862fbac04da5cd153bb240ae073eba5d0ef8e5f9c1fc677",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.118296+00:00"
+      "collected_at": "2026-09-27T02:20:17.687229+00:00"
     },
     {
       "id": "fe3d4573f5c41aef6950550613abc4512a56358413f15fb5678e2e1e7debebee",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.117899+00:00"
+      "collected_at": "2026-09-27T02:20:17.686817+00:00"
     },
     {
       "id": "21a67c1757780b084e5aa6520d05b2401fe033b97c10e4458732994a33d55073",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:50.863256+00:00"
+      "collected_at": "2026-09-27T02:20:28.556531+00:00"
     },
     {
       "id": "5e6e2dea5452622c77baaac932541257281952d4493b2b82d6056c776aa5b8ee",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:51.957018+00:00"
+      "collected_at": "2026-09-27T02:20:29.111745+00:00"
     },
     {
       "id": "cb4f9ae21c5a0bfd7e62a08dd901eb2e7d33db0721fffc353a3e4c33f57d67d9",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:56.187137+00:00"
+      "collected_at": "2026-09-27T02:20:31.367639+00:00"
     },
     {
       "id": "0a0d98434cbbc0459d3d97c0110da354d9d695fdc43abb619f4ae0216f47fe9a",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:51.957129+00:00"
+      "collected_at": "2026-09-27T02:20:29.111814+00:00"
     },
     {
       "id": "889a9e0010fd040ed7d50067f65ee31d2d6c6be7256bae5709e4b5044dfd995b",
@@ -264,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.118014+00:00"
+      "collected_at": "2026-09-27T02:20:17.686958+00:00"
     },
     {
       "id": "1a0fcbea9abb2ff5a8b379a2b2cc69d8c6ab1e68170f6245118dd861c354cfc0",
@@ -281,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-26T23:20:30.118090+00:00"
+      "collected_at": "2026-09-27T02:20:17.687027+00:00"
     }
   ]
 }
