@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-27T02:20:33.896168+00:00",
+  "updated_at": "2026-09-27T03:19:04.710381+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 14,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.686618+00:00"
+      "collected_at": "2026-09-27T03:18:47.709322+00:00"
     },
     {
       "id": "9771237fe8b7d19d722a968e4980ee8927b7b6c3cb0e05e1c23bc186627a9d65",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.687141+00:00"
+      "collected_at": "2026-09-27T03:18:47.709612+00:00"
     },
     {
       "id": "38145b046917716565ed1221e34180041051ad781712d0aa630b3c1b5d431fe8",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.687300+00:00"
+      "collected_at": "2026-09-27T03:18:47.709706+00:00"
     },
     {
       "id": "2bc975dedeb1814aaf7497f0a0aaad3468620711116b0e7efc1bf5e679e2eda7",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:29.111395+00:00"
-    },
-    {
-      "id": "4de5a24d7ab35352eaa978a4145ed70ee5a6e8f6306f8c2c26553bdc2f6951f7",
-      "title": "Motociclista que morreu em acidente na Washington, em Rio Preto, é identificado - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZC1IU0JkSmNaWENBWWpIWm9oQ2IxY2xnMFhmU0lsMXFFZDBLbVUyb3ZueVpqMTRvMno5SU81NEk3SXQyd2xaMThTaXZDM3JyVUZ3YldMVV9UeWZJcThoTGVTc2NPcm5xUGhJbDdEbDRsT3QtS2M1ZXBZTWNja25oLXhQcDdVRzFDa2lJZlZFUDFZV3FyUnBNczZvNVEwRGlFbkFlU0lJeGlyWTJ6WlBERW5VdFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-26T14:06:21+00:00",
-      "published_raw": "Sat, 26 Sep 2026 14:06:21 GMT",
-      "snippet": "Motociclista que morreu em acidente na Washington, em Rio Preto, é identificado Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-27T02:20:29.111548+00:00"
+      "collected_at": "2026-09-27T03:18:59.808121+00:00"
     },
     {
       "id": "508d5757c9bafa5091a6c8b4683e7f86d7447640e96ecfd2da52b93c27cb5d1b",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.686717+00:00"
+      "collected_at": "2026-09-27T03:18:47.709397+00:00"
     },
     {
       "id": "502eb18403601967c22de3060ff71c6ff549026ffeffabe567660796ba68231f",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:29.111473+00:00"
+      "collected_at": "2026-09-27T03:18:59.808178+00:00"
     },
     {
       "id": "f91bc4fd7b8f6a4e3862fbac04da5cd153bb240ae073eba5d0ef8e5f9c1fc677",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.687229+00:00"
+      "collected_at": "2026-09-27T03:18:47.709659+00:00"
     },
     {
       "id": "fe3d4573f5c41aef6950550613abc4512a56358413f15fb5678e2e1e7debebee",
@@ -196,24 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.686817+00:00"
+      "collected_at": "2026-09-27T03:18:47.709468+00:00"
     },
     {
-      "id": "21a67c1757780b084e5aa6520d05b2401fe033b97c10e4458732994a33d55073",
-      "title": "Alça da SP-215 para a Washington Luís será interditada por 60 dias - São Carlos Agora",
-      "source": "São Carlos Agora",
+      "id": "1f5f4844948deaca77ed36dce71bb7ca05fc9ac2c85344de5059248563fbdda8",
+      "title": "Alça da SP-215 para a Washington Luís será interditada por 60 dias - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclRoaVdpV3YyY2VrYW1yNGJZM0NLWDBCZDNqZU9PbHBRV0FMT0ROc1h4RUZZMS1oNzhleTBtemJEU0lkWEN6V0dydXVYV3gyZ1E2VVNncnJ0RUEzUExPOUNtVVVSQUxBcl9Ed3MxdTcyZTRqU3M4MEdiVTFWZ1hBU2t1MmNPRUlScU1vNTAxNEZia0xnY3g5YlJpakFKNEVUb0p6ekVIYUdBd2k0WGZKOWRTTUF1UEtPWTluaHphZU4?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T12:27:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 12:27:00 GMT",
-      "snippet": "Alça da SP-215 para a Washington Luís será interditada por 60 dias São Carlos Agora",
+      "snippet": "Alça da SP-215 para a Washington Luís será interditada por 60 dias saocarlosagora.com.br",
       "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:28.556531+00:00"
+      "collected_at": "2026-09-27T03:18:59.248169+00:00"
     },
     {
       "id": "5e6e2dea5452622c77baaac932541257281952d4493b2b82d6056c776aa5b8ee",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:29.111745+00:00"
+      "collected_at": "2026-09-27T03:18:59.808321+00:00"
     },
     {
       "id": "cb4f9ae21c5a0bfd7e62a08dd901eb2e7d33db0721fffc353a3e4c33f57d67d9",
@@ -247,24 +230,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:31.367639+00:00"
+      "collected_at": "2026-09-27T03:19:02.114882+00:00"
     },
     {
-      "id": "0a0d98434cbbc0459d3d97c0110da354d9d695fdc43abb619f4ae0216f47fe9a",
-      "title": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 - São Carlos Agora",
-      "source": "São Carlos Agora",
+      "id": "f9a13c99749dad86a35759343e8932700a501dc847b18e873929e790d848e5b4",
+      "title": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnBPRi0tZFRPNXJlaVVYWXZibXhSUjVDX284UnpYZGxtUDhpdFV0RUd3d19pUEd6YTBVNkhRSVFybVdwR0ZVX0JmYWhaOFpZUVdNLTU0RE16M0FVVGZRcG1yYUJ4YkJmRHdUaW1DYzJIRTY5SF9uRkQ3UE5Ca2ltcFBDM3lEeDNvQkljQ250VEY2VGpna3YxTWMteHpmcWRWMzFDNXlBM0h3TFFEYWpXUzFWVXBxRjIzcjAyY0xOZU50ajJyT1ZUZ1hSWDNLNXhCUkdldjBxV1k0TFE?oc=5",
       "resolved_link": "",
       "published": "2026-09-26T10:07:00+00:00",
       "published_raw": "Sat, 26 Sep 2026 10:07:00 GMT",
-      "snippet": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 São Carlos Agora",
+      "snippet": "Acidente entre SUV e bitrem deixa uma pessoa morta e outra gravemente ferida na SP-333 saocarlosagora.com.br",
       "term": "\"Ecovias Noroeste\" acidente | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:29.111814+00:00"
+      "collected_at": "2026-09-27T03:18:59.808366+00:00"
     },
     {
       "id": "889a9e0010fd040ed7d50067f65ee31d2d6c6be7256bae5709e4b5044dfd995b",
@@ -281,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.686958+00:00"
+      "collected_at": "2026-09-27T03:18:47.709522+00:00"
     },
     {
       "id": "1a0fcbea9abb2ff5a8b379a2b2cc69d8c6ab1e68170f6245118dd861c354cfc0",
@@ -298,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-27T02:20:17.687027+00:00"
+      "collected_at": "2026-09-27T03:18:47.709569+00:00"
     }
   ]
 }
