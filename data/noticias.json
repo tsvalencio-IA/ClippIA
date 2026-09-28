@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-28T09:04:15.432395+00:00",
+  "updated_at": "2026-09-28T12:44:04.816778+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 8,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "709d2876e736a04e6ca7c7b1f94221a996f84c40503d8deb06074dcb1aeee49b",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 28/9 a 4/10/2026 - jornalpp.com.br",
+      "source": "jornalpp.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUk52ZG1XNk1JY2EyNERPamNQeHd5djhSbndiWFpObGE2UlhqWHNidWdHbmZHamg4NmxudFNub2Y5bkwxXzFBVzdVbjNLdlhVUUtERFdYUkhmTldrOFpqX3dST1hYbHpaS0FZczhUNUFaOFFIdnNqS3dHRkFqb0lEM3FqMGlqS1JJSXN3Z1BOSkV3RXdmQmFxc1htbFA2MlZ0WU1tUGd4TlptZzVDazBXYXVjXzJEQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-28T11:28:49+00:00",
+      "published_raw": "Mon, 28 Sep 2026 11:28:49 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 28/9 a 4/10/2026 jornalpp.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-28T12:43:48.506078+00:00"
+    },
+    {
+      "id": "72558e4dfea850e2e2d50d941492a622f9626cdb82f70a5905e342eab51203c6",
+      "title": "Obras avançam na rodovia Washington Luís; confira cronograma para esta semana - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWN4VDJrVlB4M2gxX1A4RmkxenFfRk5QdC1mZFo0YXlsRVQ4cTMzLV9rR2RISV8yOTQ3eGNIbjV5ZF9aOG5KWjU5ZDhuLURWRWpQT0N6VmVQLVdZblJ5WU1pYW9qVEluaTc2ZmxFMl8tTzZ2dG1KLWo4T0M1VzlzVVI0NzBjMUdPTWIwNHl6ZDk4RktYOVk3aVZVVnJDUG11SzdvT0UwVFFtRUhUYnRkVm1KWlBEOVNQeDRKXzVnU1NpZjhJT3pJSnltUWJtZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-28T11:07:00+00:00",
+      "published_raw": "Mon, 28 Sep 2026 11:07:00 GMT",
+      "snippet": "Obras avançam na rodovia Washington Luís; confira cronograma para esta semana São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-28T12:43:48.506448+00:00"
+    },
+    {
+      "id": "c360e72f9590d2e4d3b722a71991ad421aa200fdd98d415dbb56bac67ab7f6f2",
+      "title": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís - portalregional.net.br",
+      "source": "portalregional.net.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcHhmRHJCeWlTOG1PelNnMERsM1h3Mm50S3U4WVZZR1p3N2ozQUVDZUxTN0JjRG5sSk9JTkpCTFFDX3ZiaTNSQVBFY3NxZlI5am5FdmlhS0ZpVk9aMGJKMEotREZwdWFzUllLaXV0UFR0WF9JZl9uSlZUWkhRYkJWdGI1S3FlOS10LWFaNHRUd2k4NlRleVZIUmtQUXVvRlg2cGxseGVfTEU0dnZEcS01TVRDeFQ2RmRrdGFsQXdYcHRsQW54Q09qZGEtU2hNY1NL0gHQAUFVX3lxTFBweGZEckJ5aVM4bU96U2cwRGwzWHcybnRLdThZVllHWnc3ajNBRUNlTFM3QmNEbmxKT0lOSkJMUUNfdmJpM1JBUEVjc3FmUjlqbkV2aWFLRmlWT1owYkowSi1ERnB1YXNSWUtpdXRQVHRYX0lmX25KVlRaSFFiQlZ0YjVLcWU5LXQtYVo0dFR3aTg2VGV5VkhSa1BRdW9GWDZwbGx4ZV9MRTR2dkRxLTVNVEN4VDZGZGt0YWxBd1hwdGxBbnhDT2pkYS1TaE1jU0s?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-28T11:03:54+00:00",
+      "published_raw": "Mon, 28 Sep 2026 11:03:54 GMT",
+      "snippet": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís portalregional.net.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-28T12:43:48.506377+00:00"
+    },
+    {
       "id": "0bcb7116c03b2cff7bfbdb048697886789024931c06b7c6d90f9d1cdd1023fa5",
       "title": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em ... - condorcontabilidade.com.br",
       "source": "condorcontabilidade.com.br",
@@ -54,13 +105,13 @@
       "published": "2026-09-27T22:15:10+00:00",
       "published_raw": "Sun, 27 Sep 2026 22:15:10 GMT",
       "snippet": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em ... condorcontabilidade.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584647+00:00"
+      "collected_at": "2026-09-28T12:44:00.004016+00:00"
     },
     {
       "id": "70e5b48aa6b3f1be5061d8c3ade217114134013b564c62c15437a11ac49f8d16",
@@ -77,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584183+00:00"
+      "collected_at": "2026-09-28T12:43:48.506191+00:00"
     },
     {
       "id": "4e285e7f372a509ec15bcadef8dfd4a36bf93059b458ac72307aaa5c9a789054",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584353+00:00"
+      "collected_at": "2026-09-28T12:43:48.506299+00:00"
     },
     {
       "id": "b1bd64b26f9c640fc45c1cd65486db19bb375468ea9a15300c168dbaaaa14152",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584899+00:00"
+      "collected_at": "2026-09-28T12:43:48.506522+00:00"
     },
     {
       "id": "993a9a126c9dc3508b3a66e1cab5de111760ce380b2fd234a0c61f1ec19bc1b0",
@@ -122,30 +173,13 @@
       "published": "2026-09-27T13:28:17+00:00",
       "published_raw": "Sun, 27 Sep 2026 13:28:17 GMT",
       "snippet": "Mais um motociclista morre em acidente em rodovia de Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584765+00:00"
-    },
-    {
-      "id": "d5dc27d76e9f7f111f6ff1bbb20c6a822e3e47c8db022baabd9ad1194396f53b",
-      "title": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFITHNUUDVVMmlFTENwbU5PWVJ3dlFZVm9aOFF1cXBwaGhCZkd0RjhhcEtWYWxMeThCZy1uQU9hOExkdnRIX2IyOERseE9ibVdxdW9HR2NsSFdSbERxbWk5M3NuWDN1N2RrLWl6ZzZqa2tyUllxTTEtOWtPWkh1TGRqdDF6NVVpOVB3QWtrMGJoa21jRk5xRXZROWdfSUMxSU1Sbk1FMnVoRHBWZlhlUm1n?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-27T10:13:11+00:00",
-      "published_raw": "Sun, 27 Sep 2026 10:13:11 GMT",
-      "snippet": "Rodovia Washington Luís (SP-310) terá fiscalização com inteligência artificial em outubro Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-28T09:03:59.584475+00:00"
+      "collected_at": "2026-09-28T12:44:00.003927+00:00"
     }
   ]
 }
