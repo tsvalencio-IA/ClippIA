@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-29T19:45:03.544401+00:00",
+  "updated_at": "2026-09-29T21:36:58.966822+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 20,
+  "total": 17,
   "total_images": 0,
-  "new_items": 20,
+  "new_items": 17,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,38 +46,38 @@
   ],
   "items": [
     {
-      "id": "3125f740aa6cfc9ed97e141d8531c56f0a134dc4db182ae54c3e9eb3796a516d",
-      "title": "Moto bate em caminhão caçamba na Washington Luís, em São Carlos, e condutor fica preso sob o veículo - Região em Destake",
-      "source": "Região em Destake",
+      "id": "2f70e1c7a63f0d2617cd9702808a80f70f3ffb8718c18b870fbd9be83e03a2b8",
+      "title": "Moto bate em caminhão caçamba na Washington Luís, em São Carlos, e condutor fica preso sob o veículo - regiaoemdestake.com.br",
+      "source": "regiaoemdestake.com.br",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlFUcl9GdlM4R19kbWdvenpBM19kZGV1NFVXRXFoR1I4dGxyRncydVdTaFFpOVlwUzJkbUpkN2dMNnJvZ0Q1LUFCbHZfRE9PS2c0N1lSNlJUak9vLUgydUVCY0piVU81Zmhzc2JpV2w2dl92NjZoWVZ4LXJaUHRYMnA2Zjk0eEtTTkJEcmpsT2FYbzA?oc=5",
       "resolved_link": "",
       "published": "2026-09-29T19:07:30+00:00",
       "published_raw": "Tue, 29 Sep 2026 19:07:30 GMT",
-      "snippet": "Moto bate em caminhão caçamba na Washington Luís, em São Carlos, e condutor fica preso sob o veículo Região em Destake",
+      "snippet": "Moto bate em caminhão caçamba na Washington Luís, em São Carlos, e condutor fica preso sob o veículo regiaoemdestake.com.br",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.918016+00:00"
+      "collected_at": "2026-09-29T21:36:41.621760+00:00"
     },
     {
-      "id": "f8d1380d56cbf2c2664d016113cd8560de8128a3b15bd2f91ddc811b66128f37",
-      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - votunews.com.br",
-      "source": "votunews.com.br",
+      "id": "1be12df3b4375ffb51f0a9600b6ec610c3df1be9139e43c6c21e4afc3d899d3a",
+      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - Votunews",
+      "source": "Votunews",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2dPa0VYM1ZxUFNHdzh0eEhrY3RockdLdFVCb1ctOUV2dm9rSmhvX1ZPYlBjQURNNmt1V2ZJd0F5WlQxaEZOUVluS3lkQVJxUlgyQzM0Wkt2TzY4NmtHNlZZbW82ZndKM0xpU1d2a1FoMzNEdE9SbFIzVnRYU1M2RU9QRGNldXFVXzhJV0RTeF9oSl8ydVZTYktSbGhCdi1wcEM0X0ZLZGlySFJVTVE?oc=5",
       "resolved_link": "",
       "published": "2026-09-29T17:28:00+00:00",
       "published_raw": "Tue, 29 Sep 2026 17:28:00 GMT",
-      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste votunews.com.br",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "obras/interdição",
+      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste Votunews",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.918249+00:00"
+      "collected_at": "2026-09-29T21:36:53.889722+00:00"
     },
     {
       "id": "32a962a1ab7fc6bcb3a22289441241f8c6bda535049868a940566ab52ba2922a",
@@ -88,13 +88,13 @@
       "published": "2026-09-29T17:23:00+00:00",
       "published_raw": "Tue, 29 Sep 2026 17:23:00 GMT",
       "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:47.716645+00:00"
+      "collected_at": "2026-09-29T21:36:41.621877+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.062281+00:00"
+      "collected_at": "2026-09-29T21:36:52.733056+00:00"
     },
     {
       "id": "6300c164c26d3e30038960eba635e5a7cb682b7b92f18a662301120d561aec3a",
@@ -128,24 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:58.245852+00:00"
+      "collected_at": "2026-09-29T21:36:53.889684+00:00"
     },
     {
-      "id": "6e68462d8c54bfd271bed3f9cd62b2a8b1e49726c51aef039c41e97a4e2838dc",
-      "title": "Câmeras com IA passam a flagrar celular e falta de cinto na Washington Luís, em São Carlos - Região em Destake",
-      "source": "Região em Destake",
+      "id": "1a0fce7a409e814a22d1239e8711546e10c637e661ee5de9f0572c333a74daee",
+      "title": "Câmeras com IA passam a flagrar celular e falta de cinto na Washington Luís, em São Carlos - regiaoemdestake.com.br",
+      "source": "regiaoemdestake.com.br",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkluODBsRk9FajU4WFFtYWNLR21SNTNySFhteDZIc3hMZkJHYnE1bk45TFdNOEpUWWdwcldMTDdfVEVXSUp4bUY0UF9ad1REMjJuTXpObzFnaThTRkZ4TExqV090alNBWGJhWVo3Qk93VDJhU2dHUzc4ZkRaTkx3cVRqYXh2SDIxZ1JEZkRaTUdob0E?oc=5",
       "resolved_link": "",
-      "published": "2026-09-29T13:47:05+00:00",
-      "published_raw": "Tue, 29 Sep 2026 13:47:05 GMT",
-      "snippet": "Câmeras com IA passam a flagrar celular e falta de cinto na Washington Luís, em São Carlos Região em Destake",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-09-29T13:46:55+00:00",
+      "published_raw": "Tue, 29 Sep 2026 13:46:55 GMT",
+      "snippet": "Câmeras com IA passam a flagrar celular e falta de cinto na Washington Luís, em São Carlos regiaoemdestake.com.br",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:54.661635+00:00"
+      "collected_at": "2026-09-29T21:36:50.359435+00:00"
     },
     {
       "id": "2f312b362bcd808516062198be237d8397ea9af087f389590f345e4b2f11cfda",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:55.282002+00:00"
+      "collected_at": "2026-09-29T21:36:50.974152+00:00"
     },
     {
       "id": "aac66e35c54481ffa6b178646bd345716d90326cd3f66627749a3a4d1ecdd3f4",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.917911+00:00"
+      "collected_at": "2026-09-29T21:36:41.621679+00:00"
     },
     {
       "id": "b8274acd9696cd6e0c721d72a8a035d8d6a131ccb416ca7b124462adee569b56",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.918179+00:00"
+      "collected_at": "2026-09-29T21:36:41.621822+00:00"
     },
     {
       "id": "47249019ca8240f19d0f1e594ec49d436f2a4cd94d5078b318d600a157334cfc",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:56.426633+00:00"
+      "collected_at": "2026-09-29T21:36:52.142970+00:00"
     },
     {
       "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:45:00.102411+00:00"
+      "collected_at": "2026-09-29T21:36:55.590867+00:00"
     },
     {
       "id": "ef796acb61ee980016eca00e01314a7c1272e4416c0fea64cb0ce8a5344fcaee",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.062616+00:00"
+      "collected_at": "2026-09-29T21:36:52.733283+00:00"
     },
     {
       "id": "4f6981fc77bf8bfa99464b8c0d615d549df51e24f5f4cdc3c42824184a04161a",
@@ -264,24 +264,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:54.661774+00:00"
+      "collected_at": "2026-09-29T21:36:50.359481+00:00"
     },
     {
-      "id": "59b32b7b9c97c99221029a5b7a321aa93e7bbba7fe10a356f7c2a24ab5d15dd9",
-      "title": "Ecovias Noroeste Paulista e PMRv iniciam fiscalização por câmeras com IA em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
+      "id": "4a70a5cdefe8e0de38d72758bb46880e19cb8b2eede3fd44fc6081e70f357648",
+      "title": "Ecovias Noroeste Paulista e PMRv iniciam fiscalização por câmeras com IA em São Carlos - saocarlosagora.com.br",
+      "source": "saocarlosagora.com.br",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUsxOHFCYzM5RlkyS3picnJvRlIzdHp5bzFhaF9QbDh0b0VLcFc3Z3JZeFZGUjdkeGNqR19nX3J0cm02REVCVWFMa24xckxodV8tNFYwMFZrN1JMeXZEUEhOSTh0THRTZU5ibnV2bWZkQ2RsLTA2aFlkVlVTMnlKaU92RDNtZTVXNUwwMnhTblJMMGpYYk93bGlYMVJLa3VJRFEwZUVrbU5GcFlXTnZLZFN5NXJycWJRSXo1NGxtdnBWU1dCWFZUNEZnYklNc2k3YjVIRHJibHhQcDA?oc=5",
       "resolved_link": "",
       "published": "2026-09-29T11:08:00+00:00",
       "published_raw": "Tue, 29 Sep 2026 11:08:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista e PMRv iniciam fiscalização por câmeras com IA em São Carlos São Carlos Agora",
+      "snippet": "Ecovias Noroeste Paulista e PMRv iniciam fiscalização por câmeras com IA em São Carlos saocarlosagora.com.br",
       "term": "\"Ecovias Noroeste\" interdição",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.656217+00:00"
+      "collected_at": "2026-09-29T21:36:53.322037+00:00"
     },
     {
       "id": "8390e46f19e3e2e6e0e24ad800814496ee6e401a51539e62cd5b23ff32bc7555",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.062534+00:00"
+      "collected_at": "2026-09-29T21:36:52.733233+00:00"
     },
     {
       "id": "ba06d50942b1563585c63d89e3ae34ec508da9e7ab4347a878ed407c2e2e2e30",
@@ -315,75 +315,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.062742+00:00"
+      "collected_at": "2026-09-29T21:36:52.733329+00:00"
     },
     {
-      "id": "b9d66a2a103a0db0d604c2138decf56586f400a546024bc220a7bd2143b9f689",
-      "title": "Simulador de Impacto chega ao centro de Rio Preto para alertar motoristas - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
+      "id": "a1a715177cfac2b70d97809316450313ba8485c8c5dc1be6f72594ab35096879",
+      "title": "Simulador de Impacto chega ao centro de Rio Preto para alertar motoristas - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnN2NlFVd0JkZ2tuQUV6VUIxOE16RXRqSTI3Tld2VHVtUmx0Q1hYSG1FRkEwRnRIREFjd0pGclA2bm1rd19YVW5oNTBZTmRlcE1hdEJoaGswREQ3UDcwRTFfdEQtOUZfYlJwRFJ5NG5wWVZCUU0wNTNjd25aY2pDdFNpeEFZaE5PQUMtcWZnUU44d1FSWHZ0RzBHN3k1NGo5eXBLNGd0TEE4aGk5RlNwdXBOT1NCbVRFWXNhVnJKcENEakczNzBlRlZuaDUwVklpRDhyNW5KU3NNUTVHc0ZLbl9iZEpEcWdoaEE?oc=5",
       "resolved_link": "",
       "published": "2026-09-28T22:40:00+00:00",
       "published_raw": "Mon, 28 Sep 2026 22:40:00 GMT",
-      "snippet": "Simulador de Impacto chega ao centro de Rio Preto para alertar motoristas mirassol.portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "snippet": "Simulador de Impacto chega ao centro de Rio Preto para alertar motoristas Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.918320+00:00"
-    },
-    {
-      "id": "157db03995bdad85e4c18bacf1f9a795ae6a85e9260381e05540a6cf49bad8df",
-      "title": "Simulador de impacto mostra efeitos de colisão em Rio Preto - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFcyaVVNYXdDTWtCQmhsTEE5c0oyazZmbXJMSDZIRXJUWkx3V0Vod0FXdl9WUE05aVNYcEs3SHdUaVNWX1VvYWZTaExXcGRNTDdyb1JuSjhaWXdCaV9nMnE5dldMc3VJaFplZ2dQYV9DWXJTSWd3QnduNExUZnNORTF3ajVaUlpoY0NEdmFNNGNoT09VSkNoMmxQaGw?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-28T20:38:34+00:00",
-      "published_raw": "Mon, 28 Sep 2026 20:38:34 GMT",
-      "snippet": "Simulador de impacto mostra efeitos de colisão em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-29T19:44:45.918095+00:00"
-    },
-    {
-      "id": "bdba1231d02ea8b804e647ab17cc6feeb64b25b60c2228e7d71c9c03eb1b112a",
-      "title": "Central de Libras é inaugurada em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjJSV1Jka29NOXFOOWZFaWVLZ2l1WXhrM1hNeXdKaVV6UVhrNFBuVzQ5UkxLSmN2bDJsU0ZBR210NUhjWHRIbWd1RWZYelJPTUt3bm9tX0REazVBUDhpem12bmVLaHVkYlBMVms1NkhDejcxZnZTU0JhU2FjRWM4bkg2OHHSAYQBQVVfeXFMT24yUldSZGtvTTlxTjlmRWllS2dpdVl4azNYTXl3SmlVelFYazRQblc0OVJMS0pjdmwybFNGQUdtdDVIY1h0SG1ndUVmWHpST01Ld25vbV9ERGs1QVA4aXptdm5lS2h1ZGJQTFZrNTZIQ3o3MWZ2U1NCYVNhY0VjOG5INjhx?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-28T20:37:49+00:00",
-      "published_raw": "Mon, 28 Sep 2026 20:37:49 GMT",
-      "snippet": "Central de Libras é inaugurada em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-29T19:44:57.062888+00:00"
-    },
-    {
-      "id": "d609221de2ed4a8fac5c6d09ece0314eb0bea3e9780c58bbaafcaed4afc6d634",
-      "title": "Relato de funcionário da Ecovias sobre acidente com família chama atenção para imprudência nas rodovias - - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPak9VNlBnSHI4RlFabVZVX2p4TzZfcVZMN29ocXdkZFJmUlN5TmRnT1NyRURoZmtXZDUxVnpxVEpZUHhqRzFISUVIYUdCMEtmZGFBYTViSXVBaWFSQzQ5X212RXdUOGdMU0VZVzFoWlZwV1RIWXhCbTFsdTZJenJzT3dtZHNQT093N0NwQlE2WTdRUFZfdjY5cnRvdnRRR1QzRmxLRF9ZYzdDRnh3M2ZpM0VfNmt4dzhoeHpmTGYwVDNTdzZGT1lua0poWTVEZ9IB0wFBVV95cUxOZV9JWV93a25CbDY2R3FURWRPcVAwTVNHYUFZcGh6eGswcWtiRjZ2d0I1NDE2bl9GYkVEbXBzMmhEbnp3b093RFdNQVZEX2dHYU1kWEJjbldwQW5nYnJ4X2Y4QUxuTTM2Wllvb1loRElfYXREcTQ1cVB5ZTlnUWhZMlF2VFBhblRLaVBxVl9YLTdKbFNxbnJ5RTRfWDJZSWJlTVk4aGpGNUhZV3o4MVc1MzNzd1I1c0xDSTJfcmViMUUzVmFRTnN4MktrVXNiVkliRllF?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-28T20:19:55+00:00",
-      "published_raw": "Mon, 28 Sep 2026 20:19:55 GMT",
-      "snippet": "Relato de funcionário da Ecovias sobre acidente com família chama atenção para imprudência nas rodovias - São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-29T19:44:58.245771+00:00"
+      "collected_at": "2026-09-29T21:36:41.621931+00:00"
     }
   ]
 }
