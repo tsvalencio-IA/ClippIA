@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:43:20.636201+00:00",
+  "updated_at": "2026-09-29T03:53:49.327318+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 15,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601613+00:00"
+      "collected_at": "2026-09-29T03:53:33.374635+00:00"
     },
     {
       "id": "d609221de2ed4a8fac5c6d09ece0314eb0bea3e9780c58bbaafcaed4afc6d634",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601452+00:00"
+      "collected_at": "2026-09-29T03:53:33.374505+00:00"
     },
     {
       "id": "157db03995bdad85e4c18bacf1f9a795ae6a85e9260381e05540a6cf49bad8df",
@@ -88,13 +88,13 @@
       "published": "2026-09-28T20:38:34+00:00",
       "published_raw": "Mon, 28 Sep 2026 20:38:34 GMT",
       "snippet": "Simulador de impacto mostra efeitos de colisão em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601278+00:00"
+      "collected_at": "2026-09-29T03:53:33.374389+00:00"
     },
     {
       "id": "bdba1231d02ea8b804e647ab17cc6feeb64b25b60c2228e7d71c9c03eb1b112a",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:14.404853+00:00"
+      "collected_at": "2026-09-29T03:53:43.463924+00:00"
     },
     {
       "id": "fc49fd45f9fc40d1d8d2b4df6244b0b06fdd0ed40dd6ae92154dc7c77bc1d41a",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-333%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:19.715126+00:00"
+      "collected_at": "2026-09-29T03:53:48.435736+00:00"
     },
     {
       "id": "7e4fed22678ae1dcb2c5fc53dcba11dae83f4e5d34ca50a1eb023a24b661e349",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:14.404947+00:00"
+      "collected_at": "2026-09-29T03:53:43.463977+00:00"
     },
     {
       "id": "6480a35532ed47252e7a043138f01d9c6c7d797e51cb489a8b88237bb21a8a64",
@@ -156,13 +156,13 @@
       "published": "2026-09-28T13:48:30+00:00",
       "published_raw": "Mon, 28 Sep 2026 13:48:30 GMT",
       "snippet": "Ecovias Noroeste Paulista informa o cronograma de obras de 28/9 a 4/10/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601116+00:00"
+      "collected_at": "2026-09-29T03:53:33.374320+00:00"
     },
     {
       "id": "f691723c3c4decab12f138819264110b9038a17124b17773fcca2cc74cbb7a82",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:12.137686+00:00"
+      "collected_at": "2026-09-29T03:53:41.338229+00:00"
     },
     {
       "id": "f6c31358e0f992735916f22166700e15b05660b5e255bc3691a3615b3e5b6681",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601534+00:00"
+      "collected_at": "2026-09-29T03:53:33.374580+00:00"
     },
     {
       "id": "0a9f5dae7bc58028338a348a3cd2a4a7eff1f328e6545fc3d870cd6a0934d253",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:12.137593+00:00"
+      "collected_at": "2026-09-29T03:53:41.338173+00:00"
     },
     {
       "id": "225d09a4b72d28c6e8d1659d5cbac6e353885f770f994d8a9fd8004930c5bdbf",
@@ -224,13 +224,13 @@
       "published": "2026-09-28T11:28:49+00:00",
       "published_raw": "Mon, 28 Sep 2026 11:28:49 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 28/9 a 4/10/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" reajuste | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" reajuste | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:13.781923+00:00"
+      "collected_at": "2026-09-29T03:53:42.940327+00:00"
     },
     {
       "id": "c0613a4c9d86905e166dbe2ddd7ce39dc98ecdee79117869c003b70f9ec9ce05",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:05.320810+00:00"
+      "collected_at": "2026-09-29T03:53:34.988513+00:00"
     },
     {
       "id": "72558e4dfea850e2e2d50d941492a622f9626cdb82f70a5905e342eab51203c6",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:14.405033+00:00"
+      "collected_at": "2026-09-29T03:53:43.464027+00:00"
     },
     {
       "id": "c360e72f9590d2e4d3b722a71991ad421aa200fdd98d415dbb56bac67ab7f6f2",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:03.601370+00:00"
+      "collected_at": "2026-09-29T03:53:33.374449+00:00"
     },
     {
       "id": "97c0b4ad1d4dab4d1914ea976a4d83b30d387475557f7ebbc69f582d3ab17ea9",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-29T00:43:14.404661+00:00"
+      "collected_at": "2026-09-29T03:53:43.463817+00:00"
     }
   ]
 }
