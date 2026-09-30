@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-30T21:37:40.640568+00:00",
+  "updated_at": "2026-09-30T21:48:05.292298+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:22.850729+00:00"
+      "collected_at": "2026-09-30T21:47:44.509677+00:00"
     },
     {
       "id": "c4e026145d632f152bce34c5db967c64a1b6215dc72fc27e777329613c36d81e",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:30.723347+00:00"
+      "collected_at": "2026-09-30T21:47:53.122888+00:00"
     },
     {
       "id": "25c7b09854d003e6bca3cafe46cb4e000bbe99cefdfa64242adb2b1d39cc2397",
@@ -88,13 +88,13 @@
       "published": "2026-09-30T18:05:00+00:00",
       "published_raw": "Wed, 30 Sep 2026 18:05:00 GMT",
       "snippet": "Câmeras com IA começam a flagrar uso de celular e falta de cinto em rodovia do interior de SP diarioesp.com.br",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012198+00:00"
+      "collected_at": "2026-09-30T21:47:43.944555+00:00"
     },
     {
       "id": "b1a338e990792b17c8daae3a3a62587ab3cb83facd390e13ef2325a1ad8657d4",
@@ -105,13 +105,13 @@
       "published": "2026-09-30T17:58:00+00:00",
       "published_raw": "Wed, 30 Sep 2026 17:58:00 GMT",
       "snippet": "Câmeras com IA vão fiscalizar uso de celular ao volante em rodovia de SP Metrópoles",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012324+00:00"
+      "collected_at": "2026-09-30T21:47:43.944620+00:00"
     },
     {
       "id": "45a81cff2033043b80e965858a12c669eed561ac2ad217ebfc41fc4ecb981f2d",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:34.687361+00:00"
+      "collected_at": "2026-09-30T21:48:00.987841+00:00"
     },
     {
       "id": "9f508acf7bf70f5c7522794e0ebc5804ce6612fbe936274f3d3a7a4fbc9a817f",
@@ -139,13 +139,30 @@
       "published": "2026-09-30T15:10:00+00:00",
       "published_raw": "Wed, 30 Sep 2026 15:10:00 GMT",
       "snippet": "Obras na Washington Luís exigem atenção de motoristas de Mirassol Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012474+00:00"
+      "collected_at": "2026-09-30T21:47:43.944878+00:00"
+    },
+    {
+      "id": "0c16823436d9555f3eebeae84ecdadcfa40fcff633b80084f2dab383ad8d1faa",
+      "title": "Obras na Washington Luís exigem atenção de motoristas de Mirassol - mirassol.portaldacidade.com",
+      "source": "mirassol.portaldacidade.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjVUSlpHNVIxdDZ4c0IxSlFCT184LVRMQ0dYWGlNLWd6Y1puZExrWGJMQU9lc0RhdE1mS001X3VNSmo3Slp6LS0zMmVTcV9NYmE2WkJBa3RVRzBZbTAtTHRsZFhMRGZtTlhpY2xES0ZzU1BMNTNFd2dwQWJFa3JfYkpDNURrUHU1RkxCdmVYcG9meG1KanVjZ3VrWk44VHhFaEx2VHl4OUtxWXMyWG9GTVgtS19IQXdtc1VWNjZTVnhoTTZY?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-30T15:10:00+00:00",
+      "published_raw": "Wed, 30 Sep 2026 15:10:00 GMT",
+      "snippet": "Obras na Washington Luís exigem atenção de motoristas de Mirassol mirassol.portaldacidade.com",
+      "term": "\"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-30T21:48:03.818502+00:00"
     },
     {
       "id": "67b915c1ed4d398836e2aa86a62cef8d9919e82d6bffb3fdd471d796aeb29197",
@@ -156,13 +173,13 @@
       "published": "2026-09-30T10:28:26+00:00",
       "published_raw": "Wed, 30 Sep 2026 10:28:26 GMT",
       "snippet": "Celular e falta de cinto: câmeras com inteligência artificial fiscalizam rodovia no interior de SP G1",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012274+00:00"
+      "collected_at": "2026-09-30T21:47:43.944680+00:00"
     },
     {
       "id": "9450f339e169d718fb2b8cbb4013784cb67b4642616bdba86cf350d5657ec22e",
@@ -173,13 +190,13 @@
       "published": "2026-09-30T08:04:09+00:00",
       "published_raw": "Wed, 30 Sep 2026 08:04:09 GMT",
       "snippet": "Ecovias Noroeste Paulista e PMRv iniciam fiscalização por câmeras com IA em São Carlos Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012135+00:00"
+      "collected_at": "2026-09-30T21:47:43.944466+00:00"
     },
     {
       "id": "5995bb6824861393f3613a9b5959aa49a3e3d197768693056dd7bb6c5ea5e194",
@@ -190,13 +207,13 @@
       "published": "2026-09-30T03:22:33+00:00",
       "published_raw": "Wed, 30 Sep 2026 03:22:33 GMT",
       "snippet": "Câmeras com IA começam a flagrar celular e falta de cinto a partir de amanhã na Washington Luís em Rio Preto Tanabi Noticias",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012379+00:00"
+      "collected_at": "2026-09-30T21:47:43.944759+00:00"
     },
     {
       "id": "3647c810510c2b588fb6ed0a18e922f0ff29cd1ae18264e5e814e0ad02b5cef5",
@@ -207,13 +224,13 @@
       "published": "2026-09-29T23:33:47+00:00",
       "published_raw": "Tue, 29 Sep 2026 23:33:47 GMT",
       "snippet": "Simulador orienta sobre cuidados com o trânsito Diário da Região",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T21:37:24.012423+00:00"
+      "collected_at": "2026-09-30T21:47:43.944817+00:00"
     }
   ]
 }
