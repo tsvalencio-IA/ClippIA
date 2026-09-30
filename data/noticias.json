@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:09:48.926382+00:00",
+  "updated_at": "2026-09-30T17:29:35.543359+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 11,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967485+00:00"
+      "collected_at": "2026-09-30T17:29:18.626842+00:00"
     },
     {
       "id": "67b915c1ed4d398836e2aa86a62cef8d9919e82d6bffb3fdd471d796aeb29197",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967277+00:00"
+      "collected_at": "2026-09-30T17:29:18.626586+00:00"
     },
     {
       "id": "1a2dc40db016fea3b02228dcc9958e45b8f7d58f61e1dd8ada2e5014c7978167",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:44.530023+00:00"
+      "collected_at": "2026-09-30T17:29:31.114050+00:00"
     },
     {
       "id": "9450f339e169d718fb2b8cbb4013784cb67b4642616bdba86cf350d5657ec22e",
@@ -111,7 +111,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967081+00:00"
+      "collected_at": "2026-09-30T17:29:18.626450+00:00"
+    },
+    {
+      "id": "eaea6a6801fb309920893bda68134f85870410b59d11172075803a87066263f7",
+      "title": "Homem com mandado de prisão em aberto é abordado pela GCM - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3BhMVl3MzJhNHFIN3ptQTB3TG1wemFuZ0drRVlzeUt4cllFU0laaEd2c1lYRVpfV3drdXRiN0lLOUdPSUNsUjY0T1FOQklHRHpoS29ScWdWSzF4MGRLSlFoeVBJbVJCVUV3VWtDSjNvOTZZemM4cUZ6NUFyYmVWYUVnelY3eGRZTEpMNDNoT2JBY3p4SERQWFFGbVBkbUdUcFoxRkhVWm9uUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-30T06:29:54+00:00",
+      "published_raw": "Wed, 30 Sep 2026 06:29:54 GMT",
+      "snippet": "Homem com mandado de prisão em aberto é abordado pela GCM Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-30T17:29:20.324882+00:00"
+    },
+    {
+      "id": "fa60a90685c1774e7b01ae2c60b2838d14c74ccf2dfc5910a82d53613f3d047e",
+      "title": "Veículo furtado é localizado durante abordagem na região central - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenkwcFA2Q21FZkdLTVdPRjJRMlZlOThDSEVtVGtVMUFWS0hpXzNVN0VzS29qLVkyWkJGZXpkaTkyN05ULS1LWmJkVm15OU9naHZvTmlwR3N4T09UYldNU3ZIZF9HeUNtTldSU3V0NTBub0hmS2w1RklzZk94ZzRUSXozXzFCLWprV0VUTmttbDBvRE5lZGx1ekhGQVcyajdPb3ViZUhsQ0kzVG5SS01YVkV2WQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-30T06:26:34+00:00",
+      "published_raw": "Wed, 30 Sep 2026 06:26:34 GMT",
+      "snippet": "Veículo furtado é localizado durante abordagem na região central Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-30T17:29:18.626797+00:00"
     },
     {
       "id": "5995bb6824861393f3613a9b5959aa49a3e3d197768693056dd7bb6c5ea5e194",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967336+00:00"
+      "collected_at": "2026-09-30T17:29:18.626643+00:00"
     },
     {
       "id": "3647c810510c2b588fb6ed0a18e922f0ff29cd1ae18264e5e814e0ad02b5cef5",
@@ -139,13 +173,13 @@
       "published": "2026-09-29T23:33:47+00:00",
       "published_raw": "Tue, 29 Sep 2026 23:33:47 GMT",
       "snippet": "Simulador orienta sobre cuidados com o trânsito Diário da Região",
-      "term": "\"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:44.529914+00:00"
+      "collected_at": "2026-09-30T17:29:18.626688+00:00"
     },
     {
       "id": "3125f740aa6cfc9ed97e141d8531c56f0a134dc4db182ae54c3e9eb3796a516d",
@@ -162,75 +196,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967206+00:00"
+      "collected_at": "2026-09-30T17:29:18.626529+00:00"
     },
     {
-      "id": "c801cbc4bdfd8803784e79304ac5d9e82af2809f8626b0b439588e146ba31846",
-      "title": "SAAE informa interdição na Vila São José - Portal SCDN - Porque a informação não para!",
+      "id": "888a16697aab7eab957933ba897ca3300271729e013131d3710613aff09b726d",
+      "title": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em Rio Preto - Setcesp",
+      "source": "Setcesp",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczdCWkUyM0ZjejZGTkdrQUhEaHF1TFpwYXViSlZmbjV3M1ZWZ1QwVXdYTGdFakoxNFY5Mng1VHRwM05iYTdGcDMtb0o2OUd6QmF2QmlrMHpSRGt2dXRLdC1MZ0oyOXVkSGR3T282Q3d0V0ktRW5ZUlNIcDUyeC03bFpuX2NheWZIcnlnQ05BVUV1dTBRUFZNNHJ3TDlTMnBLek9xUkszWW1Eb3VtdkNrSXp1OG5UUE9XSl83YjZDaGhaTFp2di1qWkpPRkNUdzdWbkYw?oc=5",
+      "resolved_link": "",
+      "published": "2026-09-29T18:57:00+00:00",
+      "published_raw": "Tue, 29 Sep 2026 18:57:00 GMT",
+      "snippet": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em Rio Preto Setcesp",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-09-30T17:29:32.912109+00:00"
+    },
+    {
+      "id": "2b411845e07e3ae626b0f950f61c97e8da87704f0200f819248c3c1c86d04d8a",
+      "title": "São Carlos amplia proteção contra pneumonia com vacinação para idosos a partir de 85 anos - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbU5CaWtCV2VfMFFIMjdyaDlWQUJ2VTRFaE0xdW1pSkNINU1ybEhIU1hmOWViWGt3LVdtbWYzbjZlQkZ0RUxMOGVEUzhqaC1JcVRvVFRNLWEwRTlGRW0zNGZCcGozelFiZnpWaWVCOFBZZGJfODAwQ3c5ZXdQQ2E5MXBpNkl4Wmp0YVZOZTM2aUZxQnBnd1pz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeVdjR1JqMHdPekZJbFktRWNZRUhuaHJlVms1LVQ4Zmh0Vkhyek9PTU9fOUdPR1JEUjlJeTBIMkQ4N1VZZDljcTBuWXQ0OTJ2SWt6b1NaYkVsWjZ2YVdpODlKQUd6RExRTUYwU0JrQ2lsOW1qTU1nSjlpU21sVmZsRVM4NXRjUWxlc0ZiZWxScFpyMlFJamZBT0tjaUwtVmRabnF2bVNGOWljTEJCTnZyVFI2cmR2OHFKeDgxU1lhQXV5clBxaHgyX0FHUjFKYzMzcXc?oc=5",
       "resolved_link": "",
-      "published": "2026-09-29T17:28:56+00:00",
-      "published_raw": "Tue, 29 Sep 2026 17:28:56 GMT",
-      "snippet": "SAAE informa interdição na Vila São José Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
-      "category": "obras/interdição",
+      "published": "2026-09-29T17:47:56+00:00",
+      "published_raw": "Tue, 29 Sep 2026 17:47:56 GMT",
+      "snippet": "São Carlos amplia proteção contra pneumonia com vacinação para idosos a partir de 85 anos Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967389+00:00"
-    },
-    {
-      "id": "1be12df3b4375ffb51f0a9600b6ec610c3df1be9139e43c6c21e4afc3d899d3a",
-      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - Votunews",
-      "source": "Votunews",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2dPa0VYM1ZxUFNHdzh0eEhrY3RockdLdFVCb1ctOUV2dm9rSmhvX1ZPYlBjQURNNmt1V2ZJd0F5WlQxaEZOUVluS3lkQVJxUlgyQzM0Wkt2TzY4NmtHNlZZbW82ZndKM0xpU1d2a1FoMzNEdE9SbFIzVnRYU1M2RU9QRGNldXFVXzhJV0RTeF9oSl8ydVZTYktSbGhCdi1wcEM0X0ZLZGlySFJVTVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-29T17:28:00+00:00",
-      "published_raw": "Tue, 29 Sep 2026 17:28:00 GMT",
-      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste Votunews",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-30T17:09:43.954590+00:00"
-    },
-    {
-      "id": "32a962a1ab7fc6bcb3a22289441241f8c6bda535049868a940566ab52ba2922a",
-      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMWg5amtKYlZxT19HNVg2Q011RmNTYjFjNTFrcWxTb1V1UFdVSXdsT0Jmc3VweGlRR205cGM5N29mVVQ4NmpPZFYxSHRmNlhsekJ3b1EteGZ0akRsTXZSWU4xSVRPbDlIeUpBNGJuUFRXdFFpa20tN3FacGY2dzZpZkw1QkRsNmRHenhBVUFfSGxZTS05ZjN3N05zaUVIcnpFWVFUMDhpUnF0eXRf?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-29T17:23:00+00:00",
-      "published_raw": "Tue, 29 Sep 2026 17:23:00 GMT",
-      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-30T17:09:31.967439+00:00"
-    },
-    {
-      "id": "bdee2372ef1365c0056e028d16d5e5b9cfd2631168fb5cec628be882f6fb05eb",
-      "title": "Moto bate contra caminhão na Washington Luís e deixa dois homens feridos em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0dEQkJldlZtS01OdmFkemtOb1hzS0l3bTNLeEtXS3VDN0VWcy04NUdMU3BkRDBycXpBR3NmNTl4UkVZQ2RpS2lueGRDZU1VYkxfSVMwa1liMFYxOUpwdzRWN0gzcWpWamMtME01Mkt1aWJtQURoR0MyRkR0eXpTX1M2bC1EWjV3TGs5QWFqT05RU3IzOWpQbUl5Z3VJSlFidnpmRFJTV1RtQ0NlTEJOaVB5elNQaUHSAbwBQVVfeXFMTXNIcnlabFpsNHZOanN6eUl6UGNZZ09TSS1Td2VxSlFDUlZMbHlPMTFaN2JQdk9BdFRURzhFNm9UNnV5OFRjZERMVUNIS2JEVnQyOF9rWVp6S1JDNUtCaUxyaXR1RGlDem5WWXY0all2QzNDc3RSdEgwMnNzOXlMSkZFZHNMQnVveWtkRFBWTWdjVVJuck9UNmpMeWUxeEJDWHpzblhCMlBRVzBLclRKbGxxRkQxNWxVU0FvM2E?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-29T17:16:32+00:00",
-      "published_raw": "Tue, 29 Sep 2026 17:16:32 GMT",
-      "snippet": "Moto bate contra caminhão na Washington Luís e deixa dois homens feridos em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-09-30T17:09:43.954544+00:00"
+      "collected_at": "2026-09-30T17:29:18.626749+00:00"
     }
   ]
 }
