@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T09:06:43.441809+00:00",
+  "updated_at": "2026-09-30T09:14:41.963011+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 17,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:35.163242+00:00"
+      "collected_at": "2026-09-30T09:14:33.978182+00:00"
     },
     {
       "id": "3647c810510c2b588fb6ed0a18e922f0ff29cd1ae18264e5e814e0ad02b5cef5",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:39.275333+00:00"
+      "collected_at": "2026-09-30T09:14:37.773498+00:00"
     },
     {
       "id": "3125f740aa6cfc9ed97e141d8531c56f0a134dc4db182ae54c3e9eb3796a516d",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:27.012809+00:00"
+      "collected_at": "2026-09-30T09:14:26.064221+00:00"
     },
     {
       "id": "c801cbc4bdfd8803784e79304ac5d9e82af2809f8626b0b439588e146ba31846",
@@ -111,24 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:37.929639+00:00"
+      "collected_at": "2026-09-30T09:14:36.618981+00:00"
     },
     {
-      "id": "f8d1380d56cbf2c2664d016113cd8560de8128a3b15bd2f91ddc811b66128f37",
-      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - votunews.com.br",
-      "source": "votunews.com.br",
+      "id": "1be12df3b4375ffb51f0a9600b6ec610c3df1be9139e43c6c21e4afc3d899d3a",
+      "title": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste - Votunews",
+      "source": "Votunews",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2dPa0VYM1ZxUFNHdzh0eEhrY3RockdLdFVCb1ctOUV2dm9rSmhvX1ZPYlBjQURNNmt1V2ZJd0F5WlQxaEZOUVluS3lkQVJxUlgyQzM0Wkt2TzY4NmtHNlZZbW82ZndKM0xpU1d2a1FoMzNEdE9SbFIzVnRYU1M2RU9QRGNldXFVXzhJV0RTeF9oSl8ydVZTYktSbGhCdi1wcEM0X0ZLZGlySFJVTVE?oc=5",
       "resolved_link": "",
       "published": "2026-09-29T17:28:00+00:00",
       "published_raw": "Tue, 29 Sep 2026 17:28:00 GMT",
-      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste votunews.com.br",
+      "snippet": "Obras e serviços de manutenção alteram o trânsito em rodovias da Região Noroeste Votunews",
       "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:38.477498+00:00"
+      "collected_at": "2026-09-30T09:14:37.171664+00:00"
     },
     {
       "id": "32a962a1ab7fc6bcb3a22289441241f8c6bda535049868a940566ab52ba2922a",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:27.013007+00:00"
+      "collected_at": "2026-09-30T09:14:26.064384+00:00"
     },
     {
       "id": "bdee2372ef1365c0056e028d16d5e5b9cfd2631168fb5cec628be882f6fb05eb",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:38.477431+00:00"
+      "collected_at": "2026-09-30T09:14:37.171603+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:37.283507+00:00"
+      "collected_at": "2026-09-30T09:14:36.087901+00:00"
     },
     {
       "id": "6300c164c26d3e30038960eba635e5a7cb682b7b92f18a662301120d561aec3a",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:38.477354+00:00"
+      "collected_at": "2026-09-30T09:14:37.171528+00:00"
     },
     {
       "id": "6e68462d8c54bfd271bed3f9cd62b2a8b1e49726c51aef039c41e97a4e2838dc",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:35.163163+00:00"
+      "collected_at": "2026-09-30T09:14:33.978084+00:00"
     },
     {
       "id": "2f312b362bcd808516062198be237d8397ea9af087f389590f345e4b2f11cfda",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reclama%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:35.694880+00:00"
+      "collected_at": "2026-09-30T09:14:34.502885+00:00"
     },
     {
       "id": "aac66e35c54481ffa6b178646bd345716d90326cd3f66627749a3a4d1ecdd3f4",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:27.012705+00:00"
+      "collected_at": "2026-09-30T09:14:26.064112+00:00"
     },
     {
       "id": "b8274acd9696cd6e0c721d72a8a035d8d6a131ccb416ca7b124462adee569b56",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:27.012899+00:00"
+      "collected_at": "2026-09-30T09:14:26.064310+00:00"
     },
     {
       "id": "47249019ca8240f19d0f1e594ec49d436f2a4cd94d5078b318d600a157334cfc",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20reajuste%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:36.734799+00:00"
+      "collected_at": "2026-09-30T09:14:35.551503+00:00"
     },
     {
       "id": "ef796acb61ee980016eca00e01314a7c1272e4416c0fea64cb0ce8a5344fcaee",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:37.283761+00:00"
+      "collected_at": "2026-09-30T09:14:36.088154+00:00"
     },
     {
       "id": "4f6981fc77bf8bfa99464b8c0d615d549df51e24f5f4cdc3c42824184a04161a",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:35.163320+00:00"
+      "collected_at": "2026-09-30T09:14:33.978263+00:00"
     },
     {
       "id": "59b32b7b9c97c99221029a5b7a321aa93e7bbba7fe10a356f7c2a24ab5d15dd9",
@@ -332,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-09-30T09:06:37.929900+00:00"
+      "collected_at": "2026-09-30T09:14:36.619233+00:00"
     }
   ]
 }
