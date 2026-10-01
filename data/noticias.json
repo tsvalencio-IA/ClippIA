@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-01T12:18:21.312208+00:00",
+  "updated_at": "2026-10-01T17:39:34.746616+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 14,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "b8be90d0d3400e18cc50984cc6dead7834d0dab5f631484ba8d20eea739cbfa2",
+      "title": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMV9CbjVhY3Nsbml2blc2aEFFMkpfUTkwRnlqRmRxNzZsZGE4Zmo0R05hRzQyZkpSMDFocGhWUHlYc245NHdoc0pZczY4OFlJbE5IcFdYTDQzUGVKNTFuSXRVNlBnRS1oTVJ0cXU1M3VUN0VXcFRWWEFMM1NNTEpuLWxIREl3WG05WmVKODg1TGZuZE42VUxKUTJUWXVzaHZMOXFLbjV0V0h3d2lnVmpkRXNwYU85bG5RQ013RFU4eGhtY3dybnM3YlZhZ3FDV3pqdjByTDNiVmhXR2Yxa0labUk5bmdITWfSAecBQVVfeXFMTTFfQm41YWNzbG5pdm5XNmhBRTJKX1E5MEZ5akZkcTc2bGRhOGZqNEdOYUc0MmZKUjAxaHBoVlB5WHNuOTR3aHNKWXM2ODhZSWxOSHBXWEw0M1BlSjUxbkl0VTZQZ0UtaE1SdHF1NTN1VDdFV3BUVlhBTDNTTUxKbi1sSERJd1htOVplSjg4NUxmbmRONlVMSlEyVFl1c2h2TDlxS241dFdId3dpZ1ZqZEVzcGFPOWxuUUNNd0RVOHhobWN3cm5zN2JWYWdxQ1d6anYwckwzYlZoV0dmMWtJWm1JOW5nSE1n?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-01T15:01:50+00:00",
+      "published_raw": "Thu, 01 Oct 2026 15:01:50 GMT",
+      "snippet": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização Diário do Transporte",
+      "term": "\"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-01T17:39:33.226508+00:00"
+    },
+    {
+      "id": "f68b2ac7280fa5164038f9a06cc04c8e2ab543454364eee5df3b133ea42e41c7",
+      "title": "Câmeras com inteligência artificial começam a fiscalizar celular e cinto na SP-310, em São Carlos - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2RzQWxVdmU4MTk5akF5VkRHek9yZVhVaUlHUDdxaE5JOEpsTG4yRUJvRU9YaVpSYkRVaHl6VHV2X0dnMXI1VGVHY19CTVRCeWlzcjd4RHRlMC1HNVl0VlE5ZjNLTWhCdEFnQTBSUHN3X1FCQUhWejQ0R3ptdHJFMWlSQmx3enBWNWQxa1poemJnb05TamJCOG5kT2tVUGNWUUYxS2hZaFZTS1ZWcVBGZDNaU05TYWZ1VUlqTE9MeHh2cmNDZkFlNmNVQkJWVGF1ZmJadEx4NkNsaDJGQldka0UxMHR0WWU0?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-01T14:39:00+00:00",
+      "published_raw": "Thu, 01 Oct 2026 14:39:00 GMT",
+      "snippet": "Câmeras com inteligência artificial começam a fiscalizar celular e cinto na SP-310, em São Carlos São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-01T17:39:26.518789+00:00"
+    },
+    {
+      "id": "826022ca3cb9c1c694e27e0a58c7a1db86556913cf6ba655bcf69ad18bae4b0c",
+      "title": "Trevo de Cedral segue em obras após prazo previsto para setembro e motoristas reclamam de desvios - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1B6ZDNRbEZJOE1UVHNBNGtjZTFUZkdGaXNsbGJzY2dOdWdyY0hKcnJfaE4zZnoxLVVqbUs3QjhfY056SnFxN1o4YlFuSGFnTVl3aExjTVpXbmppWE5tV3JSNjB2TXNKeDJSanZWNDY0Z2k3UTBpQ3AyY1pDRHdDQXViMkFQOGcxQ2dWOEF4c1M3aThCYnVrWmNHZEhpTXBQMGp6ekplbG1xS2o0eGRXQ0hZalFocFgtNllFV21URXlBdml3X3RrdlBGUHUzWDF2?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-01T13:48:29+00:00",
+      "published_raw": "Thu, 01 Oct 2026 13:48:29 GMT",
+      "snippet": "Trevo de Cedral segue em obras após prazo previsto para setembro e motoristas reclamam de desvios gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-01T17:39:18.100356+00:00"
+    },
+    {
       "id": "bd87b82fb4f419d8451d3d6dbdad9564a5f214ad69a5d64583dbc471ba969e75",
       "title": "Câmeras com IA vão flagrar motoristas com celular e sem cinto na rodovia Washington Luís - tmc.com.br",
       "source": "tmc.com.br",
@@ -60,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874564+00:00"
+      "collected_at": "2026-10-01T17:39:18.099951+00:00"
+    },
+    {
+      "id": "79e8e48e7d41188bb383308254f878b507bc55645a11de86e9f4f6c734dc655a",
+      "title": "Câmeras com IA passam a fiscalizar celular e cinto na Washington Luís - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGpURG1COF9MOFBfbEI1WjZ5TE9fUnlQV1ZmSDBZdWNfQ2xLdkwzVGd6Qk9SNEd2QWJzYWUyZjBlNi1sYUtCSzFndXN1aThxSllKRHM2NDUtR2c5TGg0aFg2dHRtaTYtMzg0ejcwV2JfYy1LTFhVMkIyV0QyUzBnaF9kQ2pKU1hsY3VaNmJpMnNHX0l6MmhiRDBZdVRKd0lvbkVfVUpZcFZoQ3JOcFg4cG5KWi0?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-01T10:38:00+00:00",
+      "published_raw": "Thu, 01 Oct 2026 10:38:00 GMT",
+      "snippet": "Câmeras com IA passam a fiscalizar celular e cinto na Washington Luís Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-01T17:39:18.100209+00:00"
     },
     {
       "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
@@ -77,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:18.072030+00:00"
+      "collected_at": "2026-10-01T17:39:31.489160+00:00"
     },
     {
       "id": "a1cdacce4b335ca7244f0bc2e6e740e505ff909b616610faecceb7a50fcf0a28",
@@ -94,41 +162,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:14.184538+00:00"
+      "collected_at": "2026-10-01T17:39:27.584996+00:00"
     },
     {
-      "id": "ed047c2be770a6b57f1dd2ce83d18e44d322a0ed344b4d651679cdd006dd91a7",
-      "title": "Câmeras com inteligência artificial começam a multar na Washington Luís em Rio Preto - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
+      "id": "9d7d0499e257b4c3360063302b7f6b8b1df6cd178c9b365cb0c64fd1791384e9",
+      "title": "Câmeras com inteligência artificial começam a multar na Washington Luís em Rio Preto - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcGt6ZGdRSXl4R3FXZWpCTHduTUVPdFNPZS1PMnFrSzk3TVoycHkwMUZnZXZnaVJwMTB5N3l4T0hBdmVSdHVvSHgxUUlqVWNaeURxUFRJdE00ejB6WWVneHVrcWEza3VRaGNTRWdZUVNRUXpKaVMtd3VHZTF3LWtQdm56M1JMcGtKM284VVRiTHVTNW1LWHg2NG9TVU9kNFd1S3c1TGVyYkJzWjNBRnkzdVFUelRSUmdfdklmZWw4TWJlNHJEQmRzcW45OUR3Q0FVS21UWnI4alI0dV9hYVRNZUNlYldOUE1Hcko4cGxQY3MwaEdsNHJ5cA?oc=5",
       "resolved_link": "",
       "published": "2026-10-01T01:16:00+00:00",
       "published_raw": "Thu, 01 Oct 2026 01:16:00 GMT",
-      "snippet": "Câmeras com inteligência artificial começam a multar na Washington Luís em Rio Preto mirassol.portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "snippet": "Câmeras com inteligência artificial começam a multar na Washington Luís em Rio Preto Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.875066+00:00"
+      "collected_at": "2026-10-01T17:39:29.774998+00:00"
     },
     {
-      "id": "ad1f2a831f93de4501e11d2028664983f7701371106dd653bb3b7426a5e9d7cf",
-      "title": "Rodovia em SP ganha câmeras com inteligência artificial para flagrar uso de celular ao volante - bnewssaopaulo.com.br",
-      "source": "bnewssaopaulo.com.br",
+      "id": "2f3bd7cc7ff1a9615fe59d628dd94754a62542cbd4e2c97c562644cd33dc0542",
+      "title": "Rodovia em SP ganha câmeras com inteligência artificial para flagrar uso de celular ao volante - BNews SP",
+      "source": "BNews SP",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbjV4ZzlPTi03STZEYkhTVFNEUXR1WjZjOXczUjV3aDNSSnhxRXBaVVFiWE0tN2tXRVdjOWpnQUpWOXlqd3ljYXVZRVZmbDJzbG9hak5Va3J3bnFxaC1wZGViMEZNaUpSeXp6dzBzLU9Sd1BJY2d1UnFPVUFyNEFnb3JzNzdNM0FucmpzX29OSGpncjZTUjduaTEzaXN2c0xsSjQ5cVQ3QzNaVHk4T1d0azZTRjNGeHFCQmZjS3BHXzhjNXd3cmVQVXhOdExRa0pPcGJzZzBzVEZET1ZFWEprVWl0dVPSAeoBQVVfeXFMUGtGTHNoYkpyVXNRTEJoTnI4WkFQS29EZTYxdXFXQ2lwajI5azA5dkcyR1ZyeF9Ya1NHbXUyNVBscUFlZEVfd19ySVlHcW90NmNTOEg1ZzNybVFzTjRzSFYyWWVCUktLbl9GNUFlWnI0VnVCeGR1Q0IwX1pTanhKQ3ZCYldkOEhWeTBtV3g3QWJxSWNla2FSZWVqY0ZuQUJFdnBiYVFiMTdvRnJoWmsxRlZCalo5ZVAtdDRWNWFZMG9UUFRjZmkxalo4bWVvLVQxQ0N4SGIyVGFGZm5BeTdxOEJtUkwxYmRpd3d3?oc=5",
       "resolved_link": "",
       "published": "2026-10-01T01:07:00+00:00",
       "published_raw": "Thu, 01 Oct 2026 01:07:00 GMT",
-      "snippet": "Rodovia em SP ganha câmeras com inteligência artificial para flagrar uso de celular ao volante bnewssaopaulo.com.br",
+      "snippet": "Rodovia em SP ganha câmeras com inteligência artificial para flagrar uso de celular ao volante BNews SP",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874921+00:00"
+      "collected_at": "2026-10-01T17:39:18.100460+00:00"
     },
     {
       "id": "283923a95524d00b5994dfefa38b97605c8d22480345c47ac66618c7a9e02594",
@@ -145,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:05.423610+00:00"
+      "collected_at": "2026-10-01T17:39:18.636067+00:00"
     },
     {
       "id": "c4e026145d632f152bce34c5db967c64a1b6215dc72fc27e777329613c36d81e",
@@ -162,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874837+00:00"
+      "collected_at": "2026-10-01T17:39:18.100279+00:00"
     },
     {
       "id": "25c7b09854d003e6bca3cafe46cb4e000bbe99cefdfa64242adb2b1d39cc2397",
@@ -179,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874673+00:00"
+      "collected_at": "2026-10-01T17:39:18.100055+00:00"
     },
     {
       "id": "b1a338e990792b17c8daae3a3a62587ab3cb83facd390e13ef2325a1ad8657d4",
@@ -190,47 +258,30 @@
       "published": "2026-09-30T17:58:00+00:00",
       "published_raw": "Wed, 30 Sep 2026 17:58:00 GMT",
       "snippet": "Câmeras com IA vão fiscalizar uso de celular ao volante em rodovia de SP Metrópoles",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874757+00:00"
+      "collected_at": "2026-10-01T17:39:18.100135+00:00"
     },
     {
-      "id": "45a81cff2033043b80e965858a12c669eed561ac2ad217ebfc41fc4ecb981f2d",
-      "title": "Inteligência Artificial começa a fiscalizar motoristas na WL: tecnologia deveria chegar também às ruas de - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMUt2MkVoVmgyNnBoU0ZnRTdDN3lBbWRQQW5sNVVBNXJWU21JcUpXUnRHbEI1QVBWQ2swbFZ3UkwyQ2ZuNzhVU0ZaZ3FIM1NOREI3TlpHZnNNMUlrRDlta1lVemZwMk85MGV4cmNzVzFKbE5zVFdQaF9vdmdyUldUSlpYcHJzZ9IBhgFBVV95cUxOMUt2MkVoVmgyNnBoU0ZnRTdDN3lBbWRQQW5sNVVBNXJWU21JcUpXUnRHbEI1QVBWQ2swbFZ3UkwyQ2ZuNzhVU0ZaZ3FIM1NOREI3TlpHZnNNMUlrRDlta1lVemZwMk85MGV4cmNzVzFKbE5zVFdQaF9vdmdyUldUSlpYcHJzZw?oc=5",
+      "id": "7149f8466358f74e0cc677a38f76cb84ee7527933fffa44be9e5aa481e117e0c",
+      "title": "Seguro rural: novas regras ampliam cobertura e proteção ao produtor - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbTMwY3FUazNBOGVhWm1wcmVtUWlSZ3A2Mk1MdGlmNThwSFRVM1hmTzAxcHkwNGlYLXhvVjkyZUpPUjNkbHNkMmFuYWtVSVhCTDdmaGJSNkVBenFEN2xhTTluRHVHYzlvWDFJVjRUdzhEZVdxY0RxTEo4dmhGb21Lc3h0cklpS3ZBUmVsUHJhdEFKZXBtS1EyWUF2MzJ0Y1pjSXo2dlJhcjFJUFA4c3YtbmdR?oc=5",
       "resolved_link": "",
-      "published": "2026-09-30T16:04:37+00:00",
-      "published_raw": "Wed, 30 Sep 2026 16:04:37 GMT",
-      "snippet": "Inteligência Artificial começa a fiscalizar motoristas na WL: tecnologia deveria chegar também às ruas de São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-09-30T17:39:53+00:00",
+      "published_raw": "Wed, 30 Sep 2026 17:39:53 GMT",
+      "snippet": "Seguro rural: novas regras ampliam cobertura e proteção ao produtor Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-01T12:18:16.989668+00:00"
-    },
-    {
-      "id": "0c16823436d9555f3eebeae84ecdadcfa40fcff633b80084f2dab383ad8d1faa",
-      "title": "Obras na Washington Luís exigem atenção de motoristas de Mirassol - mirassol.portaldacidade.com",
-      "source": "mirassol.portaldacidade.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjVUSlpHNVIxdDZ4c0IxSlFCT184LVRMQ0dYWGlNLWd6Y1puZExrWGJMQU9lc0RhdE1mS001X3VNSmo3Slp6LS0zMmVTcV9NYmE2WkJBa3RVRzBZbTAtTHRsZFhMRGZtTlhpY2xES0ZzU1BMNTNFd2dwQWJFa3JfYkpDNURrUHU1RkxCdmVYcG9meG1KanVjZ3VrWk44VHhFaEx2VHl4OUtxWXMyWG9GTVgtS19IQXdtc1VWNjZTVnhoTTZY?oc=5",
-      "resolved_link": "",
-      "published": "2026-09-30T15:10:00+00:00",
-      "published_raw": "Wed, 30 Sep 2026 15:10:00 GMT",
-      "snippet": "Obras na Washington Luís exigem atenção de motoristas de Mirassol mirassol.portaldacidade.com",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-01T12:18:04.874994+00:00"
+      "collected_at": "2026-10-01T17:39:30.365188+00:00"
     }
   ]
 }
