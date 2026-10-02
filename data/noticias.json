@@ -1,132 +1,11 @@
 {
-  "updated_at": "2026-10-02T17:02:19.895393+00:00",
+  "updated_at": "2026-10-02T17:19:39.358124+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 3,
   "total_images": 0,
-  "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "new_items": 3,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -165,5 +44,57 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "960a66745535e0298262b9f4fe9070edf4e5d24ae813c4ce995bfb0357cebc2c",
+      "title": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto - gazetainterior.com.br",
+      "source": "gazetainterior.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDRlVE1RX3JkNXlzZjhkbGFham9UeTZaeDJUcm9DeXdmTGxOaWhxWGt5ZWRDNUxYdUdoNXhEeDhfZ0s0a1BwLUFtN2pOTm5OUGc0Ri1jSWVxVTZRbW4tV1FKT09OTU1xUUdHR0l2S0hxem9UYUMxRWlvMWNNMnFoenpEVm0yeXJMc0hEQnAzNWlHbE4zRVd4RklCOVg2Z2FOaG81aFVZLUlSZWRST3NMNg?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-02T14:57:28+00:00",
+      "published_raw": "Fri, 02 Oct 2026 14:57:28 GMT",
+      "snippet": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto gazetainterior.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-02T17:19:22.258672+00:00"
+    },
+    {
+      "id": "373ac950e4838fbfd0c91ea198b9c5e076a4a3b3bcb198e9f7c1010d9edeb66d",
+      "title": "Câmeras com inteligência artificial começam a multar motoristas na região - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGlMQWJUODNoRUtzU3EyNmtMUXFzeWRoaXphaGluQ1hfNGZvUlpGMExaV2JEWWNmSkdLR3JSMlhDSF85THI5U0hVOHFZWnFvaldzZmc2akh4RlF3ZFNsZlJWOWtLYS1MLXgzSlg3eENsZ1hDa0JLc0FKY3ptTnVkeVJCQnNtNVByRFRpMHJQaGt5VjNFcXozTDNHQzVRRXNzMThF?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-02T14:18:00+00:00",
+      "published_raw": "Fri, 02 Oct 2026 14:18:00 GMT",
+      "snippet": "Câmeras com inteligência artificial começam a multar motoristas na região Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-02T17:19:22.258594+00:00"
+    },
+    {
+      "id": "38184d194c00f5c50a40586429227a5bc3c89d9d432a823ba2e6a239b0e209e2",
+      "title": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto - gazetaderiopreto.com.br",
+      "source": "gazetaderiopreto.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlhfd1d1U0p1a1FheEpMcTREY0VwVjdTWVJHWjBGMmFkVmZON1ZPMWNVU1dwYmpWUW83blVzWW5JUVExSktrM1hxZW1iZWY3ZlU0VlJlLTlBZDhtdVZaU1kxOTlWZ3hPTmh2OFR4Tk9rQWNXSWE3SzN5eVNrUUV2VUhybGozdmFnZWY2b01lMnVmZUlTSTN0aWU1VEg0cHM0NWVYUS1jTzllcXlMazhF?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-02T12:21:15+00:00",
+      "published_raw": "Fri, 02 Oct 2026 12:21:15 GMT",
+      "snippet": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto gazetaderiopreto.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-02T17:19:22.258459+00:00"
+    }
+  ]
 }
