@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-10-02T09:22:26.665248+00:00",
+  "updated_at": "2026-10-02T17:02:19.895393+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 0,
   "total_images": 0,
-  "new_items": 4,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,74 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "b8be90d0d3400e18cc50984cc6dead7834d0dab5f631484ba8d20eea739cbfa2",
-      "title": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNVczNmkteGR4Xzl2LVhUdFVrRzdYeExzdDdHSy10NmY4ZGR6cTYtb1p6UFF4NXNaTUtlUnF0MnJIMG85eHl5TUlkU2h0OXk3Z2NwNl81ay00UnJaRWFzV3dwYmV6LUR1MVBNVE5CYV9rT3VaMm56Tm9iUnNiQ0Q0ZUZIX2lwZGZlenBMSHFkVjhLeFUtSXVENnBoM0JCR2lGLXJuUXo1NGJYSGhkQkwyakZfOEE2MFJ4TTJsMDhCZlpfVGk3S0VYTVNoTW4tZk41TlRLSERnVHdFcVl2aVg1TGZR0gHnAUFVX3lxTE0xX0JuNWFjc2xuaXZuVzZoQUUySl9ROTBGeWpGZHE3NmxkYThmajRHTmFHNDJmSlIwMWhwaFZQeVhzbjk0d2hzSllzNjg4WUlsTkhwV1hMNDNQZUo1MW5JdFU2UGdFLWhNUnRxdTUzdVQ3RVdwVFZYQUwzU01MSm4tbEhESXdYbTlaZUo4ODVMZm5kTjZVTEpRMlRZdXNodkw5cUtuNXRXSHd3aWdWamRFc3BhTzlsblFDTXdEVTh4aG1jd3JuczdiVmFncUNXemp2MHJMM2JWaFdHZjFrSVptSTluZ0hNZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-01T15:05:24+00:00",
-      "published_raw": "Thu, 01 Oct 2026 15:05:24 GMT",
-      "snippet": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-02T09:22:09.481198+00:00"
-    },
-    {
-      "id": "f68b2ac7280fa5164038f9a06cc04c8e2ab543454364eee5df3b133ea42e41c7",
-      "title": "Câmeras com inteligência artificial começam a fiscalizar celular e cinto na SP-310, em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2RzQWxVdmU4MTk5akF5VkRHek9yZVhVaUlHUDdxaE5JOEpsTG4yRUJvRU9YaVpSYkRVaHl6VHV2X0dnMXI1VGVHY19CTVRCeWlzcjd4RHRlMC1HNVl0VlE5ZjNLTWhCdEFnQTBSUHN3X1FCQUhWejQ0R3ptdHJFMWlSQmx3enBWNWQxa1poemJnb05TamJCOG5kT2tVUGNWUUYxS2hZaFZTS1ZWcVBGZDNaU05TYWZ1VUlqTE9MeHh2cmNDZkFlNmNVQkJWVGF1ZmJadEx4NkNsaDJGQldka0UxMHR0WWU0?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-01T14:39:00+00:00",
-      "published_raw": "Thu, 01 Oct 2026 14:39:00 GMT",
-      "snippet": "Câmeras com inteligência artificial começam a fiscalizar celular e cinto na SP-310, em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-02T09:22:09.481313+00:00"
-    },
-    {
-      "id": "826022ca3cb9c1c694e27e0a58c7a1db86556913cf6ba655bcf69ad18bae4b0c",
-      "title": "Trevo de Cedral segue em obras após prazo previsto para setembro e motoristas reclamam de desvios - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM1B6ZDNRbEZJOE1UVHNBNGtjZTFUZkdGaXNsbGJzY2dOdWdyY0hKcnJfaE4zZnoxLVVqbUs3QjhfY056SnFxN1o4YlFuSGFnTVl3aExjTVpXbmppWE5tV3JSNjB2TXNKeDJSanZWNDY0Z2k3UTBpQ3AyY1pDRHdDQXViMkFQOGcxQ2dWOEF4c1M3aThCYnVrWmNHZEhpTXBQMGp6ekplbG1xS2o0eGRXQ0hZalFocFgtNllFV21URXlBdml3X3RrdlBGUHUzWDF2?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-01T13:48:29+00:00",
-      "published_raw": "Thu, 01 Oct 2026 13:48:29 GMT",
-      "snippet": "Trevo de Cedral segue em obras após prazo previsto para setembro e motoristas reclamam de desvios gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-02T09:22:09.481258+00:00"
-    },
-    {
-      "id": "bd87b82fb4f419d8451d3d6dbdad9564a5f214ad69a5d64583dbc471ba969e75",
-      "title": "Câmeras com IA vão flagrar motoristas com celular e sem cinto na rodovia Washington Luís - tmc.com.br",
-      "source": "tmc.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQV9zNXpFTDZfNURTdERRdThpbnQ1X3B5Tlh4QzFCMHhRWm5rSWRTU1NZb0tUV0RsSElTMkJTNnUtN0Z5VmVSdV9WSWZFMTZSdHYwdjVnNTV3OVJTczFyRkZ2OWxVc2tpRzktTWdMN3RpVm5NdUh3UWlidmNscExrYjJiNDJLN2d3TzFsYW1iVXJfMHBjZU9xSVk5TmlOdkhaZ09hM1ZNM2U1SERmcVBMYTVHSGhnUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-01T12:05:36+00:00",
-      "published_raw": "Thu, 01 Oct 2026 12:05:36 GMT",
-      "snippet": "Câmeras com IA vão flagrar motoristas com celular e sem cinto na rodovia Washington Luís tmc.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-02T09:22:09.481121+00:00"
-    }
-  ]
+  "items": []
 }
