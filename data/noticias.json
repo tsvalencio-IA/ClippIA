@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-03T02:44:27.556660+00:00",
+  "updated_at": "2026-10-03T03:30:42.543886+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 5,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T02:44:26.047184+00:00"
+      "collected_at": "2026-10-03T03:30:41.107637+00:00"
     },
     {
       "id": "960a66745535e0298262b9f4fe9070edf4e5d24ae813c4ce995bfb0357cebc2c",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T02:44:10.538482+00:00"
+      "collected_at": "2026-10-03T03:30:26.644130+00:00"
     },
     {
       "id": "373ac950e4838fbfd0c91ea198b9c5e076a4a3b3bcb198e9f7c1010d9edeb66d",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T02:44:10.538440+00:00"
+      "collected_at": "2026-10-03T03:30:26.644045+00:00"
     },
     {
       "id": "b28593da9e9a36bb26261bebd32b00959e460e85f6a7566189f65ee87ba7a812",
@@ -105,13 +105,30 @@
       "published": "2026-10-02T12:21:15+00:00",
       "published_raw": "Fri, 02 Oct 2026 12:21:15 GMT",
       "snippet": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T02:44:10.538389+00:00"
+      "collected_at": "2026-10-03T03:30:26.643948+00:00"
+    },
+    {
+      "id": "38184d194c00f5c50a40586429227a5bc3c89d9d432a823ba2e6a239b0e209e2",
+      "title": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto - gazetaderiopreto.com.br",
+      "source": "gazetaderiopreto.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlhfd1d1U0p1a1FheEpMcTREY0VwVjdTWVJHWjBGMmFkVmZON1ZPMWNVU1dwYmpWUW83blVzWW5JUVExSktrM1hxZW1iZWY3ZlU0VlJlLTlBZDhtdVZaU1kxOTlWZ3hPTmh2OFR4Tk9rQWNXSWE3SzN5eVNrUUV2VUhybGozdmFnZWY2b01lMnVmZUlTSTN0aWU1VEg0cHM0NWVYUS1jTzllcXlMazhF?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-02T12:21:15+00:00",
+      "published_raw": "Fri, 02 Oct 2026 12:21:15 GMT",
+      "snippet": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto gazetaderiopreto.com.br",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-03T03:30:28.192245+00:00"
     }
   ]
 }
