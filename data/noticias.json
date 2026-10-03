@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-03T15:37:30.595899+00:00",
+  "updated_at": "2026-10-03T18:24:48.659235+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T15:37:14.708909+00:00"
+      "collected_at": "2026-10-03T18:24:31.477767+00:00"
     },
     {
       "id": "aadd00ec327e7e5d2232186881a0ee377d2458c653a7cac794021c52fa5419f9",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T15:37:14.709089+00:00"
-    },
-    {
-      "id": "c61aa509b7cd25ac2daf28070a7a10f46ca48259754670973ca5029ac998ede6",
-      "title": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização - Setcesp",
-      "source": "Setcesp",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDhGMHotWjJJMW5pQmZRaS1wdGFkQTZxZUg3WUh2ZkZEbVJ0SjJ6TWgwWUxid19SU3VvMGdVT1JDc0UycEFqZ3R5OGNlSXEweWtIZGZmM0NNS3pSdGFYWUxpR0xNOFVNNmN1czNqdlpRekJPYnJ2eTl1ZzBvRURGNXlIdWlMMkg1Z3JjTGJBalN6VHBnVkNKQnl1d3lSY08xUTdCTlhLVnVDTHhwdFlrRWcyb0xSMS1XX3RRdUZBbm5NTHFzS01Wa2E0aWRuNTRh?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-02T18:13:00+00:00",
-      "published_raw": "Fri, 02 Oct 2026 18:13:00 GMT",
-      "snippet": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização Setcesp",
-      "term": "\"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-03T15:37:29.158796+00:00"
+      "collected_at": "2026-10-03T18:24:31.477817+00:00"
     }
   ]
 }
