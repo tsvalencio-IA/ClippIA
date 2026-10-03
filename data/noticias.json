@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:02:44.778516+00:00",
+  "updated_at": "2026-10-03T15:37:30.595899+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "103c49e7de87154e90462889ff11e1403d1382a42d50c16cff193e0be855bd9e",
+      "title": "Câmeras com inteligência artificial começam a flagrar motoristas usando celular nas rodovias brasileiras a partir de 1º de outubro - Portal 6",
+      "source": "Portal 6",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd2NhSnQ1R2stWGwtX291SkdoZUU0WW0zZXc5bUtSQjZDSnNiVF9HbzhMcmY0WGk1VklqSGpybXN4MnhmRUJYUkpFM25FM05sRGoxS3ljS3d0cjBWaHRHTEMyUXNHY2VMNGhMWWtYLUdvVzl2VVdqVWw3T2ltS25Wc1l0enItQklqUXRFU0x1UW1XR1p1YXROdDJZZ1dPNG95dWh2OE9sczZQUk1MS0xia0ZUMTdtLXRyQWRYZjQzZldmbGVCRWUwR1pYTnc4cUVfMVY0Q0k5V0tlRy1lZnBlZlhJSXVYMmhTTEhWZi1TMHZvdzJ6Yjk2VA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-03T14:31:51+00:00",
+      "published_raw": "Sat, 03 Oct 2026 14:31:51 GMT",
+      "snippet": "Câmeras com inteligência artificial começam a flagrar motoristas usando celular nas rodovias brasileiras a partir de 1º de outubro Portal 6",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-03T15:37:14.708909+00:00"
+    },
+    {
+      "id": "aadd00ec327e7e5d2232186881a0ee377d2458c653a7cac794021c52fa5419f9",
+      "title": "Câmeras com inteligência artificial começam a multar motoristas - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE1FZGNuaDdUM2dQMndCMDkxYUg5SlVTOG93T29zdTgyMFo5dGpXOFJxeThibTRnZXFJVFd3YXhFVW1EWnQ4aS15czNMMTA3QS1DZmhlNUl4alRQdV80bEozUHVTcm1EeDJYV0J0dUV4OHNzaUt4ejJySk9qNjRlZDVKWUJZZnF3b2dncUdjdFp4cnlEUWtYZWh6WkpocUd1R0FoeQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-02T20:38:00+00:00",
+      "published_raw": "Fri, 02 Oct 2026 20:38:00 GMT",
+      "snippet": "Câmeras com inteligência artificial começam a multar motoristas Votunews",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-03T15:37:14.709089+00:00"
+    },
+    {
       "id": "c61aa509b7cd25ac2daf28070a7a10f46ca48259754670973ca5029ac998ede6",
       "title": "São Paulo homologa seis radares fixos em cinco rodovias; veja os quilômetros e sentidos de fiscalização - Setcesp",
       "source": "Setcesp",
@@ -60,41 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-03T14:02:43.380693+00:00"
-    },
-    {
-      "id": "960a66745535e0298262b9f4fe9070edf4e5d24ae813c4ce995bfb0357cebc2c",
-      "title": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto - gazetainterior.com.br",
-      "source": "gazetainterior.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDRlVE1RX3JkNXlzZjhkbGFham9UeTZaeDJUcm9DeXdmTGxOaWhxWGt5ZWRDNUxYdUdoNXhEeDhfZ0s0a1BwLUFtN2pOTm5OUGc0Ri1jSWVxVTZRbW4tV1FKT09OTU1xUUdHR0l2S0hxem9UYUMxRWlvMWNNMnFoenpEVm0yeXJMc0hEQnAzNWlHbE4zRVd4RklCOVg2Z2FOaG81aFVZLUlSZWRST3NMNg?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-02T14:57:28+00:00",
-      "published_raw": "Fri, 02 Oct 2026 14:57:28 GMT",
-      "snippet": "Câmeras com IA flagram motoristas sem cinto e usando celular em Rio Preto gazetainterior.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-03T14:02:28.777830+00:00"
-    },
-    {
-      "id": "373ac950e4838fbfd0c91ea198b9c5e076a4a3b3bcb198e9f7c1010d9edeb66d",
-      "title": "Câmeras com inteligência artificial começam a multar motoristas na região - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGlMQWJUODNoRUtzU3EyNmtMUXFzeWRoaXphaGluQ1hfNGZvUlpGMExaV2JEWWNmSkdLR3JSMlhDSF85THI5U0hVOHFZWnFvaldzZmc2akh4RlF3ZFNsZlJWOWtLYS1MLXgzSlg3eENsZ1hDa0JLc0FKY3ptTnVkeVJCQnNtNVByRFRpMHJQaGt5VjNFcXozTDNHQzVRRXNzMThF?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-02T14:18:00+00:00",
-      "published_raw": "Fri, 02 Oct 2026 14:18:00 GMT",
-      "snippet": "Câmeras com inteligência artificial começam a multar motoristas na região Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-03T14:02:28.777732+00:00"
+      "collected_at": "2026-10-03T15:37:29.158796+00:00"
     }
   ]
 }
