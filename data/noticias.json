@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-04T16:06:45.989415+00:00",
+  "updated_at": "2026-10-04T16:20:54.871807+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 2,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,38 +46,21 @@
   ],
   "items": [
     {
-      "id": "c2a3061ca3933dea94718600adef4d63d0441fbf533cca1c7eb8ddb23c493812",
-      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - diarioweb.com.br",
-      "source": "diarioweb.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVdNRjUwTHJ2RVdwM21JX0xla3o4bmlIVlFCYmwtZ1hxZzBvUGpOSmE3d2xxREVLc3ZRUWl1bEVUaDhzMTFwbGVnVEZyeV82WnU5cUxBUktfR1ZsR1BqQUZUTmpvV2ZHcHMtR3NQWW1uaGdFbGNKMzRVQlVYZnpSR0lMTXJjM2R4dXRibEJSRDYxeTk5WEZ2ZmtXNC1uTG9KMXZ3Si12WVl0SkJNUlVR?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-04T14:10:58+00:00",
-      "published_raw": "Sun, 04 Oct 2026 14:10:58 GMT",
-      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral diarioweb.com.br",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-04T16:06:40.930751+00:00"
-    },
-    {
-      "id": "69c7f794588767bb30617177cb2b1fbcd41241a307d1b478402f9bfacfe99907",
-      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - diariodaregiao.com.br",
-      "source": "diariodaregiao.com.br",
+      "id": "3ff56a4565509922d78470ce3f5396d7bc8a08c58832acfcbdc1e11a38075eb9",
+      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - Diário da Região",
+      "source": "Diário da Região",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkNkZi1KS1JiNDJqM2RHaGFLRy1sQU9iTDFPM3JkQ3RpdnlZNlp1czZoOG15TmlpeU9uQllvSS1PREpaVVNJOXgxdWRrdlZwQlBoV2VUX0xxVERxbldhZ1dXTWR5UV96eVVNWDl5T3k5dElpZmVqb1VvUE9FV1hyQ0FGUjZ2NHJCakoxV2ZSWWhDVzBleUMzVlBSVW9SWm9OTnV5XzlNSmI3TUNpYnNxQVp2VWFvQQ?oc=5",
       "resolved_link": "",
       "published": "2026-10-04T14:07:00+00:00",
       "published_raw": "Sun, 04 Oct 2026 14:07:00 GMT",
-      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral diariodaregiao.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-04T16:06:30.439656+00:00"
+      "collected_at": "2026-10-04T16:20:37.930211+00:00"
     },
     {
       "id": "400191346d3a8ad13c51e00fb9abdadbff05b407563c7f4d5a61057f4311b6ec",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-04T16:06:30.439797+00:00"
+      "collected_at": "2026-10-04T16:20:37.930347+00:00"
     }
   ]
 }
