@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-04T11:42:02.248235+00:00",
+  "updated_at": "2026-10-04T16:06:45.989415+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 3,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,55 @@
   ],
   "items": [
     {
-      "id": "103c49e7de87154e90462889ff11e1403d1382a42d50c16cff193e0be855bd9e",
-      "title": "Câmeras com inteligência artificial começam a flagrar motoristas usando celular nas rodovias brasileiras a partir de 1º de outubro - Portal 6",
-      "source": "Portal 6",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd2NhSnQ1R2stWGwtX291SkdoZUU0WW0zZXc5bUtSQjZDSnNiVF9HbzhMcmY0WGk1VklqSGpybXN4MnhmRUJYUkpFM25FM05sRGoxS3ljS3d0cjBWaHRHTEMyUXNHY2VMNGhMWWtYLUdvVzl2VVdqVWw3T2ltS25Wc1l0enItQklqUXRFU0x1UW1XR1p1YXROdDJZZ1dPNG95dWh2OE9sczZQUk1MS0xia0ZUMTdtLXRyQWRYZjQzZldmbGVCRWUwR1pYTnc4cUVfMVY0Q0k5V0tlRy1lZnBlZlhJSXVYMmhTTEhWZi1TMHZvdzJ6Yjk2VA?oc=5",
+      "id": "c2a3061ca3933dea94718600adef4d63d0441fbf533cca1c7eb8ddb23c493812",
+      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - diarioweb.com.br",
+      "source": "diarioweb.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVdNRjUwTHJ2RVdwM21JX0xla3o4bmlIVlFCYmwtZ1hxZzBvUGpOSmE3d2xxREVLc3ZRUWl1bEVUaDhzMTFwbGVnVEZyeV82WnU5cUxBUktfR1ZsR1BqQUZUTmpvV2ZHcHMtR3NQWW1uaGdFbGNKMzRVQlVYZnpSR0lMTXJjM2R4dXRibEJSRDYxeTk5WEZ2ZmtXNC1uTG9KMXZ3Si12WVl0SkJNUlVR?oc=5",
       "resolved_link": "",
-      "published": "2026-10-03T14:33:59+00:00",
-      "published_raw": "Sat, 03 Oct 2026 14:33:59 GMT",
-      "snippet": "Câmeras com inteligência artificial começam a flagrar motoristas usando celular nas rodovias brasileiras a partir de 1º de outubro Portal 6",
+      "published": "2026-10-04T14:10:58+00:00",
+      "published_raw": "Sun, 04 Oct 2026 14:10:58 GMT",
+      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral diarioweb.com.br",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-04T16:06:40.930751+00:00"
+    },
+    {
+      "id": "69c7f794588767bb30617177cb2b1fbcd41241a307d1b478402f9bfacfe99907",
+      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - diariodaregiao.com.br",
+      "source": "diariodaregiao.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkNkZi1KS1JiNDJqM2RHaGFLRy1sQU9iTDFPM3JkQ3RpdnlZNlp1czZoOG15TmlpeU9uQllvSS1PREpaVVNJOXgxdWRrdlZwQlBoV2VUX0xxVERxbldhZ1dXTWR5UV96eVVNWDl5T3k5dElpZmVqb1VvUE9FV1hyQ0FGUjZ2NHJCakoxV2ZSWWhDVzBleUMzVlBSVW9SWm9OTnV5XzlNSmI3TUNpYnNxQVp2VWFvQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-04T14:07:00+00:00",
+      "published_raw": "Sun, 04 Oct 2026 14:07:00 GMT",
+      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral diariodaregiao.com.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-04T16:06:30.439656+00:00"
+    },
+    {
+      "id": "400191346d3a8ad13c51e00fb9abdadbff05b407563c7f4d5a61057f4311b6ec",
+      "title": "Câmeras com IA já estão de olho nos motoristas na Washington Luís em São Carlos - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTJjUGJHNmpqaVZWUGcySy1PbjdXRVQ5dE9fZHh6ZGRmNG9RUFdEdS1wUWFzVFlGcllsVTZ0bVN1OGZLR3R4Qmw5ZllQZGpkSFh1NXVQZWlaSDhvVXJ5cm5IN21KM3VCOEdpaUYxVmtEc0lsMkxINEVteTRGR0VuUtIBgAFBVV95cUxNTTJjUGJHNmpqaVZWUGcySy1PbjdXRVQ5dE9fZHh6ZGRmNG9RUFdEdS1wUWFzVFlGcllsVTZ0bVN1OGZLR3R4Qmw5ZllQZGpkSFh1NXVQZWlaSDhvVXJ5cm5IN21KM3VCOEdpaUYxVmtEc0lsMkxINEVteTRGR0VuUg?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-04T11:50:34+00:00",
+      "published_raw": "Sun, 04 Oct 2026 11:50:34 GMT",
+      "snippet": "Câmeras com IA já estão de olho nos motoristas na Washington Luís em São Carlos - São Carlos em Rede São Carlos em Rede",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-04T11:41:46.215588+00:00"
+      "collected_at": "2026-10-04T16:06:30.439797+00:00"
     }
   ]
 }
