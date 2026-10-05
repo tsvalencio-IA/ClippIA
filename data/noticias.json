@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-05T19:53:14.057999+00:00",
+  "updated_at": "2026-10-05T21:47:12.424412+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 9,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "6547148d70f2e76f3decf53986d6423ec90c2eae9c7dbda4b415574cb1c62c69",
+      "title": "Foton alcança marca histórica de 13 milhões de veículos comerciais produzidos - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLTBqRkJHWUV6b05KVWtrWHFjMGV3dGxadDNGZWhqTGdWbWJtUm94NnhtUDNHcEpocHZyR2RucUVhWGpQSlNsRlBZTl9BYnZCMUxRYnRuYlBxTUkyLVhJQXF1aTN1bGRKaEl0X2V3WU1lWk1EY1ZQRlg0WmdlQzEwY1JB?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-05T19:38:09+00:00",
+      "published_raw": "Mon, 05 Oct 2026 19:38:09 GMT",
+      "snippet": "Foton alcança marca histórica de 13 milhões de veículos comerciais produzidos Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-05T21:46:55.849620+00:00"
+    },
+    {
       "id": "4524db923db188be7b5548d0fd13d4fb04c64f1add20b0872f8679081ab2bb6a",
       "title": "São Paulo tem 18 pontos de parada e descanso para caminhoneiros nas rodovias - vtvnews.com.br",
       "source": "vtvnews.com.br",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.240769+00:00"
+      "collected_at": "2026-10-05T21:46:55.849447+00:00"
     },
     {
       "id": "e1f2c812ac75feb40b7143b4b5dcb394f70a19ed208e40860d6b4ca3ae1f1eb2",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.240848+00:00"
+      "collected_at": "2026-10-05T21:46:55.849543+00:00"
     },
     {
       "id": "1928394a838ceac3c62ae546d17f2b14e00094ace9d718d36c11589cfb030dc6",
@@ -88,13 +105,13 @@
       "published": "2026-10-05T16:27:45+00:00",
       "published_raw": "Mon, 05 Oct 2026 16:27:45 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 5/10 a 11/10/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.240588+00:00"
+      "collected_at": "2026-10-05T21:47:06.405700+00:00"
     },
     {
       "id": "dda5e86742349f6d7ebf0307ba6486c295371798c6ee67c40f9371ace7781866",
@@ -111,7 +128,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.802524+00:00"
+      "collected_at": "2026-10-05T21:46:56.425671+00:00"
+    },
+    {
+      "id": "f3ac2a5876fecd93ef131d6b78ea6ad5783acfe99c129e4e3ac2115f0ffdb999",
+      "title": "Benefícios das Áreas de Descanso para Caminhoneiros nas rodovias paulistas - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHI2bTBEZW5MRmRkaVUzRFlFb24yT1pOREdCdTMxejVMOVp6M2NRUUVKVXFjbFctVnJMQVlYOThObU1Va05xSVR4Q01QZi1PbjJBbVppYVZLQ0N6SlowZTFkd0pHSjFoNkxuSTlZVmVnSEk4MjM2Wk9KemxyT3hIM3AyMjRvcV9Xbm4wTlg4b1dYc202c2dHa0Fza21GZ28?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-05T14:46:05+00:00",
+      "published_raw": "Mon, 05 Oct 2026 14:46:05 GMT",
+      "snippet": "Benefícios das Áreas de Descanso para Caminhoneiros nas rodovias paulistas Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-05T21:47:06.405859+00:00"
+    },
+    {
+      "id": "5fc4a6e3690addf04223958562dc65353275b0fd1e513980f6b22a8b7dd1e006",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 5/10 a 11/10/2026 - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2pwMGRIZG9NMy0xM0Z0X3YzS1EzdUxsLUVsNFZ2RUFWNDFpWE51Z0lONWtIalIyMnJaUUlqbHRZNEtKb0VJNWUwNkpyRDZkN2JIV1kxVW05V0FPSU1hLURvMHluUnU3M1VMQjVhTGJRZWRSRFRlRXRFRXcxbWRWZWQtQWtSNFZWdVZhWmp0TGppWHIycVB4amtnck0tU0NZNXB6bXFrMUNhV2kwdjdadDBCSE5PRDV4V3R3MA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-05T14:29:16+00:00",
+      "published_raw": "Mon, 05 Oct 2026 14:29:16 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 5/10 a 11/10/2026 Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-05T21:46:55.849209+00:00"
     },
     {
       "id": "f15f39cee122cb4f2179e3fe9a1afb7844f631d2f2d9c471ea455f5e0fc88d67",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.802371+00:00"
+      "collected_at": "2026-10-05T21:46:56.425585+00:00"
     },
     {
       "id": "9a0fbab1e17fdb602114e83c64504a418d8ce0cfa1f89e858870dec146c4eded",
@@ -145,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.240689+00:00"
-    },
-    {
-      "id": "3ff56a4565509922d78470ce3f5396d7bc8a08c58832acfcbdc1e11a38075eb9",
-      "title": "Motorista fica ferido após capotar carro no trevo de Cedral - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFNaTC1wMmpVNjlnSHJVV0hvWWV0M25YTWZwS05tQ2w3S3hoVExyWlFKMVhwRzRadWRpU2dMajRyZWxlWnlnYVBBclRWUUJKU0FtQnV1bXVaWVZISHlodDJnVHFEaHNJRnlSeTRBb3AxclpUaWlydWxKQW5hd1YxdEpEbVkzcEROT3ViZGJTM2tGbVZEYkhxc0RvRm8zaExvdldsZEdEcTVkdVRHallRc2o5blU?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-05T01:39:48+00:00",
-      "published_raw": "Mon, 05 Oct 2026 01:39:48 GMT",
-      "snippet": "Motorista fica ferido após capotar carro no trevo de Cedral Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-05T19:52:57.240917+00:00"
+      "collected_at": "2026-10-05T21:46:55.849311+00:00"
     }
   ]
 }
