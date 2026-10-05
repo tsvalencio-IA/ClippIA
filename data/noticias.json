@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T09:45:51.592416+00:00",
+  "updated_at": "2026-10-05T13:25:16.466362+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "f15f39cee122cb4f2179e3fe9a1afb7844f631d2f2d9c471ea455f5e0fc88d67",
+      "title": "Benefícios das áreas de descanso transformam a rotina dos caminhoneiros nas rodovias paulistas - Jornal de Uberaba",
+      "source": "Jornal de Uberaba",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHJDTi1aNFZFd2lOYWltcTVMSVlMN1N4M29uTF9WQ1Nja2RFd2cwYUg1d01GMkUxc2FWVlNGMlZISDlQbmhWYlc5ZG9pLWdJS0c0dlY3YlcxXzlPSDNZTFpEUlJYU19DMzVzaFdXbnZNaHdCN25NdWxFM0I0eVZnOE5fVnltRHgxcVFkZkhOMDFhRkktVkVURThHalVTbmZCT2xjai1ldmV4QnJtUlE0ZVcxXy1MSFdWMnk2ZW5IRElGVGJTWkJ4YTZhbkxHdEZ3bTFaRGZTZno0OVJG?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-05T11:07:11+00:00",
+      "published_raw": "Mon, 05 Oct 2026 11:07:11 GMT",
+      "snippet": "Benefícios das áreas de descanso transformam a rotina dos caminhoneiros nas rodovias paulistas Jornal de Uberaba",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-05T13:25:00.862207+00:00"
+    },
+    {
       "id": "3ff56a4565509922d78470ce3f5396d7bc8a08c58832acfcbdc1e11a38075eb9",
       "title": "Motorista fica ferido após capotar carro no trevo de Cedral - Diário da Região",
       "source": "Diário da Região",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-05T09:45:35.674835+00:00"
-    },
-    {
-      "id": "400191346d3a8ad13c51e00fb9abdadbff05b407563c7f4d5a61057f4311b6ec",
-      "title": "Câmeras com IA já estão de olho nos motoristas na Washington Luís em São Carlos - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTJjUGJHNmpqaVZWUGcySy1PbjdXRVQ5dE9fZHh6ZGRmNG9RUFdEdS1wUWFzVFlGcllsVTZ0bVN1OGZLR3R4Qmw5ZllQZGpkSFh1NXVQZWlaSDhvVXJ5cm5IN21KM3VCOEdpaUYxVmtEc0lsMkxINEVteTRGR0VuUtIBgAFBVV95cUxNTTJjUGJHNmpqaVZWUGcySy1PbjdXRVQ5dE9fZHh6ZGRmNG9RUFdEdS1wUWFzVFlGcllsVTZ0bVN1OGZLR3R4Qmw5ZllQZGpkSFh1NXVQZWlaSDhvVXJ5cm5IN21KM3VCOEdpaUYxVmtEc0lsMkxINEVteTRGR0VuUg?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-04T11:50:34+00:00",
-      "published_raw": "Sun, 04 Oct 2026 11:50:34 GMT",
-      "snippet": "Câmeras com IA já estão de olho nos motoristas na Washington Luís em São Carlos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-05T09:45:35.674951+00:00"
+      "collected_at": "2026-10-05T13:25:00.293979+00:00"
     }
   ]
 }
