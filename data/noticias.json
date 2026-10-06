@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-06T19:57:09.712079+00:00",
+  "updated_at": "2026-10-06T21:58:56.126397+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 12,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "98a9a607c506973ed81d3b2e2c5c2a5e821559091c022d98669946fcd2967d79",
+      "title": "Barranco desaba e lama invade alça da Washington Luís em Rio Preto - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUldhNUNZLWhRaGpRVG9IRXZYQ3BobUVOOHo1a0ZTSzUxVlZPMnlJcHRmN0hwWVdVYTJmMGhEVW40WDlDc0ZQZFpNNklRSmRaNE5CSGNSeUh4RDZtTzFRblZPZnNmS1FQYXFaN29wWGg5UUhvX2ZocWFIMjBwRlQxb2JtUnh6M0tOT2lERTVfVVlYM2kwZU5Tb0ZMbWoyaUtwQlJxRGFjNEtEekhOaDBGcQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-06T19:53:00+00:00",
+      "published_raw": "Tue, 06 Oct 2026 19:53:00 GMT",
+      "snippet": "Barranco desaba e lama invade alça da Washington Luís em Rio Preto Dhoje Interior",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-06T21:58:40.682264+00:00"
+    },
+    {
+      "id": "6930269969def8425d43ac587c405ba7de1eb74e4329ed13da0756567baae80c",
+      "title": "Baile Outubro Rosa acontece sábado no clube Ítalo Brasileiro - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODJzc2hHR0RsU2RhNVc1TkkyU2dPLWtwVEowRWk1VGZncXVyNGdmOEl2NEJIMnpHTUlYLU1pLW9pcXJUNlkzWVBKWnVJVVIwOENhejBQeElMYUdINy1BYVdhTUJmbjA5OWw3MlRERmhjWDE2bi00NElVTnpkVTBNS1FLUUJQdnRRRXRYdlJRd3ZTa0VIZ3hzNUMwTkhZZzl5MlU3cmd0dHp4a0VwODJmazdB?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-06T19:05:28+00:00",
+      "published_raw": "Tue, 06 Oct 2026 19:05:28 GMT",
+      "snippet": "Baile Outubro Rosa acontece sábado no clube Ítalo Brasileiro Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-06T21:58:40.682388+00:00"
+    },
+    {
       "id": "85554ef68a1e579dfaa8e984bd697c17dfef092ab344de110a59ce31d08b5ef6",
       "title": "Obras na Washington Luís intensificam trânsito entre Mirassol e Cedral nesta semana - Portal da Cidade - Mirassol / SP",
       "source": "Portal da Cidade - Mirassol / SP",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.806022+00:00"
+      "collected_at": "2026-10-06T21:58:38.938481+00:00"
     },
     {
       "id": "dcbc6feb237fce30a3167449ec05170534767b6a2f356fa171f5dd29a36b2c83",
@@ -77,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.805668+00:00"
+      "collected_at": "2026-10-06T21:58:38.938307+00:00"
+    },
+    {
+      "id": "3f6e5db3f654ce886ef4d910a38d4f71fc5c102762fb88875a62c09baa3fc7ac",
+      "title": "Ecovias Noroeste Paulista aproxima estudantes da realidade das obras rodoviárias - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnFoekFRdzZ5U0RzSEEtTE1lRWhPR05XeGZOM2pPRmFHTDFLR21fbmNzdnphT18yMjgwdzRtRWVUMzRhUE8zRlYtaXg4QUdZU21wTmhRVW80LUJOZ0tXOWc5aWpzSHVCbHl5bWRTaWRaQXpzYjlDLUlPQkxtTHVNaVdyNURNeDBQOWVoNWdrcXNVaXNOaExjcUJERUxUVU5MaGp0QVZsMjl3cTFKa0tMS29JZ3VJaUVndGN0c3pfOS1QMzZiMlFN?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-06T13:17:42+00:00",
+      "published_raw": "Tue, 06 Oct 2026 13:17:42 GMT",
+      "snippet": "Ecovias Noroeste Paulista aproxima estudantes da realidade das obras rodoviárias Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-06T21:58:40.682216+00:00"
     },
     {
       "id": "05d57252e913908cb4f031288e1663bd1355c0d69371e15874da24205aeeef6f",
@@ -88,13 +139,13 @@
       "published": "2026-10-06T13:13:19+00:00",
       "published_raw": "Tue, 06 Oct 2026 13:13:19 GMT",
       "snippet": "Ecovias Noroeste Paulista aproxima estudantes da realidade das obras rodoviárias Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.805505+00:00"
+      "collected_at": "2026-10-06T21:58:38.938245+00:00"
     },
     {
       "id": "42d445d76233fcfddeac46dc90acd5cdafacc30dc46fd55f4ea39fc364a9ec6b",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:57:04.630044+00:00"
+      "collected_at": "2026-10-06T21:58:50.960028+00:00"
     },
     {
       "id": "c09bdb6e502fc2226c7b48cfc266365cb42008135e58488d21314918f1864ba1",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.805936+00:00"
+      "collected_at": "2026-10-06T21:58:38.938437+00:00"
     },
     {
       "id": "1956adc056204c537f19650b2ea55a0ea5cbc7cb3b7d5eae0f6201f7525af38f",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.806102+00:00"
+      "collected_at": "2026-10-06T21:58:38.938522+00:00"
     },
     {
       "id": "94f461126d2e09de55d6bed77ebb63939110c745b1c8b390cc715226ef425952",
@@ -156,13 +207,13 @@
       "published": "2026-10-06T10:39:25+00:00",
       "published_raw": "Tue, 06 Oct 2026 10:39:25 GMT",
       "snippet": "Deslizamento de talude na rodovia Washington Luís (SP-310) em São José do Rio Preto Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.806180+00:00"
+      "collected_at": "2026-10-06T21:58:38.938561+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -179,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.805763+00:00"
+      "collected_at": "2026-10-06T21:58:38.938349+00:00"
     },
     {
       "id": "bd41c5016c6cf5d91718817eaf062b56e44e69b2704070ce0514977487ae7564",
@@ -190,47 +241,13 @@
       "published": "2026-10-06T03:01:00+00:00",
       "published_raw": "Tue, 06 Oct 2026 03:01:00 GMT",
       "snippet": "Procon São Carlos aponta diferença de mais de 200% no preço de brinquedo antes do dia das Crianças - São São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-06T19:57:03.510867+00:00"
-    },
-    {
-      "id": "11eab8a25bf73d8a678fd89fba9993b3577485e8443a4c5bdd436437e8363ae6",
-      "title": "Padre Jonas encontra o Papa e compartilha momento especial nas redes sociais - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlYcEVLWFdUMEFUODBwSzJjVnNCSzZzQWhFVFhSMVhSXzR6NmFsUmlrWDl3VHdwWXREZVNrams0QVVla1pYTmhVcE43MFJnUzZvdHo5aFA2aDc0VVlWZ3hDdXNsZnQ2VzhMQVdua3g0TFJtR2xUZ01mNHlxRDE2Zk9tNXA0SzVIM1Y1QWxtUEdjZGlPVVM0bGw5UlFJNjZDX0twdXBtc0hjckgwdDVJ0gGvAUFVX3lxTE1UWVhwRUtYV1QwQVQ4MHBLMmNWc0JLNnNBaEVUWFIxWFJfNHo2YWxSaWtYOXdUd3BZdERlU2tqazRBVWVrWlhOaFVwTjcwUmdTNm90ejloUDZoNzRVWVZneEN1c2xmdDZXOExBV25reDRMUm1HbFRnTWY0eXFEMTZmT201cDRLNUgzVjVBbG1QR2NkaU9VUzRsbDlSUUk2NkNfS3B1cG1zSGNySDB0NUk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-05T21:14:05+00:00",
-      "published_raw": "Mon, 05 Oct 2026 21:14:05 GMT",
-      "snippet": "Padre Jonas encontra o Papa e compartilha momento especial nas redes sociais - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-06T19:56:52.805856+00:00"
-    },
-    {
-      "id": "d59d43d474663f62d8d9776caa2cc9da623bc2587d111e451d9aa3a390760c7e",
-      "title": "CONCURSO EM SÃO CARLOS: AUMENTE SUA CHANCE DE CONQUISTAR UMA VAGA - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0lUNFIyZS1Fb3NJcXVmd0VxOFVUNmJ5QlMyeHlEZ0k0bTdQdlRDRGZQb1AxVVlCYl9CYmV0MjJDTjZOX2tsaHVqN1I4eDBycmdST0RmTkNlNldVNmpOODdIU3V1MnNZMWRxX2gxN2R1eDNVWnRLTUZaTGhSNkxGUmd0U1FUdnNMczRjZk1ickRHejVmMW9vVkxVandYYm_SAZ8BQVVfeXFMTjNJVDRSMmUtRW9zSXF1ZndFcThVVDZieUJTMnh5RGdJNG03UHZUQ0RmUG9QMVVZQmJfQmJldDIyQ042Tl9rbGh1ajdSOHgwcnJnUk9EZk5DZTZXVTZqTjg3SFN1dTJzWTFkcV9oMTdkdXgzVVp0S01GWkxoUjZMRlJndFNRVHZzTHM0Y2ZNYnJER3o1ZjFvb1ZMVWp3WGJv?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-05T20:34:08+00:00",
-      "published_raw": "Mon, 05 Oct 2026 20:34:08 GMT",
-      "snippet": "CONCURSO EM SÃO CARLOS: AUMENTE SUA CHANCE DE CONQUISTAR UMA VAGA - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-06T19:57:03.511034+00:00"
+      "collected_at": "2026-10-06T21:58:38.938398+00:00"
     }
   ]
 }
