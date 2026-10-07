@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-07T18:20:15.615246+00:00",
+  "updated_at": "2026-10-07T20:16:48.836146+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 21,
+  "total": 19,
   "total_images": 0,
-  "new_items": 21,
+  "new_items": 19,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "102e59863a1959f438be9c3d3225eca9aa07b4afd7b64b0e5981f55ba3675a0d",
+      "title": "Siga Fácil substitui três praças de pedágio na região - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGh5QTF5MVhBakk3NEZiSndvT1hfUkFudmEydHhSellyalFXNGJOUGRveFRraHpmSGZhYVUzX1FYczZIYWdVeVdEdG9DSFZmRDZfS0hTWHFaSDJFWThDbmswT3pZTURzVl9xdUp1M1JVS3FjVkNtVzFCeWJRb2QxVUtR?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-07T19:19:00+00:00",
+      "published_raw": "Wed, 07 Oct 2026 19:19:00 GMT",
+      "snippet": "Siga Fácil substitui três praças de pedágio na região Rio Preto Indica",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"pedágio digital\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-07T20:16:35.815031+00:00"
+    },
+    {
       "id": "e3e8894dc569190055434abb4d959c3f655774e16668bcf6b9199a6fa5097596",
       "title": "Três praças de pedágio adotam sistema “free flow” na região - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:00.214209+00:00"
+      "collected_at": "2026-10-07T20:16:33.282649+00:00"
     },
     {
       "id": "642a9b97c16cc425e675485742f5bd005cafefd374a8341c7d584a19141e5e94",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:03.124169+00:00"
+      "collected_at": "2026-10-07T20:16:36.439086+00:00"
     },
     {
       "id": "14dcf1597bdd4bb11277f5b0bc6a668d4669f81e83adfcdfc4c594b44b5df8f9",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:10.343984+00:00"
+      "collected_at": "2026-10-07T20:16:43.622023+00:00"
     },
     {
       "id": "b1f4cbef18a789e20eef3b8fb102dcf495d09edbb39c0ae7f23aad95256187a6",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:57.808650+00:00"
+      "collected_at": "2026-10-07T20:16:30.809562+00:00"
     },
     {
       "id": "fa6e9c7c0ea8b4ebed62e42e21efbdf9859c2711af7d679228d58bee3e4eb890",
@@ -122,13 +139,13 @@
       "published": "2026-10-07T13:52:00+00:00",
       "published_raw": "Wed, 07 Oct 2026 13:52:00 GMT",
       "snippet": "Pedágio eletrônico será implantado em 3 praças na região de Ribeirão Preto; Veja quais ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:00.214273+00:00"
+      "collected_at": "2026-10-07T20:16:33.282835+00:00"
     },
     {
       "id": "c47226e87533cb2cd01d932927c45c99338fbf746fd81458f320cbfbbb5f496a",
@@ -139,13 +156,13 @@
       "published": "2026-10-07T13:36:35+00:00",
       "published_raw": "Wed, 07 Oct 2026 13:36:35 GMT",
       "snippet": "Rodovias do interior paulista começam a cobrar pedágio no sistema free flow, em 1º de novembro Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:00.214160+00:00"
+      "collected_at": "2026-10-07T20:16:33.282565+00:00"
     },
     {
       "id": "cbb9ae6cb906acbaa41ad1929e390cc8cb87cc3dbb9426206de41faf53000b4a",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:00.214303+00:00"
+      "collected_at": "2026-10-07T20:16:33.282910+00:00"
     },
     {
       "id": "3b97631fa73a5c2cd9bddece0306c8604cf92e2bb8afa0bfd883511c53dafcc2",
@@ -173,13 +190,13 @@
       "published": "2026-10-07T12:55:31+00:00",
       "published_raw": "Wed, 07 Oct 2026 12:55:31 GMT",
       "snippet": "REGIÃO: PEDÁGIO SEM CANCELA! Rodovias de Pirangi, Colina e Monte Alto ganham pedágio eletrônico sem paradas a partir de novembro. Regional 24 Horas",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20sem%20cancela%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:03.724458+00:00"
+      "collected_at": "2026-10-07T20:16:36.438620+00:00"
     },
     {
       "id": "4a3af41d6ab7774d9285c13b4dd2b864c46f9d23d44cf1013ee9cdd681728199",
@@ -196,24 +213,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:58.376759+00:00"
+      "collected_at": "2026-10-07T20:16:31.367430+00:00"
     },
     {
       "id": "af786968a21d48a5d76c084d49245604ad89861efd163ed20c8858f1c8dcd10a",
       "title": "Ecovias Noroeste Paulista substitui três praças físicas pelo Siga Fácil, com descontos a partir de 5% - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVmY2N2FaQTJVUGJ6Ynh0Q1ltRUFpS0RSUE92WjR5RlBXejhaWms0T2xkZXlRdUc2SG80NVdQdUp1bkc5MzVLczNReVVpNm01enRPOHktb0lyR1dXYThXR2FqRlpiczZNYnRQaE5XQnF4bFplb0IxU1REU2FjNHJ3ZWx0Mi05RHZOV1pjd1BZdldTa0piZk9oTmpwT3VlaG5tTV9vdXZveDdTY19vY21XS2pWaGtmRmZfU0oyQU9tanhEZGlCMDVhUzBwdF9yNjZfbkdQdXVlaXVNZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQME9PWnpvV0RMdW9famNTNkxKbFVVeDI2amk4aEV2WlJrNmFEZUJqTjEwU0xQa0Q2OVA1bXJta0xJZlEySENMZ0F4SVdjVmUtSkROdGNNaFZyeUxxbWJNOTdROC1WMWtsekNvclNrS0dnNGo1Rm5BN0Vyd3hRN2pJbmIzejdobHM5QTRLb3NIOC1LS0g0c2RYR0diRnA2YXBwc3VwRno1MlZGamVVOF8taTM4U18wMjRNbXRvWG9PX01GSnplbExHcmhKMUxiTEZHVUw3Zw?oc=5",
       "resolved_link": "",
       "published": "2026-10-07T11:46:17+00:00",
       "published_raw": "Wed, 07 Oct 2026 11:46:17 GMT",
       "snippet": "Ecovias Noroeste Paulista substitui três praças físicas pelo Siga Fácil, com descontos a partir de 5% Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:57.808501+00:00"
+      "collected_at": "2026-10-07T20:16:30.809291+00:00"
     },
     {
       "id": "855f816f32818e7d3b57f723a02671eafdc244f71a8195f39835d9c910c8e21f",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:57.808684+00:00"
+      "collected_at": "2026-10-07T20:16:30.809632+00:00"
     },
     {
       "id": "8644741b89dea9a5b6791b81225b2f07017a26caf753c58e8f7f23c80d9887c1",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:05.534737+00:00"
+      "collected_at": "2026-10-07T20:16:38.802179+00:00"
     },
     {
       "id": "4e6a7ee1f8c3a9415697cb6fc060c540a5da6aab0c3016cb9ed01ad87ddba8d2",
@@ -258,13 +275,13 @@
       "published": "2026-10-07T10:36:51+00:00",
       "published_raw": "Wed, 07 Oct 2026 10:36:51 GMT",
       "snippet": "Atenção, motoristas: pedágios sem cancela começam a operar em três rodovias; veja quais - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" tarifa | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:02.507768+00:00"
+      "collected_at": "2026-10-07T20:16:35.815111+00:00"
     },
     {
       "id": "b1f51b125edaa783cf320bb50412f0697126db19f8218ca274fc67f747c726f7",
@@ -281,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:57.808559+00:00"
+      "collected_at": "2026-10-07T20:16:30.809390+00:00"
     },
     {
       "id": "180aa94ea9c3a775e8a78d569ae29770f101fe85aed64fda51a4e2c091c63831",
@@ -298,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:09.123599+00:00"
+      "collected_at": "2026-10-07T20:16:42.409970+00:00"
     },
     {
       "id": "e92743ee531be439556bdbd63e963d853777fc88e0cdbeb736700c4e58945051",
@@ -315,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:10.343884+00:00"
+      "collected_at": "2026-10-07T20:16:43.621622+00:00"
     },
     {
       "id": "3adc37c5474866f59db26a667d8e921aff89ae0643737290bbfcaa8e34b5d44b",
@@ -332,7 +349,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:19:57.808612+00:00"
+      "collected_at": "2026-10-07T20:16:30.809488+00:00"
     },
     {
       "id": "372065bd12ef1d5bd9c1311a416fb6bb374a485f27fd0fdcdb9e3046c8ac6eea",
@@ -349,58 +366,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-07T18:20:00.214241+00:00"
-    },
-    {
-      "id": "bed661c161ebdecf268e615dbb50ac494bec249a89afdad0603282caf003bf43",
-      "title": "Atrasos e inconsistências na cobrança do Free Flow exigem atenção dos motoristas para evitar multas e golpes - dfmobilidade.com.br",
-      "source": "dfmobilidade.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeDg5SkR6SHV2V1hfSGo3bXc3N2JERWMxbUo2VmxaTmpoZ2V1RGdlOTVtX1U2TGxBSXl6cGtPV2czTDVoUThIYjM2bXpWbzBQb1FPZFZ6OW0ydzJuNXN2UjNtRUJ1VHNnai1IcVlkSFpuaS1Mc2syQV9JNWZTR1JUTHpOWmFXcU1aOEpaRElLTFVYTk9fQkJWbnJTREVVNmRsbXBGTURBTDNmOUVtdU8yTXdpMkNWWmVmOE42dW9yM296TDhjb0JvaTR3eDc3M3BmNEVSNlNDUkM3Zk0zUE9J?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-06T19:58:00+00:00",
-      "published_raw": "Tue, 06 Oct 2026 19:58:00 GMT",
-      "snippet": "Atrasos e inconsistências na cobrança do Free Flow exigem atenção dos motoristas para evitar multas e golpes dfmobilidade.com.br",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-07T18:19:58.376703+00:00"
-    },
-    {
-      "id": "98a9a607c506973ed81d3b2e2c5c2a5e821559091c022d98669946fcd2967d79",
-      "title": "Barranco desaba e lama invade alça da Washington Luís em Rio Preto - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUldhNUNZLWhRaGpRVG9IRXZYQ3BobUVOOHo1a0ZTSzUxVlZPMnlJcHRmN0hwWVdVYTJmMGhEVW40WDlDc0ZQZFpNNklRSmRaNE5CSGNSeUh4RDZtTzFRblZPZnNmS1FQYXFaN29wWGg5UUhvX2ZocWFIMjBwRlQxb2JtUnh6M0tOT2lERTVfVVlYM2kwZU5Tb0ZMbWoyaUtwQlJxRGFjNEtEekhOaDBGcQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-06T19:53:00+00:00",
-      "published_raw": "Tue, 06 Oct 2026 19:53:00 GMT",
-      "snippet": "Barranco desaba e lama invade alça da Washington Luís em Rio Preto Dhoje Interior",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "regulatório",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-07T18:20:11.561622+00:00"
-    },
-    {
-      "id": "6930269969def8425d43ac587c405ba7de1eb74e4329ed13da0756567baae80c",
-      "title": "Baile Outubro Rosa acontece sábado no clube Ítalo Brasileiro - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODJzc2hHR0RsU2RhNVc1TkkyU2dPLWtwVEowRWk1VGZncXVyNGdmOEl2NEJIMnpHTUlYLU1pLW9pcXJUNlkzWVBKWnVJVVIwOENhejBQeElMYUdINy1BYVdhTUJmbjA5OWw3MlRERmhjWDE2bi00NElVTnpkVTBNS1FLUUJQdnRRRXRYdlJRd3ZTa0VIZ3hzNUMwTkhZZzl5MlU3cmd0dHp4a0VwODJmazdB?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-06T19:05:28+00:00",
-      "published_raw": "Tue, 06 Oct 2026 19:05:28 GMT",
-      "snippet": "Baile Outubro Rosa acontece sábado no clube Ítalo Brasileiro Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-07T18:20:09.123640+00:00"
+      "collected_at": "2026-10-07T20:16:33.282751+00:00"
     }
   ]
 }
