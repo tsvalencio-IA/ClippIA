@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-08T18:20:19.422390+00:00",
+  "updated_at": "2026-10-09T00:47:03.190715+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 23,
+  "total": 24,
   "total_images": 0,
-  "new_items": 23,
+  "new_items": 24,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,74 @@
   ],
   "items": [
     {
+      "id": "dba0879e375c5e7c54817c3b2aeb32c3ecc7ad06971e7c410672b29d8215c6a8",
+      "title": "Ecovias Noroeste troca pedágios por sistema Siga Fácil; entenda o que muda - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFI3UDE3YWkySHBLdXdtQkFVS0JtTHZNSFRhaVJ0NEctUjdhamZObGtkOGdUUU5GRGdxMmJyWTQyWUFRUmlyOENsb0FUY3RFQmt6VHZ3TW1EdU1vclItWjE3REFBMzBnZjRvSGlVTEwxbHB0YkxCaXBHRU9WajRHdXFNY3Ixa3I4NkMwdXlEeFJUeklSM2ZnSDhzVUdNNUtkelFBek9nVzlmMHZhWjRjd0NSTDlKenpX?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T22:58:00+00:00",
+      "published_raw": "Thu, 08 Oct 2026 22:58:00 GMT",
+      "snippet": "Ecovias Noroeste troca pedágios por sistema Siga Fácil; entenda o que muda Araraquara Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:45.518653+00:00"
+    },
+    {
+      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
+      "title": "Notícias - Jornal de Barretos",
+      "source": "Jornal de Barretos",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeE1pOENpNHR1RDBDRmRDVjZJOUxxMFJoZmQyand6TWV0YVBtQlFXMUktMWhxQ2FZTjl3Z1hvQjQtZzQ5RTMtOFBGVXprM293aXR6SmdId3RldFM5RXVzY2RtVWk4NjZqVWFUSWtuc1ZDQkYwZ05ZYUFRSi1IYzAzaFhPdWhYUlBtb0FrNG1XT3NGS21jM2h4TjJoYXBIXzhOcFQwYWZINldvakxrcnNWTW9yaUJTc29BeGxhc1NJZ3RiVjU1aEE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T20:02:59+00:00",
+      "published_raw": "Thu, 08 Oct 2026 20:02:59 GMT",
+      "snippet": "Notícias Jornal de Barretos",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:45.518397+00:00"
+    },
+    {
+      "id": "f98029767754c17f8d344af49ef1d64891b90a003467bc98670794b203271892",
+      "title": "Ecorodovias: efeito calendário pesa no tráfego de setembro - EuQueroInvestir",
+      "source": "EuQueroInvestir",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmNseEs2VFRCVnpFOHVUeGlMZTM5Q2RwZEVteWJpbHJHcWU1S3RqUVpyVTVpZ3NrLTM1VFNBdjBzekszVk5ENWdRaEdHUWEtWVdwY09VQi1OcF9iazd1Q3RtTmNUa19wYXhicWxISXh6MldzUFRpRjBXOGExQ2Q2dUV1Si1NR1hpaC1hQTFzeU1QNENHUXc?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T19:59:40+00:00",
+      "published_raw": "Thu, 08 Oct 2026 19:59:40 GMT",
+      "snippet": "Ecorodovias: efeito calendário pesa no tráfego de setembro EuQueroInvestir",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:59.727657+00:00"
+    },
+    {
+      "id": "28213568dd5cb97958443ea5f9bfd1c361133c100b822e6c93f5831162da6af9",
+      "title": "Câmeras com IA miram celular e cinto na SP-310 - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2VoSDk3MTlaN2ZwWU9OakNUZm9keWpDT1REYU9FU3dHckZvRlBxTlUyZC1peVpDeEg3NkpKZmZITlg5ajRYNmRPNFUtWDd1SkRsX3MwUVVUZFFMcTY3clZyUGdWLU1jWnJxalFzYkFqRGc2MktLckxNc1hxTG45NnZDWm1Yb1VNdzVNSVVndnVVVzQ3WTdPdktrMVM1MUgyczlaRQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T18:50:00+00:00",
+      "published_raw": "Thu, 08 Oct 2026 18:50:00 GMT",
+      "snippet": "Câmeras com IA miram celular e cinto na SP-310 Araraquara Agora",
+      "term": "\"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:58.563772+00:00"
+    },
+    {
       "id": "555cbc9400f6753471fe6eab8c8d5a3f28a9da1cbc988d5f13b5ce5b09b1a33c",
       "title": "Ecovias substitui praças físicas de Pedágio por sistema Siga Fácil com desconto de 5% para veículos com TAG - O Imparcial Monte Alto",
       "source": "O Imparcial Monte Alto",
@@ -60,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113501+00:00"
+      "collected_at": "2026-10-09T00:46:45.518569+00:00"
     },
     {
       "id": "1f144d9d2b2f0016f0225e9cbc4818b630c64df02aeb2e5bf8e135545232786b",
@@ -77,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.064863+00:00"
+      "collected_at": "2026-10-09T00:46:59.727725+00:00"
+    },
+    {
+      "id": "6fa764db25c39b2fcabca706010f8ac9bb945d02c9a22a7f6de2c01788621232",
+      "title": "Ecorodovias: volume de tráfego consolidado sobe 0,6% em setembro - EuQueroInvestir",
+      "source": "EuQueroInvestir",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2p5MWhiVjY0OVJiV0dBT2Jsd0tseTRIUTBld29TN0tOM1hpaWZLaFdtdnJjZklOWVhjaWIwN2Fyank5czgxeUUwMkpuTGFsZW5NOXdZS0d3V1NEN0NYSzViYzhSUHVsSERuVXVHODJZcUlNSWVlUTVxWllvTlFkQzQ5dFZxRWRha3otTGtVRXAzOEVuX3FOY2RPWQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T13:49:34+00:00",
+      "published_raw": "Thu, 08 Oct 2026 13:49:34 GMT",
+      "snippet": "Ecorodovias: volume de tráfego consolidado sobe 0,6% em setembro EuQueroInvestir",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:59.727760+00:00"
     },
     {
       "id": "f1efa7c89809293f8a1df6635dd7aa23c6746bfcda88593f417b4018b080d08a",
@@ -94,41 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:12.926536+00:00"
-    },
-    {
-      "id": "6fa764db25c39b2fcabca706010f8ac9bb945d02c9a22a7f6de2c01788621232",
-      "title": "Ecorodovias: volume de tráfego consolidado sobe 0,6% em setembro - EuQueroInvestir",
-      "source": "EuQueroInvestir",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2p5MWhiVjY0OVJiV0dBT2Jsd0tseTRIUTBld29TN0tOM1hpaWZLaFdtdnJjZklOWVhjaWIwN2Fyank5czgxeUUwMkpuTGFsZW5NOXdZS0d3V1NEN0NYSzViYzhSUHVsSERuVXVHODJZcUlNSWVlUTVxWllvTlFkQzQ5dFZxRWRha3otTGtVRXAzOEVuX3FOY2RPWQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T13:30:01+00:00",
-      "published_raw": "Thu, 08 Oct 2026 13:30:01 GMT",
-      "snippet": "Ecorodovias: volume de tráfego consolidado sobe 0,6% em setembro EuQueroInvestir",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.064774+00:00"
-    },
-    {
-      "id": "7d44affc0d51689bac70d4b0f866c5e194e7751bff4a39166157b0c6697962a3",
-      "title": "Região terá três novos pórticos de pedágio com sistema Siga Fácil - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjIxX3BLMEFRclNTNDFPOEtVa2V2Um05X3FzVWV4MEdJUjRyQ1VHSmg3aWxYWngzTHBoMUw4YU9pVnBkZE9yQjZBemJSRkpJX2dCRnhWa0FuVjk3X2EwQWpPeDd5RHZ0dUJBRm83M3lndFNFcUNHbzdIMWc2YWtOWWJ5bWIteFNVdGR0cmJQQW5KZm1KOUFtUTdsTlRQUk5FcUFiUzkyVDFJWkwwdnVDTTJuOW4yOHowdzZOMmF1aw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T13:08:33+00:00",
-      "published_raw": "Thu, 08 Oct 2026 13:08:33 GMT",
-      "snippet": "Região terá três novos pórticos de pedágio com sistema Siga Fácil Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:09.487750+00:00"
+      "collected_at": "2026-10-09T00:46:56.779951+00:00"
     },
     {
       "id": "8a08a2f603e4dc5c82301cd88490ba9f378991eb0cee58932b1f93ee1b13e989",
@@ -145,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:14.909869+00:00"
+      "collected_at": "2026-10-09T00:46:58.563739+00:00"
+    },
+    {
+      "id": "5d2a9691d7a0086d6f656bd81690cdaef9ff0da7cda23d58f70758d0fdcf3efe",
+      "title": "IA reforça fiscalização na Washington durante feriado de N. S. Aparecida - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWZYTDVFTzU1WmpyX3IyR3NnWk1Vend2XzVlWV9jTnlkcUk3b0VraDVpbmtsSnlyNk5FaFlJMHNZMWJLNF9xRENMUVE1V25GTUVSaWVyY3c4cnZER0Rmc2hHRWtHYy16c0plNEdDVXIyRUstUDJPZXdodGhfYXJSc3ZzN2lPRWd6TnFTZVZEc245LVQxanFuY1ktaEUwa1R0UDBVQzc4QUh4Ylk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T12:39:36+00:00",
+      "published_raw": "Thu, 08 Oct 2026 12:39:36 GMT",
+      "snippet": "IA reforça fiscalização na Washington durante feriado de N. S. Aparecida Gazeta de Rio Preto",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:50.243798+00:00"
     },
     {
       "id": "9bf003cfcf2961b76ba035e16d5e1a4af974ce75624ce3cf4bb0d74f495e0951",
@@ -162,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.064667+00:00"
-    },
-    {
-      "id": "5d2a9691d7a0086d6f656bd81690cdaef9ff0da7cda23d58f70758d0fdcf3efe",
-      "title": "IA reforça fiscalização na Washington durante feriado de N. S. Aparecida - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWZYTDVFTzU1WmpyX3IyR3NnWk1Vend2XzVlWV9jTnlkcUk3b0VraDVpbmtsSnlyNk5FaFlJMHNZMWJLNF9xRENMUVE1V25GTUVSaWVyY3c4cnZER0Rmc2hHRWtHYy16c0plNEdDVXIyRUstUDJPZXdodGhfYXJSc3ZzN2lPRWd6TnFTZVZEc245LVQxanFuY1ktaEUwa1R0UDBVQzc4QUh4Ylk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T12:25:42+00:00",
-      "published_raw": "Thu, 08 Oct 2026 12:25:42 GMT",
-      "snippet": "IA reforça fiscalização na Washington durante feriado de N. S. Aparecida Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:06.666179+00:00"
+      "collected_at": "2026-10-09T00:46:59.727571+00:00"
     },
     {
       "id": "0e6d76ff5d4fe4eeaf607423c6bd45448879933ce8c9c830038a9085c51e871a",
@@ -190,13 +241,13 @@
       "published": "2026-10-08T12:24:22+00:00",
       "published_raw": "Thu, 08 Oct 2026 12:24:22 GMT",
       "snippet": "Inteligência Artificial reforça fiscalização no feriado de Nossa Senhora Aparecida Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113569+00:00"
+      "collected_at": "2026-10-09T00:46:45.518619+00:00"
     },
     {
       "id": "197a857a30e42e51c51fc5512c8cd3401167d2c08dc6662b0d9fc0c36c2cbfb4",
@@ -207,30 +258,13 @@
       "published": "2026-10-08T12:23:38+00:00",
       "published_raw": "Thu, 08 Oct 2026 12:23:38 GMT",
       "snippet": "Câmeras com IA vão fiscalizar motoristas na Washington Luís durante feriado em São Carlos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:07.220358+00:00"
-    },
-    {
-      "id": "994121d42c0acf051a01287dc2719825ada30fd546a3de6aa100505419f2e2d1",
-      "title": "Tráfego comparável da EcoRodovias cresce 0,6% em setembro - BOL",
-      "source": "BOL",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0tJVXNjc0JnT1pIOFctNXI0SnBxWlVRUVdFeklhSC1NeXdiVlZ1M3FNMHN3MzJ2emszRlMwYzlhYkl1dmZRcFB5SVJuMy1qVmwyb3J5ckpwT2pCU2Rmc1pWMHhoNl83ZFQtdXJJOVBKVjZHbGJIV1NlUVlJdzF6UE9xbTBINURtdkt4NXZGMTBqU2pVRWd5YmtHcDBEbWVxQ1BHRzBhTUVzVmpaa2000gGvAUFVX3lxTE13S0lVc2NzQmdPWkg4Vy01cjRKcHFaVVFRV0V6SWFILU15d2JWVnUzcU0wc3czMnZ6azNGUzBjOWFiSXV2ZlFwUHlJUm4zLWpWbDJvcnlySnBPakJTZGZzWlYweGg2XzdkVC11ckk5UEpWNkdsYkhXU2VRWUl3MXpQT3FtMEg1RG12S3g1dkYxMGpTalVFZ3lia0dwMERtZXFDUEdHMGFNRXNWalprbTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T12:22:49+00:00",
-      "published_raw": "Thu, 08 Oct 2026 12:22:49 GMT",
-      "snippet": "Tráfego comparável da EcoRodovias cresce 0,6% em setembro BOL",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113613+00:00"
+      "collected_at": "2026-10-09T00:46:50.868654+00:00"
     },
     {
       "id": "0371c92af6c6fde6956a7668a7ba80a7570bce266cb71445ecf682b1e3c55616",
@@ -247,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.064723+00:00"
+      "collected_at": "2026-10-09T00:46:59.727618+00:00"
     },
     {
       "id": "ba25749e2e4248d0c1feb7793f9e3a7d94257b81db904bda4e55bb1670ec5f81",
@@ -258,13 +292,30 @@
       "published": "2026-10-08T12:15:55+00:00",
       "published_raw": "Thu, 08 Oct 2026 12:15:55 GMT",
       "snippet": "IA reforça fiscalização no feriado de Nossa Senhora Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:07.220214+00:00"
+      "collected_at": "2026-10-09T00:46:53.215786+00:00"
+    },
+    {
+      "id": "9a9946effc9d172e5c0667a826882b06bc7e9f6f9e60d212f904666ff89a450f",
+      "title": "Feriado de Aparecida terá fiscalização com câmeras de IA na Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1NKdEhsV3B3TzFkdWhsQXdpQUt4djlGSWxkX2dyUzI0NmtGejluZ3ZtWDNCZWhld2hFd29UM2t1UTN5Q01maGhoZmhjZHdaQlJZZlFCTmlVOTRLdWZtZG5fRWN3Sm9VRl80dnhVLThTNlRBNTNhc2ZrS3hTUHAyWDFWOXBlVkZzZFRHRXFfQ0h3UmJueFA4eFZZaWJwZmdIMW9pNVFmQmZqWFI3X3AyT3pGLWcydXVGNHRvUklhTWgyNV9BQjNubm13UFQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T12:14:00+00:00",
+      "published_raw": "Thu, 08 Oct 2026 12:14:00 GMT",
+      "snippet": "Feriado de Aparecida terá fiscalização com câmeras de IA na Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:45.518692+00:00"
     },
     {
       "id": "f2b61a067db996dd22ff749b3adc1280e0d6cda9026f137d3f4c59cb70d4c2a8",
@@ -281,7 +332,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.064821+00:00"
+      "collected_at": "2026-10-09T00:46:59.727693+00:00"
+    },
+    {
+      "id": "7d44affc0d51689bac70d4b0f866c5e194e7751bff4a39166157b0c6697962a3",
+      "title": "Região terá três novos pórticos de pedágio com sistema Siga Fácil - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjIxX3BLMEFRclNTNDFPOEtVa2V2Um05X3FzVWV4MEdJUjRyQ1VHSmg3aWxYWngzTHBoMUw4YU9pVnBkZE9yQjZBemJSRkpJX2dCRnhWa0FuVjk3X2EwQWpPeDd5RHZ0dUJBRm83M3lndFNFcUNHbzdIMWc2YWtOWWJ5bWIteFNVdGR0cmJQQW5KZm1KOUFtUTdsTlRQUk5FcUFiUzkyVDFJWkwwdnVDTTJuOW4yOHowdzZOMmF1aw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T11:57:00+00:00",
+      "published_raw": "Thu, 08 Oct 2026 11:57:00 GMT",
+      "snippet": "Região terá três novos pórticos de pedágio com sistema Siga Fácil Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:53.215886+00:00"
     },
     {
       "id": "2bd94d40989de5bede6fdd37bb6c73bed5477cb0452cf30155a3f1f12a244ab1",
@@ -298,7 +366,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:07.220396+00:00"
+      "collected_at": "2026-10-09T00:46:50.868616+00:00"
+    },
+    {
+      "id": "4e6682b378b42c606de77b59b02ab5de352caffd10cfd004c99e433a192879ab",
+      "title": "Feira Aqa Criativa leva samba à Praça das Bandeiras no feriado (12) - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHNPV2dTSXNUNmJKaENsXzkyVXdmcTB6NjZMNVBUbmRleHpfWEYwM0NsamNwb0xBVmEzZDJkTXdTWjBfbEZsVU5RNjZUR1lwVTJUdFdCYjQyRGxFUDZwRm15QVRjLVpsWDZIOFRZZm9uendqQXg0dkxtLUpOazFXZDU2M19fbVNHd2pXR0w1aUZxcTFqeGxIT05yRkdXa2pGVUtkOWU4dExKR2xVRTRB?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-08T05:07:47+00:00",
+      "published_raw": "Thu, 08 Oct 2026 05:07:47 GMT",
+      "snippet": "Feira Aqa Criativa leva samba à Praça das Bandeiras no feriado (12) Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T00:46:56.779876+00:00"
     },
     {
       "id": "7b6e49d4caf5bb90e23c7607c46592cc1ebadd9285ea4b3932326da0b488a976",
@@ -315,7 +400,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:08.351530+00:00"
+      "collected_at": "2026-10-09T00:46:52.084114+00:00"
     },
     {
       "id": "8bfdc59ce610211bf8ef6e6a991937db2b7baaa98ac0908537e858bf4e36dcb2",
@@ -326,13 +411,13 @@
       "published": "2026-10-08T04:49:45+00:00",
       "published_raw": "Thu, 08 Oct 2026 04:49:45 GMT",
       "snippet": "Feriado deve levar 980 mil veículos às rodovias da Eixo SP - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:12.926486+00:00"
+      "collected_at": "2026-10-09T00:46:56.779839+00:00"
     },
     {
       "id": "776b9c7a808eaa096cb55e27d521d544de653e5d4b1d3eff1dff8857735e46a0",
@@ -349,7 +434,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113440+00:00"
+      "collected_at": "2026-10-09T00:46:45.518496+00:00"
     },
     {
       "id": "34aa9f1a3944e9d551a38373bb01fc6d6b8056e621f9c07c0d69480af99b6352",
@@ -366,75 +451,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113376+00:00"
-    },
-    {
-      "id": "71407758b0a08523b13d647d7cba54020fec1145edfeef8b40c22990cd2bf58b",
-      "title": "Prefeitura e Rumo entregam nova passarela acessível em Ibaté com homenagem ao ex-prefeito Mauro Telles - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRzVEQThCQ1h4aWNNcW1Nd1BiMnh1SXJ4OTJOdGZrakFjQmtJM050cXZ2ZXBZQ3I3RmtUaGJMajVIQmtNNXFNalVoSUFweTB0d1pLOVdmNDFNNXlKamx3d2xSZTdnZC01Z2JMSUFxOXlDZzF2a1RKUWdENVN6eEU1emdacUJLd1U5U0NFS1FJcWoyS2tJS29JYThpVV90YmJ3bHBEbThRR2dQTWpFWHJrakxBdll2SW1mcUprNjJfdW9LYWJIUmpGaUlFamQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-07T20:21:11+00:00",
-      "published_raw": "Wed, 07 Oct 2026 20:21:11 GMT",
-      "snippet": "Prefeitura e Rumo entregam nova passarela acessível em Ibaté com homenagem ao ex-prefeito Mauro Telles Portal SCDN - Porque a informação não para!",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:16.661041+00:00"
-    },
-    {
-      "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
-      "title": "Notícias - Jornal de Barretos",
-      "source": "Jornal de Barretos",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemRpQTQxZndHdDVTQllNVDlxR09pQy0waE50YnpJY0VkdDlSYlprVlFNbnZCU2tiRjJpdjFGTUpjczZzUjRHZ0lrdnUzY2JCV0VGNmpvVFpUNENpQmM5cXBuWHRCQzZMOHJwbERkLUN2TThoOWZoT3pCT0JMeFJVSVZZZVJ0Wkc4OFcxOXVTXzQtX2pyUjRfaGJXYzBTMng5OWtyTlVFOWpDYnFpNTZnTlJFQThWX3RtdzduY3FVNzNpUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-07T20:17:38+00:00",
-      "published_raw": "Wed, 07 Oct 2026 20:17:38 GMT",
-      "snippet": "Notícias Jornal de Barretos",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:02.113654+00:00"
-    },
-    {
-      "id": "a304ed3670810ff7a420b9dc4f5ee81928bf288767679744c35b00e2df362bab",
-      "title": "Feriado deve levar 980 mil veículos às rodovias da Eixo SP - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWFtMHoyLUYyc0hsaGZmLWVvVWNsamJadU1hUDZ3VWxjTUNWY19Ld1R0OEg2RC1zZmxoOW9fRFFybTIzTkJDUVRra2tOM2xVUzBpeklUMnNzWjJsbVJfbGxvNTNUOWxUQTNHaFdsTVZXdmd3cFZyaDd4MkNoOGVpYVB5RHNua1RycXZfdVhqNXh5Z0x6N010dWhJT25BcUNLcXc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-07T20:15:31+00:00",
-      "published_raw": "Wed, 07 Oct 2026 20:15:31 GMT",
-      "snippet": "Feriado deve levar 980 mil veículos às rodovias da Eixo SP Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:14.909813+00:00"
-    },
-    {
-      "id": "102e59863a1959f438be9c3d3225eca9aa07b4afd7b64b0e5981f55ba3675a0d",
-      "title": "Siga Fácil substitui três praças de pedágio na região - Rio Preto Indica",
-      "source": "Rio Preto Indica",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGh5QTF5MVhBakk3NEZiSndvT1hfUkFudmEydHhSellyalFXNGJOUGRveFRraHpmSGZhYVUzX1FYczZIYWdVeVdEdG9DSFZmRDZfS0hTWHFaSDJFWThDbmswT3pZTURzVl9xdUp1M1JVS3FjVkNtVzFCeWJRb2QxVUtR?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-07T19:19:00+00:00",
-      "published_raw": "Wed, 07 Oct 2026 19:19:00 GMT",
-      "snippet": "Siga Fácil substitui três praças de pedágio na região Rio Preto Indica",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20digital%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-08T18:20:06.666097+00:00"
+      "collected_at": "2026-10-09T00:46:45.518457+00:00"
     }
   ]
 }
