@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T17:40:24.786222+00:00",
+  "updated_at": "2026-10-09T17:53:26.603385+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 13,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "67eed3bb7b46c4c625f97db6d1c53b83641aafde2a6abf1eb1fbc92287741ec0",
+      "title": "Obras interditam parcialmente retorno da Washington Luís em Cedral - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2VTV21RblpweTZPNnV2Y1VjUkNBaTNkNkJlRWZFU1BSM3RwZjhCTk1MMEpiNnktNGlXaGRNMS1ZWldBZ2JwaU5rYjd1TlB3Q2RUNnBJbVJTY1lfYTNza25RYkRJM2VoUlJqa2s5TVl3b3R0VnFWaGd1VlowY2R6T1A3Uk9qaWV0dFJMVUxYaHRIc2ZXSkd1aG5Raw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-09T17:46:00+00:00",
+      "published_raw": "Fri, 09 Oct 2026 17:46:00 GMT",
+      "snippet": "Obras interditam parcialmente retorno da Washington Luís em Cedral Votunews",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-09T17:53:08.961248+00:00"
+    },
+    {
       "id": "c6283e7e42a9630c4f614fc1ffcf37abeee625908f6a9073b26618c897f891cc",
       "title": "Obras interditam parcialmente retorno da Washington Luís em Cedral - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -54,13 +71,13 @@
       "published": "2026-10-09T17:28:49+00:00",
       "published_raw": "Fri, 09 Oct 2026 17:28:49 GMT",
       "snippet": "Obras interditam parcialmente retorno da Washington Luís em Cedral Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:17.943422+00:00"
+      "collected_at": "2026-10-09T17:53:22.031019+00:00"
     },
     {
       "id": "b1d233f791af3aa40632f48f98353066901eab55f19bf94ca916053557130830",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.781143+00:00"
+      "collected_at": "2026-10-09T17:53:08.961281+00:00"
     },
     {
       "id": "58f8057724d8692b0854be90d7ac0812cd1d9ed8a618eb987e575ded94071cea",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:08.185888+00:00"
+      "collected_at": "2026-10-09T17:53:10.749316+00:00"
     },
     {
       "id": "43897318d20c486ded705435b53c9e3c40872c170c5c30b0cd0e1bdb602fd792",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.780980+00:00"
+      "collected_at": "2026-10-09T17:53:08.961140+00:00"
     },
     {
       "id": "fb234956143ac6a90b6bcfdd06d4da941c2dd28f575622ecde9af8ac61533e7b",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:08.185948+00:00"
+      "collected_at": "2026-10-09T17:53:10.749370+00:00"
     },
     {
       "id": "1faab4453662b95dcba79cb9b48c3b3c550b0e99617ffc37eb7e112dc3c86dc0",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:04.379149+00:00"
+      "collected_at": "2026-10-09T17:53:09.560671+00:00"
     },
     {
       "id": "dba0879e375c5e7c54817c3b2aeb32c3ecc7ad06971e7c410672b29d8215c6a8",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.781090+00:00"
+      "collected_at": "2026-10-09T17:53:08.961216+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.780777+00:00"
+      "collected_at": "2026-10-09T17:53:08.961087+00:00"
     },
     {
       "id": "f98029767754c17f8d344af49ef1d64891b90a003467bc98670794b203271892",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.781037+00:00"
+      "collected_at": "2026-10-09T17:53:08.961181+00:00"
     },
     {
       "id": "0bc800f6eced0edfbbd69ad60d53a573e20da50e5004092e07e9ed9fccf0ce99",
@@ -213,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:21.980485+00:00"
-    },
-    {
-      "id": "7024a4d2ddb2a03dbf61567f2f5a134ccf20b0e1e11ec2a96a84e80798e932c0",
-      "title": "Adolescente algemado foge do IML em São Carlos - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51T0VTdVRVelhaNExWaGppLTBscFRrMWYzNjhrYVdKUzVZU0xOVGRPR3FmR3VhY0IyS2lmR2EyMmRZdExtS0VkcnNpMlNXVHFEQmVCeUNtYVM1WUNwZTFjdTFqdllFNU4zUXhUZHY4Y1lINDZFYWJyLWJFcXNOZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T19:41:00+00:00",
-      "published_raw": "Thu, 08 Oct 2026 19:41:00 GMT",
-      "snippet": "Adolescente algemado foge do IML em São Carlos Araraquara Agora",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-09T17:40:21.980590+00:00"
+      "collected_at": "2026-10-09T17:53:23.797050+00:00"
     },
     {
       "id": "ac0050a115a88a5381992a3a7abd9b2bb1bb71c3536c3c138342b79a91dc893f",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:19.499265+00:00"
+      "collected_at": "2026-10-09T17:53:21.455264+00:00"
     },
     {
       "id": "28213568dd5cb97958443ea5f9bfd1c361133c100b822e6c93f5831162da6af9",
@@ -264,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.781195+00:00"
-    },
-    {
-      "id": "555cbc9400f6753471fe6eab8c8d5a3f28a9da1cbc988d5f13b5ce5b09b1a33c",
-      "title": "Ecovias substitui praças físicas de Pedágio por sistema Siga Fácil com desconto de 5% para veículos com TAG - O Imparcial Monte Alto",
-      "source": "O Imparcial Monte Alto",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdkQtVE9NYng4QmxwOHdXa1p1bXNrc290RWQyX0hfWGM1N3pvcWxzLVJMTVNHWXFLR3oyOFIzdVhIaFg3NTlpczBLQTdNWUlPdE1KNXMwRWV6ZHV2RXlZVXZKeFJGS0lIeFc0QnNjY05JbjZsb0hqdTlPOC1KN3BLUjV6c3FPc0pBa2NFS1JHdGhfNFpYcDRGVlRycndUNmpMWDU2a29tT2ZTS1V1TU9qNkVreENRb295Zkl3aXNRbWZOTU5pWC1kc0V2SE44MnAySFdSU2dCdmxDNmZlNlRGamM5T1U3bk8xUzU0?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T17:48:45+00:00",
-      "published_raw": "Thu, 08 Oct 2026 17:48:45 GMT",
-      "snippet": "Ecovias substitui praças físicas de Pedágio por sistema Siga Fácil com desconto de 5% para veículos com TAG O Imparcial Monte Alto",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-09T17:40:03.780913+00:00"
+      "collected_at": "2026-10-09T17:53:08.961314+00:00"
     }
   ]
 }
