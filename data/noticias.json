@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-10T04:01:15.934840+00:00",
+  "updated_at": "2026-10-10T11:31:32.235061+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 10,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-10-10T00:04:11+00:00",
       "published_raw": "Sat, 10 Oct 2026 00:04:11 GMT",
       "snippet": "Três pedágios da região terão cobrança automática a partir de novembro Tanabi Noticias",
-      "term": "\"Ecovias Noroeste\" TAG | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:01:04.797452+00:00"
+      "collected_at": "2026-10-10T11:31:14.369627+00:00"
     },
     {
       "id": "ab80c1bd30ffeec2bcf5a677cb557ee91451b8393aa309873206bb8224e5e469",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064399+00:00"
-    },
-    {
-      "id": "318817b7ef8b8de6c5ee0ab229c02f0cca956b6483fa8429e25aff5be306b743",
-      "title": "Retorno na SP-310 terá interdição parcial a partir deste sábado - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlVrT0dqR3ZFNnNGR28yV0MzS2c4NlNpWC1tZHdMNElRbVBwWlV1YWczZUZQbGdIQ1dCS0R5bnU5MU9MZXQxYU9sZ2lyM1pjT3FENjdtQ1YzYkVCM2h4c3dUZndyMlZNbGhHVW1zam8tcHBKVDR5ZmlXSERCaDNLdjNhZFV5VFFvcGhHQmxRV0NFYUw3RkpOR09ZNHJVUUptLTBjU2RkRmpsRU9kdEw0NzVNRDdaREZFZlE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T21:22:00+00:00",
-      "published_raw": "Fri, 09 Oct 2026 21:22:00 GMT",
-      "snippet": "Retorno na SP-310 terá interdição parcial a partir deste sábado Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064202+00:00"
+      "collected_at": "2026-10-10T11:31:14.369696+00:00"
     },
     {
       "id": "52aa29aaf7bc2d7fc4188ecca363803a5e9dc2e607a59d97dc051066482cb9dc",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064623+00:00"
+      "collected_at": "2026-10-10T11:31:14.369751+00:00"
     },
     {
       "id": "c3656e99ce8229568ffe02514b1db5372b31f024b34acb7b4ca528ce77039b01",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064850+00:00"
+      "collected_at": "2026-10-10T11:31:14.369949+00:00"
     },
     {
       "id": "67eed3bb7b46c4c625f97db6d1c53b83641aafde2a6abf1eb1fbc92287741ec0",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064692+00:00"
+      "collected_at": "2026-10-10T11:31:14.369797+00:00"
     },
     {
       "id": "c6283e7e42a9630c4f614fc1ffcf37abeee625908f6a9073b26618c897f891cc",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:01:11.377149+00:00"
+      "collected_at": "2026-10-10T11:31:27.662896+00:00"
     },
     {
       "id": "b1d233f791af3aa40632f48f98353066901eab55f19bf94ca916053557130830",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064917+00:00"
+      "collected_at": "2026-10-10T11:31:14.369895+00:00"
     },
     {
       "id": "f69c36f203b0fa7d5f962346790d1aed582fcd655866eced3608b40887091d7d",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064771+00:00"
+      "collected_at": "2026-10-10T11:31:14.369849+00:00"
     },
     {
       "id": "058d2135545a3491c5a1a406e0d929e7974c3ee7746bdd8ef8f473ae48e759a5",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064475+00:00"
+      "collected_at": "2026-10-10T11:31:14.369562+00:00"
     },
     {
       "id": "58f8057724d8692b0854be90d7ac0812cd1d9ed8a618eb987e575ded94071cea",
@@ -230,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T04:00:59.921228+00:00"
-    },
-    {
-      "id": "43897318d20c486ded705435b53c9e3c40872c170c5c30b0cd0e1bdb602fd792",
-      "title": "Inteligência Artificial reforça fiscalização no feriado de Nossa Senhora Aparecida - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSng1ZmhfdVdQTlpYbXl0bFVBQ2V4dFJiMUw3ZmV0TE1pZFhsRGRuMHI2TWRPNE5pMzRfVkxyNC0taHM3N0pJc0xaQkJUQjVnMFZXTUVuZW55VEFSU2V3SmM2NjJRQmcxQU1IWW9rd3htZlJtMlFIM3l2dnVKTXhRLU1vdVRFMDItcFFZVzBNblNTNndycnNZTU9CMVhJZjNTYzRta0Rtb0JyUVU?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T11:02:22+00:00",
-      "published_raw": "Fri, 09 Oct 2026 11:02:22 GMT",
-      "snippet": "Inteligência Artificial reforça fiscalização no feriado de Nossa Senhora Aparecida OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T04:00:58.064299+00:00"
-    },
-    {
-      "id": "fb234956143ac6a90b6bcfdd06d4da941c2dd28f575622ecde9af8ac61533e7b",
-      "title": "Feriadão em Araraquara terá 37°C no sábado e chuva na segunda - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR09OajRjVEhMdXNpN01XSnZwZWtHd1JnQ2d4SHNFQktLQ2lDMFZvcWNfb29VM0g1ZVAwRGNmdS1LY3B1VHQ4ajBreGhRWDlKbWJlVkpZVWR4WkNNU1Y1UWpSRW5uczFta3lpekc2MXN3bDJaZS1TcGJVdHhwMk55UGgzbG1ieWhtdjhOOFEtMmJPUEpIamFOaTlnaFNRdy1iRnZIU1Nn?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T10:35:28+00:00",
-      "published_raw": "Fri, 09 Oct 2026 10:35:28 GMT",
-      "snippet": "Feriadão em Araraquara terá 37°C no sábado e chuva na segunda Araraquara Agora",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T04:00:59.921293+00:00"
+      "collected_at": "2026-10-10T11:31:16.235984+00:00"
     }
   ]
 }
