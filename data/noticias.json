@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-10T11:47:50.945990+00:00",
+  "updated_at": "2026-10-10T16:31:51.459285+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "ba7ee1e330ff2a7bf72ba7410857d42a32f263e9211d64c3636b6ee2ccb4c58a",
+      "title": "Carreta tomba após ser fechada por caminhão na SP-310, em São Carlos - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODBrUDQtX1lfOEV4djE1RFVneE02UXRFX3NGVDVWYWM5ajBqeHQ4SUJPdTJ4eWdYdzByVE1ERmZyTVMycGVWVk13cURiT2JxME15MXJfNmR1TGFfaHlNSG01cmJiNzdrTDdUVnZLVXZJVUR1Z3RMd1NpdjZHdUpiXzNBNlZRWGtzdHBtb0JrS2diNDg1YXN5RVBzVHg5Qk9RZkN0blRRU2w3QVFnSjBZTTZCY0JyX1RnSnRYQW5PM2pDMlVwQ2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-10T15:52:00+00:00",
+      "published_raw": "Sat, 10 Oct 2026 15:52:00 GMT",
+      "snippet": "Carreta tomba após ser fechada por caminhão na SP-310, em São Carlos São Carlos Agora",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T16:31:48.627852+00:00"
+    },
+    {
       "id": "daf18f32fc0aacc741939c99191e8198f0061d8a614ef4e68bd289825a941e64",
       "title": "Três pedágios da região terão cobrança automática a partir de novembro - Tanabi Noticias",
       "source": "Tanabi Noticias",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.289837+00:00"
+      "collected_at": "2026-10-10T16:31:33.602654+00:00"
     },
     {
       "id": "ab80c1bd30ffeec2bcf5a677cb557ee91451b8393aa309873206bb8224e5e469",
@@ -77,7 +94,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.289937+00:00"
+      "collected_at": "2026-10-10T16:31:33.602768+00:00"
+    },
+    {
+      "id": "000942798dd41f6763c24df85a204ac40bda01cad224bf56ec6a425523959649",
+      "title": "Defesa Civil emite alerta amarelo para pancadas de chuva durante o fim de semana do feriado de 12 de outubro - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHhjNHdGQmc1YzNTY3VrbmR1TFh6WlFNTDVNdWxlNzA5MjB6ZUpZWmxkYmdJb0xTYWFLbm9GbDJta0tESGhQNnRpQ3FkSUgxZFA4NUFHbXFiZ3h0OGxFOWpMV2wxZUNaT2NIUzZhMEZhUWFHYk1HbUt2WEhGd1MzVmQxWi1fNl9LWjJBMUk0TkhqYkd2ZnRzUm4wYW53cDBxT2drSFE4TUI1b1M0TlVRRE0wZ015VzVBc0M0X3dFUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-09T20:29:38+00:00",
+      "published_raw": "Fri, 09 Oct 2026 20:29:38 GMT",
+      "snippet": "Defesa Civil emite alerta amarelo para pancadas de chuva durante o fim de semana do feriado de 12 de outubro Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T16:31:35.385948+00:00"
     },
     {
       "id": "52aa29aaf7bc2d7fc4188ecca363803a5e9dc2e607a59d97dc051066482cb9dc",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.290019+00:00"
+      "collected_at": "2026-10-10T16:31:33.602853+00:00"
     },
     {
       "id": "c3656e99ce8229568ffe02514b1db5372b31f024b34acb7b4ca528ce77039b01",
@@ -111,7 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.290307+00:00"
+      "collected_at": "2026-10-10T16:31:33.603212+00:00"
+    },
+    {
+      "id": "4c3066141ba39a1382857ae027bc984276da3f6b016a3fdf4ca20eabbe219756",
+      "title": "Tributos da gasolina são zerados e subsídios a combustíveis, ampliados - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzdaOEY0RnQzeGh5LTVYVGI4bGllR2ZMMWo4VGpHekdwVjRETlZpZUViaEpPOVcxU3JWUFRtcVhOWDJjQTFKc2dqOEt3ektWemlMY2xXOXJwVkdGWm1DcmY5YkxMZE9sYUtkVVotbnM3bWZSVFBEdVJoTTNBZ2Z6c1NaUlc0dm53Z2dEUTl6X1JHNmNLYUhnZjYtdWN4akhtb0NSSW91X2IwaW96aEhKZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-09T18:26:57+00:00",
+      "published_raw": "Fri, 09 Oct 2026 18:26:57 GMT",
+      "snippet": "Tributos da gasolina são zerados e subsídios a combustíveis, ampliados Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T16:31:35.386055+00:00"
     },
     {
       "id": "67eed3bb7b46c4c625f97db6d1c53b83641aafde2a6abf1eb1fbc92287741ec0",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.290086+00:00"
+      "collected_at": "2026-10-10T16:31:33.602983+00:00"
     },
     {
       "id": "c6283e7e42a9630c4f614fc1ffcf37abeee625908f6a9073b26618c897f891cc",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:46.345232+00:00"
+      "collected_at": "2026-10-10T16:31:46.817591+00:00"
     },
     {
       "id": "b1d233f791af3aa40632f48f98353066901eab55f19bf94ca916053557130830",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.290229+00:00"
+      "collected_at": "2026-10-10T16:31:33.603133+00:00"
     },
     {
       "id": "f69c36f203b0fa7d5f962346790d1aed582fcd655866eced3608b40887091d7d",
@@ -179,41 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.290163+00:00"
-    },
-    {
-      "id": "058d2135545a3491c5a1a406e0d929e7974c3ee7746bdd8ef8f473ae48e759a5",
-      "title": "Feriado deve levar 572 mil veículos às estradas do interior de SP - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGZJRFdoWkhtSmhMd25HaXRRbWI3RTRVT3NLNDFkelRtS040UnVBMllIYlNSRTBGZ3FqSkZhVUhuYUZsVXY3cmc3WWQwaURxOVNXT3E1R3BSRWhMQ0ZLbkY2QXc1VmItdEVrQl9tUVpwdFUyYVdCS256VFg5N3dzVDQ3WWdrdXUyNVRJaXdkOEZEbzVJTGJHS2FmUl83dFZNc2RVVnd3ZHhkQ2YtQ3Jj?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T14:19:00+00:00",
-      "published_raw": "Fri, 09 Oct 2026 14:19:00 GMT",
-      "snippet": "Feriado deve levar 572 mil veículos às estradas do interior de SP Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T11:47:33.289745+00:00"
-    },
-    {
-      "id": "58f8057724d8692b0854be90d7ac0812cd1d9ed8a618eb987e575ded94071cea",
-      "title": "PAT de Araraquara tem 60 vagas, 45 delas para telemarketing - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelBLaTVTano2OVM1UUN3N0Z2V240d01vT3VQa0dfZVMtbHJuQnlZTWx4ckF4SEVLanNGb2JtRmY2V0I5d2toV1lZNEc5dGx1TTItckZGbjhTdGhwTHhTWXJWUHg0U2k3Z0ZJcUtQTEpKVUxrWWFaYTN1c0tCREk3ajAwMUlyYlU0clM0aUtCYkdlNmE0RUdZMFBZSExtWVkxLUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T12:16:23+00:00",
-      "published_raw": "Fri, 09 Oct 2026 12:16:23 GMT",
-      "snippet": "PAT de Araraquara tem 60 vagas, 45 delas para telemarketing Araraquara Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T11:47:35.028081+00:00"
+      "collected_at": "2026-10-10T16:31:33.603063+00:00"
     }
   ]
 }
