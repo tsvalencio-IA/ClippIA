@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T21:03:41.722812+00:00",
+  "updated_at": "2026-10-10T23:57:10.673710+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T21:03:26.284236+00:00"
+      "collected_at": "2026-10-10T23:56:55.981033+00:00"
     },
     {
       "id": "ba7ee1e330ff2a7bf72ba7410857d42a32f263e9211d64c3636b6ee2ccb4c58a",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T21:03:26.284272+00:00"
+      "collected_at": "2026-10-10T23:56:55.981084+00:00"
+    },
+    {
+      "id": "ba65b33de575a880696e96d29ff1ee6b644f0530e8d536bfac6131dadda442aa",
+      "title": "Enquanto chuvas avançam pelo estado, regiões do interior têm alto risco de incêndios neste sábado (10) - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDVZaFU2RHcxaWtQTTlYTklxTDdsaUc3T3ZDdFpPMTJoUzVHem0yYXpSbkpxR0lZTHZ4dUtraEtVZTBoVlBRQW5Zb3JwTFBjTGZFVmNBY18xcmJmZE8wdFhiZERtUENWRldhb2FFSDdPU25KQzlMQXk4SmlZM0E5MVMyMlJ2cm83UE54UXZ0ZVBTVWloYVd1UWJFSWhyUm1nTDcyRlVIemo2c0JuZ1NUN0piZWxSR0RtME50T1dueEw5RVhGUmI2cmxFQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-10T13:41:38+00:00",
+      "published_raw": "Sat, 10 Oct 2026 13:41:38 GMT",
+      "snippet": "Enquanto chuvas avançam pelo estado, regiões do interior têm alto risco de incêndios neste sábado (10) Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T23:56:54.352549+00:00"
     },
     {
       "id": "daf18f32fc0aacc741939c99191e8198f0061d8a614ef4e68bd289825a941e64",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-10T21:03:24.548879+00:00"
-    },
-    {
-      "id": "ab80c1bd30ffeec2bcf5a677cb557ee91451b8393aa309873206bb8224e5e469",
-      "title": "São Paulo investe R$ 450 milhões para ampliar 29 km da Washington Luís com 11 novos viadutos, marginais e novas faixas - CPG Click Petróleo e Gás",
-      "source": "CPG Click Petróleo e Gás",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWFVfUzA5elRKVzZIZXFuRXVxcXBpRndycWtzU1BQQTg3ek1sd0hOMWxlUExvbHc3dmFkc0NIcWFRMUNBenJZOW54aWt6TFFmVjBMMmlBVXJjZHd6dlVaQnpLRGZUOTduQlJpeUJLNkc0a2YxQVR5a0d6dXUwaHA2V2daT0hWZ1ZkMmE5SFEzVlBHUldGOGxSVU1VNVFoNE9rR0Q0MTdhSFlITlV2MU5NSmx0UTNZdTVDZTZFQzA3YlZuTTB5OGdGNUZ1QXZBaWs1MzdvZXVTVzhOU29jc2JtRy1pc2s5WjBlUWhVUlhB?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T22:48:00+00:00",
-      "published_raw": "Fri, 09 Oct 2026 22:48:00 GMT",
-      "snippet": "São Paulo investe R$ 450 milhões para ampliar 29 km da Washington Luís com 11 novos viadutos, marginais e novas faixas CPG Click Petróleo e Gás",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-10T21:03:24.548944+00:00"
+      "collected_at": "2026-10-10T23:56:54.352465+00:00"
     }
   ]
 }
