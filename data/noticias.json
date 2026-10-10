@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:09:50.241548+00:00",
+  "updated_at": "2026-10-10T03:10:19.234090+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 13,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "daf18f32fc0aacc741939c99191e8198f0061d8a614ef4e68bd289825a941e64",
+      "title": "Três pedágios da região terão cobrança automática a partir de novembro - Tanabi Noticias",
+      "source": "Tanabi Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXRJaEZOdU1xWG5WRkhRck9yajh6aExYZ25ZUjlwVklWdnZVMFVGSFVlODFEOTdKZHhqVk1uQ01kUU1HczZ5MFk0Z19pelhKVW9jbWdpUktaUmlEckxNZmhBMk5rX05YQ01BalpmQlU5bG5uOGxOejV6UjE1UUctMW0yNTFfZmlUY21qUTZiLUtYWVFVM3F5V0NHRTNBS0xhU0RFRVYwWWsyeExvODAxYlRSbw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-10T00:04:11+00:00",
+      "published_raw": "Sat, 10 Oct 2026 00:04:11 GMT",
+      "snippet": "Três pedágios da região terão cobrança automática a partir de novembro Tanabi Noticias",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T03:10:03.254970+00:00"
+    },
+    {
+      "id": "ab80c1bd30ffeec2bcf5a677cb557ee91451b8393aa309873206bb8224e5e469",
+      "title": "São Paulo investe R$ 450 milhões para ampliar 29 km da Washington Luís com 11 novos viadutos, marginais e novas faixas - CPG Click Petróleo e Gás",
+      "source": "CPG Click Petróleo e Gás",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWFVfUzA5elRKVzZIZXFuRXVxcXBpRndycWtzU1BQQTg3ek1sd0hOMWxlUExvbHc3dmFkc0NIcWFRMUNBenJZOW54aWt6TFFmVjBMMmlBVXJjZHd6dlVaQnpLRGZUOTduQlJpeUJLNkc0a2YxQVR5a0d6dXUwaHA2V2daT0hWZ1ZkMmE5SFEzVlBHUldGOGxSVU1VNVFoNE9rR0Q0MTdhSFlITlV2MU5NSmx0UTNZdTVDZTZFQzA3YlZuTTB5OGdGNUZ1QXZBaWs1MzdvZXVTVzhOU29jc2JtRy1pc2s5WjBlUWhVUlhB?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-09T22:48:00+00:00",
+      "published_raw": "Fri, 09 Oct 2026 22:48:00 GMT",
+      "snippet": "São Paulo investe R$ 450 milhões para ampliar 29 km da Washington Luís com 11 novos viadutos, marginais e novas faixas CPG Click Petróleo e Gás",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-10T03:10:13.372189+00:00"
+    },
+    {
       "id": "318817b7ef8b8de6c5ee0ab229c02f0cca956b6483fa8429e25aff5be306b743",
       "title": "Retorno na SP-310 terá interdição parcial a partir deste sábado - Dhoje Interior",
       "source": "Dhoje Interior",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:43.897427+00:00"
+      "collected_at": "2026-10-10T03:10:13.372088+00:00"
     },
     {
       "id": "52aa29aaf7bc2d7fc4188ecca363803a5e9dc2e607a59d97dc051066482cb9dc",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682785+00:00"
+      "collected_at": "2026-10-10T03:10:03.255048+00:00"
     },
     {
       "id": "c3656e99ce8229568ffe02514b1db5372b31f024b34acb7b4ca528ce77039b01",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682887+00:00"
+      "collected_at": "2026-10-10T03:10:03.255370+00:00"
     },
     {
       "id": "67eed3bb7b46c4c625f97db6d1c53b83641aafde2a6abf1eb1fbc92287741ec0",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682832+00:00"
+      "collected_at": "2026-10-10T03:10:03.255113+00:00"
     },
     {
       "id": "c6283e7e42a9630c4f614fc1ffcf37abeee625908f6a9073b26618c897f891cc",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:45.742189+00:00"
+      "collected_at": "2026-10-10T03:10:15.001537+00:00"
     },
     {
       "id": "b1d233f791af3aa40632f48f98353066901eab55f19bf94ca916053557130830",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682984+00:00"
+      "collected_at": "2026-10-10T03:10:03.255285+00:00"
     },
     {
       "id": "f69c36f203b0fa7d5f962346790d1aed582fcd655866eced3608b40887091d7d",
@@ -156,13 +190,13 @@
       "published": "2026-10-09T16:53:22+00:00",
       "published_raw": "Fri, 09 Oct 2026 16:53:22 GMT",
       "snippet": "Acesso da Washington Luís para Potirendaba terá alteração a partir deste sábado (10) Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682940+00:00"
+      "collected_at": "2026-10-10T03:10:03.255188+00:00"
     },
     {
       "id": "058d2135545a3491c5a1a406e0d929e7974c3ee7746bdd8ef8f473ae48e759a5",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682611+00:00"
+      "collected_at": "2026-10-10T03:10:03.254800+00:00"
     },
     {
       "id": "58f8057724d8692b0854be90d7ac0812cd1d9ed8a618eb987e575ded94071cea",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:43.897828+00:00"
+      "collected_at": "2026-10-10T03:10:13.372797+00:00"
     },
     {
       "id": "43897318d20c486ded705435b53c9e3c40872c170c5c30b0cd0e1bdb602fd792",
@@ -213,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682680+00:00"
-    },
-    {
-      "id": "081b74bf1570bbd0134f14d358d12da5be5c4ce3c7272edfb03cb1fbda907ab3",
-      "title": "Inteligência Artificial reforça fiscalização no feriado de Nossa Senhora Aparecida - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2JJSHFkRGZBMjI2THQxNUVHdVZJTU90VEhVdGFHU2ZoZTRDcF9OZDc5eURja2kyWmRiNHBkTHdnYzgtc3FOb1Q0cnFWbmVDaHRPV0JHLVpyUko0Y2pVWnEtVU5lX3h4Uk5JX09hZU9LNl9WaklPbXpMb1NrcVk4MUF1TmdHamlLUTJnbDFBQkg4bjVjTTZVd2hTWEc5X3JaSTdvdjNNM092U2Z3V1hmNWp30gG3AUFVX3lxTFA0VzBDN3BCb1Qya1VvVHRmTDBXajBtLTNxN3JVZjVFdXFJeGRtS1lWejdRS1hjd3NTYTd6RXk3dWFXUGtTVXBFMU9waE0tOUZ2T1hMMTFuWFRPUmRkVDFtQ2xBMzJvMkIxQUU1aW9lU1E3Mm5KWG5uSVE3UTNIVEMxcWZGdmVmaHkwbXhOMXlkVDNRa3BiSmVGV1gtR0pmUGNtNXdaa2NNeHo0TnVsMW1aY2U3NXpMRQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-09T03:43:00+00:00",
-      "published_raw": "Fri, 09 Oct 2026 03:43:00 GMT",
-      "snippet": "Inteligência Artificial reforça fiscalização no feriado de Nossa Senhora Aparecida - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-09T22:09:43.897546+00:00"
+      "collected_at": "2026-10-10T03:10:03.254893+00:00"
     },
     {
       "id": "1faab4453662b95dcba79cb9b48c3b3c550b0e99617ffc37eb7e112dc3c86dc0",
@@ -247,24 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-09T22:09:33.302846+00:00"
-    },
-    {
-      "id": "dba0879e375c5e7c54817c3b2aeb32c3ecc7ad06971e7c410672b29d8215c6a8",
-      "title": "Ecovias Noroeste troca pedágios por sistema Siga Fácil; entenda o que muda - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFI3UDE3YWkySHBLdXdtQkFVS0JtTHZNSFRhaVJ0NEctUjdhamZObGtkOGdUUU5GRGdxMmJyWTQyWUFRUmlyOENsb0FUY3RFQmt6VHZ3TW1EdU1vclItWjE3REFBMzBnZjRvSGlVTEwxbHB0YkxCaXBHRU9WajRHdXFNY3Ixa3I4NkMwdXlEeFJUeklSM2ZnSDhzVUdNNUtkelFBek9nVzlmMHZhWjRjd0NSTDlKenpX?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-08T22:58:00+00:00",
-      "published_raw": "Thu, 08 Oct 2026 22:58:00 GMT",
-      "snippet": "Ecovias Noroeste troca pedágios por sistema Siga Fácil; entenda o que muda Araraquara Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-09T22:09:32.682731+00:00"
+      "collected_at": "2026-10-10T03:10:03.790349+00:00"
     }
   ]
 }
