@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-11T11:45:11.385223+00:00",
+  "updated_at": "2026-10-11T11:59:46.270266+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "859625c858bee3338e880d0e19548051e34c0cc1fc75c003e576b1dcf7f6e9bf",
+      "title": "Câmeras com inteligência artificial reforçam fiscalização nas estradas - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPck1MOTFfR3dEc1FwTktBVU9POVd6ZU50RU5CZmVPVnRXZTVtOW1xaXNORUpvSjlUQndQdndBbFhFYzFhdTlKTlltZVRYRXFDQTFiMlJ2MGNyUTVMSHdPeW9ieHVwZEkxYmZGQnJXQVBoZEtVZUhBMlpFdDExZy1nTTZnUEFqS0kwZWVXT1FFbDFDTWJ1RFhRcmxoMFppZ29XZHh4NDN0Uko1eTFiYm1RWHRnaVg2blBBZDBfOGw3MzZSZ1BPS2lnWGNn?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T11:47:00+00:00",
+      "published_raw": "Sun, 11 Oct 2026 11:47:00 GMT",
+      "snippet": "Câmeras com inteligência artificial reforçam fiscalização nas estradas Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:59:29.702874+00:00"
+    },
+    {
       "id": "1ffcfe4ed49e380588e00f8a32bfc4dba92fabaf62e6f5a4650a66e9326e85fa",
       "title": "Governo de SP homologa 6 radares em rodovias estaduais; veja onde ficam - Estadão",
       "source": "Estadão",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:54.828129+00:00"
+      "collected_at": "2026-10-11T11:59:29.702970+00:00"
     },
     {
       "id": "d34201161ea92038b9119399c784d41ef720b471dd79970bc3a26d87f2eb6b9d",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:56.504276+00:00"
+      "collected_at": "2026-10-11T11:59:31.413338+00:00"
     },
     {
       "id": "3282ebab76d0df8f828157883e836acaed6a3aeb159012582d82da658d853058",
@@ -88,13 +105,13 @@
       "published": "2026-10-11T09:31:48+00:00",
       "published_raw": "Sun, 11 Oct 2026 09:31:48 GMT",
       "snippet": "Arteris alerta para panes veiculares e prevê 3,7 milhões de veículos no feriado prolongado Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:54.828477+00:00"
+      "collected_at": "2026-10-11T11:59:29.703337+00:00"
     },
     {
       "id": "e2c2df498f25add7e57d030410013dda937ca7f20a8c2b1e89f505e8a6ba6ff7",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:54.828325+00:00"
+      "collected_at": "2026-10-11T11:59:29.703145+00:00"
     },
     {
       "id": "fe95523c592348fb87af976024373ce87ec8d49746cbb4e29be49918a53efb30",
@@ -122,13 +139,13 @@
       "published": "2026-10-11T09:25:30+00:00",
       "published_raw": "Sun, 11 Oct 2026 09:25:30 GMT",
       "snippet": "Campinas republica licitação dos ônibus com disputa em dezembro Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:54.828398+00:00"
+      "collected_at": "2026-10-11T11:59:29.703255+00:00"
     },
     {
       "id": "abef35e5a0ac200064aba888af182e9274a4c063219dbad34d823e0ee8a7dacf",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:56.504139+00:00"
+      "collected_at": "2026-10-11T11:59:31.413061+00:00"
     },
     {
       "id": "4211d927543b025f1c79259077cf2001e7fc02d8f66bec8eededaf6ff0909419",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:56.504344+00:00"
+      "collected_at": "2026-10-11T11:59:31.413410+00:00"
     },
     {
       "id": "ba7ee1e330ff2a7bf72ba7410857d42a32f263e9211d64c3636b6ee2ccb4c58a",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:56.504485+00:00"
+      "collected_at": "2026-10-11T11:59:31.413480+00:00"
     },
     {
       "id": "ba65b33de575a880696e96d29ff1ee6b644f0530e8d536bfac6131dadda442aa",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:44:54.828245+00:00"
+      "collected_at": "2026-10-11T11:59:29.703071+00:00"
     }
   ]
 }
