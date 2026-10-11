@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-11T17:37:44.182333+00:00",
+  "updated_at": "2026-10-11T21:10:56.246143+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 10,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "c710c67e693e06e98961a7cd5776483900606a1a7bf58e4c5807a0203bb9bee5",
+      "title": "Rodovias do interior paulista devem receber 122 mil veículos no feriado de 12 de outubro - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUR4QjdFS0MySkU2dm1wZDI2bEpxalhfUjlBZ1FjUHJOMTlSNGdaeXdYVWpiaDFFemo5Y3liWHItNWFSbkZyWVdmMVlGZGN5SXlvUGw4MTdJd3lFN3lBUndFZDBFb0YxRXNxYmJMUTdjbDhQblA4S2lma05KVl9RbzI0SXZMNjhQdlpBQnRxQ292cjdGeE1IU1g2UlFkbHhFN2otbHZUOUVzOW1GdnVXVE01dlk1QkNxLTFrUGowRFdpc3owWnV1LXRuTmdEam_SAdQBQVVfeXFMTU5zMTYxV0FPRmY0U0xRZVVhdU9jTm1OMlVLMjFhM2xRVnB5cnlhSnVSYm9NWUtyM2RSTU1LbUhQRGk0amYyQ05JR21ld3c4Tjd2UjNYZktxQk9DVDBlTTVTdWtSX01fV0FnRV9yWWNMcF9wZUxyS3ViS08zc0d3RnpOR3Y5N3U0emd0ZFp0NTM4Zlp4TTJNSlRwNVBlbk1tQUtTU1VZODRUT1JRYWt1d0d1SktRY1JxbmFydnYwNFVubkR5YTBSREZhR0pLdmo1bVoxeDk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T19:04:17+00:00",
+      "published_raw": "Sun, 11 Oct 2026 19:04:17 GMT",
+      "snippet": "Rodovias do interior paulista devem receber 122 mil veículos no feriado de 12 de outubro Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" reajuste | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T21:10:38.701870+00:00"
+    },
+    {
       "id": "227b0fcbe935dd1926d11a5b74e33a0b2c33d79a553f7bc6b1fdf7e322a8a6c3",
       "title": "Motorista morre e três pessoas ficam feridas em grave acidente na Washington Luís em Uchoa - Gazeta do Interior",
       "source": "Gazeta do Interior",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417572+00:00"
+      "collected_at": "2026-10-11T21:10:38.702284+00:00"
     },
     {
       "id": "d4dc24903143f4840ba404c2e08c239b41b69d1648087b098aacb41df8f4c1b6",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:29.136796+00:00"
+      "collected_at": "2026-10-11T21:10:40.462694+00:00"
     },
     {
       "id": "859625c858bee3338e880d0e19548051e34c0cc1fc75c003e576b1dcf7f6e9bf",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417326+00:00"
+      "collected_at": "2026-10-11T21:10:38.702006+00:00"
     },
     {
       "id": "1ffcfe4ed49e380588e00f8a32bfc4dba92fabaf62e6f5a4650a66e9326e85fa",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417421+00:00"
+      "collected_at": "2026-10-11T21:10:38.702108+00:00"
     },
     {
       "id": "d34201161ea92038b9119399c784d41ef720b471dd79970bc3a26d87f2eb6b9d",
@@ -122,19 +139,19 @@
       "published": "2026-10-11T10:00:00+00:00",
       "published_raw": "Sun, 11 Oct 2026 10:00:00 GMT",
       "snippet": "Carreta tomba e atinge defensa metálica na Rodovia Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:39.263205+00:00"
+      "collected_at": "2026-10-11T21:10:40.462967+00:00"
     },
     {
       "id": "072f82d78cc763e9245f6c060b384effaef9145db367645372f84b7b8c1be5c4",
       "title": "Mais uma: carreta tomba na Washington Luís - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ualFVclFjSm5mekM2Tms1RTVfYk8zbHFWNi1KT2dodUM3X3IyT3JINmpfdkJwM202TTlfZkJZVnZ1cmNQOHF4MVZzUFlUX3VZenhNMi1rRWh0ckJnTDdBWW0wMzREdm4xbV9scXl4aTFvb2dUbUlQZ1FkbHVCUdIBgwFBVV95cUxNcVRfcmQzeWk0aVlJRWNzbnVtaF8xSXJhT0tvZXk5ZkI0VWFhMktlenNZNTVwTU5ac1dxVkpSUnBHUi1zNXZBWUFYQk4xTW8waHdlMkVkOUlpTm1pZWMycjVQMmpla0JSemhLdHFEdkZ2NHhwa085ZVhuNzFEelU5TFNEaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVRfcmQzeWk0aVlJRWNzbnVtaF8xSXJhT0tvZXk5ZkI0VWFhMktlenNZNTVwTU5ac1dxVkpSUnBHUi1zNXZBWUFYQk4xTW8waHdlMkVkOUlpTm1pZWMycjVQMmpla0JSemhLdHFEdkZ2NHhwa085ZVhuNzFEelU5TFNEa9IBgwFBVV95cUxNcVRfcmQzeWk0aVlJRWNzbnVtaF8xSXJhT0tvZXk5ZkI0VWFhMktlenNZNTVwTU5ac1dxVkpSUnBHUi1zNXZBWUFYQk4xTW8waHdlMkVkOUlpTm1pZWMycjVQMmpla0JSemhLdHFEdkZ2NHhwa085ZVhuNzFEelU5TFNEaw?oc=5",
       "resolved_link": "",
       "published": "2026-10-11T09:50:18+00:00",
       "published_raw": "Sun, 11 Oct 2026 09:50:18 GMT",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:29.136712+00:00"
+      "collected_at": "2026-10-11T21:10:40.462622+00:00"
     },
     {
       "id": "3282ebab76d0df8f828157883e836acaed6a3aeb159012582d82da658d853058",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417648+00:00"
+      "collected_at": "2026-10-11T21:10:38.702369+00:00"
     },
     {
       "id": "e2c2df498f25add7e57d030410013dda937ca7f20a8c2b1e89f505e8a6ba6ff7",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417496+00:00"
+      "collected_at": "2026-10-11T21:10:38.702201+00:00"
     },
     {
       "id": "fe95523c592348fb87af976024373ce87ec8d49746cbb4e29be49918a53efb30",
@@ -196,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T17:37:27.417716+00:00"
-    },
-    {
-      "id": "abef35e5a0ac200064aba888af182e9274a4c063219dbad34d823e0ee8a7dacf",
-      "title": "Carreta tomba no canteiro central da Washington Luís em São Carlos - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOVVZVZi1ZUWFvSFRIMjNnX0hlTVVkd25lTzFmd2hzM1ZiRndtV1Y3OVZBVUpidDZVbzNDYjc1TUE5V2diMjZ6WWF5dDRFanFLZ1NoTHR5QnJLUDAtTVZIREsxNHVOS1h1Q1ZJSFpjTFhtaUZYQUFfd2VJR3dDTk0xVi1JV0hCT1N0QmlxcV9TNV8yNTF6Z2xkbm9jbXl6ZTM4Wm1WQnl6WF9FRVBvMEVTZTlHSW9VOGJhZ0ZEZGtDeDVhaWJGaFV6elBNTWFWSi1DVXFIVGNTa3RyUEFuR0hPRVhlemcwZFJFTnJlRGZhMkhxbTY3UlhKbUJ2ZktaWXBmY0FOV3NiZkdhWGR2Y1phbWpFb2VfaGFKLTBiTUlMX0JENk1FMEFyd2xRVlNRUmJRc0JpR2Ezc1l5V1pUdVBkc1V0NFhrcjk2TWlxNnR1TmjSAdACQVVfeXFMTlVWVWYtWVFhb0hUSDIzZ19IZU1VZHduZU8xZndoczNWYkZ3bVdWNzlWQVVKYnQ2VW8zQ2I3NU1BOVdnYjI2ellheXQ0RWpxS2dTaEx0eUJyS1AwLU1WSERLMTR1TktYdUNWSUhaY0xYbWlGWEFBX3dlSUd3Q05NMVYtSVdIQk9TdEJpcXFfUzVfMjUxemdsZG5vY215emUzOFptVkJ5elhfRUVQbzBFU2U5R0lvVThiYWdGRGRrQ3g1YWliRmhVenpQTU1hVkotQ1VxSFRjU2t0clBBbkdIT0VYZXpnMGRSRU5yZURmYTJIcW02N1JYSm1CdmZLWllwZmNBTldzYmZHYVhkdmNaYW1qRW9lX2hhSi0wYk1JTF9CRDZNRTBBcndsUVZTUVJiUXNCaUdhM3NZeVdaVHVQZHNVdDRYa3I5Nk1pcTZ0dU5o?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-10T20:03:33+00:00",
-      "published_raw": "Sat, 10 Oct 2026 20:03:33 GMT",
-      "snippet": "Carreta tomba no canteiro central da Washington Luís em São Carlos - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-11T17:37:29.136893+00:00"
-    },
-    {
-      "id": "4211d927543b025f1c79259077cf2001e7fc02d8f66bec8eededaf6ff0909419",
-      "title": "Carreta tomba após ser fechada por caminhão na SP-310 - Grupo Rio Claro, São Paulo",
-      "source": "Grupo Rio Claro, São Paulo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVU5bmJ5X2dQLXgxNEVHXy1xU1FnVHV3OUZPTVo3UU5GV0p4UC1HQTJ5M1NPUS1IT09QRG12SG82MlM3ZFRYZkhJTVhvcWQ0ZjUwejVWcTFIQWdSNnJPRXBBWThicG9rRE1walp0Nm9CanBwbkduZGw3NmdBUTUwQW1XMlpvUlk1VWQ1NGxBSGZrVmdPMnJBTDB2WTdaSm0x?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-10T18:34:34+00:00",
-      "published_raw": "Sat, 10 Oct 2026 18:34:34 GMT",
-      "snippet": "Carreta tomba após ser fechada por caminhão na SP-310 Grupo Rio Claro, São Paulo",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-11T17:37:29.137190+00:00"
+      "collected_at": "2026-10-11T21:10:38.702441+00:00"
     }
   ]
 }
