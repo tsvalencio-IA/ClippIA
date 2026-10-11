@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-11T03:36:36.046233+00:00",
+  "updated_at": "2026-10-11T11:45:11.385223+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 9,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,91 @@
   ],
   "items": [
     {
+      "id": "1ffcfe4ed49e380588e00f8a32bfc4dba92fabaf62e6f5a4650a66e9326e85fa",
+      "title": "Governo de SP homologa 6 radares em rodovias estaduais; veja onde ficam - Estadão",
+      "source": "Estadão",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWVhBai0yMDVxZFNBamVsb0h6MnR6dDlGX2tjZVlVbGlVREZWdHl6X1NTMGthMFhhZ01fSnpDczFqaVNKMnNpRUhwZVpZVl9ISFcxeFJVMmhmRVFNS0tRWDV1cDNDMXJCMTBsOWNpeDFjanBfWG9mRWVMV3U5S3NGZzRndGVyU0E3emRkR3Fqak54S0g1bzZ2UXRfd3AwakNBdE9DQURGaUxlMFg4d0JZYmVfZjRSeHk0YkFVU19ZNy1BQlpXNWfSAcYBQVVfeXFMT1lYQWotMjA1cWRTQWplbG9IejJ0enQ5Rl9rY2VZVWxpVURGVnR5el9TUzBrYTBYYWdNX0p6Q3MxamlTSjJzaUVIcGVaWVZfSEhXMXhSVTJoZkVRTUtLUVg1dXAzQzFyQjEwbDljaXgxY2pwX1hvZkVlTFd1OUtzRmc0Z3RlclNBN3pkZEdxampOeEtINW82dlF0X3dwMGpDQXRPQ0FERmlMZTBYOHdCWWJlX2Y0Unh5NGJBVVNfWTctQUJaVzVn?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T10:00:00+00:00",
+      "published_raw": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "snippet": "Governo de SP homologa 6 radares em rodovias estaduais; veja onde ficam Estadão",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:44:54.828129+00:00"
+    },
+    {
+      "id": "d34201161ea92038b9119399c784d41ef720b471dd79970bc3a26d87f2eb6b9d",
+      "title": "Carreta tomba e atinge defensa metálica na Rodovia Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcERvOUVfWkh4NkxFMWQ4UTN1QmExb1FuOG0ya2ZhOXhDUWc4NW82akI3V256YTBnSGtKUUdTRXFJVzh6c0hIVUNwZzhWY0pJbXJZOWRLdzgzRW04dFNBbUMwalppaFMxaFRBLWNKWWtEVFcyRDdtcEhIVGtZOEIyOGliaThUSFBrRlFDMHR2MVQwWFRYZFl6SU45bmd3cFFQUVBrNjdvLWZtMmg5ZWZTeXV2UEF0MVUtVkhJV0VodFU?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T10:00:00+00:00",
+      "published_raw": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "snippet": "Carreta tomba e atinge defensa metálica na Rodovia Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:44:56.504276+00:00"
+    },
+    {
+      "id": "3282ebab76d0df8f828157883e836acaed6a3aeb159012582d82da658d853058",
+      "title": "Arteris alerta para panes veiculares e prevê 3,7 milhões de veículos no feriado prolongado - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnFaaFVnb04wNWNJTFFMS25jNUd4Y2NwODhUVlhJRC0yQkhQanR4NWZBX3ZpX08ycWg4bE5TTkREMWZpbFVmbXVDNWItRDlud1JCaG9Edkc0aXdOdFBfX1BIN1NXWHhGa0xwbDZiaE1Oa2xCOEROc3BEUGdmckcxR3g3b09YRHBucEwzUnl2LVg?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T09:31:48+00:00",
+      "published_raw": "Sun, 11 Oct 2026 09:31:48 GMT",
+      "snippet": "Arteris alerta para panes veiculares e prevê 3,7 milhões de veículos no feriado prolongado Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:44:54.828477+00:00"
+    },
+    {
+      "id": "e2c2df498f25add7e57d030410013dda937ca7f20a8c2b1e89f505e8a6ba6ff7",
+      "title": "Inteligência artificial reforça fiscalização no feriado - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkJDQnVxUmFMNmRIM3ZOZTlQUmt3eXAweUVkSVo4ZjFMWmFXSEM1cDhaU09kNFQ5U29GbmRvYUpiTlRobnMxd0RhRjJCSXRwcmdSQUlEWFZ1aEltcVlhRTh0aGlBN1ZiX0RHcGk4emY1OEV4YUIwY0tLMzhGcmwtN1ZXVmdxcjI2eV93RXcxSUY2d2FVcFhv?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T09:29:47+00:00",
+      "published_raw": "Sun, 11 Oct 2026 09:29:47 GMT",
+      "snippet": "Inteligência artificial reforça fiscalização no feriado Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:44:54.828325+00:00"
+    },
+    {
+      "id": "fe95523c592348fb87af976024373ce87ec8d49746cbb4e29be49918a53efb30",
+      "title": "Campinas republica licitação dos ônibus com disputa em dezembro - Mobilidade Sampa",
+      "source": "Mobilidade Sampa",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWFQWjRjb2NVN051eGZTWFNpNlZkemdEc21fSTJQYWt0akNwaWxQWk1nV0FBbnZBNVJmVDd2enpfSll0NnNfdlZYaXBQTFZfRDBNLWJtQm4tMkE3ZTlFSGlQbnB4RGhaRV81T19VRVhpMko3MTk1VVpScEZteFhnWFdvSDVJcHZBSWc?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T09:25:30+00:00",
+      "published_raw": "Sun, 11 Oct 2026 09:25:30 GMT",
+      "snippet": "Campinas republica licitação dos ônibus com disputa em dezembro Mobilidade Sampa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T11:44:54.828398+00:00"
+    },
+    {
       "id": "abef35e5a0ac200064aba888af182e9274a4c063219dbad34d823e0ee8a7dacf",
       "title": "Carreta tomba no canteiro central da Washington Luís em São Carlos - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
@@ -60,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T03:36:20.714799+00:00"
+      "collected_at": "2026-10-11T11:44:56.504139+00:00"
     },
     {
       "id": "4211d927543b025f1c79259077cf2001e7fc02d8f66bec8eededaf6ff0909419",
@@ -77,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T03:36:20.714842+00:00"
+      "collected_at": "2026-10-11T11:44:56.504344+00:00"
     },
     {
       "id": "ba7ee1e330ff2a7bf72ba7410857d42a32f263e9211d64c3636b6ee2ccb4c58a",
@@ -94,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T03:36:20.714879+00:00"
+      "collected_at": "2026-10-11T11:44:56.504485+00:00"
     },
     {
       "id": "ba65b33de575a880696e96d29ff1ee6b644f0530e8d536bfac6131dadda442aa",
@@ -111,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T03:36:19.017428+00:00"
+      "collected_at": "2026-10-11T11:44:54.828245+00:00"
     }
   ]
 }
