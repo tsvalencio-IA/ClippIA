@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-11T11:59:46.270266+00:00",
+  "updated_at": "2026-10-11T16:56:51.470972+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 11,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "227b0fcbe935dd1926d11a5b74e33a0b2c33d79a553f7bc6b1fdf7e322a8a6c3",
+      "title": "Motorista morre e três pessoas ficam feridas em grave acidente na Washington Luís em Uchoa - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ3lNbGdXUlRQNm5KOU9SVmI2Yi04N3JmOGdaQnVQRTFtZVJlTTFmcVdOaDdERGdtY2xmcHAwZ3BmVlpuTWxXUmlkLWxBNUdVOVBncXRzbG9Zc01uQ2prQ2h1UmwtNkhvNUNTOXJobTJiZVNGNkJWc0pGVWJHUG9oRDBtUmVqcGlnMElNQ1pnbnJhMDczU2xyYmRTQjIwcXBEbnVhN1RSdWR0Wkt5cEdvVE4wQzlyZzFobmhzVVBVMU5SVV8wUjB3?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T14:38:34+00:00",
+      "published_raw": "Sun, 11 Oct 2026 14:38:34 GMT",
+      "snippet": "Motorista morre e três pessoas ficam feridas em grave acidente na Washington Luís em Uchoa Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T16:56:34.497692+00:00"
+    },
+    {
+      "id": "d4dc24903143f4840ba404c2e08c239b41b69d1648087b098aacb41df8f4c1b6",
+      "title": "Motorista morre em colisão traseira na Washington Luís em Uchoa - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMzNrYl83Nm1DWk1UZ0FVNjA4UXB5elFzWDRnQUd0NzNWQ2JRN2R1czRONXNRaFpHYWM5TUdYcjJkd2Ftd0JwSXE1ZU5HdkZZcFl1djJiS1dhUW43Uy1fRFJaWmZpS3kxbXl3QUswdnE0NVVHTFpxUy1xaVo3aE9TQnFrcHpVYWVVdjI4dU12SnVkcy1lSlNCcVUxSU5fYXZYSHd0ODU0QVF6VTJN?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T14:01:00+00:00",
+      "published_raw": "Sun, 11 Oct 2026 14:01:00 GMT",
+      "snippet": "Motorista morre em colisão traseira na Washington Luís em Uchoa Dhoje Interior",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T16:56:36.216538+00:00"
+    },
+    {
       "id": "859625c858bee3338e880d0e19548051e34c0cc1fc75c003e576b1dcf7f6e9bf",
       "title": "Câmeras com inteligência artificial reforçam fiscalização nas estradas - Dhoje Interior",
       "source": "Dhoje Interior",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.702874+00:00"
+      "collected_at": "2026-10-11T16:56:34.497441+00:00"
     },
     {
       "id": "1ffcfe4ed49e380588e00f8a32bfc4dba92fabaf62e6f5a4650a66e9326e85fa",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.702970+00:00"
+      "collected_at": "2026-10-11T16:56:34.497535+00:00"
     },
     {
       "id": "d34201161ea92038b9119399c784d41ef720b471dd79970bc3a26d87f2eb6b9d",
@@ -88,13 +122,30 @@
       "published": "2026-10-11T10:00:00+00:00",
       "published_raw": "Sun, 11 Oct 2026 10:00:00 GMT",
       "snippet": "Carreta tomba e atinge defensa metálica na Rodovia Washington Luís São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-11T16:56:46.486814+00:00"
+    },
+    {
+      "id": "072f82d78cc763e9245f6c060b384effaef9145db367645372f84b7b8c1be5c4",
+      "title": "Mais uma: carreta tomba na Washington Luís - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ualFVclFjSm5mekM2Tms1RTVfYk8zbHFWNi1KT2dodUM3X3IyT3JINmpfdkJwM202TTlfZkJZVnZ1cmNQOHF4MVZzUFlUX3VZenhNMi1rRWh0ckJnTDdBWW0wMzREdm4xbV9scXl4aTFvb2dUbUlQZ1FkbHVCUdIBgwFBVV95cUxNcVRfcmQzeWk0aVlJRWNzbnVtaF8xSXJhT0tvZXk5ZkI0VWFhMktlenNZNTVwTU5ac1dxVkpSUnBHUi1zNXZBWUFYQk4xTW8waHdlMkVkOUlpTm1pZWMycjVQMmpla0JSemhLdHFEdkZ2NHhwa085ZVhuNzFEelU5TFNEaw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-11T09:50:18+00:00",
+      "published_raw": "Sun, 11 Oct 2026 09:50:18 GMT",
+      "snippet": "Mais uma: carreta tomba na Washington Luís - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:31.413338+00:00"
+      "collected_at": "2026-10-11T16:56:36.216452+00:00"
     },
     {
       "id": "3282ebab76d0df8f828157883e836acaed6a3aeb159012582d82da658d853058",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.703337+00:00"
+      "collected_at": "2026-10-11T16:56:34.497769+00:00"
     },
     {
       "id": "e2c2df498f25add7e57d030410013dda937ca7f20a8c2b1e89f505e8a6ba6ff7",
@@ -122,13 +173,13 @@
       "published": "2026-10-11T09:29:47+00:00",
       "published_raw": "Sun, 11 Oct 2026 09:29:47 GMT",
       "snippet": "Inteligência artificial reforça fiscalização no feriado Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.703145+00:00"
+      "collected_at": "2026-10-11T16:56:34.497615+00:00"
     },
     {
       "id": "fe95523c592348fb87af976024373ce87ec8d49746cbb4e29be49918a53efb30",
@@ -145,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.703255+00:00"
+      "collected_at": "2026-10-11T16:56:34.497837+00:00"
     },
     {
       "id": "abef35e5a0ac200064aba888af182e9274a4c063219dbad34d823e0ee8a7dacf",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:31.413061+00:00"
+      "collected_at": "2026-10-11T16:56:36.216638+00:00"
     },
     {
       "id": "4211d927543b025f1c79259077cf2001e7fc02d8f66bec8eededaf6ff0909419",
@@ -179,41 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-11T11:59:31.413410+00:00"
-    },
-    {
-      "id": "ba7ee1e330ff2a7bf72ba7410857d42a32f263e9211d64c3636b6ee2ccb4c58a",
-      "title": "Carreta tomba após ser fechada por caminhão na SP-310, em São Carlos - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODBrUDQtX1lfOEV4djE1RFVneE02UXRFX3NGVDVWYWM5ajBqeHQ4SUJPdTJ4eWdYdzByVE1ERmZyTVMycGVWVk13cURiT2JxME15MXJfNmR1TGFfaHlNSG01cmJiNzdrTDdUVnZLVXZJVUR1Z3RMd1NpdjZHdUpiXzNBNlZRWGtzdHBtb0JrS2diNDg1YXN5RVBzVHg5Qk9RZkN0blRRU2w3QVFnSjBZTTZCY0JyX1RnSnRYQW5PM2pDMlVwQ2c?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-10T15:52:00+00:00",
-      "published_raw": "Sat, 10 Oct 2026 15:52:00 GMT",
-      "snippet": "Carreta tomba após ser fechada por caminhão na SP-310, em São Carlos São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-11T11:59:31.413480+00:00"
-    },
-    {
-      "id": "ba65b33de575a880696e96d29ff1ee6b644f0530e8d536bfac6131dadda442aa",
-      "title": "Enquanto chuvas avançam pelo estado, regiões do interior têm alto risco de incêndios neste sábado (10) - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDVZaFU2RHcxaWtQTTlYTklxTDdsaUc3T3ZDdFpPMTJoUzVHem0yYXpSbkpxR0lZTHZ4dUtraEtVZTBoVlBRQW5Zb3JwTFBjTGZFVmNBY18xcmJmZE8wdFhiZERtUENWRldhb2FFSDdPU25KQzlMQXk4SmlZM0E5MVMyMlJ2cm83UE54UXZ0ZVBTVWloYVd1UWJFSWhyUm1nTDcyRlVIemo2c0JuZ1NUN0piZWxSR0RtME50T1dueEw5RVhGUmI2cmxFQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-10T13:41:38+00:00",
-      "published_raw": "Sat, 10 Oct 2026 13:41:38 GMT",
-      "snippet": "Enquanto chuvas avançam pelo estado, regiões do interior têm alto risco de incêndios neste sábado (10) Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-11T11:59:29.703071+00:00"
+      "collected_at": "2026-10-11T16:56:36.216899+00:00"
     }
   ]
 }
