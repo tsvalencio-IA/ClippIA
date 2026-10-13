@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T04:22:27.425625+00:00",
+  "updated_at": "2026-10-13T05:09:52.502543+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 11,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:22.329762+00:00"
+      "collected_at": "2026-10-13T05:09:47.792373+00:00"
     },
     {
       "id": "a5a191d47acc82cd671b68bdcef502c6b487ad806f94cd42fd7b17427eea2649",
@@ -77,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:10.739202+00:00"
+      "collected_at": "2026-10-13T05:09:35.830327+00:00"
     },
     {
-      "id": "d6aa13e254c0fa5f3cece9291f1169e24c66e787afbb7e36bfcf3a89ed342263",
-      "title": "Família de Colíder sofre acidente em SP; pai e filha morrem e jovem fica ferida - Primeira Página",
+      "id": "728f55dd1a24724b7571eb403ea56f0e6990eeed5ba978f4159bbabc4f2a0131",
+      "title": "Pai e filha de Colíder morrem em acidente entre carro e carreta em SP - Primeira Página",
       "source": "Primeira Página",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTgwUWNDZ1BqakF3dWMwXzdXLW1ZcTAwN0ZnWHFDNEdKc0RseW5GM0F0TjFYWERCd09Lam1va2tOc05ZV19wbXROZGZkbTdva2hVZV9qRjA1dGdnSzBnN2owNm1iRzQxUVJwWkRzYUJiRURfUGl3TGR4Z3Q4SGFZdEd5dUxORUw1VEowc2VxOUxKU1lUcXpWY1c3MjVWbUI4U05ON1VtX1BkdmFlYWlF?oc=5",
       "resolved_link": "",
       "published": "2026-10-12T22:25:43+00:00",
       "published_raw": "Mon, 12 Oct 2026 22:25:43 GMT",
-      "snippet": "Família de Colíder sofre acidente em SP; pai e filha morrem e jovem fica ferida Primeira Página",
+      "snippet": "Pai e filha de Colíder morrem em acidente entre carro e carreta em SP Primeira Página",
       "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:22.329693+00:00"
+      "collected_at": "2026-10-13T05:09:47.792279+00:00"
     },
     {
       "id": "6082aa32b629b90a1766697bf87bf43148f31dac060541cd6d9d2b5493214975",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:11.909691+00:00"
+      "collected_at": "2026-10-13T05:09:36.936082+00:00"
     },
     {
       "id": "c74cfc5cb8df62ab769c0e3da935aab070c2b7b1e563ce7a4ffdea1a1cc041bf",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:11.909613+00:00"
+      "collected_at": "2026-10-13T05:09:36.935980+00:00"
     },
     {
       "id": "e2c21e37d5ccca31ad98bebe41f09f1f1fa3fd2e6b7cc885b6b6c0fedffc96e5",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:11.909724+00:00"
+      "collected_at": "2026-10-13T05:09:36.936125+00:00"
     },
     {
       "id": "60da737270c6ddccf8d3716f9df3015125489069b79c42e4496906590676b8a1",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:10.160971+00:00"
+      "collected_at": "2026-10-13T05:09:35.305850+00:00"
     },
     {
       "id": "97c0b4ad1d4dab4d1914ea976a4d83b30d387475557f7ebbc69f582d3ab17ea9",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:10.161020+00:00"
+      "collected_at": "2026-10-13T05:09:35.305951+00:00"
     },
     {
       "id": "bd8663671e474c7a6bee67b50e3828a66c0a8a7c22e6b14b75e07398e32d9bea",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:10.160922+00:00"
+      "collected_at": "2026-10-13T05:09:35.305787+00:00"
     },
     {
       "id": "d0706ee684d7423fb975ee6990f5cd8c9a68aeb923ffc7459d97d8b214a2b9e3",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:10.161079+00:00"
+      "collected_at": "2026-10-13T05:09:35.306002+00:00"
     },
     {
       "id": "1eeec0a06e60d037b6eb681fdf4858e1183f4202bd3fc3a78c520b449c73f704",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-13T04:22:11.909541+00:00"
+      "collected_at": "2026-10-13T05:09:36.935846+00:00"
     }
   ]
 }
