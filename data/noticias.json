@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-14T14:17:09.543731+00:00",
+  "updated_at": "2026-10-14T19:01:11.117093+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 17,
+  "total": 16,
   "total_images": 0,
-  "new_items": 17,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "0d4be27cdf9ee82a9946bbb816b39357beadd676c80ee3b9a9c6018098b78924",
+      "title": "SP-310 terá simulado de acidente com ácido sulfúrico nesta quinta - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGtfTDdTc2VpS2ZWZFQ0NjktVmhUZW1GejhoRlZSTE9ZZ3dBSHZwNjBTamtPekZjbkJIblBsTlJHV3UwNWpMNkw2N0pwZDM0d2FrdmotcDd3ZzUydV9RbHp0bEhIVW5TTk55UEhSbVM1bnFxcm1sbV9IX25GTEJDQXkyOVUxMHJmbzhQdEZGcGp0aG1VbDVJNFpLMVplRzVHajJ4NXluWi10alk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T16:39:00+00:00",
+      "published_raw": "Wed, 14 Oct 2026 16:39:00 GMT",
+      "snippet": "SP-310 terá simulado de acidente com ácido sulfúrico nesta quinta Araraquara Agora",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T19:00:53.230431+00:00"
+    },
+    {
       "id": "4259d370018ebde95d773335d3629596779326882fd4ebde69d41119f2030699",
       "title": "Rodovias têm 11 mortes e 64 acidentes em feriado prolongado na região - Gazeta de Rio Preto",
       "source": "Gazeta de Rio Preto",
@@ -54,13 +71,13 @@
       "published": "2026-10-14T13:24:21+00:00",
       "published_raw": "Wed, 14 Oct 2026 13:24:21 GMT",
       "snippet": "Rodovias têm 11 mortes e 64 acidentes em feriado prolongado na região Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:17:04.188428+00:00"
+      "collected_at": "2026-10-14T19:00:53.230290+00:00"
     },
     {
       "id": "0a6ddf3c2e71d6ecd34b8733c6c4b1a05bf9d52ab7bffe68f0ecc09fd3c15127",
@@ -77,13 +94,81 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590836+00:00"
+      "collected_at": "2026-10-14T19:00:53.230231+00:00"
+    },
+    {
+      "id": "095dac5fd2a29e29bb2d1d1086298ff41bf5d55862e702ab84bbd97def99fd5b",
+      "title": "Acidente fatal na Washington Luís trava rodovia por três horas - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnRWdE1nY0FfdUt4bkZzSEY4bjBWV0dzY0w5X0UzZGdhcU1ZS3EtVGlWdklZblpGd0JsdU43b3JhOTFIQ0NQcjRDV0JVbk5YRHMxYTZmd1RpMWl1bWRORkJ5ak9tekpKbThNVzZkRXNqaG9oQW5icEF2Z1U2UDlJVEEyQ3Z4NTBxamk4MENqSEU?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T12:52:00+00:00",
+      "published_raw": "Wed, 14 Oct 2026 12:52:00 GMT",
+      "snippet": "Acidente fatal na Washington Luís trava rodovia por três horas Araraquara Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T19:00:55.076407+00:00"
+    },
+    {
+      "id": "08fb17c35de580233ae0325561b9b9a117ce8d8417568e5b0c55efda9ea1cd8a",
+      "title": "Motorista para ônibus na Anhanguera para fazer necessidades fisiológicas e moto bate na traseira - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0h2YXd4dm5XYVJ1V01VbTd6MnVMRzJOTk1FUlVxbnJCdmUzSmNIVTA1d29ZVGZtdXhVN2NjbU04RDBmQXBwcTJDSnE0dXBOaldlalJzb25JTXZjZTZJZXdPREo0dTIxT0Q0TEI0b0tkbGh4S2haUGhqRG9YQkJwVW1qNWx2TGZtMWVTSk00NHc5a2RhMWUwSlpyaGVYQkx1V0xIN0RYM3NNNnpQTVQyd1BuOS14OFd4Y1F3b3JMc3ZTSW00TjNHczJ3ZHJkSUEwcHVyN2FyZGo4NVRwNHZDTQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T11:50:00+00:00",
+      "published_raw": "Wed, 14 Oct 2026 11:50:00 GMT",
+      "snippet": "Motorista para ônibus na Anhanguera para fazer necessidades fisiológicas e moto bate na traseira ACidade ON",
+      "term": "\"Ecovias Noroeste\" ARTESP",
+      "category": "regulatório",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T19:01:06.984283+00:00"
+    },
+    {
+      "id": "06ba49363541912f0bcbc0ae6226f396735ff563d69cf57210870a14a54cc1eb",
+      "title": "Feriado prolongado termina com 11 mortes e 64 acidentes nas rodovias - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGt1SzNjUHlLTXJZaVhOdU1DY3FSTmlzZ1lWaTlXRWp6ZU9icTI3WVNjRXN4WFlhWXR5ZkNXeWc0ZHZtRmMtTllQeFhPLTFTVjZPMm5DWi0waWJ3N1VLRHQxZmNJYlFEVlhGbHNqRi1VeTVCWXpWRGxwQ0NKaUVIVl9sS1lDcXJuUlZCWDJxTlNEbnFyRFM1TU9ra21zN0plM2I4Tkk5bw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T11:48:00+00:00",
+      "published_raw": "Wed, 14 Oct 2026 11:48:00 GMT",
+      "snippet": "Feriado prolongado termina com 11 mortes e 64 acidentes nas rodovias Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T19:00:53.230335+00:00"
+    },
+    {
+      "id": "00a45569d3702d5b6b268cdfb7e9bdea97f3a74ee5b1c329bad165cdd94ea9db",
+      "title": "Obras na Washington Luís devem ser concluídas em 2028 - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQTZ4T3dDUXN5dWRiU1ZMc3A5Q25BUXA4Y3JZLTBJZWtCQ3FfaFdGdzB6V1gzdmZET1M0SUFUU3pZSFhPYVl0aEtybEFjcVc4dmdYNmN2eU5qSWRoeURkbS1xeHF3cXFDdk9VZDRwY3ZfeWROWTNvV3I1UEkxM2tyNnZ2akl1WTQ0bHdFOGoyLUl5Q2FXemcwUXRERmpmR2s?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T11:47:00+00:00",
+      "published_raw": "Wed, 14 Oct 2026 11:47:00 GMT",
+      "snippet": "Obras na Washington Luís devem ser concluídas em 2028 Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T19:00:53.230159+00:00"
     },
     {
       "id": "a55ef7c9f8e295bf4442d91053f6d19285d793718f161017871e706939a0baf4",
       "title": "Acidente fatal: carreta é atingida por árvore na Washington Luís - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxYUxtUFpCQm1oWGVyNHN1aHR2Q1BHQzA4dzlxV2g3bm1iUlpPdFBBQmNTU18zT1E1Y2NLeEEydUdVQThkYkpNZGZFYXdqekhtQzJTS2ZiYTV6MVhJQVJDZHQ2VmNnMTBBbHctaHlDUVpXdHZTS3JUTdIBfkFVX3lxTE9LLXBVSFNTanBPdV9ZZV8yTUdWYUlqMC00MVJnNzBDQTBoak5nVFBOclpudGJYOXZoeEtKck9aajlYZDUwd3Y2Y3J2OVNmajhtdHBYNEl2aC1nQk4yRmV0MXFFSlRSS2RoVHl4SHJhb0VKc0N5MDR6enNUYzFUQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxYUxtUFpCQm1oWGVyNHN1aHR2Q1BHQzA4dzlxV2g3bm1iUlpPdFBBQmNTU18zT1E1Y2NLeEEydUdVQThkYkpNZGZFYXdqekhtQzJTS2ZiYTV6MVhJQVJDZHQ2VmNnMTBBbHctaHlDUVpXdHZTS3JUTdIB2gJBVV95cUxQN2N2bzdJTHBLdHRNdlN1SGJzNTlGcjFuYnJ4ZmhDQmNfczF1SUxxdUEtVXhuMVhqdW5CNTZzN3AzTzVrMWRNcFg5cWpKTkxyMlVUWUZWZW5KdmE4ZWo2WWdNeFJzWU04UEM3cDFKYW5kU0xCcm1jTERHc3FmYmdBaTRmanlvSWk1aDBMbDdVV3NOaWdEaW9rMjQ0OXNELVFMdXM5MFREbXduTE4xY2RvQl9LVkNBQzZIRElCSlZyYUlkWDB4eEdjMnF0bm5oNGFNSnYtNVRwemJNUkRocVBlM2ZHMUx5QlVVUkdqUGxKVVZXT1BzeGJuaUpLQ05HNkMxX19nNXNYU0wyRWE2T0FCQ3J1QVZHS1RFZlc2UjVQNFRVVU1hWlBlVVhWRnI1TEFTQU1yYTBxeUc5emVsMldmbjQ4NkROM1dDcTdvV1R1M1pJc1R6T3BJQm1n?oc=5",
       "resolved_link": "",
       "published": "2026-10-14T10:25:40+00:00",
       "published_raw": "Wed, 14 Oct 2026 10:25:40 GMT",
@@ -94,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:17:04.188482+00:00"
+      "collected_at": "2026-10-14T19:01:05.776490+00:00"
     },
     {
       "id": "392f1b313691cf174e6940d13c649a5118854ea13c90cda65053b20e60a9c902",
@@ -111,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:17:04.188662+00:00"
+      "collected_at": "2026-10-14T19:01:05.776738+00:00"
     },
     {
       "id": "e026d47e305ee93ffde53f9b59d0b94dfdb12e1ffc7f52fc74889021074d5d75",
@@ -128,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590920+00:00"
+      "collected_at": "2026-10-14T19:00:53.230518+00:00"
     },
     {
       "id": "a39cf7273b0fe06e924fc6c0ae88d60c2614ac9684845beb5da802e52722fceb",
@@ -145,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.591002+00:00"
+      "collected_at": "2026-10-14T19:00:53.230570+00:00"
     },
     {
       "id": "9adb7a5f4399539589569d5b625bb3f015345d77a08103c27d39750717f2f388",
@@ -162,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:53.456896+00:00"
+      "collected_at": "2026-10-14T19:00:55.076457+00:00"
     },
     {
       "id": "af17bc33b6462792f65356e0676cb695364812474c35c89690abee095a158177",
@@ -173,13 +258,13 @@
       "published": "2026-10-13T22:20:52+00:00",
       "published_raw": "Tue, 13 Oct 2026 22:20:52 GMT",
       "snippet": "Acidente entre carreta e carro deixa uma pessoa morta em rodovia da região ACidade ON",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:17:04.188527+00:00"
+      "collected_at": "2026-10-14T19:01:05.776545+00:00"
     },
     {
       "id": "2dd9c0a38c4ebcc701d4558200a011bb9b1c7bbacb1e1bb3cc0636da3697432e",
@@ -196,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:17:04.771727+00:00"
+      "collected_at": "2026-10-14T19:01:06.404627+00:00"
     },
     {
       "id": "3d564137e7ab617466b5fcfc48b3f67b7d998327679da810ff0e79a2bdb6bd5e",
@@ -213,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590878+00:00"
+      "collected_at": "2026-10-14T19:00:53.230386+00:00"
     },
     {
       "id": "71f6c5ce0704970ee9eaa7a98585201ee5f00721b4aded8b1c23c809ae44b96e",
@@ -230,109 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T14:16:52.198457+00:00"
-    },
-    {
-      "id": "9f3ab6d32f6622e964fbb7816ce61513748d6bb5aa0b425a56454522d76e1adf",
-      "title": "Obras retomam na Washington Luís entre Cedral, Rio Preto e Mirassol após feriado - Portal da Cidade - Mirassol / SP",
-      "source": "Portal da Cidade - Mirassol / SP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXdoYTBFSXg5SHBobFgzZ0dlVWFUWWpiTEhvQ0Q3a3dyUlFjQTFUOHNuN1ZJM1lYNmNDTHJXY0J0cVJqM2RfbzQ1T2Y5ZHVOTXJnNFpFbGVONlEyNWJYYlowTHlvTlJRTUk5UkUwR0hMcHBlRHAxRzgxb2RBR1BGakhfVmNTQ1F6QlU0eEhJMnBzZS1fOGZiZVZlaFdVOFUtekZsZnBWakF6eHoxZjhQWnI0X1h0VzRRSjIwdWZfNWlaOTByUVFHcDFrSWxCR0hfa2c?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T18:47:00+00:00",
-      "published_raw": "Tue, 13 Oct 2026 18:47:00 GMT",
-      "snippet": "Obras retomam na Washington Luís entre Cedral, Rio Preto e Mirassol após feriado Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:17:02.906601+00:00"
-    },
-    {
-      "id": "f82e3964f1040115a92be84f71e77528a1d8a1f5c9d18291b00f55de177c8fda",
-      "title": "Governo de São Paulo declara área de 11,2 mil m² para obras de descanso de caminhoneiros na Washington Luís, em Araraquara - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZUVucmlZcHhNYjBBVGkyNlpxUmNzY2hiRWt5RFktd01BdkRQMHlsaVpMQU54ODdhNHhnT3lOenNRWFRfbUhYb05kbFBOby1BX21DOWcxVjh5QXBCS3FfTVQydEExSmk4eWpXWWlYM1NncnMyTE9mRkNKTWVhQUR3UmVxVGtxOTV6Z0xuOXNYT2lZUFVLUDI3Xy1PSVZzZC1HUzZjWkp6dllTTXZpNWxIRHEtMml0WlZUSTZqZ1RpWExpY1h4OUZaQjhDTkJleXlVM1VuaDRhTnl0VjhwYlg1VFozcWh3V2pJQXpZWHVOSmlmN3pkWm9OYlFNelBCcWpRaFB5OEN30gGGAkFVX3lxTE9lRW5yaVlweE1iMEFUaTI2WnFSY3NjaGJFa3lEWS13TUF2RFAweWxpWkxBTng4N2E0eGdPeU56c1FYVF9tSFhvTmRsUE5vLUFfbUM5ZzFWOHlBcEJLcV9NVDJ0QTFKaTh5aldZaVgzU2dyczJMT2ZGQ0pNZWFBRHdSZXFUa3E5NXpnTG45c1hPaVlQVUtQMjdfLU9JVnNkLUdTNmNaSnp2WVNNdmk1bEhEcS0yaXRaVlRJNmpnVGlYTGljWHg5RlpCOENOQmV5eVUzVW5oNGFOeXRWOHBiWDVUWjNxaHdXaklBellYdU5KaWY3emRab05iUU16UEJxalFoUHk4Q3c?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T18:30:52+00:00",
-      "published_raw": "Tue, 13 Oct 2026 18:30:52 GMT",
-      "snippet": "Governo de São Paulo declara área de 11,2 mil m² para obras de descanso de caminhoneiros na Washington Luís, em Araraquara Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590692+00:00"
-    },
-    {
-      "id": "7fdffca294148e77bae90b0ee7e4749844716e0537f377c61acb93048f8ac172",
-      "title": "Motociclista morre atropelado por caminhão durante ultrapassagem na Washington Luís - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX25vSk4wUmpUWjI1Y3VWS0prU3JFOE50eVV1ZE1KRlVBNG5ZcFdOckhwZjhQZ0ZCajA1cnRmMmhITGtXNW1MV19QWHVWUHJlRndBSlpVMXhWeC1QT0tpcDNMWjNmVWNua2F3OUEwZU9EYTJUVjBNSF91R2RENnVlT2hodGoweHowWjIxVzFjejROX3JmeXRNR1UxNlF6aUpXVnJlR2ZCLWdFNERTSDJzUVZoeklCR2F5bFIzYmxEOGVGVTlKa3hwZjBCRTI1cWRaTXVBVlpoRHYzZF9jNGJXVVFEVC1kdw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T18:07:20+00:00",
-      "published_raw": "Tue, 13 Oct 2026 18:07:20 GMT",
-      "snippet": "Motociclista morre atropelado por caminhão durante ultrapassagem na Washington Luís Diário da Região",
-      "term": "\"Ecovias Noroeste\" ARTESP",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:17:05.389683+00:00"
-    },
-    {
-      "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - OExtra.net",
-      "source": "OExtra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaG05T1h3ZExFdjE2Q1dtNEhMYlUxUHhzSWo5U1hTMkxZaEtJUHk2c0RlMllXUTJCV0h0ZEstSzE5WjZDTlkxTDlBNmdCUWZQTmpTdnU4VFJGamV2S0JBSTlfaEQwcTNGVzJfYXNIcHczYk1EOXpXelV1WGRZXzRsdEZJcGVaSGZTYzc0VGlDZW0xWUI2?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T17:01:40+00:00",
-      "published_raw": "Tue, 13 Oct 2026 17:01:40 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590748+00:00"
-    },
-    {
-      "id": "bb61361ef6f5ddd4207fecf15e303756f9778a76cceecf6897e9d20859301195",
-      "title": "Motociclista morre após cair na pista e ser atropelado por carreta - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3BPVXVseGpGU085SFpvU3cxTFNFeGstZEtBczFOOEw2T20xNm5Va19XeFdxazlqODc3eTd4N0lvNUFnUmJmcFc1Z2ZvWFdnb1lVZkdyeVV5YkZEcWRTRlhEUTdwRVQ4M2RGV1dwbVhTSHFRQ0xNeV9VQUo2UkRiU2dBZEFIVHYtbWxiSHZnSEk4d1F3RGM0WlBmc3BVaFdLc3Rwd2hvcmJmQWs?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T15:51:00+00:00",
-      "published_raw": "Tue, 13 Oct 2026 15:51:00 GMT",
-      "snippet": "Motociclista morre após cair na pista e ser atropelado por carreta Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590793+00:00"
-    },
-    {
-      "id": "e9053f0a002826dbd7c550d8ceb2b8477addabee68a82913835efd185e9a9f7d",
-      "title": "Motociclista morre após cair e ser atropelado por carreta na Washington Luís, em Catanduva - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGtEMVg2MFg1Y3dOZW55Mi0xcjhmemF2cnJqa1BlMklZQm1YTEhWRjdNZWMzWDFwcGp3aWJzaERDY3NnLWtoQmdpRzR6dmZudU95TGJxU0V6dzcwd1hmX3V2Y1BEbkRwc1pIODZ2VE9CZm9GNXR2SDJBczN0Mk5MQnZ5TGRnLXptMjRLdXlFRld3VU9sWkk0allOMDljTnZ2TDFpWktKZzJUMXEzUDZhWWxQSzhFX2hGWmM4OFBxMERfSzRPeGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T15:29:45+00:00",
-      "published_raw": "Tue, 13 Oct 2026 15:29:45 GMT",
-      "snippet": "Motociclista morre após cair e ser atropelado por carreta na Washington Luís, em Catanduva Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T14:16:51.590962+00:00"
+      "collected_at": "2026-10-14T19:00:53.833427+00:00"
     }
   ]
 }
