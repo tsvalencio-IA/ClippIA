@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-14T08:07:44.854581+00:00",
+  "updated_at": "2026-10-14T08:19:32.196371+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 21,
+  "total": 22,
   "total_images": 0,
-  "new_items": 21,
+  "new_items": 22,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
+      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
+      "source": "Investidor10",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-14T07:18:43+00:00",
+      "published_raw": "Wed, 14 Oct 2026 07:18:43 GMT",
+      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T08:19:28.705772+00:00"
+    },
+    {
       "id": "1902f775eee0fb000c06bb0ac7aeb43b855e4f50893d9d159dd493da84fc609e",
       "title": "Acidente com vítima fatal na rodovia Washington Luís em Taquaritinga - Mobilidade Sampa",
       "source": "Mobilidade Sampa",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482564+00:00"
+      "collected_at": "2026-10-14T08:19:14.680000+00:00"
     },
     {
       "id": "a39cf7273b0fe06e924fc6c0ae88d60c2614ac9684845beb5da802e52722fceb",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:42.146150+00:00"
+      "collected_at": "2026-10-14T08:19:29.369726+00:00"
     },
     {
       "id": "9adb7a5f4399539589569d5b625bb3f015345d77a08103c27d39750717f2f388",
@@ -94,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:39.972281+00:00"
-    },
-    {
-      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
-      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T23:35:27+00:00",
-      "published_raw": "Tue, 13 Oct 2026 23:35:27 GMT",
-      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T08:07:41.603227+00:00"
+      "collected_at": "2026-10-14T08:19:26.911744+00:00"
     },
     {
       "id": "af17bc33b6462792f65356e0676cb695364812474c35c89690abee095a158177",
@@ -122,13 +122,13 @@
       "published": "2026-10-13T22:20:52+00:00",
       "published_raw": "Tue, 13 Oct 2026 22:20:52 GMT",
       "snippet": "Acidente entre carreta e carro deixa uma pessoa morta em rodovia da região ACidade ON",
-      "term": "\"Ecovias Noroeste\" ARTESP",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:41.064406+00:00"
+      "collected_at": "2026-10-14T08:19:26.911528+00:00"
     },
     {
       "id": "2dd9c0a38c4ebcc701d4558200a011bb9b1c7bbacb1e1bb3cc0636da3697432e",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:40.506578+00:00"
+      "collected_at": "2026-10-14T08:19:27.495155+00:00"
     },
     {
       "id": "3d564137e7ab617466b5fcfc48b3f67b7d998327679da810ff0e79a2bdb6bd5e",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482494+00:00"
+      "collected_at": "2026-10-14T08:19:14.679966+00:00"
     },
     {
       "id": "71f6c5ce0704970ee9eaa7a98585201ee5f00721b4aded8b1c23c809ae44b96e",
@@ -170,8 +170,8 @@
       "source": "Grupo Rio Claro, São Paulo",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0ozWVZfbVJYYVhNYWJPd3VhWEFxQWJVQ0NZRlAxVkExcmJtTU1DRUVWQm92WVRoRktwa2pta1BkZmVoS0VTaUIzN0d4SjQ2UnBXMFgzZ3VyRlJUTTJDT3BLVmQxZFJCNnJlcHU3dENqZjVMZGUyY3JzZkpieWpWZE5FemhEeXR4eWM4WGE4cE1WN2JNZmdnc2FOeTdBREhUUGRBMFVDVTVKaUs2R1I3VVFzR2dwUGs?oc=5",
       "resolved_link": "",
-      "published": "2026-10-13T19:16:57+00:00",
-      "published_raw": "Tue, 13 Oct 2026 19:16:57 GMT",
+      "published": "2026-10-13T19:19:40+00:00",
+      "published_raw": "Tue, 13 Oct 2026 19:19:40 GMT",
       "snippet": "Dois ocupantes de carro ficam feridos após acidente na Washington Luís Grupo Rio Claro, São Paulo",
       "term": "\"EcoNoroeste\" | \"Econoroeste\"",
       "category": "acidente/risco",
@@ -179,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:29.033128+00:00"
-    },
-    {
-      "id": "4554c5cfa1fd06e9122fa73c22dcf4fc49c8a701cf932ad18e5b106c141148ee",
-      "title": "Motociclista morre atropelado na Rodovia Washington Luís após colidir na lateral de caminhão - RCIA Araraquara",
-      "source": "RCIA Araraquara",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXJ6VlY1ZnlLc2FMMHlFdzdtNVB3LTRCR0c3ZXpQS2x0NzR0akItanpqNW1Cc2twdS1BUTRnMkNscnQ1U2F2TTNSaUplT3RrWFZMbUU1MHNXSlJ3S1JrXzJyX0FLR2FQajExSXJ5TldreDBoQlZaWW9vS2R0c1B5UlNHRUUxNzNoLTA2aWh1VG1lbWhMZHZSOTRqcnVidVI0V3FSM0RrMm9wUW90cmdoNmREb2lZS0E5aVkxdm54WdIBvwFBVV95cUxPcXJ6VlY1ZnlLc2FMMHlFdzdtNVB3LTRCR0c3ZXpQS2x0NzR0akItanpqNW1Cc2twdS1BUTRnMkNscnQ1U2F2TTNSaUplT3RrWFZMbUU1MHNXSlJ3S1JrXzJyX0FLR2FQajExSXJ5TldreDBoQlZaWW9vS2R0c1B5UlNHRUUxNzNoLTA2aWh1VG1lbWhMZHZSOTRqcnVidVI0V3FSM0RrMm9wUW90cmdoNmREb2lZS0E5aVkxdm54WQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-13T18:57:46+00:00",
-      "published_raw": "Tue, 13 Oct 2026 18:57:46 GMT",
-      "snippet": "Motociclista morre atropelado na Rodovia Washington Luís após colidir na lateral de caminhão RCIA Araraquara",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482415+00:00"
+      "collected_at": "2026-10-14T08:19:15.241630+00:00"
     },
     {
       "id": "9f3ab6d32f6622e964fbb7816ce61513748d6bb5aa0b425a56454522d76e1adf",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:38.899182+00:00"
+      "collected_at": "2026-10-14T08:19:25.710851+00:00"
     },
     {
       "id": "f82e3964f1040115a92be84f71e77528a1d8a1f5c9d18291b00f55de177c8fda",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482072+00:00"
+      "collected_at": "2026-10-14T08:19:14.679796+00:00"
     },
     {
       "id": "7fdffca294148e77bae90b0ee7e4749844716e0537f377c61acb93048f8ac172",
@@ -247,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:41.064491+00:00"
+      "collected_at": "2026-10-14T08:19:28.098655+00:00"
     },
     {
       "id": "11aa8a6f5b5578f5e196781b08dfd9f5f7ea155729bfcd2bdd3f49ad8c47ae49",
@@ -264,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482168+00:00"
+      "collected_at": "2026-10-14T08:19:14.679847+00:00"
     },
     {
       "id": "bb61361ef6f5ddd4207fecf15e303756f9778a76cceecf6897e9d20859301195",
@@ -281,7 +264,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482251+00:00"
+      "collected_at": "2026-10-14T08:19:14.679888+00:00"
+    },
+    {
+      "id": "e9053f0a002826dbd7c550d8ceb2b8477addabee68a82913835efd185e9a9f7d",
+      "title": "Motociclista morre após cair e ser atropelado por carreta na Washington Luís, em Catanduva - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGtEMVg2MFg1Y3dOZW55Mi0xcjhmemF2cnJqa1BlMklZQm1YTEhWRjdNZWMzWDFwcGp3aWJzaERDY3NnLWtoQmdpRzR6dmZudU95TGJxU0V6dzcwd1hmX3V2Y1BEbkRwc1pIODZ2VE9CZm9GNXR2SDJBczN0Mk5MQnZ5TGRnLXptMjRLdXlFRld3VU9sWkk0allOMDljTnZ2TDFpWktKZzJUMXEzUDZhWWxQSzhFX2hGWmM4OFBxMERfSzRPeGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-13T15:29:45+00:00",
+      "published_raw": "Tue, 13 Oct 2026 15:29:45 GMT",
+      "snippet": "Motociclista morre após cair e ser atropelado por carreta na Washington Luís, em Catanduva Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T08:19:14.680037+00:00"
+    },
+    {
+      "id": "573ca897d3d05492847deae6cfbe9baef713b63ee2c1c9c7c0b3d20a334c54e8",
+      "title": "TRAGÉDIA|: Pai e filha de Colíder morrem após carro bater contra carreta em Rodovia de SP - Leia MT",
+      "source": "Leia MT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHVhcGUzaFNvWlg5RU0xY2xEeXo3NVB2STBtR282R3ZUMWM1VFh0a2pWUzFnaXFnQnprRk5xd1phV005UHhtNm9GaHR0WXczaHYyVlNOZEphMUZVaTVodUZMREZ3Y2xrYWdMS1dyRXV4bGRPUTFwRTV3Q1VPRTQwM1FBU3M4dTREQV9QaGdiOFdrUmx5Sm5OQUVVb3dqbHcyWjJTblhtVkhxSzRockpZ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-13T13:51:34+00:00",
+      "published_raw": "Tue, 13 Oct 2026 13:51:34 GMT",
+      "snippet": "TRAGÉDIA|: Pai e filha de Colíder morrem após carro bater contra carreta em Rodovia de SP Leia MT",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-14T08:19:29.369688+00:00"
     },
     {
       "id": "e3e1fcbcc07e28c0c0c992cb479be6ce9933297aae4fe32e5792de83dfea48dd",
@@ -298,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:39.972144+00:00"
+      "collected_at": "2026-10-14T08:19:26.911675+00:00"
     },
     {
       "id": "15276374dfefe69ad957b2df92af484823428676bb9be1b869670d8d847e4b68",
@@ -315,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:28.482331+00:00"
+      "collected_at": "2026-10-14T08:19:14.679925+00:00"
     },
     {
       "id": "d0e723f29305dc3b255b663feaf68bddf73882301162972cafed122cee8391a6",
@@ -332,7 +349,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:30.160525+00:00"
+      "collected_at": "2026-10-14T08:19:16.419870+00:00"
     },
     {
       "id": "72aae63a117afa4495505eb991373fa33ba7d085add557298c77d1f81de4a7a3",
@@ -343,13 +360,13 @@
       "published": "2026-10-13T11:10:00+00:00",
       "published_raw": "Tue, 13 Oct 2026 11:10:00 GMT",
       "snippet": "Moradores de Colniza, pai e filha morrem em acidente entre dois veículos em SP Gazeta Digital",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:39.971773+00:00"
+      "collected_at": "2026-10-14T08:19:16.419762+00:00"
     },
     {
       "id": "b70dc56b3b9d6ca2f271c770f4d0eb98e963eb3cbd6d38a59b842f8266363467",
@@ -366,7 +383,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:39.972001+00:00"
+      "collected_at": "2026-10-14T08:19:26.911605+00:00"
     },
     {
       "id": "654ea4d35ed6f01e6829e9e86b716fb5f145145baa23367b48b8d8c599905c4c",
@@ -383,7 +400,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:30.160593+00:00"
+      "collected_at": "2026-10-14T08:19:16.419905+00:00"
     },
     {
       "id": "6be7d4691c88ffb7eb91e79b19dc641dc568a8989cec1029ce73a266b4b2eab4",
@@ -400,7 +417,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T08:07:42.145702+00:00"
+      "collected_at": "2026-10-14T08:19:29.369537+00:00"
     }
   ]
 }
