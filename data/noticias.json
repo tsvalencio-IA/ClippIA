@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-14T23:31:27.428612+00:00",
+  "updated_at": "2026-10-14T23:36:39.242488+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 12,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-10-14T20:30:00+00:00",
       "published_raw": "Wed, 14 Oct 2026 20:30:00 GMT",
       "snippet": "Rodovia Washington Luís receberá simulado de acidente A Comarca — Matão/SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817425+00:00"
+      "collected_at": "2026-10-14T23:36:22.591440+00:00"
     },
     {
       "id": "0d4be27cdf9ee82a9946bbb816b39357beadd676c80ee3b9a9c6018098b78924",
@@ -77,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817649+00:00"
-    },
-    {
-      "id": "ef6cfbf53494ef451b68088d37d37ea5300faa501f93525ea195ae2adc18b76a",
-      "title": "SP-310 receberá simulado de acidente com produto perigoso e múltiplas vítimas - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTFIMGxTOG1ZeDF5cngtV0NYLVBsLUx4ZFBhbEJFdzNVeVJYZ2lwdzNYRllpMVpnQ0xGZ0drR2xPX3RJckliU1dBSnZFRDZNcW5HUHdXQ3VaSlFyempxQUdkZkwxd19yNHAwRWI2bU5VUXVBMUNWRl8yeWxqVy1Lelhwc3psYjVYQlhjcGQ5a1JZTmJfMDczWERNNUd5OG1taUdpUjNHb3F6MFR3RWRiOFVoc09lQmVwVmc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-14T16:27:09+00:00",
-      "published_raw": "Wed, 14 Oct 2026 16:27:09 GMT",
-      "snippet": "SP-310 receberá simulado de acidente com produto perigoso e múltiplas vítimas Portal SCDN - Porque a informação não para!",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-14T23:31:24.646232+00:00"
+      "collected_at": "2026-10-14T23:36:22.591778+00:00"
     },
     {
       "id": "4259d370018ebde95d773335d3629596779326882fd4ebde69d41119f2030699",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817555+00:00"
+      "collected_at": "2026-10-14T23:36:22.591635+00:00"
     },
     {
       "id": "095dac5fd2a29e29bb2d1d1086298ff41bf5d55862e702ab84bbd97def99fd5b",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:11.607955+00:00"
+      "collected_at": "2026-10-14T23:36:24.279258+00:00"
     },
     {
       "id": "08fb17c35de580233ae0325561b9b9a117ce8d8417568e5b0c55efda9ea1cd8a",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:23.350474+00:00"
+      "collected_at": "2026-10-14T23:36:35.439215+00:00"
     },
     {
       "id": "06ba49363541912f0bcbc0ae6226f396735ff563d69cf57210870a14a54cc1eb",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817601+00:00"
+      "collected_at": "2026-10-14T23:36:22.591705+00:00"
     },
     {
       "id": "00a45569d3702d5b6b268cdfb7e9bdea97f3a74ee5b1c329bad165cdd94ea9db",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817498+00:00"
+      "collected_at": "2026-10-14T23:36:22.591544+00:00"
     },
     {
       "id": "a55ef7c9f8e295bf4442d91053f6d19285d793718f161017871e706939a0baf4",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:22.154575+00:00"
+      "collected_at": "2026-10-14T23:36:34.299650+00:00"
     },
     {
       "id": "392f1b313691cf174e6940d13c649a5118854ea13c90cda65053b20e60a9c902",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:24.646465+00:00"
+      "collected_at": "2026-10-14T23:36:36.586379+00:00"
     },
     {
       "id": "e026d47e305ee93ffde53f9b59d0b94dfdb12e1ffc7f52fc74889021074d5d75",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817700+00:00"
+      "collected_at": "2026-10-14T23:36:22.591857+00:00"
     },
     {
       "id": "a39cf7273b0fe06e924fc6c0ae88d60c2614ac9684845beb5da802e52722fceb",
@@ -247,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:09.817752+00:00"
+      "collected_at": "2026-10-14T23:36:22.591937+00:00"
     },
     {
       "id": "9adb7a5f4399539589569d5b625bb3f015345d77a08103c27d39750717f2f388",
@@ -264,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-14T23:31:11.608009+00:00"
+      "collected_at": "2026-10-14T23:36:24.279334+00:00"
     }
   ]
 }
