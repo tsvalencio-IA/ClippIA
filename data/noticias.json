@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-15T02:13:23.096523+00:00",
+  "updated_at": "2026-10-15T02:54:42.107495+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 8,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252504+00:00"
+      "collected_at": "2026-10-15T02:54:25.252281+00:00"
     },
     {
       "id": "0d4be27cdf9ee82a9946bbb816b39357beadd676c80ee3b9a9c6018098b78924",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252692+00:00"
+      "collected_at": "2026-10-15T02:54:25.252532+00:00"
     },
     {
       "id": "4259d370018ebde95d773335d3629596779326882fd4ebde69d41119f2030699",
@@ -88,13 +88,13 @@
       "published": "2026-10-14T13:43:20+00:00",
       "published_raw": "Wed, 14 Oct 2026 13:43:20 GMT",
       "snippet": "Rodovias têm 11 mortes e 64 acidentes em feriado prolongado na região Gazeta de Rio Preto",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252648+00:00"
+      "collected_at": "2026-10-15T02:54:25.252462+00:00"
     },
     {
       "id": "095dac5fd2a29e29bb2d1d1086298ff41bf5d55862e702ab84bbd97def99fd5b",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:06.971058+00:00"
+      "collected_at": "2026-10-15T02:54:26.951837+00:00"
     },
     {
       "id": "00a45569d3702d5b6b268cdfb7e9bdea97f3a74ee5b1c329bad165cdd94ea9db",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252567+00:00"
+      "collected_at": "2026-10-15T02:54:25.252380+00:00"
     },
     {
       "id": "a55ef7c9f8e295bf4442d91053f6d19285d793718f161017871e706939a0baf4",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:06.970939+00:00"
+      "collected_at": "2026-10-15T02:54:26.951638+00:00"
     },
     {
       "id": "392f1b313691cf174e6940d13c649a5118854ea13c90cda65053b20e60a9c902",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:17.751991+00:00"
+      "collected_at": "2026-10-15T02:54:37.126830+00:00"
     },
     {
       "id": "e026d47e305ee93ffde53f9b59d0b94dfdb12e1ffc7f52fc74889021074d5d75",
@@ -179,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252737+00:00"
-    },
-    {
-      "id": "a39cf7273b0fe06e924fc6c0ae88d60c2614ac9684845beb5da802e52722fceb",
-      "title": "Motociclista morre após ser atropelado por carreta na Rodovia Washington Luís (SP-310) em Catanduva - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc1F2Qng3czE4ZWxBUEFuRHI2VHhBaTM3UzRfNG5ib1pNS1Ffb3dIQUhXRnR6X0xOczNfem5KUE5OYnQ0TmxUNmJMdWxkOC0zN0pRQXhJejZFd1QzR2swMnNONERBcXhLWnllUGM5VHlVZ3A1MnBSRFBlcElxaEFoQVByZzNDNDBsM29aSllkbDI0dw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-14T02:35:18+00:00",
-      "published_raw": "Wed, 14 Oct 2026 02:35:18 GMT",
-      "snippet": "Motociclista morre após ser atropelado por carreta na Rodovia Washington Luís (SP-310) em Catanduva Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-15T02:13:05.252783+00:00"
+      "collected_at": "2026-10-15T02:54:25.252603+00:00"
     }
   ]
 }
