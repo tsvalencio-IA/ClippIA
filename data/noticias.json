@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T13:52:14.133449+00:00",
+  "updated_at": "2026-10-15T18:45:10.664124+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "753d8079dcf002d8f4c90dafd902d02b97a371a4eb1dbcfb6daba5410741bae5",
+      "title": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar… - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFB0YTJrX2FMZkZ0b19ianlJcllQdmVfZXpucHd0MEZ4ZDExRWd1RU5lM0tiZ3pRUkhUNnR4d0xxLV9GQjV2YTZXcGVwWkQxWm16SHNFSlpYSXVvSm1CblR1NGMxZGxLbEltUE9mcGRJbldpdFR5T0VPbzJJczRWcHkwVUhLcWdtRlVvUmF1dzQtd3BnY3BEMGMxM3lDTmI0V0RTYk9wOTd2X0REOVFSRllSLWhESWFDNjRuQnFSLTVFUDBBamVNSw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-15T11:00:42+00:00",
+      "published_raw": "Thu, 15 Oct 2026 11:00:42 GMT",
+      "snippet": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar… Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-15T18:44:54.997122+00:00"
+    },
+    {
       "id": "521bb905fea31e6f522bc0ca229b86fd5a1ae9a5dba41f66ce7086ccaa1459ad",
       "title": "Rodovia Washington Luís receberá simulado de acidente - A Comarca — Matão/SP",
       "source": "A Comarca — Matão/SP",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T13:51:57.229309+00:00"
-    },
-    {
-      "id": "0d4be27cdf9ee82a9946bbb816b39357beadd676c80ee3b9a9c6018098b78924",
-      "title": "SP-310 terá simulado de acidente com ácido sulfúrico nesta quinta - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGtfTDdTc2VpS2ZWZFQ0NjktVmhUZW1GejhoRlZSTE9ZZ3dBSHZwNjBTamtPekZjbkJIblBsTlJHV3UwNWpMNkw2N0pwZDM0d2FrdmotcDd3ZzUydV9RbHp0bEhIVW5TTk55UEhSbVM1bnFxcm1sbV9IX25GTEJDQXkyOVUxMHJmbzhQdEZGcGp0aG1VbDVJNFpLMVplRzVHajJ4NXluWi10alk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-14T16:39:00+00:00",
-      "published_raw": "Wed, 14 Oct 2026 16:39:00 GMT",
-      "snippet": "SP-310 terá simulado de acidente com ácido sulfúrico nesta quinta Araraquara Agora",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-15T13:51:57.229406+00:00"
+      "collected_at": "2026-10-15T18:44:53.214811+00:00"
     }
   ]
 }
