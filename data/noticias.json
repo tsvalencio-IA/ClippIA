@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-15T23:31:14.296928+00:00",
+  "updated_at": "2026-10-16T02:04:25.607919+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-15T23:30:59.278596+00:00"
-    },
-    {
-      "id": "d8d80a7621eb7a2f4f68ccf5f17d9b58ea0c8fa78fa83cdfcd3fc6415007bbac",
-      "title": "Trecho da SP-310, em Matão, receberá simulado de acidente com produto perigoso e múltiplas vítimas nesta quinta-feira (15) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTl4RUtYeHBBMFdEMXlib19pOUYwNjExUk1OZUtrYzg4TDAtblJoTEFQY0xfdGNNenBlREhITVdHeXpibmVfenpEWUpIX3lSRTlELXVQclNzZzV6cU5lZjZ5OGh0YnIwSmE2TFNnUWtuWmE1UTV1Q2V6TXh5eHV3M2JpbnhTQmxrZzFQdWNjazVaZDNGM1RwVkdJMzFoSktOdDJEaVZPOVp5YWZtbXVjeEF4ZXdYYU5nUWw1X3BZXzNzUE5DRkxJbDhXV2RLcmtWOEF2cGJvbnptN2ZtMUdzYVNxTGNZSG5TTTV2NWZRcVNrU1ZacXBJ0gH8AUFVX3lxTE9RLVJ5YU42ektTQ0o3NllrTHhRc01oWnFxeU9kbXZQdHVNOHhyRXFIeFNjeXpfVXRZaTdZV2JzbnVMclRRV0RqOXlYZEN1M3FOUW85ejFmMWg1ZnNQeW00RTJXbE1ieEpQLUl1Z195bjVnSnpMclMxMFVPQlZCNC1HU05FY1RUZ1dyVDJ5SW56LW0wZzNXaUJla1hCRFlha0NsNGt6eXZYQnNrNlVUa203RjhFbk55X2hfdHBEVzl2M1J5X2FRS1pFSUlfTkZnUXZoLXh2NXptTHJ6RVFZMDVrbXZNOEstUmZOY3RSeDJ3U25NczEzSVhrTk1Vdg?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-15T01:23:55+00:00",
-      "published_raw": "Thu, 15 Oct 2026 01:23:55 GMT",
-      "snippet": "Trecho da SP-310, em Matão, receberá simulado de acidente com produto perigoso e múltiplas vítimas nesta quinta-feira (15) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-15T23:30:57.567992+00:00"
+      "collected_at": "2026-10-16T02:04:09.327444+00:00"
     }
   ]
 }
