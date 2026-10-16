@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-16T13:42:23.804424+00:00",
+  "updated_at": "2026-10-16T18:30:36.225734+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
+      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
+      "source": "Investidor10",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-16T12:43:19+00:00",
+      "published_raw": "Fri, 16 Oct 2026 12:43:19 GMT",
+      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-16T18:30:32.767512+00:00"
+    },
+    {
       "id": "b6bdfec87f042286aa0400da19aeec18eae2bb4479283b4912344ce895ab8e81",
       "title": "Batida entre carretas em rodovia espalha cargas de laranja e óleo vegetal - ACidade ON",
       "source": "ACidade ON",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T13:42:08.518741+00:00"
+      "collected_at": "2026-10-16T18:30:20.050348+00:00"
     },
     {
-      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
-      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
+      "id": "06c355c6d1b68a0e97383e23b7ce0c3b04d1bbb8dd38d187664b5512ccffccf0",
+      "title": "Ação conjunta da PM e Bombeiros resgata mulher de torre de energia em Descalvado - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0pSV2d6Z19TcTVtOGhNNEdoU0EyWVFOV1psa0NFM1o1LXpBb040Vk9hQlc5azJGODFWZFJ1cmJKMHViN09oVEdhRG5UY1VES1FqUjNNYTItSFRNU1JwMDN3czUybkdzTWpuMnRkRW5mdEdZXzVPRlp0QVFkcmtoMGppTW1yQ2ZmcDJseGRxcjQ0LW4zc2xiUnFLQ181Rmx1TEdTUHpMbGl1ckpIQ1YyQjZmZHRhTGNONXZF?oc=5",
       "resolved_link": "",
-      "published": "2026-10-16T11:21:06+00:00",
-      "published_raw": "Fri, 16 Oct 2026 11:21:06 GMT",
-      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "published": "2026-10-16T11:18:55+00:00",
+      "published_raw": "Fri, 16 Oct 2026 11:18:55 GMT",
+      "snippet": "Ação conjunta da PM e Bombeiros resgata mulher de torre de energia em Descalvado Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T13:42:20.598702+00:00"
+      "collected_at": "2026-10-16T18:30:20.050309+00:00"
     },
     {
       "id": "9c49456210896943e8f52540a8453011959aaddf022e51075b5acf1b1c8011dd",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T13:42:06.846682+00:00"
+      "collected_at": "2026-10-16T18:30:18.213483+00:00"
     }
   ]
 }
