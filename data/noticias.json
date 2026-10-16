@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-16T02:04:25.607919+00:00",
+  "updated_at": "2026-10-16T02:52:31.972231+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "9c49456210896943e8f52540a8453011959aaddf022e51075b5acf1b1c8011dd",
+      "title": "Ecovias Noroeste Paulista substitui três praças físicas pelo Siga Fácil, com descontos a partir de 5 - Cartão de Visita News",
+      "source": "Cartão de Visita News",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWJvdm9ZTEZLZ2wtM25HQ29JY2ZjamZrV3FHMGhWVEJUUU9IYWdzaDNYbnVHRFdpQk4zMFdzZzJTdTJmRVE5RHctUlJOaFl6TVFKZWxHbk1GVHVxaXVLTDhNX2htVllBM0plWUhBS0w0dndWOENHU2I3ZUV2MlBoT0RuSV9SZ3BCbE8yY0tuSWJ6QnJSRDJuMjlIVTktSVJTdE9lTjhGN3pxZGUtLU1DdVlpM1BoTVlaXzQ3c2hvNTBwc01IbXVhbkdSbmp0UHV6clZoMjN2ODF6MExX?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-16T02:40:01+00:00",
+      "published_raw": "Fri, 16 Oct 2026 02:40:01 GMT",
+      "snippet": "Ecovias Noroeste Paulista substitui três praças físicas pelo Siga Fácil, com descontos a partir de 5 Cartão de Visita News",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-16T02:52:16.302869+00:00"
+    },
+    {
       "id": "753d8079dcf002d8f4c90dafd902d02b97a371a4eb1dbcfb6daba5410741bae5",
       "title": "Defesa Civil de São Paulo alerta para chuva intensa nesta quinta-feira (15), com acumulados que podem chegar… - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T02:04:09.327444+00:00"
+      "collected_at": "2026-10-16T02:52:17.910802+00:00"
     }
   ]
 }
