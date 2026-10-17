@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T19:48:03.677553+00:00",
+  "updated_at": "2026-10-17T20:00:23.136805+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,24 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-17T19:47:47.348203+00:00"
-    },
-    {
-      "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
-      "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
-      "source": "Investidor10",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-17T10:58:40+00:00",
-      "published_raw": "Sat, 17 Oct 2026 10:58:40 GMT",
-      "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-17T19:48:00.664708+00:00"
+      "collected_at": "2026-10-17T20:00:07.553137+00:00"
     }
   ]
 }
