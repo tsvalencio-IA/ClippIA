@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T12:39:15.456536+00:00",
+  "updated_at": "2026-10-17T17:35:37.639978+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "3b3dd20d0fbf9176aa99dddf2f1681ea9788070ddeb2885ec6751f0a874ed68f",
+      "title": "Caminhoneiros terão nova área de descanso na Rodovia Washington Luís em SP - Brasil do Trecho",
+      "source": "Brasil do Trecho",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUm82YkxReVhGNTBmbmNoVWJTZENoaGJnay1xQXNkajN5anFqNW0wWVpnRXZjaDJocmJpS1hZZU5YS0lsSkhZcVJidlppcFJENGJqMDdnRFRnbFN2NWFkTzNLWFNtWTBXa3d4TEZJSUdRYnE1cERtTExLT1J5UzRfT19DX1M?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-17T11:26:55+00:00",
+      "published_raw": "Sat, 17 Oct 2026 11:26:55 GMT",
+      "snippet": "Caminhoneiros terão nova área de descanso na Rodovia Washington Luís em SP Brasil do Trecho",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-17T17:35:20.196977+00:00"
+    },
+    {
       "id": "bfd11f3ab6b2c11bef5a18a2c79752a8f20afc165d125a48a75e187106aaeb1c",
       "title": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores - Investidor10",
       "source": "Investidor10",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-17T12:39:12.429405+00:00"
+      "collected_at": "2026-10-17T17:35:34.310349+00:00"
     }
   ]
 }
