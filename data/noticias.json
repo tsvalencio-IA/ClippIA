@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:13:13.015882+00:00",
+  "updated_at": "2026-10-17T01:58:41.167145+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
@@ -51,8 +51,8 @@
       "source": "Investidor10",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BRjF5bUVrNkhMSHpnUjI3dW55dkZad1ppR2tIVHZ2aU9PYVNNeHlhcWVpeXZoTEdUODV4Q1JWcllLSERtOXA2ZEYyclQwSjRJdkE?oc=5",
       "resolved_link": "",
-      "published": "2026-10-16T12:43:19+00:00",
-      "published_raw": "Fri, 16 Oct 2026 12:43:19 GMT",
+      "published": "2026-10-16T23:19:16+00:00",
+      "published_raw": "Fri, 16 Oct 2026 23:19:16 GMT",
       "snippet": "ECOR3 - Ecorodovias - Resultados, Dividendos, Cotação e Indicadores Investidor10",
       "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T23:13:10.013472+00:00"
+      "collected_at": "2026-10-17T01:58:37.939703+00:00"
     },
     {
       "id": "b6bdfec87f042286aa0400da19aeec18eae2bb4479283b4912344ce895ab8e81",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T23:12:59.041541+00:00"
+      "collected_at": "2026-10-17T01:58:26.224013+00:00"
     },
     {
       "id": "06c355c6d1b68a0e97383e23b7ce0c3b04d1bbb8dd38d187664b5512ccffccf0",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T23:12:59.041457+00:00"
+      "collected_at": "2026-10-17T01:58:26.223962+00:00"
     },
     {
       "id": "9c49456210896943e8f52540a8453011959aaddf022e51075b5acf1b1c8011dd",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-16T23:12:57.529039+00:00"
+      "collected_at": "2026-10-17T01:58:24.534458+00:00"
     }
   ]
 }
