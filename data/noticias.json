@@ -1,11 +1,132 @@
 {
-  "updated_at": "2026-10-18T02:45:06.056719+00:00",
+  "updated_at": "2026-10-18T07:33:42.235409+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Econoroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reclamação",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" tarifa",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" reajuste",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" acidente",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" trânsito",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" ARTESP",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,40 +165,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "6df181c6dd352ae6ec884ac2b8a16cbc7aafaa8d3ccbde80051fb7c105c5833c",
-      "title": "Vítima de acidente administrava escritório de contabilidade - Folha de Dourados - Notícias de Dourados-MS e - Folha de Dourados",
-      "source": "Folha de Dourados",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFE4YTFiN01sUUVLV1JQWU5wQjQ2SVJTQXFUaFNQaVZ1bTBneFhJWUkxdWZTQktobERORndHV3ktdDZvbHR0eTVYbFFkLTR2dF9BY1lxUWU4MmhxRF9IOG16dkQ4Y3Nkby1ESGFCWXFjdnVIdjJObzFVenVTQkJ3Y184N01pWVZxV1pMRlV5RV8zNmNWdWZBdmVOcU1EcEhJ0gGgAUFVX3lxTFBwUThhMWI3TWxRRUtXUlBZTnBCNDZJUlNBcVRoU1BpVnVtMGd4WElZSTF1ZlNCS2hsRE5Gd0dXeS10Nm9sdHR5NVhsUWQtNHZ0X0FjWXFRZTgyaHFEX0g4bXp2RDhjc2RvLURIYUJZcWN2dUh2Mk5vMVV6dVNCQndjXzg3TWlZVnFXWkxGVXlFXzM2Y1Z1ZkF2ZU5xTURwSEk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-17T20:26:00+00:00",
-      "published_raw": "Sat, 17 Oct 2026 20:26:00 GMT",
-      "snippet": "Vítima de acidente administrava escritório de contabilidade - Folha de Dourados - Notícias de Dourados-MS e Folha de Dourados",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-18T02:44:51.736874+00:00"
-    },
-    {
-      "id": "3b3dd20d0fbf9176aa99dddf2f1681ea9788070ddeb2885ec6751f0a874ed68f",
-      "title": "Caminhoneiros terão nova área de descanso na Rodovia Washington Luís em SP - Brasil do Trecho",
-      "source": "Brasil do Trecho",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUm82YkxReVhGNTBmbmNoVWJTZENoaGJnay1xQXNkajN5anFqNW0wWVpnRXZjaDJocmJpS1hZZU5YS0lsSkhZcVJidlppcFJENGJqMDdnRFRnbFN2NWFkTzNLWFNtWTBXa3d4TEZJSUdRYnE1cERtTExLT1J5UzRfT19DX1M?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-17T11:26:55+00:00",
-      "published_raw": "Sat, 17 Oct 2026 11:26:55 GMT",
-      "snippet": "Caminhoneiros terão nova área de descanso na Rodovia Washington Luís em SP Brasil do Trecho",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-18T02:44:50.107659+00:00"
-    }
-  ]
+  "items": []
 }
