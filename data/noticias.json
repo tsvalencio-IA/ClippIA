@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T22:49:45.602376+00:00",
+  "updated_at": "2026-10-18T01:57:36.322081+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "6df181c6dd352ae6ec884ac2b8a16cbc7aafaa8d3ccbde80051fb7c105c5833c",
+      "title": "Vítima de acidente administrava escritório de contabilidade - Folha de Dourados - Notícias de Dourados-MS e - Folha de Dourados",
+      "source": "Folha de Dourados",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFE4YTFiN01sUUVLV1JQWU5wQjQ2SVJTQXFUaFNQaVZ1bTBneFhJWUkxdWZTQktobERORndHV3ktdDZvbHR0eTVYbFFkLTR2dF9BY1lxUWU4MmhxRF9IOG16dkQ4Y3Nkby1ESGFCWXFjdnVIdjJObzFVenVTQkJ3Y184N01pWVZxV1pMRlV5RV8zNmNWdWZBdmVOcU1EcEhJ0gGgAUFVX3lxTFBwUThhMWI3TWxRRUtXUlBZTnBCNDZJUlNBcVRoU1BpVnVtMGd4WElZSTF1ZlNCS2hsRE5Gd0dXeS10Nm9sdHR5NVhsUWQtNHZ0X0FjWXFRZTgyaHFEX0g4bXp2RDhjc2RvLURIYUJZcWN2dUh2Mk5vMVV6dVNCQndjXzg3TWlZVnFXWkxGVXlFXzM2Y1Z1ZkF2ZU5xTURwSEk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-17T20:26:00+00:00",
+      "published_raw": "Sat, 17 Oct 2026 20:26:00 GMT",
+      "snippet": "Vítima de acidente administrava escritório de contabilidade - Folha de Dourados - Notícias de Dourados-MS e Folha de Dourados",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-18T01:57:21.460711+00:00"
+    },
+    {
       "id": "3b3dd20d0fbf9176aa99dddf2f1681ea9788070ddeb2885ec6751f0a874ed68f",
       "title": "Caminhoneiros terão nova área de descanso na Rodovia Washington Luís em SP - Brasil do Trecho",
       "source": "Brasil do Trecho",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-17T22:49:28.582788+00:00"
+      "collected_at": "2026-10-18T01:57:19.874253+00:00"
     }
   ]
 }
