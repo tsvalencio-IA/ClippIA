@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T08:36:57.617180+00:00",
+  "updated_at": "2026-10-19T15:59:09.827171+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 3,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,5 +44,57 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "707594a79a043798137eb324ded9e749c55e0401e841700db353996623f6f347",
+      "title": "Obras na Washington Luís seguem em ritmo intenso entre Mirassol e Rio Preto - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcDI3bDZkNWRKOWZPQUVmalFjNU9nbS1JQ25OMEV5LUFITG82UEtESElrb090NU9nZFZwVDd0R1E4NGlNTDVZWW1hTFQxaS1ncElLYzc5UGpvWGFJdWJsa3BsWENhR3RXS1hpbTNJN1hmTlBJNWJwazl2Nk93eThyc2NmcW1rMDhHMy14NlYwekVnZ1RIWmJJclYwemt3UVNMZ0N0TnpIWk5Xc09uYlVMTW04SThJd1gycUtGNUJOZ3RJZnZGckgwNkxiZFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-19T14:43:00+00:00",
+      "published_raw": "Mon, 19 Oct 2026 14:43:00 GMT",
+      "snippet": "Obras na Washington Luís seguem em ritmo intenso entre Mirassol e Rio Preto Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-19T15:58:53.753346+00:00"
+    },
+    {
+      "id": "bad893e25c37d539479c8d8dba73b8f1c662f29153c1bf49b5ae09bcc80764b6",
+      "title": "Washington Luís terá obras e interdições em São Carlos durante toda a semana; veja os trechos afetados - São - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWEtNXFjSlIycGlIbnlhYUFGSDctVDFzRjBuMFl6OXIyMzFJT29YU09ha0tzSktFWHFUaTVieXByVDFfcURnWlhHc3J0SlpvY2cxMlZ0QWRyRUxfNmFqYnRQWlRTMDRfTXMyX2dvR3RROExQNVE2YlBNaFRtRmJJdV93ZUTSAYoBQVVfeXFMTVVBSGg3b2ttdktNNFVGTE5lU1ZHRDgzTG1WejVBbmlqQ3Vzd1Zxb2YyRGJyYW03b1hoa0NXZWIzMFRpVTdPVnNSV05feHZiRnl2My01NEM4b19ma1VNeThzbUNfNldxTG9BTDZ1OUYxNjk0WGotb1hUWlBWZTJQYzZnMTd1SzhaeXNR?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-19T14:33:01+00:00",
+      "published_raw": "Mon, 19 Oct 2026 14:33:01 GMT",
+      "snippet": "Washington Luís terá obras e interdições em São Carlos durante toda a semana; veja os trechos afetados - São São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-19T15:58:53.753294+00:00"
+    },
+    {
+      "id": "f491aa20935f0dd3d9d63c79264c57eadcd43f985d4f3f89f10d1789858dfb41",
+      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 19/10 a 25/10/2026 - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY25jTjNjSkZHcXZNUnpNVHpqRHJFbHcxeklQNGRaMVZwUzJ6QXozenNtTVNNalFUWkNUZG5rR2dVV0tnNzM3MGFObmlidFl3dmNLOWxYbWszTFFtVWlrUEV4Wk1xT2dfeFJ5STkwRnMzb1MyRzk3NjhHTEpFOUgwNXJhQWVUUEpaS2l2eTEzMUliTDhwNW41WEhYWkVYbFFDbG5keU5TUWg5VThIMzVNcm81UTZ1Zw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-19T14:01:14+00:00",
+      "published_raw": "Mon, 19 Oct 2026 14:01:14 GMT",
+      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 19/10 a 25/10/2026 Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-19T15:58:53.753230+00:00"
+    }
+  ]
 }
