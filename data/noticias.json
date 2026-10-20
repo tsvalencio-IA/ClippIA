@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-20T21:10:18.236586+00:00",
+  "updated_at": "2026-10-20T23:31:08.638110+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 7,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "49c517c16ca623d6b04a7f2173e46c0a90a14d69d42abda675446e501fd50456",
+      "title": "São Carlos recebe capacitação regional para inserção do Implanon com previsão de atender 54 mulheres - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pFdF9IQnEzR1FpRUVRUVJnNGQzWnp4M2hITWtZZlNzWjVrOTJGNk9sT3F5Qm1qaExXVXBuU2R3X3MwaWZucFZ5T3c0Z1RTVVdHT19vWUNaWmQ0azlCTzBfWFl5X1NRcFN6bHhXSl9KMXhKWnFnMy05ck4zRGFDTng4NFp3QUhZYmZ5Q2M1TTVfdDdUemdid0wtQ3FtZW9CMm1aT2tJRkVrVlp0RG0wSVJRelluX2hIMGZkUURiSTlTRVpZVTNyTWdUc3VDdTTSAc8BQVVfeXFMTWtqRXRfSEJxM0dRaUVFUVFSZzRkM1p6eDNoSE1rWWZTc1o1azkyRjZPbE9xeUJtamhMV1VwblNkd19zMGlmbnBWeU93NGdUU1VXR09fb1lDWlpkNGs5Qk8wX1hZeV9TUXBTemx4V0pfSjF4SlpxZzMtOXJOM0RhQ054ODRad0FIWWJmeUNjNU01X3Q3VHpnYndMLUNxbWVvQjJtWk9rSUZFa1ZadERtMElSUXpZbl9oSDBmZFFEYkk5U0VaWVUzck1nVHN1Q3U0?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-20T20:29:32+00:00",
+      "published_raw": "Tue, 20 Oct 2026 20:29:32 GMT",
+      "snippet": "São Carlos recebe capacitação regional para inserção do Implanon com previsão de atender 54 mulheres - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-20T23:30:51.631945+00:00"
+    },
+    {
       "id": "1775f0d52a0faeae460a182dc76067564df297bbf01db83afdc76c59cbb0a4e6",
       "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (24) - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:00.941048+00:00"
+      "collected_at": "2026-10-20T23:30:51.631628+00:00"
     },
     {
-      "id": "3c649a504cf47ed25a0469e9d56de2f5f898136d59242e20037bfab7db3057b4",
-      "title": "Ecovias promove o “Dia D” do “Afaste-se” - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGZmeHU4Tmx0RVU2TXpLZER0cHBhZ2JhMXc2akFTRmIzT0c3ck1fQkJRYUtob19HVGZkeWdNWHV5NTJkSy1pbzR1MWZpSHdrRzdhRFlEdXVkUmNsR1JBekVoZDE0NExFdXhNbW5RXy1xZ24yWURZYXF6ZGRTc0dOX0x2OXY?oc=5",
+      "id": "687331feccb458a39270d344a23de4070f520ac894996b3d1512f0030f16ad7a",
+      "title": "Ecovias Noroeste Paulista promove o “Dia D” do movimento “Afaste-se” na Rodovia Washington Luís - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmM1T0xEMkludmNVMVF5SHJiQk5oZ1RXc0Y0UWR1OWphVldNbnFXTHdhNkZuS0k2eThmcGNRTV9PbTZvUmhlTGZocHVFMF9CSEotbmtxd0dndVBZaXltd1lJTGVVWnUtU2ZrQkZiNGp5QnROYkVNMnlaeHdkSXd1YWRYMUxEeDlrVUxtYnBnRVhLdkZxVTNUNGhNX3l4d3B1MmdsYmRyNXJCRG5vMG9TOFpWTzJfUHJhZXFiS1E2QjR2dE5penNWejdCNTU?oc=5",
       "resolved_link": "",
-      "published": "2026-10-20T13:41:21+00:00",
-      "published_raw": "Tue, 20 Oct 2026 13:41:21 GMT",
-      "snippet": "Ecovias promove o “Dia D” do “Afaste-se” Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-10-20T17:58:14+00:00",
+      "published_raw": "Tue, 20 Oct 2026 17:58:14 GMT",
+      "snippet": "Ecovias Noroeste Paulista promove o “Dia D” do movimento “Afaste-se” na Rodovia Washington Luís Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:00.941115+00:00"
+      "collected_at": "2026-10-20T23:30:51.631770+00:00"
     },
     {
       "id": "1652cc1c3f8aaefbf97eb6b60e5b68a8f40a40a1213a9302a537ffda9b5050b6",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:00.941163+00:00"
+      "collected_at": "2026-10-20T23:30:51.631859+00:00"
     },
     {
       "id": "8d482c55ba6e65c753e2ea91a6bf6e50b2a5dc99c8ed5f8656622bf4280d48a2",
@@ -105,13 +122,13 @@
       "published": "2026-10-20T12:24:55+00:00",
       "published_raw": "Tue, 20 Oct 2026 12:24:55 GMT",
       "snippet": "Obras de novo viaduto na SP 310 alteram acesso a Cordeirópolis Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:02.688061+00:00"
+      "collected_at": "2026-10-20T23:31:02.437471+00:00"
     },
     {
       "id": "4977a95864f0e5326fe7a298e9b240b93ab236dfaf19d8c6305832d9af5ff053",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:00.941209+00:00"
+      "collected_at": "2026-10-20T23:30:51.632029+00:00"
     },
     {
       "id": "3782829a1bcb232e3aafaebc3479c8d8bff64fa099688472a845a67e800709c2",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T21:10:00.941256+00:00"
+      "collected_at": "2026-10-20T23:30:51.632118+00:00"
     }
   ]
 }
