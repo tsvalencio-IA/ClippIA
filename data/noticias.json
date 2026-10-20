@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-20T18:48:35.008555+00:00",
+  "updated_at": "2026-10-20T21:10:18.236586+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 6,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-10-20T18:04:32+00:00",
       "published_raw": "Tue, 20 Oct 2026 18:04:32 GMT",
       "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (24) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485002+00:00"
+      "collected_at": "2026-10-20T21:10:00.941048+00:00"
     },
     {
       "id": "3c649a504cf47ed25a0469e9d56de2f5f898136d59242e20037bfab7db3057b4",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485187+00:00"
+      "collected_at": "2026-10-20T21:10:00.941115+00:00"
     },
     {
       "id": "1652cc1c3f8aaefbf97eb6b60e5b68a8f40a40a1213a9302a537ffda9b5050b6",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485352+00:00"
+      "collected_at": "2026-10-20T21:10:00.941163+00:00"
     },
     {
       "id": "8d482c55ba6e65c753e2ea91a6bf6e50b2a5dc99c8ed5f8656622bf4280d48a2",
@@ -105,13 +105,13 @@
       "published": "2026-10-20T12:24:55+00:00",
       "published_raw": "Tue, 20 Oct 2026 12:24:55 GMT",
       "snippet": "Obras de novo viaduto na SP 310 alteram acesso a Cordeirópolis Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:28.898516+00:00"
+      "collected_at": "2026-10-20T21:10:02.688061+00:00"
     },
     {
       "id": "4977a95864f0e5326fe7a298e9b240b93ab236dfaf19d8c6305832d9af5ff053",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485520+00:00"
+      "collected_at": "2026-10-20T21:10:00.941209+00:00"
     },
     {
       "id": "3782829a1bcb232e3aafaebc3479c8d8bff64fa099688472a845a67e800709c2",
@@ -145,58 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.486053+00:00"
-    },
-    {
-      "id": "f08dc4856cee240b584300adcab5e25765c116ca49e99bc94668b307c4ec5347",
-      "title": "Rodovias Washington Luís e Brigadeiro Faria Lima têm obras e intervenções - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFBxSGg5MTN4YzdDLTRFYWphM3EyYlBvME1OTDhrdGVvQk1QMkdYU3h2TW5MSjJiakV2RWVXLWpJY1YyT3FWdVY4ZzM0VVQ3NlBnbnRaTTN1WkNHYVhtYlptUE5wQ3hLcDdsSXJNM1Iwano5M3dERGttRE5uNzdDNHlVVnRPS2Ywbi1nMnV2LWdZZTJwWW5aYm5GTEFNaGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-19T19:08:23+00:00",
-      "published_raw": "Mon, 19 Oct 2026 19:08:23 GMT",
-      "snippet": "Rodovias Washington Luís e Brigadeiro Faria Lima têm obras e intervenções Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485787+00:00"
-    },
-    {
-      "id": "f41f2fa2bf1852cdbc6ab8798324c914490673de5a138d0f05d2b9d3a534576d",
-      "title": "Rodovias Washington Luís (SP-310), Brigadeiro Faria Lima (SP-326) e outras tem obras e intervenções - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDZHR3c5My10UzlHREhhU3pKdlI0WVc3WmxDWUp5VkIwUlhEVXlpQzlPd0NyaFRnMlNHOC1rbW92YzBfQzU0VDhyT0NzZlBQajRXUEM1cE5kcllVOGhUank0WVFQa2R0M0VoSk5IYk1YbnlwRlpDVW9sdTR0R3kyXzFieVZkUVRrbXVmbjZYb0dzQmdyVnJuU2E5Z2djTTRGVk5vV0hDSzhKNjA1QjAyZi05N2MxSDVxaWdV?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-19T19:08:23+00:00",
-      "published_raw": "Mon, 19 Oct 2026 19:08:23 GMT",
-      "snippet": "Rodovias Washington Luís (SP-310), Brigadeiro Faria Lima (SP-326) e outras tem obras e intervenções Estradas",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-20T18:48:30.037238+00:00"
-    },
-    {
-      "id": "b4d2a1ae2d2778438df1fb37bda1a597816988a0eb993e70165c7cb867185b6c",
-      "title": "Rodovia Washington Luís passa por obras de ampliação e tem bloqueios - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUG5oNlY4dXBoSERiUmswZTFyS3d6d3hsUzBSaW9UVmFCbUNaWDNxcEZmdHV1anZJVWZaTzlJYVMyQl8xY0JnZ09acDJDdWxmV0RYcUtSekYzejFVZXFJU28xbVRnMkdEd1VnQm83dVNuMUVOYi1wdTRGLVQ1VFd6TUVkbUVtSVBQMTdDVzBvclVJMVBodExjOXJVN2tEOFFYSl9IM3J4dlpreEFrMVllbjJjWUFzcFRSVzRvU0NHS1BMblQ0U3IyWjRUdFNpMGlzUEwzUGw2WklGUmpELURXbTFyNExzdUZtLVdYNlV0aGdSUmE3THhfOXk2VzZnd2Y4eFhLeDVqamx2SUhOUXQ4ZFJhTdIBkwJBVV95cUxPUG5oNlY4dXBoSERiUmswZTFyS3d6d3hsUzBSaW9UVmFCbUNaWDNxcEZmdHV1anZJVWZaTzlJYVMyQl8xY0JnZ09acDJDdWxmV0RYcUtSekYzejFVZXFJU28xbVRnMkdEd1VnQm83dVNuMUVOYi1wdTRGLVQ1VFd6TUVkbUVtSVBQMTdDVzBvclVJMVBodExjOXJVN2tEOFFYSl9IM3J4dlpreEFrMVllbjJjWUFzcFRSVzRvU0NHS1BMblQ0U3IyWjRUdFNpMGlzUEwzUGw2WklGUmpELURXbTFyNExzdUZtLVdYNlV0aGdSUmE3THhfOXk2VzZnd2Y4eFhLeDVqamx2SUhOUXQ4ZFJhTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-19T18:58:24+00:00",
-      "published_raw": "Mon, 19 Oct 2026 18:58:24 GMT",
-      "snippet": "Rodovia Washington Luís passa por obras de ampliação e tem bloqueios G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-20T18:48:18.485652+00:00"
+      "collected_at": "2026-10-20T21:10:00.941256+00:00"
     }
   ]
 }
