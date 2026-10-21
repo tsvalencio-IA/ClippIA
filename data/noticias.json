@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-21T19:01:09.483717+00:00",
+  "updated_at": "2026-10-21T21:09:28.392148+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 12,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "3f498e41f3ce1a2ce02a58f9ad72c83f8c3c9d53fd87b6ca595bc2bb18412374",
+      "title": "Susto na rodovia! Carro capota na rodovia Washington Luiz e condutor sofre apenas ferimentos leves - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemxhWkxuUDlucnhBNHQ5VUNrU0FNNnRCQWQ3aUI4ZGxSTzNFSWZydUFTYjdYbWhWMnpoT2pfRG5aTWdkUkRabFl0WGlvdTl4akFtai1oMTlOejJMNTExWlk1MGZha0hoOXhZOE9DVGF2eEZfT19FYVBFWHRGMFBOR3lUNGVwMFZ2WkFaTENzZmNRc0xWNHQ4Tm51RjhGeTEzV1paVDhsWk5hSmxEMk5IY2tEY3hGUXVOSUdEU3VDc0N4bHY4OEHSAacDQVVfeXFMTVljM1FSZDE2b0c2cldydzEycW5vSlRpdHNXaENIM0Z6cTZVZF9UYzJURGRZUXlZWGxveTdZRjVSd1BVNUtoREYyTGtOaHBQSkExaXRzbHhrSWVldGRzRkNTTjRTbnZxU3VWdE5YSzBBRUZsQ3RISVlIUU9wZ0ZjV0Y3YS02THl5bzJpdFkwY3k1cHJrU3hjWkhGd0lQd0RldzVDMFd5bEpUZlAwX1RVek0xdmJmUmI0RW4wWkh2RlUzOUE5c0d2NVhELUJxRWlNS1pNcS1fdkpEWk9vcXh5Z1ZUQV9JNWtHSFhTaXNxTlpCS1k1d3JvRHlVdTlSMHhlQ1lFbVV1NjQ0LUlWOFhrTjBicnFWRzk1b0dobU05SWk4VGdVcTdZSGd4dmFuZFFXbW9xMjNOQUxLdV9la3ZSODlvel9kZnJwSXhPaDM2OUtpdXRPMnRwaGVBd0hUQ0JrYnNwenFuYUYxLW5ZN2lkeG9nYlp5TmlXdVZmLW1zQV9jeHNfbUVLVHkxejJMX1VhYktHNW43UnBHa0hTXy1lbVpuUlF5ZFdF?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T15:48:58+00:00",
+      "published_raw": "Wed, 21 Oct 2026 15:48:58 GMT",
+      "snippet": "Susto na rodovia! Carro capota na rodovia Washington Luiz e condutor sofre apenas ferimentos leves - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T21:09:13.049917+00:00"
+    },
+    {
       "id": "8aa46640b214b35823bb6a90f05343c9a26b4951701e63125c93a313c3aa8a19",
       "title": "Rally Paulista Off Road movimenta esporte e turismo em Ibaté neste sábado - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.435772+00:00"
+      "collected_at": "2026-10-21T21:09:11.193222+00:00"
     },
     {
       "id": "bf15508fc5bb6157dfc30ff1521cf751d68df65ed09e189aa62bf3aac787e8a1",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:01:05.046495+00:00"
+      "collected_at": "2026-10-21T21:09:23.959581+00:00"
     },
     {
       "id": "959726126bc2f0ea5c01a3d361b4945eb77947c7d81864f6f85967de6c738c5f",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.435630+00:00"
+      "collected_at": "2026-10-21T21:09:11.193050+00:00"
     },
     {
       "id": "5030d74c7075eed67667c143475407690d096c0c26546b5b8ee1d9c683b2832e",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.436021+00:00"
+      "collected_at": "2026-10-21T21:09:11.193492+00:00"
     },
     {
       "id": "6be5e1ebb70facb98d04bfa2576917619a8c4fea9fa71c0ea388939022dac504",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:01:03.294401+00:00"
+      "collected_at": "2026-10-21T21:09:22.260048+00:00"
     },
     {
       "id": "a79676321af4c006707b8d2f316e2a183c9df046a5f0f030f8045e0731849216",
@@ -139,13 +156,13 @@
       "published": "2026-10-21T06:33:52+00:00",
       "published_raw": "Wed, 21 Oct 2026 06:33:52 GMT",
       "snippet": "Sub-16 masculino de Tambaú enfrenta Climed Atibaia pela Copa São Paulo de Voleibol Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.436173+00:00"
+      "collected_at": "2026-10-21T21:09:11.193710+00:00"
     },
     {
       "id": "1db960cfa54a9a48768111928786cfd82a62bb37ac9eb2a44bf2629f495530e4",
@@ -156,13 +173,13 @@
       "published": "2026-10-21T06:30:10+00:00",
       "published_raw": "Wed, 21 Oct 2026 06:30:10 GMT",
       "snippet": "Sala cheia marca início do curso de Drywall em Ibaté Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:54.063539+00:00"
+      "collected_at": "2026-10-21T21:09:11.193633+00:00"
     },
     {
       "id": "f5eb104249a5e0116d22c11dabbd7deac15c275eac5b6e85e1bccd37e7141f35",
@@ -179,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.436244+00:00"
+      "collected_at": "2026-10-21T21:09:11.193780+00:00"
+    },
+    {
+      "id": "a0013e1d139e57b81c56dfddf2a6faf3dc846604fc44446e1ccbddd9abe81e5c",
+      "title": "Grêmio e Internacional aumentam chance de serem rebaixados juntos; veja números - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDJPamNfZWxhZDhrSFFNcVhzeU5DT0ZacGttZlgyd21meHlhTm1yTFVBWWUwN3F3bFhXamp1Yk10aHB3NmlEdlZ4NTdrOTRiSFVad1B2VkYta0JEMGtyeE5KMTYzMlZFZ0lyN3FXeUZSN3FzVzBWUUwyUVNUdmRDVll0V0UzTHlMZXJ1MVdEY1FETUlpTkFoWXlMT0ZQNFlLNFpMVllObWdyRzhlbVRTT0lRbzN3NUVUVUNUSjBRQmxVZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T05:15:37+00:00",
+      "published_raw": "Wed, 21 Oct 2026 05:15:37 GMT",
+      "snippet": "Grêmio e Internacional aumentam chance de serem rebaixados juntos; veja números Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T21:09:11.193563+00:00"
     },
     {
       "id": "ba7716b719f404be88cf32f8a8f7abfcb7ea2ab8c8667ddc1923fa9dfa37cc6d",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.435851+00:00"
+      "collected_at": "2026-10-21T21:09:11.193414+00:00"
     },
     {
       "id": "e3512fb3ce6b7ebd58839d28eb3b9280995db89054d78a58a04c343aac267571",
@@ -213,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.435943+00:00"
-    },
-    {
-      "id": "49c517c16ca623d6b04a7f2173e46c0a90a14d69d42abda675446e501fd50456",
-      "title": "São Carlos recebe capacitação regional para inserção do Implanon com previsão de atender 54 mulheres - São - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa2pFdF9IQnEzR1FpRUVRUVJnNGQzWnp4M2hITWtZZlNzWjVrOTJGNk9sT3F5Qm1qaExXVXBuU2R3X3MwaWZucFZ5T3c0Z1RTVVdHT19vWUNaWmQ0azlCTzBfWFl5X1NRcFN6bHhXSl9KMXhKWnFnMy05ck4zRGFDTng4NFp3QUhZYmZ5Q2M1TTVfdDdUemdid0wtQ3FtZW9CMm1aT2tJRkVrVlp0RG0wSVJRelluX2hIMGZkUURiSTlTRVpZVTNyTWdUc3VDdTTSAc8BQVVfeXFMTWtqRXRfSEJxM0dRaUVFUVFSZzRkM1p6eDNoSE1rWWZTc1o1azkyRjZPbE9xeUJtamhMV1VwblNkd19zMGlmbnBWeU93NGdUU1VXR09fb1lDWlpkNGs5Qk8wX1hZeV9TUXBTemx4V0pfSjF4SlpxZzMtOXJOM0RhQ054ODRad0FIWWJmeUNjNU01X3Q3VHpnYndMLUNxbWVvQjJtWk9rSUZFa1ZadERtMElSUXpZbl9oSDBmZFFEYkk5U0VaWVUzck1nVHN1Q3U0?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-20T20:29:32+00:00",
-      "published_raw": "Tue, 20 Oct 2026 20:29:32 GMT",
-      "snippet": "São Carlos recebe capacitação regional para inserção do Implanon com previsão de atender 54 mulheres - São São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-21T19:00:48.436100+00:00"
+      "collected_at": "2026-10-21T21:09:11.193335+00:00"
     }
   ]
 }
