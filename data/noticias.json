@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-21T16:29:47.652479+00:00",
+  "updated_at": "2026-10-21T19:01:09.483717+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 11,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822263+00:00"
+      "collected_at": "2026-10-21T19:00:48.435772+00:00"
     },
     {
       "id": "bf15508fc5bb6157dfc30ff1521cf751d68df65ed09e189aa62bf3aac787e8a1",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:43.268096+00:00"
+      "collected_at": "2026-10-21T19:01:05.046495+00:00"
     },
     {
       "id": "959726126bc2f0ea5c01a3d361b4945eb77947c7d81864f6f85967de6c738c5f",
@@ -88,13 +88,13 @@
       "published": "2026-10-21T07:07:49+00:00",
       "published_raw": "Wed, 21 Oct 2026 07:07:49 GMT",
       "snippet": "Ecovias Noroeste Paulista promove o “Dia D” do movimento “Afaste-se” na Rodovia Washington Luís Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822109+00:00"
+      "collected_at": "2026-10-21T19:00:48.435630+00:00"
     },
     {
       "id": "5030d74c7075eed67667c143475407690d096c0c26546b5b8ee1d9c683b2832e",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822324+00:00"
+      "collected_at": "2026-10-21T19:00:48.436021+00:00"
     },
     {
       "id": "6be5e1ebb70facb98d04bfa2576917619a8c4fea9fa71c0ea388939022dac504",
@@ -128,7 +128,75 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:41.531163+00:00"
+      "collected_at": "2026-10-21T19:01:03.294401+00:00"
+    },
+    {
+      "id": "a79676321af4c006707b8d2f316e2a183c9df046a5f0f030f8045e0731849216",
+      "title": "Sub-16 masculino de Tambaú enfrenta Climed Atibaia pela Copa São Paulo de Voleibol - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2phMGRPZmR6WHBBNWhiY1htN2FyZXRydGlaRjRvdWZtX2xfM3YyVFdJNTZYS1lqVHBEX0tPSnA2amFmbU9wWks5dVRaOFkySEhkYWhBWmJYd0NJNVFUYlRCR0ZSTVhycm9pUTRQaVVXYjJyZ2VUeG4zYWJIdERIZTZoOUNQUmgwMTh4VllaR3pXcVdQMG1pYTdId2J1WUstd1NxMDMwWko4ZEtlTlp1YTZBaC0zNy1qbC1XVkwydVNsdDZpaGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T06:33:52+00:00",
+      "published_raw": "Wed, 21 Oct 2026 06:33:52 GMT",
+      "snippet": "Sub-16 masculino de Tambaú enfrenta Climed Atibaia pela Copa São Paulo de Voleibol Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T19:00:48.436173+00:00"
+    },
+    {
+      "id": "1db960cfa54a9a48768111928786cfd82a62bb37ac9eb2a44bf2629f495530e4",
+      "title": "Sala cheia marca início do curso de Drywall em Ibaté - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczdaclRjTkhYZjEwa2xxWDROYzBfdjJJajNieUtFYkVXUXVvbDA1RkY5VnU3SWluRGpVQk5QOWdjYWtZa0pOTF9XVXNNZXY2Q2JVeUFid2UzRmtFWVMzaXdzYmgtUmlmWVl1OXowbHoyOVNTVmM0aDlsLTlLcHNlZWN1MHAtN0tsN2M2WURnOTBqWXJfRW1tYW81d0U?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T06:30:10+00:00",
+      "published_raw": "Wed, 21 Oct 2026 06:30:10 GMT",
+      "snippet": "Sala cheia marca início do curso de Drywall em Ibaté Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T19:00:54.063539+00:00"
+    },
+    {
+      "id": "f5eb104249a5e0116d22c11dabbd7deac15c275eac5b6e85e1bccd37e7141f35",
+      "title": "GCM apreende drogas escondidas em cano durante patrulhamento em Ibaté - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUd1bEZJb1VRaGM3M0E4MFdIb3RlU1NJMUg5UmlBMXd0dlJta3ZiMWhObEpBVGlJVlZjUkhiLTEwU016Q3pidEFSRW1HWEQzejR4ekU3SDJiUlQ2MUF5N2JJMUhLQ3JneDFKUkpsZkxkWlhRVDRzdEEtS3BPREs3bjhka1Z6UkwxOHVpN2ZNUkRtY1BGVFQ4dVAyUUxfZldCdkZZYjQtWm1NbFNfeU5YUDFrNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T05:34:08+00:00",
+      "published_raw": "Wed, 21 Oct 2026 05:34:08 GMT",
+      "snippet": "GCM apreende drogas escondidas em cano durante patrulhamento em Ibaté Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T19:00:48.436244+00:00"
+    },
+    {
+      "id": "ba7716b719f404be88cf32f8a8f7abfcb7ea2ab8c8667ddc1923fa9dfa37cc6d",
+      "title": "Estiagem: governo federal reconhece emergência em municípios do Amapá - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ1azFaRHVYOUYtU21OanhJbGd2bmcwV1ZNdWpmczhIWmVzV3VIVVR1QXY0Yk5QTEQzY2NhTGpxMVhzcnVCNlY2dTRGSE1RYXRBNDJLYU0tSDQ3V204ZVpjdkhhdk1XWjBmR1FoWGZUTW1NbUhGcHQzSG9MVVNIQ19ROTA0dUNyaDByOFV0bGxIQVFsczZxTlNrc3NqOVlJNzBxdlRGcHBNeXdiSllja1FlLVg?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-21T05:06:19+00:00",
+      "published_raw": "Wed, 21 Oct 2026 05:06:19 GMT",
+      "snippet": "Estiagem: governo federal reconhece emergência em municípios do Amapá Radio Sanca Web TV",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-21T19:00:48.435851+00:00"
     },
     {
       "id": "e3512fb3ce6b7ebd58839d28eb3b9280995db89054d78a58a04c343aac267571",
@@ -145,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822384+00:00"
+      "collected_at": "2026-10-21T19:00:48.435943+00:00"
     },
     {
       "id": "49c517c16ca623d6b04a7f2173e46c0a90a14d69d42abda675446e501fd50456",
@@ -162,41 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822443+00:00"
-    },
-    {
-      "id": "1775f0d52a0faeae460a182dc76067564df297bbf01db83afdc76c59cbb0a4e6",
-      "title": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (24) - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNejlGTUQwUWt5dTdCWjFyRW9VM09TMWthbGdyMWszcDNxV0Q3dUlWZzllTDd5QXBYMDVjWjFENm44X1RTZS1vN3NEQ2cya3VOd2pXT1JxYm4xcV92M1JnYWl5dHV1aEZwZ1gwVlRudElwZ1RPcFVGcld2YUo4Z2tQYy1EY1V0S2s5WHJzcFFCZExzVTU2d3FBN2lMa0tpNnp1Mlh6ZUxTWUNycFVTcG1xR3JQTHhMN2dtYTROeEJxYm1mdVFKQ1FRREFzZXV3QUhydThWZFBhMm5MYUlWX0F5c1BKbl9LSjR1bXBNbngzYmN1MjJCcnlBbWZXUHBvZDB0bXdqTkZrY9IBjAJBVV95cUxQQWJYSHRvOXk3TEh0TGZ4dnhYNGhIRktpVzVFaTFrV1RQRllxZC1SSFhhOHpPa2tLbXRoTDBucWxCZ3NzajVGMzR2dFhKQ2ZVaGVCZTVuSWhSXzJxNVZtOVpaZTc5bGJDQm5iR3I4TEVrRXd1bW9sdFZLSUttZTRPT0E0TDVJSlJEWWJIR0I2QzZYVUxKMVJEdjl5WlV4YkJQNy1pUkJTek5jdWFNWFVheHpNejZBSXNPZTUzQmIzb0VWbmVlVWRuck9NTFpqZGxDamhmZ2tmaHN4eEQzT0RMZ0hNZi01a29hdEsxVEdPYW9CTHFuV0o4aUtSZ2dab1FJcXRuMG82WUR0TmNn?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-20T18:04:32+00:00",
-      "published_raw": "Tue, 20 Oct 2026 18:04:32 GMT",
-      "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (24) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-21T16:29:26.822194+00:00"
-    },
-    {
-      "id": "687331feccb458a39270d344a23de4070f520ac894996b3d1512f0030f16ad7a",
-      "title": "Ecovias Noroeste Paulista promove o “Dia D” do movimento “Afaste-se” na Rodovia Washington Luís - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmM1T0xEMkludmNVMVF5SHJiQk5oZ1RXc0Y0UWR1OWphVldNbnFXTHdhNkZuS0k2eThmcGNRTV9PbTZvUmhlTGZocHVFMF9CSEotbmtxd0dndVBZaXltd1lJTGVVWnUtU2ZrQkZiNGp5QnROYkVNMnlaeHdkSXd1YWRYMUxEeDlrVUxtYnBnRVhLdkZxVTNUNGhNX3l4d3B1MmdsYmRyNXJCRG5vMG9TOFpWTzJfUHJhZXFiS1E2QjR2dE5penNWejdCNTU?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-20T17:58:14+00:00",
-      "published_raw": "Tue, 20 Oct 2026 17:58:14 GMT",
-      "snippet": "Ecovias Noroeste Paulista promove o “Dia D” do movimento “Afaste-se” na Rodovia Washington Luís Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-21T16:29:41.531108+00:00"
+      "collected_at": "2026-10-21T19:00:48.436100+00:00"
     }
   ]
 }
