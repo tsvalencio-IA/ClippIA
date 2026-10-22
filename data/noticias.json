@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T11:01:53.344833+00:00",
+  "updated_at": "2026-10-22T14:11:52.834734+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 14,
+  "total": 12,
   "total_images": 0,
-  "new_items": 14,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,74 @@
   ],
   "items": [
     {
+      "id": "b4f4a028afb6c1fda94b5208f25e7dc718b32c675642e332db07311a87032c89",
+      "title": "Passageiro fica gravemente ferido após ser atingido por peça arremessada na Rodovia Washington Luís - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzNKZFY0RlA3ZERBMzZnNkI2aUNiQ3ZIdkhIZmpoUVFyOEZzQURJV3M1c0FTT0tsQzlaT2xTd1B1cXFObk1sUl96S3V3Tjc0V1ZLUzN3NndtYkxwdHR0ZmdMR1JsTEdaYjhYTG9uT296VlZaLWRLRkkyaS1kYkpqcTNKMFhIaWV3MTZuM2NLZGl0blhZWks3VUFUXy1BcUYwX2xaa2d0bVRyeUtUektUbEc3UXNTaEVBMWU3amtCT05BN2diZFE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-22T13:31:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 13:31:00 GMT",
+      "snippet": "Passageiro fica gravemente ferido após ser atingido por peça arremessada na Rodovia Washington Luís Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-22T14:11:35.094992+00:00"
+    },
+    {
+      "id": "1ca56c60e88a456729dd5ed915bdfc73663aec2b173028ffd656ba3c8aaff950",
+      "title": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeURVZHNQVmN0UVNIM3JDamxwb1FqTlU4RExQNDZxc3cyQ2pxNGE3MUt1Slk2Wm9PanRxanY2OEFzQy02c0N6eVctZU1zckRlZkdDVUJnaVRiWVpkd3hSbnU4RG9UU0dZUnY1V2dXTnBUUzZCWmlLZ2lUcTgzODhYWExYZG83clFrbTBIenhxNGJEcU5ZWnl5MnJWUjIwS2Y2ZmpfeDhsYmwyaXZ1?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-22T12:42:20+00:00",
+      "published_raw": "Thu, 22 Oct 2026 12:42:20 GMT",
+      "snippet": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís Gazeta de Rio Preto",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-22T14:11:50.059514+00:00"
+    },
+    {
+      "id": "2108bc1c9ebe869ba383445f08a18af6ac6bda4bf448cbd450246c50837d75af",
+      "title": "Catanduva (SP): Passageiro fica gravemente ferido após ser atingido por peça na cabeça na Rodovia Washington Luís. - Diário do Estado",
+      "source": "Diário do Estado",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZkdXZhOWt5dDVGQkNRUGhpLVhoT29vN1NMOGtyVUp1Q0U4S0w5NmgzNWlXdVEzc2hPOFE0V01oLW8tbkVHNDdpQnUwUEhnWnNLUkpmeGdPTWNvcEYybW10azkxcExsYVJhWEphNk9iMlRmUUttRW9KOTdHYVNJcGRpWERBeEYwbjgxUm9wSzA1bmkzc1Zpay1xZjBpTl80eERnTUJDSFJhQmxmU1ZCazRwYy15X19lNm45cXQ5Zmc3SWRUbHNLLUVSeVp3UzJwY080VkpIVFJUdEk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-22T12:00:56+00:00",
+      "published_raw": "Thu, 22 Oct 2026 12:00:56 GMT",
+      "snippet": "Catanduva (SP): Passageiro fica gravemente ferido após ser atingido por peça na cabeça na Rodovia Washington Luís. Diário do Estado",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-22T14:11:35.095122+00:00"
+    },
+    {
+      "id": "60215fc3d48f43273303bbb6e1d910bf04ab4aa68b7f5c47567b6d87ee4af6a0",
+      "title": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkRtWkgydFY4dk0ydmM0ay04d3owMFFrSWZ5VndNRjJBcU1PTEc3VjdZa0RLYWRfM1BPM2VvZWxEX21rSi1RcjF6M3B2T0JRTXU4UDRUd0RWNUF4M2JfWmxVWmFyUzM1SUNOY3cyS3BCWEJodFNtSTQ3MWdoYW1hektHMDJ4NnhOWFBlbzJNTDdEa0JXYmpQVlNFcm44b1VJc2FCX2xDcWFrUEw4TjBwODcyT0x2Q293OWM2V1ctNFFsYzVNclEteFRodzlzc3dFczdnbWl0VWpUQTcyc2pyOdIB7wFBVV95cUxNTy1YS0hDV2NaU1Q4ajJmUkZvNUhBQTZ3bDNkUUhadXZMUWNSM0RVdzQ3bGJfZ2R1YU5TSWdCYzZUbjZ5Tjl2OHVUMF81WWkyMXl5N0M1VU5Ja1J1ZTJOb1lVN19DcXJVOGdjODRLRUdvcmY3UkxmSG1KTW92MjRNMkQwMFRsYUJvQ2xPNDBDVFdDSmVqc1V3ak1OUG1OTXNzWTlnUFhYblpVQXJpeGkxTzktNFNuSkQ4OFVlalYzVnp5Mjgwc0V4dXNyNnJVbnBFVW1lRVBVUnZQUnFJNGdaend6MUxySXFxcEFZRGppZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-22T11:43:46+00:00",
+      "published_raw": "Thu, 22 Oct 2026 11:43:46 GMT",
+      "snippet": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia G1",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-22T14:11:35.094624+00:00"
+    },
+    {
       "id": "8d2405391ac5b95bef338341213aaa121550d3125eb473a2406dc7de3f1fd3a5",
       "title": "Transporte coletivo de São Carlos terá operação especial e tarifa zero no segundo turno das eleições - Radio Sanca Web TV",
       "source": "Radio Sanca Web TV",
@@ -60,58 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:45.707442+00:00"
-    },
-    {
-      "id": "1aebc628ab9a686fe103a3c750bb1f5c84b476d175a4aa283c9b96d5d2ee90f6",
-      "title": "Fesc realiza aulão de zumba no Campo do Rui - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkVSTmU5eGt0dXcxZ0hPZmFPQnNmWW03TlNQOVlsamhpc2J0MTNlOHM0MlJvZFNqenlQOE9FTmhJTnlvSXp6ZnE5eTh4OTZLbW96WDZlVlV4RjhjV2hoWmtNWVhXb3BtamF4RXM1MzludEFxNmlxcHRZdkVudlFlRlFRQW5HWEpsTFZzV3BMODZiWm5OTldmOEhJMkpPcU1yM1E?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T06:23:35+00:00",
-      "published_raw": "Thu, 22 Oct 2026 06:23:35 GMT",
-      "snippet": "Fesc realiza aulão de zumba no Campo do Rui Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794551+00:00"
-    },
-    {
-      "id": "1ebe514663a544f319b8a80371ae30c847bc07670fce82a3ea0cfaf3b0ac1e66",
-      "title": "Transporte coletivo será gratuito em Araraquara no domingo de eleições - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZy1jTnE1ZUJZY3FmTVFhSzE2NDVtNWVjVTd2eEs2My15UWRrU1VseUpKaFlyQk1qaFZwZkQxZlJZb3JzdzlmVjU2bVAyRzNJSEVLc1dLcGFlRlpMU3V6Q3FQaVN5c3RrbUtPRklLenl4NkN0OHozUFpDenFqRDRrMjhqajhYeHo5UFdnR2xDd0hEX0FUVzJCckZSMjJUbE1JbDhWNG9oU3BfZ3JfSlN2VjNVQXI4ZmNuSGhj?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T05:49:30+00:00",
-      "published_raw": "Thu, 22 Oct 2026 05:49:30 GMT",
-      "snippet": "Transporte coletivo será gratuito em Araraquara no domingo de eleições Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794428+00:00"
-    },
-    {
-      "id": "0a0291f0f33a0f28cd20354e39e0af64b360880893976d1e1944f1fbcc559697",
-      "title": "Influenciadora Malévola é liberada após ser presa no Egito - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3ZSU1hrdzdRc2hOZFVsZjNORTl6RW96ejJhS3JSa0l1cWE5SXNGQkJSQ1VTRUZBS2F1SlFBTFczZWJFeWo3YzF1TVFKbUU0dU1iZThFZU5IVEduQUR0b2lfa09VOXEyYTdZbU53Y2hvdzNxU2tzZXdHVjVGZC0waWhTMlM2b1U4WjhxSWNZWVNvZk10OW9CZ1NlM0NsSHlROU9KcWxWMktqWVBLQ1lmbw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T04:52:57+00:00",
-      "published_raw": "Thu, 22 Oct 2026 04:52:57 GMT",
-      "snippet": "Influenciadora Malévola é liberada após ser presa no Egito Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794756+00:00"
+      "collected_at": "2026-10-22T14:11:45.234407+00:00"
     },
     {
       "id": "239da7d38dfbe453fad1f9d1db198c3b5e8f0a819d470344eb62080d2f38ec6e",
@@ -122,47 +139,13 @@
       "published": "2026-10-22T04:29:17+00:00",
       "published_raw": "Thu, 22 Oct 2026 04:29:17 GMT",
       "snippet": "Senac São Carlos recebe pedagoga Ivone Ferreira da Silva para diálogo sobre cultura e transformação social Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794678+00:00"
-    },
-    {
-      "id": "7432f8e6a4cfd5f23e9596ea6c9db68e6e9e7b372b4e53b95737c9ff51b7bf2d",
-      "title": "Fesc abre matrículas para curso de Modelagem de Vestuário Pet em parceria com o Senac - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTF9PMlR5cFRZVUQ2WE9Na1cwdlpOU3RORnd0M2tLQW1GY0R1VEUyVGU1M2g0VDZZeTdPVHhNR2RTeVNzbGJGVUI1TUZYU3dUWmZ4R0s3ZTNfQnh1NzRzQ0l1TEc1MFhNeVJjVkQtZTdFNjVzaFVvWDdzVXJhY3hXakxBeFFsRFR2cGFLelFxY2hEcmh3allFZ2kteFFyX0hoSTh2Q05uTHZJRHk4aE0wclNObFBKUUJpZEpjZ01yazBudk9WWmt3U3pFT0RTd3dNR0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T04:26:28+00:00",
-      "published_raw": "Thu, 22 Oct 2026 04:26:28 GMT",
-      "snippet": "Fesc abre matrículas para curso de Modelagem de Vestuário Pet em parceria com o Senac Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794634+00:00"
-    },
-    {
-      "id": "843e7f89cd6c8c25624fdaf724246e877913c3ba3d12f3e51dbea504ebc1bccf",
-      "title": "Operação da PM no Jardim das Laranjeiras termina com apreensão de drogas e prisão - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ0tacWFQTWtiSXhrYThHazY5dkt1ZkxicXJYQlBNbXBsWkYzVll2UmZlaXM3eVlWYVdHWmwxWWpSQm9hZGhoT3hDZzdPZjQzeU9OcW1heGk3aExGTm1CYURWWEtiQ3NqSTR0SzhpUHRxbE1NU0pyRzRWTnlreE1NSzJFNDctTTNpZXNBN2J4WGRQNjhBNE1CRmZBX1dCWHR0Rm5YUU9WU3N0eTlfMElqR21iY3NrLVdpdkVIQmRYem9VT1hONkZxQVhCQ01POEk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T03:37:42+00:00",
-      "published_raw": "Thu, 22 Oct 2026 03:37:42 GMT",
-      "snippet": "Operação da PM no Jardim das Laranjeiras termina com apreensão de drogas e prisão Radio Sanca Web TV",
       "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794719+00:00"
+      "collected_at": "2026-10-22T14:11:35.094722+00:00"
     },
     {
       "id": "68b77d4f94677f5636206f3a86fc70969e9df3c1024536075515e4dbb0d691ae",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:46.899782+00:00"
+      "collected_at": "2026-10-22T14:11:46.390449+00:00"
     },
     {
       "id": "807b9a9f8c3e994bac3a5c3681b2e0ce1ef2826c756e663dee82df32a3bb92e5",
@@ -190,13 +173,13 @@
       "published": "2026-10-21T23:54:53+00:00",
       "published_raw": "Wed, 21 Oct 2026 23:54:53 GMT",
       "snippet": "Prefeitura de Ibaté investe em equipamentos menos letais para a Guarda Municipal Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:37.620076+00:00"
+      "collected_at": "2026-10-22T14:11:46.390657+00:00"
     },
     {
       "id": "6482a8ec100d42f8bd94f951f35ad457467600e80537f3afaef7d9853cca9523",
@@ -207,13 +190,13 @@
       "published": "2026-10-21T21:26:38+00:00",
       "published_raw": "Wed, 21 Oct 2026 21:26:38 GMT",
       "snippet": "Fesc abre matrículas para curso de Modelagem de Vestuário Pet em parceria com o Senac - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794509+00:00"
+      "collected_at": "2026-10-22T14:11:35.094827+00:00"
     },
     {
       "id": "f5e21411968ba4fbca31d61e65bd18d7f651ecc61196c7fbcc7394627fcc6669",
@@ -224,13 +207,13 @@
       "published": "2026-10-21T21:14:53+00:00",
       "published_raw": "Wed, 21 Oct 2026 21:14:53 GMT",
       "snippet": "Fesc realiza aulão de zumba no Campo do Rui - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794593+00:00"
+      "collected_at": "2026-10-22T14:11:35.094910+00:00"
     },
     {
       "id": "391d697e8c7c627a81335ff317193d5a0a19fb0f789c62c2a20535ff7459e7ec",
@@ -247,24 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:35.794369+00:00"
-    },
-    {
-      "id": "0f29c25d18e113d48e3b973aba39018783ce773a9fad6fba29eff1d2854702bf",
-      "title": "Super Flashback do Liberty Music Hall relembra Era do Disco, nesta Sexta - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWdXWW1uMUlHa1hLOEtSaGhraHdQOHZTNUFMUzdpd0hYd0JXOXJzS1NIc3gyWXExSVZabVVPelhVcXYzVkY2QmVqaU5ZWVJyYlVIRjBCVFhSZGc0ZmtLVWxoVVRqY1oxemVIU09nc05GdDhTM2txUi11UlhtdVV6elAwMkE4eXNKWm1WTGtlWk9IVi1RbHM4ZnB5LVB3THJHNFFvdUNrU1_SAagBQVVfeXFMTzFnV1ltbjFJR2tYSzhLUmhoa2h3UDh2UzVBTFM3aXdIWHdCVzlyc0tTSHN4MllxMUlWWm1VT3pYVXF2M1ZGNkJlamlOWVlScmJVSEYwQlRYUmRnNGZrS1VsaFVUamNaMXplSFNPZ3NORnQ4UzNrcVItdVJYbXVVenpQMDJBOHlzSlptVkxrZVpPSFYtUWxzOGZweS1Qd0xyRzRRb3VDa1Nf?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-21T18:51:07+00:00",
-      "published_raw": "Wed, 21 Oct 2026 18:51:07 GMT",
-      "snippet": "Super Flashback do Liberty Music Hall relembra Era do Disco, nesta Sexta - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T11:01:37.620240+00:00"
+      "collected_at": "2026-10-22T14:11:35.094510+00:00"
     },
     {
       "id": "3f498e41f3ce1a2ce02a58f9ad72c83f8c3c9d53fd87b6ca595bc2bb18412374",
@@ -281,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T11:01:37.620199+00:00"
+      "collected_at": "2026-10-22T14:11:36.859665+00:00"
     }
   ]
 }
