@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-23T16:20:24.921980+00:00",
+  "updated_at": "2026-10-23T18:47:01.964517+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 4,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "8fd008ffbce8e7ada8427fb99ee1c459309e6606d0c5d3249d593a101ead5ef7",
+      "title": "Carro de aplicativo fica destruído após ser fechado por caminhonete e atingido por caminhão na Washington - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2phTWx2MVRYbEdid3AwUVVrSWR2R1VFQUFqOGRqdFBJSGdXMEt3cTFodmMzU3F2bzdfc2F6ZFNDZ1lwWGxmRW1faWQ5Z2JjN0tUSDhKbWlTM2ltdlNVNmtyUTBMaW51ZG5pbDQtVmRvenJ4WlZPbWdIRlpjbkNBVEFOSjZ3ZVBjWjRRMWFJTVJaazRsNmFFdnp3a1pwV2V2TjlMZFdtNU9BNkVCNG9GelNlYzNrZFI4SlVCVkFtSm9qQVVobUY4N2tpTzlfMUNlOU1SN3NFd9IB3AFBVV95cUxOdERLYmVUeFZKcHViS1QzRzZiTGJrMGJqcnROQnRfMWR5bmNqN3Naa19ldHhxazR6eWdwaHdPanl4XzZzTUxBVE5rZ01GUjNQTGs1MzdxaVpfNGhLaElFeEplMHBJaHdXZXE3dzBLU0s4Y2tQcHp0VG5najVCUXZpXzZmQVJmdU9KRG53WVB0bjJ4X1hFNEllV3R0N0RlOGZDbTBIYXZlX2xlUzF2Tzg5REdMaU9Uczg1U3hqZU1sSzBxNXUxVWFrR29YTlhSVzJPOVNsR0M2ZVlESWh3?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-23T16:25:40+00:00",
+      "published_raw": "Fri, 23 Oct 2026 16:25:40 GMT",
+      "snippet": "Carro de aplicativo fica destruído após ser fechado por caminhonete e atingido por caminhão na Washington São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-23T18:46:45.044534+00:00"
+    },
+    {
       "id": "9d496c97bd20d03b6ac4fd6a06322323d0ce8f54fe8eb19a85736204249bc78b",
       "title": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia - Portal Regional",
       "source": "Portal Regional",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T16:20:06.629339+00:00"
+      "collected_at": "2026-10-23T18:46:45.044469+00:00"
     },
     {
       "id": "c9a5786b09b5cf2d8513a489162ff7942f53f7a829092a50e9bc4b2e6088a4af",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T16:20:08.479629+00:00"
+      "collected_at": "2026-10-23T18:46:46.719866+00:00"
     },
     {
       "id": "bc03a9fb2b69c8f6d107ec0901e23e20aba0ab9fd1aed9d9726018336fea7997",
@@ -94,41 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T16:20:06.629070+00:00"
-    },
-    {
-      "id": "9ac7410258878bb4ba52df5374bad029510da78092a5faca21497a4363a579a9",
-      "title": "Ecovias Noroeste Paulista e Fundação Florestal realizam oficina de bombas de sementes em Rio Preto - Rio Preto Indica",
-      "source": "Rio Preto Indica",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1BBcURrZ0tEU25KZklUTWtvdGNiTGprQkRkYkNTaU1rajlqbVdQN1p1NUt5MkM1TkZSc3NrdkIzR0ZILTVVQVE2Mzl2c0pDTjJHdUFaRTVjTDdiUDFDTHRUbDNOUWdBQUJHTVI4cXkzQnY0QWtGYTJxTTJ1cXhRdVM5bw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T16:46:00+00:00",
-      "published_raw": "Thu, 22 Oct 2026 16:46:00 GMT",
-      "snippet": "Ecovias Noroeste Paulista e Fundação Florestal realizam oficina de bombas de sementes em Rio Preto Rio Preto Indica",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T16:20:06.628975+00:00"
-    },
-    {
-      "id": "936e86c1b5512389cb85a3f510ccc21c11a7e4e57b257d091444cdf5258136b1",
-      "title": "Homem sofre traumatismo craniano grave após ser atingido por peça de carreta em rodovia de Catanduva - Tanabi Noticias",
-      "source": "Tanabi Noticias",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQUwwQURiaktVT0FoZ0diNUVxSVkxQl9LRkJ4VzI2YVlwdV9YdDJodjlOa0UtRm9IUWdxWVJOSFJCZ3lsdGVRWEVlOEw0SjNuUXRIeUQxaDF2SU04dzRJWXNjRW4tRGVaRWR5UjNWQ2dMbktYYmhIT19venNQUUF3eWRNVFNkMTRPaGhXLWhlUkxLRkZhcHFRRzctLTA0RXhPdEVET1RUd3dQRWF3SmN5LWRfYUdlaWdhNU81bXJKYlNObGpnTVR4V1hTendDYzMzcmtJaGgtWFFqZWc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T16:44:04+00:00",
-      "published_raw": "Thu, 22 Oct 2026 16:44:04 GMT",
-      "snippet": "Homem sofre traumatismo craniano grave após ser atingido por peça de carreta em rodovia de Catanduva Tanabi Noticias",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T16:20:06.629246+00:00"
+      "collected_at": "2026-10-23T18:46:45.044394+00:00"
     }
   ]
 }
