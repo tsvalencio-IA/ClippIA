@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T23:45:09.706411+00:00",
+  "updated_at": "2026-10-23T02:24:04.721759+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 9,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "da0e358bed1b7e28b371d40fb2100d835ff22310eaa1fe0dbd792e821acf19f9",
-      "title": "Peça de carreta atinge cabeça de homem e causa traumatismo grave - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXExZlZINnN3TXB5M2NsSUZKRWdFU0p0cTIwQzVuYkM4dXo2ZThRRmZndDA3LXlkcUdVbkM0ZTcteF9SZWtteUZ4TTdENG54Tzd6WF9tcHU0TWJQSEwzcDA4bkJpa0pZWFZJQmxDMGUtX2lGVlN4WlI5VGhkejFYdVdyNUdtX2g4S00ydWFkVkZEc3ctVDlGdkV1LUo1SEtJdmNYMlFPWGs1Vl81MUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T20:58:00+00:00",
-      "published_raw": "Thu, 22 Oct 2026 20:58:00 GMT",
-      "snippet": "Peça de carreta atinge cabeça de homem e causa traumatismo grave Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467143+00:00"
-    },
-    {
       "id": "9ac7410258878bb4ba52df5374bad029510da78092a5faca21497a4363a579a9",
       "title": "Ecovias Noroeste Paulista e Fundação Florestal realizam oficina de bombas de sementes em Rio Preto - Rio Preto Indica",
       "source": "Rio Preto Indica",
@@ -77,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467018+00:00"
+      "collected_at": "2026-10-23T02:23:48.790199+00:00"
     },
     {
       "id": "936e86c1b5512389cb85a3f510ccc21c11a7e4e57b257d091444cdf5258136b1",
@@ -94,24 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467196+00:00"
+      "collected_at": "2026-10-23T02:23:48.790410+00:00"
     },
     {
       "id": "c904d19de472108e40d2f8ab4982370559a66aad3cb22c729fbb7515e55689dd",
       "title": "Homem é atingido na cabeça por peça ao verificar barulho em rodovia - BNews SP",
       "source": "BNews SP",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2FwNENsdW0xUUo4a01fWFBPOWg2a08wMUdEZkFKV3BueUxfX1pjVldIYjM2MldRQlE4a3pwWHRRUTVaQTBPUF9waEs4dXNXNXNZUnJIdnRuQ0ctUHVsamdSdDhkY0xTWGkyUkVhaXpkUGlYWE5JT19CcW1sOUlKbVdUN3k5VnAxQlpUUFduUlRua1ZVaFVGXzNQbE9oQVpNNkVEYWZlcG9lN1lhNEI3SGtvVWU3dVlHOUhSay1URURVNG1R0gHEAUFVX3lxTE9LYXA0Q2x1bTFRSjhrTV9YUE85aDZrTzAxR0RmQUpXcG55TF9fWmNWV0hiMzYyV1FCUThrenBYdFFRNVpBME9QX3BoSzh1c1c1c1lSckh2dG5DRy1QdWxqZ1J0OGRjTFNYaTJSRWFpemRQaVhYTklPX0JxbWw5SUptV1Q3eTlWcDFCWlRQV25SVG5rVlVoVUZfM1BsT2hBWk02RURhZmVwb2U3WWE0QjdIa29VZTd1WUc5SFJrLVRFRFU0bVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUpudTVVdnNVbkVLZWZjWkhvYUhaNEcxRE5saUIydGgzYi1HeURmY2h6bHpHUEFXVjJLODRsUHNhVmtBMHJRcEJEaWxsSk5KTy1XTFVPclZoSDM3d21vTC1zMGM5ck10Tkg0Z01ONGhES1Nxb1dwWHhJSnUtSjRoeEFjNUxvdlc1aXNlYlBMclZCZUZYU3JuV2NKQjlEcnlBellxWGRuOTJxSlNOSWg0NjB1cElBanZjV1U0c2Iwc9IBxAFBVV95cUxPS2FwNENsdW0xUUo4a01fWFBPOWg2a08wMUdEZkFKV3BueUxfX1pjVldIYjM2MldRQlE4a3pwWHRRUTVaQTBPUF9waEs4dXNXNXNZUnJIdnRuQ0ctUHVsamdSdDhkY0xTWGkyUkVhaXpkUGlYWE5JT19CcW1sOUlKbVdUN3k5VnAxQlpUUFduUlRua1ZVaFVGXzNQbE9oQVpNNkVEYWZlcG9lN1lhNEI3SGtvVWU3dVlHOUhSay1URURVNG1R?oc=5",
       "resolved_link": "",
       "published": "2026-10-22T16:05:00+00:00",
       "published_raw": "Thu, 22 Oct 2026 16:05:00 GMT",
       "snippet": "Homem é atingido na cabeça por peça ao verificar barulho em rodovia BNews SP",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:45:03.220962+00:00"
+      "collected_at": "2026-10-23T02:23:48.790681+00:00"
     },
     {
       "id": "b4f4a028afb6c1fda94b5208f25e7dc718b32c675642e332db07311a87032c89",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467248+00:00"
+      "collected_at": "2026-10-23T02:23:48.790505+00:00"
     },
     {
       "id": "2108bc1c9ebe869ba383445f08a18af6ac6bda4bf448cbd450246c50837d75af",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467302+00:00"
+      "collected_at": "2026-10-23T02:23:48.790600+00:00"
     },
     {
       "id": "60215fc3d48f43273303bbb6e1d910bf04ab4aa68b7f5c47567b6d87ee4af6a0",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:44:52.467089+00:00"
+      "collected_at": "2026-10-23T02:23:48.790309+00:00"
     },
     {
       "id": "489bd479f7515c4bbe2b5eaa7697f1c87cbe86ca680827c4358482d1e54f48ff",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:45:04.356988+00:00"
+      "collected_at": "2026-10-23T02:24:00.033292+00:00"
     },
     {
       "id": "fe22e2e0be3a3062211a1954c13b345f4e1b15647622ad33d1ae8e8290a81af8",
@@ -190,13 +173,13 @@
       "published": "2026-10-22T10:21:08+00:00",
       "published_raw": "Thu, 22 Oct 2026 10:21:08 GMT",
       "snippet": "Ônibus pega fogo na Rodovia Washington Luís durante a madrugada em Rio Claro Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:45:03.220856+00:00"
+      "collected_at": "2026-10-23T02:23:50.422347+00:00"
     },
     {
       "id": "8d2405391ac5b95bef338341213aaa121550d3125eb473a2406dc7de3f1fd3a5",
@@ -213,41 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-22T23:45:02.055323+00:00"
-    },
-    {
-      "id": "68b77d4f94677f5636206f3a86fc70969e9df3c1024536075515e4dbb0d691ae",
-      "title": "Arteris ViaPaulista realiza novo lançamento de vigas em obra na SP-255, em Boa Esperança do Sul, no sábado (24) - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcG5mdUpsWnRRS2dNQkxTV28tQi1HWmd3Mk9OMDRpSlRoeEZhTlVldHhmbkRIZ0JHYU9RamVrNWtvWkVqN0Z4LXNKMDc3VURVZHNYQUtrbEoxNWVNUzhBYjdvbm9UWlNvUW94clNmQXZuOU5hQ0RqNlNJNFpTVnMxX0U5TFFVM3JmbjN2R2RTLUw1Ny1OS0JEek5idGFZTGZzV3ctczl2cGxhVmgyWXlfMU5uT1BIQV9RMzBkVDJ1eFAwZV9vU0hr?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-21T23:57:32+00:00",
-      "published_raw": "Wed, 21 Oct 2026 23:57:32 GMT",
-      "snippet": "Arteris ViaPaulista realiza novo lançamento de vigas em obra na SP-255, em Boa Esperança do Sul, no sábado (24) Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T23:45:03.220787+00:00"
-    },
-    {
-      "id": "807b9a9f8c3e994bac3a5c3681b2e0ce1ef2826c756e663dee82df32a3bb92e5",
-      "title": "Prefeitura de Ibaté investe em equipamentos menos letais para a Guarda Municipal - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTNMTXNqVy1iZ1NVR01odzllTHdwbkN3bG5wdGlPaEpEcTNac21fOUZQNmk2VnNGeHUwMDdPbXBlVWV4R0hER1A5R2R0UERxUmZLRm9hN0lQY09MY0xXeUYya3VHOUxjaE45Qk43cjdNM2d6a1RUSjlYWnBoRFl6ZE5OS0xQRFpyQXNYaFl1NHVieG9xQl9zUWliZ0JNQmhmQkFMLVZGTzJzczhLcVdRQ3lxVU1VTDJ3WXpiX3ZTcw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-21T23:54:53+00:00",
-      "published_raw": "Wed, 21 Oct 2026 23:54:53 GMT",
-      "snippet": "Prefeitura de Ibaté investe em equipamentos menos letais para a Guarda Municipal Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-22T23:45:03.220915+00:00"
+      "collected_at": "2026-10-23T02:23:57.886831+00:00"
     }
   ]
 }
