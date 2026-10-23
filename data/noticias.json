@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-23T08:02:52.538885+00:00",
+  "updated_at": "2026-10-23T10:55:15.678827+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 8,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "833d08cda08f475ae67665da440bf75fe2a420b784d1b375ca712b155366f1f7",
-      "title": "Simulador de Impacto estará em Ribeirão Preto nesta sexta-feira - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1FKSU4wd2MxZUxUNXZoa3g2SUxrTEpNRktRTWtyd2luWXBwUExxNmk2YW9BMGdRY3B6Y2xISHZxRzRESlJtMXp0dnRHQ0FxYS1Zc1VpY0RtN2xzWHpDT3gwTEZSQV9IRHp6YXJrNlNIM2ktd1BtblRZYjRPamZaUjNySWlicmVjcUd5TFo5MXM1Qm1YWk1KQdIBngFBVV95cUxQVEl1OXBxRTJ1Tkk3cjJkT1BXalpzTHdWcFNXcEZuNnZCN0VEeEpFQXU0YTAwNUl4aUxnYkF3TUJaZXlPODBUSkpYbmg3bGxZc0ItVEVrLUJHUS1JdzhlcHpoODl6MnF4SFJOc0ZVVlk4ODZXOWVyMHBlZU5LOXB4ZUYzbTJITW1TVUFqYXNsN182WktCR3BaZWt5LVo3Zw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-23T03:01:00+00:00",
-      "published_raw": "Fri, 23 Oct 2026 03:01:00 GMT",
-      "snippet": "Simulador de Impacto estará em Ribeirão Preto nesta sexta-feira - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T08:02:38.476137+00:00"
-    },
-    {
       "id": "bc03a9fb2b69c8f6d107ec0901e23e20aba0ab9fd1aed9d9726018336fea7997",
       "title": "Simulador de Impacto estará em Ribeirão Preto - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -71,13 +54,13 @@
       "published": "2026-10-23T02:52:28+00:00",
       "published_raw": "Fri, 23 Oct 2026 02:52:28 GMT",
       "snippet": "Simulador de Impacto estará em Ribeirão Preto Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.933750+00:00"
+      "collected_at": "2026-10-23T10:54:57.657029+00:00"
     },
     {
       "id": "9ac7410258878bb4ba52df5374bad029510da78092a5faca21497a4363a579a9",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.933657+00:00"
+      "collected_at": "2026-10-23T10:54:57.656974+00:00"
     },
     {
       "id": "936e86c1b5512389cb85a3f510ccc21c11a7e4e57b257d091444cdf5258136b1",
@@ -111,13 +94,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.933913+00:00"
+      "collected_at": "2026-10-23T10:54:57.657119+00:00"
     },
     {
       "id": "c904d19de472108e40d2f8ab4982370559a66aad3cb22c729fbb7515e55689dd",
       "title": "Homem é atingido na cabeça por peça ao verificar barulho em rodovia - BNews SP",
       "source": "BNews SP",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2FwNENsdW0xUUo4a01fWFBPOWg2a08wMUdEZkFKV3BueUxfX1pjVldIYjM2MldRQlE4a3pwWHRRUTVaQTBPUF9waEs4dXNXNXNZUnJIdnRuQ0ctUHVsamdSdDhkY0xTWGkyUkVhaXpkUGlYWE5JT19CcW1sOUlKbVdUN3k5VnAxQlpUUFduUlRua1ZVaFVGXzNQbE9oQVpNNkVEYWZlcG9lN1lhNEI3SGtvVWU3dVlHOUhSay1URURVNG1R0gHEAUFVX3lxTE9LYXA0Q2x1bTFRSjhrTV9YUE85aDZrTzAxR0RmQUpXcG55TF9fWmNWV0hiMzYyV1FCUThrenBYdFFRNVpBME9QX3BoSzh1c1c1c1lSckh2dG5DRy1QdWxqZ1J0OGRjTFNYaTJSRWFpemRQaVhYTklPX0JxbWw5SUptV1Q3eTlWcDFCWlRQV25SVG5rVlVoVUZfM1BsT2hBWk02RURhZmVwb2U3WWE0QjdIa29VZTd1WUc5SFJrLVRFRFU0bVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUpudTVVdnNVbkVLZWZjWkhvYUhaNEcxRE5saUIydGgzYi1HeURmY2h6bHpHUEFXVjJLODRsUHNhVmtBMHJRcEJEaWxsSk5KTy1XTFVPclZoSDM3d21vTC1zMGM5ck10Tkg0Z01ONGhES1Nxb1dwWHhJSnUtSjRoeEFjNUxvdlc1aXNlYlBMclZCZUZYU3JuV2NKQjlEcnlBellxWGRuOTJxSlNOSWg0NjB1cElBanZjV1U0c2Iwc9IBxAFBVV95cUxPS2FwNENsdW0xUUo4a01fWFBPOWg2a08wMUdEZkFKV3BueUxfX1pjVldIYjM2MldRQlE4a3pwWHRRUTVaQTBPUF9waEs4dXNXNXNZUnJIdnRuQ0ctUHVsamdSdDhkY0xTWGkyUkVhaXpkUGlYWE5JT19CcW1sOUlKbVdUN3k5VnAxQlpUUFduUlRua1ZVaFVGXzNQbE9oQVpNNkVEYWZlcG9lN1lhNEI3SGtvVWU3dVlHOUhSay1URURVNG1R?oc=5",
       "resolved_link": "",
       "published": "2026-10-22T16:05:00+00:00",
       "published_raw": "Thu, 22 Oct 2026 16:05:00 GMT",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:46.862615+00:00"
+      "collected_at": "2026-10-23T10:55:08.773925+00:00"
     },
     {
       "id": "b4f4a028afb6c1fda94b5208f25e7dc718b32c675642e332db07311a87032c89",
@@ -145,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.933988+00:00"
+      "collected_at": "2026-10-23T10:54:57.657159+00:00"
+    },
+    {
+      "id": "1ca56c60e88a456729dd5ed915bdfc73663aec2b173028ffd656ba3c8aaff950",
+      "title": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeURVZHNQVmN0UVNIM3JDamxwb1FqTlU4RExQNDZxc3cyQ2pxNGE3MUt1Slk2Wm9PanRxanY2OEFzQy02c0N6eVctZU1zckRlZkdDVUJnaVRiWVpkd3hSbnU4RG9UU0dZUnY1V2dXTnBUUzZCWmlLZ2lUcTgzODhYWExYZG83clFrbTBIenhxNGJEcU5ZWnl5MnJWUjIwS2Y2ZmpfeDhsYmwyaXZ1?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-22T12:42:20+00:00",
+      "published_raw": "Thu, 22 Oct 2026 12:42:20 GMT",
+      "snippet": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís Gazeta de Rio Preto",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-23T10:55:12.892807+00:00"
     },
     {
       "id": "2108bc1c9ebe869ba383445f08a18af6ac6bda4bf448cbd450246c50837d75af",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.934067+00:00"
+      "collected_at": "2026-10-23T10:54:57.657201+00:00"
     },
     {
       "id": "60215fc3d48f43273303bbb6e1d910bf04ab4aa68b7f5c47567b6d87ee4af6a0",
@@ -179,41 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T08:02:36.933834+00:00"
-    },
-    {
-      "id": "489bd479f7515c4bbe2b5eaa7697f1c87cbe86ca680827c4358482d1e54f48ff",
-      "title": "Acidente grave entre duas carretas mata motorista e interdita a Rodovia Anhanguera em Jardinópolis - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlZtaFdyQjJGMjFGV0NXbjJlV1NMcjFCZlR3MjRzd21YNmg4NDF3U292c1NXNHhXWmxGVW1aQzN2NDBOSXZuUDZhYi1sY2pXMmdfWjJMR2w0TnE0ZHlHWkxwalRuSlNZTGhSY1p5dmJBWDF3LWFZY1RTaDBxWUREdDY2WWNvQlJGaFN1bjlqa2NVSW9RWE5mRFd2SlpSSWRVVk9iV3I5MERwMTJBQ0lPV2tZc2x6X2tjeUtNcGN5dVhudWNRRm9mVnRVaVc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T10:24:57+00:00",
-      "published_raw": "Thu, 22 Oct 2026 10:24:57 GMT",
-      "snippet": "Acidente grave entre duas carretas mata motorista e interdita a Rodovia Anhanguera em Jardinópolis Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T08:02:47.893588+00:00"
-    },
-    {
-      "id": "fe22e2e0be3a3062211a1954c13b345f4e1b15647622ad33d1ae8e8290a81af8",
-      "title": "Ônibus pega fogo na Rodovia Washington Luís durante a madrugada em Rio Claro - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYlBiRnlrUlduOGt2QUl5aURYVFduX0tld1h4eEVialBLSXlPU3hQcFl4dmJXcTZtaldsUlJJejFGNjlxWkZmMTJvZHVrQ0VCaVM4VU5Ock1CdXZ6bTRaSmVKRVExcExaVUJ0S0tVQkdqOXNVTU8zbjU2QXpiRmlyNFdENVZfWERTTGlLTm9mamNBalludDA1OFFvVFJ1dkkwZDhjaUJadXpSdS1xSmR5MUpYV0RyZ3JPMEE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T10:21:08+00:00",
-      "published_raw": "Thu, 22 Oct 2026 10:21:08 GMT",
-      "snippet": "Ônibus pega fogo na Rodovia Washington Luís durante a madrugada em Rio Claro Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T08:02:46.862527+00:00"
+      "collected_at": "2026-10-23T10:54:57.657076+00:00"
     }
   ]
 }
