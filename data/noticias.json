@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-23T23:37:53.400322+00:00",
+  "updated_at": "2026-10-23T23:43:38.977696+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 5,
+  "total": 7,
   "total_images": 0,
-  "new_items": 5,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T23:37:37.171781+00:00"
+      "collected_at": "2026-10-23T23:43:21.422544+00:00"
     },
     {
       "id": "9d496c97bd20d03b6ac4fd6a06322323d0ce8f54fe8eb19a85736204249bc78b",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T23:37:37.171687+00:00"
+      "collected_at": "2026-10-23T23:43:21.422463+00:00"
     },
     {
       "id": "c9a5786b09b5cf2d8513a489162ff7942f53f7a829092a50e9bc4b2e6088a4af",
@@ -94,7 +94,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T23:37:38.899220+00:00"
+      "collected_at": "2026-10-23T23:43:23.241802+00:00"
+    },
+    {
+      "id": "3e8890a115f65b87fc681cf224e8e8e7a40be1406b5e4f9dc0b14c8272cf2396",
+      "title": "Secretaria de Saúde realiza mutirão de ultrassom neste sábado na UBS do Santa Felícia - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUs4V0xvcnJpdEpMMjVOdlhyd0l2Q2EyNEhhYTk3dG5vTXA5VHdlMEJmZ1d6NFhBdWZBVEpTTlVuVnZqVlJDMDc4WXJyaTY1MFBDV3VUVUhBZGtzMWh0cGtjaXUzY3V1UVB1M3FQbzFtSURJZURBalJrQmF5cUsxRFg2a21mVk9tMldMMDl1T1AyaU9LY21QbFljbXh5aUhjY211dzV6MGxYbEV2RjkzVloyQmE5cHNRTUw00gG7AUFVX3lxTE5JSzhXTG9ycml0SkwyNU52WHJ3SXZDYTI0SGFhOTd0bm9NcDlUd2UwQmZnV3o0WEF1ZkFUSlNOVW5WdmpWUkMwNzhZcnJpNjUwUENXdVRVSEFka3MxaHRwa2NpdTNjdXVRUHUzcVBvMW1JREllREFqUmtCYXlxSzFEWDZrbWZWT20yV0wwOXVPUDJpT0tjbVBsWWNteHlpSGNjbXV3NXowbFhsRXZGOTNWWjJCYTlwc1FNTDQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-23T04:34:09+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:34:09 GMT",
+      "snippet": "Secretaria de Saúde realiza mutirão de ultrassom neste sábado na UBS do Santa Felícia - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-23T23:43:23.241931+00:00"
+    },
+    {
+      "id": "48d44d8f73e98c02bc83bef1a177f48cca3c0e099fc774a279611923a29132ce",
+      "title": "Régis Danese assina com a Universal Music e prepara novo projeto gospel - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2lSM1dxS2FXb0FkcWl3X0FCeGpxWE1rb2tQSEE2ZUZ5TlhjNnRVUEhCVTE4aV9vM3dVN2kxQV9ZM0tfTW1sZERzZEpJazctNWhZbUQyZm1TdEV5cV84cllRRW1HVmhUcVdHdE9JeTdQT2FWdlJQeHR6MDNKMXVLa0d3OURFTG9rWWpsUlExeTN6bjdXU0VIekdZaEZ0WGFJWnozMU16em7SAagBQVVfeXFMTlNpUjNXcUthV29BZHFpd19BQnhqcVhNa29rUEhBNmVGeU5YYzZ0VVBIQlUxOGlfbzN3VTdpMUFfWTNLX01tbGREc2RKSWs3LTVoWW1EMmZtU3RFeXFfOHJZUUVtR1ZoVHFXR3RPSXk3UE9hVnZSUHh0ejAzSjF1S2tHdzlERUxva1lqbFJRMXkzem43V1NFSHpHWWhGdFhhSVp6MzFNenpu?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-23T03:51:23+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:51:23 GMT",
+      "snippet": "Régis Danese assina com a Universal Music e prepara novo projeto gospel - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-23T23:43:23.241970+00:00"
     },
     {
       "id": "833d08cda08f475ae67665da440bf75fe2a420b784d1b375ca712b155366f1f7",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T23:37:38.899104+00:00"
+      "collected_at": "2026-10-23T23:43:23.241747+00:00"
     },
     {
       "id": "bc03a9fb2b69c8f6d107ec0901e23e20aba0ab9fd1aed9d9726018336fea7997",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T23:37:37.171582+00:00"
+      "collected_at": "2026-10-23T23:43:21.422372+00:00"
     }
   ]
 }
