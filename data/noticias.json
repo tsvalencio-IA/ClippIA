@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-23T10:55:15.678827+00:00",
+  "updated_at": "2026-10-23T13:54:48.645388+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 5,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "9d496c97bd20d03b6ac4fd6a06322323d0ce8f54fe8eb19a85736204249bc78b",
+      "title": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia - Portal Regional",
+      "source": "Portal Regional",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUWpkUG9CeFhKcFRRcGJ5cFFuWVB1MzJlbGh4RUcxSVZjQ0l3X0hXbm1YRDhXX3FyQWNGVWZEM21xdDVyNlByaVNrblEtTEpCZXVpNkx6b052VkN0T2kwZ1JjejVpQmlGcnp3VVM2QVRiWE90T09XbDBRdFlsV1dwQ1JqYy14MlZST3MwX0xRaEtNVmxISElybHEtTGtJeFVOenVadktVY05Sa3Y1MkV1UFJtenJlaEt2Q3lJb0ItMk0yN3BGeW0zbzM1aUh2TU5YMlBn0gHYAUFVX3lxTE5LczU2eDl4cl9ZckhzUkNZcWZsMlpNb0tnaUhWX0ZiR1ItY1ZnSVdET0FVNzdrdllQLVJyVnJ5V2YtVlBOYkEwbEdZTjNfTzRPWVpfeVc2R2wzcmdhMHpSaEcyWDJDb3hMaHQzSWhMMGJTVmdhSVc4aHBXOEVibUJodW1IZ3R2WTcwZDNoaTk1QzBYVUNPRTFRdlRHemFvZ19LQW02aXNJSHNNakdCbVJoUTVwMGRmYWhDUHUwSUdxeXJGaVVIdmM0dFFfUmlPWE5Jd25sZzBUZA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-23T11:27:02+00:00",
+      "published_raw": "Fri, 23 Oct 2026 11:27:02 GMT",
+      "snippet": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia Portal Regional",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-23T13:54:31.077121+00:00"
+    },
+    {
       "id": "bc03a9fb2b69c8f6d107ec0901e23e20aba0ab9fd1aed9d9726018336fea7997",
       "title": "Simulador de Impacto estará em Ribeirão Preto - Jornal Primeira Página",
       "source": "Jornal Primeira Página",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.657029+00:00"
+      "collected_at": "2026-10-23T13:54:31.077029+00:00"
     },
     {
       "id": "9ac7410258878bb4ba52df5374bad029510da78092a5faca21497a4363a579a9",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.656974+00:00"
+      "collected_at": "2026-10-23T13:54:31.076973+00:00"
     },
     {
       "id": "936e86c1b5512389cb85a3f510ccc21c11a7e4e57b257d091444cdf5258136b1",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.657119+00:00"
+      "collected_at": "2026-10-23T13:54:31.077077+00:00"
     },
     {
       "id": "c904d19de472108e40d2f8ab4982370559a66aad3cb22c729fbb7515e55689dd",
@@ -105,81 +122,13 @@
       "published": "2026-10-22T16:05:00+00:00",
       "published_raw": "Thu, 22 Oct 2026 16:05:00 GMT",
       "snippet": "Homem é atingido na cabeça por peça ao verificar barulho em rodovia BNews SP",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T10:55:08.773925+00:00"
-    },
-    {
-      "id": "b4f4a028afb6c1fda94b5208f25e7dc718b32c675642e332db07311a87032c89",
-      "title": "Passageiro fica gravemente ferido após ser atingido por peça arremessada na Rodovia Washington Luís - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzNKZFY0RlA3ZERBMzZnNkI2aUNiQ3ZIdkhIZmpoUVFyOEZzQURJV3M1c0FTT0tsQzlaT2xTd1B1cXFObk1sUl96S3V3Tjc0V1ZLUzN3NndtYkxwdHR0ZmdMR1JsTEdaYjhYTG9uT296VlZaLWRLRkkyaS1kYkpqcTNKMFhIaWV3MTZuM2NLZGl0blhZWks3VUFUXy1BcUYwX2xaa2d0bVRyeUtUektUbEc3UXNTaEVBMWU3amtCT05BN2diZFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T13:31:00+00:00",
-      "published_raw": "Thu, 22 Oct 2026 13:31:00 GMT",
-      "snippet": "Passageiro fica gravemente ferido após ser atingido por peça arremessada na Rodovia Washington Luís Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.657159+00:00"
-    },
-    {
-      "id": "1ca56c60e88a456729dd5ed915bdfc73663aec2b173028ffd656ba3c8aaff950",
-      "title": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís - Gazeta de Rio Preto",
-      "source": "Gazeta de Rio Preto",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeURVZHNQVmN0UVNIM3JDamxwb1FqTlU4RExQNDZxc3cyQ2pxNGE3MUt1Slk2Wm9PanRxanY2OEFzQy02c0N6eVctZU1zckRlZkdDVUJnaVRiWVpkd3hSbnU4RG9UU0dZUnY1V2dXTnBUUzZCWmlLZ2lUcTgzODhYWExYZG83clFrbTBIenhxNGJEcU5ZWnl5MnJWUjIwS2Y2ZmpfeDhsYmwyaXZ1?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T12:42:20+00:00",
-      "published_raw": "Thu, 22 Oct 2026 12:42:20 GMT",
-      "snippet": "Passageiro é atingido na cabeça por peça de caminhão na Washington Luís Gazeta de Rio Preto",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T10:55:12.892807+00:00"
-    },
-    {
-      "id": "2108bc1c9ebe869ba383445f08a18af6ac6bda4bf448cbd450246c50837d75af",
-      "title": "Catanduva (SP): Passageiro fica gravemente ferido após ser atingido por peça na cabeça na Rodovia Washington Luís. - Diário do Estado",
-      "source": "Diário do Estado",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWZkdXZhOWt5dDVGQkNRUGhpLVhoT29vN1NMOGtyVUp1Q0U4S0w5NmgzNWlXdVEzc2hPOFE0V01oLW8tbkVHNDdpQnUwUEhnWnNLUkpmeGdPTWNvcEYybW10azkxcExsYVJhWEphNk9iMlRmUUttRW9KOTdHYVNJcGRpWERBeEYwbjgxUm9wSzA1bmkzc1Zpay1xZjBpTl80eERnTUJDSFJhQmxmU1ZCazRwYy15X19lNm45cXQ5Zmc3SWRUbHNLLUVSeVp3UzJwY080VkpIVFJUdEk?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T12:00:56+00:00",
-      "published_raw": "Thu, 22 Oct 2026 12:00:56 GMT",
-      "snippet": "Catanduva (SP): Passageiro fica gravemente ferido após ser atingido por peça na cabeça na Rodovia Washington Luís. Diário do Estado",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.657201+00:00"
-    },
-    {
-      "id": "60215fc3d48f43273303bbb6e1d910bf04ab4aa68b7f5c47567b6d87ee4af6a0",
-      "title": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia - G1",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZkRtWkgydFY4dk0ydmM0ay04d3owMFFrSWZ5VndNRjJBcU1PTEc3VjdZa0RLYWRfM1BPM2VvZWxEX21rSi1RcjF6M3B2T0JRTXU4UDRUd0RWNUF4M2JfWmxVWmFyUzM1SUNOY3cyS3BCWEJodFNtSTQ3MWdoYW1hektHMDJ4NnhOWFBlbzJNTDdEa0JXYmpQVlNFcm44b1VJc2FCX2xDcWFrUEw4TjBwODcyT0x2Q293OWM2V1ctNFFsYzVNclEteFRodzlzc3dFczdnbWl0VWpUQTcyc2pyOdIB7wFBVV95cUxNTy1YS0hDV2NaU1Q4ajJmUkZvNUhBQTZ3bDNkUUhadXZMUWNSM0RVdzQ3bGJfZ2R1YU5TSWdCYzZUbjZ5Tjl2OHVUMF81WWkyMXl5N0M1VU5Ja1J1ZTJOb1lVN19DcXJVOGdjODRLRUdvcmY3UkxmSG1KTW92MjRNMkQwMFRsYUJvQ2xPNDBDVFdDSmVqc1V3ak1OUG1OTXNzWTlnUFhYblpVQXJpeGkxTzktNFNuSkQ4OFVlalYzVnp5Mjgwc0V4dXNyNnJVbnBFVW1lRVBVUnZQUnFJNGdaend6MUxySXFxcEFZRGppZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-22T11:43:46+00:00",
-      "published_raw": "Thu, 22 Oct 2026 11:43:46 GMT",
-      "snippet": "Homem desce de carro para verificar barulho e é atingido na cabeça por peça arremessada em rodovia G1",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-23T10:54:57.657076+00:00"
+      "collected_at": "2026-10-23T13:54:31.077159+00:00"
     }
   ]
 }
