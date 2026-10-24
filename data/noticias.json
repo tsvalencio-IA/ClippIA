@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24T17:42:42.440283+00:00",
+  "updated_at": "2026-10-24T19:56:38.041224+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 4,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "187ce658f0aba9300a0626fcf69af2626c902ab9a21d243f90e5995e505bb901",
+      "title": "Motorista de 41 anos morre após carro bater de frente com carreta na SP-310 no interior de SP - G1",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRnJWMWFPazFEZnVMZGdqdTI3RUhiNjBIUkkxWFRfN2hHc2VDUHNWVnlsUktyYnVhajJzN0ZDTjcxaEpkbUNGaWtKX0JfcEpCajA2WWlmRXM4a2w0TDhxSmxNa3VybHp0NU9fbjZaTFRNOHNRYklaVGh0YnBndkd4WEZJNjN0anJDOFBhbkZqaWNZWlNzNjF3NEJUeVRHMGlfRVowT1RpYm43aldicUJNTVJuY3dfY3A0elU3bkhSdUFXa21BWl9wWTNKaVlXelZndnM0S0ZoeTRxREhuMlhCNVRQNFRfRC1fYU43UkRMNW15QdIBgAJBVV95cUxPTGVDZU9DUmFYYnZJVUVsLUtBWmdEVHhLSkZER1EyamdqZW5MZHpXLXNNelZkekxjX01vX0dSanRhdzAwWWx0aXExX0lKMVFxRDMzZHIwZ0pMM0QxRnRvMHh4MWNrX213akxFaEo1aENlRHQxUTVmZi0wbTN4VHE0Qm1XbW9YTzZxYUVHdHF2dktfa1JVSVBySUtNV2NIbFpjM2E0Q3RVLUJyNUZqTUkydUVsUmRkTDVyTzl2enh6bTNiYVl1dTNQd3AybmZFc1dMR1J6UUtwUVQyd1hMN01NLURHb3JYOF9SVjNfSzdROEs3MGlxMkFyZDZLZkJlUGNG?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-24T19:33:53+00:00",
+      "published_raw": "Sat, 24 Oct 2026 19:33:53 GMT",
+      "snippet": "Motorista de 41 anos morre após carro bater de frente com carreta na SP-310 no interior de SP G1",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-24T19:56:23.193903+00:00"
+    },
+    {
       "id": "220410627fdfcd420afd5a58de43b1b30cbb590322f1b0fe1a8bc54e25d0c4bf",
       "title": "Motorista de Araraquara morre em colisão frontal entre Fiat Strada e carreta na Rodovia Washington Luís - Região em Destake",
       "source": "Região em Destake",
@@ -60,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-24T17:42:24.613156+00:00"
+      "collected_at": "2026-10-24T19:56:21.517838+00:00"
+    },
+    {
+      "id": "fd2e8be976ead9c21e18a35cfa3b4f77865df8ccf9e22eb8af3e28b9d8d0d506",
+      "title": "Motorista de picape Strada morre ao bater de frente em uma carreta na Washington Luís em Araraquara - RCIA Araraquara",
+      "source": "RCIA Araraquara",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzVJYkJqX2RWU0V6cjB1bzFDTXJXMGF4NVVsXzZWaFZlaklTZFBaQ0ZrVDhGZHJ3Q2Vkam9tamQ1NEpOUG9lZXRCSTJHeUtPenlfNGFPZkN4elQ5TlhXX3ZFc0xUSXZSdEY2NXVxTE84UkV6ek5QQmxkUjh1ZDNUa3FPRnBtdGpreGNraUlzd2dRWi1fX3ZNeFppcjR4d0JSUW5lSXpXTFFocHZGOWRQalFaRFhTMzJXNEI1bHdoOVZ3MUZJcnlONtIByAFBVV95cUxQYzVJYkJqX2RWU0V6cjB1bzFDTXJXMGF4NVVsXzZWaFZlaklTZFBaQ0ZrVDhGZHJ3Q2Vkam9tamQ1NEpOUG9lZXRCSTJHeUtPenlfNGFPZkN4elQ5TlhXX3ZFc0xUSXZSdEY2NXVxTE84UkV6ek5QQmxkUjh1ZDNUa3FPRnBtdGpreGNraUlzd2dRWi1fX3ZNeFppcjR4d0JSUW5lSXpXTFFocHZGOWRQalFaRFhTMzJXNEI1bHdoOVZ3MUZJcnlONg?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-24T13:32:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 13:32:00 GMT",
+      "snippet": "Motorista de picape Strada morre ao bater de frente em uma carreta na Washington Luís em Araraquara RCIA Araraquara",
+      "term": "\"Ecovias Noroeste\" ARTESP",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-24T19:56:34.241340+00:00"
     },
     {
       "id": "db736d101aa515e358b9c6e8b31eb58b10f0f66c8255e57aa8bac503e040dbc0",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-24T17:42:26.399418+00:00"
+      "collected_at": "2026-10-24T19:56:23.194087+00:00"
     }
   ]
 }
