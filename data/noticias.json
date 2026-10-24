@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24T12:59:20.591850+00:00",
+  "updated_at": "2026-10-24T15:17:03.267239+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 2,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "db736d101aa515e358b9c6e8b31eb58b10f0f66c8255e57aa8bac503e040dbc0",
+      "title": "Acidente entre utilitário e carreta termina em morte na Washington Luís - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wTURxTFpUelN0SW5ybUFjcXlqVU9aNDZMdVAteldPRFp4ck5RcTZRZEduSmRJQkFTYjdOVzk5ZWpPV2RiNlF1UDROUFNCWElSbXdMVzFBZk9LNTNPNFlzRFhWQXFjX2JQNzBZQnVGNmlsRldWS1HSAXZBVV95cUxOME1EcUxaVHpTdElucm1BY3F5alVPWjQ2THVQLXpXT0RaeHJOUXE2UWRHbkpkSUJBU2I3Tlc5OWVqT1dkYjZRdVA0TlBTQlhJUm13TFcxQWZPSzUzTzRZc0RYVkFxY19iUDcwWUJ1RjZpbEZXVktR?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-24T11:36:29+00:00",
+      "published_raw": "Sat, 24 Oct 2026 11:36:29 GMT",
+      "snippet": "Acidente entre utilitário e carreta termina em morte na Washington Luís - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-24T15:16:47.838985+00:00"
+    },
+    {
       "id": "8fd008ffbce8e7ada8427fb99ee1c459309e6606d0c5d3249d593a101ead5ef7",
       "title": "Carro de aplicativo fica destruído após ser fechado por caminhonete e atingido por caminhão na Washington - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-24T12:59:05.012524+00:00"
+      "collected_at": "2026-10-24T15:16:46.099478+00:00"
     }
   ]
 }
