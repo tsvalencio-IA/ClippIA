@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25T13:31:26.773724+00:00",
+  "updated_at": "2026-10-25T17:57:19.060821+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-10-25T08:41:47+00:00",
       "published_raw": "Sun, 25 Oct 2026 08:41:47 GMT",
       "snippet": "Ecovias Noroeste Região em Destake",
-      "term": "\"Ecovias Noroeste\" TAG",
-      "category": "pedágio",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:17.712778+00:00"
+      "collected_at": "2026-10-25T17:57:03.152225+00:00"
     },
     {
       "id": "220410627fdfcd420afd5a58de43b1b30cbb590322f1b0fe1a8bc54e25d0c4bf",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:10.578932+00:00"
+      "collected_at": "2026-10-25T17:57:01.318456+00:00"
     },
     {
       "id": "b4668735f7e5587429c66c89310b1b877fab09f9135daa7c90504e8e6d08b8c6",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:12.162614+00:00"
+      "collected_at": "2026-10-25T17:57:03.152431+00:00"
     },
     {
       "id": "e320d3365d397200e0d10b7ded678d2c5d98a31e0fa386c5961664dcd08ddd2e",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:12.162502+00:00"
+      "collected_at": "2026-10-25T17:57:03.152314+00:00"
     },
     {
       "id": "18cf289b7e07c2826e14d259dada4546c19a18716fc3af55364e95ed2de23a89",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:12.162578+00:00"
+      "collected_at": "2026-10-25T17:57:03.152394+00:00"
     },
     {
       "id": "187ce658f0aba9300a0626fcf69af2626c902ab9a21d243f90e5995e505bb901",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-25T13:31:12.162395+00:00"
-    },
-    {
-      "id": "fd2e8be976ead9c21e18a35cfa3b4f77865df8ccf9e22eb8af3e28b9d8d0d506",
-      "title": "Motorista de picape Strada morre ao bater de frente em uma carreta na Washington Luís em Araraquara - RCIA Araraquara",
-      "source": "RCIA Araraquara",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzVJYkJqX2RWU0V6cjB1bzFDTXJXMGF4NVVsXzZWaFZlaklTZFBaQ0ZrVDhGZHJ3Q2Vkam9tamQ1NEpOUG9lZXRCSTJHeUtPenlfNGFPZkN4elQ5TlhXX3ZFc0xUSXZSdEY2NXVxTE84UkV6ek5QQmxkUjh1ZDNUa3FPRnBtdGpreGNraUlzd2dRWi1fX3ZNeFppcjR4d0JSUW5lSXpXTFFocHZGOWRQalFaRFhTMzJXNEI1bHdoOVZ3MUZJcnlONtIByAFBVV95cUxQYzVJYkJqX2RWU0V6cjB1bzFDTXJXMGF4NVVsXzZWaFZlaklTZFBaQ0ZrVDhGZHJ3Q2Vkam9tamQ1NEpOUG9lZXRCSTJHeUtPenlfNGFPZkN4elQ5TlhXX3ZFc0xUSXZSdEY2NXVxTE84UkV6ek5QQmxkUjh1ZDNUa3FPRnBtdGpreGNraUlzd2dRWi1fX3ZNeFppcjR4d0JSUW5lSXpXTFFocHZGOWRQalFaRFhTMzJXNEI1bHdoOVZ3MUZJcnlONg?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-24T13:32:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 13:32:00 GMT",
-      "snippet": "Motorista de picape Strada morre ao bater de frente em uma carreta na Washington Luís em Araraquara RCIA Araraquara",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-25T13:31:12.162541+00:00"
+      "collected_at": "2026-10-25T17:57:03.152274+00:00"
     }
   ]
 }
