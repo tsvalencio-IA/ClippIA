@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T02:09:38.554226+00:00",
+  "updated_at": "2026-10-26T02:53:45.534201+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -54,13 +54,13 @@
       "published": "2026-10-25T08:41:47+00:00",
       "published_raw": "Sun, 25 Oct 2026 08:41:47 GMT",
       "snippet": "Ecovias Noroeste Região em Destake",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" reajuste",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-26T02:09:23.849286+00:00"
+      "collected_at": "2026-10-26T02:53:36.470558+00:00"
     },
     {
       "id": "220410627fdfcd420afd5a58de43b1b30cbb590322f1b0fe1a8bc54e25d0c4bf",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-26T02:09:22.149423+00:00"
+      "collected_at": "2026-10-26T02:53:29.240269+00:00"
     }
   ]
 }
