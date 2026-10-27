@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T11:30:06.796845+00:00",
+  "updated_at": "2026-10-27T14:59:54.470507+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 9,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "3f2c65fa165e8ebfce76fe6dee7ea7a52badce90b5fc58274d9c8c6e01f2b9ef",
+      "title": "Praças de pedágio são substituídas por free flow a partir de domingo; veja como pagar - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSjFIaW05Z1BLS25uRHJGeDBLRE5vdldZNUh1UVJFbTNTWEFZc0NIOGVFRUc2alZRRGZJUGpiSE4zcE5tQ3dxMFd0eFp3N0V6a3dTaTJ2TjVuenE5emFkY19hcl9Wa2xOSTBqakNxTW9XLW1KNXFOUjlwX0YxZ1JtMXpvS21IUWl0alhpdjRhMG5hNkY2VVgzUGJuYkYzd3dOYVZxcHF5bDNUMWNycktZYXVOOHJfeHBSRk9GRGl3cFpaRGo1VUUtVWVpUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:27:42+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:27:42 GMT",
+      "snippet": "Praças de pedágio são substituídas por free flow a partir de domingo; veja como pagar ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T14:59:36.583315+00:00"
+    },
+    {
+      "id": "5531aa4abef22e37821cf7938e745e128d8b74898bf031cdcd7927d8fa41fd27",
+      "title": "Pedágio eletrônico começa a operar em Pirangi no domingo - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVFRSzlHaVdYUTFrc3o2Z0lQb3pwSDh1Z1F5b2Y4dktlMlZTTW1KVXhfNFB0QWdqZE5nOE9uVnBkYnNIbGgycUJyeTROSXlET0RTYzQyQV9jSlZHQktHMnB5a2FSSTV0X2YtbWJ5dVNjQkNTdnRrOHpqNmNUX2lyaktCLV8tOFI0OFZnQ0ZZeWNEV3dXblhKU0hYc0d1YmdkdDhuQXhWYTlXLTA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:19:13+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:19:13 GMT",
+      "snippet": "Pedágio eletrônico começa a operar em Pirangi no domingo Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T14:59:36.583236+00:00"
+    },
+    {
+      "id": "7ebe41375745aa0bd975639218e13a4c59b96d9a639afbfc4b20f7bb118b06b5",
+      "title": "Morre homem atingido por peça de caminhão na Washington Luís - Gazeta de Rio Preto",
+      "source": "Gazeta de Rio Preto",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTQwUmZiZGlhZGpLdHZtdjFOWEd1UG5IZVo3cS1aRVhZcXNfVmZEM25HcFI1VkE4WkxyZ2FrdmsxQ0FkazB1MENMNndVSUJFSTlfTDExZXVxR3hoWWE1UW1MUG1oVk50WHVLVjctX1JNa1JteEFPRGR0N2c4Z2FhWV9vMjJZWEJsSGxCRnlfNlo3bG5PTklnM2kySEFGdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T12:15:52+00:00",
+      "published_raw": "Tue, 27 Oct 2026 12:15:52 GMT",
+      "snippet": "Morre homem atingido por peça de caminhão na Washington Luís Gazeta de Rio Preto",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T14:59:51.693918+00:00"
+    },
+    {
       "id": "ef5b3672a7ecc966229068bf6d371b001de248cb74963f00e909851cb2a57e12",
       "title": "Ecovias divulga cronograma de obras e interdições na Washington Luís em São Carlos - portaldacidade.com",
       "source": "portaldacidade.com",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:29:49.102544+00:00"
+      "collected_at": "2026-10-27T14:59:36.583369+00:00"
     },
     {
       "id": "1029ab9d144aab24d67ecd5092488b3bc7058c0491efd18c1cb9443b79411ceb",
@@ -71,13 +122,13 @@
       "published": "2026-10-26T21:39:55+00:00",
       "published_raw": "Mon, 26 Oct 2026 21:39:55 GMT",
       "snippet": "Acesso de Potirendaba para a Washington Luís será interditado nesta terça, 27 Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:29:49.102678+00:00"
+      "collected_at": "2026-10-27T14:59:36.583484+00:00"
     },
     {
       "id": "fa9e24af4f7f350bed643db5ebfe6f1cbfe5f2a6d3fe6f269f6cd9a9a634e64b",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:29:49.102637+00:00"
+      "collected_at": "2026-10-27T14:59:36.583428+00:00"
     },
     {
       "id": "37b234ffa5ba472c28532ebc02bddd25c802ec276fe6f1d1454c0bb2266d14df",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:30:00.184161+00:00"
+      "collected_at": "2026-10-27T14:59:48.076816+00:00"
     },
     {
       "id": "632c924559a34bccbffd35a3a95143d832e674f68a0734881c0ae7498d79df50",
@@ -128,13 +179,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:30:00.184200+00:00"
+      "collected_at": "2026-10-27T14:59:48.076764+00:00"
     },
     {
       "id": "13e8bafff2bfabbf096fffb7a4d1dc0ed67bcfd63a01f2ad5af211994e06eb18",
       "title": "Ecovias Noroeste Paulista informa cronograma de obras de 26/10 a 1/11/2026 - Portal SCDN - Porque a informação não para!",
       "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWtvZXJpQmNzVUlTSWlxUFlyTHZsMHdXZEExaVpMZF92Q1A5M0ZfLVZFeDZaZ2QxRGVBUERQa2VoanZ5M3NPR09fZzdDczlacG1pbE5fSmZGZlVLbGN3eVgtcFpMTGlEaXFjR0Y1aU1MaElUa3YtT0NpSTg4a0xUTzR5VHB2aWxWOW45enM2MFJXWV9sTmo5TUZmdDVXTEVWNlVPWElaNHVFcTc3T0NDc1FoOTU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzFnQk5TRjdZMzJUeVBJYVZLT1hjTElscG9BVmhpX1oyVnVyN2NuLW1GNG1sWTdycjdUaG1xODhLUUYxX3oxU2x3NlV4V3hHSGxmUFJNYWtkRk44VmczNHI0MjZJZm1LVzQ4cmdGcGVfRGNBRE9jdjRXdkh2S2trWlJXVlQ0T3hhLS1nYTBIYjZnSURRLXJuRHBGNElaMTBVdlBlOXNRcEFLM3lwOHMw?oc=5",
       "resolved_link": "",
       "published": "2026-10-26T15:43:12+00:00",
       "published_raw": "Mon, 26 Oct 2026 15:43:12 GMT",
@@ -145,24 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T11:29:49.102488+00:00"
-    },
-    {
-      "id": "8c4d37a880b88c27d3bd21aac527651d1c4540bbd3de431b25e8d803667bf72a",
-      "title": "Washington Luís terá obras e interdições em São Carlos; veja onde - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOV83bWJ5ekUzQzJtbGl2OWM4ajMwTTlOS0lrcExFNXVCY0tRVFdZaF9oc0duQ1NlSmFFMFBrZ3lDSER2T1hQa2NFWW0wZ25vbzFPR2RVMnVDdktZbjVpZlZESHVLT2MwWXNGN0pSQlpaT2lzUDZkUG42XzZpVGt4SUhn0gGCAUFVX3lxTE45XzdtYnl6RTNDMm1saXY5YzhqMzBNOU5LSWtwTEU1dUJjS1FUV1loX2hzR25DU2VKYUUwUGtneUNIRHZPWFBrY0VZbTBnbm9vMU9HZFUydUN2S1luNWlmVkRIdUtPYzBZc0Y3SlJCWlpPaXNQNmRQbjZfNmlUa3hJSGc?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-26T14:25:22+00:00",
-      "published_raw": "Mon, 26 Oct 2026 14:25:22 GMT",
-      "snippet": "Washington Luís terá obras e interdições em São Carlos; veja onde - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-27T11:29:49.102591+00:00"
+      "collected_at": "2026-10-27T14:59:36.583174+00:00"
     }
   ]
 }
