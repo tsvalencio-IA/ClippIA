@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T14:59:54.470507+00:00",
+  "updated_at": "2026-10-27T17:19:43.587156+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 10,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583315+00:00"
+      "collected_at": "2026-10-27T17:19:25.959341+00:00"
     },
     {
       "id": "5531aa4abef22e37821cf7938e745e128d8b74898bf031cdcd7927d8fa41fd27",
@@ -77,7 +77,58 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583236+00:00"
+      "collected_at": "2026-10-27T17:19:25.959249+00:00"
+    },
+    {
+      "id": "39a9138fa4bc236ef8f2e261b381e17adbb871d404a461108b534112ba9e643f",
+      "title": "Pedágio Eletrônico começará a operar em Pirangi e Monte Alto no domingo - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmtLc245UTVacXFyMlJUbWJFSWF2MVNTOUhXZG5rUHdBRE1mRDQ3Z2ZXMlJ1RE9ybTVNSEp5RDExN2RJQWZJN01KZU1UWWZuMkhzYlcwQ1ZHNURqakVXUVdRaUZ6OFRBTU9XY1ZVZVdQcUU0U0FLQWpHTUFrcVFzRXl4OHU5dzBSc3NvNFVOUEZLamZiWkU2dmpFUjVURnFpMVhiUmoyWVFvd3EzZ2hsQm9NNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:18:03+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:18:03 GMT",
+      "snippet": "Pedágio Eletrônico começará a operar em Pirangi e Monte Alto no domingo Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T17:19:25.959425+00:00"
+    },
+    {
+      "id": "6cddb18fdc117044fe631990ebbae27dc297e373b99dd1c3421005b7605e3c79",
+      "title": "Pedágios da região mudam em 1º de novembro; veja como pagar - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0M2FrUlpNNlBPX0tsMHpkTFpXa2FsZl9TbHFlbFF1QVBWSzBiRFZCWEVlMGhja25lR3lPQjVMaUFNVHFBVkxGWi1UdkVKUV9MM09veHhEZWpDT2Q1QWZpQmVkQk1BWGlGNUxnOHhkT3JSM081cE1uR2Zkb9IBzwJBVV95cUxQNmRHUDZSQ2h4dUFpeU9Selg1MjI1bnZTTzdFSDVuMV9sN1Jvd2RQMkF0VW9Ia2hmb1R5c2ZyOW9sbW9SbXBGa2hBalJSbmcyUUhOdW81dWQ4eDlaNkZ3aUk1WjlaVnF1ZXNyV3d1ejhPdzcwMURaenp0ZWZ1M21EZEdHQzc4bk1qWVVhSFNQWWJzblF4MTM2Y2lIeUtDeDNOODJaZHJPN1BYZ2c5YmM3aGJuY3N5X240VzdFN3JabW0tSEk3YWNRS3dmTDA5aDdncVBIR0YwRmQwUUtvS09VSUhUZEVFQlJVRnhJc2lTTEFZblFkUW41SEhCcWdHdVA3aTFQOVRsYmx1dEhwdEdGbW4wQ2pwQkFxT2ZNZmIzMENQSDhwenZYcjdKRTcza05fZ0ZueVRMcUJWd0U4cjFqNzUzRTlCakkwSVZrcTRuNA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:11:38+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:11:38 GMT",
+      "snippet": "Pedágios da região mudam em 1º de novembro; veja como pagar - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T17:19:25.959624+00:00"
+    },
+    {
+      "id": "55d39a53093e4e5ea9c062bc4f9052f85e90a066dd4fa8c0106ccf21b2cb144e",
+      "title": "Fluxo nas rodovias da Arteris ViaPaulista deve crescer 7% no feriado de Finados, com 643 mil veículos… - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3k3RzFaUGlhUDlSNzVEY0ZqeHN0Y0VZN3Y5cVdmT0Z1YVJZOFloR1ZNVy1jRjJ4OFBjX2pjUmJlejZaTTc5RjREVXBXeEJLTVNtMjNoX1ZZVE5BdnhrVVpCZjQwdUJucFh2WU9ZZjJQMEFWa3U4Qm1MMFFDMXJ0bklJVk5UT0RZbFNDQmlyZURRem1YSjZXUmhXaS1WQldfTW9xSlo1ZzdsMFRUY3lJUDcweFpWRFFnZnM1b1BXbDJIdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:07:12+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:07:12 GMT",
+      "snippet": "Fluxo nas rodovias da Arteris ViaPaulista deve crescer 7% no feriado de Finados, com 643 mil veículos… Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T17:19:37.270703+00:00"
     },
     {
       "id": "7ebe41375745aa0bd975639218e13a4c59b96d9a639afbfc4b20f7bb118b06b5",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:51.693918+00:00"
+      "collected_at": "2026-10-27T17:19:40.835613+00:00"
     },
     {
       "id": "ef5b3672a7ecc966229068bf6d371b001de248cb74963f00e909851cb2a57e12",
@@ -111,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583369+00:00"
+      "collected_at": "2026-10-27T17:19:25.959505+00:00"
     },
     {
       "id": "1029ab9d144aab24d67ecd5092488b3bc7058c0491efd18c1cb9443b79411ceb",
@@ -128,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583484+00:00"
+      "collected_at": "2026-10-27T17:19:25.959791+00:00"
     },
     {
       "id": "fa9e24af4f7f350bed643db5ebfe6f1cbfe5f2a6d3fe6f269f6cd9a9a634e64b",
@@ -139,13 +190,13 @@
       "published": "2026-10-26T21:39:07+00:00",
       "published_raw": "Mon, 26 Oct 2026 21:39:07 GMT",
       "snippet": "São-carlense realiza sonho de subir ao palco do Programa Silvio Santos e participa de disputa por R$ 50 mil São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583428+00:00"
+      "collected_at": "2026-10-27T17:19:25.959714+00:00"
     },
     {
       "id": "37b234ffa5ba472c28532ebc02bddd25c802ec276fe6f1d1454c0bb2266d14df",
@@ -156,47 +207,13 @@
       "published": "2026-10-26T18:05:43+00:00",
       "published_raw": "Mon, 26 Oct 2026 18:05:43 GMT",
       "snippet": "Acesso à Washington Luís para quem vem de Potirendaba volta a ser liberado em Cedral Gazeta do Interior",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-27T14:59:48.076816+00:00"
-    },
-    {
-      "id": "632c924559a34bccbffd35a3a95143d832e674f68a0734881c0ae7498d79df50",
-      "title": "São Carlos terá interdições na Washington Luís nesta semana durante obras de ampliação - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRXZ3ZTdESlRCM2xRVnVxdHdxOU9EbmhDeXIyNXgyV296NlBFM1hfUy1BOHE3bEU0YUZBMnN2UERtTHAxRGdtMS1HNXBCenZpWThmTFliMTNWLXZYdmNuQXZkdXhSMVZ3WEhxbUlSRW5HYm1faDU4bS0zN3lmbkxrdFNyRl9ZVnRwT2htOHhlRjhMSHhFaWppRmt3cGVzTzNDTkFMMTFRYkRoSjNzNERjbWlSMEIxc3RGMnVCN3lUbmR6NzEyVGQ3MkZiNzJpc216VDJGXzdUYkVOT28?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-26T16:54:00+00:00",
-      "published_raw": "Mon, 26 Oct 2026 16:54:00 GMT",
-      "snippet": "São Carlos terá interdições na Washington Luís nesta semana durante obras de ampliação São Carlos Agora",
-      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-27T14:59:48.076764+00:00"
-    },
-    {
-      "id": "13e8bafff2bfabbf096fffb7a4d1dc0ed67bcfd63a01f2ad5af211994e06eb18",
-      "title": "Ecovias Noroeste Paulista informa cronograma de obras de 26/10 a 1/11/2026 - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzFnQk5TRjdZMzJUeVBJYVZLT1hjTElscG9BVmhpX1oyVnVyN2NuLW1GNG1sWTdycjdUaG1xODhLUUYxX3oxU2x3NlV4V3hHSGxmUFJNYWtkRk44VmczNHI0MjZJZm1LVzQ4cmdGcGVfRGNBRE9jdjRXdkh2S2trWlJXVlQ0T3hhLS1nYTBIYjZnSURRLXJuRHBGNElaMTBVdlBlOXNRcEFLM3lwOHMw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-26T15:43:12+00:00",
-      "published_raw": "Mon, 26 Oct 2026 15:43:12 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 26/10 a 1/11/2026 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T14:59:36.583174+00:00"
+      "collected_at": "2026-10-27T17:19:25.959867+00:00"
     }
   ]
 }
