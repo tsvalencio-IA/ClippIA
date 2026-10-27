@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T17:19:43.587156+00:00",
+  "updated_at": "2026-10-27T19:52:14.019746+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 12,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "bd932c4b15030b9395d28b50f7ae49199411229fd94689564e229d6ba234bdbe",
+      "title": "Do primeiro barril às danças típicas: a tradição alemã ganha vida na Oktoberfest Interior Paulista - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3JIeDdyVXlJNnhFTmtzVGJueFY3NFZweFd0blJzbnd1WGNVYUt3YkhZRVczVURfRTlqWVFsUF9KeDRUOVZDOWxpVE95WGhSVnItQXBudm15MWRNbU0wWGdRUThFdlE2WE5lT0xncVZRb2RBOXp1OHp2bUx4UGp3LVRZeU5lY3FmMmdnMHg5SG1OV0VRSFVJWE9SSDVCZ1ZsM0tUcjRoRE82NFFRUjFoZ3gzZDFYZy02Q0dTcmx1NlZvYjFBcXlzV25sd9IBywFBVV95cUxNS3JIeDdyVXlJNnhFTmtzVGJueFY3NFZweFd0blJzbnd1WGNVYUt3YkhZRVczVURfRTlqWVFsUF9KeDRUOVZDOWxpVE95WGhSVnItQXBudm15MWRNbU0wWGdRUThFdlE2WE5lT0xncVZRb2RBOXp1OHp2bUx4UGp3LVRZeU5lY3FmMmdnMHg5SG1OV0VRSFVJWE9SSDVCZ1ZsM0tUcjRoRE82NFFRUjFoZ3gzZDFYZy02Q0dTcmx1NlZvYjFBcXlzV25sdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T14:38:16+00:00",
+      "published_raw": "Tue, 27 Oct 2026 14:38:16 GMT",
+      "snippet": "Do primeiro barril às danças típicas: a tradição alemã ganha vida na Oktoberfest Interior Paulista - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T19:51:56.043189+00:00"
+    },
+    {
       "id": "3f2c65fa165e8ebfce76fe6dee7ea7a52badce90b5fc58274d9c8c6e01f2b9ef",
       "title": "Praças de pedágio são substituídas por free flow a partir de domingo; veja como pagar - ACidade ON",
       "source": "ACidade ON",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959341+00:00"
+      "collected_at": "2026-10-27T19:51:56.043013+00:00"
     },
     {
       "id": "5531aa4abef22e37821cf7938e745e128d8b74898bf031cdcd7927d8fa41fd27",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959249+00:00"
+      "collected_at": "2026-10-27T19:51:56.042960+00:00"
     },
     {
       "id": "39a9138fa4bc236ef8f2e261b381e17adbb871d404a461108b534112ba9e643f",
@@ -94,24 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959425+00:00"
+      "collected_at": "2026-10-27T19:51:56.043057+00:00"
     },
     {
       "id": "6cddb18fdc117044fe631990ebbae27dc297e373b99dd1c3421005b7605e3c79",
       "title": "Pedágios da região mudam em 1º de novembro; veja como pagar - São Carlos em Rede - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0M2FrUlpNNlBPX0tsMHpkTFpXa2FsZl9TbHFlbFF1QVBWSzBiRFZCWEVlMGhja25lR3lPQjVMaUFNVHFBVkxGWi1UdkVKUV9MM09veHhEZWpDT2Q1QWZpQmVkQk1BWGlGNUxnOHhkT3JSM081cE1uR2Zkb9IBzwJBVV95cUxQNmRHUDZSQ2h4dUFpeU9Selg1MjI1bnZTTzdFSDVuMV9sN1Jvd2RQMkF0VW9Ia2hmb1R5c2ZyOW9sbW9SbXBGa2hBalJSbmcyUUhOdW81dWQ4eDlaNkZ3aUk1WjlaVnF1ZXNyV3d1ejhPdzcwMURaenp0ZWZ1M21EZEdHQzc4bk1qWVVhSFNQWWJzblF4MTM2Y2lIeUtDeDNOODJaZHJPN1BYZ2c5YmM3aGJuY3N5X240VzdFN3JabW0tSEk3YWNRS3dmTDA5aDdncVBIR0YwRmQwUUtvS09VSUhUZEVFQlJVRnhJc2lTTEFZblFkUW41SEhCcWdHdVA3aTFQOVRsYmx1dEhwdEdGbW4wQ2pwQkFxT2ZNZmIzMENQSDhwenZYcjdKRTcza05fZ0ZueVRMcUJWd0U4cjFqNzUzRTlCakkwSVZrcTRuNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQNmRHUDZSQ2h4dUFpeU9Selg1MjI1bnZTTzdFSDVuMV9sN1Jvd2RQMkF0VW9Ia2hmb1R5c2ZyOW9sbW9SbXBGa2hBalJSbmcyUUhOdW81dWQ4eDlaNkZ3aUk1WjlaVnF1ZXNyV3d1ejhPdzcwMURaenp0ZWZ1M21EZEdHQzc4bk1qWVVhSFNQWWJzblF4MTM2Y2lIeUtDeDNOODJaZHJPN1BYZ2c5YmM3aGJuY3N5X240VzdFN3JabW0tSEk3YWNRS3dmTDA5aDdncVBIR0YwRmQwUUtvS09VSUhUZEVFQlJVRnhJc2lTTEFZblFkUW41SEhCcWdHdVA3aTFQOVRsYmx1dEhwdEdGbW4wQ2pwQkFxT2ZNZmIzMENQSDhwenZYcjdKRTcza05fZ0ZueVRMcUJWd0U4cjFqNzUzRTlCakkwSVZrcTRuNNIBzwJBVV95cUxQNmRHUDZSQ2h4dUFpeU9Selg1MjI1bnZTTzdFSDVuMV9sN1Jvd2RQMkF0VW9Ia2hmb1R5c2ZyOW9sbW9SbXBGa2hBalJSbmcyUUhOdW81dWQ4eDlaNkZ3aUk1WjlaVnF1ZXNyV3d1ejhPdzcwMURaenp0ZWZ1M21EZEdHQzc4bk1qWVVhSFNQWWJzblF4MTM2Y2lIeUtDeDNOODJaZHJPN1BYZ2c5YmM3aGJuY3N5X240VzdFN3JabW0tSEk3YWNRS3dmTDA5aDdncVBIR0YwRmQwUUtvS09VSUhUZEVFQlJVRnhJc2lTTEFZblFkUW41SEhCcWdHdVA3aTFQOVRsYmx1dEhwdEdGbW4wQ2pwQkFxT2ZNZmIzMENQSDhwenZYcjdKRTcza05fZ0ZueVRMcUJWd0U4cjFqNzUzRTlCakkwSVZrcTRuNA?oc=5",
       "resolved_link": "",
       "published": "2026-10-27T14:11:38+00:00",
       "published_raw": "Tue, 27 Oct 2026 14:11:38 GMT",
       "snippet": "Pedágios da região mudam em 1º de novembro; veja como pagar - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959624+00:00"
+      "collected_at": "2026-10-27T19:51:56.043142+00:00"
     },
     {
       "id": "55d39a53093e4e5ea9c062bc4f9052f85e90a066dd4fa8c0106ccf21b2cb144e",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:37.270703+00:00"
+      "collected_at": "2026-10-27T19:52:07.514568+00:00"
     },
     {
       "id": "7ebe41375745aa0bd975639218e13a4c59b96d9a639afbfc4b20f7bb118b06b5",
@@ -145,7 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:40.835613+00:00"
+      "collected_at": "2026-10-27T19:52:11.202742+00:00"
+    },
+    {
+      "id": "37b234ffa5ba472c28532ebc02bddd25c802ec276fe6f1d1454c0bb2266d14df",
+      "title": "Acesso à Washington Luís para quem vem de Potirendaba volta a ser liberado em Cedral - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX21vb0JvN3h1em5HWFVvSjBpOUhub2dTUXJHV28wRm5QdVpsQTlCbFgxOUpsZHFxSlNIVlVCem94c05NVmNvM3hCeU52dVZmN3EyQzhnamJGd1ZWZElrM2hhb1plaVIxR1JJOG9PTjZOUFFvMHBmYzZ2UkFqYmRpY28wdjdreE53anNObElqMXVrWFFWSnEwUHBLUVpBQzlIeGhYbVVQQ0JRWUw3SWJ3U0tqalR5MnBwajNHd1ExZzgtNTRzSVFz0gHHAUFVX3lxTE1fbW9vQm83eHV6bkdYVW9KMGk5SG5vZ1NRckdXbzBGblB1WmxBOUJsWDE5SmxkcXFKU0hWVUJ6b3hzTk1WY28zeEJ5TnZ1VmY3cTJDOGdqYkZ3VlZkSWszaGFvWmVpUjFHUkk4b09ONk5QUW8wcGZjNnZSQWpiZGljbzB2N2t4Tndqc05sSWoxdWtYUVZKcTBQcEtRWkFDOUh4aFhtVVBDQlFZTDdJYndTS2pqVHkycHBqM0d3UTFnOC01NHNJUXM?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-27T10:50:08+00:00",
+      "published_raw": "Tue, 27 Oct 2026 10:50:08 GMT",
+      "snippet": "Acesso à Washington Luís para quem vem de Potirendaba volta a ser liberado em Cedral Gazeta do Interior",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T19:52:07.514655+00:00"
     },
     {
       "id": "ef5b3672a7ecc966229068bf6d371b001de248cb74963f00e909851cb2a57e12",
@@ -162,24 +196,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959505+00:00"
+      "collected_at": "2026-10-27T19:51:56.043102+00:00"
     },
     {
-      "id": "1029ab9d144aab24d67ecd5092488b3bc7058c0491efd18c1cb9443b79411ceb",
-      "title": "Acesso de Potirendaba para a Washington Luís será interditado nesta terça, 27 - Diário da Região",
+      "id": "6831c1fd7a25dba2d424dfae377fc2dc025f26b2d64065eaaf2e14d4ec0eccc1",
+      "title": "Maysa Prado de Carvalho Medeiros e o marido Dimi Medeiros estão na Coluna Social de hoje - Diário da Região",
       "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkNjLUFMa3hScFFVbWI3NGczU00tWlI4akdEM0t3TlBHcl9ucGxyUml0UUd5Q2h5MDBZaVM2cWIwSnhVSlNZWThsc19MUDF6Z0d4NXRnUTd3blBQU0U4QmtpMUZxZ3FfZDlDcm8tNThlX1FOQURmZWowM2NxTi14eGliZmllX1JKZnNuM2kxUU10XzU3c0JyQWNqczZFSkY5czRNSERQdHk3V1A2NldfS3JqcHVRX3ZRX0FUOHRPZzJrOEdOYVZqczMtOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDR5RlB4dDV1b1ZhOVFQZDJ3aXktNFRVU3Vvb2RJQlR2bE9VNW9KaGRTNnlIY01uOTNjWUxKTkJYai03T0R2dHZGb3BsbWZsOGRHVGJTVGNDTEhDWm55NWY3eUUzeHdDM3llX0pWZGxrZWZjbHdhQVJSQVZ6ZERaMC13NDBFclFMeV9yc0NLSE56VGRmX2o4d3pkQ1A5MEFRdl9rNUF5c2hPYmpQLXRMQkRmYXBxNGdyeDI3ZnNrbnhMZ1JhcFhWbXpUTmVUY0c5UkUxOQ?oc=5",
       "resolved_link": "",
-      "published": "2026-10-26T21:39:55+00:00",
-      "published_raw": "Mon, 26 Oct 2026 21:39:55 GMT",
-      "snippet": "Acesso de Potirendaba para a Washington Luís será interditado nesta terça, 27 Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "published": "2026-10-27T00:46:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 00:46:00 GMT",
+      "snippet": "Maysa Prado de Carvalho Medeiros e o marido Dimi Medeiros estão na Coluna Social de hoje Diário da Região",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-27T19:51:57.842468+00:00"
+    },
+    {
+      "id": "ca81351426304d3ea7c9697e6c0c82b3c04433000814534c2b268db576d4ce5d",
+      "title": "Moraes proíbe Flávio Bolsonaro de sair do Brasil e determina entrega de passaportes - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTdsWjFWYzE3RkEyTDZyRjJ0eGUxTExxQkE1U1dDTXhiel96ZWR5NGE3a3AxUGZwaDRGZGxCR18walpNM3BvRVk3UzYyRDZPTDFKNGFzd3NlUHlYNDZBY2M5NWdmUEJ1QmZPQy14ZjlpSURzbWdWMGo0RFNVZXR3X0NxSlcwcjM5a1MwWEVJdERKcUduckdiUkNjNzFvR3ZyWDlNdkkxTXQycWVYSVl0NEhWay1lSG5z0gG4AUFVX3lxTE5tN2xaMVZjMTdGQTJMNnJGMnR4ZTFMTHFCQTVTV0NNeGJ6X3plZHk0YTdrcDFQZnBoNEZkbEJHXzBqWk0zcG9FWTdTNjJENk9MMUo0YXN3c2VQeVg0NkFjYzk1Z2ZQQnVCZk9DLXhmOWlJRHNtZ1YwajREU1VldHdfQ3FKVzByMzlrUzBYRUl0REpxR25yR2JSQ2M3MW9HdnJYOU12STFNdDJxZVhJWXQ0SFZrLWVIbnM?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-26T22:09:43+00:00",
+      "published_raw": "Mon, 26 Oct 2026 22:09:43 GMT",
+      "snippet": "Moraes proíbe Flávio Bolsonaro de sair do Brasil e determina entrega de passaportes - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959791+00:00"
+      "collected_at": "2026-10-27T19:51:56.043236+00:00"
     },
     {
       "id": "fa9e24af4f7f350bed643db5ebfe6f1cbfe5f2a6d3fe6f269f6cd9a9a634e64b",
@@ -196,24 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959714+00:00"
-    },
-    {
-      "id": "37b234ffa5ba472c28532ebc02bddd25c802ec276fe6f1d1454c0bb2266d14df",
-      "title": "Acesso à Washington Luís para quem vem de Potirendaba volta a ser liberado em Cedral - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmQwSjhIdGFRTjRTMlA0czgxLVlvQ0x0N2ZBZFZPWVViRDRFY0lzNU5PbFFYNnViTVNfZnlYWEJWeW15b3J4R1EyWWFROVRHdWJQLWYyajNkTTZ1cUZHZFF2ZE0wZk81Y3NDZDdYMVo2TTFGcHllR3JrRmF0YllicEhZQV90bVYwVUZLN1dMdVBBX0dYRmZ6Mlc3X2k3XzhhWERLb1gyQ3NqSnBuR0loLWpWMXdpdTU3dXJrNzJscw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-26T18:05:43+00:00",
-      "published_raw": "Mon, 26 Oct 2026 18:05:43 GMT",
-      "snippet": "Acesso à Washington Luís para quem vem de Potirendaba volta a ser liberado em Cedral Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-27T17:19:25.959867+00:00"
+      "collected_at": "2026-10-27T19:51:56.043281+00:00"
     }
   ]
 }
