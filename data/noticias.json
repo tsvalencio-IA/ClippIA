@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28T18:15:57.966106+00:00",
+  "updated_at": "2026-10-28T21:58:35.424984+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 10,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "04fbe555516f115239f7f434e8416fcca49ba3357eb1c3b7d83eac801411e3f5",
+      "title": "Pedágio Eletrônico começará a operar em Pirangi e Monte Alto no domingo - regiaonews.net.br",
+      "source": "regiaonews.net.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalZwVkN2TVdCVmJnYlF3alJMS01sVkpwVTNFU3lNZmJVdTlFZUhsaEZ4SXpmRmc2V1cyZHNiNk8zQVo5Nml0eV8xYzBCZ3dFckxNOUNBOG9MMjlJVGdXUzFGRlFPdnB6aVpYNnItUzJuUy1xZm8tbHdTSVRSUkFwbk5sSmZXMldCMGRoelVRLUlNY0dNM2RYaDhMeUx1aElRemN6NUdUUWVCMmx4TnBWXw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-28T21:46:46+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:46:46 GMT",
+      "snippet": "Pedágio Eletrônico começará a operar em Pirangi e Monte Alto no domingo regiaonews.net.br",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-28T21:58:19.071152+00:00"
+    },
+    {
+      "id": "a9f74487311b8ff3063af4d99b983262e8e79086ce4c8c8636fc2eaf683573df",
+      "title": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDJtREZscUhsSkFXY0xOajA1aUtreUNCUEI4OERGYWljbFBmcG0tS3JwaGNhRENLUWpuUW9abFdhT0RiQ2Y1dGp0QW4tNUI3cmNCZjNMYmF3bS1LSlplUXdUei1tWF90UTMwT0V2cVhYVXJ5ZS1tRGM2VDRrTkNoblpHU3F1Y3oycE5pS2pUMDNqQVZrRzE0OVVnRTJ6c253OGdTWUdBcGNDaE9HZ2ZSNWt6ZHdETzUxWVpLSTd2T3BTMk9pMmhPSG9n0gHPAUFVX3lxTE5vN3VjTTJtNS1Nc0E3TndRanoyX2JMY1kzRTBLZDVHUDhGWFFmOXhjNGlqRmpieVlkQ1JKMnhxLWlYNmFYWnFSaEFOaHBNaGxiTDAwRG9RaDdLMENOZF9sN1pFc1ZWdWFvVnRGWkpqWHlGazc2alQwV0tTTi1BeUNCT18tRXpIQTg0MmNtV2MwSTgxdnZMakpTVTBtbjVqcmdHNGRXZ1ZsTW1SbUhfdU1CWFVReTdMUElldUxBek16bzFOZFQwYnBSUUtxb284VQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-28T21:37:05+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:37:05 GMT",
+      "snippet": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"freeflow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-28T21:58:19.071067+00:00"
+    },
+    {
       "id": "09c04aaa961da90b1891d74aa07810d405824758ea425e43e050ab6c30bfcea6",
       "title": "Novos pórticos eletrônicos de pedágio começam a funcionar em estradas da região - São Carlos Agora",
       "source": "São Carlos Agora",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:46.456928+00:00"
+      "collected_at": "2026-10-28T21:58:24.043925+00:00"
     },
     {
       "id": "7b822fd76e923072fd866899af19d14eb461f0997d5c9cb8361df84014a3703b",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.442947+00:00"
+      "collected_at": "2026-10-28T21:58:19.071223+00:00"
     },
     {
       "id": "69d5b487cf3172265c05697f321a3f13459dc19d77480ca3667d532f10a4df28",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443429+00:00"
+      "collected_at": "2026-10-28T21:58:19.071558+00:00"
     },
     {
       "id": "b8d1773ff3ff33cb6c5800a4477c8f88374db528a607885c9bb1ec572c471e09",
@@ -111,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443085+00:00"
-    },
-    {
-      "id": "d43205195288c842db0a59be983df5e68f81f64fa862dcf7139de3f4371eb304",
-      "title": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29) - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmRoNmZzZlltejZldThMdlRCeUNVeVZ2Wk1TdWJfTmVGZFFfQ2oyLW5RVXB3d0dtYlhXWGFKTTd0aTVnbzRESnIwZ2dTWXVPa3g1SUJfTThkci10OUd1dTRCRlFEN01fam40MjVwMTRKN3NJRkdwQnJQMVFCXzBhU3ZuM2J5MXRvQTJoVWw4Yzg1bVZ5azhhbzdjR01icE9zeTJodzZpcW92d01xYzJycVJZSE9xMmFqODlUem56LWZhU0ZfR0twdC1LcnQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-28T11:26:34+00:00",
-      "published_raw": "Wed, 28 Oct 2026 11:26:34 GMT",
-      "snippet": "Defesa Civil alerta para temporais em São Paulo, com chuvas mais abrangentes na quinta-feira (29) Portal SCDN - Porque a informação não para!",
-      "term": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-28T18:15:46.456809+00:00"
+      "collected_at": "2026-10-28T21:58:19.071349+00:00"
     },
     {
       "id": "472a559d2e6fc0ea3a1e36bf2d5a19fd53fadd98fa6bf732ed99f94cdc0e9f0a",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443296+00:00"
+      "collected_at": "2026-10-28T21:58:19.071427+00:00"
     },
     {
       "id": "1c586a65a8fd6d3c877f24a1c8ce55736cd28f2c590a08d5deb698a03896272f",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443017+00:00"
+      "collected_at": "2026-10-28T21:58:19.071284+00:00"
     },
     {
       "id": "df653f6d20e7d49add86c73bd488c7c12dafe3c7b0474a8260676849c4043199",
@@ -173,13 +190,13 @@
       "published": "2026-10-28T03:17:00+00:00",
       "published_raw": "Wed, 28 Oct 2026 03:17:00 GMT",
       "snippet": "Pedágio Eletrônico começará a operar em Pirangi e Monte Alto no domingo - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443156+00:00"
+      "collected_at": "2026-10-28T21:58:28.487713+00:00"
     },
     {
       "id": "a8da16c2846cc2a88fcf7683689b84d520cada44483308164d41605afb866223",
@@ -196,41 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443359+00:00"
-    },
-    {
-      "id": "51a632e32f2311336a8267f1b2cab667953e60aaa2767af082695009e632db62",
-      "title": "Pedágios de Pirangi e Monte Alto vão funcionar por cobrança eletrônica - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVd1REVuOUFJbXdzQi1Dd1NBNUJjMnRIclBsSjhJbWpHZUh5UkdUTkowNV9PLXdyenRBYS1hMDhhQXotSnVBX1VfbkFTTTc5RGxSYURUYXBGWFJDTnlPdU5oaEtjREdyXzBwdGtYLWlSM20yNV84VFBHcDdoeUVJLXRhUEJRTU9abTRIaHc5XzJBMmhNRmFTYU02Tm1ISzd5VS1UeUxJT2ZJQlFwUXVhYnhwR3c4UTU1VUpocEk1M1haMGM?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-27T21:52:00+00:00",
-      "published_raw": "Tue, 27 Oct 2026 21:52:00 GMT",
-      "snippet": "Pedágios de Pirangi e Monte Alto vão funcionar por cobrança eletrônica Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.443222+00:00"
-    },
-    {
-      "id": "bde282d8bc2aca075cd258d0211e1fcf8d309efc153019e298301fb14259b060",
-      "title": "Ecovias substitui três praças físicas pelo Siga Fácil - A Comarca — Matão/SP",
-      "source": "A Comarca — Matão/SP",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUC1Pa3RQMDJYVjd3QmVCTkdpQmdxVl9XXzliVHhVNVp6S1hNQkNxczBDRGQ1MmJIbl8zNDJ1dlRqWDE1ZTFQTE9Hd1cwN2tYVkl0M3k2QUZENDE0cWFST3lMSWlBWF9sbEdIUmpjdnZVQmptZl9qMVZuZUhlSVFrMUp4UDB5SkZZTTMtWS1HcGtLY0lfNnJkRVJhQmdtd2Y3Nk5lbUJ0ZlNkS0IyX1ZpczBTUjY?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-27T21:00:00+00:00",
-      "published_raw": "Tue, 27 Oct 2026 21:00:00 GMT",
-      "snippet": "Ecovias substitui três praças físicas pelo Siga Fácil A Comarca — Matão/SP",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-28T18:15:41.442852+00:00"
+      "collected_at": "2026-10-28T21:58:19.071487+00:00"
     }
   ]
 }
