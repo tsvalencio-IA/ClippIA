@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:44:19.581415+00:00",
+  "updated_at": "2026-10-29T17:56:19.647911+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 14,
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.108073+00:00"
+      "collected_at": "2026-10-29T17:56:06.536913+00:00"
+    },
+    {
+      "id": "5c83deab0577ad1a2822892110d54b1557bd46ea9df78d2971a834c45f0a31cd",
+      "title": "Ecovias Noroeste Paulista Expande Siga Fácil, Substituindo Praças Físicas por Pedágio Eletrônico - Jornal Digital da Região Oeste",
+      "source": "Jornal Digital da Região Oeste",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2twTi1MbTRfSTY2NG1LNVhqR2xEcGUyamU4dUtYWHFWVnRBVmRJNnJ2WTZQOEJzeDR0bnZGUEFnT2Q1Y2J2Y1NESmNUUmo2LUZjcWhnbHVOaHlkckVrV0lOMFlSdGF6dkdhRm1iWG9YTm4wei1pbm5ZbGZXdkFaaFFPYzZLZGozMGtfYlNKdjNhTjA?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-29T12:59:07+00:00",
+      "published_raw": "Thu, 29 Oct 2026 12:59:07 GMT",
+      "snippet": "Ecovias Noroeste Paulista Expande Siga Fácil, Substituindo Praças Físicas por Pedágio Eletrônico Jornal Digital da Região Oeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" DUF | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-29T17:56:00.729590+00:00"
     },
     {
       "id": "7737a7c0d7dfc1c20687f9f394d33658fd010e241129bd04cde848c869453208",
@@ -77,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:15.062036+00:00"
-    },
-    {
-      "id": "5c83deab0577ad1a2822892110d54b1557bd46ea9df78d2971a834c45f0a31cd",
-      "title": "Ecovias Noroeste Paulista Expande Siga Fácil, Substituindo Praças Físicas por Pedágio Eletrônico - Jornal Digital da Região Oeste",
-      "source": "Jornal Digital da Região Oeste",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2twTi1MbTRfSTY2NG1LNVhqR2xEcGUyamU4dUtYWHFWVnRBVmRJNnJ2WTZQOEJzeDR0bnZGUEFnT2Q1Y2J2Y1NESmNUUmo2LUZjcWhnbHVOaHlkckVrV0lOMFlSdGF6dkdhRm1iWG9YTm4wei1pbm5ZbGZXdkFaaFFPYzZLZGozMGtfYlNKdjNhTjA?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-29T11:44:21+00:00",
-      "published_raw": "Thu, 29 Oct 2026 11:44:21 GMT",
-      "snippet": "Ecovias Noroeste Paulista Expande Siga Fácil, Substituindo Praças Físicas por Pedágio Eletrônico Jornal Digital da Região Oeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-29T17:44:01.881980+00:00"
+      "collected_at": "2026-10-29T17:56:14.654333+00:00"
     },
     {
       "id": "aa642f4ccd7491fb2c68cf8f143268959a34d5af7622e51ba23ce7582cdf77c3",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:01.881765+00:00"
+      "collected_at": "2026-10-29T17:56:00.729471+00:00"
     },
     {
       "id": "e1614f6da8d5c6081d3d4480451d407ddb8782fd0b58257a5c57c0fcb663beda",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:11.848875+00:00"
+      "collected_at": "2026-10-29T17:56:11.549783+00:00"
     },
     {
       "id": "0d34b6fcdfccdc329e8fa288e9c37ba93fbc7c8d314bb4efc3e2f738976c6c1f",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:08.280224+00:00"
+      "collected_at": "2026-10-29T17:56:07.807604+00:00"
     },
     {
       "id": "fda5467eb31763797d5e5578b6ace83fc8fbccbdcf7913f3a8c5852850d4f9af",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:01.881659+00:00"
+      "collected_at": "2026-10-29T17:56:00.729379+00:00"
     },
     {
       "id": "c71f07dbfc9f613f5e0070093cf992b095f0fb6ce17c6e09b025bda7f62a5f93",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.108213+00:00"
+      "collected_at": "2026-10-29T17:56:06.536977+00:00"
     },
     {
       "id": "2b5bc586b7c47cd92bd43aa1d5e9f9df7eda295655c3fa2d08e499b20aae8b87",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:01.882050+00:00"
+      "collected_at": "2026-10-29T17:56:00.729640+00:00"
     },
     {
       "id": "7af8fabe609eaddb3b97fc5a53f219409f488d36cc5ecb4e5dc73185e6174f95",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.108139+00:00"
+      "collected_at": "2026-10-29T17:56:06.536941+00:00"
     },
     {
       "id": "6d5ad7760e1f4d18a03a610e961d1eaf1fca09defb6f897733ae45c8eb03ac43",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.107540+00:00"
+      "collected_at": "2026-10-29T17:56:06.536665+00:00"
     },
     {
       "id": "de89ba86bb14c86a95407c412f4c775d71038e767a9c4a86888b0984bd339874",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.107769+00:00"
+      "collected_at": "2026-10-29T17:56:06.536815+00:00"
     },
     {
       "id": "04fbe555516f115239f7f434e8416fcca49ba3357eb1c3b7d83eac801411e3f5",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:07.107682+00:00"
+      "collected_at": "2026-10-29T17:56:06.536763+00:00"
     },
     {
       "id": "a9f74487311b8ff3063af4d99b983262e8e79086ce4c8c8636fc2eaf683573df",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T17:44:01.881840+00:00"
+      "collected_at": "2026-10-29T17:56:00.729531+00:00"
     }
   ]
 }
