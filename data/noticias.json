@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T03:19:06.679273+00:00",
+  "updated_at": "2026-10-29T09:15:11.058657+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 9,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "6d5ad7760e1f4d18a03a610e961d1eaf1fca09defb6f897733ae45c8eb03ac43",
+      "title": "Pedágio Eletrônico dará maior fluidez ao trânsito na Operação Finados - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekJoM0hVQkg5VmNMNVF6UjdJRWlWWlFLR3BhUFhuNkluUXAyRm94S29vNng5M0JVZFhVUXNrMENYNDY3N0J0VHQ5OGJGVHdoQVg0dkZiX0RjZmxOMXZfT2hPX2tBQ3hiWGlJMHdSMUpKclV3aWVaYzU1b3htdVZKdUxYbkxLdGVuUzQzWVdDYjIxUEtYMUt6WjJZdFdfTmhG0gGmAUFVX3lxTFA5dDFNMjd1TTlzMVlDVWY0UWg2eENXcm9ISkJvc1l3WGhxMlZWeEprcHczQnltN29zam5TcXNIVTVsdi1yOEpYNy1vaUFMMjFCamtUbG9mckIxMkZHT2xQcE5zVklTVV9tNWJfcDdPQ2VCd29KdFNybkZsNXVwVGRlbWZuZUFwcWEwVkFhMC1BOE5QaXBVVkt0QlJfcVhzYmh4MFIyanc?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-29T03:42:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 03:42:00 GMT",
+      "snippet": "Pedágio Eletrônico dará maior fluidez ao trânsito na Operação Finados - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-29T09:14:53.338921+00:00"
+    },
+    {
       "id": "de89ba86bb14c86a95407c412f4c775d71038e767a9c4a86888b0984bd339874",
       "title": "Edições do Jornal — O Regional - O Regional",
       "source": "O Regional",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718386+00:00"
+      "collected_at": "2026-10-29T09:14:53.339052+00:00"
     },
     {
       "id": "04fbe555516f115239f7f434e8416fcca49ba3357eb1c3b7d83eac801411e3f5",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718134+00:00"
+      "collected_at": "2026-10-29T09:14:53.338854+00:00"
     },
     {
       "id": "a9f74487311b8ff3063af4d99b983262e8e79086ce4c8c8636fc2eaf683573df",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718087+00:00"
+      "collected_at": "2026-10-29T09:14:53.338777+00:00"
     },
     {
       "id": "09c04aaa961da90b1891d74aa07810d405824758ea425e43e050ab6c30bfcea6",
@@ -105,13 +122,13 @@
       "published": "2026-10-28T17:32:00+00:00",
       "published_raw": "Wed, 28 Oct 2026 17:32:00 GMT",
       "snippet": "Novos pórticos eletrônicos de pedágio começam a funcionar em estradas da região São Carlos Agora",
-      "term": "\"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:54.169883+00:00"
+      "collected_at": "2026-10-29T09:14:53.339199+00:00"
     },
     {
       "id": "7b822fd76e923072fd866899af19d14eb461f0997d5c9cb8361df84014a3703b",
@@ -122,13 +139,13 @@
       "published": "2026-10-28T13:22:37+00:00",
       "published_raw": "Wed, 28 Oct 2026 13:22:37 GMT",
       "snippet": "Pedágio Eletrônico dará maior fluidez ao trânsito na Operação Finados Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" TAG",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718172+00:00"
+      "collected_at": "2026-10-29T09:15:01.119210+00:00"
     },
     {
       "id": "69d5b487cf3172265c05697f321a3f13459dc19d77480ca3667d532f10a4df28",
@@ -145,13 +162,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718536+00:00"
+      "collected_at": "2026-10-29T09:14:53.339139+00:00"
     },
     {
       "id": "b8d1773ff3ff33cb6c5800a4477c8f88374db528a607885c9bb1ec572c471e09",
       "title": "Pedágio Free flow entrará em operação em duas rodovias de SP - iG Último Segundo",
       "source": "iG Último Segundo",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVE1ieDFFTmNHb0czVDI0SjIwbzFWSmVTUlJOc2dna1pSNmxvekhmemJMaEZWR0k5ZGpIWHd1VWlwbVFpQzFtV2RGZFQ1dlFqNDAyZlp6dHhOLTlUZkZQOVhUNFlhcDF3ZUVseFh3eTMtYTNWNmcyRGtRSHFrT1BuVmlFeURvZ2wyMmNaUENIbDE2RnB6eF8zSHJLUE1QLXV5Z0lnbnJsbkZ1YjIzWmFWM1ctc3U2d19fa0R5eUR2eTQ1ZVMzTEFhcVpn0gHKAUFVX3lxTE5UTWJ4MUVOY0dvRzNUMjRKMjBvMVZKZVNSUk5zZ2drWlI2bG96SGZ6YkxoRlZHSTlkakhYd3VVaXBtUWlDMW1XZEZkVDV2UWo0MDJmWnp0eE4tOVRmRlA5WFQ0WWFwMXdlRWx4WHd5My1hM1Y2ZzJEa1FIcWtPUG5WaUV5RG9nbDIyY1pQQ0hsMTZGcHp4XzNIcktQTVAtdXlnSWducmxuRnViMjNaYVYzVy1zdTZ3X19rRHl5RHZ5NDVlUzNMQWFxWmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdng1aWFURGF1QTYwLWc2QUdZcnRBdHdJekVmVXpzSDhrTGR2WUdVekVrNDMtZmFEUHdTWnFoN0hoMDhicWNxMmZObF9aaWEzYUZjdEtZd2NUUWNWSndWMlotWTdsYU8zX2FkVVZjY1E3Ym0teTY1LVJ0ZHpYNzVlUVE1UWNFOF9TZVU4TFF2a185OVFaN05yQ2s1a3l6RWpGaDl0dFFRelpySlFURUI5THdSOHBjelhUU2pjTU4yajVJTG9n0gHKAUFVX3lxTE5UTWJ4MUVOY0dvRzNUMjRKMjBvMVZKZVNSUk5zZ2drWlI2bG96SGZ6YkxoRlZHSTlkakhYd3VVaXBtUWlDMW1XZEZkVDV2UWo0MDJmWnp0eE4tOVRmRlA5WFQ0WWFwMXdlRWx4WHd5My1hM1Y2ZzJEa1FIcWtPUG5WaUV5RG9nbDIyY1pQQ0hsMTZGcHp4XzNIcktQTVAtdXlnSWducmxuRnViMjNaYVYzVy1zdTZ3X19rRHl5RHZ5NDVlUzNMQWFxWmc?oc=5",
       "resolved_link": "",
       "published": "2026-10-28T12:36:00+00:00",
       "published_raw": "Wed, 28 Oct 2026 12:36:00 GMT",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718420+00:00"
+      "collected_at": "2026-10-29T09:14:53.338975+00:00"
     },
     {
       "id": "d43205195288c842db0a59be983df5e68f81f64fa862dcf7139de3f4371eb304",
@@ -179,41 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-29T03:18:54.169852+00:00"
-    },
-    {
-      "id": "472a559d2e6fc0ea3a1e36bf2d5a19fd53fadd98fa6bf732ed99f94cdc0e9f0a",
-      "title": "Homem de 38 anos morre após ser atingido na cabeça por peça de caminhão em rodovia da região - Tanabi Noticias",
-      "source": "Tanabi Noticias",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZm5Dc2NOZDhkbE9EWkpxbmFjREpTS2YxSjRiOVJBb0lDdEJPRVZ1Q2M0cUJYSjlfMHFXSlFvX2RaaHZPMW5fbTZDdUVhckxZUHlGRmo5X2R3X1JSa3k5QjVVUkVWZ2dldE5UaHlHMWU2dklWVXpnb2lpcFdIYm9KR2tOa0JVWVI0dDRCR2VUUk5UR0pYZHFjckVtVWFCM0hvX24teU1odDhuNEl4amliQWc3Ul9PVE15a1ZORDdMek5MaVVCRjJCRWxxR2wyYV9E?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-28T03:42:53+00:00",
-      "published_raw": "Wed, 28 Oct 2026 03:42:53 GMT",
-      "snippet": "Homem de 38 anos morre após ser atingido na cabeça por peça de caminhão em rodovia da região Tanabi Noticias",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718460+00:00"
-    },
-    {
-      "id": "1c586a65a8fd6d3c877f24a1c8ce55736cd28f2c590a08d5deb698a03896272f",
-      "title": "Pedágio Eletrônico começará a operar neste domingo em três rodovias paulistas - Estradas",
-      "source": "Estradas",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDlCRC12LVJ5ZWE0cjE5N0ZFTjhyNVJOSUJWcXhSeVUtSkk5VXNHQ0p0dHQ4NlVOdk4wXzd1NkdTallkcFo0Y0dLbURtYnU0d2d6Vm5JdlFIOWpoUnAySDRfSTFsMzNjZ0ZNdE9zYUltTEpkVEFCX0Q4MS11TlJCUzIzVktxZ1E2V0ZKT002SXM1enJMZWpnRk0yMXN5NGNWQTZlcA?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-28T03:36:46+00:00",
-      "published_raw": "Wed, 28 Oct 2026 03:36:46 GMT",
-      "snippet": "Pedágio Eletrônico começará a operar neste domingo em três rodovias paulistas Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-29T03:18:48.718333+00:00"
+      "collected_at": "2026-10-29T09:14:58.731486+00:00"
     }
   ]
 }
