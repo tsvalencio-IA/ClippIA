@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30T21:45:51.345673+00:00",
+  "updated_at": "2026-10-31T00:19:08.856809+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 9,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "d059a4579f178b3ec43acc31f811225ad091839ee2682ee22f23fbb573754864",
+      "title": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo - ACidade ON Campinas",
+      "source": "ACidade ON Campinas",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaDhqaUZWckU2dlVCZmwtOUVkX2JNQUwxVHF2WERsRWp5d0VoWXZNbHNTVXl6MnFKM1p0MnVoRFN5Z3cyRjFPZk1zOHpzaVB5Y3VQTXJwQUdaamNjakpWamhGTEpVaS01cXVGclN0aWljRkEyQkNyTU1GRF92dmhRMkkxVGhxOFotT2xYRWJrRWZCd3JWS1RwX3V2S212WkxZMWZDeWhkQ0lHallaV19BbUwxVGNEMHVjNmtBWnBoeHl0Mlg2anh6aEFhbXBNdjNza1E2bnltYmIwN19hZmxCSFhBUEJ3ck9RVWpRWXZ0T29WYnU3SHZMa21NQWxJczQtV1RsUFlR0gGGAkFVX3lxTE1oOGppRlZyRTZ2VUJmbC05RWRfYk1BTDFUcXZYRGxFanl3RWhZdk1sc1NVeXoycUozWnQydWhEU3lndzJGMU9mTXM4enNpUHljdVBNcnBBR1pqY2NqSlZqaEZMSlVpLTVxdUZyU3RpaWNGQTJCQ3JNTUZEX3Z2aFEySTFUaHE4Wi1PbFhFYmtFZkJ3clZLVHBfdXZLbXZaTFkxZkN5aGRDSUdqWVpXX0FtTDFUY0QwdWM2a0FacGh4eXQyWDZqeHpoQWFtcE12M3NrUTZueW1iYjA3X2FmbEJIWEFQQndyT1FValFZdnRPb1ZidTdIdkxrbU1BbElzNC1XVGxQWVE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T00:09:55+00:00",
+      "published_raw": "Sat, 31 Oct 2026 00:09:55 GMT",
+      "snippet": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo ACidade ON Campinas",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T00:18:52.585402+00:00"
+    },
+    {
+      "id": "daeda1f1253025f75d7251cc31128679dd04bd3bff5866a98e54577b89a293b8",
+      "title": "Pedágios eletrônicos começam a cobrar em Pirangi e Monte Alto neste domingo - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjkwN1FOMVlVenlBZlNKZUs0bGZMUjFaWTlkc0J2bGE4Q2lBMVpvM2hGVkkzOFNVeDl3ZXlzSy1zdUNkbndRQk9QOVZSRnNMN3IzWW1mY2JyVWZVX2dWcktmRGFsMDZoQU1lcDZoVWxuT0lqTVpodTI2eUtpQW1zVlVjZ3VIQ3kyb1lMRFU1RDRXYVgxVHN6THdVRHIySWN2RE4wei1SXy1Hd3E4UDllTVU4ampCc21VN0Rr0gG7AUFVX3lxTE1aOTA3UU4xWVV6eUFmU0plSzRsZkxSMVpZOWRzQnZsYThDaUExWm8zaEZWSTM4U1V4OXdleXNLLXN1Q2Rud1FCT1A5VlJGc0w3cjNZbWZjYnJVZlVfZ1ZyS2ZEYWwwNmhBTWVwNmhVbG5PSWpNWmh1MjZ5S2lBbXNWVWNndUhDeTJvWUxEVTVENFdhWDFUc3pMd1VEcjJJY3ZETjB6LVJfLUd3cThQOWVNVThqakJzbVU3RGs?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-30T22:59:52+00:00",
+      "published_raw": "Fri, 30 Oct 2026 22:59:52 GMT",
+      "snippet": "Pedágios eletrônicos começam a cobrar em Pirangi e Monte Alto neste domingo Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T00:18:52.585727+00:00"
+    },
+    {
       "id": "8ff41fcdfec7e8192204d404f74ab3f6bd8ed9bae8da39e8420e57454997f97f",
       "title": "Ecovias prevê circulação de 557 mil veículos durante feriado de Finados - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358002+00:00"
+      "collected_at": "2026-10-31T00:18:52.585459+00:00"
     },
     {
       "id": "aa80fea5e1954ee8372a47727d30e1a58eb80a2cb1c2bb03cd965f2f0fd11424",
@@ -71,13 +105,13 @@
       "published": "2026-10-30T16:43:00+00:00",
       "published_raw": "Fri, 30 Oct 2026 16:43:00 GMT",
       "snippet": "Feriado de Finados deve movimentar as rodovias na região de Rio Preto Band",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.357945+00:00"
+      "collected_at": "2026-10-31T00:18:52.585335+00:00"
     },
     {
       "id": "3e57b8cba46d0b074c8ee45295dc958e1917296c8f8017e5bf6adf53dfd0a863",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358144+00:00"
+      "collected_at": "2026-10-31T00:18:52.585624+00:00"
     },
     {
       "id": "f3e5bcee92ac7e5eb8fb0f28bddaad443b8c577a066a82cf37baa541b86db274",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358085+00:00"
+      "collected_at": "2026-10-31T00:18:52.585559+00:00"
     },
     {
       "id": "ff55a21231104c3a0cfb71534fc47f8daed44d5355b82c7d8a5b9047f2329782",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358242+00:00"
+      "collected_at": "2026-10-31T00:18:52.585783+00:00"
     },
     {
       "id": "10966439d4b14db048d5b269f2d3252829badc6c952da2aab08b1c10b948308c",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358040+00:00"
+      "collected_at": "2026-10-31T00:18:52.585504+00:00"
     },
     {
       "id": "5336302d35dcd86d5cd17a606e3532127ceea8de489350853775b406c2c03dbb",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-30T21:45:34.358195+00:00"
+      "collected_at": "2026-10-31T00:18:52.585682+00:00"
     }
   ]
 }
