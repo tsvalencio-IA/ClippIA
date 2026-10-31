@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31T20:54:43.783205+00:00",
+  "updated_at": "2026-10-31T23:50:36.810284+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 8,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,23 +46,6 @@
   ],
   "items": [
     {
-      "id": "53230aff7b9f14dc6964779ae3bb34d1513976bfc90148327bb2bc1dbc333b98",
-      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - agenciasp.sp.gov.br",
-      "source": "agenciasp.sp.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTzhqMXN6Wmtlc3IyM0FPcEtmRGJQbVMxb1RNWHRpTXdBaUx6bUF5Y09SVGJUdEdwMjhxT0RFV2tjTE16bVJpc19MbmNoVDROMm9mZ1pjY216bHZlbUdKdU1RbVFycmZiYTBRTnZpaVJtVDZ2Yk1UbkozNzU5UnlIbk9nNmdiUW5aaXRFWXVOOUZ5OElnNVcxd3hCM29JRWpBeFJQWFdDQmF6U2hESTVnRHpoN3d2SEc5bllVS0NsR2xwdWZyemctUVhWT1kxWmFoazhtV0locElEVXVXbXRB?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T18:52:28+00:00",
-      "published_raw": "Sat, 31 Oct 2026 18:52:28 GMT",
-      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas agenciasp.sp.gov.br",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T20:54:39.392605+00:00"
-    },
-    {
       "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
       "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - Jornal de Uberaba",
       "source": "Jornal de Uberaba",
@@ -71,30 +54,13 @@
       "published": "2026-10-31T15:41:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
       "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Jornal de Uberaba",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.038331+00:00"
-    },
-    {
-      "id": "1b3579a61f8778d054c0abf997fc5c1d7ab86a9b8a4c31ff918c134bbfd6b181",
-      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - REDE BRASIL DE TELEVISÃO",
-      "source": "REDE BRASIL DE TELEVISÃO",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGxVLTlpR2VjcDBrRXRYbmNsNU1UNnR0b0pucW1HcUJqY3pzMVJ5Ty1FYnUwVzB4ajJHNmVBQXBadkZpV1ZSZ3dEQXlpV3phaF85ZnFSeVJPQ1NYU3dYMXc0Q3hYS29jZXBwRnRxdi1CUUtkR3BLc00zSUVSUTdpamwzQWJmd2FHelBVb1pQMm5lVWxHYjVTRXJGSU0wbEQ0LUx1cG9rUW9fY19NaEFNMzNMQWV2d19Xc3NFMDl5VkFHZlZENDIxUw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T15:41:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
-      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas REDE BRASIL DE TELEVISÃO",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T20:54:35.428493+00:00"
+      "collected_at": "2026-10-31T23:50:18.581564+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -111,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:41.065721+00:00"
+      "collected_at": "2026-10-31T23:50:34.041371+00:00"
     },
     {
       "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
@@ -128,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:30.004033+00:00"
+      "collected_at": "2026-10-31T23:50:21.517688+00:00"
     },
     {
       "id": "f045575ff2925334e2543c7c098834cc0b8cab7d3a134924ceed961ff1fc05e4",
@@ -145,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.037984+00:00"
+      "collected_at": "2026-10-31T23:50:18.581446+00:00"
     },
     {
       "id": "4741abb4e27844c52bba6bb5ae56c142d1280de0e0b601f5290cc4904a2ddfde",
@@ -162,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:41.065902+00:00"
+      "collected_at": "2026-10-31T23:50:34.041503+00:00"
+    },
+    {
+      "id": "6172adfd57daa302e590aa1fb9eca24027a34528cb0172baba6cbbb59c878b94",
+      "title": "Prefeitura de São Carlos prevê recursos para manutenção de escolas, unidades de saúde e prédios - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWp6aDBDNlhXNGkzbWNLa3lhRWtZc0Q2QzVnMHg4T09wYTJzcWpXV3FndVRydzVLTGNxdEcxNmw5c0NiUXdkQWdwSnBjVEZyY0N1cnN6NDRIX1h1RkU5V3BuclJGblFmSWhQaDdlYkkzbFNKdHhWY2tYOU5rdDk1Z2VYcm1IanBrQmlyYUMyeDFBVm9tUzl4Q1VjQ09CVWJfSzZYaXFmUUdFcC1GUnBDSldiQXNCdGFOdjY2QTcxRDZwZ0duSFlvN3ZYR3lYUU5CNGJQZGlRajZYb3J50gHcAUFVX3lxTE05anpoMEM2WFc0aTNtY0treWFFa1lzRDZDNWcweDhPT3BhMnNxaldXcWd1VHJ3NUtMY3F0RzE2bDlzQ2JRd2RBZ3BKcGNURnJjQ3Vyc3o0NEhfWHVGRTlXcG5yUkZuUWZJaFBoN2ViSTNsU0p0eFZja1g5Tmt0OTVnZVhybUhqcGtCaXJhQzJ4MUFWb21TOXhDVWNDT0JVYl9LNlhpcWZRR0VwLUZScENKV2JBc0J0YU52NjZBNzFENnBnR25IWW83dlhHeVhRTkI0YlBkaVFqNlhvcnk?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T03:23:04+00:00",
+      "published_raw": "Sat, 31 Oct 2026 03:23:04 GMT",
+      "snippet": "Prefeitura de São Carlos prevê recursos para manutenção de escolas, unidades de saúde e prédios São Carlos no Toque",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T23:50:34.041557+00:00"
     },
     {
       "id": "535b0326da645a501d2781f7ea6e73aa8d250d2fe389951b5f945749a2794c5e",
@@ -173,13 +156,13 @@
       "published": "2026-10-31T03:03:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 03:03:00 GMT",
       "snippet": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.038245+00:00"
+      "collected_at": "2026-10-31T23:50:18.581686+00:00"
     },
     {
       "id": "e49fa16f3865fc2d4b72a0b2ee587ad2c7e05da74227934cc6ec792c2cbfad8f",
@@ -196,41 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.037883+00:00"
-    },
-    {
-      "id": "daeda1f1253025f75d7251cc31128679dd04bd3bff5866a98e54577b89a293b8",
-      "title": "Pedágios eletrônicos começam a cobrar em Pirangi e Monte Alto neste domingo - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjkwN1FOMVlVenlBZlNKZUs0bGZMUjFaWTlkc0J2bGE4Q2lBMVpvM2hGVkkzOFNVeDl3ZXlzSy1zdUNkbndRQk9QOVZSRnNMN3IzWW1mY2JyVWZVX2dWcktmRGFsMDZoQU1lcDZoVWxuT0lqTVpodTI2eUtpQW1zVlVjZ3VIQ3kyb1lMRFU1RDRXYVgxVHN6THdVRHIySWN2RE4wei1SXy1Hd3E4UDllTVU4ampCc21VN0Rr0gG7AUFVX3lxTE1aOTA3UU4xWVV6eUFmU0plSzRsZkxSMVpZOWRzQnZsYThDaUExWm8zaEZWSTM4U1V4OXdleXNLLXN1Q2Rud1FCT1A5VlJGc0w3cjNZbWZjYnJVZlVfZ1ZyS2ZEYWwwNmhBTWVwNmhVbG5PSWpNWmh1MjZ5S2lBbXNWVWNndUhDeTJvWUxEVTVENFdhWDFUc3pMd1VEcjJJY3ZETjB6LVJfLUd3cThQOWVNVThqakJzbVU3RGs?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-30T22:59:52+00:00",
-      "published_raw": "Fri, 30 Oct 2026 22:59:52 GMT",
-      "snippet": "Pedágios eletrônicos começam a cobrar em Pirangi e Monte Alto neste domingo Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.038401+00:00"
-    },
-    {
-      "id": "8ff41fcdfec7e8192204d404f74ab3f6bd8ed9bae8da39e8420e57454997f97f",
-      "title": "Ecovias prevê circulação de 557 mil veículos durante feriado de Finados - Diário do Transporte",
-      "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONl9xRVBoUEYwSU1DbDluZkFrbmlsaWFSTVdLUEkyMjJiTWNURllWbTlWSFlVbGdXemVvOXZpQ0xuelQ3OHhTOGJjMU5Fel9hMXUyUjBhTWRpbjJtcWRJdG5OakhKd0FqY2pXZndjU1FGSDFlbVo2SkJWZlBsVUNrQkU5QjhLdUtDLVJISXJGOHViOVBIcUwtNFF1bFY2d1VuYkwxUHVpaGRXUEhDem9oNkRLNmxPOGtJ?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-30T21:02:32+00:00",
-      "published_raw": "Fri, 30 Oct 2026 21:02:32 GMT",
-      "snippet": "Ecovias prevê circulação de 557 mil veículos durante feriado de Finados Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T20:54:27.038102+00:00"
+      "collected_at": "2026-10-31T23:50:18.581510+00:00"
     }
   ]
 }
