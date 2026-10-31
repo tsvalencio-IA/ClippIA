@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31T09:13:04.828169+00:00",
+  "updated_at": "2026-10-31T11:22:43.534741+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 12,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
+      "title": "“Justos vão pagar pelos pecadores”; Associação de rodovias alerta para calote no free flow - Estadão",
+      "source": "Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcHFRM29mei03RnJIRkZvcEtZS0JYX2VIcUZ4QWF2TDF4NENObjczU1QxRlFkM3BLXzNLNXBqMmZBMXozX19pbzIzLWkzODhUb3ZjdzNyYTBJTDNCcG4zaGcza2J5SDRpdXRwNzdMWXBTNFBrNkRNdjFRa1p5UW9xd1F1NFd1Nlpzc2NiaFN3N0h4M2liRzFmU2FlaDFacnplbUUxS3RWWGc2a2JUTG1Oc1pxOXlBOWhyQmRCQnNWaTkyMzBrdlBqZzQ5SnVNQUt1NHpEbG0zT2xlLTJraU5DNVVoNE5iME3SAewBQVVfeXFMTWFjRHBzMU1XbnQ2aURfM2gxZDlWX2hXMzNxd2oxMEQ3OXhTdFhRaU5OMFVTc25QbGhvNzRWcXBIQVZ5MDdJeWhUM2pqQ0JqMXdZdWxLZ0FrVTRRcXRLS2lpVnI0elFUTjRGRzI1aUgtc2luQ1hyZERZdEpFYUxESm9NYmxkZ25odTc3N0NVTERfTzU1MG1BcWtBU0thRGYyZENXT2pvUkc4ZFNfOEFBLThOaGRVTkZ5eHZrMm1yRXVQMW8wOHBLR0hoWXdCeGRkN3pBZDIyN0FlV1BfbmxLMmstenhUR3hKdG1PNUw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T11:00:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 11:00:00 GMT",
+      "snippet": "“Justos vão pagar pelos pecadores”; Associação de rodovias alerta para calote no free flow Estadão",
+      "term": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T11:22:29.056265+00:00"
+    },
+    {
+      "id": "f482bc6096dbab6ae7e018546bc793c38184be2ea9bd1dfdd98768cbd0de9d67",
+      "title": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027 - www.agenciasp.sp.gov.br",
+      "source": "www.agenciasp.sp.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEpxNEFtUG9wMVV2NTROOU01cWQzM3l4aGszWmpJZEJuekt2MzdHcnN4eHRGRGdLWlVjOEZLWklXZXY1cFB6a05INmNJTzVhS3lIMWNjekVHc2RCOHd4Tnd0ZDhaMG1YS0NmLXBOSnFJRW02V1RXRzJDWV9vTTBxc01uajhQQ2JEUDdJSDgtaFFMTkVSRUhlc0Q2ZjlQd3JablY1U1RJZGlPX2lrNUYzT21FM1NkdmxLbXlWZlNkMXl1eV9tVzVod2ZxdEl0QWNw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T10:05:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 10:05:00 GMT",
+      "snippet": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027 www.agenciasp.sp.gov.br",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T11:22:25.969540+00:00"
+    },
+    {
       "id": "535b0326da645a501d2781f7ea6e73aa8d250d2fe389951b5f945749a2794c5e",
       "title": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -54,13 +88,13 @@
       "published": "2026-10-31T03:03:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 03:03:00 GMT",
       "snippet": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.899079+00:00"
+      "collected_at": "2026-10-31T11:22:25.969723+00:00"
     },
     {
       "id": "e49fa16f3865fc2d4b72a0b2ee587ad2c7e05da74227934cc6ec792c2cbfad8f",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.898870+00:00"
+      "collected_at": "2026-10-31T11:22:25.969458+00:00"
     },
     {
       "id": "daeda1f1253025f75d7251cc31128679dd04bd3bff5866a98e54577b89a293b8",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.899287+00:00"
+      "collected_at": "2026-10-31T11:22:25.969933+00:00"
     },
     {
       "id": "8ff41fcdfec7e8192204d404f74ab3f6bd8ed9bae8da39e8420e57454997f97f",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.898969+00:00"
+      "collected_at": "2026-10-31T11:22:25.969615+00:00"
     },
     {
       "id": "aa80fea5e1954ee8372a47727d30e1a58eb80a2cb1c2bb03cd965f2f0fd11424",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.898743+00:00"
+      "collected_at": "2026-10-31T11:22:25.969351+00:00"
     },
     {
       "id": "3e57b8cba46d0b074c8ee45295dc958e1917296c8f8017e5bf6adf53dfd0a863",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:59.614379+00:00"
+      "collected_at": "2026-10-31T11:22:37.871029+00:00"
     },
     {
       "id": "f3e5bcee92ac7e5eb8fb0f28bddaad443b8c577a066a82cf37baa541b86db274",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.899222+00:00"
+      "collected_at": "2026-10-31T11:22:25.969868+00:00"
     },
     {
       "id": "ff55a21231104c3a0cfb71534fc47f8daed44d5355b82c7d8a5b9047f2329782",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:13:02.270993+00:00"
+      "collected_at": "2026-10-31T11:22:40.787407+00:00"
     },
     {
       "id": "10966439d4b14db048d5b269f2d3252829badc6c952da2aab08b1c10b948308c",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:48.899144+00:00"
+      "collected_at": "2026-10-31T11:22:25.969790+00:00"
     },
     {
       "id": "5336302d35dcd86d5cd17a606e3532127ceea8de489350853775b406c2c03dbb",
@@ -213,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T09:12:53.762601+00:00"
+      "collected_at": "2026-10-31T11:22:31.428329+00:00"
     }
   ]
 }
