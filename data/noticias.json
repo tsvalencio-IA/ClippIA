@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:28:12.242811+00:00",
+  "updated_at": "2026-10-31T16:43:07.610750+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -54,13 +54,13 @@
       "published": "2026-10-31T15:52:20+00:00",
       "published_raw": "Sat, 31 Oct 2026 15:52:20 GMT",
       "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Arena de Notícias",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa",
+      "term": "\"Ecovias Noroeste\" tarifa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757617+00:00"
+      "collected_at": "2026-10-31T16:42:59.935937+00:00"
     },
     {
       "id": "c034ac3bac49699416004b79326de6982217404737fd910a19486c3b0e662df7",
@@ -71,13 +71,30 @@
       "published": "2026-10-31T15:49:08+00:00",
       "published_raw": "Sat, 31 Oct 2026 15:49:08 GMT",
       "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Portal VV8",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" multa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:28:04.019904+00:00"
+      "collected_at": "2026-10-31T16:42:58.762111+00:00"
+    },
+    {
+      "id": "1b3579a61f8778d054c0abf997fc5c1d7ab86a9b8a4c31ff918c134bbfd6b181",
+      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - REDE BRASIL DE TELEVISÃO",
+      "source": "REDE BRASIL DE TELEVISÃO",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGxVLTlpR2VjcDBrRXRYbmNsNU1UNnR0b0pucW1HcUJqY3pzMVJ5Ty1FYnUwVzB4ajJHNmVBQXBadkZpV1ZSZ3dEQXlpV3phaF85ZnFSeVJPQ1NYU3dYMXc0Q3hYS29jZXBwRnRxdi1CUUtkR3BLc00zSUVSUTdpamwzQWJmd2FHelBVb1pQMm5lVWxHYjVTRXJGSU0wbEQ0LUx1cG9rUW9fY19NaEFNMzNMQWV2d19Xc3NFMDl5VkFHZlZENDIxUw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T15:41:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
+      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas REDE BRASIL DE TELEVISÃO",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-10-31T16:42:49.778530+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -88,13 +105,13 @@
       "published": "2026-10-31T12:35:18+00:00",
       "published_raw": "Sat, 31 Oct 2026 12:35:18 GMT",
       "snippet": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757342+00:00"
+      "collected_at": "2026-10-31T16:42:49.778402+00:00"
     },
     {
       "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:58.544874+00:00"
+      "collected_at": "2026-10-31T16:42:52.750136+00:00"
     },
     {
       "id": "f045575ff2925334e2543c7c098834cc0b8cab7d3a134924ceed961ff1fc05e4",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757119+00:00"
+      "collected_at": "2026-10-31T16:42:49.778276+00:00"
     },
     {
       "id": "4741abb4e27844c52bba6bb5ae56c142d1280de0e0b601f5290cc4904a2ddfde",
@@ -145,41 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:28:09.712800+00:00"
-    },
-    {
-      "id": "9f0a2ee1ac584845e703035208d44d916e59dd6a414d9980d478d73a957ee875",
-      "title": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWVZTS1OSmx5eXE3QUgzSDVsOHhBUm5WcGk2YnB0dnB0SFhwbVZFTXRxWDZHT3dCeWpXU2RaN3hBb00wTS11WmhCSEZpOU1lUkprS2FieENmOUdjWHV3OW1Fa3V0ODRWNWI2MnplclZpT09YWEhPQ2xxeVJ3cG8zZ0NBSVBITE9PdVFua1gtTXV3YkxRVHdqeUVHZlJSc081X1hhVWhR0gGmAUFVX3lxTE1NZVlNLU5KbHl5cTdBSDNINWw4eEFSblZwaTZicHR2cHRIWHBtVkVNdHFYNkdPd0J5aldTZFo3eEFvTTBNLXVaaEJIRmk5TWVSSmtLYWJ4Q2Y5R2NYdXc5bUVrdXQ4NFY1YjYyemVyVmlPT1hYSE9DbHF5UndwbzNnQ0FJUEhMT091UW5rWC1NdXdiTFFUd2p5RUdmUlJzTzVfWGFVaFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T04:01:11+00:00",
-      "published_raw": "Sat, 31 Oct 2026 04:01:11 GMT",
-      "snippet": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T16:28:07.930043+00:00"
+      "collected_at": "2026-10-31T16:43:04.762454+00:00"
     },
     {
       "id": "535b0326da645a501d2781f7ea6e73aa8d250d2fe389951b5f945749a2794c5e",
       "title": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGIwc3Fnb3J6cS00Z09IY1p1cnliN0FQd2ZWVFhpbmJZMjYxc2dSMHFTZDl3eGw2dmhkemZKTzdlQlR4UC1kc01yQXI4VFFYU1o5M2pmMUpNcTNPQUJVS3ZrclUxWFNRMHpLeWh4VFF1V3dtdnpWWXpfbTU2ZTI3V3hla3I1dGF4SHhfQVBHeG02MTBSN3ZoQTY4MUVLbXphSTkyM0h3RzVHcjZIT0Z2WNIBsAFBVV95cUxNVGIwc3Fnb3J6cS00Z09IY1p1cnliN0FQd2ZWVFhpbmJZMjYxc2dSMHFTZDl3eGw2dmhkemZKTzdlQlR4UC1kc01yQXI4VFFYU1o5M2pmMUpNcTNPQUJVS3ZrclUxWFNRMHpLeWh4VFF1V3dtdnpWWXpfbTU2ZTI3V3hla3I1dGF4SHhfQVBHeG02MTBSN3ZoQTY4MUVLbXphSTkyM0h3RzVHcjZIT0Z2WA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTdYYkg0WFBGa2N4MkxUeDV1YU4zd2pmaHdNNFdNTFdVR3o4Sy1JWnpYQ3ZYSnkxYmV4eVBaTHhCV0lyc0JkZll6Wk1ZUzR1RlV1bnJpY2V1M2twU1hHbHZZeGo1QllFRmtJQWNpeEdNbTZMYVJKdzh3M0x1NHB0LWJoc0FVTkxZTWEzYzB2T0RkNnBpZGROM1BFcGd0THpqaE1Ec1c1ckNuYWfSAbABQVVfeXFMTVRiMHNxZ29yenEtNGdPSGNadXJ5YjdBUHdmVlRYaW5iWTI2MXNnUjBxU2Q5d3hsNnZoZHpmSk83ZUJUeFAtZHNNckFyOFRRWFNaOTNqZjFKTXEzT0FCVUt2a3JVMVhTUTB6S3loeFRRdVd3bXZ6Vll6X201NmUyN1d4ZWtyNXRheEh4X0FQR3htNjEwUjd2aEE2ODFFS216YUk5MjNId0c1R3I2SE9Gdlg?oc=5",
       "resolved_link": "",
-      "published": "2026-10-31T03:30:57+00:00",
-      "published_raw": "Sat, 31 Oct 2026 03:30:57 GMT",
+      "published": "2026-10-31T03:03:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 03:03:00 GMT",
       "snippet": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757719+00:00"
+      "collected_at": "2026-10-31T16:42:51.521882+00:00"
     },
     {
       "id": "e49fa16f3865fc2d4b72a0b2ee587ad2c7e05da74227934cc6ec792c2cbfad8f",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757211+00:00"
+      "collected_at": "2026-10-31T16:42:49.778330+00:00"
     },
     {
       "id": "daeda1f1253025f75d7251cc31128679dd04bd3bff5866a98e54577b89a293b8",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757791+00:00"
+      "collected_at": "2026-10-31T16:42:49.778567+00:00"
     },
     {
       "id": "8ff41fcdfec7e8192204d404f74ab3f6bd8ed9bae8da39e8420e57454997f97f",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757425+00:00"
+      "collected_at": "2026-10-31T16:42:49.778448+00:00"
     },
     {
       "id": "aa80fea5e1954ee8372a47727d30e1a58eb80a2cb1c2bb03cd965f2f0fd11424",
@@ -241,13 +241,13 @@
       "published": "2026-10-30T16:43:00+00:00",
       "published_raw": "Fri, 30 Oct 2026 16:43:00 GMT",
       "snippet": "Feriado de Finados deve movimentar as rodovias na região de Rio Preto Band",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"SP-310\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T16:27:55.757495+00:00"
+      "collected_at": "2026-10-31T16:42:49.778487+00:00"
     }
   ]
 }
