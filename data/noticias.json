@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01T03:00:20.089357+00:00",
+  "updated_at": "2026-11-01T03:58:12.719382+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 7,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:04.832671+00:00"
+      "collected_at": "2026-11-01T03:57:58.477094+00:00"
     },
     {
       "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:02.554137+00:00"
+      "collected_at": "2026-11-01T03:57:56.364282+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:17.432918+00:00"
+      "collected_at": "2026-11-01T03:58:10.161500+00:00"
     },
     {
       "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:05.425215+00:00"
+      "collected_at": "2026-11-01T03:57:59.093258+00:00"
     },
     {
       "id": "f045575ff2925334e2543c7c098834cc0b8cab7d3a134924ceed961ff1fc05e4",
@@ -128,7 +128,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:02.554039+00:00"
+      "collected_at": "2026-11-01T03:57:56.364194+00:00"
+    },
+    {
+      "id": "02a9c25b30aac7918c1727ddc4444674bb3a1f8809eac6ad7b4924f007984eed",
+      "title": "Justiça reage a conteúdos que estimulam empresas a punir funcionários por escolhas políticas - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVlUeS1nZWI0MWYxSEZoeUNxclExRk5xTmpSckxzdUVPc0JCajJ3TFZ4UWx2VzE1RUhJRF9QYlZnanFjdnE3N2pBQUtibHQ4ZDR4bmdyZXdmUG5RLUNSUV9ZUmNjN1VpZEluYzg2VzZVejFsRWxuNkNpN1JkYTUtLU9pTzdmRHRLOUdGSklDVGJpaFBtVFFrbFo2SEFqb1ZxN19uVGZBMGktZFJUNXRqSUUyNHFYbDUtenNQT3NmMDVNR3dX0gHEAUFVX3lxTE5lWVR5LWdlYjQxZjFIRmh5Q3FyUTFGTnFOalJyTHN1RU9zQkJqMndMVnhRbHZXMTVFSElEX1BiVmdqcWN2cTc3akFBS2JsdDhkNHhuZ3Jld2ZQblEtQ1JRX1lSY2M3VWlkSW5jODZXNlV6MWxFbG42Q2k3UmRhNS0tT2lPN2ZEdEs5R0ZKSUNUYmloUG1UUWtsWjZIQWpvVnE3X25UZkEwaS1kUlQ1dGpJRTI0cVhsNS16c1BPc2YwNU1Hd1c?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T09:30:38+00:00",
+      "published_raw": "Sat, 31 Oct 2026 09:30:38 GMT",
+      "snippet": "Justiça reage a conteúdos que estimulam empresas a punir funcionários por escolhas políticas - São Carlos no São Carlos no Toque",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T03:58:10.161589+00:00"
     },
     {
       "id": "4741abb4e27844c52bba6bb5ae56c142d1280de0e0b601f5290cc4904a2ddfde",
@@ -145,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:00:17.433287+00:00"
-    },
-    {
-      "id": "9f0a2ee1ac584845e703035208d44d916e59dd6a414d9980d478d73a957ee875",
-      "title": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWVZTS1OSmx5eXE3QUgzSDVsOHhBUm5WcGk2YnB0dnB0SFhwbVZFTXRxWDZHT3dCeWpXU2RaN3hBb00wTS11WmhCSEZpOU1lUkprS2FieENmOUdjWHV3OW1Fa3V0ODRWNWI2MnplclZpT09YWEhPQ2xxeVJ3cG8zZ0NBSVBITE9PdVFua1gtTXV3YkxRVHdqeUVHZlJSc081X1hhVWhR0gGmAUFVX3lxTE1NZVlNLU5KbHl5cTdBSDNINWw4eEFSblZwaTZicHR2cHRIWHBtVkVNdHFYNkdPd0J5aldTZFo3eEFvTTBNLXVaaEJIRmk5TWVSSmtLYWJ4Q2Y5R2NYdXc5bUVrdXQ4NFY1YjYyemVyVmlPT1hYSE9DbHF5UndwbzNnQ0FJUEhMT091UW5rWC1NdXdiTFFUd2p5RUdmUlJzTzVfWGFVaFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T04:01:11+00:00",
-      "published_raw": "Sat, 31 Oct 2026 04:01:11 GMT",
-      "snippet": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque São Carlos no Toque",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T03:00:17.433204+00:00"
-    },
-    {
-      "id": "535b0326da645a501d2781f7ea6e73aa8d250d2fe389951b5f945749a2794c5e",
-      "title": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTdYYkg0WFBGa2N4MkxUeDV1YU4zd2pmaHdNNFdNTFdVR3o4Sy1JWnpYQ3ZYSnkxYmV4eVBaTHhCV0lyc0JkZll6Wk1ZUzR1RlV1bnJpY2V1M2twU1hHbHZZeGo1QllFRmtJQWNpeEdNbTZMYVJKdzh3M0x1NHB0LWJoc0FVTkxZTWEzYzB2T0RkNnBpZGROM1BFcGd0THpqaE1Ec1c1ckNuYWfSAbABQVVfeXFMTVRiMHNxZ29yenEtNGdPSGNadXJ5YjdBUHdmVlRYaW5iWTI2MXNnUjBxU2Q5d3hsNnZoZHpmSk83ZUJUeFAtZHNNckFyOFRRWFNaOTNqZjFKTXEzT0FCVUt2a3JVMVhTUTB6S3loeFRRdVd3bXZ6Vll6X201NmUyN1d4ZWtyNXRheEh4X0FQR3htNjEwUjd2aEE2ODFFS216YUk5MjNId0c1R3I2SE9Gdlg?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T03:03:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 03:03:00 GMT",
-      "snippet": "Viaduto do Jardim Jockey Clube, na SP-310, terá “Pare e Siga” neste fim de semana - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T03:00:02.554250+00:00"
+      "collected_at": "2026-11-01T03:58:10.161665+00:00"
     }
   ]
 }
