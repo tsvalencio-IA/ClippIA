@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01T03:58:12.719382+00:00",
+  "updated_at": "2026-11-01T10:11:51.523051+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 8,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 8,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "7740e771c0fea744afc13ce919531024d4192e4eba9bd96e1a97827482d32ffb",
+      "title": "Novo Pedágio Eletrônico começará a operar na região neste domingo (01) - OExtra.net",
+      "source": "OExtra.net",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzNtN3lkU3Q3dXZZUGYwWFg0NEZZSmY2aVdzdGt6SkNsZDVpZ3RvQl9DQml5MGNQSTNKelpZaXJZVUFWMUV2MHZOal9HQXUtaXlnT1p3Q1FlY2ctLXcxbnpTZ0t5N3NWWnA3STNuN1I0N3FCRWRhRVEzc3luV21HZmMxLURaN2VIOEl5R0ZPWGx6elFZRlJ5OA?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-01T09:02:23+00:00",
+      "published_raw": "Sun, 01 Nov 2026 09:02:23 GMT",
+      "snippet": "Novo Pedágio Eletrônico começará a operar na região neste domingo (01) OExtra.net",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T10:11:33.753587+00:00"
+    },
+    {
+      "id": "d1555ad871851e0edd785358f434348bbb97cfa381d4f5c8a1db05c7198504ae",
+      "title": "Motoristas têm até 16 de novembro para regularizar débitos e anular multas do pedágio Siga Fácil - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0lWNEV3eGVIQ3czNVYxNzZpQjE5RmhTdWltd2NraTBKeFpJUk1fY25zZHI0NURjT3A1S0RUNnlhMEFaZUlpZ1lQTE92RVJiRjk5RUFDdnFlMUVCUDE0bDc1RXNWZUJuVVZpTzFQYS1QYlNaMlVWNzNUUnhLMnpOaDRJbHBCVzFjeDIzZFE1MlBIUUtLeVJrM3NrWHJ5dlNEdnhRMmtnZzFaOXUwMWhjT0JfX05LWmRFZFVJNTYtOHctQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-01T09:00:00+00:00",
+      "published_raw": "Sun, 01 Nov 2026 09:00:00 GMT",
+      "snippet": "Motoristas têm até 16 de novembro para regularizar débitos e anular multas do pedágio Siga Fácil Região Noroeste",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T10:11:33.753779+00:00"
+    },
+    {
       "id": "7c1f2b1ec08cc8f656783745da0fec1a2a24ffa1896c08262688e797c01f5fa5",
       "title": "Pedágios ficam mais caros a partir da meia-noite deste domingo (1º) em rodovias de São Paulo; veja os novos valores e o que muda para os motoristas - Diário do Transporte",
       "source": "Diário do Transporte",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:57:58.477094+00:00"
+      "collected_at": "2026-11-01T10:11:36.150330+00:00"
     },
     {
       "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
@@ -71,13 +105,30 @@
       "published": "2026-10-31T15:41:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
       "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Jornal de Uberaba",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:57:56.364282+00:00"
+      "collected_at": "2026-11-01T10:11:33.753715+00:00"
+    },
+    {
+      "id": "1b3579a61f8778d054c0abf997fc5c1d7ab86a9b8a4c31ff918c134bbfd6b181",
+      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - REDE BRASIL DE TELEVISÃO",
+      "source": "REDE BRASIL DE TELEVISÃO",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGxVLTlpR2VjcDBrRXRYbmNsNU1UNnR0b0pucW1HcUJqY3pzMVJ5Ty1FYnUwVzB4ajJHNmVBQXBadkZpV1ZSZ3dEQXlpV3phaF85ZnFSeVJPQ1NYU3dYMXc0Q3hYS29jZXBwRnRxdi1CUUtkR3BLc00zSUVSUTdpamwzQWJmd2FHelBVb1pQMm5lVWxHYjVTRXJGSU0wbEQ0LUx1cG9rUW9fY19NaEFNMzNMQWV2d19Xc3NFMDl5VkFHZlZENDIxUw?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T15:41:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
+      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas REDE BRASIL DE TELEVISÃO",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T10:11:35.520344+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -94,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:58:10.161500+00:00"
+      "collected_at": "2026-11-01T10:11:48.710967+00:00"
     },
     {
       "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
@@ -111,58 +162,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:57:59.093258+00:00"
+      "collected_at": "2026-11-01T10:11:36.741669+00:00"
     },
     {
-      "id": "f045575ff2925334e2543c7c098834cc0b8cab7d3a134924ceed961ff1fc05e4",
-      "title": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027 - agenciasp.sp.gov.br",
-      "source": "agenciasp.sp.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOEpxNEFtUG9wMVV2NTROOU01cWQzM3l4aGszWmpJZEJuekt2MzdHcnN4eHRGRGdLWlVjOEZLWklXZXY1cFB6a05INmNJTzVhS3lIMWNjekVHc2RCOHd4Tnd0ZDhaMG1YS0NmLXBOSnFJRW02V1RXRzJDWV9vTTBxc01uajhQQ2JEUDdJSDgtaFFMTkVSRUhlc0Q2ZjlQd3JablY1U1RJZGlPX2lrNUYzT21FM1NkdmxLbXlWZlNkMXl1eV9tVzVod2ZxdEl0QWNw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T10:05:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 10:05:00 GMT",
-      "snippet": "Rodovias do Litoral Paulista terão R$ 1 bilhão em investimentos até o fim de 2027 agenciasp.sp.gov.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T03:57:56.364194+00:00"
-    },
-    {
-      "id": "02a9c25b30aac7918c1727ddc4444674bb3a1f8809eac6ad7b4924f007984eed",
-      "title": "Justiça reage a conteúdos que estimulam empresas a punir funcionários por escolhas políticas - São Carlos no - São Carlos no Toque",
+      "id": "382f38acba009a91c6c451518dd277a04275574f524a3ff6bdfd5b68f7d3f3e5",
+      "title": "Polícia Militar prende suspeito de roubo após perseguição no bairro Jacobucci, em São Carlos - São Carlos no - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVlUeS1nZWI0MWYxSEZoeUNxclExRk5xTmpSckxzdUVPc0JCajJ3TFZ4UWx2VzE1RUhJRF9QYlZnanFjdnE3N2pBQUtibHQ4ZDR4bmdyZXdmUG5RLUNSUV9ZUmNjN1VpZEluYzg2VzZVejFsRWxuNkNpN1JkYTUtLU9pTzdmRHRLOUdGSklDVGJpaFBtVFFrbFo2SEFqb1ZxN19uVGZBMGktZFJUNXRqSUUyNHFYbDUtenNQT3NmMDVNR3dX0gHEAUFVX3lxTE5lWVR5LWdlYjQxZjFIRmh5Q3FyUTFGTnFOalJyTHN1RU9zQkJqMndMVnhRbHZXMTVFSElEX1BiVmdqcWN2cTc3akFBS2JsdDhkNHhuZ3Jld2ZQblEtQ1JRX1lSY2M3VWlkSW5jODZXNlV6MWxFbG42Q2k3UmRhNS0tT2lPN2ZEdEs5R0ZKSUNUYmloUG1UUWtsWjZIQWpvVnE3X25UZkEwaS1kUlQ1dGpJRTI0cVhsNS16c1BPc2YwNU1Hd1c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkZUVEh1TTB5cEs1b1hwUmtJTFI1UUkxYXZta09FcjJCSkp5SzNPYzdfd3ZDZG9CSmFfdHpkaHFIbzhOUTRfYjhqck94VmdHU0RMeTAzSGpzSDhZUk40MWFOaF9JMG8zOWhiRmJ3TjF4ekxPYkZxOFE5QnhZelFMZ2dLM3p5Um9FeERWT0VmTWEtVzh6cjljbmtuUDZfTzB5SWgwUDV1U1FtTUVHQXB2anNJUk1QaEQzTWxkYi1LUFV3VGfSAcMBQVVfeXFMT0pGVFRIdU0weXBLNW9YcFJrSUxSNVFJMWF2bWtPRXIyQkpKeUszT2M3X3d2Q2RvQkphX3R6ZGhxSG84TlE0X2I4anJPeFZnR1NETHkwM0hqc0g4WVJONDFhTmhfSTBvMzloYkZid04xeHpMT2JGcThROUJ4WXpRTGdnSzN6eVJvRXhEVk9FZk1hLVc4enI5Y25rblA2X08weUloMFA1dVNRbU1FR0FwdmpzSVJNUGhEM01sZGItS1BVd1Rn?oc=5",
       "resolved_link": "",
-      "published": "2026-10-31T09:30:38+00:00",
-      "published_raw": "Sat, 31 Oct 2026 09:30:38 GMT",
-      "snippet": "Justiça reage a conteúdos que estimulam empresas a punir funcionários por escolhas políticas - São Carlos no São Carlos no Toque",
+      "published": "2026-10-31T10:53:16+00:00",
+      "published_raw": "Sat, 31 Oct 2026 10:53:16 GMT",
+      "snippet": "Polícia Militar prende suspeito de roubo após perseguição no bairro Jacobucci, em São Carlos - São Carlos no São Carlos no Toque",
       "term": "\"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T03:58:10.161589+00:00"
-    },
-    {
-      "id": "4741abb4e27844c52bba6bb5ae56c142d1280de0e0b601f5290cc4904a2ddfde",
-      "title": "Força Tática prende homem por posse irregular de armas de fogo em São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3dtdWdralUyZ1pwRjg2VXNOelZabjFtdjlibHRqOGNkU19HRmE5UkJ2UVNoenFQLU5iTG1FcjdEVVpNRWtEQm90S1Bpd2plVEhGOW1TWXBfXzJZa1A2YmtLR1MwOWswSXVjckxRbUxxa2lhbUdGWE5BTmxXWU1xVnlHRmJvc0JyQWVlaHBGcVBSOERpWDdBSGRoYVMxalEyTks4UjdEdjJmUFNOZUZz0gGvAUFVX3lxTE9rd211Z2tqVTJnWnBGODZVc056VlpuMW12OWJsdGo4Y2RTX0dGYTlSQnZRU2h6cVAtTmJMbUVyN0RVWk1Fa0RCb3RLUGl3amVUSEY5bVNZcF9fMllrUDZia0tHUzA5azBJdWNyTFFtTHFraWFtR0ZYTkFObFdZTXFWeUdGYm9zQnJBZWVocEZxUFI4RGlYN0FIZGhhUzFqUTJOSzhSN0R2MmZQU05lRnM?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T08:53:29+00:00",
-      "published_raw": "Sat, 31 Oct 2026 08:53:29 GMT",
-      "snippet": "Força Tática prende homem por posse irregular de armas de fogo em São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T03:58:10.161665+00:00"
+      "collected_at": "2026-11-01T10:11:48.711046+00:00"
     }
   ]
 }
