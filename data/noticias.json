@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01T10:11:51.523051+00:00",
+  "updated_at": "2026-11-01T12:34:04.988080+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 8,
+  "total": 7,
   "total_images": 0,
-  "new_items": 8,
+  "new_items": 7,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T10:11:33.753587+00:00"
+      "collected_at": "2026-11-01T12:33:46.468757+00:00"
     },
     {
       "id": "d1555ad871851e0edd785358f434348bbb97cfa381d4f5c8a1db05c7198504ae",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T10:11:33.753779+00:00"
+      "collected_at": "2026-11-01T12:33:46.468979+00:00"
     },
     {
       "id": "7c1f2b1ec08cc8f656783745da0fec1a2a24ffa1896c08262688e797c01f5fa5",
@@ -94,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T10:11:36.150330+00:00"
-    },
-    {
-      "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
-      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - Jornal de Uberaba",
-      "source": "Jornal de Uberaba",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVIwNWhaQnFRYWRsaUhmUVU0eFZSdUNPOW1ydjJmeEZIcTY4aW5rdXAtLUQxRllZOUpOZVUtYUg3WVluS3Qwb3BvVVI3Qlh5Tkl4TkNsZE85dDFFZldEYlBacHVBVHBtTkJTSF9oNmVkcVFuNmhfZURWSlJuY1FSeHIzUFd2WHpzNDZ0NmxUbWpkbEVUUUhieEZOQUVpcEZSZEdQTHBudEpVaGpyLUNnd2EwSjlrcU51cTMxTFlleGFRT093NEtOUldvQl9iRGlsMVVRTHZuRHFMVFM4Z2c?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T15:41:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
-      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Jornal de Uberaba",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T10:11:33.753715+00:00"
+      "collected_at": "2026-11-01T12:33:49.266591+00:00"
     },
     {
       "id": "1b3579a61f8778d054c0abf997fc5c1d7ab86a9b8a4c31ff918c134bbfd6b181",
@@ -122,13 +105,47 @@
       "published": "2026-10-31T15:41:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
       "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas REDE BRASIL DE TELEVISÃO",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" multa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T12:33:46.468860+00:00"
+    },
+    {
+      "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
+      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - Jornal de Uberaba",
+      "source": "Jornal de Uberaba",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVIwNWhaQnFRYWRsaUhmUVU0eFZSdUNPOW1ydjJmeEZIcTY4aW5rdXAtLUQxRllZOUpOZVUtYUg3WVluS3Qwb3BvVVI3Qlh5Tkl4TkNsZE85dDFFZldEYlBacHVBVHBtTkJTSF9oNmVkcVFuNmhfZURWSlJuY1FSeHIzUFd2WHpzNDZ0NmxUbWpkbEVUUUhieEZOQUVpcEZSZEdQTHBudEpVaGpyLUNnd2EwSjlrcU51cTMxTFlleGFRT093NEtOUldvQl9iRGlsMVVRTHZuRHFMVFM4Z2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T15:41:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 15:41:00 GMT",
+      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Jornal de Uberaba",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T10:11:35.520344+00:00"
+      "collected_at": "2026-11-01T12:33:48.674035+00:00"
+    },
+    {
+      "id": "e68bf906dc14b01f5bdad2a76781709b5b79fae0830ed2b768570d1d21f5c10d",
+      "title": "Corpo de mulher é encontrado dentro de mala em casa - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzlyRk9QOWloOXh5RHoxMkdxV1FleHY0aWpIeVhjUVVIdERHaWxFVnlSLVM3TFh2b2dMVXlXWTR1bmNfNmxObFlIRnQwNERod2JMc0ZnS1NOZ3ZqcjNKaVZoUUttcmdLcVJhLXJoai1kQkJZMS1VT2ltcjF2MTdKM0pieTNNdEROVXVJUXJB0gGOAUFVX3lxTE4zOXJGT1A5aWg5eHlEejEyR3FXUWV4djRpakh5WGNRVUh0REdpbEVWeVItUzdMWHZvZ0xVeVdZNHVuY182bE5sWUhGdDA0RGh3YkxzRmdLU05ndmpyM0ppVmhRS21yZ0txUmEtcmhqLWRCQlkxLVVPaW1yMXYxN0ozSmJ5M010RE5VdUlRckE?oc=5",
+      "resolved_link": "",
+      "published": "2026-10-31T12:38:57+00:00",
+      "published_raw": "Sat, 31 Oct 2026 12:38:57 GMT",
+      "snippet": "Corpo de mulher é encontrado dentro de mala em casa - São Carlos no Toque São Carlos no Toque",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T12:34:02.211778+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -145,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T10:11:48.710967+00:00"
-    },
-    {
-      "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
-      "title": "“Justos vão pagar pelos pecadores”; Associação de rodovias alerta para calote no free flow - Estadão",
-      "source": "Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcHFRM29mei03RnJIRkZvcEtZS0JYX2VIcUZ4QWF2TDF4NENObjczU1QxRlFkM3BLXzNLNXBqMmZBMXozX19pbzIzLWkzODhUb3ZjdzNyYTBJTDNCcG4zaGcza2J5SDRpdXRwNzdMWXBTNFBrNkRNdjFRa1p5UW9xd1F1NFd1Nlpzc2NiaFN3N0h4M2liRzFmU2FlaDFacnplbUUxS3RWWGc2a2JUTG1Oc1pxOXlBOWhyQmRCQnNWaTkyMzBrdlBqZzQ5SnVNQUt1NHpEbG0zT2xlLTJraU5DNVVoNE5iME3SAewBQVVfeXFMTWFjRHBzMU1XbnQ2aURfM2gxZDlWX2hXMzNxd2oxMEQ3OXhTdFhRaU5OMFVTc25QbGhvNzRWcXBIQVZ5MDdJeWhUM2pqQ0JqMXdZdWxLZ0FrVTRRcXRLS2lpVnI0elFUTjRGRzI1aUgtc2luQ1hyZERZdEpFYUxESm9NYmxkZ25odTc3N0NVTERfTzU1MG1BcWtBU0thRGYyZENXT2pvUkc4ZFNfOEFBLThOaGRVTkZ5eHZrMm1yRXVQMW8wOHBLR0hoWXdCeGRkN3pBZDIyN0FlV1BfbmxLMmstenhUR3hKdG1PNUw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T11:00:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 11:00:00 GMT",
-      "snippet": "“Justos vão pagar pelos pecadores”; Associação de rodovias alerta para calote no free flow Estadão",
-      "term": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T10:11:36.741669+00:00"
-    },
-    {
-      "id": "382f38acba009a91c6c451518dd277a04275574f524a3ff6bdfd5b68f7d3f3e5",
-      "title": "Polícia Militar prende suspeito de roubo após perseguição no bairro Jacobucci, em São Carlos - São Carlos no - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkZUVEh1TTB5cEs1b1hwUmtJTFI1UUkxYXZta09FcjJCSkp5SzNPYzdfd3ZDZG9CSmFfdHpkaHFIbzhOUTRfYjhqck94VmdHU0RMeTAzSGpzSDhZUk40MWFOaF9JMG8zOWhiRmJ3TjF4ekxPYkZxOFE5QnhZelFMZ2dLM3p5Um9FeERWT0VmTWEtVzh6cjljbmtuUDZfTzB5SWgwUDV1U1FtTUVHQXB2anNJUk1QaEQzTWxkYi1LUFV3VGfSAcMBQVVfeXFMT0pGVFRIdU0weXBLNW9YcFJrSUxSNVFJMWF2bWtPRXIyQkpKeUszT2M3X3d2Q2RvQkphX3R6ZGhxSG84TlE0X2I4anJPeFZnR1NETHkwM0hqc0g4WVJONDFhTmhfSTBvMzloYkZid04xeHpMT2JGcThROUJ4WXpRTGdnSzN6eVJvRXhEVk9FZk1hLVc4enI5Y25rblA2X08weUloMFA1dVNRbU1FR0FwdmpzSVJNUGhEM01sZGItS1BVd1Rn?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T10:53:16+00:00",
-      "published_raw": "Sat, 31 Oct 2026 10:53:16 GMT",
-      "snippet": "Polícia Militar prende suspeito de roubo após perseguição no bairro Jacobucci, em São Carlos - São Carlos no São Carlos no Toque",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T10:11:48.711046+00:00"
+      "collected_at": "2026-11-01T12:34:02.211682+00:00"
     }
   ]
 }
