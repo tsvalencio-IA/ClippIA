@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:55:09.589024+00:00",
+  "updated_at": "2026-11-01T03:00:20.089357+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 8,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "7c1f2b1ec08cc8f656783745da0fec1a2a24ffa1896c08262688e797c01f5fa5",
+      "title": "Pedágios ficam mais caros a partir da meia-noite deste domingo (1º) em rodovias de São Paulo; veja os novos valores e o que muda para os motoristas - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOZThPZkNicC1RY3U3MFB5Q3VVdjJHLWhRdDVlNU95dUlxTFZkUGkzNnVJZDNPaFA3aDU5dmxCYlpwUWhCWTZ3bzhDTDZOVHZ1X3ZVUTJLSnA5Y296MkhtUHl4bXFOMkw3aThmNTkyck1qYnZQcmE4Rk1iQkpvNVZoRDhzX1ZHbUNjVmJ3UjRiU2VpM3JhejEydlBMTmVJLWwydUZOcm0yekZySUJaSXUyTW1YaTlrSHlZZk9rUHN5V0tJUlU4U082YTVaSVE2ZU14WTlidTNqTGtfVmZzcHU1UHlCaXZ6MlMyOHp0VlRORGl6YWg1TkE4dWloVVk4OFlDQTlxU1lCbFROc0NERnAtMmNXTW9QcFExbnfSAZ8CQVVfeXFMTWNKbmh0d2E5bW9zYmJmMk16WjlqUlQ3bktSLUFYOXNPLXNTVVVURk5pSmxMLWRpYkdrRGhVY1pDRVJyX2pYSTMxSEJyLXNrdGdwU2ZiYTNqa2NzRXNPSFB5WVh2aVhkM1YyUkZ5M1pOMUpPMnhVZ3FLTHQyUklEa3llWlRiRXA4T1pRMUFCa3NoWk4zNUIxOTc3aGFjWnFkVjY0NlA2NDc0MG42eG9SWEdSNWwteldLMXhBQWJidnNHeEkxODZLQ2I2bUU0UFJfdFU2S2FvN0t1ZENXcld4N19FbzFkbkhDVGQ1VzRpdDQ4aU03M3FBbDdmaktVVDg3RGF1Zmp6RWZ2VDUtMm1KNmxXLU84eFZCcG9tSHBiMmc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-01T00:12:07+00:00",
+      "published_raw": "Sun, 01 Nov 2026 00:12:07 GMT",
+      "snippet": "Pedágios ficam mais caros a partir da meia-noite deste domingo (1º) em rodovias de São Paulo; veja os novos valores e o que muda para os motoristas Diário do Transporte",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-01T03:00:04.832671+00:00"
+    },
+    {
       "id": "9151b8431d796df86b8ef9111d3e504fef4677d6a7a01d290b0f435be62778e7",
       "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - Jornal de Uberaba",
       "source": "Jornal de Uberaba",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:54:53.330095+00:00"
+      "collected_at": "2026-11-01T03:00:02.554137+00:00"
     },
     {
       "id": "b67a639e3a37de74ee37e225d29f3d430820fe80147e62b3315929e8bf162c44",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:55:07.036914+00:00"
+      "collected_at": "2026-11-01T03:00:17.432918+00:00"
     },
     {
       "id": "b5e1d957e4987117e50f87473aec57625385456d4538b7e0a402ae312ccf4914",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:54:56.065736+00:00"
+      "collected_at": "2026-11-01T03:00:05.425215+00:00"
     },
     {
       "id": "f045575ff2925334e2543c7c098834cc0b8cab7d3a134924ceed961ff1fc05e4",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:54:53.329918+00:00"
+      "collected_at": "2026-11-01T03:00:02.554039+00:00"
     },
     {
       "id": "4741abb4e27844c52bba6bb5ae56c142d1280de0e0b601f5290cc4904a2ddfde",
@@ -128,24 +145,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:55:07.037106+00:00"
+      "collected_at": "2026-11-01T03:00:17.433287+00:00"
     },
     {
-      "id": "6172adfd57daa302e590aa1fb9eca24027a34528cb0172baba6cbbb59c878b94",
-      "title": "Prefeitura de São Carlos prevê recursos para manutenção de escolas, unidades de saúde e prédios - São Carlos no Toque",
+      "id": "9f0a2ee1ac584845e703035208d44d916e59dd6a414d9980d478d73a957ee875",
+      "title": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWp6aDBDNlhXNGkzbWNLa3lhRWtZc0Q2QzVnMHg4T09wYTJzcWpXV3FndVRydzVLTGNxdEcxNmw5c0NiUXdkQWdwSnBjVEZyY0N1cnN6NDRIX1h1RkU5V3BuclJGblFmSWhQaDdlYkkzbFNKdHhWY2tYOU5rdDk1Z2VYcm1IanBrQmlyYUMyeDFBVm9tUzl4Q1VjQ09CVWJfSzZYaXFmUUdFcC1GUnBDSldiQXNCdGFOdjY2QTcxRDZwZ0duSFlvN3ZYR3lYUU5CNGJQZGlRajZYb3J50gHcAUFVX3lxTE05anpoMEM2WFc0aTNtY0treWFFa1lzRDZDNWcweDhPT3BhMnNxaldXcWd1VHJ3NUtMY3F0RzE2bDlzQ2JRd2RBZ3BKcGNURnJjQ3Vyc3o0NEhfWHVGRTlXcG5yUkZuUWZJaFBoN2ViSTNsU0p0eFZja1g5Tmt0OTVnZVhybUhqcGtCaXJhQzJ4MUFWb21TOXhDVWNDT0JVYl9LNlhpcWZRR0VwLUZScENKV2JBc0J0YU52NjZBNzFENnBnR25IWW83dlhHeVhRTkI0YlBkaVFqNlhvcnk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWVZTS1OSmx5eXE3QUgzSDVsOHhBUm5WcGk2YnB0dnB0SFhwbVZFTXRxWDZHT3dCeWpXU2RaN3hBb00wTS11WmhCSEZpOU1lUkprS2FieENmOUdjWHV3OW1Fa3V0ODRWNWI2MnplclZpT09YWEhPQ2xxeVJ3cG8zZ0NBSVBITE9PdVFua1gtTXV3YkxRVHdqeUVHZlJSc081X1hhVWhR0gGmAUFVX3lxTE1NZVlNLU5KbHl5cTdBSDNINWw4eEFSblZwaTZicHR2cHRIWHBtVkVNdHFYNkdPd0J5aldTZFo3eEFvTTBNLXVaaEJIRmk5TWVSSmtLYWJ4Q2Y5R2NYdXc5bUVrdXQ4NFY1YjYyemVyVmlPT1hYSE9DbHF5UndwbzNnQ0FJUEhMT091UW5rWC1NdXdiTFFUd2p5RUdmUlJzTzVfWGFVaFE?oc=5",
       "resolved_link": "",
-      "published": "2026-10-31T03:23:04+00:00",
-      "published_raw": "Sat, 31 Oct 2026 03:23:04 GMT",
-      "snippet": "Prefeitura de São Carlos prevê recursos para manutenção de escolas, unidades de saúde e prédios São Carlos no Toque",
+      "published": "2026-10-31T04:01:11+00:00",
+      "published_raw": "Sat, 31 Oct 2026 04:01:11 GMT",
+      "snippet": "FESC entrega certificados a alunos do curso de mecânica de bicicletas - São Carlos no Toque São Carlos no Toque",
       "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:55:07.037185+00:00"
+      "collected_at": "2026-11-01T03:00:17.433204+00:00"
     },
     {
       "id": "535b0326da645a501d2781f7ea6e73aa8d250d2fe389951b5f945749a2794c5e",
@@ -162,24 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-10-31T23:54:53.330209+00:00"
-    },
-    {
-      "id": "e49fa16f3865fc2d4b72a0b2ee587ad2c7e05da74227934cc6ec792c2cbfad8f",
-      "title": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo (Copia) - ACidade ON Campinas",
-      "source": "ACidade ON Campinas",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRjB5dVhLc2sxV0hMcVJBRzB4OWZvaEQ3YklMc0gyYndQRmExdzZLMGw1TVRZWHJNa0JPQjdTellYaWhfaGpjMU15YklnZHFVUWFPOWlzeDFzZTZLUHgxaXMwSDV3NkJ0SzUwZzFZVUFkS0l0eU1RLVBCQ0hINkVnNFFrRVoxYzU5clc5dVM1QzZoSTJrQlBDVHlUNEhEdDJqSlVoeWp4Vi1HUlg0aWh1T1ZWcDJGeXVwSnd0MmdrdUpSQm9Na1Nzdnc1dGZlNFFDY0ZLV9IB1AFBVV95cUxNRjB5dVhLc2sxV0hMcVJBRzB4OWZvaEQ3YklMc0gyYndQRmExdzZLMGw1TVRZWHJNa0JPQjdTellYaWhfaGpjMU15YklnZHFVUWFPOWlzeDFzZTZLUHgxaXMwSDV3NkJ0SzUwZzFZVUFkS0l0eU1RLVBCQ0hINkVnNFFrRVoxYzU5clc5dVM1QzZoSTJrQlBDVHlUNEhEdDJqSlVoeWp4Vi1HUlg0aWh1T1ZWcDJGeXVwSnd0MmdrdUpSQm9Na1Nzdnc1dGZlNFFDY0ZLVw?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T00:20:04+00:00",
-      "published_raw": "Sat, 31 Oct 2026 00:20:04 GMT",
-      "snippet": "Pedágio Free flow começa a funcionar em duas cidades do interior de SP neste domingo (Copia) ACidade ON Campinas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-10-31T23:54:53.330013+00:00"
+      "collected_at": "2026-11-01T03:00:02.554250+00:00"
     }
   ]
 }
