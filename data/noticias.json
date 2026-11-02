@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:27:42.244447+00:00",
+  "updated_at": "2026-11-02T00:10:45.090501+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 12,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "e518bf295c77ee5f3100ab49ad06bad7f3d1e091ee1edcc6e02ac207be7e3a47",
+      "title": "Pedágio Eletrônico começa a operar em Pirangi e Monte Alto, no interior de São Paulo, neste domingo (1º) - Diário do Transporte",
+      "source": "Diário do Transporte",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUWtnN05KaU54Z1huT004dllZMXFoOHBqUWVfNDFuX1lCY21PZFFjWm1NZmJuNEc3ZjBzaUVCUFRsVTNCVlJwSjZyR3Z1b3NtaUVMTncwelprUUd0Vk9ORUxxZnFadmY1dFhuSUEtOWMxTmpUSHZqTDVSS1BKSXZiT0xUZmtJdDBibDYzRElNcm9YMVlQQ2Y0MXhfUFlWUUFiYlI5bVZoRFBmZ3JoVjNhZjRzNXhrX3VodF92dHZDNTYwREhoVFNPOThvNVkyR28xUmhja2l6b25IR0JYYjFjaURicmbSAeQBQVVfeXFMTlFrZzdOSmlOeGdYbk9NOHZZWTFxaDhwalFlXzQxbl9ZQmNtT2RRY1ptTWZibjRHN2Ywc2lFQlBUbFUzQlZScEo2ckd2dW9zbWlFTE53MHpaa1FHdFZPTkVMcWZxWnZmNXRYbklBLTljMU5qVEh2akw1UktQSkl2Yk9MVGZrSXQwYmw2M0RJTXJvWDFZUENmNDF4X1BZVlFBYmJSOW1WaERQZmdyaFYzYWY0czV4a191aHRfdnR2QzU2MERIaFRTTzk4bzVZMkdvMVJoY2tpem9uSEdCWGIxY2lEYnJm?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-01T23:00:04+00:00",
+      "published_raw": "Sun, 01 Nov 2026 23:00:04 GMT",
+      "snippet": "Pedágio Eletrônico começa a operar em Pirangi e Monte Alto, no interior de São Paulo, neste domingo (1º) Diário do Transporte",
+      "term": "\"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-326%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-02T00:10:43.512080+00:00"
+    },
+    {
       "id": "4b2bb8a57ea2946621faa779e73c3a2c82eb13ff81e63e0e8fa88f18aece8620",
       "title": "Mulher morre após HB20 ser atingido na traseira por Audi Q5 na Campinas-Monte Mor - ACidade ON",
       "source": "ACidade ON",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:24.819769+00:00"
+      "collected_at": "2026-11-02T00:10:30.223635+00:00"
     },
     {
       "id": "2a095dd7764641f884eae7d99b81c53fd3aa3a5494437cd3a598bf1d33e54e2a",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:24.819711+00:00"
+      "collected_at": "2026-11-02T00:10:30.223594+00:00"
     },
     {
       "id": "8a61d4894a84a087e8d39c0aaa4095790afba68605ac57bcbd1b9fc16253b391",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616123+00:00"
+      "collected_at": "2026-11-02T00:10:27.960019+00:00"
     },
     {
       "id": "a2fa2817e851b8fbe3538e3f63fd2c26f8a02a24e97e71bd086f206fd7cb1cff",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:36.794698+00:00"
+      "collected_at": "2026-11-02T00:10:42.319094+00:00"
     },
     {
       "id": "0a7b110b1dc92b648f145c0a31a4fdc9be3883957e69542dcb05b3bc3656d48a",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:34.540942+00:00"
+      "collected_at": "2026-11-02T00:10:40.000657+00:00"
     },
     {
       "id": "d7ff4ed831a6a0fcc237341308b0266a42ac20b9d70445e0ec6e6ed90ed69ce1",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:34.541098+00:00"
+      "collected_at": "2026-11-02T00:10:40.000756+00:00"
     },
     {
       "id": "6aedd5c9db035fc4e06a3fa5947d89f9388b6090bde865710830df41b6550aa9",
@@ -162,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616350+00:00"
+      "collected_at": "2026-11-02T00:10:27.960177+00:00"
     },
     {
       "id": "6ff85a2de427ba9ae4f6946e6466055d228a68374a15926ded486709066f5940",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616284+00:00"
+      "collected_at": "2026-11-02T00:10:27.960131+00:00"
     },
     {
       "id": "7740e771c0fea744afc13ce919531024d4192e4eba9bd96e1a97827482d32ffb",
@@ -190,13 +207,13 @@
       "published": "2026-11-01T09:02:23+00:00",
       "published_raw": "Sun, 01 Nov 2026 09:02:23 GMT",
       "snippet": "Novo Pedágio Eletrônico começará a operar na região neste domingo (01) OExtra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616215+00:00"
+      "collected_at": "2026-11-02T00:10:27.960084+00:00"
     },
     {
       "id": "d1555ad871851e0edd785358f434348bbb97cfa381d4f5c8a1db05c7198504ae",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616523+00:00"
+      "collected_at": "2026-11-02T00:10:27.960264+00:00"
     },
     {
       "id": "7c1f2b1ec08cc8f656783745da0fec1a2a24ffa1896c08262688e797c01f5fa5",
@@ -224,30 +241,13 @@
       "published": "2026-11-01T00:12:07+00:00",
       "published_raw": "Sun, 01 Nov 2026 00:12:07 GMT",
       "snippet": "Pedágios ficam mais caros a partir da meia-noite deste domingo (1º) em rodovias de São Paulo; veja os novos valores e o que muda para os motoristas Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-01T21:27:24.819648+00:00"
-    },
-    {
-      "id": "5e6caa9843c0b5bbb6d7fa292c3a6c8c1dd87415315474628621203fd3dc3dc7",
-      "title": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas - Zatum",
-      "source": "Zatum",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFB2SUhlNWxoRkJWdG9mSVFuSXhZSTNKZFBpQ1ZtXzhwUXlqQnVkZXliUzRNckNTSThGLXhvS19wQmRLYVE1N3ZValVwSlV2SkdEc0xic0tsMnVsSzVfdW5IX1Niel9lTXJWZ2hTZElKdHhGRWg2Tk9xMjI3M09teGZpUGxMN21PeTdjRVJRamVCYzZrV2psbFgtazlBeFhGRnFYMHk1a0dpMUs2M01LdHFTTVB0ZXZsNTZaY2xOYUhLNzBHcVdtel93?oc=5",
-      "resolved_link": "",
-      "published": "2026-10-31T23:42:05+00:00",
-      "published_raw": "Sat, 31 Oct 2026 23:42:05 GMT",
-      "snippet": "Siga Fácil: motoristas têm até dia 16 para regularizar débitos e pedir restituição de multas Zatum",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-01T21:27:22.616452+00:00"
+      "collected_at": "2026-11-02T00:10:30.223549+00:00"
     }
   ]
 }
