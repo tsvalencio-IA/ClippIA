@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T04:26:43.891351+00:00",
+  "updated_at": "2026-11-03T05:03:05.619334+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 11,
+  "total": 10,
   "total_images": 0,
-  "new_items": 11,
+  "new_items": 10,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,13 +54,13 @@
       "published": "2026-11-03T02:13:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 02:13:00 GMT",
       "snippet": "Motorista passa pelo pedágio sem cancela em Pirangi e Monte Alto, no interior de SP, e tem 30 dias para pagar antes de virar multa de R$ 195,23 O Antagonista",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:27.038284+00:00"
+      "collected_at": "2026-11-03T05:02:49.131639+00:00"
     },
     {
       "id": "c9ce6dd4f0fd03ff9be3ce1e5297890bcdcb38896c276ce3875b675ede260e0a",
@@ -77,41 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:27.037984+00:00"
+      "collected_at": "2026-11-03T05:02:49.131374+00:00"
     },
     {
-      "id": "c377a5821409e231f63e38fc2e58a4b4c66eddfa338cbe95d77769d61e1f7e2d",
-      "title": "Ex-intérprete do Mickey Mouse é preso em megaoperação contra crimes envolvendo menores nos EUA - São Carlos - São Carlos no Toque",
+      "id": "bb1c3cec31cfbd88ae744b171e228ddd06b734f1c406186c0145e54941826174",
+      "title": "No caminho de quem sai de São Carlos, câmera com IA multiplica multas na Dom Pedro I - São Carlos no Toque - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFBocHd6c1dYRkk0dFdVNkJZTV9WVU9tVU5PTG9jc1g4ckhSajhsTDhRYzhsbGNpY016SllpTWl0eGFDOFVyVWF0cjg2UFp4ZkZldWlQNU5ZcjBPSWEtRUd3Rjl2N2xsVG5Ma2JoX2pFZGljb3ZDT1JEUGN4UHNUeHRoRFRiNzMza3JHeUtfbWJKWDVHUW9vTXEyelVQUERleHdvcEpRQjFrMldDSXI5SF8zbHRHNEc0dHhkbnZmWGlnalBVTGpv0gHHAUFVX3lxTE9IUGhwd3pzV1hGSTR0V1U2QllNX1ZVT21VTk9Mb2NzWDhySFJqOGxMOFFjOGxsY2ljTXpKWWlNaXR4YUM4VXJVYXRyODZQWnhmRmV1aVA1TllyME9JYS1FR3dGOXY3bGxUbkxrYmhfakVkaWNvdkNPUkRQY3hQc1R4dGhEVGI3MzNrckd5S19tYkpYNUdRb29NcTJ6VVBQRGV4d29wSlFCMWsyV0NJcjlIXzNsdEc0RzR0eGRudmZYaWdqUFVMam8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYjBTaVVTNTA1QkJGcmRISkZUU3h2X3VmR2dfeFpzY25SZy04Zzk0emVMZE1EOFZ1T0ljajI0aWZFa3lOTFM0WVBtTjVlM196U0NZRlBoaWNpV3lUR05aNVJVc3R5Nld3TWN0UklIM1JQM3c2MzdCeGM0Z1Znd0szSUxsbG8wNWtiMVZmbklWSTcxdXIzTGRaLUZQaU9HUjNHTHZTV0ZURnRPMjR2amNmRDdEamhYdUZH0gG4AUFVX3lxTFBiMFNpVVM1MDVCQkZyZEhKRlRTeHZfdWZHZ194WnNjblJnLThnOTR6ZUxkTUQ4VnVPSWNqMjRpZkVreU5MUzRZUG1ONWUzX3pTQ1lGUGhpY2lXeVRHTlo1UlVzdHk2V3dNY3RSSUgzUlAzdzYzN0J4YzRnVmd3SzNJTGxsbzA1a2IxVmZuSVZJNzF1cjNMZFotRlBpT0dSM0dMdlNXRlRGdE8yNHZqY2ZEN0RqaFh1Rkc?oc=5",
       "resolved_link": "",
-      "published": "2026-11-02T19:31:09+00:00",
-      "published_raw": "Mon, 02 Nov 2026 19:31:09 GMT",
-      "snippet": "Ex-intérprete do Mickey Mouse é preso em megaoperação contra crimes envolvendo menores nos EUA - São Carlos São Carlos no Toque",
+      "published": "2026-11-02T17:21:22+00:00",
+      "published_raw": "Mon, 02 Nov 2026 17:21:22 GMT",
+      "snippet": "No caminho de quem sai de São Carlos, câmera com IA multiplica multas na Dom Pedro I - São Carlos no Toque São Carlos no Toque",
       "term": "\"Ecovias Noroeste\" multa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:35.524758+00:00"
-    },
-    {
-      "id": "0145106e9b5f1d59a8a0dfd6ddfae6a330f3ef2856a9abd4dfc730e0c3d120fc",
-      "title": "Vorcaro denuncia Brasil a órgão internacional e tenta deixar a prisão - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3NoeTNXcnR3ak1XSlNqNndpd29xN0RIWlNhN2k1X2VSYkQ1bGVaU1ZKSmtqUE91dTlGYVJWZWVna0ZVZktfaWNGeFBLT0pXblEzTXdwMFBuZ3lfUUxqX2lUa2Z4ZmpDU3A3UDlEV0I0MjRqaUdxVGVVUTdoanZORHdVZTZ3QUY3ajUtOVptMUZZQk1ncy1kU1RxbzBwV3NueXRWUmh30gGmAUFVX3lxTE1vc2h5M1dydHdqTVdKU2o2d2l3b3E3REhaU2E3aTVfZVJiRDVsZVpTVkpKa2pQT3V1OUZhUlZlZWdrRlVmS19pY0Z4UEtPSlduUTNNd3AwUG5neV9RTGpfaVRrZnhmakNTcDdQOURXQjQyNGppR3FUZVVRN2hqdk5Ed1VlNndBRjdqNS05Wm0xRllCTWdzLWRTVHFvMHBXc255dFZSaHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-02T18:04:40+00:00",
-      "published_raw": "Mon, 02 Nov 2026 18:04:40 GMT",
-      "snippet": "Vorcaro denuncia Brasil a órgão internacional e tenta deixar a prisão - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" multa",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-03T04:26:35.524675+00:00"
+      "collected_at": "2026-11-03T05:02:57.630915+00:00"
     },
     {
       "id": "fb56fab7520b2393556d1e22886bbbfb5fa9f0d7b97d3e381af8716345aadb9a",
@@ -128,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:29.294747+00:00"
+      "collected_at": "2026-11-03T05:02:51.315939+00:00"
     },
     {
       "id": "cad7edc9484c3d83dea42a63365ef5421e90423c7944c89c55cf3200f1114bb6",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-333%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:42.984920+00:00"
+      "collected_at": "2026-11-03T05:03:04.736139+00:00"
     },
     {
       "id": "bde7939b008f41149a026d40fd9fa2b7028f81040f616027de0c37f96d5dbf42",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:27.038196+00:00"
+      "collected_at": "2026-11-03T05:02:49.131558+00:00"
     },
     {
       "id": "08ef6bb2d20553cdfb1d9645c5fd3e5d76f516de50f3f379b4fbdfc8f93b6c68",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:35.524582+00:00"
+      "collected_at": "2026-11-03T05:02:57.630785+00:00"
     },
     {
       "id": "3cb5ff347e630d37dff0d922b2dc85ae6e7a5503e5dba949a9e35598334ab67c",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:27.038107+00:00"
+      "collected_at": "2026-11-03T05:02:49.131477+00:00"
     },
     {
       "id": "243b6dcc2fee742abb7b3ab7a133f4cbdb6b06bb69d0574a93f3961156060dea",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:29.294842+00:00"
+      "collected_at": "2026-11-03T05:02:51.316034+00:00"
     },
     {
       "id": "723ba3dfb3ff770772f634c38eb4f0ad1e85c6ff5e973128ce0920f0c3bffb73",
@@ -224,13 +207,13 @@
       "published": "2026-11-02T11:39:13+00:00",
       "published_raw": "Mon, 02 Nov 2026 11:39:13 GMT",
       "snippet": "Acidente entre ônibus e automóvel na Avenida Giovanni Gronchi deixa homem ferido na Vila Andrade Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T04:26:37.783456+00:00"
+      "collected_at": "2026-11-03T05:03:00.936589+00:00"
     }
   ]
 }
