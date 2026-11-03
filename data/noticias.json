@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T13:11:01.870786+00:00",
+  "updated_at": "2026-11-03T13:30:29.567002+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 14,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:46.262706+00:00"
+      "collected_at": "2026-11-03T13:30:14.500219+00:00"
     },
     {
       "id": "ec4f2990a4eadeefe105f3c8d6b32f56532d10395759bcb4d6926123b08830ec",
@@ -77,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:55.290286+00:00"
+      "collected_at": "2026-11-03T13:30:23.095544+00:00"
+    },
+    {
+      "id": "6f69c951012e5ffb86c2ea483abb321fbeb52cfc3a5b893823dc65ea399fe316",
+      "title": "Véspera do aniversário de São Carlos terá sol entre muitas nuvens e possibilidade de chuva - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnVlTU9xelN5ZHNyX29uTlRuMWpLamV6SXdUWFY2V2d4TWU4d1BPS3lzWWRzTDF5Z1hNWFUtV2lZWmZkcGhfV1dHaG5lc2tiWWtBUWYtb2w4Tk4xRWRPWndrSUZOUlhsa1QtaUpCNk1xOE5mMTZaRFp5bGdEYWtMX3V2NzBHZzdSTk03RnRpQjVVaEdFUzgwS2I2dV92Y2JsX01iUWhuLUVPRnpmNDFCRE03ZVFzcmUxanBhdDBIOGNvUdIBwgFBVV95cUxNYnVlTU9xelN5ZHNyX29uTlRuMWpLamV6SXdUWFY2V2d4TWU4d1BPS3lzWWRzTDF5Z1hNWFUtV2lZWmZkcGhfV1dHaG5lc2tiWWtBUWYtb2w4Tk4xRWRPWndrSUZOUlhsa1QtaUpCNk1xOE5mMTZaRFp5bGdEYWtMX3V2NzBHZzdSTk03RnRpQjVVaEdFUzgwS2I2dV92Y2JsX01iUWhuLUVPRnpmNDFCRE03ZVFzcmUxanBhdDBIOGNvUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-03T04:13:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 04:13:00 GMT",
+      "snippet": "Véspera do aniversário de São Carlos terá sol entre muitas nuvens e possibilidade de chuva - São Carlos no São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:30:24.259276+00:00"
     },
     {
       "id": "320a801873f8b92ef997393ec1c5c8778b6a699e6f4e5470412f573f882e834d",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:43.803989+00:00"
+      "collected_at": "2026-11-03T13:30:12.168024+00:00"
     },
     {
       "id": "c9ce6dd4f0fd03ff9be3ce1e5297890bcdcb38896c276ce3875b675ede260e0a",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:43.803841+00:00"
+      "collected_at": "2026-11-03T13:30:12.167707+00:00"
     },
     {
       "id": "c377a5821409e231f63e38fc2e58a4b4c66eddfa338cbe95d77769d61e1f7e2d",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:52.895953+00:00"
+      "collected_at": "2026-11-03T13:30:20.821869+00:00"
     },
     {
       "id": "0145106e9b5f1d59a8a0dfd6ddfae6a330f3ef2856a9abd4dfc730e0c3d120fc",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:52.895914+00:00"
+      "collected_at": "2026-11-03T13:30:20.821774+00:00"
     },
     {
       "id": "bb1c3cec31cfbd88ae744b171e228ddd06b734f1c406186c0145e54941826174",
@@ -156,13 +173,13 @@
       "published": "2026-11-02T17:21:22+00:00",
       "published_raw": "Mon, 02 Nov 2026 17:21:22 GMT",
       "snippet": "No caminho de quem sai de São Carlos, câmera com IA multiplica multas na Dom Pedro I - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
+      "term": "\"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:43.803899+00:00"
+      "collected_at": "2026-11-03T13:30:13.905299+00:00"
     },
     {
       "id": "fb56fab7520b2393556d1e22886bbbfb5fa9f0d7b97d3e381af8716345aadb9a",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:46.262667+00:00"
+      "collected_at": "2026-11-03T13:30:14.500140+00:00"
     },
     {
       "id": "cad7edc9484c3d83dea42a63365ef5421e90423c7944c89c55cf3200f1114bb6",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-333%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:11:00.893977+00:00"
+      "collected_at": "2026-11-03T13:30:28.556658+00:00"
     },
     {
       "id": "c746de5d834e08a4b0d6fe5110935ab33162be1284d7a52475d6057bf1758dbf",
@@ -207,13 +224,13 @@
       "published": "2026-11-02T15:47:15+00:00",
       "published_raw": "Mon, 02 Nov 2026 15:47:15 GMT",
       "snippet": "Projeto Consolador realiza ação de acolhimento e leva palavras de fé a famílias no Dia de Finados em São São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:45.661940+00:00"
+      "collected_at": "2026-11-03T13:30:12.167829+00:00"
     },
     {
       "id": "bde7939b008f41149a026d40fd9fa2b7028f81040f616027de0c37f96d5dbf42",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:43.803946+00:00"
+      "collected_at": "2026-11-03T13:30:12.167925+00:00"
     },
     {
       "id": "08ef6bb2d20553cdfb1d9645c5fd3e5d76f516de50f3f379b4fbdfc8f93b6c68",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:52.895821+00:00"
+      "collected_at": "2026-11-03T13:30:20.821671+00:00"
     },
     {
       "id": "3cb5ff347e630d37dff0d922b2dc85ae6e7a5503e5dba949a9e35598334ab67c",
@@ -264,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T13:10:55.290186+00:00"
+      "collected_at": "2026-11-03T13:30:23.095297+00:00"
     }
   ]
 }
