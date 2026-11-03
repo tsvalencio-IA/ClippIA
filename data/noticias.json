@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T05:03:05.619334+00:00",
+  "updated_at": "2026-11-03T13:11:01.870786+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 13,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 13,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "1344b2fc3a47d7cae30c0739e1278b296d4c22240e567aef467a8191bfec2ca7",
+      "title": "Engavetamento entre três caminhões deixa feridos e interdita Washington Luís (SP-310)em São Carlos - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXFlakl5bHdmTXFrbTVhOEJmSmxoVUpEYnRmTFhUc18xTk1zR09RcGstWVNKU3dfV3NuUGdCcVhRMXdrUHVOazVkS0JDTnZmdW4xUldPTXprQU1fWVlsZUNtdnVlc05lZl9wX1cxdTZTc2JjRmxPODcxbFFqeFJJUThFSnQ1bklWakdPSUllank0eEdoTjQ1N3Rka2dJMEFLYzBlS2xydGNwWlN6d2p4LTFFVU5uMHl4aFMwYnZR?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-03T12:55:57+00:00",
+      "published_raw": "Tue, 03 Nov 2026 12:55:57 GMT",
+      "snippet": "Engavetamento entre três caminhões deixa feridos e interdita Washington Luís (SP-310)em São Carlos Estradas",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:10:46.262706+00:00"
+    },
+    {
+      "id": "ec4f2990a4eadeefe105f3c8d6b32f56532d10395759bcb4d6926123b08830ec",
+      "title": "Obras da 3ª faixa na Washington Luís retomam nesta terça entre Rio Preto e Mirassol - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0tYMHI3Nkt4WDRneFQxOEc5cTV5MDNjZnh1R3RzcWlZY1RqTXlCdXpPbmx0TzFlVFQtbk9hNzdDQk01M2VBSFkxeW1fNkNERm5jT1d2T18tcTJBWmNLNW4ySnpSeEd3Q0d3NmhJaTctTGdHZmpsbC12SXo2MmJVRmJiRmNIbWpNNzE1QnNhU1NyS3J1MGVRQWhKSi1MRDkxTVlEVmpmaTVwWXJBSmVpSHJTMTFFRC1COFNaZkFRSzZUMWRVeVRpeU15U0JiYnZtWWFUSWpqUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-03T09:21:23+00:00",
+      "published_raw": "Tue, 03 Nov 2026 09:21:23 GMT",
+      "snippet": "Obras da 3ª faixa na Washington Luís retomam nesta terça entre Rio Preto e Mirassol Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:10:55.290286+00:00"
+    },
+    {
       "id": "320a801873f8b92ef997393ec1c5c8778b6a699e6f4e5470412f573f882e834d",
       "title": "Motorista passa pelo pedágio sem cancela em Pirangi e Monte Alto, no interior de SP, e tem 30 dias para pagar antes de virar multa de R$ 195,23 - O Antagonista",
       "source": "O Antagonista",
@@ -54,13 +88,13 @@
       "published": "2026-11-03T02:13:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 02:13:00 GMT",
       "snippet": "Motorista passa pelo pedágio sem cancela em Pirangi e Monte Alto, no interior de SP, e tem 30 dias para pagar antes de virar multa de R$ 195,23 O Antagonista",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:49.131639+00:00"
+      "collected_at": "2026-11-03T13:10:43.803989+00:00"
     },
     {
       "id": "c9ce6dd4f0fd03ff9be3ce1e5297890bcdcb38896c276ce3875b675ede260e0a",
@@ -71,13 +105,47 @@
       "published": "2026-11-03T01:07:30+00:00",
       "published_raw": "Tue, 03 Nov 2026 01:07:30 GMT",
       "snippet": "Obras provocam alterações no trânsito de veículos nas rodovias da Ecovias Noroeste Paulista no interior de São Paulo até sábado (07) Diário do Transporte",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:49.131374+00:00"
+      "collected_at": "2026-11-03T13:10:43.803841+00:00"
+    },
+    {
+      "id": "c377a5821409e231f63e38fc2e58a4b4c66eddfa338cbe95d77769d61e1f7e2d",
+      "title": "Ex-intérprete do Mickey Mouse é preso em megaoperação contra crimes envolvendo menores nos EUA - São Carlos - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFBocHd6c1dYRkk0dFdVNkJZTV9WVU9tVU5PTG9jc1g4ckhSajhsTDhRYzhsbGNpY016SllpTWl0eGFDOFVyVWF0cjg2UFp4ZkZldWlQNU5ZcjBPSWEtRUd3Rjl2N2xsVG5Ma2JoX2pFZGljb3ZDT1JEUGN4UHNUeHRoRFRiNzMza3JHeUtfbWJKWDVHUW9vTXEyelVQUERleHdvcEpRQjFrMldDSXI5SF8zbHRHNEc0dHhkbnZmWGlnalBVTGpv0gHHAUFVX3lxTE9IUGhwd3pzV1hGSTR0V1U2QllNX1ZVT21VTk9Mb2NzWDhySFJqOGxMOFFjOGxsY2ljTXpKWWlNaXR4YUM4VXJVYXRyODZQWnhmRmV1aVA1TllyME9JYS1FR3dGOXY3bGxUbkxrYmhfakVkaWNvdkNPUkRQY3hQc1R4dGhEVGI3MzNrckd5S19tYkpYNUdRb29NcTJ6VVBQRGV4d29wSlFCMWsyV0NJcjlIXzNsdEc0RzR0eGRudmZYaWdqUFVMam8?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-02T19:31:09+00:00",
+      "published_raw": "Mon, 02 Nov 2026 19:31:09 GMT",
+      "snippet": "Ex-intérprete do Mickey Mouse é preso em megaoperação contra crimes envolvendo menores nos EUA - São Carlos São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" multa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:10:52.895953+00:00"
+    },
+    {
+      "id": "0145106e9b5f1d59a8a0dfd6ddfae6a330f3ef2856a9abd4dfc730e0c3d120fc",
+      "title": "Vorcaro denuncia Brasil a órgão internacional e tenta deixar a prisão - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3NoeTNXcnR3ak1XSlNqNndpd29xN0RIWlNhN2k1X2VSYkQ1bGVaU1ZKSmtqUE91dTlGYVJWZWVna0ZVZktfaWNGeFBLT0pXblEzTXdwMFBuZ3lfUUxqX2lUa2Z4ZmpDU3A3UDlEV0I0MjRqaUdxVGVVUTdoanZORHdVZTZ3QUY3ajUtOVptMUZZQk1ncy1kU1RxbzBwV3NueXRWUmh30gGmAUFVX3lxTE1vc2h5M1dydHdqTVdKU2o2d2l3b3E3REhaU2E3aTVfZVJiRDVsZVpTVkpKa2pQT3V1OUZhUlZlZWdrRlVmS19pY0Z4UEtPSlduUTNNd3AwUG5neV9RTGpfaVRrZnhmakNTcDdQOURXQjQyNGppR3FUZVVRN2hqdk5Ed1VlNndBRjdqNS05Wm0xRllCTWdzLWRTVHFvMHBXc255dFZSaHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-02T18:04:40+00:00",
+      "published_raw": "Mon, 02 Nov 2026 18:04:40 GMT",
+      "snippet": "Vorcaro denuncia Brasil a órgão internacional e tenta deixar a prisão - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" multa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:10:52.895914+00:00"
     },
     {
       "id": "bb1c3cec31cfbd88ae744b171e228ddd06b734f1c406186c0145e54941826174",
@@ -88,13 +156,13 @@
       "published": "2026-11-02T17:21:22+00:00",
       "published_raw": "Mon, 02 Nov 2026 17:21:22 GMT",
       "snippet": "No caminho de quem sai de São Carlos, câmera com IA multiplica multas na Dom Pedro I - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" multa",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:57.630915+00:00"
+      "collected_at": "2026-11-03T13:10:43.803899+00:00"
     },
     {
       "id": "fb56fab7520b2393556d1e22886bbbfb5fa9f0d7b97d3e381af8716345aadb9a",
@@ -105,13 +173,13 @@
       "published": "2026-11-02T16:30:34+00:00",
       "published_raw": "Mon, 02 Nov 2026 16:30:34 GMT",
       "snippet": "Rodovias Washington Luís (SP-310), Brigadeiro Faria Lima (SP-326) e outras do Noroeste Paulista terão obras e intervenções Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:51.315939+00:00"
+      "collected_at": "2026-11-03T13:10:46.262667+00:00"
     },
     {
       "id": "cad7edc9484c3d83dea42a63365ef5421e90423c7944c89c55cf3200f1114bb6",
@@ -128,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-333%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:03:04.736139+00:00"
+      "collected_at": "2026-11-03T13:11:00.893977+00:00"
+    },
+    {
+      "id": "c746de5d834e08a4b0d6fe5110935ab33162be1284d7a52475d6057bf1758dbf",
+      "title": "Projeto Consolador realiza ação de acolhimento e leva palavras de fé a famílias no Dia de Finados em São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQkhUWGE2S3NRVi1hN0JqdWdiODJpOUlRVUdpYlN6eFhsYWpHRlN0dnVmQ1M1Ymg1T2JQWUdNcVY4X0Y0S21WQzNHbUtTRkliS2ZwYkxUNWw3LWFYUktJdVQ4SnpQREdmWjRQT3dLUnpIc0F3UlVKa3I1TTlSdXB4Q0FIanJVUXdfU2VwLTRTTjBLMDNTcFpWcW5vZEpKRXRJUjZhWXJiMUJMXzlJNEhuVW9ESHlPQUFGbXl0ejJQWjdiWVFjRUFDN1RFYWVJWGs2akhQYjMwMUc4Vm95YlHSAd4BQVVfeXFMTkJIVFhhNktzUVYtYTdCanVnYjgyaTlJUVVHaWJTenhYbGFqR0ZTdHZ1ZkNTNWJoNU9iUFlHTXFWOF9GNEttVkMzR21LU0ZJYktmcGJMVDVsNy1hWFJLSXVUOEp6UERHZlo0UE93S1J6SHNBd1JVSmtyNU05UnVweENBSGpyVVF3X1NlcC00U04wSzAzU3BaVnFub2RKSkV0SVI2YVlyYjFCTF85STRIblVvREh5T0FBRm15dHoyUFo3YllRY0VBQzdURWFlSVhrNmpIUGIzMDFHOFZveWJR?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-02T15:47:15+00:00",
+      "published_raw": "Mon, 02 Nov 2026 15:47:15 GMT",
+      "snippet": "Projeto Consolador realiza ação de acolhimento e leva palavras de fé a famílias no Dia de Finados em São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-03T13:10:45.661940+00:00"
     },
     {
       "id": "bde7939b008f41149a026d40fd9fa2b7028f81040f616027de0c37f96d5dbf42",
@@ -145,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:49.131558+00:00"
+      "collected_at": "2026-11-03T13:10:43.803946+00:00"
     },
     {
       "id": "08ef6bb2d20553cdfb1d9645c5fd3e5d76f516de50f3f379b4fbdfc8f93b6c68",
@@ -156,64 +241,30 @@
       "published": "2026-11-02T14:32:17+00:00",
       "published_raw": "Mon, 02 Nov 2026 14:32:17 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 2/11 a 8/11/2026 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" multa",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" multa",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:57.630785+00:00"
+      "collected_at": "2026-11-03T13:10:52.895821+00:00"
     },
     {
       "id": "3cb5ff347e630d37dff0d922b2dc85ae6e7a5503e5dba949a9e35598334ab67c",
       "title": "Obras na Washington Luís terão interdições em São Carlos e região; veja o cronograma da semana - São Carlos - São Carlos em Rede",
       "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUndqZ2JuelNZNlNWaVRFNjB2LVpOWmdLTzlXaTVIX3oycUJLZzdMT1RxX1NIbFJUa2VLbnRLd3dFRF90X3lLcG9TN2pYaFpEYkhaVFdfMWdmX0xPODFvRnNWV3VSOFhha1ZIOWRIcGJUcUk2Y0NRS0dmaC1ZbmtnUWVncjhSNnY0WkxFbnVOdlhVZ9IBkgFBVV95cUxNUndqZ2JuelNZNlNWaVRFNjB2LVpOWmdLTzlXaTVIX3oycUJLZzdMT1RxX1NIbFJUa2VLbnRLd3dFRF90X3lLcG9TN2pYaFpEYkhaVFdfMWdmX0xPODFvRnNWV3VSOFhha1ZIOWRIcGJUcUk2Y0NRS0dmaC1ZbmtnUWVncjhSNnY0WkxFbnVOdlhVZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMElmVC1GVkZ3ZjV2dE9rdEVQcThpV2RSbGZSdW53dE5HRjdhVkVucElKQ0swakdaRVhRV1F4UHJLZzBzSzVhREo2ZTVFUDFVUW4wQ2txbHlGdDVmZzhCc0pWVV9kV1BJRVZzdmVKUVZYNzZzS3dmTy00WFRYMWFjam10M2FyUFk1WV9WVtIB7gJBVV95cUxOMkNDblZsYy1lb0VjaGxmNU9CYjlidE5qZW1oaC1UelRpWnh2MFNlUHFreU1FbWVVUnJQTXFMTGVsOEdFTzl1NjNBNlRJSFhYNmVKQ1ZmWUgzYWFUUmZTbkdBZW5aQVd3bmJKS2Z5T194OUtLd0drLUE1UUFBS0hWTFRxek1VSTFoQU02b1NPUTdBTnQ3UVIzWnZYUjdONUx4WXYxbS05aHZxLU5zeDFvblNFWmlfaDVWd3VrWHB6VkZyOVFOVE5uWDdjT2dUSjVBeXMtblNybWV2UTZ1bHdpMEpTQ25odDdXdEhYWTlpUGJVWjM1TFBVWnh4UFVYYjJ0UFI2RjBscE4xalJyZFdQMGZ5aGNaWEYyaWNKeE9LOHlfUHlZR0JzT0lEMFA2VVFUU0tqX3BXWGhlZE42WVYtOHNrNDd3ZG91eERYSGVsbkJ3T18wZmw0emFZTnZBRndaUzQxSUtBYjhJWHhRc2c?oc=5",
       "resolved_link": "",
       "published": "2026-11-02T14:26:24+00:00",
       "published_raw": "Mon, 02 Nov 2026 14:26:24 GMT",
       "snippet": "Obras na Washington Luís terão interdições em São Carlos e região; veja o cronograma da semana - São Carlos São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T05:02:49.131477+00:00"
-    },
-    {
-      "id": "243b6dcc2fee742abb7b3ab7a133f4cbdb6b06bb69d0574a93f3961156060dea",
-      "title": "Pedágios têm reajuste e mudanças na cobrança em rodovias de São Paulo; veja os novos valores - São Roque Notícias",
-      "source": "São Roque Notícias",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaklKNzZoTXJIeERBVVlzVkNKdi1QTGhYY19ZbF8xSUFLbl9vZFFzcXNCTElRdmpCNF9kZWF6c0l1cUx4UWpCZ2lGVmNrSk9ud21RVlA1ZUJZQmpmblQ4MGdXSl9QUUxCaWpKLWZiSDV4cGZnNFdfQWVLMUp2ekhONktiMU5xVGhyRGRfMVc0Y1FUZjVnNDNyVDBOcFlScF9yM2J6MnF2OTVaQndCTmVuc2NudVBnSXo2NjUtSnBzM1pMbjVJVXM40gHMAUFVX3lxTFBsZTJLcVpMVk5mY1RiN0FOVlFCYzBGT0ZscUxVWXhocGNBMnBDUnJXdmhPallCWXN0Y2w5aDYtSTBkcDdtMXpxamJ0VDlmNFFTYVNacTBtTEJVTjV1dVhuMmxPZFlteEwwWXo3NzFMbUZxRWExNE9ocnN0RGFLaF92T3lQRkxjMWhCNUdYRm1pd0R1WV9Kb2oyc2tPYUdRNmJCSEhDVmV2SU4zRXZHcFFOQ1liazFScFJyejVWNFFBOUdJRWdlbmpmZUtvSA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-02T12:22:58+00:00",
-      "published_raw": "Mon, 02 Nov 2026 12:22:58 GMT",
-      "snippet": "Pedágios têm reajuste e mudanças na cobrança em rodovias de São Paulo; veja os novos valores São Roque Notícias",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" reajuste | \"Ecovias Noroeste\" tarifa",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-03T05:02:51.316034+00:00"
-    },
-    {
-      "id": "723ba3dfb3ff770772f634c38eb4f0ad1e85c6ff5e973128ce0920f0c3bffb73",
-      "title": "Acidente entre ônibus e automóvel na Avenida Giovanni Gronchi deixa homem ferido na Vila Andrade - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzJvd0ZUNThMMm12cG44U0NBd2xKOUZoSDlucXg3WGZzckRfcTlUWGI0OHNQN1AtSkdGTkVyZTVNeVdzTVBYVWdHdUlSVjRDY0ptM2E3QlFWckEtMHhkQVVnSFIxZWI1R3cxUkRtTHFCRWswYjY4cWVlVmF3ZnpTVzA3SWRrUU9BNU51VlJ4QVdycXg4SnRmOXFn?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-02T11:39:13+00:00",
-      "published_raw": "Mon, 02 Nov 2026 11:39:13 GMT",
-      "snippet": "Acidente entre ônibus e automóvel na Avenida Giovanni Gronchi deixa homem ferido na Vila Andrade Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-03T05:03:00.936589+00:00"
+      "collected_at": "2026-11-03T13:10:55.290186+00:00"
     }
   ]
 }
