@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04T19:00:13.309023+00:00",
+  "updated_at": "2026-11-04T19:15:34.560971+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 6,
+  "total": 5,
   "total_images": 0,
-  "new_items": 6,
+  "new_items": 5,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-04T18:59:56.419473+00:00"
+      "collected_at": "2026-11-04T19:15:18.688162+00:00"
     },
     {
       "id": "3cfdc6af3f98e8631ef6e485d7f0515f36f901a212a77431f165a00fe7a9c67c",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-04T18:59:57.975001+00:00"
+      "collected_at": "2026-11-04T19:15:20.259367+00:00"
     },
     {
       "id": "6c8267aeac5617d1603cee2f89a5ac6ce5b96f3d6b4a6be4c8aaaeb7b17410e2",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-04T18:59:56.419589+00:00"
+      "collected_at": "2026-11-04T19:15:18.688385+00:00"
     },
     {
       "id": "58be3fe74bc66c4db683cb7797bdf710820a064d49d94744c3500987fb8702af",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-04T18:59:56.419540+00:00"
+      "collected_at": "2026-11-04T19:15:18.688266+00:00"
     },
     {
       "id": "5c9e4dac3d37652c0df0ac1c77619921d9392c2fa48714bc8883c4a92d693743",
@@ -128,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-04T18:59:57.974910+00:00"
-    },
-    {
-      "id": "bc976e7645d3fe2c4ae725d55ed2d7dc047d80c1d425b6965887c2bb568bc5cf",
-      "title": "Pedágios free flow têm novos valores em SP; veja onde tarifas mudam - Vrum",
-      "source": "Vrum",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalllNlV5SUpuZGhNcG5MR0xvMzYyQ0t1SVRCVDRqOHJ3c2U4bUkwYmwzVzZHbDBIcm5PdWNBd2FpSmdwZXN6Tm5lNW44b0lsTDFmQ21BYzctNHBNb3hVUThYQkkwZExkeFV0X05IX0tZMzhqX2pPWndwTHlBMkVIY1lNUU9fNVc3U2RtVEtLQjJWcmE2Umk2QmtwYU1jeDJCLU9hQzA3alBhekxmMEtwaXM3VlJXZ2xGWVBablZROA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-03T19:05:00+00:00",
-      "published_raw": "Tue, 03 Nov 2026 19:05:00 GMT",
-      "snippet": "Pedágios free flow têm novos valores em SP; veja onde tarifas mudam Vrum",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-04T18:59:58.585182+00:00"
+      "collected_at": "2026-11-04T19:15:20.259207+00:00"
     }
   ]
 }
