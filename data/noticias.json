@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T20:44:40.546294+00:00",
+  "updated_at": "2026-11-04T00:57:43.423218+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 14,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "6c8267aeac5617d1603cee2f89a5ac6ce5b96f3d6b4a6be4c8aaaeb7b17410e2",
+      "title": "Pedágios eletrônicos em SP ficam mais caros; veja os novos valores - BNews SP",
+      "source": "BNews SP",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSTBCN0RvNzVmSXg1SThTVk5FTWJEQmJGRTZtSnB4WWVSU09aajJkc05mNVBNaHVBRzluWjlnZy1wcnRJcm1Fd0tieDhFYjhxcS1wLVZYUDlPUjhBNW9CZEIwVlBiU0x0aE5sZk1Nd21udWFwU21tcTV6WkFFYTZCM0lBbkVwQTRYbEJwNDc1LURaZG1taTZJUzlrX2U3bHpRcm1QSURZcHhxNTVVWEZpYm03ZWl2WktfaGZwQ1dR0gHDAUFVX3lxTFBfcE1WQXhaczFLVE5DU0lhSnhPV0tRcVR4eHYzVDBtZ2hyNTNJbWoxU2tPM1NWVG44cHVNbEt5T1dtRlJpcDZkLTEzRmozejgtYWl5a29VVUkwUW5VM2p6WlNGWTV4TDREZ0VGMVNDT0R0UXZwcDVtMThlYkwwQjNfV0lpSjFFa1ZtOEM0RzZXSENIZ3VfcHV4bHROSlJJN2hMVnNsT3p1N2duRVpOdGV0X2kzRHJPLXBQdExfbXU0MDg5bw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-04T00:00:00+00:00",
+      "published_raw": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "snippet": "Pedágios eletrônicos em SP ficam mais caros; veja os novos valores BNews SP",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-04T00:57:28.647569+00:00"
+    },
+    {
+      "id": "58be3fe74bc66c4db683cb7797bdf710820a064d49d94744c3500987fb8702af",
+      "title": "Pedágio free flow: veja como pagar e recuperar valor de multa; prazo termina no dia 16 - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHdtSFdNSXB2NGhHYkZpSVVMTWN2NEIxSVEwM0NvX2M2OVI4d2lJOEc1TXFPaXFxWlgyd1AtMmRDSndEYzlzMTlQNURvQTNvb0pIRm42YUZRQVhGbDlkZkI1ZkhNcHQ1b0hydVR5dHZBZVA3aVpaaUV0RC1TQk16UUtwaWR2WVhweHdzLUNQcWJzX3NtbFU5R3FfanYtNTdwTEx5Z1NNRE9tRnVkbWhrb2x6UHY4RGd5b256bzhmVFNKVUdjWF96R3ln0gHPAUFVX3lxTE8xN2lIYUVfSFhGVXpROFZkM0d1a2QwSDlvN19DMGEwcGpuajhWT1ZSeHVTd01kNF9HZVRBLTA2a0JjaGFRR0lOOFhaRmQwaGNBc3BfR2M1TERGZmN6QzU5VDFhYklMLXRHM3ZJcUxVX2tCdk5FV1BBaUZVSmxCdjB4eEx6SXI5TEpwc2tfSVp2cm9qRnZtUDBmZDN2eEFWcE5RdnVteVJuWUNQbTNyUW5HTm5GcDRYWE9USER1YmFYeUw1MDE2YVBiQVkxRVhnbw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-03T21:10:26+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:10:26 GMT",
+      "snippet": "Pedágio free flow: veja como pagar e recuperar valor de multa; prazo termina no dia 16 ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" multa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-04T00:57:28.647335+00:00"
+    },
+    {
       "id": "bc976e7645d3fe2c4ae725d55ed2d7dc047d80c1d425b6965887c2bb568bc5cf",
       "title": "Pedágios free flow têm novos valores em SP; veja onde tarifas mudam - Vrum",
       "source": "Vrum",
@@ -60,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:25.337902+00:00"
+      "collected_at": "2026-11-04T00:57:28.647283+00:00"
     },
     {
       "id": "be0b1c253948c389832f3a9b101904237f14fc7efee9b7b4737173cd1ac73504",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:35.375997+00:00"
+      "collected_at": "2026-11-04T00:57:38.652649+00:00"
     },
     {
       "id": "91ec8fdefe3ad4f04091d9a1ea0205feef242e4bd5a1f51588f8b916da15483e",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.030122+00:00"
+      "collected_at": "2026-11-04T00:57:26.468358+00:00"
     },
     {
       "id": "31e823b1291626fb38564e6b0c75c83cccd8cf44ad011d5fd827fcb6d4b4abc2",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:25.338033+00:00"
+      "collected_at": "2026-11-04T00:57:28.647462+00:00"
     },
     {
       "id": "1d02127af24edd66b8e263cea4005402e8093d7403e616d562c524cbd4531834",
@@ -128,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:25.337977+00:00"
+      "collected_at": "2026-11-04T00:57:28.647381+00:00"
     },
     {
       "id": "1344b2fc3a47d7cae30c0739e1278b296d4c22240e567aef467a8191bfec2ca7",
@@ -145,7 +179,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.029883+00:00"
+      "collected_at": "2026-11-04T00:57:26.468235+00:00"
+    },
+    {
+      "id": "3c21e4718c96aae5753afaa8f9f28fddd94d1bd73c484de1735b99d972d691ea",
+      "title": "Sesc Araraquara recebe Danilo Caymmi - A Comarca — Matão/SP",
+      "source": "A Comarca — Matão/SP",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDJpSExYWDNXcG9hWnpwY0NlMHpFaDZ3QzJFelEtTFhvWkFuTG5OMTNVNXB2OXp6VEU2bExySkRSdk1ScUlVZV9tYTN5QVQtV0d2X2UwWkJCY0RuXzB5MjBsOVQ2Vm5BbXVjbktYbklGZGFXUXo5RVJiVnZIZ09aZVZxWVN1QQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-03T12:15:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 12:15:00 GMT",
+      "snippet": "Sesc Araraquara recebe Danilo Caymmi A Comarca — Matão/SP",
+      "term": "\"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-04T00:57:28.080191+00:00"
     },
     {
       "id": "be0c3b5639f6555f2b86848c6adc86ac17e06bf5d55ace3000672f70e51688b1",
@@ -162,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:24.764578+00:00"
+      "collected_at": "2026-11-04T00:57:28.080324+00:00"
     },
     {
       "id": "ec4f2990a4eadeefe105f3c8d6b32f56532d10395759bcb4d6926123b08830ec",
@@ -179,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.030263+00:00"
+      "collected_at": "2026-11-04T00:57:26.468473+00:00"
     },
     {
       "id": "6f69c951012e5ffb86c2ea483abb321fbeb52cfc3a5b893823dc65ea399fe316",
@@ -196,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.029972+00:00"
+      "collected_at": "2026-11-04T00:57:26.468303+00:00"
     },
     {
       "id": "320a801873f8b92ef997393ec1c5c8778b6a699e6f4e5470412f573f882e834d",
@@ -213,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.030192+00:00"
+      "collected_at": "2026-11-04T00:57:26.468415+00:00"
     },
     {
       "id": "c9ce6dd4f0fd03ff9be3ce1e5297890bcdcb38896c276ce3875b675ede260e0a",
@@ -230,24 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.029791+00:00"
-    },
-    {
-      "id": "f56add5d2f254190cdf5ff819e1beab1fb17c6e1efe00de60ae96dbe95fd896b",
-      "title": "Polícia Militar prende suspeita de furtar lojas no Shopping Passeio São Carlos - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmhFVWpsN3ZHOWdldlVENG9tNUV5Z3ZaZUhEX2l4YTg1ZF9uOElra3R6OHdrWERVTVVMMUVGVjg5NHAwY1VESW9FdUVIWTl0dzk1eUJKX3lyRGFHcUV0b1VKbFVBb2RMVzNldHNodTBOVmttcmkyWThYZmd0dnU2UTI2Q3pPbGQtMWdNRjVhdzJlby0tU0daYXBQbHhURkVqenZqTE9xT0RtSFZwYXgtU3pn0gGyAUFVX3lxTE5SaEVVamw3dkc5Z2V2VUQ0b201RXlndlplSERfaXhhODVkX244SWtrdHo4d2tYRFVNVUwxRUZWODk0cDBjVURJb0V1RUhZOXR3OTV5QkpfeXJEYUdxRXRvVUpsVUFvZExXM2V0c2h1ME5Wa21yaTJZOFhmZ3R2dTZRMjZDek9sZC0xZ01GNWF3MmVvLS1TR1phcFBseFRGRWp6dmpMT3FPRG1IVnBheC1Temc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-02T22:06:49+00:00",
-      "published_raw": "Mon, 02 Nov 2026 22:06:49 GMT",
-      "snippet": "Polícia Militar prende suspeita de furtar lojas no Shopping Passeio São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-03T20:44:23.030053+00:00"
+      "collected_at": "2026-11-04T00:57:26.468162+00:00"
     }
   ]
 }
