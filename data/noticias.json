@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T19:11:53.105060+00:00",
+  "updated_at": "2026-11-05T19:24:30.463205+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "1816bb9e7da13c2b82f63d1f1b32fc9f31d7470141bee341748d12b32d28ca99",
+      "title": "Chuva derruba árvores, bloqueia pista e provoca pontos de alagamento - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2pvaEY1MWVCbFJEMkYxYlNQS2FBeUlzRlRmNGFxUk1XVldPNnU4ZUpycXpHYlgtVG1fY1hhOTVMN0NqaF9IbDhKbGFleUNuNTZiY0ltdTlLb3NKYURRZUxSNmlSX2JmdzVZS2xxQ0NxS291V1dXX0hlVTljWGd4X0xvTnZoSEZtQXUwU0tfUzlOUkZ2QU5ZSHNnek9HcEZiX05FbWVCWTFFRWtG?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-05T19:06:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 19:06:00 GMT",
+      "snippet": "Chuva derruba árvores, bloqueia pista e provoca pontos de alagamento Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-05T19:24:12.479372+00:00"
+    },
+    {
       "id": "69d7e4e9dbf5296a351f4276a10ca24dab88e73602a857480c6b7722aea8bc8d",
       "title": "Árvores caem durante temporal e interditam a Washington Luís em Uchoa - Gazeta do Interior",
       "source": "Gazeta do Interior",
@@ -60,24 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204953+00:00"
-    },
-    {
-      "id": "b9dd47e00aa6a3be49293081bcfbed809992c1d9ac5b69f917f610a884f75241",
-      "title": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0xiaWtTVDlVeEE5YjhfeE5VbjI2MWV0X1I5M1VFdnQxOXNDSVpremF2RjRlUUpmelhKVnFZTnJKYTlvODlUcVRKdTRsT2VucW4yRkpZcThRTlhlRzFKd2FDRjJjNG9xa2E4MzhZbTRtVFAzbUNld0VjWmNSTnJYdFdnM21rR25Qd04zLTdqTXA2VkktbjFLSWNBaUtIbGdkNlNYR0JBWEVBdDh1M2tPSGZn?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-05T14:57:50+00:00",
-      "published_raw": "Thu, 05 Nov 2026 14:57:50 GMT",
-      "snippet": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.205001+00:00"
+      "collected_at": "2026-11-05T19:24:12.479644+00:00"
     },
     {
       "id": "78cd8f69e0d03cc945d7bd96494ca29d799f2902f8f53bab19b994bedc43ccb6",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204753+00:00"
+      "collected_at": "2026-11-05T19:24:12.479437+00:00"
     },
     {
       "id": "d0d15a30866f4cdb0dc2709eca54a0e5528650f1107d5fe9a2d9759f9fae7677",
@@ -111,7 +111,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204814+00:00"
+      "collected_at": "2026-11-05T19:24:12.479501+00:00"
+    },
+    {
+      "id": "b9dd47e00aa6a3be49293081bcfbed809992c1d9ac5b69f917f610a884f75241",
+      "title": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto - Diário da Região",
+      "source": "Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0xiaWtTVDlVeEE5YjhfeE5VbjI2MWV0X1I5M1VFdnQxOXNDSVpremF2RjRlUUpmelhKVnFZTnJKYTlvODlUcVRKdTRsT2VucW4yRkpZcThRTlhlRzFKd2FDRjJjNG9xa2E4MzhZbTRtVFAzbUNld0VjWmNSTnJYdFdnM21rR25Qd04zLTdqTXA2VkktbjFLSWNBaUtIbGdkNlNYR0JBWEVBdDh1M2tPSGZn?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-05T03:34:21+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:34:21 GMT",
+      "snippet": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto Diário da Região",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-05T19:24:12.479698+00:00"
     },
     {
       "id": "ef7d95d47b17fc6fa08fe13215f379dd81f75fb431f16ff718f3a632ceeef345",
@@ -128,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204692+00:00"
+      "collected_at": "2026-11-05T19:24:12.479594+00:00"
     },
     {
       "id": "28ecfe6a557292de1b409ee683daed90ceb7195e9cd3de7ebc0dfe48d589aff2",
@@ -145,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204906+00:00"
-    },
-    {
-      "id": "f176a0f9138f624f78d47492418d1f070c6213877eaee07506bbbb5207b20690",
-      "title": "Câmeras com IA flagram 6,6 mil infrações em um mês na Washington Luís - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDhRQ0p6ZEJVUks5b1ZlZ2R1dUJLVlg4UTlTczE0dHoyNmtMM19lYWNIbzE0WVB4VHVSRF9kakxhcFpEXzVHZEM0RE0zbWR1dDFTN29XQ1VLR1ozVDNwUE5rWnN4bnZOLXZGbFhGcWNTdjd5QmFOVXBJZTE3ZkJpbG5ib01QYUpTakR1Uldkd3plXzJKRzZoVU94Z3JKV0pnZHFreWZ1R1JsUF9FYmNERUg3UENmLW9iZFp3ZWhtUHl2TndjemlEZ2h3dGxrTUpQYUpsVVBpMFlJQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-04T19:19:14+00:00",
-      "published_raw": "Wed, 04 Nov 2026 19:19:14 GMT",
-      "snippet": "Câmeras com IA flagram 6,6 mil infrações em um mês na Washington Luís Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-05T19:11:36.204865+00:00"
+      "collected_at": "2026-11-05T19:24:12.479550+00:00"
     }
   ]
 }
