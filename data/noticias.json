@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:08:39.578817+00:00",
+  "updated_at": "2026-11-05T01:14:48.156027+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 6,
@@ -54,13 +54,13 @@
       "published": "2026-11-04T23:14:00+00:00",
       "published_raw": "Wed, 04 Nov 2026 23:14:00 GMT",
       "snippet": "Câmeras com inteligência artificial geram 6,6 mil multas em um mês Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:21.528930+00:00"
+      "collected_at": "2026-11-05T01:14:32.292295+00:00"
     },
     {
       "id": "ad817393a3cd6fd10862934dbe880ef9652a6669090ff930bef31df787917a57",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:21.528995+00:00"
+      "collected_at": "2026-11-05T01:14:32.292354+00:00"
     },
     {
       "id": "f176a0f9138f624f78d47492418d1f070c6213877eaee07506bbbb5207b20690",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:21.529137+00:00"
+      "collected_at": "2026-11-05T01:14:32.292482+00:00"
     },
     {
       "id": "be9c859b982ae93293f82b58059fde12417846d88ffd16f57929031103ea5fb7",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:21.529076+00:00"
+      "collected_at": "2026-11-05T01:14:32.292425+00:00"
     },
     {
       "id": "c14f155af3cb57870d1b4fc338adc782b5748dcfc110dbc63c9ae58d6e0d0648",
@@ -122,13 +122,13 @@
       "published": "2026-11-04T12:00:02+00:00",
       "published_raw": "Wed, 04 Nov 2026 12:00:02 GMT",
       "snippet": "Toyota Hilux SRV 2026 4×4 custa menos que Rampage em oferta Revista Fullpower",
-      "term": "\"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:23.383136+00:00"
+      "collected_at": "2026-11-05T01:14:35.009977+00:00"
     },
     {
       "id": "3cfdc6af3f98e8631ef6e485d7f0515f36f901a212a77431f165a00fe7a9c67c",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T01:08:23.383272+00:00"
+      "collected_at": "2026-11-05T01:14:33.878672+00:00"
     }
   ]
 }
