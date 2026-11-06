@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:38:46.339464+00:00",
+  "updated_at": "2026-11-06T18:47:50.751688+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 8,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.899835+00:00"
+      "collected_at": "2026-11-06T18:47:35.058785+00:00"
     },
     {
       "id": "0231c0b6a2f4eca514e9a3d840831ab1740c0d364138e7298e3cb382fd6c8404",
@@ -71,13 +71,13 @@
       "published": "2026-11-06T12:50:01+00:00",
       "published_raw": "Fri, 06 Nov 2026 12:50:01 GMT",
       "snippet": "Carro-forte tomba na Washington Luís em Catanduva Gazeta do Interior",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:43.591588+00:00"
+      "collected_at": "2026-11-06T18:47:36.135260+00:00"
     },
     {
       "id": "f411dce87b5caac5f250464cd5c272e7a654e6f128069ac4aecde47a4493a514",
@@ -88,13 +88,13 @@
       "published": "2026-11-06T11:18:00+00:00",
       "published_raw": "Fri, 06 Nov 2026 11:18:00 GMT",
       "snippet": "Carro-forte tomba na Washington Luís em Catanduva Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.247541+00:00"
+      "collected_at": "2026-11-06T18:47:34.471446+00:00"
     },
     {
       "id": "e1c22cbfcaef560d1c1959388717bb6f94936f6ecdcac525e2e0a12ddb4b28c1",
@@ -105,13 +105,13 @@
       "published": "2026-11-05T21:48:21+00:00",
       "published_raw": "Thu, 05 Nov 2026 21:48:21 GMT",
       "snippet": "Free Flow é instalado nas rodovias Anchieta e Imigrantes; veja o que muda Costa Norte",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" TAG | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.247489+00:00"
+      "collected_at": "2026-11-06T18:47:34.471373+00:00"
     },
     {
       "id": "a029a5b30d8851a0efd29220065112353153fd462a5bcd8a6c0b441af4138f17",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:30.100484+00:00"
+      "collected_at": "2026-11-06T18:47:36.135208+00:00"
     },
     {
       "id": "acc002eab205c5fcbb4c7e042b29a3ce19fdbb9bb5f18b67d20b5790fa70fb77",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.247658+00:00"
+      "collected_at": "2026-11-06T18:47:34.471607+00:00"
     },
     {
       "id": "1816bb9e7da13c2b82f63d1f1b32fc9f31d7470141bee341748d12b32d28ca99",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.247582+00:00"
+      "collected_at": "2026-11-06T18:47:34.471501+00:00"
     },
     {
       "id": "69d7e4e9dbf5296a351f4276a10ca24dab88e73602a857480c6b7722aea8bc8d",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T18:38:28.247621+00:00"
+      "collected_at": "2026-11-06T18:47:34.471555+00:00"
     }
   ]
 }
