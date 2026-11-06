@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:14:09.464381+00:00",
+  "updated_at": "2026-11-06T01:20:14.350453+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:54.739442+00:00"
+      "collected_at": "2026-11-06T01:19:59.238708+00:00"
     },
     {
       "id": "acc002eab205c5fcbb4c7e042b29a3ce19fdbb9bb5f18b67d20b5790fa70fb77",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:53.095320+00:00"
+      "collected_at": "2026-11-06T01:19:57.578631+00:00"
     },
     {
       "id": "1816bb9e7da13c2b82f63d1f1b32fc9f31d7470141bee341748d12b32d28ca99",
@@ -88,13 +88,13 @@
       "published": "2026-11-05T19:06:00+00:00",
       "published_raw": "Thu, 05 Nov 2026 19:06:00 GMT",
       "snippet": "Chuva derruba árvores, bloqueia pista e provoca pontos de alagamento Dhoje Interior",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:54.739265+00:00"
+      "collected_at": "2026-11-06T01:19:57.578226+00:00"
     },
     {
       "id": "69d7e4e9dbf5296a351f4276a10ca24dab88e73602a857480c6b7722aea8bc8d",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:53.095157+00:00"
+      "collected_at": "2026-11-06T01:19:57.578457+00:00"
     },
     {
       "id": "78cd8f69e0d03cc945d7bd96494ca29d799f2902f8f53bab19b994bedc43ccb6",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:53.095083+00:00"
+      "collected_at": "2026-11-06T01:19:57.578389+00:00"
     },
     {
       "id": "d0d15a30866f4cdb0dc2709eca54a0e5528650f1107d5fe9a2d9759f9fae7677",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:53.095002+00:00"
+      "collected_at": "2026-11-06T01:19:57.578328+00:00"
     },
     {
       "id": "b9dd47e00aa6a3be49293081bcfbed809992c1d9ac5b69f917f610a884f75241",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:13:53.095227+00:00"
+      "collected_at": "2026-11-06T01:19:57.578562+00:00"
     }
   ]
 }
