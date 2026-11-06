@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T19:24:30.463205+00:00",
+  "updated_at": "2026-11-06T01:14:09.464381+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 7,
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "a029a5b30d8851a0efd29220065112353153fd462a5bcd8a6c0b441af4138f17",
+      "title": "Recall: Jeep Grand Cherokee 4XE 2023 e 2024 pode ter delay no airbag - Revista Fullpower",
+      "source": "Revista Fullpower",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ekdJUTRQY1NWUEQ3T2d5ZnFqNEM0QWFDcWFOYU9zR1hoZkVuMDU0TGNuMmtYa1FsMlBxMDQtYjNXRUkzaURRS3BzeTdTWlNnRzRmb28xOXZOWlExRldLUmNtRWd4ck1KaGh5TW8wdzQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-05T21:00:03+00:00",
+      "published_raw": "Thu, 05 Nov 2026 21:00:03 GMT",
+      "snippet": "Recall: Jeep Grand Cherokee 4XE 2023 e 2024 pode ter delay no airbag Revista Fullpower",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-06T01:13:54.739442+00:00"
+    },
+    {
+      "id": "acc002eab205c5fcbb4c7e042b29a3ce19fdbb9bb5f18b67d20b5790fa70fb77",
+      "title": "Temporal derruba árvore sobre carro e motos ao lado de shopping em Rio Preto - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR00wZGtac0NzeGVBYWllcHctVjZKOHAwYnNxNlh3MEpDdGEtUm5YY2VzTjQwZEVMYW9pemJjM0VWQmk1bm0tMHJYMldvNjZpa2NzT0RFcnp0ZndaVl83MEZxeUdleFhmWlNkaEg3R2NQcm0taGpoTjNhdm03Vkx0QTVCLWZyNTVMd0xXdHppQmhJSkduNXlsTjFNS0xPb3ZtbGtVZWhFVXRwYk0zSzV2eTFyQUw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-05T20:54:27+00:00",
+      "published_raw": "Thu, 05 Nov 2026 20:54:27 GMT",
+      "snippet": "Temporal derruba árvore sobre carro e motos ao lado de shopping em Rio Preto Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-06T01:13:53.095320+00:00"
+    },
+    {
       "id": "1816bb9e7da13c2b82f63d1f1b32fc9f31d7470141bee341748d12b32d28ca99",
       "title": "Chuva derruba árvores, bloqueia pista e provoca pontos de alagamento - Dhoje Interior",
       "source": "Dhoje Interior",
@@ -54,13 +88,13 @@
       "published": "2026-11-05T19:06:00+00:00",
       "published_raw": "Thu, 05 Nov 2026 19:06:00 GMT",
       "snippet": "Chuva derruba árvores, bloqueia pista e provoca pontos de alagamento Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479372+00:00"
+      "collected_at": "2026-11-06T01:13:54.739265+00:00"
     },
     {
       "id": "69d7e4e9dbf5296a351f4276a10ca24dab88e73602a857480c6b7722aea8bc8d",
@@ -77,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479644+00:00"
+      "collected_at": "2026-11-06T01:13:53.095157+00:00"
     },
     {
       "id": "78cd8f69e0d03cc945d7bd96494ca29d799f2902f8f53bab19b994bedc43ccb6",
@@ -94,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479437+00:00"
+      "collected_at": "2026-11-06T01:13:53.095083+00:00"
     },
     {
       "id": "d0d15a30866f4cdb0dc2709eca54a0e5528650f1107d5fe9a2d9759f9fae7677",
@@ -111,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479501+00:00"
+      "collected_at": "2026-11-06T01:13:53.095002+00:00"
     },
     {
       "id": "b9dd47e00aa6a3be49293081bcfbed809992c1d9ac5b69f917f610a884f75241",
@@ -128,41 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479698+00:00"
-    },
-    {
-      "id": "ef7d95d47b17fc6fa08fe13215f379dd81f75fb431f16ff718f3a632ceeef345",
-      "title": "Câmeras com inteligência artificial geram 6,6 mil multas em um mês - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGhyLW5KcDVicHRfbExtVEI2NTlPMlFxekJ3R2o1Ylhnak5pYjY4UU1ucmg3TGFqMGhYVzdFc0ZYN2FMQ1ZKN19KR2plQjY1dncyY1ZPTUZueFUwdWVqTGNpY1kwSFpIWnd0N3pyZ2NrOEhYY1ZHbEdxM2oxVHl2ZXBoWmZZRU55dFZfMlZ4S1VaRGRVVHFsajRKcXFvVkRqaHlvd2l1SGMzQWN1SmpRWWI2WDBZZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-04T23:14:00+00:00",
-      "published_raw": "Wed, 04 Nov 2026 23:14:00 GMT",
-      "snippet": "Câmeras com inteligência artificial geram 6,6 mil multas em um mês Dhoje Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479594+00:00"
-    },
-    {
-      "id": "28ecfe6a557292de1b409ee683daed90ceb7195e9cd3de7ebc0dfe48d589aff2",
-      "title": "Pedágios paulistas têm reajuste de 4,58% e novas regras a partir de novembro - tmc.com.br",
-      "source": "tmc.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEx1aHMwTm1vOS1wa1JFOVNBUnBqeFhlcEI0TW43ZzJVQmFoaDRQQ0lqVHBVQnlXTGJtamp2bGFmdzEyUUNhMXVqc3ZYdUVUNXpBdE03QVZDcjR4YzBxb2gxTXNCaG9rUnpYWWtEQkRabTRXamdlVC1uYlJYejcxdmUtLTdDY0gyZGV2NVJ2NDBNX28?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-04T22:59:46+00:00",
-      "published_raw": "Wed, 04 Nov 2026 22:59:46 GMT",
-      "snippet": "Pedágios paulistas têm reajuste de 4,58% e novas regras a partir de novembro tmc.com.br",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-05T19:24:12.479550+00:00"
+      "collected_at": "2026-11-06T01:13:53.095227+00:00"
     }
   ]
 }
