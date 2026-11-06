@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06T01:20:14.350453+00:00",
+  "updated_at": "2026-11-06T10:03:30.473963+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 7,
+  "total": 6,
   "total_images": 0,
-  "new_items": 7,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "e1c22cbfcaef560d1c1959388717bb6f94936f6ecdcac525e2e0a12ddb4b28c1",
+      "title": "Free Flow é instalado nas rodovias Anchieta e Imigrantes; veja o que muda - Costa Norte",
+      "source": "Costa Norte",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTBmMUVhNUx5QlpST040NWtheUdRdnBIcnZTUHpuX1dJRWtObFhYQ0FGbGxQVl9DVkI1NHotMWdtVlpqVldLeDAybVltWWxMSFBjNVpwTkpZT3JEbjU5QmhidTNrWW5uVXl5YnBRT0NfVkhQU0tBNTZiWUZrbDd1WV9XdWFvdlphaENJSjdJRzljbzZ5N3pfMkM0OGxYUDhmWjVwN1lEOUdsaHpEeFpERHNhTVBMLS1HejhTc2lubjZpd3BEY0VtRDVrU2dvRnBobGRBQnFFY9IB3AFBVV95cUxNTDM0Y2JtZHNPemdqZjlOeGFfNkptbU81LUFWQi1tS3BEYTRIZ3hIX092bkxNRlVHOHNnQWk1UlZtWEtJeDRSbDlFS1NGbE5kQjZGVWpyT05ZR0NFNG84a0ZzZ0hvTzhiVGFfY3o0dG50clhsRG5DNXhkOE9aZ0Y3VUs4VXZwelBCVnUwdFNjYVlLcV9pMmMzc25kN3lzYVZqYmg2czd3UnBHMF9IaVA1dGNFWVpRdXdmdUxRSEVrRnlmTHNfQkRQeC1paXNGem1kcWNEeGhHVm1uVHky?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-05T21:48:21+00:00",
+      "published_raw": "Thu, 05 Nov 2026 21:48:21 GMT",
+      "snippet": "Free Flow é instalado nas rodovias Anchieta e Imigrantes; veja o que muda Costa Norte",
+      "term": "\"Ecovias Noroeste Paulista\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-06T10:03:14.780703+00:00"
+    },
+    {
       "id": "a029a5b30d8851a0efd29220065112353153fd462a5bcd8a6c0b441af4138f17",
       "title": "Recall: Jeep Grand Cherokee 4XE 2023 e 2024 pode ter delay no airbag - Revista Fullpower",
       "source": "Revista Fullpower",
@@ -60,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:19:59.238708+00:00"
+      "collected_at": "2026-11-06T10:03:16.339071+00:00"
     },
     {
       "id": "acc002eab205c5fcbb4c7e042b29a3ce19fdbb9bb5f18b67d20b5790fa70fb77",
@@ -77,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578631+00:00"
+      "collected_at": "2026-11-06T10:03:14.781068+00:00"
     },
     {
       "id": "1816bb9e7da13c2b82f63d1f1b32fc9f31d7470141bee341748d12b32d28ca99",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578226+00:00"
+      "collected_at": "2026-11-06T10:03:14.780811+00:00"
     },
     {
       "id": "69d7e4e9dbf5296a351f4276a10ca24dab88e73602a857480c6b7722aea8bc8d",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578457+00:00"
+      "collected_at": "2026-11-06T10:03:14.780958+00:00"
     },
     {
       "id": "78cd8f69e0d03cc945d7bd96494ca29d799f2902f8f53bab19b994bedc43ccb6",
@@ -128,41 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578389+00:00"
-    },
-    {
-      "id": "d0d15a30866f4cdb0dc2709eca54a0e5528650f1107d5fe9a2d9759f9fae7677",
-      "title": "Câmeras com IA flagram 6,6 mil infrações em um mês no trecho urbano da Washington Luís em Rio Preto - Tanabi Noticias",
-      "source": "Tanabi Noticias",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGlwVWxMX2lJUFJ2cmVzV2YzQTdneDVZdEp0UnYtRUNpSlQ4RnRYRTZINy1wSl91dnkzekpVTnJXemdmRWpGVnFyM0x3R2FONHZ2RksxaUdwZ3ZnNVNFN2FwSVByeDZpM1F5bWZsWlg2eFVvZGJvTUlpOWk5QWJ2a0xTempqY200V3hxdGZmVFQ3NHM1WWVDMlByRlBkWW9FYmxBNzgwMlhaQkhaT3V3dy1WaFZWaHJKMS0weEItVl9RT19IS2NBUno3UjRndWYtY0MxVTZaeV9MZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-05T04:08:52+00:00",
-      "published_raw": "Thu, 05 Nov 2026 04:08:52 GMT",
-      "snippet": "Câmeras com IA flagram 6,6 mil infrações em um mês no trecho urbano da Washington Luís em Rio Preto Tanabi Noticias",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578328+00:00"
-    },
-    {
-      "id": "b9dd47e00aa6a3be49293081bcfbed809992c1d9ac5b69f917f610a884f75241",
-      "title": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0xiaWtTVDlVeEE5YjhfeE5VbjI2MWV0X1I5M1VFdnQxOXNDSVpremF2RjRlUUpmelhKVnFZTnJKYTlvODlUcVRKdTRsT2VucW4yRkpZcThRTlhlRzFKd2FDRjJjNG9xa2E4MzhZbTRtVFAzbUNld0VjWmNSTnJYdFdnM21rR25Qd04zLTdqTXA2VkktbjFLSWNBaUtIbGdkNlNYR0JBWEVBdDh1M2tPSGZn?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-05T03:34:21+00:00",
-      "published_raw": "Thu, 05 Nov 2026 03:34:21 GMT",
-      "snippet": "Espião com uso de IA flagra 9 infrações por hora em 1 mês, em Rio Preto Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-06T01:19:57.578562+00:00"
+      "collected_at": "2026-11-06T10:03:14.780882+00:00"
     }
   ]
 }
