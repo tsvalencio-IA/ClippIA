@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:34:26.178305+00:00",
+  "updated_at": "2026-11-07T09:23:18.521450+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 2,
@@ -60,24 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-07T00:34:10.632918+00:00"
+      "collected_at": "2026-11-07T09:23:01.807343+00:00"
     },
     {
-      "id": "f411dce87b5caac5f250464cd5c272e7a654e6f128069ac4aecde47a4493a514",
-      "title": "Carro-forte tomba na Washington Luís em Catanduva - Dhoje Interior",
-      "source": "Dhoje Interior",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDhmdjAzUWtZUWNWVUtLa3dQVGM4RE1wTnVUVktJYll1a213SXBwN09RNUJCd3BUSVB4aWJUSnBSM0pNNnBrNlRQVG9FMHRuc3ZLdnZ0WkJnQmRpUjhmSUhxak9oSXhxbjB2SFdOS3VvM2Jwcjc0V0padnh1SGNTWTBpQzc5aU1LeGFLc3Rqbm8waEE?oc=5",
+      "id": "0231c0b6a2f4eca514e9a3d840831ab1740c0d364138e7298e3cb382fd6c8404",
+      "title": "Carro-forte tomba na Washington Luís em Catanduva - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOU9NS3BaQVJKeTNva2U2ZnZLaU9kTFh4ZGtDTGljWEhKMi1JTzFIZmdMamFHaHBLNlNaNWFzU3NELWhwdzlUTmU0cXlUakVJdXJMVm1OU1hBSnBnOC1ZbUY3U0hkdUtNZDFoY2s5YnBhU3k4bUFuMWJmaS1fOU9ybmtoY08tdU1NSnhPdzlDUjc?oc=5",
       "resolved_link": "",
-      "published": "2026-11-06T11:18:00+00:00",
-      "published_raw": "Fri, 06 Nov 2026 11:18:00 GMT",
-      "snippet": "Carro-forte tomba na Washington Luís em Catanduva Dhoje Interior",
+      "published": "2026-11-06T12:50:01+00:00",
+      "published_raw": "Fri, 06 Nov 2026 12:50:01 GMT",
+      "snippet": "Carro-forte tomba na Washington Luís em Catanduva Gazeta do Interior",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-07T00:34:10.092473+00:00"
+      "collected_at": "2026-11-07T09:23:01.202080+00:00"
     }
   ]
 }
