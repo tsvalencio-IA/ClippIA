@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08T04:01:55.412930+00:00",
+  "updated_at": "2026-11-08T12:22:54.443519+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "1efad8aafc7206c5203bb0328774d9461794aaf94c2c9680b49b6ec387d59b72",
-      "title": "Pedágio Eletrônico entra em testes no Sistema Anchieta-Imigrantes - Repórter Diário",
-      "source": "Repórter Diário",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXNwTWFIQ25jS2ZzbzBwNUpYNjNYRVNMWFJOY1B0VEs1dWg0TzA5MmdsUXRwZ0taVUR3YXlJaG5tMlhTY3pTSllnakRBbG9XWGg5RFV0OVoyRmFHT1JhSlRKX25vS2V5Tko4cXN5Q083TXV6c2xwZFJXWlFjalRKb09mbVowV0FxOHNnRFJlVnJfVE45RlV4QzcxaklWZ09zMmRJcm9ST3hQdkVVZjNfeW0yd2hhclk?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-07T05:33:24+00:00",
-      "published_raw": "Sat, 07 Nov 2026 05:33:24 GMT",
-      "snippet": "Pedágio Eletrônico entra em testes no Sistema Anchieta-Imigrantes Repórter Diário",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-08T04:01:39.073782+00:00"
-    }
-  ]
+  "items": []
 }
