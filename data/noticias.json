@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07T21:21:55.499862+00:00",
+  "updated_at": "2026-11-08T03:08:21.955690+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 1,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 1,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,30 +54,13 @@
       "published": "2026-11-07T05:33:24+00:00",
       "published_raw": "Sat, 07 Nov 2026 05:33:24 GMT",
       "snippet": "Pedágio Eletrônico entra em testes no Sistema Anchieta-Imigrantes Repórter Diário",
-      "term": "\"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-07T21:21:41.136865+00:00"
-    },
-    {
-      "id": "0231c0b6a2f4eca514e9a3d840831ab1740c0d364138e7298e3cb382fd6c8404",
-      "title": "Carro-forte tomba na Washington Luís em Catanduva - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVVKZUhGVE5QdVdEZnBXR3V2dzhxVi10WWhjRkUwb2ItR1JGNmt1VDFUT1c3eExKenBqZVlyc3lJVXduRHAxbEFwamFESnpDT1BzZjI0VG9lTnFMMHZzYS1kUFU3MW5hTjJXRE1EMi1IU2RwMC1rQ2JzYUhzNy1NY2FDZ25CWE4yM0xrdG00cDhuSHBFOExtedIBmAFBVV95cUxNbVVKZUhGVE5QdVdEZnBXR3V2dzhxVi10WWhjRkUwb2ItR1JGNmt1VDFUT1c3eExKenBqZVlyc3lJVXduRHAxbEFwamFESnpDT1BzZjI0VG9lTnFMMHZzYS1kUFU3MW5hTjJXRE1EMi1IU2RwMC1rQ2JzYUhzNy1NY2FDZ25CWE4yM0xrdG00cDhuSHBFOExteQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-07T00:21:22+00:00",
-      "published_raw": "Sat, 07 Nov 2026 00:21:22 GMT",
-      "snippet": "Carro-forte tomba na Washington Luís em Catanduva Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-07T21:21:39.487055+00:00"
+      "collected_at": "2026-11-08T03:08:05.105368+00:00"
     }
   ]
 }
