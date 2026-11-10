@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10T13:54:38.011156+00:00",
+  "updated_at": "2026-11-10T14:12:05.057062+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 27,
+  "total": 26,
   "total_images": 0,
-  "new_items": 27,
+  "new_items": 26,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:23.370717+00:00"
+      "collected_at": "2026-11-10T14:11:50.402441+00:00"
     },
     {
       "id": "b01d763c11d0797041242f2e8038937528fa7faf97e0dc145861d6c38d4e96cf",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:29.862633+00:00"
+      "collected_at": "2026-11-10T14:11:56.844126+00:00"
     },
     {
       "id": "edaec7b59c18cc93772cd65a8fbb8b5a3be5530f36bfa9cbd5cb346d8a426d6d",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:32.586697+00:00"
+      "collected_at": "2026-11-10T14:11:59.607934+00:00"
     },
     {
       "id": "32b3a06ebe4faf77b857ba3e25c709e4d17462054074876bbd2911d123f0acb2",
@@ -105,13 +105,13 @@
       "published": "2026-11-10T12:04:00+00:00",
       "published_raw": "Tue, 10 Nov 2026 12:04:00 GMT",
       "snippet": "Governo de SP abre concurso público da Cetesb com 107 vagas de níveis médio e superior Região Noroeste",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:23.370764+00:00"
+      "collected_at": "2026-11-10T14:11:48.796849+00:00"
     },
     {
       "id": "077913c64e56a12f7ce98cf5b2e859f626d47b21a87d3eadb42318c0364a31bb",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:22.213417+00:00"
+      "collected_at": "2026-11-10T14:11:49.321255+00:00"
     },
     {
       "id": "da0618c5582d823ff7a661be035724d9e087ff87111a641f91342e3c0c75e601",
@@ -139,13 +139,13 @@
       "published": "2026-11-10T11:43:00+00:00",
       "published_raw": "Tue, 10 Nov 2026 11:43:00 GMT",
       "snippet": "Ecovias Noroeste Paulista programa obras e alterações no tráfego em rodovias da região nesta semana Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:21.689771+00:00"
+      "collected_at": "2026-11-10T14:11:50.402352+00:00"
     },
     {
       "id": "3febcb9e3322ce6c8fcf1e48e2092ae40a8eab989640bc2fade337de5de6396e",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:21.689816+00:00"
+      "collected_at": "2026-11-10T14:11:48.796799+00:00"
     },
     {
       "id": "d2fc0a0a8b354d6ab0322fff3c2ad8a7b088b0592693092c6bb2319bb9a586c9",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.709842+00:00"
+      "collected_at": "2026-11-10T14:12:00.781233+00:00"
     },
     {
       "id": "88c1cd8572ca859045cef4cbc2b16ca073e1f069b49e0ddb4433812c44452264",
@@ -190,13 +190,13 @@
       "published": "2026-11-10T03:35:00+00:00",
       "published_raw": "Tue, 10 Nov 2026 03:35:00 GMT",
       "snippet": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:32.057963+00:00"
+      "collected_at": "2026-11-10T14:11:48.796757+00:00"
     },
     {
       "id": "7e5b5a6101f6248ee377c93eef60be44b5d309dd95ea01fd2c3e4fc545cd9a77",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:30.936647+00:00"
+      "collected_at": "2026-11-10T14:11:57.943227+00:00"
     },
     {
       "id": "7dc65a2505114b4f78f9b0082e0e5824e20563a0c4198ad9d001cd7005636d83",
@@ -230,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:23.922913+00:00"
+      "collected_at": "2026-11-10T14:11:50.981579+00:00"
     },
     {
       "id": "622dc0738647e017414c6b73cbea6043640ce0b12cf6eaabad234b6e75e8a045",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:34.896600+00:00"
+      "collected_at": "2026-11-10T14:12:01.861754+00:00"
     },
     {
       "id": "e92394d067634c6f986195305bb0b5938e262d0a754efe66d20f08fb18194c38",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:21.689578+00:00"
+      "collected_at": "2026-11-10T14:11:48.796510+00:00"
     },
     {
       "id": "08ab9a46a249da9e0c0c6b10bdbff8b42f6c78a068688a07f754ce0c2293a279",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:26.649108+00:00"
+      "collected_at": "2026-11-10T14:11:53.680073+00:00"
     },
     {
       "id": "fac95d87ef6d87a8f7032fbda51334949507c83f8c000732a2f7b7bd26ef3aaf",
@@ -292,13 +292,13 @@
       "published": "2026-11-09T18:42:50+00:00",
       "published_raw": "Mon, 09 Nov 2026 18:42:50 GMT",
       "snippet": "Acidente com três veículos provoca incêndio e gera 4 km de congestionamento na SP-310 Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.119172+00:00"
+      "collected_at": "2026-11-10T14:11:48.796700+00:00"
     },
     {
       "id": "97d44cc346a6ecbdf7cfab0fd7c8577b0eb64c50411a9483ce628c65f805dd54",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:34.896542+00:00"
+      "collected_at": "2026-11-10T14:12:01.861694+00:00"
     },
     {
       "id": "d499384d2c635d36803e4ad1f98b0ace4bdc5930af8adc29a1955d8bc013b0f7",
@@ -326,13 +326,13 @@
       "published": "2026-11-09T18:18:34+00:00",
       "published_raw": "Mon, 09 Nov 2026 18:18:34 GMT",
       "snippet": "Colisão entre guincho e carreta causa incêndio na SP-310 Jornal Primeira Página",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:35.474858+00:00"
+      "collected_at": "2026-11-10T14:12:00.214693+00:00"
     },
     {
       "id": "78f2d5f8958f71b35cf249d0a54cc6ab470ef58548b47e78075cf8a83b2ed679",
@@ -349,7 +349,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:23.922968+00:00"
+      "collected_at": "2026-11-10T14:11:50.981636+00:00"
     },
     {
       "id": "b65577145a640020e96c2aa794f8d8eefcb024cd0804dac8b01fe1b01be3cf82",
@@ -366,7 +366,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.119479+00:00"
+      "collected_at": "2026-11-10T14:12:00.214913+00:00"
     },
     {
       "id": "a042c5150f19becd2ecb7c874e1475e5154d47f63a467d7f19fbb6c47edea4d1",
@@ -377,13 +377,13 @@
       "published": "2026-11-09T17:19:47+00:00",
       "published_raw": "Mon, 09 Nov 2026 17:19:47 GMT",
       "snippet": "Guincho pega fogo após colisão com carreta e tumultua rodovia da região Jornal CidadãoNET",
-      "term": "\"Ecovias Noroeste\" ARTESP",
-      "category": "regulatório",
+      "term": "\"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente",
+      "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20ARTESP%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:34.317512+00:00"
+      "collected_at": "2026-11-10T14:12:00.214637+00:00"
     },
     {
       "id": "2f0e5138d1eadf1a259b5b3d5c175ea82612012926d3a8906d3579b78d4e1c5b",
@@ -400,7 +400,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.119318+00:00"
+      "collected_at": "2026-11-10T14:12:00.214585+00:00"
     },
     {
       "id": "66773a3725bfa8608189154c6cc73105fc0311325c15307dd00d917d764c633c",
@@ -417,7 +417,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.119430+00:00"
+      "collected_at": "2026-11-10T14:12:00.214860+00:00"
     },
     {
       "id": "be6fe62d361ff36dcb52d39b5182447e4e9542f13fd5d474ddbfa5f66aed95ed",
@@ -434,7 +434,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:32.057852+00:00"
+      "collected_at": "2026-11-10T14:11:59.033556+00:00"
     },
     {
       "id": "0641c8a048005c342d93923806f8788348eaaf09acb4ca83b557992a88961438",
@@ -445,13 +445,13 @@
       "published": "2026-11-09T15:00:45+00:00",
       "published_raw": "Mon, 09 Nov 2026 15:00:45 GMT",
       "snippet": "Ecorodovias (ECOR3): Divulga tráfego de outubro de 2026 Acionista.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:34.896643+00:00"
+      "collected_at": "2026-11-10T14:11:48.796642+00:00"
     },
     {
       "id": "f66e9ef99166f707d35105c39af560f71e237e93e0ee1069b39e2f3863af1203",
@@ -462,13 +462,13 @@
       "published": "2026-11-09T14:43:57+00:00",
       "published_raw": "Mon, 09 Nov 2026 14:43:57 GMT",
       "snippet": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:21.689661+00:00"
+      "collected_at": "2026-11-10T14:11:48.796591+00:00"
     },
     {
       "id": "08028bfff46b2ad199f686610f1c39aef9245298eed12d7b4b70ee1f053a37b2",
@@ -485,24 +485,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T13:54:33.119275+00:00"
-    },
-    {
-      "id": "06d7f218ca36f04e962ac425626d71dd5834c8644a2763a9542e530d7ae2d373",
-      "title": "Acidente envolvendo dois caminhões interdita Washington Luís, em Santa Adélia - Diário da Região",
-      "source": "Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTlhVm5Zc0JsNmc3Yy1qRUJpUXhiTXE3UC1obU8wNDdmdFBSaDNjRkwtM1RJeTA2SExqdVQ4bm1ieENJYTZxb0NvXy00TDdranpCZ1JKWGFhS3NnZ0w4UmRUd2ZtejBRTW03dkFvaG1ZRUhwaDJicmtIa1ZhQVdIN2ctM3Noa1c1cFVGRFYwbUtMZXpBXzNNUzljV0VaV3QyOWRLeTZfcFp0OUROamZyeEpqbDd3b2UzVzk5Q1ZzT3J3MGJCdWc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T14:11:41+00:00",
-      "published_raw": "Mon, 09 Nov 2026 14:11:41 GMT",
-      "snippet": "Acidente envolvendo dois caminhões interdita Washington Luís, em Santa Adélia Diário da Região",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T13:54:21.689716+00:00"
+      "collected_at": "2026-11-10T14:12:00.214534+00:00"
     }
   ]
 }
