@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10T21:09:46.847010+00:00",
+  "updated_at": "2026-11-11T03:37:38.205195+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 20,
+  "total": 18,
   "total_images": 0,
-  "new_items": 20,
+  "new_items": 18,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339731+00:00"
+      "collected_at": "2026-11-11T03:37:20.476017+00:00"
     },
     {
       "id": "a52834021e4be44688a9050b4d390e3607f32e14feb8867f13574becab082dd2",
@@ -71,13 +71,30 @@
       "published": "2026-11-10T17:58:42+00:00",
       "published_raw": "Tue, 10 Nov 2026 17:58:42 GMT",
       "snippet": "EcoRodovias (ECOR3): Divulgou Resultados do 3T26 Acionista.com.br",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\"",
-      "category": "free flow",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" obras | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:30.837002+00:00"
+      "collected_at": "2026-11-11T03:37:20.475877+00:00"
+    },
+    {
+      "id": "60b33ce48ea086060dc7e02a408b08cbb300d7fbd994fe8769785c6319499506",
+      "title": "Com ações educativas em Rio Preto, Ecovias Noroeste Paulista reforça segurança viária na SP-310 - Rio Preto Indica",
+      "source": "Rio Preto Indica",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56bnBHQjAxNXN4Qnk5OGRJS2RqRFhMV2NKSTlFNnNCOUZoaEl4RnFWbU5hVUVfbjEyZ3d5eHlmMzF0a1o2SmdRaUMyZ3ZqVGZYeEl1ZmRRU0pySWNIV0VydWVObGt5V241VS14MF93RklPV2k2TVZMeVA2TlFVLWM?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T16:56:00+00:00",
+      "published_raw": "Tue, 10 Nov 2026 16:56:00 GMT",
+      "snippet": "Com ações educativas em Rio Preto, Ecovias Noroeste Paulista reforça segurança viária na SP-310 Rio Preto Indica",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:20.475647+00:00"
     },
     {
       "id": "451b30ccbf622620287a64d91619c5f1427bd8a122234fb4ab4d6147a0422b2f",
@@ -94,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339215+00:00"
+      "collected_at": "2026-11-11T03:37:20.475788+00:00"
     },
     {
       "id": "826ad5fe194d52a755bbbd594c0dd0632e0d5b53be18959becdfc9513f3262fe",
@@ -111,24 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339364+00:00"
-    },
-    {
-      "id": "04463d4e00376e02c0191339bcbc8f5e82a8e075428116685a051f499dbf8eb3",
-      "title": "Asfalto cede após rompimento de rede de água e caminhão de bebidas cai em vala no Centro de Fernandópolis - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlNZWVZRbFg3YkxqRDZKRndINUdFaHQxOGhFYjdOY05zZVRaY3NfQXhXQkQ4TlhFelk2VTAyWGl4X05DWUdrczl1Vy1mdXlEMzdnWVUxYkRsQ1I5alh2djNnRXFaMGtsMEFsOU4yWk4wNFNkN0lGeHp1bkVRUk9kSUUyYWtjSFJYR3NVR0piYk52WmJsbjRyZ3IzQXI2T1hqR2N3OGFaNV9rN1ozaXNpb1UxM19NUnhrSWxjR21xd2M1LURXTlhwS2h2cTdzQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-10T14:13:00+00:00",
-      "published_raw": "Tue, 10 Nov 2026 14:13:00 GMT",
-      "snippet": "Asfalto cede após rompimento de rede de água e caminhão de bebidas cai em vala no Centro de Fernandópolis Região Noroeste",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:40.761367+00:00"
+      "collected_at": "2026-11-11T03:37:20.475733+00:00"
     },
     {
       "id": "edaec7b59c18cc93772cd65a8fbb8b5a3be5530f36bfa9cbd5cb346d8a426d6d",
@@ -139,13 +139,13 @@
       "published": "2026-11-10T12:33:00+00:00",
       "published_raw": "Tue, 10 Nov 2026 12:33:00 GMT",
       "snippet": "Parada de caminhoneiros na SP-310 será interditada para obras em Araraquara Brasil do Trecho",
-      "term": "\"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:40.761248+00:00"
+      "collected_at": "2026-11-11T03:37:31.421822+00:00"
     },
     {
       "id": "077913c64e56a12f7ce98cf5b2e859f626d47b21a87d3eadb42318c0364a31bb",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.943281+00:00"
+      "collected_at": "2026-11-11T03:37:21.033577+00:00"
     },
     {
       "id": "da0618c5582d823ff7a661be035724d9e087ff87111a641f91342e3c0c75e601",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339591+00:00"
+      "collected_at": "2026-11-11T03:37:20.475929+00:00"
     },
     {
       "id": "0b3a656c5dee916568b7007f53e04103ef6a7f80e894bce0725a256b9f2bc7e3",
@@ -196,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339670+00:00"
+      "collected_at": "2026-11-11T03:37:20.475979+00:00"
+    },
+    {
+      "id": "26342a481b99125887d2fa7ff44a4bca8f26df700e6071b3c07b88ad92ffafdd",
+      "title": "UFSCar se destaca no Brasil com 43 cursos avaliados com cinco estrelas em ranking nacional - São Carlos no - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmc1YnNZWmh0eVMxaXJGTkZxdmFmcVllRkd2OVlaWjJGVWZBWDZrUlVhNk4xV214aHlzWnB0aGxpbmE0Qlk0bVNaU2p5T1VIT0pUb3JtdVVNUEwwYWNrdGVzdDV5RzhkMUJfemRoUGVfTFozQWZYSW5QUExVN3NxZHMxQzhKYV9Fak9kd28zc2wzUFJpWG1UU29lendSbnVDX0tVbkpJQVp6RHFneHdveUctOXRibGpYaEpkVWdudVBXZ9IBwgFBVV95cUxQVmc1YnNZWmh0eVMxaXJGTkZxdmFmcVllRkd2OVlaWjJGVWZBWDZrUlVhNk4xV214aHlzWnB0aGxpbmE0Qlk0bVNaU2p5T1VIT0pUb3JtdVVNUEwwYWNrdGVzdDV5RzhkMUJfemRoUGVfTFozQWZYSW5QUExVN3NxZHMxQzhKYV9Fak9kd28zc2wzUFJpWG1UU29lendSbnVDX0tVbkpJQVp6RHFneHdveUctOXRibGpYaEpkVWdudVBXZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T09:34:57+00:00",
+      "published_raw": "Tue, 10 Nov 2026 09:34:57 GMT",
+      "snippet": "UFSCar se destaca no Brasil com 43 cursos avaliados com cinco estrelas em ranking nacional - São Carlos no São Carlos no Toque",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:35.366700+00:00"
     },
     {
       "id": "07c4a671a8ad07e0fcdb8a4baaaacc16776b557ebadc522d8f67f777f2129f29",
@@ -213,24 +230,75 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339896+00:00"
+      "collected_at": "2026-11-11T03:37:20.476068+00:00"
     },
     {
-      "id": "f5415d485d87af57034293ec910f87ca0fa6d9bb0f5ba839956d7fc6a97297a8",
-      "title": "Estado de SP concentra 60% dos melhores trechos rodoviários do país, aponta Pesquisa CNT 2026 - Região Noroeste",
+      "id": "476620cfb9cb186a7afbbf43256673fd3e5271c86c2958eb569ae530bfd5b976",
+      "title": "Secretaria de Educação de Jales promove Seminário de Boas Práticas da Educação Infantil - Região Noroeste",
       "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTRzYU9RMGtHVEV0YnI5LXdiT2VCNlBWazlBUTJZclRVd3NubWFIM1ZaX00xZzlGWFZVbUhDN3hkcmxPOXBhTVRqa01ZandwZzN0UF9yNkRzMzFMMzdSZGpfMzVwX3BnWWhybzE0UGFFR2s2eGFKZkxSb0ZDU1Ewc3VHYUdtdUI0LUU3Vjc3UUUxRHpTU3FKYTlTaVlNd3c0OHl2NE01aFcyVy1MMzdfZjQxRkZBanBVZ1Vz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVdNbHBrMnRvYXpqWnF2T3dkSWJXYmNJRWZFVHhJTnBiX09nR1lJSGFMQThUc2lSeG5fcU5aOTVrR3VNWkVrV283NjRLN010S3dfREdvVmRNZ2t5dkFldGE0cFhId2p4LV9TMGVTa3M4dlFyN1ZsSEJ2TFR3T2lkcGxleVNac0hGSnlFemFpNThIaXVmRjBkQmtlWkg5bkJ2amhsWHp2MjV5WHhqdEhxSUxIc2RlZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T09:01:00+00:00",
+      "published_raw": "Tue, 10 Nov 2026 09:01:00 GMT",
+      "snippet": "Secretaria de Educação de Jales promove Seminário de Boas Práticas da Educação Infantil Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:31.421920+00:00"
+    },
+    {
+      "id": "23b468c9b5a4a7ff48141d2a67ee3ce0dc3297ee83a64d145be274a176e7709c",
+      "title": "Ouroeste abre inscrições para o 7º Concurso Gastronômico de Pratos à Base de Mandioca - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1IY05tQWtCQUstNlZjVEhVdkppc0ZjNkdKZmdTTWgteFQ5eW1MVWt3QVUyUFd1Z2xldlo0Wkp0WXRNbDJKX3h3SF9Qbi1ab3ZvU3FIaGt3dUZ3cWFidFpMTnRJY19ITmptblVIYWdrZEVYcHl6alhiekMxNXFpSjkxbzdqN3JZTzhpMm5MQkN6N0I5S0d0SzV6cnlFUTJlbUtvUHFERHpoZTdERGFnT1ZjYw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T09:01:00+00:00",
+      "published_raw": "Tue, 10 Nov 2026 09:01:00 GMT",
+      "snippet": "Ouroeste abre inscrições para o 7º Concurso Gastronômico de Pratos à Base de Mandioca Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:31.422014+00:00"
+    },
+    {
+      "id": "1b98a7bda0effc0dd7fa7f1a80b25ff73d242e8d58ef76e3db0a195a63141896",
+      "title": "Prefeitura de Macedônia implementa projeto Balcão Térmico e renova equipamentos da merenda escolar - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjd0MVlPaVFUQjF5X3B0ZkZXQkRkN01Odlg3YlFEMERDT2IzUW9RNUh4bUIzM0JOR2FxaEZNSXpSZ1dYOWRvTWE4NUxfYXRtWGxfV3ZhQW1sR0NubkhpTG9VbkdEVFNsRWdDT0YzdzdoSF92dFZBNE04OHFJMjBFU0RqTXVacUNEN0pkcjlOSV9HNGUxQllmQWlvTWwyWEFZdnFyN3V5SnZhcEc0bXJUWGZaSXgtOWE5TXFvWjdIWWNqNjdK?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T09:01:00+00:00",
+      "published_raw": "Tue, 10 Nov 2026 09:01:00 GMT",
+      "snippet": "Prefeitura de Macedônia implementa projeto Balcão Térmico e renova equipamentos da merenda escolar Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:31.422061+00:00"
+    },
+    {
+      "id": "921073d59c5e08c699b85ff86a08409f9e4d4409d4a712592b495609824c0804",
+      "title": "Governo de SP oferece 2,8 mil vagas de emprego temporário para as festas de fim de ano - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnF2RW9Va3ItTFhha0NNeU1Ya2dDRUhoTC1RN0NIdFA0VUpHcHV1clBhR1cxSWFWZmMtZ0FtS0ZEZEFEWDlIdjkyRVFodDk3TWdIVVZFSENIeGRXdWJtRTVmT0F6REhMZUVxeDd5aFA3SzRRa29FLTctVTFnLXdOcndoRURiTlFIcnF5Nnc3YjJyTTNFS1B6SXh5cmhXUHEwNmFxWm5tSjlYMXF6UzU5MzhEdw?oc=5",
       "resolved_link": "",
       "published": "2026-11-10T09:00:00+00:00",
       "published_raw": "Tue, 10 Nov 2026 09:00:00 GMT",
-      "snippet": "Estado de SP concentra 60% dos melhores trechos rodoviários do país, aponta Pesquisa CNT 2026 Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
-      "category": "geral",
+      "snippet": "Governo de SP oferece 2,8 mil vagas de emprego temporário para as festas de fim de ano Região Noroeste",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339815+00:00"
+      "collected_at": "2026-11-11T03:37:31.421968+00:00"
     },
     {
       "id": "d2fc0a0a8b354d6ab0322fff3c2ad8a7b088b0592693092c6bb2319bb9a586c9",
@@ -241,13 +309,30 @@
       "published": "2026-11-10T06:03:46+00:00",
       "published_raw": "Tue, 10 Nov 2026 06:03:46 GMT",
       "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana O Extra.net",
-      "term": "\"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:42.004193+00:00"
+      "collected_at": "2026-11-11T03:37:20.475837+00:00"
+    },
+    {
+      "id": "0701df93c71c3e9a4bf21b63aaf88bfc07f918b8402df2aea940fc3473a57500",
+      "title": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada - Radio Sanca Web TV",
+      "source": "Radio Sanca Web TV",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUEk1WHhBZ0pHUF9GTWFuemlwV0trVnI3UWpMSXA4N2VKRGczUDBSOTE5b3RFNFhBeWVFMTg4aU9CSjNtcjcxODQ1Qm8ta1dWQ0N4ZW45b3pZZVBzbkdnSm1ORXBkbkd4X3dyTWtDUExjODhKUmpuenlvdmUyR2FYZ1dDSGdNMzBwZHYtM3hQYmtidXJXVEo0dWotcjE0UVlQLU1WRG1TcC1EdzVlbWpHaDBJMG55MFFjQU1yWHhWUnA4OUdONnhnVVJTMzVfWFhy?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-10T05:35:26+00:00",
+      "published_raw": "Tue, 10 Nov 2026 05:35:26 GMT",
+      "snippet": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada Radio Sanca Web TV",
+      "term": "\"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T03:37:35.366635+00:00"
     },
     {
       "id": "1b878f14412954b335761845363cb84de68beb06f694cdb0d4e599a40b96bd5a",
@@ -264,126 +349,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-10T21:09:43.850094+00:00"
-    },
-    {
-      "id": "88c1cd8572ca859045cef4cbc2b16ca073e1f069b49e0ddb4433812c44452264",
-      "title": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0cwVHJxcWNHcjdvSlpPd29HWUZBb1J6V0dxdXZBV1VzZVpidnVEcnY1cVVDTTJkS2FWNzlzNGRTRjRxS1JSaU9ZS19tY19EVVVRdG95amJ4N1VhTF9mS1hYc2RNRUlrdU5GVWt3el9GaWxQVlVKVjVBLV8xVkR6U1dLSUpLbGp3STVRQkYza1JxeXZVYXdCUmZIeHZndGdtdDlyWUNON0s2d1pxLWprcFpZNWVtMjE0RFd5VNIBvAFBVV95cUxPV0cwVHJxcWNHcjdvSlpPd29HWUZBb1J6V0dxdXZBV1VzZVpidnVEcnY1cVVDTTJkS2FWNzlzNGRTRjRxS1JSaU9ZS19tY19EVVVRdG95amJ4N1VhTF9mS1hYc2RNRUlrdU5GVWt3el9GaWxQVlVKVjVBLV8xVkR6U1dLSUpLbGp3STVRQkYza1JxeXZVYXdCUmZIeHZndGdtdDlyWUNON0s2d1pxLWprcFpZNWVtMjE0RFd5VA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-10T03:35:00+00:00",
-      "published_raw": "Tue, 10 Nov 2026 03:35:00 GMT",
-      "snippet": "Área de Descanso de Caminhoneiros da SP-310, em Araraquara, será reformada e modernizada - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339499+00:00"
-    },
-    {
-      "id": "7e5b5a6101f6248ee377c93eef60be44b5d309dd95ea01fd2c3e4fc545cd9a77",
-      "title": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzlKWEl0V0VWRjlCUFZXX3k1bHZETEw4V1pBV1pHRmFEMEowOEFrYzktdVAxR3FVYWphdUdRNWNIbnN2UlJhZTZRT005OHAwbFZPdFhQUlB0Q1lrNVdaRVVrbUpqMUFKYlJWWEk3U1VNTXNtTThHeVRwNXhQTUVfenlQX2J2QnZoRmNZZzFwS1FnOWVyQmVVMFpJUTRTR3RmaVJxX05VakdZRzFfRDlhcDZB?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T23:15:15+00:00",
-      "published_raw": "Mon, 09 Nov 2026 23:15:15 GMT",
-      "snippet": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\" tarifa",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tarifa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:38.886208+00:00"
-    },
-    {
-      "id": "7dc65a2505114b4f78f9b0082e0e5824e20563a0c4198ad9d001cd7005636d83",
-      "title": "Rodovias que ligam a capital ao interior de SP terão 6 novos radares a partir de dezembro; veja pontos - ACidade ON",
-      "source": "ACidade ON",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYkdtOXZEYkt4NzllX2JMejN5Z3VILVJPOVV0cEZkTzVfbmp6Z1c1anVMTmt3R3R1cTV4OHk2ekdWNWI5OWFyd2trOFpocVFDQXhHV09LeDlrOTBFbjRRYVBWb3htTzNJbVpqc3Noa1luS2ZjbkIzVVI1WFoxS2RFVHRiUG1xTFRyaElnMTVibkpKUDYyLVVudS02cjR4Vnp5YlRack9fRUluTlJvTk1LNlhTc3RGSkhBVFNZQ1lIM1NYUHN2aDNTYy1zcmNhZG50T01salRzbF9IcVM3MnZGN9IB5gFBVV95cUxQZlhfY09vYkxEQ194MXBEZmd6R0pZUFR6Y2V1bTRQLWhUbWRkUUprUHRwa2pnNTJ2TE90c2duTUlQZ1hTcUgyYjJWOVBJVFFCbVBtbUIxRmNHbTJWekJnb184dS1PUXhPYlp1bDJWNDVTTGxRbVBBOHhqZjdvWUhIUzlpODFkR1lPZHE5UWJ4aldRMHJ6VjNXN2d4N2pvcGpNMlNoNWhGRlYtTlFCQ0pLZDZ2dVpBaXJrOUc1UnF4aU0tSGh3Z0xVZVMzdktBb3VZN1lQX2NWc2dEbEwtNWZoYzNFa0ZHQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T22:42:33+00:00",
-      "published_raw": "Mon, 09 Nov 2026 22:42:33 GMT",
-      "snippet": "Rodovias que ligam a capital ao interior de SP terão 6 novos radares a partir de dezembro; veja pontos ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:30.836953+00:00"
-    },
-    {
-      "id": "467bd0b85a8203afc6e37d414a3960b7e796c01af4f1d12b578f95ee35a3b287",
-      "title": "Estado vai perfurar novo poço na Popular e falta d'água vai ficar no passado - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTN6RmR3VU0zbzJMOTFfUzZneGJPZERtenE3M0dLWnB5ZjloLV9ZWUw2NEhzVFZrNUxvSGtEazVPWnZYSFlPS2ROWldMWWZqMm96RzJ1S1cyZFl3eXlLT3hFZV9SdGQxODlpWTFFMU55QU5SOTV0cnViaVRGa1Zsb2RQVUUxRnR3b3pVT0REWnV1RG5QaEtTdGlXS1ppNEU0aVRvUlJERGxTcDk2aC1DSTZsZUV5eVds?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T22:14:04+00:00",
-      "published_raw": "Mon, 09 Nov 2026 22:14:04 GMT",
-      "snippet": "Estado vai perfurar novo poço na Popular e falta d'água vai ficar no passado Portal SCDN - Porque a informação não para!",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:43.849920+00:00"
-    },
-    {
-      "id": "622dc0738647e017414c6b73cbea6043640ce0b12cf6eaabad234b6e75e8a045",
-      "title": "EcoRodovias eleva lucro recorrente em 17,5%, mas dívida e investimentos avançam - Times Brasil | CNBC",
-      "source": "Times Brasil | CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTZTR05MMDFLRTdTOFRrMUtFYVZCdVFXNmNHNlVGX2FNU2J4U1B2aWQtd3FCenAwejRzWlYtTDQ3SklKS2l5ZUNraFJWMXRMOURvbDVWekYzcFB6dG5sbFpVSjNJNFIxYkxabHU1OVVRTGpoTUEzSzF3QXJfMmNFYU5TaUtVRF9kLXFNaUFmUUFERDAxU2NHVUJxTXg?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T21:59:00+00:00",
-      "published_raw": "Mon, 09 Nov 2026 21:59:00 GMT",
-      "snippet": "EcoRodovias eleva lucro recorrente em 17,5%, mas dívida e investimentos avançam Times Brasil | CNBC",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:43.206612+00:00"
-    },
-    {
-      "id": "e92394d067634c6f986195305bb0b5938e262d0a754efe66d20f08fb18194c38",
-      "title": "Ecovias Noroeste Paulista informa o cronograma, de 9/11 a 15/11/2026 - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWx4RkI5R1Z5NjRSSzRDOU5vRnZkemplRFNXQ1pHbnBENXlvQ194SjV2SDJiN0ZBNGt3Z0tna2wteU9kTVdqdVZUYzN5eVQ4X3pUN0VXU25NeUduSUZxX0dLSDVaM3pMNUF1NHh2R2NIcVlpUjFncVczVmU2WDVGaTgtalU3eUxRb1JqQVhCcl9ISUdGRjBZQnV0cDYwX3dSU2hj0gGjAUFVX3lxTE81bHhGQjlHVnk2NFJLNEM5Tm9GdmR6amVEU1dDWkducEQ1eW9DX3hKNXZIMmI3RkE0a3dnS2drbC15T2RNV2p1VlRjM3l5VDhfelQ3RVdTbk15R25JRnFfR0tINVozekw1QXU0eHZHY0hxWWlSMWdxVzNWZTZYNUZpOC1qVTd5TFFvUmpBWEJyX0hJR0ZGMFlCdXRwNjBfd1JTaGM?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T21:56:18+00:00",
-      "published_raw": "Mon, 09 Nov 2026 21:56:18 GMT",
-      "snippet": "Ecovias Noroeste Paulista informa o cronograma, de 9/11 a 15/11/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:28.339074+00:00"
-    },
-    {
-      "id": "7675194c1c52999ce9f71eff78da02c5e653f216bbad643df4b83171d40f18f9",
-      "title": "Guincho pega fogo após bater em carreta e interdita rodovia da região - RP10",
-      "source": "RP10",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzNzbUZqTVBkUFV0QVBWQ2x2NDFQbFA4NUNoSDdia05sRVVRZGNVUW9rWE40ZUktc09KaHNseDFMYVQ5Q0NGdXFOVXhRajF2SE8yYUxFSkdkRjBJX3BiRGNROXNSNEdjczFaTUxTcDduOGNpTFA0UXRRRHdzNnZQOGpNLTJfdWhxTEdYbTZ2VnRtMzhLc1I4TWtaeUpDTDAtc0tDTw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-09T21:43:53+00:00",
-      "published_raw": "Mon, 09 Nov 2026 21:43:53 GMT",
-      "snippet": "Guincho pega fogo após bater em carreta e interdita rodovia da região RP10",
-      "term": "\"Ecovias Noroeste\" acidente",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-10T21:09:41.364785+00:00"
+      "collected_at": "2026-11-11T03:37:35.366751+00:00"
     }
   ]
 }
