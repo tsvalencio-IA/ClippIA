@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11T21:38:17.798904+00:00",
+  "updated_at": "2026-11-11T21:42:27.630972+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 14,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,16 +60,16 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:03.384915+00:00"
+      "collected_at": "2026-11-11T21:42:14.340674+00:00"
     },
     {
       "id": "b2098cdd5d00c255c9c6f7e3213ee675213fb34376478757aac3bb9eee49ccfb",
       "title": "Rodovias Faria Lima e Washington Luís estão entre as melhores do Brasil, aponta pesquisa da CNT - Diário do Transporte",
       "source": "Diário do Transporte",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFlBaWFDaVNqai0tVUxCYVh3eTVza1JubTh4ME9NUlBhVXpySjNNZEk0b2pFT2lWRmNyYXF3bXIyblhXN0h0bFZIOERQcXRnSnFyT2ZjeS0ySHRwcE5wdW0waXhjcnRYWFZ1QWNWaHhtWWJRRHRfUU4zM0N1SFQ2Wnc2X0xtSXJmVWNWZG15Wk8ydjNWb3h0OFB0cWJNXzA5R2tOVm9yWHdBcnpzVU95WG9pLWE0dmM3Q01PRnExZ1dwQXUya1JCTUFSTWk0bnRzYnRNWmlVTdIB3AFBVV95cUxQZFlPRkJwbFBENFJ4cnBrSndaWXNnanpRNG8tMDV1QXZoSG9Oc1M1QVNUdk9xaFBOVklqbnNRc1pOckE3Z2xHaFRTaFFITWtuanRxN1VpQ1I5UjFicDhkN0I2QnA5VDlDZkI1TjFPTjhlN2ZJd0Y0UVFrU0Y5a0JRSzB0MG84MmEtNnlIMmNzTGR0Q19sekk3VVNHZUZoa0xWRVl1c1UwTERFYk95dkxzSTRfT0JGT21WNGQ3a2o3OTRJNEpleVh2Y0dTdlNvR3B6YWdjaHRuOWxESDhV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZFlPRkJwbFBENFJ4cnBrSndaWXNnanpRNG8tMDV1QXZoSG9Oc1M1QVNUdk9xaFBOVklqbnNRc1pOckE3Z2xHaFRTaFFITWtuanRxN1VpQ1I5UjFicDhkN0I2QnA5VDlDZkI1TjFPTjhlN2ZJd0Y0UVFrU0Y5a0JRSzB0MG84MmEtNnlIMmNzTGR0Q19sekk3VVNHZUZoa0xWRVl1c1UwTERFYk95dkxzSTRfT0JGT21WNGQ3a2o3OTRJNEpleVh2Y0dTdlNvR3B6YWdjaHRuOWxESDhV0gHcAUFVX3lxTFBkWU9GQnBsUEQ0UnhycGtKd1pZc2dqelE0by0wNXVBdmhIb05zUzVBU1R2T3FoUE5WSWpuc1FzWk5yQTdnbEdoVFNoUUhNa25qdHE3VWlDUjlSMWJwOGQ3QjZCcDlUOUNmQjVOMU9OOGU3Zkl3RjRRUWtTRjlrQlFLMHQwbzgyYS02eUgyY3NMZHRDX2x6STdVU0dlRmhrTFZFWXVzVTBMREViT3l2THNJNF9PQkZPbVY0ZDdrajc5NEk0SmV5WHZjR1N2U29HcHphZ2NodG45bERIOFU?oc=5",
       "resolved_link": "",
-      "published": "2026-11-11T20:03:45+00:00",
-      "published_raw": "Wed, 11 Nov 2026 20:03:45 GMT",
+      "published": "2026-11-11T20:00:01+00:00",
+      "published_raw": "Wed, 11 Nov 2026 20:00:01 GMT",
       "snippet": "Rodovias Faria Lima e Washington Luís estão entre as melhores do Brasil, aponta pesquisa da CNT Diário do Transporte",
       "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:00.469088+00:00"
+      "collected_at": "2026-11-11T21:42:11.594972+00:00"
     },
     {
       "id": "7eb7ad2f32a4e83f87e86043099b852d604549651684b84c2fb28a4c61d79fe0",
@@ -88,13 +88,13 @@
       "published": "2026-11-11T16:26:41+00:00",
       "published_raw": "Wed, 11 Nov 2026 16:26:41 GMT",
       "snippet": "Faria Lima é considerada a 5ª melhor rodovia do Brasil Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:02.190140+00:00"
+      "collected_at": "2026-11-11T21:42:21.821011+00:00"
     },
     {
       "id": "56cce6e792c5f5ad30da0b55cdd5f88dc1957cf687490fecacdf4423d1e966a9",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:00.468814+00:00"
+      "collected_at": "2026-11-11T21:42:11.594766+00:00"
     },
     {
       "id": "14347cae2c20e7592deb6eaab99725a7608c071ea46fd9897055f64a5a01d1cc",
@@ -122,13 +122,30 @@
       "published": "2026-11-11T15:43:10+00:00",
       "published_raw": "Wed, 11 Nov 2026 15:43:10 GMT",
       "snippet": "Concessionária informa que área de descanso dos caminhoneiros na Rod. Washington Luís (SP-310) ficará fechada por seis meses Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:00.469008+00:00"
+      "collected_at": "2026-11-11T21:42:11.594871+00:00"
+    },
+    {
+      "id": "52319b812031fc000f6785d59a99e44f0152f62ae0c0ba3a9306a575868d5bb5",
+      "title": "Araraquara: Polícia apreende 540 quilos de pasta-base de cocaína escondidos em contêiner e prende motorista - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalRxSFFCM0Yyemt3ZFNvQ2hnQVhfaHZRVFBMX0c5X050b1RpOXY3bXl2Wk9aY2U0Z2FiN1lYcTFVOHpkWEVaSy1ZTHVsRXpvNXN1U2QtdTVDbkJEUGFLYU1keDcwcmV6LW5DT2NVT0UwZkRYWTVORzFvVlRfNlktRU9xbFRnYjU3dGZfQ3dhLVJOMEJzUS1HTVpvVzhjb25XbTh3ZmF2eDQwaFNYQ3pLMG81cVNCVzg3SGxGVjFaZFkycndRU2dNd9IByAFBVV95cUxNalRxSFFCM0Yyemt3ZFNvQ2hnQVhfaHZRVFBMX0c5X050b1RpOXY3bXl2Wk9aY2U0Z2FiN1lYcTFVOHpkWEVaSy1ZTHVsRXpvNXN1U2QtdTVDbkJEUGFLYU1keDcwcmV6LW5DT2NVT0UwZkRYWTVORzFvVlRfNlktRU9xbFRnYjU3dGZfQ3dhLVJOMEJzUS1HTVpvVzhjb25XbTh3ZmF2eDQwaFNYQ3pLMG81cVNCVzg3SGxGVjFaZFkycndRU2dNdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T14:57:24+00:00",
+      "published_raw": "Wed, 11 Nov 2026 14:57:24 GMT",
+      "snippet": "Araraquara: Polícia apreende 540 quilos de pasta-base de cocaína escondidos em contêiner e prende motorista São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T21:42:11.594931+00:00"
     },
     {
       "id": "4b3b83b4d245e08c84dd979253b5be7f6b1115bc648c17c0750d9cb4e0b00f46",
@@ -145,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:05.916230+00:00"
+      "collected_at": "2026-11-11T21:42:16.447000+00:00"
     },
     {
       "id": "2f4431812efbf6a1d4c2e61411e919f5f900fa8f4b2bf587c582f4c46dc519dc",
@@ -156,13 +173,13 @@
       "published": "2026-11-11T14:32:50+00:00",
       "published_raw": "Wed, 11 Nov 2026 14:32:50 GMT",
       "snippet": "Rodovia Brigadeiro Faria Lima é considerada a 5ª melhor do Brasil pela Pesquisa CNT 2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:00.468925+00:00"
+      "collected_at": "2026-11-11T21:42:11.594826+00:00"
     },
     {
       "id": "9549d9157a6aed5c5a35a2b0d5926b88073e144dddc0fca18ca51afcb4445843",
@@ -179,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:03.384978+00:00"
+      "collected_at": "2026-11-11T21:42:14.340706+00:00"
     },
     {
       "id": "0e219bd7ac23ceab6b1a65e4ac6e727c35b1f6c36635a0149d12c6e516218629",
@@ -196,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:05.916288+00:00"
+      "collected_at": "2026-11-11T21:42:16.447028+00:00"
     },
     {
       "id": "dc0f9a07a1448b17724f462e41d290c38d567b0c913001345cec32cee8cceb44",
@@ -213,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:11.609277+00:00"
+      "collected_at": "2026-11-11T21:42:21.821039+00:00"
     },
     {
       "id": "74d30af5c8990cc22726b21d921b77b79f87b3b1838700d0f59663de613cdae3",
@@ -230,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:02.189886+00:00"
+      "collected_at": "2026-11-11T21:42:13.203266+00:00"
     },
     {
       "id": "66773a3725bfa8608189154c6cc73105fc0311325c15307dd00d917d764c633c",
@@ -247,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:00.469159+00:00"
+      "collected_at": "2026-11-11T21:42:11.595008+00:00"
     },
     {
       "id": "1bc142219f22ceffb042513e3ed97cc27bb8a903ae029a692559d01b46d1c903",
@@ -264,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T21:38:12.775110+00:00"
+      "collected_at": "2026-11-11T21:42:22.916172+00:00"
     }
   ]
 }
