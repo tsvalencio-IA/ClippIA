@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11T13:07:41.085056+00:00",
+  "updated_at": "2026-11-11T13:27:16.688963+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 9,
+  "total": 11,
   "total_images": 0,
-  "new_items": 9,
+  "new_items": 11,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,57 @@
   ],
   "items": [
     {
+      "id": "0e219bd7ac23ceab6b1a65e4ac6e727c35b1f6c36635a0149d12c6e516218629",
+      "title": "Pedágio sem cancela tem prazo para quitar atrasos sem multa até 16 de novembro - ClicRDC",
+      "source": "ClicRDC",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXVCY1JFQmEtZDZpZDJZM1dRcG9zeTZMcTB2bHJQUThTNVE2MDlUb2RKMkV4MHl2T2hRSnZBMXlJQl96aUVqdVNReUIyN1dWSTItM1JVQXRaM2w3Wk8tTGtXT0lPOFVBMGNXLU9EdHk5MlRydmtLZVZrRWhvTnBtU0xqWTdxTUEySzJqQkRFRmtmTkEzQ1R5YmozMlZVeklZR2NKQTRIelkyR3RYcHpSVQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T13:22:22+00:00",
+      "published_raw": "Wed, 11 Nov 2026 13:22:22 GMT",
+      "snippet": "Pedágio sem cancela tem prazo para quitar atrasos sem multa até 16 de novembro ClicRDC",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T13:27:00.623313+00:00"
+    },
+    {
+      "id": "dc0f9a07a1448b17724f462e41d290c38d567b0c913001345cec32cee8cceb44",
+      "title": "Free flow: governo envia notificações sobre débitos pendentes - Portal Cantagalo",
+      "source": "Portal Cantagalo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEYtOEppRWxuYVRNS29JQTBmMUY3c1JDVzJ0ZDhCVHJTSFNqOGVob0JKMzROOVBNa05sYjZELXZSQThUSDc0QUdqMTdTa1c5TllSUC1raWxLUjN1TnpZd0ttWU54SXJyWURCaW50NG1haVdweTVWSE1OZzhiOGV2TjVaRDlfR2NqMW5KSThPRVRpSFlEZTJQQUd1dlVxMkx2?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T13:17:39+00:00",
+      "published_raw": "Wed, 11 Nov 2026 13:17:39 GMT",
+      "snippet": "Free flow: governo envia notificações sobre débitos pendentes Portal Cantagalo",
+      "term": "\"Ecovias Noroeste\" obras",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T13:27:10.353456+00:00"
+    },
+    {
+      "id": "53d8475faa573cb50fa907bd8a1ec94d945f31c8ec7a225ae41e8181b88f19a9",
+      "title": "Governo federal envia alertas de cobrança por WhatsApp para motoristas com pedágios eletrônicos em atraso - News Rondônia",
+      "source": "News Rondônia",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc0dmQzdycmxaNmZqY2dfR1I4WGo0WU1qaTU3Zm5IeHRYbmRfQThNMGF0TG9wRGx2cXR3SHFwcUNObmtKWEpjT3pybDZiWHVmaUs1alFTMHpiaHgwSkF3UHVhek15SEJENUc4cDRRYkZFZGtTdjVIOGlqVHFRVmlTejhlLUg3bGRCcUVZZnZDNHFhdFNZX3JUejZ4YTRVNTNzSk81NU1lb0JqTGlzcmhiREdTdXR0b2lXaVJfUEs4NzY2RXBKdHpqRGZXUEFwcFJGWFNTMndhd213MlNGeXZ6cHNoMXAxRzJuZHc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T13:07:41+00:00",
+      "published_raw": "Wed, 11 Nov 2026 13:07:41 GMT",
+      "snippet": "Governo federal envia alertas de cobrança por WhatsApp para motoristas com pedágios eletrônicos em atraso News Rondônia",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-11T13:27:00.623283+00:00"
+    },
+    {
       "id": "74d30af5c8990cc22726b21d921b77b79f87b3b1838700d0f59663de613cdae3",
       "title": "Free flow: governo envia notificações sobre débitos pendentes - Agência Brasil",
       "source": "Agência Brasil",
@@ -60,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:26.150384+00:00"
+      "collected_at": "2026-11-11T13:27:00.623112+00:00"
     },
     {
       "id": "66773a3725bfa8608189154c6cc73105fc0311325c15307dd00d917d764c633c",
@@ -71,13 +122,13 @@
       "published": "2026-11-11T07:01:06+00:00",
       "published_raw": "Wed, 11 Nov 2026 07:01:06 GMT",
       "snippet": "Washington Luís é liberada após grave acidente entre três caminhões em Santa Adélia Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417837+00:00"
+      "collected_at": "2026-11-11T13:26:58.792266+00:00"
     },
     {
       "id": "1bc142219f22ceffb042513e3ed97cc27bb8a903ae029a692559d01b46d1c903",
@@ -88,13 +139,13 @@
       "published": "2026-11-11T07:01:00+00:00",
       "published_raw": "Wed, 11 Nov 2026 07:01:00 GMT",
       "snippet": "Guincho pega fogo durante grave acidente entre três veículos na Washington Luís em Santa Adélia Gazeta do Interior",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:26.150711+00:00"
+      "collected_at": "2026-11-11T13:27:11.516406+00:00"
     },
     {
       "id": "6d19f60880a24863aaa10e3bafd6dbc54cc83f24ba559fe6d781bf32756047e7",
@@ -111,24 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417787+00:00"
-    },
-    {
-      "id": "e745aba83db816702a55af05044706f8ad3e3be05362c03c4f07537eea44f677",
-      "title": "Ouvidoria Itinerante da Eixo SP terá atendimento em São Pedro nesta quarta - Portal SCDN - Porque a informação não para!",
-      "source": "Portal SCDN - Porque a informação não para!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUVKTEJfRnNhbTQ3TGtsdlZ3QldmUnRFcTM0YWJDQ0hOWm1qTy1sbGJuV3lpTkdsZmRTOEQzMHdXb1h3WndfNlRyWGtEMlB3RjYteVktdFZ2bTdUYkNlY0JUNWRPblU5QnQxTTRnckVKMFNSdHI3Q0JURW9YTDY2UnAtdDRXRGRfa1R0TktlZ0N5ZVhrOHo0bTVPT2dHdU44NzhlV3dDOTdBMEpYbFltNGVFdVltbms?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-10T18:15:53+00:00",
-      "published_raw": "Tue, 10 Nov 2026 18:15:53 GMT",
-      "snippet": "Ouvidoria Itinerante da Eixo SP terá atendimento em São Pedro nesta quarta Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-11T13:07:26.150584+00:00"
+      "collected_at": "2026-11-11T13:26:58.792229+00:00"
     },
     {
       "id": "a52834021e4be44688a9050b4d390e3607f32e14feb8867f13574becab082dd2",
@@ -145,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417749+00:00"
+      "collected_at": "2026-11-11T13:26:58.792200+00:00"
     },
     {
       "id": "60b33ce48ea086060dc7e02a408b08cbb300d7fbd994fe8769785c6319499506",
@@ -162,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417577+00:00"
+      "collected_at": "2026-11-11T13:26:58.792070+00:00"
     },
     {
       "id": "451b30ccbf622620287a64d91619c5f1427bd8a122234fb4ab4d6147a0422b2f",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417707+00:00"
+      "collected_at": "2026-11-11T13:26:58.792168+00:00"
     },
     {
       "id": "826ad5fe194d52a755bbbd594c0dd0632e0d5b53be18959becdfc9513f3262fe",
@@ -196,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-11T13:07:24.417654+00:00"
+      "collected_at": "2026-11-11T13:26:58.792128+00:00"
     }
   ]
 }
