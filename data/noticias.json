@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12T05:29:46.190022+00:00",
+  "updated_at": "2026-11-12T14:10:35.256671+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 16,
+  "total": 14,
   "total_images": 0,
-  "new_items": 16,
+  "new_items": 14,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -49,18 +49,18 @@
       "id": "b7617b488594aaa1f91116585d65612d06fc1a15bd17ff8cfbbcf493ae5f710b",
       "title": "Free flow: governo envia notificações sobre débitos pendentes - Éder Luiz Notícias",
       "source": "Éder Luiz Notícias",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXlTNWhTajBwNGROTFF2SHZwUFB3dVZJX3JsRVZHSzdadHFaRkkxSzBVREREd21PeFlWODVlZFc1R09KeVMySjhQOExCTG10TzgwRXRJVHJJV0pVTTNZVl9hWVY5UExHMVg1THVHdXFOTXlmb0JKR21hTGtTMFRXbVpuQnVNSGxReV9EcTRabk1iZ3pmZ09sNtIBngFBVV95cUxONXlNenZDYXh2VWliUFJjcmVLQm41VkxfbHBscmhhVmVveW9yNzc1eXZfcUdqTktiVk1OVGt4bUh0QW1CRWRhWU5GYzRyWUIxbXdVU0xFNndDVDhuNU81NlczOGZjVVFKLTNuOFF5M2pVdlU2bWdNeEJ3Zml2TWtKZEU5Zll4OEdmTlBsbGc5c21xYUhxMWp2cGM3WTFqdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXlNenZDYXh2VWliUFJjcmVLQm41VkxfbHBscmhhVmVveW9yNzc1eXZfcUdqTktiVk1OVGt4bUh0QW1CRWRhWU5GYzRyWUIxbXdVU0xFNndDVDhuNU81NlczOGZjVVFKLTNuOFF5M2pVdlU2bWdNeEJ3Zml2TWtKZEU5Zll4OEdmTlBsbGc5c21xYUhxMWp2cGM3WTFqd9IBngFBVV95cUxONXlNenZDYXh2VWliUFJjcmVLQm41VkxfbHBscmhhVmVveW9yNzc1eXZfcUdqTktiVk1OVGt4bUh0QW1CRWRhWU5GYzRyWUIxbXdVU0xFNndDVDhuNU81NlczOGZjVVFKLTNuOFF5M2pVdlU2bWdNeEJ3Zml2TWtKZEU5Zll4OEdmTlBsbGc5c21xYUhxMWp2cGM3WTFqdw?oc=5",
       "resolved_link": "",
-      "published": "2026-11-12T00:00:00+00:00",
-      "published_raw": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "published": "2026-11-12T00:19:34+00:00",
+      "published_raw": "Thu, 12 Nov 2026 00:19:34 GMT",
       "snippet": "Free flow: governo envia notificações sobre débitos pendentes Éder Luiz Notícias",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:30.176378+00:00"
+      "collected_at": "2026-11-12T14:10:18.674185+00:00"
     },
     {
       "id": "e9664ff2c5bcd8b84bd1e9967a49da89e2ad4957606e90f62b544362d24a739c",
@@ -71,13 +71,30 @@
       "published": "2026-11-11T23:35:08+00:00",
       "published_raw": "Wed, 11 Nov 2026 23:35:08 GMT",
       "snippet": "O que muda no pedágio free flow a partir de segunda TV Sim Brasil",
-      "term": "\"Ecovias Noroeste\" multa | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:35.036303+00:00"
+      "collected_at": "2026-11-12T14:10:22.495642+00:00"
+    },
+    {
+      "id": "6621df77d6c7a9c66bcac782028af8e2878e75af51888db0b77b3553d2739478",
+      "title": "Free flow: governo envia notificações sobre débitos pendentes - Web Rádio Terra",
+      "source": "Web Rádio Terra",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcURQN29QZE5jOXFkTGFWRFRLY1RfZnJFVkJpYjFHNGNjUEtfRV8ydmI1YmYyQkdZU2xRT19hbV9MbTlqSEJTVW10ZE5RbUFjcFo4R2Zod01scldWcTZBa0hBLWtBRFpvdTlwRHFXZTE1ckFGU2lfaHkwQXBWalROSkRWTWVodXVqUGpmQV9ONVEwZlpoYXBV?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T21:51:21+00:00",
+      "published_raw": "Wed, 11 Nov 2026 21:51:21 GMT",
+      "snippet": "Free flow: governo envia notificações sobre débitos pendentes Web Rádio Terra",
+      "term": "\"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-12T14:10:19.976016+00:00"
     },
     {
       "id": "a566cfb1473f36c4e49c35a67bc0d5fa58ebef259210c5eeeb64e45cd7dbca1b",
@@ -88,13 +105,13 @@
       "published": "2026-11-11T20:50:10+00:00",
       "published_raw": "Wed, 11 Nov 2026 20:50:10 GMT",
       "snippet": "Free flow: motorista tem até segunda (16) para pagar pedágio eletrônico atrasado sem multa HoraMS",
-      "term": "\"Ecovias Noroeste\" multa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:31.416788+00:00"
+      "collected_at": "2026-11-12T14:10:19.975928+00:00"
     },
     {
       "id": "b2098cdd5d00c255c9c6f7e3213ee675213fb34376478757aac3bb9eee49ccfb",
@@ -111,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:28.412042+00:00"
+      "collected_at": "2026-11-12T14:10:16.979713+00:00"
     },
     {
       "id": "c01bc0355eed1b3482c4928f6e21a236fcba40e4d7b26eb8e3ee6494b29de1b1",
@@ -122,13 +139,30 @@
       "published": "2026-11-11T17:31:42+00:00",
       "published_raw": "Wed, 11 Nov 2026 17:31:42 GMT",
       "snippet": "Mulher fica ferida após acidente entre carro e moto no Centro de São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:40.973111+00:00"
+      "collected_at": "2026-11-12T14:10:16.979831+00:00"
+    },
+    {
+      "id": "0eb56a624aab428768c06294ef1e5886a31484d4e78fabf39569b2e2dba22dce",
+      "title": "Free flow: governo envia notificações sobre débitos pendentes | Diário do Grande ABC - Notícias e informações - Diário do Grande ABC",
+      "source": "Diário do Grande ABC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHRHSnVfX1BSSjFQOWZ6bk9ZRGRoVjVIdE03OFZQX0hQVDNUSEdqaW5VQkFQd2QtSzE0MEtsVGZ4SDBFa2VSOW9yNmZ2N1JUM185c1NTMXZJV09taFZEWFd0ZmFURVU1YjJ0U3VrOEp0VTMzS1g2eUN2WTNwQUVDdzNNb3dLdng5MkFLVVpRTjJ4My1iNU44b1FLZTRTQlVqQVJj?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T16:36:00+00:00",
+      "published_raw": "Wed, 11 Nov 2026 16:36:00 GMT",
+      "snippet": "Free flow: governo envia notificações sobre débitos pendentes | Diário do Grande ABC - Notícias e informações Diário do Grande ABC",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-12T14:10:18.673883+00:00"
     },
     {
       "id": "7eb7ad2f32a4e83f87e86043099b852d604549651684b84c2fb28a4c61d79fe0",
@@ -139,13 +173,13 @@
       "published": "2026-11-11T16:26:41+00:00",
       "published_raw": "Wed, 11 Nov 2026 16:26:41 GMT",
       "snippet": "Faria Lima é considerada a 5ª melhor rodovia do Brasil Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:30.176348+00:00"
+      "collected_at": "2026-11-12T14:10:16.979613+00:00"
     },
     {
       "id": "17b34c21c31c23823d2c82e169498921617e2520cf4ee3ac671075abb3c8fb04",
@@ -156,13 +190,13 @@
       "published": "2026-11-11T15:43:17+00:00",
       "published_raw": "Wed, 11 Nov 2026 15:43:17 GMT",
       "snippet": "Motoristas têm até segunda-feira (16) para pagar pedágio eletrônico atrasado sem multa Jornal de Barueri",
-      "term": "\"Ecovias Noroeste\" multa | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20sem%20cancela%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:34.442893+00:00"
+      "collected_at": "2026-11-12T14:10:22.495896+00:00"
     },
     {
       "id": "56cce6e792c5f5ad30da0b55cdd5f88dc1957cf687490fecacdf4423d1e966a9",
@@ -179,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:28.411890+00:00"
+      "collected_at": "2026-11-12T14:10:16.979265+00:00"
     },
     {
       "id": "14347cae2c20e7592deb6eaab99725a7608c071ea46fd9897055f64a5a01d1cc",
@@ -190,13 +224,30 @@
       "published": "2026-11-11T15:43:10+00:00",
       "published_raw": "Wed, 11 Nov 2026 15:43:10 GMT",
       "snippet": "Concessionária informa que área de descanso dos caminhoneiros na Rod. Washington Luís (SP-310) ficará fechada por seis meses Estradas",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:28.411948+00:00"
+      "collected_at": "2026-11-12T14:10:16.979396+00:00"
+    },
+    {
+      "id": "52319b812031fc000f6785d59a99e44f0152f62ae0c0ba3a9306a575868d5bb5",
+      "title": "Araraquara: Polícia apreende 540 quilos de pasta-base de cocaína escondidos em contêiner e prende motorista - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalRxSFFCM0Yyemt3ZFNvQ2hnQVhfaHZRVFBMX0c5X050b1RpOXY3bXl2Wk9aY2U0Z2FiN1lYcTFVOHpkWEVaSy1ZTHVsRXpvNXN1U2QtdTVDbkJEUGFLYU1keDcwcmV6LW5DT2NVT0UwZkRYWTVORzFvVlRfNlktRU9xbFRnYjU3dGZfQ3dhLVJOMEJzUS1HTVpvVzhjb25XbTh3ZmF2eDQwaFNYQ3pLMG81cVNCVzg3SGxGVjFaZFkycndRU2dNd9IByAFBVV95cUxNalRxSFFCM0Yyemt3ZFNvQ2hnQVhfaHZRVFBMX0c5X050b1RpOXY3bXl2Wk9aY2U0Z2FiN1lYcTFVOHpkWEVaSy1ZTHVsRXpvNXN1U2QtdTVDbkJEUGFLYU1keDcwcmV6LW5DT2NVT0UwZkRYWTVORzFvVlRfNlktRU9xbFRnYjU3dGZfQ3dhLVJOMEJzUS1HTVpvVzhjb25XbTh3ZmF2eDQwaFNYQ3pLMG81cVNCVzg3SGxGVjFaZFkycndRU2dNdw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-11T14:57:24+00:00",
+      "published_raw": "Wed, 11 Nov 2026 14:57:24 GMT",
+      "snippet": "Araraquara: Polícia apreende 540 quilos de pasta-base de cocaína escondidos em contêiner e prende motorista São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-12T14:10:16.979515+00:00"
     },
     {
       "id": "4b3b83b4d245e08c84dd979253b5be7f6b1115bc648c17c0750d9cb4e0b00f46",
@@ -213,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:33.830615+00:00"
+      "collected_at": "2026-11-12T14:10:22.495998+00:00"
     },
     {
       "id": "2f4431812efbf6a1d4c2e61411e919f5f900fa8f4b2bf587c582f4c46dc519dc",
@@ -224,98 +275,13 @@
       "published": "2026-11-11T14:32:50+00:00",
       "published_raw": "Wed, 11 Nov 2026 14:32:50 GMT",
       "snippet": "Rodovia Brigadeiro Faria Lima é considerada a 5ª melhor do Brasil pela Pesquisa CNT 2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-12T05:29:28.411998+00:00"
-    },
-    {
-      "id": "9549d9157a6aed5c5a35a2b0d5926b88073e144dddc0fca18ca51afcb4445843",
-      "title": "Governo avisa por WhatsApp sobre dívidas de free flow; prazo sem multas termina dia 16 - Studio Notícias",
-      "source": "Studio Notícias",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1NRUXRlY3R2UEo5Q25JR3BFRi1EZkk3TDVZODlndFIwRVhDdXZNVW9KbFdNSlVmaTM3NXpXTExuX2pxWFVjVWtnby1aaUh5V3dYN3c1R1BDdW5sRTlEaEhaYW9qUUYybFBvZU84U1ItR3VIUWR2bVp4QjNuWGZXMUJSakxYY1E4ai1ETnF6bzkzdkRLd1BVbFlDMEFSUkRiWGdvZlF3TzBSZlA4ZVVqT3hCVU5hWjVtY2xF?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-11T13:35:58+00:00",
-      "published_raw": "Wed, 11 Nov 2026 13:35:58 GMT",
-      "snippet": "Governo avisa por WhatsApp sobre dívidas de free flow; prazo sem multas termina dia 16 Studio Notícias",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-12T05:29:31.416849+00:00"
-    },
-    {
-      "id": "0e219bd7ac23ceab6b1a65e4ac6e727c35b1f6c36635a0149d12c6e516218629",
-      "title": "Pedágio sem cancela tem prazo para quitar atrasos sem multa até 16 de novembro - ClicRDC",
-      "source": "ClicRDC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXVCY1JFQmEtZDZpZDJZM1dRcG9zeTZMcTB2bHJQUThTNVE2MDlUb2RKMkV4MHl2T2hRSnZBMXlJQl96aUVqdVNReUIyN1dWSTItM1JVQXRaM2w3Wk8tTGtXT0lPOFVBMGNXLU9EdHk5MlRydmtLZVZrRWhvTnBtU0xqWTdxTUEySzJqQkRFRmtmTkEzQ1R5YmozMlZVeklZR2NKQTRIelkyR3RYcHpSVQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-11T13:22:22+00:00",
-      "published_raw": "Wed, 11 Nov 2026 13:22:22 GMT",
-      "snippet": "Pedágio sem cancela tem prazo para quitar atrasos sem multa até 16 de novembro ClicRDC",
-      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-12T05:29:33.830671+00:00"
-    },
-    {
-      "id": "74d30af5c8990cc22726b21d921b77b79f87b3b1838700d0f59663de613cdae3",
-      "title": "Free flow: governo envia notificações sobre débitos pendentes - Agência Brasil",
-      "source": "Agência Brasil",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXA4dnpxcmpvWnNiZ0tSUzRtSVZBMUdfMEcxNHQzMllic2dRRVFfRzk0VWFKWTdvdV83SFlVTDI2RC1aZFRYUU1hNmJmZy1oeGFmQXZTbGtRazFhbWh4QnprVHFDaTdjWXpaRnRManN3LWtURmJla20xSGtlT2VFTURrSG52Q2dabDgzTktSaHUtR0JYR3YtMlVUVFViZWNEaXdxMHBHRmtTcmtBc3lubGx1aEthZw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-11T12:55:00+00:00",
-      "published_raw": "Wed, 11 Nov 2026 12:55:00 GMT",
-      "snippet": "Free flow: governo envia notificações sobre débitos pendentes Agência Brasil",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T05:29:30.176260+00:00"
-    },
-    {
-      "id": "66773a3725bfa8608189154c6cc73105fc0311325c15307dd00d917d764c633c",
-      "title": "Washington Luís é liberada após grave acidente entre três caminhões em Santa Adélia - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmtzaXh4eWVDRlRhVUhicnlZMWRjaTVLMUhUcjhNNkxWWmVuSEVMV3ZYS3NKZERlN0VCaE5zTzYzdmt1WHhqOGdiUGp6V0U4cmtLMEFLWk41LU5UQlJGQ3E5VHA0NU96R2ZMTERXZVJHcUVPRlQ1dTAzUEJhODhmWjNrV2VHY2NYZjJhSXU2U3licDJCMVpMdTgzRUhkT0RpWGIyRUNaM1Q3dUFVQzBubklubFNDQ1hHX2R4aVN0aUdaRmRxSEHSAcYBQVVfeXFMTkZrc2l4eHllQ0ZUYVVIYnJ5WTFkY2k1SzFIVHI4TTZMVlplbkhFTFd2WEtzSmREZTdFQmhOc082M3ZrdVh4ajhnYlBqeldFOHJrSzBBS1pONS1OVEJSRkNxOVRwNDVPekdmTExEV2VSR3FFT0ZUNXUwM1BCYTg4Zloza1dlR2NjWGYyYUl1NlN5YnAyQjFaTHU4M0VIZE9EaVhiMkVDWjNUN3VBVUMwbm5JbmxTQ0NYR19keGlTdGlHWkZkcUhB?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-11T07:01:06+00:00",
-      "published_raw": "Wed, 11 Nov 2026 07:01:06 GMT",
-      "snippet": "Washington Luís é liberada após grave acidente entre três caminhões em Santa Adélia Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-12T05:29:28.412080+00:00"
-    },
-    {
-      "id": "1bc142219f22ceffb042513e3ed97cc27bb8a903ae029a692559d01b46d1c903",
-      "title": "Guincho pega fogo durante grave acidente entre três veículos na Washington Luís em Santa Adélia - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVQ5Y293T1VTdEd0S2hWSzNqMDJHeU9fMF8zLTExVFBfXy1BU09IcURJa29FYktUVE5WX0pQTUpJaWVTbkUwN3hYYmY1ZUxUdXN6akk3clpVMW1QcG53OElqMFJFNGxRaFZYY09TclJkbURQWE93X25abUFDVUNOUGp6ZkRTbk9VdkJEV29mX3QyTTZSZVhCOTB0Nk1PMzJrU296ZWVnWFVUNC1SM2E5MWFtUl94RWVneGw0RXh5WWJmWHNrUzlzYmJod2FvM0JKajk5cnJ30gHWAUFVX3lxTFA5VDljb3dPVVN0R3RLaFZLM2owMkd5T18wXzMtMTFUUF9fLUFTT0hxRElrb0ViS1RUTlZfSlBNSklpZVNuRTA3eFhiZjVlTFR1c3pqSTdyWlUxbVBwbnc4SWowUkU0bFFoVlhjT1NyUmRtRFBYT3dfblptQUNVQ05QanpmRFNuT1V2QkRXb2ZfdDJNNlJlWEI5MHQ2TU8zMmtTb3plZWdYVVQ0LVIzYTkxYW1SX3hFZWd4bDRFeHlZYmZYc2tTOXNiYmh3YW8zQkpqOTlycnc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-11T07:01:00+00:00",
-      "published_raw": "Wed, 11 Nov 2026 07:01:00 GMT",
-      "snippet": "Guincho pega fogo durante grave acidente entre três veículos na Washington Luís em Santa Adélia Gazeta do Interior",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-12T05:29:40.973149+00:00"
+      "collected_at": "2026-11-12T14:10:18.674001+00:00"
     }
   ]
 }
