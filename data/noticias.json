@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:45:43.400797+00:00",
+  "updated_at": "2026-11-12T05:29:46.190022+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 16,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:27.512745+00:00"
+      "collected_at": "2026-11-12T05:29:30.176378+00:00"
     },
     {
       "id": "e9664ff2c5bcd8b84bd1e9967a49da89e2ad4957606e90f62b544362d24a739c",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22p%C3%B3rtico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:32.284561+00:00"
+      "collected_at": "2026-11-12T05:29:35.036303+00:00"
     },
     {
       "id": "a566cfb1473f36c4e49c35a67bc0d5fa58ebef259210c5eeeb64e45cd7dbca1b",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:28.756363+00:00"
+      "collected_at": "2026-11-12T05:29:31.416788+00:00"
     },
     {
       "id": "b2098cdd5d00c255c9c6f7e3213ee675213fb34376478757aac3bb9eee49ccfb",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753264+00:00"
+      "collected_at": "2026-11-12T05:29:28.412042+00:00"
     },
     {
       "id": "c01bc0355eed1b3482c4928f6e21a236fcba40e4d7b26eb8e3ee6494b29de1b1",
@@ -122,13 +122,13 @@
       "published": "2026-11-11T17:31:42+00:00",
       "published_raw": "Wed, 11 Nov 2026 17:31:42 GMT",
       "snippet": "Mulher fica ferida após acidente entre carro e moto no Centro de São Carlos - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente",
+      "term": "\"Ecovias Noroeste\" acidente",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753375+00:00"
+      "collected_at": "2026-11-12T05:29:40.973111+00:00"
     },
     {
       "id": "7eb7ad2f32a4e83f87e86043099b852d604549651684b84c2fb28a4c61d79fe0",
@@ -139,13 +139,13 @@
       "published": "2026-11-11T16:26:41+00:00",
       "published_raw": "Wed, 11 Nov 2026 16:26:41 GMT",
       "snippet": "Faria Lima é considerada a 5ª melhor rodovia do Brasil Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:27.512705+00:00"
+      "collected_at": "2026-11-12T05:29:30.176348+00:00"
     },
     {
       "id": "17b34c21c31c23823d2c82e169498921617e2520cf4ee3ac671075abb3c8fb04",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20sem%20cancela%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:31.687544+00:00"
+      "collected_at": "2026-11-12T05:29:34.442893+00:00"
     },
     {
       "id": "56cce6e792c5f5ad30da0b55cdd5f88dc1957cf687490fecacdf4423d1e966a9",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753054+00:00"
+      "collected_at": "2026-11-12T05:29:28.411890+00:00"
     },
     {
       "id": "14347cae2c20e7592deb6eaab99725a7608c071ea46fd9897055f64a5a01d1cc",
@@ -196,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753133+00:00"
+      "collected_at": "2026-11-12T05:29:28.411948+00:00"
     },
     {
       "id": "4b3b83b4d245e08c84dd979253b5be7f6b1115bc648c17c0750d9cb4e0b00f46",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:31.076731+00:00"
+      "collected_at": "2026-11-12T05:29:33.830615+00:00"
     },
     {
       "id": "2f4431812efbf6a1d4c2e61411e919f5f900fa8f4b2bf587c582f4c46dc519dc",
@@ -224,13 +224,13 @@
       "published": "2026-11-11T14:32:50+00:00",
       "published_raw": "Wed, 11 Nov 2026 14:32:50 GMT",
       "snippet": "Rodovia Brigadeiro Faria Lima é considerada a 5ª melhor do Brasil pela Pesquisa CNT 2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753203+00:00"
+      "collected_at": "2026-11-12T05:29:28.411998+00:00"
     },
     {
       "id": "9549d9157a6aed5c5a35a2b0d5926b88073e144dddc0fca18ca51afcb4445843",
@@ -247,7 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:28.756447+00:00"
+      "collected_at": "2026-11-12T05:29:31.416849+00:00"
     },
     {
       "id": "0e219bd7ac23ceab6b1a65e4ac6e727c35b1f6c36635a0149d12c6e516218629",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:31.076811+00:00"
+      "collected_at": "2026-11-12T05:29:33.830671+00:00"
     },
     {
       "id": "74d30af5c8990cc22726b21d921b77b79f87b3b1838700d0f59663de613cdae3",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:27.512593+00:00"
+      "collected_at": "2026-11-12T05:29:30.176260+00:00"
     },
     {
       "id": "66773a3725bfa8608189154c6cc73105fc0311325c15307dd00d917d764c633c",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:25.753320+00:00"
+      "collected_at": "2026-11-12T05:29:28.412080+00:00"
     },
     {
       "id": "1bc142219f22ceffb042513e3ed97cc27bb8a903ae029a692559d01b46d1c903",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-12T04:45:38.238557+00:00"
+      "collected_at": "2026-11-12T05:29:40.973149+00:00"
     }
   ]
 }
