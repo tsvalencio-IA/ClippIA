@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T04:41:00.324301+00:00",
+  "updated_at": "2026-11-14T12:40:10.001106+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 6,
   "total_images": 0,
-  "new_items": 12,
+  "new_items": 6,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.426105+00:00"
+      "collected_at": "2026-11-14T12:39:53.204475+00:00"
     },
     {
       "id": "6f6852d657c7eac2dfb050ed099acf89068da6298e84145e7366ab14d8585076",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.425797+00:00"
+      "collected_at": "2026-11-14T12:39:53.204340+00:00"
     },
     {
       "id": "78dd83deacc4f240ceee2fcd66bd3a5a843703a7f3cff06363da898f9837d55c",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:57.089171+00:00"
+      "collected_at": "2026-11-14T12:40:06.764317+00:00"
     },
     {
       "id": "275d1deb4af3f412f25be535383f8efd9166ab383cb2ef070d042dfd3b86c25d",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.426222+00:00"
+      "collected_at": "2026-11-14T12:39:53.204524+00:00"
     },
     {
       "id": "fc2ba6499d7c24d230061c0e5a8baee7d1f7765f33fb65a5321fefcc479e2c0e",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:45.688959+00:00"
+      "collected_at": "2026-11-14T12:39:55.535870+00:00"
     },
     {
       "id": "457a5041e0f487b45949c822ffdf4263ff8c65ed74e7a84a0d85dbb126df3739",
@@ -145,109 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.425994+00:00"
-    },
-    {
-      "id": "d499384d2c635d36803e4ad1f98b0ace4bdc5930af8adc29a1955d8bc013b0f7",
-      "title": "Colisão entre guincho e carreta causa incêndio na SP-310 - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTG81N2dYajFqTlppeXloTkRHWEtxUWR1VDF5SklzUHV0Z3pKTkZkQTBTQWtxVWtWS0lERmVncWNIblBBaGswUFF0S2xJbERhYnhTeXR4X05lVjBLVzV4MHRCMHY1Uk5tRDUybjNrS0ZWa0ltZ1dxRkdPNVRtcWlIZS14eTZlU1VsbWpiaHRMN2w5YmdlVmF5UnVoUWxVc0U?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T14:21:12+00:00",
-      "published_raw": "Fri, 13 Nov 2026 14:21:12 GMT",
-      "snippet": "Colisão entre guincho e carreta causa incêndio na SP-310 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.426461+00:00"
-    },
-    {
-      "id": "e92defe92f878cf76c958d0a6d7888b836439d45ee21b2e495d937ddbefa1689",
-      "title": "Área de descanso de caminhoneiros será modernizada - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2l2UWJUTXVNM0dEcjVHdkw0MWppYlJGdU9kQmdqU2Q1dEkwOEd5Uk53QUExd3BWc3IzNklQTDhzdlRZUlp3eVZCOEJVbnc5QWYzZlJKRUZuUVJ1bkVyUlVlQnFob1gxTTZXdzJ6YlhHQVlLNFBCcDBEWXBHN2RCb3ZQMlZFT0ladjJxQVJHYmMyWk9zaUdz?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T14:20:29+00:00",
-      "published_raw": "Fri, 13 Nov 2026 14:20:29 GMT",
-      "snippet": "Área de descanso de caminhoneiros será modernizada Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.426333+00:00"
-    },
-    {
-      "id": "1a33d508616bc5317f08c80e22b1d9b0b573f3749a14096d77f4406cd8068b70",
-      "title": "Prazo para regularizar pedágio eletrônico sem multa termina na segunda - Fala Matão",
-      "source": "Fala Matão",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlhlUnprbnVPSi1Kd0gxTGhlS1Z5MGt2dXQ2YWZmVjNRMHRSZ1NnTjZpdjFkUVBYTFFFUC1Cbk56Wjg3bVNUZ05SQjE4b3p0aENLSXF4MmZOWmIwVXJRWVo5OVZsTU5teC1pMERxUDlpREI4bDZVM1EydHZ6bVZGSEtVZFU3UHVlZGYtV3oyNE9QY1ZnaGxBZXU0d0g?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T12:39:31+00:00",
-      "published_raw": "Fri, 13 Nov 2026 12:39:31 GMT",
-      "snippet": "Prazo para regularizar pedágio eletrônico sem multa termina na segunda Fala Matão",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.425669+00:00"
-    },
-    {
-      "id": "d734ba415eb23cf6615f5bce57fc772fb3c050557d504bfbf8b31f7a1972ce00",
-      "title": "‘Free Flow’: EcoRodovias usa IA para ler placas no pedágio sem cancela, mesmo com chuva e neblina - Exame",
-      "source": "Exame",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDFyTHlQRTdMZEJLMXJGWUhLeDlzbW83RzhaVTZQa2twQUVFNjBtMGhkSm5Ya1lHVHFtektfMWVYRnctZF9EUG9PN0FNWHFZNGN2VXFrNldaSWRGSm4zc3N1UVdsODdYSW1MdHlLbHRLYmpFeXMtNkdTYUNremhwT0tHbXpGWGx2M0E?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T12:04:16+00:00",
-      "published_raw": "Fri, 13 Nov 2026 12:04:16 GMT",
-      "snippet": "‘Free Flow’: EcoRodovias usa IA para ler placas no pedágio sem cancela, mesmo com chuva e neblina Exame",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:44.013311+00:00"
-    },
-    {
-      "id": "d795996111a6ef9b4b3da1b55acb44b05a404b902473c68437a7f93b3820d950",
-      "title": "Área de descanso para caminhoneiros na Washington Luís ficará fechada por seis meses em Uchoa - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXVYQUhBN1lNaURVU2M5UjJCaFdveFB4c1NPYzA2N1prd0t1dnNodkRGTVo2WkpySXgyeVB4cEFkbWsyRnkxbDlUR1JwdjFJODRmWUxLb0ZNRVVoYjFXNlluZEpWTTYydmRBcERUTVZyTlZHZUVPN0ZSYm93SmRFa3FhSmtuaGM3djByVTRkMW14TFo2M3dZb1pvM3NRU1d1NjFLWGlpcGFTUjBwMHFQZmNzZ0pDVU1ZV19oR2U0bkRNWmtPRlhzRjhCdFczNmZOVzY40gHTAUFVX3lxTE4xdVhBSEE3WU1pRFVTYzlSMkJoV294UHhzU09jMDY3Wmt3S3V2c2h2REZNWjZaSnJJeDJ5UHhwQWRtazJGeTFsOVRHUnB2MUk4NGZZTEtvRk1FVWhiMVc2WW5kSlZNNjJ2ZEFwRFRNVnJOVkdlRU83RlJib3dKZEVrcWFKa25oYzd2MHJVNGQxbXhMWjYzd1lvWm8zc1FTV3U2MUtYaWlwYVNSMHAwcVBmY3NnSkNVTVlXX2hHZTRuRE1aa09GWHNGOEJ0VzM2Zk5XNjg?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T09:08:58+00:00",
-      "published_raw": "Fri, 13 Nov 2026 09:08:58 GMT",
-      "snippet": "Área de descanso para caminhoneiros na Washington Luís ficará fechada por seis meses em Uchoa Gazeta do Interior",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:57.695715+00:00"
-    },
-    {
-      "id": "7af3032af17fa79dc22b959fe239e5dd56adf73ec8ad7e3e937df5f7b627462f",
-      "title": "O Diário Interativo Online - O Diário Interativo",
-      "source": "O Diário Interativo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1hIYTd5QlNsMUFxOGNfSXRLY0dKNkp5WEJxbDZZUFJjbmFCWDQ0VUh2bnk3UmFXZk8zMkRZMWRkRVJKQmdZcU5tekpMRXpSUGUzcWQ0T1J4N3BmZERrVHFjQ2E0dzU0QVJxZnlIZkVNc3BFdHgyUnFLZl9RTDFzTllPQ3pIeHR0c1Z6VjFSbXJJTWxBU0ZFYlF5UTJuUFpfLW5ZREVuZlVWTkZ1?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T08:04:27+00:00",
-      "published_raw": "Fri, 13 Nov 2026 08:04:27 GMT",
-      "snippet": "O Diário Interativo Online O Diário Interativo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T04:40:43.425893+00:00"
+      "collected_at": "2026-11-14T12:39:53.204416+00:00"
     }
   ]
 }
