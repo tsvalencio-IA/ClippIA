@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13T21:08:43.639968+00:00",
+  "updated_at": "2026-11-14T03:55:40.322825+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 15,
+  "total": 12,
   "total_images": 0,
-  "new_items": 15,
+  "new_items": 12,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451333+00:00"
+      "collected_at": "2026-11-14T03:55:22.889571+00:00"
+    },
+    {
+      "id": "6f6852d657c7eac2dfb050ed099acf89068da6298e84145e7366ab14d8585076",
+      "title": "EcoRodovias supera meta com 113 carregadores gratuitos - Jornal de Uberaba",
+      "source": "Jornal de Uberaba",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEZEb2xxYUNBckFYYXZXVk5WYzZLNjB0RHdWTWhpS2x0NjEzVVFkNllKQXNYNnNiNEJJM0V1Wjk1OTRheTB0amRBMUwzUjl3d2YtN2lXVEFVcUU4dGxpZzFIX0JYMGV0WFB3Z3hDNV9MTXFvZ25nRjFqdUcyb0hYd3FQclhfMlZSOTBwbGw2TEpnR2JSbS1uZUs5enRvZm83UkduUkRVNWlvbHdI?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-13T18:06:00+00:00",
+      "published_raw": "Fri, 13 Nov 2026 18:06:00 GMT",
+      "snippet": "EcoRodovias supera meta com 113 carregadores gratuitos Jornal de Uberaba",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-14T03:55:22.889413+00:00"
     },
     {
       "id": "78dd83deacc4f240ceee2fcd66bd3a5a843703a7f3cff06363da898f9837d55c",
@@ -71,30 +88,13 @@
       "published": "2026-11-13T18:05:00+00:00",
       "published_raw": "Fri, 13 Nov 2026 18:05:00 GMT",
       "snippet": "EcoRodovias supera meta com 113 carregadores gratuitos REDE BRASIL DE TELEVISÃO",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "category": "free flow",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\"",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoRodovias%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:29.709292+00:00"
-    },
-    {
-      "id": "fbcbb5bcb9b69e88072b3ca44a0f69266dd2972450f08581502132037573f085",
-      "title": "EcoRodovias supera meta com 113 carregadores gratuitos - TV Brusque",
-      "source": "TV Brusque",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZk9JMlRBN0doZWhsZHQ5TkQxMDVwRm1fWUE0blBVaWdpVEo0d2doNWwyM2V0RUpnZFBGYXQtZmxDRFNWYWNheXhTYXBiMlB2b2JGbkI1RUVTQzZYZGJYaVN4aUlhSjd4dWEya2pLbkg1U1lEQk5DZUdxbW5JeURZQ1UxWmZWRGxEcWJDQXAwcll4bTBnbExKQ3VOZmxrbTZyRWZYSA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T18:05:00+00:00",
-      "published_raw": "Fri, 13 Nov 2026 18:05:00 GMT",
-      "snippet": "EcoRodovias supera meta com 113 carregadores gratuitos TV Brusque",
-      "term": "\"Free Flow\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-13T21:08:30.255231+00:00"
+      "collected_at": "2026-11-14T03:55:36.916523+00:00"
     },
     {
       "id": "275d1deb4af3f412f25be535383f8efd9166ab383cb2ef070d042dfd3b86c25d",
@@ -111,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451373+00:00"
-    },
-    {
-      "id": "0365362ccca40890b4c74073dd5ba73eafd6b28b02d5fc6fb50d7a328774b5d8",
-      "title": "EcoRodovias supera meta com 113 carregadores gratuitos - Portal UAI",
-      "source": "Portal UAI",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGNyTi1IWkNKVE0xSk1sa085TkRzb1hqZ0JLQXhfQmdPcTQzYVdoWmRub1lQS3NIM1hLaWNDSmkwQncySjlrcXF4bDVoV1BPM1Mxa0UxOGUxUGZRR0tQUFVXcVViVFZNaEJWZVFVZkt5bFJpb2pXbDY4WGlNV0s0UDNiVzZXWWE0UlQwM1RDZVpKaEFYalplbTlFTXBnSmhJRWtIN0JQd2lNUkpFOHFTMmpNN0oydnY3Z3Vxb3gtN01Na18ybnVTN3gxR0pQWW9DOEtJWWN3WlpSRUlSOHdYWVdjOF9pbDVqcVFWb09R?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T17:52:00+00:00",
-      "published_raw": "Fri, 13 Nov 2026 17:52:00 GMT",
-      "snippet": "EcoRodovias supera meta com 113 carregadores gratuitos Portal UAI",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451411+00:00"
+      "collected_at": "2026-11-14T03:55:22.889616+00:00"
     },
     {
       "id": "fc2ba6499d7c24d230061c0e5a8baee7d1f7765f33fb65a5321fefcc479e2c0e",
@@ -145,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:29.709250+00:00"
+      "collected_at": "2026-11-14T03:55:25.200710+00:00"
     },
     {
       "id": "457a5041e0f487b45949c822ffdf4263ff8c65ed74e7a84a0d85dbb126df3739",
@@ -162,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451253+00:00"
+      "collected_at": "2026-11-14T03:55:22.889519+00:00"
     },
     {
       "id": "d499384d2c635d36803e4ad1f98b0ace4bdc5930af8adc29a1955d8bc013b0f7",
@@ -179,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451542+00:00"
+      "collected_at": "2026-11-14T03:55:22.889763+00:00"
     },
     {
       "id": "e92defe92f878cf76c958d0a6d7888b836439d45ee21b2e495d937ddbefa1689",
@@ -196,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451454+00:00"
+      "collected_at": "2026-11-14T03:55:22.889662+00:00"
     },
     {
       "id": "1a33d508616bc5317f08c80e22b1d9b0b573f3749a14096d77f4406cd8068b70",
@@ -213,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451143+00:00"
+      "collected_at": "2026-11-14T03:55:22.889346+00:00"
     },
     {
       "id": "d734ba415eb23cf6615f5bce57fc772fb3c050557d504bfbf8b31f7a1972ce00",
@@ -230,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.997950+00:00"
+      "collected_at": "2026-11-14T03:55:23.439469+00:00"
     },
     {
       "id": "d795996111a6ef9b4b3da1b55acb44b05a404b902473c68437a7f93b3820d950",
@@ -247,7 +230,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451500+00:00"
+      "collected_at": "2026-11-14T03:55:22.889716+00:00"
     },
     {
       "id": "7af3032af17fa79dc22b959fe239e5dd56adf73ec8ad7e3e937df5f7b627462f",
@@ -264,41 +247,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451204+00:00"
-    },
-    {
-      "id": "5fc785ed41fad9f6bd981847b53e5e8db6b75f250b5298ab2f2ab93fa7d86ff9",
-      "title": "Prazo para regularizar pedágio eletrônico sem multa termina segunda - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1VmRlJpeGx4QWdYaXppR2x5dHp1MDJ5RW5kdHZpSFNjbDJyWThaMHZVTWF5Qk51QVBENTgtQ29DRVBwelRDZVFEZFJaWlhXTWZiSE51ajAtaFY4UW10Mm9EbkZxZi1hUTBrNnJMNG80OXJ3cVQ0YjRNMmJyWlRFbExTMG9kSEp6WG5FZzNzY09fckxfX1hkc2RXSG1EQU53dVZVd0NYUXJ2SWZ2VVE?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T02:41:59+00:00",
-      "published_raw": "Fri, 13 Nov 2026 02:41:59 GMT",
-      "snippet": "Prazo para regularizar pedágio eletrônico sem multa termina segunda Araraquara Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-13T21:08:27.451288+00:00"
-    },
-    {
-      "id": "46082d6308748589ff2b75ea47f24d01dd0c6b2c1aa915f40bf8e6ea296dbc38",
-      "title": "BYD estreia na Fenatran com caminhões elétricos e bateria Blade - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PQ1h3QWVjWThubkFBSGgzM2l0LU9tcFZGTENnR0Mxb2R2aC1MMkstQTZzbUh1RXo0UWZUVVNHU0k5dzczcnZyeUU5N3lZclFzWkN0b0JZRWFCWUlBangyVzZ6dDF2dTZtWTREcFA3QWJxMDduLUpSalBlNk44dnM?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T00:21:26+00:00",
-      "published_raw": "Fri, 13 Nov 2026 00:21:26 GMT",
-      "snippet": "BYD estreia na Fenatran com caminhões elétricos e bateria Blade Mobilidade Sampa",
-      "term": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-13T21:08:32.388734+00:00"
+      "collected_at": "2026-11-14T03:55:22.889465+00:00"
     }
   ]
 }
