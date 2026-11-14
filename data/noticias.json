@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T19:33:02.900122+00:00",
+  "updated_at": "2026-11-14T19:40:03.560061+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 10,
+  "total": 9,
   "total_images": 0,
-  "new_items": 10,
+  "new_items": 9,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:48.810435+00:00"
+      "collected_at": "2026-11-14T19:39:48.418893+00:00"
     },
     {
       "id": "7cfa051ea48d18c8b66ff26a6d2922aa7a654f5a3aa2fab59756331e9b7ae465",
@@ -77,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206545+00:00"
+      "collected_at": "2026-11-14T19:39:46.699947+00:00"
     },
     {
       "id": "4976f2e771130fbc63792a9334264f8d090972e4f269e256c44a0b39043dee60",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206368+00:00"
+      "collected_at": "2026-11-14T19:39:46.699864+00:00"
     },
     {
       "id": "77481158ed5cc35151f747bbd63c94c62e9127b153135ddc0d5c52009b2cc261",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206299+00:00"
+      "collected_at": "2026-11-14T19:39:46.699818+00:00"
     },
     {
       "id": "1173bfe5ebe9c37be4e7362be7fdd91b7d93d2a87d8e3333c36d96ba0e442838",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:48.810070+00:00"
+      "collected_at": "2026-11-14T19:39:48.418635+00:00"
     },
     {
       "id": "5a79b07831578dbd991e77cf906c748b31a0f7b7d446d79fe7f9eb3fd1718850",
@@ -145,7 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206154+00:00"
+      "collected_at": "2026-11-14T19:39:46.699716+00:00"
     },
     {
       "id": "071c27baa39fd1e305ca34f41c52f04912928575e855afaa502a35f0d14b6353",
@@ -162,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206481+00:00"
+      "collected_at": "2026-11-14T19:39:46.699906+00:00"
     },
     {
       "id": "53f4ef625adc33ba32a9328b5c5725a2f8e60abdc7812e91a9a631b619add4f1",
@@ -179,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206069+00:00"
+      "collected_at": "2026-11-14T19:39:46.699654+00:00"
     },
     {
       "id": "a0adf2f9c56081dccdf6d9534c889e47de3ed700579505f2f4719a2aac170484",
@@ -190,30 +190,13 @@
       "published": "2026-11-14T08:41:18+00:00",
       "published_raw": "Sat, 14 Nov 2026 08:41:18 GMT",
       "snippet": "EcoRodovias oferece 113 carregadores gratuitos nas rodovias Real News",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206226+00:00"
-    },
-    {
-      "id": "7e4a22b8f7f627841eafbf4e91864faa3708b081beb60a311b9395ff4955a70e",
-      "title": "Retorno no trevo de Cedral é liberado para motoristas que vêm de Potirendaba - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamFablZuWTk3bFdCUS1MRVItMHJLcTVMNmNqem5TdVEtWmZWblJNZFVvNzVVVjFGMUxwV1VLd2l6RzBMNEd6SU5pczVBdE5GUUJYeGJXOFdPeVhEOWtJbldMY0E3VFE2RWVUTnJYUFJaZ2UxNTNwalJRNUExM2JvS0oyYm5XRzhqS093M0JWQ051MW5MNDFQNlQ4bzRTWFRfU3gwc3daYUJrcWU0MzZVTDVTZU4?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-13T19:34:34+00:00",
-      "published_raw": "Fri, 13 Nov 2026 19:34:34 GMT",
-      "snippet": "Retorno no trevo de Cedral é liberado para motoristas que vêm de Potirendaba Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-14T19:32:47.206618+00:00"
+      "collected_at": "2026-11-14T19:39:46.699765+00:00"
     }
   ]
 }
