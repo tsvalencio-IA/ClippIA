@@ -1,37 +1,49 @@
 {
-  "updated_at": "2026-11-17T05:35:28.718543+00:00",
+  "updated_at": "2026-11-17T06:14:10.239216+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 14,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 14,
   "errors": [
+    {
+      "termo": "\"Ecovias Noroeste Paulista\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"EcoNoroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
     {
       "termo": "\"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
+      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"Ecovias Noroeste\" multa",
+      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"Ecovias Noroeste\" trânsito",
+      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
       "erro": "HTTP Error 429: Too Many Requests"
     },
     {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "termo": "\"Ecovias Noroeste\" DUF",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" interdição",
       "erro": "HTTP Error 429: Too Many Requests"
     }
   ],
@@ -83,13 +95,13 @@
       "published": "2026-11-16T22:23:00+00:00",
       "published_raw": "Mon, 16 Nov 2026 22:23:00 GMT",
       "snippet": "Radar com IA expõe R$ 1,45 milhão em multas estimadas na Washington Luís Economic News Brasil",
-      "term": "\"Ecovias Noroeste Paulista\"",
+      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899562+00:00"
+      "collected_at": "2026-11-17T06:14:01.929272+00:00"
     },
     {
       "id": "94d6c43b2434bfc155d3fab83e20ae7ecec2442cce246d047f58d037a3d41ec4",
@@ -100,13 +112,13 @@
       "published": "2026-11-16T21:57:59+00:00",
       "published_raw": "Mon, 16 Nov 2026 21:57:59 GMT",
       "snippet": "Prazo para pagar pedágios Free Flow sem multa termina nesta segunda-feira CBN Ribeirão",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" multa | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:14.867090+00:00"
+      "collected_at": "2026-11-17T06:13:56.515766+00:00"
     },
     {
       "id": "826673b0d4240e9daa62ebcd8bea776daa49c8b2c52c62e66f6c5cd4a7f88fd6",
@@ -117,13 +129,13 @@
       "published": "2026-11-16T21:04:57+00:00",
       "published_raw": "Mon, 16 Nov 2026 21:04:57 GMT",
       "snippet": "Prazo para regularizar tarifas do Pedágio Eletrônico termina hoje (16) O Extra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" tarifa | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899422+00:00"
+      "collected_at": "2026-11-17T06:13:59.021277+00:00"
     },
     {
       "id": "3d5d8ff7c9b174c4df02616f60bf18993a211f1961847cd0bf94716604af01ae",
@@ -134,13 +146,13 @@
       "published": "2026-11-16T19:30:55+00:00",
       "published_raw": "Mon, 16 Nov 2026 19:30:55 GMT",
       "snippet": "Ecovias Noroeste Paulista informa o cronograma, de 16/11 a 22/11/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899314+00:00"
+      "collected_at": "2026-11-17T06:14:04.237072+00:00"
     },
     {
       "id": "a38bcadda3b6bc2e285151c43b5185d0eef0f967934e32c2d24c9b5b0b1bd60c",
@@ -151,13 +163,30 @@
       "published": "2026-11-16T19:00:00+00:00",
       "published_raw": "Mon, 16 Nov 2026 19:00:00 GMT",
       "snippet": "Prazo para pagar pedágio free flow atrasado sem multa termina nesta segunda AutoPapo",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "term": "\"Econoroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Econoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:13.426032+00:00"
+      "collected_at": "2026-11-17T06:13:55.401544+00:00"
+    },
+    {
+      "id": "ab0ea2b35f62b3985dd73c8255b60f914b9ff687e8cd7c03cb5009ef7a72ec8d",
+      "title": "Rodovias do Noroeste Paulista terão diversas obras esta semana - Estradas",
+      "source": "Estradas",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclk1RF9tYVlmNXZrWEswY3VhV1B5NVE2SHFucENGUG9rRlBNVDhILS05a2s1ZDRBTmRLWmZJRXlTV2FGYi1wb19PQU1HRWFWSDNwVjJtbWphWWlwd3RNc0oxLVZmX1I5SERDNG1oRnVNVnVvYjcxSjNRWXJtUXFqRVFhbDI1RUk5QVJiNHpRWGE?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-16T18:36:41+00:00",
+      "published_raw": "Mon, 16 Nov 2026 18:36:41 GMT",
+      "snippet": "Rodovias do Noroeste Paulista terão diversas obras esta semana Estradas",
+      "term": "\"Ecovias Noroeste\" trânsito",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-17T06:14:05.694321+00:00"
     },
     {
       "id": "c1413af5602f4a43d15bc9f02321e1d1a0551f820301f794be0692fb7efc192f",
@@ -168,13 +197,13 @@
       "published": "2026-11-16T18:07:59+00:00",
       "published_raw": "Mon, 16 Nov 2026 18:07:59 GMT",
       "snippet": "Motoristas que não pagarem tarifa do pedágio free flow vão ser multados a partir desta segunda-feira BNews SP",
-      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"EcoRodovias\" \"Ecovias Noroeste\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:14.867230+00:00"
+      "collected_at": "2026-11-17T06:13:56.515863+00:00"
     },
     {
       "id": "2700ecdbbd7675a76f7520842b518b3e17d0185bc526ae55bc60328c6a6dc754",
@@ -185,13 +214,13 @@
       "published": "2026-11-16T16:09:58+00:00",
       "published_raw": "Mon, 16 Nov 2026 16:09:58 GMT",
       "snippet": "Free flow: prazo para pagar pedágio atrasado termina nesta segunda (16) melhorinvestimento.net",
-      "term": "\"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:15.450714+00:00"
+      "collected_at": "2026-11-17T06:13:59.021458+00:00"
     },
     {
       "id": "1bc1c433fefca7e6251cb68ad444e9b2bec7d05a6383dd03e51e6fddd15065b8",
@@ -202,13 +231,13 @@
       "published": "2026-11-16T14:48:00+00:00",
       "published_raw": "Mon, 16 Nov 2026 14:48:00 GMT",
       "snippet": "Obras na Washington Luís seguem entre Mirassol e Rio Preto até sábado Portal da Cidade - Mirassol / SP",
-      "term": "\"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:23.547648+00:00"
+      "collected_at": "2026-11-17T06:14:04.237197+00:00"
     },
     {
       "id": "8e306a32d0ff0edffac28b0324ff243d0e17a61fed377c8ffaeb39d54dc304b5",
@@ -219,13 +248,13 @@
       "published": "2026-11-16T14:35:38+00:00",
       "published_raw": "Mon, 16 Nov 2026 14:35:38 GMT",
       "snippet": "Obras na Washington Luís em São Carlos interditam acessos nesta semana - São Carlos em Rede São Carlos em Rede",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899667+00:00"
+      "collected_at": "2026-11-17T06:14:04.237140+00:00"
     },
     {
       "id": "7b8beadbd693edc9a64a70de5e6636ee0ba34d4893184ff3b8c5c3cc9f6833f4",
@@ -236,13 +265,13 @@
       "published": "2026-11-16T14:16:11+00:00",
       "published_raw": "Mon, 16 Nov 2026 14:16:11 GMT",
       "snippet": "Motoristas têm até este domingo para regularizar débitos do pedágio eletrônico sem multa CBN Ribeirão",
-      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" multa | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:14.867163+00:00"
+      "collected_at": "2026-11-17T06:13:56.515817+00:00"
     },
     {
       "id": "7e2d6f261a6debe2668fe7842c3b75fb6df77b07a10d2f9972969c12996e968d",
@@ -253,13 +282,13 @@
       "published": "2026-11-16T13:45:20+00:00",
       "published_raw": "Mon, 16 Nov 2026 13:45:20 GMT",
       "snippet": "Radar com IA multa mais de 6,6 mil motoristas no 1º mês de funcionamento na Washington Luís Portal Regional",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899762+00:00"
+      "collected_at": "2026-11-17T06:14:01.929447+00:00"
     },
     {
       "id": "f0ba4515a581a530d79a7083bed3c80eafd91c1484652c8c7fe1c933fdc999c4",
@@ -270,13 +299,13 @@
       "published": "2026-11-16T12:44:48+00:00",
       "published_raw": "Mon, 16 Nov 2026 12:44:48 GMT",
       "snippet": "Free flow: prazo para pagar pedágio atrasado acaba hoje; veja como quitar e evitar multa Primeira Hora",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Free Flow\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Free%20Flow%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:15.450500+00:00"
+      "collected_at": "2026-11-17T06:13:59.021320+00:00"
     },
     {
       "id": "df0cb135d3898626531cc5625579b43a9a9df149414c98e49017276a010f074d",
@@ -287,13 +316,13 @@
       "published": "2026-11-16T12:10:00+00:00",
       "published_raw": "Mon, 16 Nov 2026 12:10:00 GMT",
       "snippet": "Radar com IA flagra quase 6,7 mil infrações no primeiro mês de operação na Washington Luís Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" multa | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "pedágio",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20multa%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-17T05:35:12.899844+00:00"
+      "collected_at": "2026-11-17T06:14:01.929580+00:00"
     }
   ]
 }
