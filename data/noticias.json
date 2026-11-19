@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18T19:52:53.464865+00:00",
+  "updated_at": "2026-11-19T02:06:34.661617+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 13,
+  "total": 16,
   "total_images": 0,
-  "new_items": 13,
+  "new_items": 16,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,74 @@
   ],
   "items": [
     {
+      "id": "86fe31a49fbed62f6e8de832565367c82d6fdb278cc2546acb74f5dbcefeac47",
+      "title": "Defesa Civil monitora condições meteorológicas em todo o estado e envia 17 alertas à população - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWlwTVZuMDVTYmpFYWpkTjRqTGFCcTBGeVhORm92Y0YxeFZOSHVGQVYySzllOXlMN3FvMTZQUmRfT05pSlEwZG5EV0RyT2dTdGpLaWpkN20zZlFubm1JclQ3R3lucGJPZ0FlQzZMMGlCSW9jMUNhZVJ6U2RzcE12VXNMUnhhUUdkdUdETFV2TGxQZTc5MmhZUFdPVC1VUUhlQWxWS0RmLXdUUExYMmtwMFNMYVFQQi1kazlKdDAxYVFuT015?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T20:55:05+00:00",
+      "published_raw": "Wed, 18 Nov 2026 20:55:05 GMT",
+      "snippet": "Defesa Civil monitora condições meteorológicas em todo o estado e envia 17 alertas à população Portal SCDN - Porque a informação não para!",
+      "term": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:22.257993+00:00"
+    },
+    {
+      "id": "49c57c690d8f4c8d7600c94ad09af50ef0f2b1df985fa2ee4a4205d20cc77282",
+      "title": "Obras interditam acesso no km 236 da SP-310 entre Jockey Clube e Jardim Paulistano - portaldacidade.com",
+      "source": "portaldacidade.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0hmTnJBTWFZUlhzVlJRRDhHM1R4bVlmNkFjZnI4NXBoUTU2Q1NHRlR0WWZCSUtVMlZ0U0lCSGI0MF9WTUxZU0YxUnR2ckN5TXgtVFVVUHhHTDhOaWw0MHJQZkdaa2p2YWlZRExlWmRpWEFMelRUc3V0QU1FUTdDNFJid1QxNTJPNjZ1V01TU1ltc0gyQm1BZWtaSkFCeTl0MzFpMnRaQUZWb0FQOU83ZlJ6QzRpVTlLR29DeUIyQ3plZzZnT2JYcVBIZng2cWNwcTlFVTB2NA?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T20:49:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 20:49:00 GMT",
+      "snippet": "Obras interditam acesso no km 236 da SP-310 entre Jockey Clube e Jardim Paulistano portaldacidade.com",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:16.882938+00:00"
+    },
+    {
+      "id": "ca3730d209fd3d71bd12bce41cca0654be3b653ca0c050fbaa52576d91988ded",
+      "title": "Festival reúne 11 bandas e celebra 20 anos de produtora independente em São Carlos - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkVvdUJ4ekp0NExybFZLSXFPY0U2MFZzc2NkYm8zUDN6NXQ3RXByZ3hJUWp3dlRfdXpmN1VhaGxxVF8tRHB6cHFOYTA2Yl9LZEw3Nl9PdF9kaVpDdHV1c01wSmtoUms2b3l3bFFXUHRtRzk3RUVIbVI0WGxjN2xIeXZraEM0TXk2Q1ZwQXJwczhyUW1JczRmc3ZxczF5eXRjQUg1QWtnc19PeTJLU3A1MUxoeUFyRnPSAbcBQVVfeXFMTzZFb3VCeHpKdDRMcmxWS0lxT2NFNjBWc3NjZGJvM1AzejV0N0Vwcmd4SVFqd3ZUX3V6ZjdVYWhscVRfLURwenBxTmEwNmJfS2RMNzZfT3RfZGlaQ3R1dXNNcEpraFJrNm95d2xRV1B0bUc5N0VFSG1SNFhsYzdsSHl2a2hDNE15NkNWcEFycHM4clFtSXM0ZnN2cXMxeXl0Y0FINUFrZ3NfT3kyS1NwNTFMaHlBckZz?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T19:16:53+00:00",
+      "published_raw": "Wed, 18 Nov 2026 19:16:53 GMT",
+      "snippet": "Festival reúne 11 bandas e celebra 20 anos de produtora independente em São Carlos - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:28.895617+00:00"
+    },
+    {
+      "id": "3c97a17ff79d69cccc72f7b0ad7fe11b8f88814fb71242da2ce6db635f6fa9f0",
+      "title": "Viaduto do Jockey Clube terá interdição de acesso e operação Pare e Siga - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGF6Q1FZbktBZ2NOREhLSjB3clY4Z0ZUMVpyY3ZHZWhINi1YSGJXTXBLZkJxdEgzSW9GcGduUnlyOWhJUXB0UEdnbUd2cG1QTFR2SzdaVUg3Snk1WEQ4WFY2SnZ2NjJQbk9IMDlsYnVtY0pvVlhVYkdoVVc3TFVIRFY3dFQwZ2hmMW1HUzJxNXp4ZTVNQ1B1SFU0RmtSdUpYTmpINEF2WTJjc0FtcE5wV1VR?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T19:07:33+00:00",
+      "published_raw": "Wed, 18 Nov 2026 19:07:33 GMT",
+      "snippet": "Viaduto do Jockey Clube terá interdição de acesso e operação Pare e Siga Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:28.895493+00:00"
+    },
+    {
       "id": "15dd7ba5ca8f5a29285e5499222cb502d02b7ac54ae55a0f93c86e6afe56d6e5",
       "title": "Pedágio free flow na Anchieta-Imigrantes começa em 1º de dezembro - Juicy Santos",
       "source": "Juicy Santos",
@@ -60,7 +128,41 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:39.551427+00:00"
+      "collected_at": "2026-11-19T02:06:19.250270+00:00"
+    },
+    {
+      "id": "c68a77dd297bc43bb14f07ffb4c330404722980159ca9e42eb849c4c113ea632",
+      "title": "Washington Luís: obras interditam acesso entre Jockey Clube e Jardim Paulistano - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd195RkYwWkV5V3N2RDhkd25JVGF0QnNBdGFvNVNhWXlldWM0eVJSMnUyazVMME5OeXNRQkxSNnlKV09iWjYtVm42NEsydWtoQ1JxTmtMN3NaNFY4bTVtbk0zZTIzMkpwZDczZDdPOTR4N1lkb1BuT190bWVvcHpQNU1CeHhkcXpGSnZXTWRIWHBsdDJnQlBmeERlZ1ByMnNn0gGgAUFVX3lxTE93X3lGRjBaRXlXc3ZEOGR3bklUYXRCc0F0YW81U2FZeWV1YzR5UlIydTJrNUwwTk55c1FCTFI2eUpXT2JaNi1WbjY0SzJ1a2hDUnFOa0w3c1o0VjhtNW1uTTNlMjMySnBkNzNkN085NHg3WWRvUG5PX3RtZW9welA1TUJ4eGRxekZKdldNZEhYcGx0MmdCUGZ4RGVnUHIyc2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T17:54:51+00:00",
+      "published_raw": "Wed, 18 Nov 2026 17:54:51 GMT",
+      "snippet": "Washington Luís: obras interditam acesso entre Jockey Clube e Jardim Paulistano - São Carlos em Rede São Carlos em Rede",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:16.883264+00:00"
+    },
+    {
+      "id": "550a227577c4b407e427d1c03c4a234e40b4d40c227714583cf4827e9d7c0faa",
+      "title": "Anitta surpreende e vira médica que dá conselhos íntimos em GTA 6; entenda participação - São Carlos no Toque - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWgzM29rbTJ3MjI1Q3YwX3pwZGNyWkdXeXdRSFBpdHZvSzFSampBcmV3cW9uOTB1ckg5QjZLSWhfZnVnSlE0TkhTU1BlNllHeUx5TjBKWEdzUGE5NGJaTGw2ZWJxbWlzVVcwcUNFdElvdzJRWGN3djFzbDNVWERUeGZGeGk1U2MzZUJadHNXNFVHemtLMndRQ0M5NF9ZVUVvVHl3MnRVSHF6djMwWncwemw0b0FtbGt3SWNrb9IBvAFBVV95cUxPYWgzM29rbTJ3MjI1Q3YwX3pwZGNyWkdXeXdRSFBpdHZvSzFSampBcmV3cW9uOTB1ckg5QjZLSWhfZnVnSlE0TkhTU1BlNllHeUx5TjBKWEdzUGE5NGJaTGw2ZWJxbWlzVVcwcUNFdElvdzJRWGN3djFzbDNVWERUeGZGeGk1U2MzZUJadHNXNFVHemtLMndRQ0M5NF9ZVUVvVHl3MnRVSHF6djMwWncwemw0b0FtbGt3SWNrbw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T17:49:24+00:00",
+      "published_raw": "Wed, 18 Nov 2026 17:49:24 GMT",
+      "snippet": "Anitta surpreende e vira médica que dá conselhos íntimos em GTA 6; entenda participação - São Carlos no Toque São Carlos no Toque",
+      "term": "\"Ecovias Noroeste\" interdição",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20interdi%C3%A7%C3%A3o%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:28.895560+00:00"
     },
     {
       "id": "00d3d3708bc9e47bcd530fdfa09fcc721f2d791dd5ee681c9b88263d0b64d276",
@@ -77,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:47.589122+00:00"
+      "collected_at": "2026-11-19T02:06:28.281400+00:00"
     },
     {
       "id": "aae1a299f0f730671d1bf2d769d3a7705ec78cb88b4e0a8e1464a2816d5950c6",
@@ -94,7 +196,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20%22Free%20Flow%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:39.551512+00:00"
+      "collected_at": "2026-11-19T02:06:19.250324+00:00"
+    },
+    {
+      "id": "fc4d0042c49a8b8133de0510bd5c3cc36d09df15476ff2c292763d28b9aae2b4",
+      "title": "Mais de 90 mil veículos devem passar pela região de Rio Preto - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU05eDhob1g0WkpWbTBMU0pyVUpXZEh1NXgtN05tZFZoNVk3VjZnQmI2QmZCMHZ4eG1Ub1htazlDRFZKMFhZZEhSLW9UaUZydFRvVkktcDkycWJqbnlPbmhJalRfbEVubWxyRXZ3cWF1Y0hkS2lfRV96SVZ5ejd3ZlY3dUhpWVN0NnJ4elg3WXluUWFwdzEwQnB1Z0pMZndhZkhxWEtvTXh3TXc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-18T15:21:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 15:21:00 GMT",
+      "snippet": "Mais de 90 mil veículos devem passar pela região de Rio Preto Dhoje Interior",
+      "term": "\"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-19T02:06:28.281253+00:00"
     },
     {
       "id": "d783460b465d092e6e10e8bace8418517bca136ec24595d045a0574ca516aff5",
@@ -105,13 +224,13 @@
       "published": "2026-11-18T13:42:19+00:00",
       "published_raw": "Wed, 18 Nov 2026 13:42:19 GMT",
       "snippet": "Obra interdita faixa da Washington Luís entre Rio Preto e Cedral Gazeta do Interior",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:47.589046+00:00"
+      "collected_at": "2026-11-19T02:06:28.281352+00:00"
     },
     {
       "id": "8bbbb0a57b6a8d089d38fc43decfae374595d948453fb0c8553b464592cc4ceb",
@@ -122,13 +241,13 @@
       "published": "2026-11-18T05:54:41+00:00",
       "published_raw": "Wed, 18 Nov 2026 05:54:41 GMT",
       "snippet": "Ecovias Noroeste Paulista prevê a circulação de 574 mil veículos durante o feriado da Consciência Negra - São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.351493+00:00"
+      "collected_at": "2026-11-19T02:06:16.882871+00:00"
     },
     {
       "id": "1b4e4270d5763ec8879841d0d1605927f32c7e88cfe35800de631c6daf09198e",
@@ -145,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.352182+00:00"
+      "collected_at": "2026-11-19T02:06:16.883156+00:00"
     },
     {
       "id": "aaed423fee475a2256c443ca56b14a9d4a8e8fc134b29895d26018aed69fb1ee",
@@ -162,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.351833+00:00"
+      "collected_at": "2026-11-19T02:06:16.883002+00:00"
     },
     {
       "id": "d2c1ef88aa3e61ded77ec70f790936877383f123458c30aa067d9fdf78a8f72a",
@@ -179,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.352359+00:00"
+      "collected_at": "2026-11-19T02:06:16.883213+00:00"
     },
     {
       "id": "8a2345af8e7fcdb143c9ba0dcd64b416a50bc2b59999a4bd1db762d1ef8b4a77",
@@ -196,75 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.352013+00:00"
-    },
-    {
-      "id": "0f15aebec3c06f40cb6d91da85b7a3b1108d121292e6a929fb86d9edadbad117",
-      "title": "Washington Luís deve receber 90 mil veículos na região de Rio Preto no feriado de 20/11 - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeVl4S2hob1RWdWRTY0dZSXNvNFNKVkEtTy11bGl0U0ZsekZBalUxemVVd1o2cG1qc19PWHhIRFEzdy1xMU9OZXhReUlrSlR0WjE3bGFjaG9XWmFuV2VNdlNDSHZKRVJjMjFZdHlwNC1wQ1JsWGF2cWtSM2szc2tCZEFfRGhZWUNwY09tYWNNcXlvcW9CWi1qeXFpODFGODFhd2U4eTM4VTlCS2xLLUZQcktKVXM5b2NxRE02UVNhZnUxdE1xRkRaeldIVdIBywFBVV95cUxOeVl4S2hob1RWdWRTY0dZSXNvNFNKVkEtTy11bGl0U0ZsekZBalUxemVVd1o2cG1qc19PWHhIRFEzdy1xMU9OZXhReUlrSlR0WjE3bGFjaG9XWmFuV2VNdlNDSHZKRVJjMjFZdHlwNC1wQ1JsWGF2cWtSM2szc2tCZEFfRGhZWUNwY09tYWNNcXlvcW9CWi1qeXFpODFGODFhd2U4eTM4VTlCS2xLLUZQcktKVXM5b2NxRE02UVNhZnUxdE1xRkRaeldIVQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-17T22:36:48+00:00",
-      "published_raw": "Tue, 17 Nov 2026 22:36:48 GMT",
-      "snippet": "Washington Luís deve receber 90 mil veículos na região de Rio Preto no feriado de 20/11 Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.352506+00:00"
-    },
-    {
-      "id": "d2fc0a0a8b354d6ab0322fff3c2ad8a7b088b0592693092c6bb2319bb9a586c9",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - O Extra.net",
-      "source": "O Extra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUZOXzY5UHc3aEdSQUNqYVJiRmRsYWdSSHFEYnJ2Y2syQTAyZXpnTGpkRHhHWEFwN0hfeUxRX0QzbkxxanRBUU04OFIwYkhfeEYyMXktRU1CdFRONjFuR3VZYi1fc29nV3ZXVGg4Szc2UVNsMFdzUDVHcHhNWlJtSk8wT0psbFZtLWRMdDFyYlgyUGhW?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-17T21:03:24+00:00",
-      "published_raw": "Tue, 17 Nov 2026 21:03:24 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana O Extra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-18T19:52:37.351664+00:00"
-    },
-    {
-      "id": "5a37cc6fd2f0d59e9f28ea5cbdf99a8395fc491c978f74125813918d54d38e74",
-      "title": "SP-255 deve ter 209 mil veículos no feriado da Consciência Negra - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbklkNzU2anpwQzRKeXhidW4wYzJQcTNvaXgwYjBTLTFkY0NOUWZQRHdBZ1RiampBV3lJQ3ZWQjBxVnBFVFRGN2xrOFFEaVJESGdqcXI4M1NEOXowcVUwTDVWQUtTYmtabHR0bW9vYUozS3dmWXg5VkNjM3liYlBJRXJWVDF3ZEpZYV9HMkl4WDRsZnl5Wmd2WHNXcnM4OUZDUEpMTmNLVVdjQQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-17T20:48:45+00:00",
-      "published_raw": "Tue, 17 Nov 2026 20:48:45 GMT",
-      "snippet": "SP-255 deve ter 209 mil veículos no feriado da Consciência Negra Araraquara Agora",
-      "term": "\"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-18T19:52:50.899500+00:00"
-    },
-    {
-      "id": "3c30d40f440aab30964e6dcb96e2188b0bc3d4622d7e1360fa0713044a31ff38",
-      "title": "Ecovias prevê a circulação de 574 mil veículos no feriado - A Comarca — Matão/SP",
-      "source": "A Comarca — Matão/SP",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU01QY2hYajJxVWZDUUxySllYU0JMMjhDV3FjbXhxNjZ2RzZETXN4SEV0eEhrRkk2d1diNGliWlpRakFRenF5R2RNejNYYUVhRENFTjJxR19fV0V6RUU1SUFrV1VxUDNzTG1INUZpaWRHUDVYM0xoX3B5RWRHaDZyVXFXcmFxcDVjS29sc1RfOWp2OFpzTE1ZTWFpc09TclBGaE5tdFFyb3g2MFE?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-17T20:30:00+00:00",
-      "published_raw": "Tue, 17 Nov 2026 20:30:00 GMT",
-      "snippet": "Ecovias prevê a circulação de 574 mil veículos no feriado A Comarca — Matão/SP",
-      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-18T19:52:48.709785+00:00"
+      "collected_at": "2026-11-19T02:06:16.883061+00:00"
     }
   ]
 }
