@@ -1,16 +1,11 @@
 {
-  "updated_at": "2026-11-20T10:51:03.430035+00:00",
+  "updated_at": "2026-11-20T19:22:23.536121+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 12,
+  "total": 10,
   "total_images": 0,
-  "new_items": 12,
-  "errors": [
-    {
-      "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "new_items": 10,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -51,6 +46,74 @@
   ],
   "items": [
     {
+      "id": "6e477c7f9323cc3ca04b7b29d828974e70be6fb9e2716c9e0c0bf0f284a0906c",
+      "title": "Ecovias registra capotamento sem vítimas na Washington Luís em Rio Preto - Dhoje Interior",
+      "source": "Dhoje Interior",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2hyOUtjTm56MnJ2RU5oRXZuM3pZZHM1ZVB5b2dQTUZPNmQ1eElqaDFLX1hCUTdpUGhmaEs2SXNQdzgzbFVnZ1ZtU2FWMmR4ckFRRlZya0puLXhTMTQzVTNDS3FQYkEyU2FEZ3hWOWRDREtpRHYxNmI5M2pyRkZqMzk3VWV4aExhbF81ZDM4ZWhzdUFNTE13UWNDOVl6MEpsOUk2akFSU3FheFRjMEc4VFFRdW9EMnhJdXc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-20T14:35:53+00:00",
+      "published_raw": "Fri, 20 Nov 2026 14:35:53 GMT",
+      "snippet": "Ecovias registra capotamento sem vítimas na Washington Luís em Rio Preto Dhoje Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-20T19:22:04.360906+00:00"
+    },
+    {
+      "id": "7bf5a9419362d3dbd723ea50cd4e4cdfa9825a6c3634e85c401f5f8fbdfbc0a1",
+      "title": "Carro capota na Washington Luís em Rio Preto - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGdFQnZYdU9QNzNBdkNQbGVlYnhKc2theGRIaFNkbW5BT01mb1lTekNFUjFiVTJXaEdZMW1WSkl6bi1haGlnaFNvR1d1R3RHV09jbWlhSVltelpqT3ZKVlhONExPN0U1U2dqVVdCUk9PVEZSbzVzWTFuM2s3QTJuZUZHRWlfY2hDVGc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-20T14:04:41+00:00",
+      "published_raw": "Fri, 20 Nov 2026 14:04:41 GMT",
+      "snippet": "Carro capota na Washington Luís em Rio Preto Gazeta do Interior",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-20T19:22:06.039833+00:00"
+    },
+    {
+      "id": "0ae097082d9d2f68fc59a066b14d240e65ac435277ecb9b482cd2fd9abbd62bf",
+      "title": "Motociclista morre após ser atingido por caminhão na rodovia - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFlEVlkxeUhxQXdCMFR2Y19ZOG81anVxZzlYS1Nvei1VbmtnLU5qV2lqVXRsa3drckc5QUNpV3VlWllDeGcwRS02Ri1hNkUwZmNsNFdWMXkyRUU3MHl0T1ROSENlSnBwNFFGOW8wa216Sm1rZDk4QThlaTVJMlBtWVBsX1dra05zZVVJczg1M0ZNQQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-20T13:22:00+00:00",
+      "published_raw": "Fri, 20 Nov 2026 13:22:00 GMT",
+      "snippet": "Motociclista morre após ser atingido por caminhão na rodovia Araraquara Agora",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-326\" \"Ecovias Noroeste\"",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-20T19:22:06.039786+00:00"
+    },
+    {
+      "id": "34dcd1b2bdda03422d27ed7794d0852116fa0b0f09d81a43e01208dd8dbe1792",
+      "title": "Tarifas de pedágio da Arteris ViaPaulista serão atualizadas pelo IPCA a partir de segunda-feira (23) - Portal SCDN - Porque a informação não para!",
+      "source": "Portal SCDN - Porque a informação não para!",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcjI3ZHlzdFYxWjZETmxqckhXTXpzRnh6anQ3YkFWUWhTcEEtcS1rbk9SSnhaZlBjb0gxbWNJU2hNNnVJa215TS1EN1pidlgyOXdiTkttTlJ0WEI3eUdyREo4Z2pQYUhieklDcTBNVU1nTEF2d0JQZlB6eDV6bG9UNVU3X2taQ3ZabEwwUFFVNTVhU3BBblk2aG56R0hVOXZfbHlZblNWZExrdVZ6UWhRcGR4dWN5V0FodmJJYmFvemxZNW80STRHUDNnc1Q?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-20T12:38:09+00:00",
+      "published_raw": "Fri, 20 Nov 2026 12:38:09 GMT",
+      "snippet": "Tarifas de pedágio da Arteris ViaPaulista serão atualizadas pelo IPCA a partir de segunda-feira (23) Portal SCDN - Porque a informação não para!",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" tarifa",
+      "category": "pedágio",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-20T19:22:06.039718+00:00"
+    },
+    {
       "id": "1b5b1fd4c1f696dd296b24379a6c8b3ee0e1dc23b1fc919366849bc8c24498d4",
       "title": "Remanejamento de interceptor de esgoto na Avenida Bady Bassitt - REDE BRASIL DE TELEVISÃO",
       "source": "REDE BRASIL DE TELEVISÃO",
@@ -65,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:48.039217+00:00"
+      "collected_at": "2026-11-20T19:22:04.901900+00:00"
     },
     {
       "id": "43be670a12e1626190cd7981bb180448e2c34f5662639ac56b2dbb33636b3a37",
@@ -76,13 +139,13 @@
       "published": "2026-11-20T00:51:03+00:00",
       "published_raw": "Fri, 20 Nov 2026 00:51:03 GMT",
       "snippet": "Motociclista morre após acidente com caminhão em rodovia na região de Ribeirão ACidade ON",
-      "term": "\"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "acidente/risco",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:58.581268+00:00"
+      "collected_at": "2026-11-20T19:22:06.039753+00:00"
     },
     {
       "id": "580e84493246569c303683e218200e15d52481123492bc062fb64285941eb9a1",
@@ -99,7 +162,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485334+00:00"
+      "collected_at": "2026-11-20T19:22:04.360999+00:00"
     },
     {
       "id": "53ec2e99fb93433d3bd084b74390d0ad665171c08fcac8a9c5912dec0f9ba30e",
@@ -116,7 +179,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:48.039132+00:00"
+      "collected_at": "2026-11-20T19:22:04.901852+00:00"
     },
     {
       "id": "80cd219211f5a21c40b1c4b9ce928373299d2244b1c4e01e6a5079502f0df356",
@@ -133,7 +196,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485640+00:00"
+      "collected_at": "2026-11-20T19:22:04.361042+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -150,109 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485244+00:00"
-    },
-    {
-      "id": "977b4d6a55d17795daea2c0ac643204ef1b3b85f0dfa2a6057b9f3cc823ef54c",
-      "title": "Motociclista fica ferido após colisão na Rodovia Washington Luís - Grupo Rio Claro, São Paulo",
-      "source": "Grupo Rio Claro, São Paulo",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHMxYzRwZmtEcU5EaXdHU2Z3LVRUc2V0SnhYbDBVc0F3Zzlxc3ItbUR6aVhMa0p0Rmh4SllXejNFUVBVcTY3VExKTXk3dFZMMEdNVVo5bDhFRzgwTndUblRmVlFYb3h2THlSLTNfcFlTQlhzZmZDbldTTm1KelJCVXBaNlgwSXJSNVdmZXBLUE9ySmU3RlVnNXhYdHM2b0NQTnRFeTFkZ2ZWZHJ5N0w0?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T17:58:38+00:00",
-      "published_raw": "Thu, 19 Nov 2026 17:58:38 GMT",
-      "snippet": "Motociclista fica ferido após colisão na Rodovia Washington Luís Grupo Rio Claro, São Paulo",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:48.039286+00:00"
-    },
-    {
-      "id": "81489693a830d0e6516b1bb7ab5c4f6939f3bab006aaa23553fec2cc98a0c64f",
-      "title": "Feriado deve levar 426 mil veículos às rodovias da região de Araraquara - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3hvMGdKTXYyZEFpQUkzVWM2NkJhVTJqbzZSU0E3UDlGbWgtYXpsVjFOaXdHSmhBUlpHMjZuMWhPRlo4MEFoOVBmbFZFY0stTWNXRU5UY1dnb2t2TTNRXzRuZHhTbTRFV2duY1lNZWhHTXdGeTNXc1Jkanl6QzJmWVRvVkdMb0pvZldrSEI1S1ZCTER4RlNGTGlCeXhDNTEyUWlocWNOTnFVWndPdEo3alB1OA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T15:05:00+00:00",
-      "published_raw": "Thu, 19 Nov 2026 15:05:00 GMT",
-      "snippet": "Feriado deve levar 426 mil veículos às rodovias da região de Araraquara Araraquara Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485540+00:00"
-    },
-    {
-      "id": "ba436585ca85274dbaf034bedd4adbbe595ce0a71a8f406c65c6e186f3311c45",
-      "title": "Ecovias espera mais de 574 mil veículos nas rodovias da região durante o feriado da Consciência Negra - Região Noroeste",
-      "source": "Região Noroeste",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmNaUDFobmVrTWVyX2t2OTItaVFlWUZYamJOT01EeWZQX2N1eTA0V2R5Tkw3UFN6T2tJd01LX2RmbmhEMUcxVEJxQy1Kak9DSGdxUDVsN3E4NlAydzBGTXc2SUM0cy1JVUpwN2ZTQWgybkFwaFR2eDBaRDhQSWZYbVdrV01kSlBSWmZFZ212SVZiRFcyZ2dfX1pnSXhVZ1lkWEFCRnZHYVpwMjhPS29oendWUzZDT3JPZXJSbXRidUg2THE4NlJBZA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T12:36:00+00:00",
-      "published_raw": "Thu, 19 Nov 2026 12:36:00 GMT",
-      "snippet": "Ecovias espera mais de 574 mil veículos nas rodovias da região durante o feriado da Consciência Negra Região Noroeste",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485477+00:00"
-    },
-    {
-      "id": "64c80753f36b7d939851de1eadf307d9235248c84c8f222573a63cffd3a79664",
-      "title": "Caminhão tomba e espalha carga no acostamento da Washington Luís em Rio Preto - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVJ1dHdHODJwc3RGX3psTHVnRzJsbmhoREs3bXRUcjcwU2EydVpvTjYzd2lIWG1MVGExMGtnYk9NOG5xd21ncXR3UVhQNUZTelNBXzdqZHdLRTZjZklHWHpzcWFyTVo5LUxWU0ZzbjB0Mm9kZmFuRHhsSmhpeVdaR19GbEdFRGI5YTcxdjlEaHZ3OGp0X2t5ekxHUkxtOWs4Vm9SYTZya3VRWldkQTNRMThPWDViUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T12:24:19+00:00",
-      "published_raw": "Thu, 19 Nov 2026 12:24:19 GMT",
-      "snippet": "Caminhão tomba e espalha carga no acostamento da Washington Luís em Rio Preto Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485772+00:00"
-    },
-    {
-      "id": "d3804940761d713b3fb12f41ddcb40e2658aba2d134e5507a92e25d442b2eed0",
-      "title": "Vai pegar estrada? PR reforça policiamento nas rodovias no feriado - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkJhdFFSWkUxamZGbEdUZ3lUcUdrTlVBZ3RsYlZuR0ZDcTNVRWhTMGkxOUo1YTNsbGpxTHlqU0Y4dVJDT0dFeXN0UV9vQXNtY0Z2Q2pyX0dLc1ZGVWRRdDFSaC1DdDc5eU5BeTdCZDRGenBZclJOZUZSWF9hYVdYTldFcjRnRm9IZDZzQXhrSC1QRXFqbi02c21ZbGVYdFpUU0hnam1QV1F5YW8?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T12:23:09+00:00",
-      "published_raw": "Thu, 19 Nov 2026 12:23:09 GMT",
-      "snippet": "Vai pegar estrada? PR reforça policiamento nas rodovias no feriado Araraquara Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485705+00:00"
-    },
-    {
-      "id": "da0790a287942b4bdb493b3735a82c5f50cbe1bab8ac7ccbda0bb3dae95f4766",
-      "title": "Feriadão enche estradas da região; pico é hoje e domingo - Diário de Olímpia",
-      "source": "Diário de Olímpia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelVjQUZsWUU3NXl4ZFZXMEcxaVJpeFR3SEctb2NIN1NnYldpZ0ZPdS1IYll3a0VyY1Nod3ZYaDkwczdDd2FYb19veXVoS0R5YzRHRW44ODZaV1gwMHZxNzFBTjVqUDRKQ2xYbGVENWlidEFUYnVER25jellmN29iSzRHYVpTZVgwRjZZa2RpSlpBVjJk?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T12:20:29+00:00",
-      "published_raw": "Thu, 19 Nov 2026 12:20:29 GMT",
-      "snippet": "Feriadão enche estradas da região; pico é hoje e domingo Diário de Olímpia",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T10:50:47.485405+00:00"
+      "collected_at": "2026-11-20T19:22:04.360953+00:00"
     }
   ]
 }
