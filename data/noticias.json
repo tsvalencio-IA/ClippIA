@@ -1,11 +1,16 @@
 {
-  "updated_at": "2026-11-20T01:59:18.468038+00:00",
+  "updated_at": "2026-11-20T10:41:24.650378+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 21,
+  "total": 12,
   "total_images": 0,
-  "new_items": 21,
-  "errors": [],
+  "new_items": 12,
+  "errors": [
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -46,6 +51,23 @@
   ],
   "items": [
     {
+      "id": "1b5b1fd4c1f696dd296b24379a6c8b3ee0e1dc23b1fc919366849bc8c24498d4",
+      "title": "Remanejamento de interceptor de esgoto na Avenida Bady Bassitt - REDE BRASIL DE TELEVISÃO",
+      "source": "REDE BRASIL DE TELEVISÃO",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU9qRElBc1h1Z2Q0YnJCUExMdnFPNHZ2VFdFN0hWaUVLa2lXMzBiUHZnaHl2WkozVWM1TEJQeE1fa1Y1SmJGWWx5My1DRWQwSlQ5Rm1PRnMwQWFyWG5iOU9UQ25fWXpQNWpqVFlZaHJpZ0lLek1jMExRV2RJN3pqeFowaEhjb1BrMDB4MVNXMUhZWUxiamdQenVWanhxUVFhUlE?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-20T02:50:02+00:00",
+      "published_raw": "Fri, 20 Nov 2026 02:50:02 GMT",
+      "snippet": "Remanejamento de interceptor de esgoto na Avenida Bady Bassitt REDE BRASIL DE TELEVISÃO",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-20T10:41:08.555605+00:00"
+    },
+    {
       "id": "43be670a12e1626190cd7981bb180448e2c34f5662639ac56b2dbb33636b3a37",
       "title": "Motociclista morre após acidente com caminhão em rodovia na região de Ribeirão - ACidade ON",
       "source": "ACidade ON",
@@ -60,7 +82,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.204870+00:00"
+      "collected_at": "2026-11-20T10:41:19.716255+00:00"
     },
     {
       "id": "580e84493246569c303683e218200e15d52481123492bc062fb64285941eb9a1",
@@ -77,7 +99,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.971772+00:00"
+      "collected_at": "2026-11-20T10:41:07.965915+00:00"
     },
     {
       "id": "53ec2e99fb93433d3bd084b74390d0ad665171c08fcac8a9c5912dec0f9ba30e",
@@ -94,7 +116,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:01.583520+00:00"
+      "collected_at": "2026-11-20T10:41:08.555543+00:00"
     },
     {
       "id": "80cd219211f5a21c40b1c4b9ce928373299d2244b1c4e01e6a5079502f0df356",
@@ -111,24 +133,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972245+00:00"
-    },
-    {
-      "id": "02a59c306ae8ad82899aaba070c51b0a2eb06633a68aa51a108ebe18cbe86d48",
-      "title": "Remanejamento de interceptor de esgoto na Avenida Bady Bassitt - BOM DIA GUARULHOS",
-      "source": "BOM DIA GUARULHOS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkRvWW41RDZOQmRGWG83TWwwYnhRaXJ2QTM5NmQwNFZzWm1EckRWNVpEY2pncWcyQVNwT09WV29pRVhLZkdTS2hucWlDb0tEcHdWMXVXcTUyZjdDb0VUMDBDdy1VUEh4eGVMcHhXTmZhLTBpOU1rTHdHdGVtb19EOVgxTG9PMXZJWTJlaHpEMG5SQ25VQUIzNVRXU2I4RE1Dc3NYMDctOTF6Tmc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T19:53:00+00:00",
-      "published_raw": "Thu, 19 Nov 2026 19:53:00 GMT",
-      "snippet": "Remanejamento de interceptor de esgoto na Avenida Bady Bassitt BOM DIA GUARULHOS",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:01.583637+00:00"
+      "collected_at": "2026-11-20T10:41:07.966328+00:00"
     },
     {
       "id": "60d4eceb8d4a3076424cf64bd658a9ad11c4d9dbb8a7f5631d83df936b919654",
@@ -145,7 +150,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.971673+00:00"
+      "collected_at": "2026-11-20T10:41:07.965767+00:00"
     },
     {
       "id": "977b4d6a55d17795daea2c0ac643204ef1b3b85f0dfa2a6057b9f3cc823ef54c",
@@ -162,7 +167,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:01.583713+00:00"
+      "collected_at": "2026-11-20T10:41:08.555655+00:00"
     },
     {
       "id": "81489693a830d0e6516b1bb7ab5c4f6939f3bab006aaa23553fec2cc98a0c64f",
@@ -179,7 +184,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972162+00:00"
+      "collected_at": "2026-11-20T10:41:07.966226+00:00"
     },
     {
       "id": "ba436585ca85274dbaf034bedd4adbbe595ce0a71a8f406c65c6e186f3311c45",
@@ -196,7 +201,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972009+00:00"
+      "collected_at": "2026-11-20T10:41:07.966130+00:00"
     },
     {
       "id": "64c80753f36b7d939851de1eadf307d9235248c84c8f222573a63cffd3a79664",
@@ -213,7 +218,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972396+00:00"
+      "collected_at": "2026-11-20T10:41:07.966529+00:00"
     },
     {
       "id": "d3804940761d713b3fb12f41ddcb40e2658aba2d134e5507a92e25d442b2eed0",
@@ -230,7 +235,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972319+00:00"
+      "collected_at": "2026-11-20T10:41:07.966422+00:00"
     },
     {
       "id": "da0790a287942b4bdb493b3735a82c5f50cbe1bab8ac7ccbda0bb3dae95f4766",
@@ -247,160 +252,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.971849+00:00"
-    },
-    {
-      "id": "e36a34aa0fc3800e36a45306076301d7e107a75c68688428414e946ab70f0232",
-      "title": "Ecovias prevê circulação de 574 mil veículos durante feriado da Consciência Negra - São Carlos Agora",
-      "source": "São Carlos Agora",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZTN5eWl4ekxQSG5neUFPMGFWRHpINzR2WExsUWRuTnJXSTNDVjg1T3lONlRoYXFieFI1a0RlSjhnM0NCV2FkUzF0NHBtbk93b01XLWhqZFpXMDFjNG56aG1QdVZhdE9XYjV2TTlId2lRbHNrZC1XNlRFemtSOXZsUnNrMV90TzNGSXdBVE4xVllwUmlPWkwxYmxCZ1BaY3B5VDJLT3NRMXVsSnZwNjMzLURFQ3JnYjhUOVFmOHdoSEFwZi1zWEhuLW5odllTWVV2S0RiUQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T10:08:00+00:00",
-      "published_raw": "Thu, 19 Nov 2026 10:08:00 GMT",
-      "snippet": "Ecovias prevê circulação de 574 mil veículos durante feriado da Consciência Negra São Carlos Agora",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.972085+00:00"
-    },
-    {
-      "id": "b59552f12332aa4764355d46349484dcc873504a682009e23d8378ab5bf5301f",
-      "title": "Guarda Municipal captura procurado por tráfico de drogas no Centro de São Carlos - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYm0zWm5NWnQ0bmVRd0h1VUVmMUpvd2ZUeXA2UFpNX0JYODJSa0hTME12RVN5eWRVLW1KRThhYzB0Zm1uZXR5eGI5RGdzcjRzTm9tVmpsbkxKa2doOG9WMjBZemZyelhMWWcxdWpRZGNaNkdIa1NxdDM4ZkZBVEI0VzhobWd0SUcyalJkZm9rcEVfVUdMQVVaM2xyM0s4MVpnWVBteERkZlI4ODZRZHA1NVFhRTBPZHltRUszdVViUG15UGtHQkZXdmh3?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T08:13:25+00:00",
-      "published_raw": "Thu, 19 Nov 2026 08:13:25 GMT",
-      "snippet": "Guarda Municipal captura procurado por tráfico de drogas no Centro de São Carlos Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.815869+00:00"
-    },
-    {
-      "id": "7af3032af17fa79dc22b959fe239e5dd56adf73ec8ad7e3e937df5f7b627462f",
-      "title": "O Diário Interativo Online - O Diário Interativo",
-      "source": "O Diário Interativo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWVrbFl4OTBKbFZsWkk0WFV6bkJEOWMxTG5tWGRVTUpNM2p5WTFiRzdRdktERmtlMmxhOUZ4RXlEYVpNdEZ3UXN0TW5ybkhlc0dBdEx4bVpsN29tY1pzVlJYUzM3YjV3VGRvaE5ZaGp4d2p1RzJIWV9FVUNSZFZhSko2NmhjazZLMGNQa0tCRTRvWkhrUzlKRllXQXY?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T08:00:56+00:00",
-      "published_raw": "Thu, 19 Nov 2026 08:00:56 GMT",
-      "snippet": "O Diário Interativo Online O Diário Interativo",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:00.971925+00:00"
-    },
-    {
-      "id": "abb920a42b5d157867777ba29b7b0d2a431cf08c6a94bf28cce611017c42c0e3",
-      "title": "Obras do SAAE alteram trânsito na José Pereira Lopes - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3ZaaXZCWmFyaThiOTNwb1I2ZUl4VDRLLW9jeWtBMjExcmFVTkVfY0hsWlpZeklDa281b0I4Z25peFhHZ1UzTXRCWHkxbFhEc0o2c19mLTBFQmtDRDBidzZrME1MRk9CMmJwOVh4SnNQSy1HNXNJQzBPa2Y0S1QyODBKTzVwTUZTalB4SFI3b1M4NURGSGJhTkFlalAyT3ZsT0FUTQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T06:28:06+00:00",
-      "published_raw": "Thu, 19 Nov 2026 06:28:06 GMT",
-      "snippet": "Obras do SAAE alteram trânsito na José Pereira Lopes Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:11.953830+00:00"
-    },
-    {
-      "id": "9399366bcd794896a61fcd1128159acd162d5babb387a70e2b3a47b0f357ed72",
-      "title": "Banco do Povo de São Carlos concede mais de R$ 2,6 milhões em crédito até outubro - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3QtUGM3Q3hQQ0VKOEllenNWWnpxTDZBcy1lME8tdnl1cW9FcmFhd0NfS3lDdXV1X0xOZDdQVU9lVzlUcjZiTkhka19YcXZXZl9VZDZtZWJMMlJTN2pZVTFoME5KZ1ljMDZLTnZvSXFOMHNWQ2V3d19ZTGx0STJENGw0REdqZlBfVVBqRGtFdFI3TlFpSGVvYUtmMUhTbkZXOGNLb2NaN1hnYVJjdVlWcXFOdUZmWWY1dmJoZ0pnaDZ5Zk5YWFVqRmgxTjRLNTd5dHFV?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T06:07:36+00:00",
-      "published_raw": "Thu, 19 Nov 2026 06:07:36 GMT",
-      "snippet": "Banco do Povo de São Carlos concede mais de R$ 2,6 milhões em crédito até outubro Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.815708+00:00"
-    },
-    {
-      "id": "b906fb36e9d4d1f16d62778931241f11428c2d0730a47644cd95d434111f4e56",
-      "title": "Viaduto do Jockey Clube terá interdição de acesso e operação Pare e Siga - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0JJRERxZm1uNXFFbm1WeloxVmhxX3NjZDRXcDVDeU5kMHQ4X0x1cHFuemRWZE9KSHpObkQ5S21EU0dXblFrbndOaVFfNnFkZTdxUEtMeWZLQW5sU202bV9VQ25Gcm9XSmZvaUhVMFZjNGlWNUNUSXRIX25hOHhNUUw0RC1wUVRweGdkVjkxNVhjaEVNSWxHcklRYW9BMmNkd01mR3lNdHp5alJuS05Qc2wwLWViOVZnOTlFVkZzOA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T05:59:20+00:00",
-      "published_raw": "Thu, 19 Nov 2026 05:59:20 GMT",
-      "snippet": "Viaduto do Jockey Clube terá interdição de acesso e operação Pare e Siga Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:11.954131+00:00"
-    },
-    {
-      "id": "3a7ae07a544af658d63c7232b173967a705ab16ee71e7fc8255854b000705b1c",
-      "title": "Confira o abre e fecha da Prefeitura de Araraquara no Dia da Consciência Negra - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2NXNDh0cnZyampXMHFidUZmaGlWNXhzSnFueE5xdHFqRjZyREFsSy1XRzloV0Y1U2dheWFHWlh2MDIzMUdqNl8zaVVfcmpZeHVSTzFibDd3YmREa0E5dXNzbzhDRk9mVWI1b0dCTl9ReWtyc0tNa1gyZEFQaXVqekRDc1p3R2xIV21aUnotSGtMUkFyMWdub0plWXhqdEJKSWdfRUQzUWMwNW5vNl9tU1FvV2lPcnFzVnNsY3JiOW1NM3BWVHc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T05:34:27+00:00",
-      "published_raw": "Thu, 19 Nov 2026 05:34:27 GMT",
-      "snippet": "Confira o abre e fecha da Prefeitura de Araraquara no Dia da Consciência Negra Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.815565+00:00"
-    },
-    {
-      "id": "d772c023e661e60111fba14e27582eeaf31c0f1d7bd6a8f1e5962106a7021b67",
-      "title": "Prefeitura de Ibaté abre inscrições gratuitas para moradores para a tradicional Corrida Segundo Carlos Lopes - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1YtcjRDaWtFdl80UzVwTnE3UWVSZFpuNGhtX0dJNzlSaTFjaVNhSkZueFRQMTJ6Y1B2MTd1MFB0UU1nM3BVMkxvaGFsUXFiSkJnYVlJZDFJOUh4SDVrWHlTMkc3SHIwN2dZS01CcFRtT1Vad3BoeEpKT25QZlF4OHFIUGZBSjQ5UTRhX2RqaGNtUmEwdU5XS0FPZDRZbkYwZjZxc2pSUkpYRVlha1p1NTJWVnI4Mkw5WDZVcm5FaDUyaUtOS1k0dlVuekgtelVlMEpucHdzVkIwakRHUXNCRjdIaVdsYm8?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T05:32:13+00:00",
-      "published_raw": "Thu, 19 Nov 2026 05:32:13 GMT",
-      "snippet": "Prefeitura de Ibaté abre inscrições gratuitas para moradores para a tradicional Corrida Segundo Carlos Lopes Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.815471+00:00"
-    },
-    {
-      "id": "3c2cf8285581ed50e502036106ff65340f7a908f18a109b389265d91bc6d66a2",
-      "title": "UBS Vila São José promove café da manhã especial do novembro azul nesta quinta-feira - Radio Sanca Web TV",
-      "source": "Radio Sanca Web TV",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzQ2YnloVDlHOHlJRHVTb2VXd0luelVwVTZKZjEza1hNVS1IVlAwa1VPUDg3WXRDMVQ5Y2hhcy1YWThGcm5LWjg0TDNCRy1RNk5iWjNhZjBsd0s0NHh3UDNpbnI1ZDAxNjdvb28xVjA0VlhESnA0U0had3JJVTZBRzc5eDZwRnRRblJtTV91ckJaOHBIYVJteUVQUW82TDFVbEcyRVdNbUs1YzdGdGRjT3dCVVo0MW1sMGp6SzFhZGFFZnVWNmJRRkxMLUhOdWRoVEJDTkFJcnZKd0tiR2V4aW5sVksycUE?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-19T05:20:44+00:00",
-      "published_raw": "Thu, 19 Nov 2026 05:20:44 GMT",
-      "snippet": "UBS Vila São José promove café da manhã especial do novembro azul nesta quinta-feira Radio Sanca Web TV",
-      "term": "\"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20tr%C3%A2nsito%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-20T01:59:13.815796+00:00"
+      "collected_at": "2026-11-20T10:41:07.966021+00:00"
     }
   ]
 }
