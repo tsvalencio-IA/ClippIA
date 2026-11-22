@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21T18:37:30.161941+00:00",
+  "updated_at": "2026-11-22T00:45:45.118563+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 1,
+  "total": 0,
   "total_images": 0,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -44,23 +44,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "74334682fce06163038660ea86fcc031c9ca390854d59b4339a83c7031896714",
-      "title": "Jovem de 19 anos morre após caminhão atingir motocicleta em rodovia no interior de SP - Tanabi Noticias",
-      "source": "Tanabi Noticias",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmIxVTRlSmQ3aGZYbER5QmFBWlk2UWVzY2gzUEZGVHVGMUZtTEtyVnJreUowaDk1T0RrbEd0V3NNRUZlcjM0bDBVRGFzTVVqaU9tREVGS3oyRHc0OUpLT21zdTZsdWpZaUlPMDAtYTdqX05tNXFhUWEyeW9udVphS00wc09ISDRDQnBkbEFILVUzWDhMWGNXN2NSMldJbGMxeWJrVUNBWUtWX0lpVjRweFNxdFpnaFVBanhjRzZGRHU5YU5ST1ZaWlhNZTI?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-20T22:28:00+00:00",
-      "published_raw": "Fri, 20 Nov 2026 22:28:00 GMT",
-      "snippet": "Jovem de 19 anos morre após caminhão atingir motocicleta em rodovia no interior de SP Tanabi Noticias",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "acidente/risco",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-21T18:37:14.527425+00:00"
-    }
-  ]
+  "items": []
 }
