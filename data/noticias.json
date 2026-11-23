@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22T18:57:48.645825+00:00",
+  "updated_at": "2026-11-23T01:13:30.062566+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 3,
   "total_images": 0,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "855761e401a09b8bbd0e570a7acb19b0167eb067257530f374d6b36fdfec1575",
+      "title": "Tombamento de carreta deixa pessoa gravemente ferida na SP-310 - Grupo Rio Claro, São Paulo",
+      "source": "Grupo Rio Claro, São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGJwTm1DTzR2bXl6WU1NdVRqSVdGLXg5U2ZGWTlGQkhXTlJrcE5HUVZHUXhLTGVRVE9xemMtSFVTSGZHdU41TjIweDMzMzA4TEV1X3lvOTNkN3FKX2wyejFMRWxWWWs0U0pyZWI0UmxSNDBCZHlzOTlpNWxEckx4a2xBdmpBYzE1Vkh5OHpOOFhVbV9LWFQ2R2xhNE1CNWJYRXBIZWNXYXVPVU03?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-23T00:42:18+00:00",
+      "published_raw": "Mon, 23 Nov 2026 00:42:18 GMT",
+      "snippet": "Tombamento de carreta deixa pessoa gravemente ferida na SP-310 Grupo Rio Claro, São Paulo",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-23T01:13:15.846707+00:00"
+    },
+    {
+      "id": "8cc5f272c42815250903e0b1fe978ae4a5207f05c70d1b0451ad1d4d0f8b90fa",
+      "title": "Caminhão baú tomba na Rodovia Washington Luís em São Carlos e motorista é socorrido à Santa Casa - São - São Carlos no Toque",
+      "source": "São Carlos no Toque",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmFzYWxoUGFFTTA4cUhEb0lOeDlDYTJtSmtEbm1YZHdZaVNLZ2JyTjlyaENHX0lFLTBWSGFUQTB4dHFkT0ttV2pfTGhZLVhtMlFfQWFXMnBhTzNKSEZjbm9iZW1sOGExSVRyWFNhdGNkaUswMENwMlFTY3hHbU5WUzhBRlJsU3JXRkVZQUtnc0I4emdMM0F0QUNwZDloN1NSYjNIYUhXbDhBczVreE02dHdUcG1iVEZDTW5fVkJ3SGZmOURj0gHKAUFVX3lxTE1GZGFQcDdUcHh4dmdLbURGbTltQVdXV3dhVTNtdHd0bVhZaGVzNnpHX3hXeFBpSFZDUE5lU1lXU0M3MmYtb1Nmdkx1YklESkhZQ191ZHg3UUZ3ZEJ4aEUwb29WU0ljVy05Y1dQaUo0NUU1WFVYZG1TcGs4TThuajRFbXRoNGFfb2UxOHFxYUxycjJqS1Vmd2ZfdkJkZFpyb3UzVGNGZkhtbHN1LXdPMnBfYmVJbzdlc2ttVENFT3c2d3RmRXZpcmxLS3c?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-22T20:30:22+00:00",
+      "published_raw": "Sun, 22 Nov 2026 20:30:22 GMT",
+      "snippet": "Caminhão baú tomba na Rodovia Washington Luís em São Carlos e motorista é socorrido à Santa Casa - São São Carlos no Toque",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-23T01:13:14.238379+00:00"
+    },
+    {
       "id": "d8cdd622fa6ed6e045c8288f3ac56e83d353762cc5764a0dfdab770af5ce1c61",
       "title": "Violenta colisão envolvendo três veículos deixa carros destruídos na Washington Luís, em São Carlos - São - São Carlos no Toque",
       "source": "São Carlos no Toque",
@@ -60,24 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-22T18:57:33.143889+00:00"
-    },
-    {
-      "id": "b462f5b3ba0bac47fe2704f451a538d6949e3b46843cbf963841efa1d4c2dd52",
-      "title": "Viaduto do Jockey terá interdição de acesso - Jornal Primeira Página",
-      "source": "Jornal Primeira Página",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGtNN2Z3X0c1LVo1QjV1X1VybWxhQjJMUy1VQTE2NW9oQTZBZU52dFluWGZuWmNnd3A4aHFXaFRwS2JYZlAxdEFXb1RtMi0wZUdmbUFvdW5tZGFTZWk1WmZqbGFzM3NQT2w3VmtMTk5ldFlpNDV4cnFuN21KWURkREt0QnZ6ZmZqV2dIM0VR?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-22T02:37:26+00:00",
-      "published_raw": "Sun, 22 Nov 2026 02:37:26 GMT",
-      "snippet": "Viaduto do Jockey terá interdição de acesso Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-22T18:57:33.143954+00:00"
+      "collected_at": "2026-11-23T01:13:14.238486+00:00"
     }
   ]
 }
