@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T23:00:26.724984+00:00",
+  "updated_at": "2026-11-23T23:16:52.624690+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 17,
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038319+00:00"
+      "collected_at": "2026-11-23T23:16:33.452031+00:00"
     },
     {
       "id": "d71efb0089034d63e77519c913dcfdae36728295e723027d979cbb8c0d2a55b5",
@@ -71,13 +71,13 @@
       "published": "2026-11-23T21:26:51+00:00",
       "published_raw": "Mon, 23 Nov 2026 21:26:51 GMT",
       "snippet": "Corredor Ayrton Senna/Carvalho Pinto fica entre os 20 melhores trechos rodoviários do Brasil, aponta pesquisa da CNT Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" obras",
-      "category": "obras/interdição",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:20.305638+00:00"
+      "collected_at": "2026-11-23T23:16:33.452106+00:00"
     },
     {
       "id": "7e5261fc49947db537c2039cc382e68b583b882e9af867d4173b790c20146373",
@@ -94,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038146+00:00"
+      "collected_at": "2026-11-23T23:16:33.451570+00:00"
     },
     {
       "id": "dea384191de1fcae30a2289356f5d8db99176b1bfee38ec38a8b6de526994c38",
@@ -111,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22ped%C3%A1gio%20eletr%C3%B4nico%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:14.359950+00:00"
+      "collected_at": "2026-11-23T23:16:39.226564+00:00"
     },
     {
       "id": "1f02d14cde1164a2eb2641c8ce500544ede9168bbbf1cd8dd3025e57ee69a574",
@@ -128,7 +128,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038004+00:00"
+      "collected_at": "2026-11-23T23:16:33.451488+00:00"
     },
     {
       "id": "2afcbaf924c78c51070852f4ae4f6c2dfb2f6270f2cbb7f87cdbf72b3d98df42",
@@ -145,24 +145,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038231+00:00"
-    },
-    {
-      "id": "60baaf3131484982fea71764c997547f27ddda5d29526d4998db74f250eed0dd",
-      "title": "Atenção, motoristas! Rua Episcopal terá restrição no trânsito até 27 de novembro - São Carlos no Toque - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXZfbl9KMEo4SG5KanlIRERlOGlrZEljenVtZVRWQ3ZfZmxNZXB1OHZBRExPXzJpMkZVUVo4YjdQbWcwM0ttQjlQdkg4X3BfbGEzb29jMXhsYkFPRldlaG9FWFQtM1VsWTZXQ3h5WEZDNVhIYnA2cjJFT01naXNuWXBFUGRFVWt6cDkxaHBkY2NjaDh1ZEVHODlUN0tWVFZobURya19WLTVTVVVTOWV5SVFn0gGyAUFVX3lxTE8tdl9uX0owSjhIbkpqeUhERGU4aWtkSWN6dW1lVFZDdl9mbE1lcHU4dkFETE9fMmkyRlVRWjhiN1BtZzAzS21COVB2SDhfcF9sYTNvb2MxeGxiQU9GV2Vob0VYVC0zVWxZNldDeHlYRkM1WEhicDZyMkVPTWdpc25ZcEVQZEVVa3pwOTFocGRjY2NoOHVkRUc4OVQ3S1ZUVmhtRHJrX1YtNVNVVVM5ZXlJUWc?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-23T16:23:16+00:00",
-      "published_raw": "Mon, 23 Nov 2026 16:23:16 GMT",
-      "snippet": "Atenção, motoristas! Rua Episcopal terá restrição no trânsito até 27 de novembro - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038194+00:00"
+      "collected_at": "2026-11-23T23:16:33.451782+00:00"
     },
     {
       "id": "828dcb53873c20af779022e0f00c04c3d293df04b1152a926797701d6ec207b8",
@@ -173,13 +156,13 @@
       "published": "2026-11-23T16:17:33+00:00",
       "published_raw": "Mon, 23 Nov 2026 16:17:33 GMT",
       "snippet": "Ecovias Noroeste Paulista informa o cronograma, de 23/11 a 29/11/2026 - São Carlos no Toque São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "geral",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038068+00:00"
+      "collected_at": "2026-11-23T23:16:45.587085+00:00"
     },
     {
       "id": "2a4922a1250c6902b6df95fb24f3b225a8f56a6ed5f225afb4af717003de84b8",
@@ -190,13 +173,30 @@
       "published": "2026-11-23T16:07:29+00:00",
       "published_raw": "Mon, 23 Nov 2026 16:07:29 GMT",
       "snippet": "Ecovias Noroeste Paulista informa cronograma de obras de 23/11 a 29/11/2026 Jornal Primeira Página",
-      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:20.305476+00:00"
+      "collected_at": "2026-11-23T23:16:33.451715+00:00"
+    },
+    {
+      "id": "12f9ac3d665670574c8738f9dadde50da21c44d8b4cde9268a53ad4f1b514100",
+      "title": "Assaltantes invadem casa e roubam carro e joias em Ribeirão Preto - ACidade ON",
+      "source": "ACidade ON",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUlrd1c5blBNX3QwYXRtbFkyZzB6cVAxd3l6aUdOYkZGMURoZXJnQThPN2h2VzJfU2xQeUlBczdDRm9VMzIwVzl0cHZNTXk3OUwzTWl6NnNyYk92cFhnRzJkVjNUN3FqR3p2dWFjRUZWa1BVeVp3cmY0RDc1ZTA4ajV5QUJmNXdqalBsekg4QXllNUNXU3p4N3drZTVXcGFNMk5wZWJSZXdBaEVaYnZTYnF1cGpIOEE?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-23T15:29:00+00:00",
+      "published_raw": "Mon, 23 Nov 2026 15:29:00 GMT",
+      "snippet": "Assaltantes invadem casa e roubam carro e joias em Ribeirão Preto ACidade ON",
+      "term": "\"Ecovias Noroeste Paulista\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-23T23:16:33.451874+00:00"
     },
     {
       "id": "6bc6ad177b8b7469e9025ac0ae673d6f80137a3c12c3002de4d57f56be9257f6",
@@ -213,7 +213,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038275+00:00"
+      "collected_at": "2026-11-23T23:16:33.451954+00:00"
     },
     {
       "id": "788ba89f1d486a201efdfd20569d966893e160689f5280b321674792924fd09e",
@@ -224,13 +224,13 @@
       "published": "2026-11-23T12:46:12+00:00",
       "published_raw": "Mon, 23 Nov 2026 12:46:12 GMT",
       "snippet": "Carreta é consumida por incêndio na Rodovia Washington Luís, em Matão Jornal Imparcial",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\" | \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.600067+00:00"
+      "collected_at": "2026-11-23T23:16:34.081082+00:00"
     },
     {
       "id": "94e4666cfbb5d8feda00165cb755a43cd048548649411fb4396a5b27980dc727",
@@ -241,13 +241,13 @@
       "published": "2026-11-23T12:33:00+00:00",
       "published_raw": "Mon, 23 Nov 2026 12:33:00 GMT",
       "snippet": "Caminhão atinge mureta de concreto e causa interdição em rodovia ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-333\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" interdição | \"SP-333\" \"Ecovias Noroeste\"",
       "category": "obras/interdição",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:09.038111+00:00"
+      "collected_at": "2026-11-23T23:16:33.451643+00:00"
     },
     {
       "id": "eeee41e5d00db683d27fcb01f6ca36f7befa2425b6861d9ae8b1d963f471b5e4",
@@ -264,7 +264,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:10.801440+00:00"
+      "collected_at": "2026-11-23T23:16:35.418016+00:00"
     },
     {
       "id": "13e9590c8cc35b041736393f5550992f7b7657af12fe657315d5d1a506cfe9db",
@@ -281,7 +281,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:23.977780+00:00"
+      "collected_at": "2026-11-23T23:16:49.599000+00:00"
     },
     {
       "id": "405714ce4e5870d8bbdc96a2b84336f1315c610ac67d4da83d0eb3718c85ab98",
@@ -298,7 +298,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:21.503547+00:00"
+      "collected_at": "2026-11-23T23:16:46.906399+00:00"
     },
     {
       "id": "c2be0e66c6e069a726a1c3030f9aa8fb1de5d28eaf839f435750f104b85c0235",
@@ -315,7 +315,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22SP-310%22%20%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:23.977704+00:00"
+      "collected_at": "2026-11-23T23:16:49.598859+00:00"
     },
     {
       "id": "855761e401a09b8bbd0e570a7acb19b0167eb067257530f374d6b36fdfec1575",
@@ -332,7 +332,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T23:00:10.801479+00:00"
+      "collected_at": "2026-11-23T23:16:35.418165+00:00"
     }
   ]
 }
