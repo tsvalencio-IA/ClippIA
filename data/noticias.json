@@ -1,16 +1,11 @@
 {
-  "updated_at": "2026-11-23T01:21:46.087739+00:00",
+  "updated_at": "2026-11-23T11:27:55.143492+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
-  "errors": [
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "new_items": 4,
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -51,6 +46,40 @@
   ],
   "items": [
     {
+      "id": "13e9590c8cc35b041736393f5550992f7b7657af12fe657315d5d1a506cfe9db",
+      "title": "Duas carretas pegam fogo em rodovias da região - Jornal Primeira Página",
+      "source": "Jornal Primeira Página",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHdnSzkxRjdpZU4wZGN3QjhlbnBUbzVnWnpyV0ZySS14bG50R2JKYlRScHVxSm1HZVBYQ0JYVmNoekhoR0lvWlM2NW5aOTljaHdMMEY4THRoNUNkRjNnMjI4T25FY29odEd3cFNBS0pYbi1LOWZWdld5U3ZRdUd5eGdXMDhSZnVaMEJwU0FMV2ttUQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-23T10:33:43+00:00",
+      "published_raw": "Mon, 23 Nov 2026 10:33:43 GMT",
+      "snippet": "Duas carretas pegam fogo em rodovias da região Jornal Primeira Página",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-23T11:27:39.747667+00:00"
+    },
+    {
+      "id": "c2be0e66c6e069a726a1c3030f9aa8fb1de5d28eaf839f435750f104b85c0235",
+      "title": "Carreta pega fogo na rodovia Washington Luís - São Carlos Agora",
+      "source": "São Carlos Agora",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDBOSWN5ZjR4TnpuYnQteEkyc19XY2lPZUJCdEpmUkRQaGxQQmNCNzZydGs3ME9XTzZnOWZYa3lYNXpnSFJ6UFZoWkJCRWFsOXdPMGc1X2hhbExTOVRVbnZxMDQ3a1JmSzhwVnBVRnhRRjBydVZndVlXZFFtcTVrb2hLVHAwUWp3RTNGZTl5bG5sZ21hcVBtSTktRXN4TThvMjRR?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-23T09:35:00+00:00",
+      "published_raw": "Mon, 23 Nov 2026 09:35:00 GMT",
+      "snippet": "Carreta pega fogo na rodovia Washington Luís São Carlos Agora",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-23T11:27:39.747704+00:00"
+    },
+    {
       "id": "855761e401a09b8bbd0e570a7acb19b0167eb067257530f374d6b36fdfec1575",
       "title": "Tombamento de carreta deixa pessoa gravemente ferida na SP-310 - Grupo Rio Claro, São Paulo",
       "source": "Grupo Rio Claro, São Paulo",
@@ -65,13 +94,13 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T01:21:31.733965+00:00"
+      "collected_at": "2026-11-23T11:27:39.747742+00:00"
     },
     {
       "id": "8cc5f272c42815250903e0b1fe978ae4a5207f05c70d1b0451ad1d4d0f8b90fa",
       "title": "Caminhão baú tomba na Rodovia Washington Luís em São Carlos e motorista é socorrido à Santa Casa - São - São Carlos no Toque",
       "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmFzYWxoUGFFTTA4cUhEb0lOeDlDYTJtSmtEbm1YZHdZaVNLZ2JyTjlyaENHX0lFLTBWSGFUQTB4dHFkT0ttV2pfTGhZLVhtMlFfQWFXMnBhTzNKSEZjbm9iZW1sOGExSVRyWFNhdGNkaUswMENwMlFTY3hHbU5WUzhBRlJsU3JXRkVZQUtnc0I4emdMM0F0QUNwZDloN1NSYjNIYUhXbDhBczVreE02dHdUcG1iVEZDTW5fVkJ3SGZmOURj0gHKAUFVX3lxTE1GZGFQcDdUcHh4dmdLbURGbTltQVdXV3dhVTNtdHd0bVhZaGVzNnpHX3hXeFBpSFZDUE5lU1lXU0M3MmYtb1Nmdkx1YklESkhZQ191ZHg3UUZ3ZEJ4aEUwb29WU0ljVy05Y1dQaUo0NUU1WFVYZG1TcGs4TThuajRFbXRoNGFfb2UxOHFxYUxycjJqS1Vmd2ZfdkJkZFpyb3UzVGNGZkhtbHN1LXdPMnBfYmVJbzdlc2ttVENFT3c2d3RmRXZpcmxLS3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmFzYWxoUGFFTTA4cUhEb0lOeDlDYTJtSmtEbm1YZHdZaVNLZ2JyTjlyaENHX0lFLTBWSGFUQTB4dHFkT0ttV2pfTGhZLVhtMlFfQWFXMnBhTzNKSEZjbm9iZW1sOGExSVRyWFNhdGNkaUswMENwMlFTY3hHbU5WUzhBRlJsU3JXRkVZQUtnc0I4emdMM0F0QUNwZDloN1NSYjNIYUhXbDhBczVreE02dHdUcG1iVEZDTW5fVkJ3SGZmOURj0gGeA0FVX3lxTFBoSGhkVHNkQWJrM3FjZUlIQUZRbkh6T2w3ZWh1Snp3VkhFc3ZqSVlEZVVzVzlhUkh6WlFPUk9VQXZlSXl0bGl1ZjB6NHFjdUNBRXNxU1BfVlZwRXhQeWpNczlrbm5LRmE0VTRKMzRXQmp0UUtsVVF3Y0k0T1YzZndPaWpXU3dheXZGUXdWVnVpa0JSZEItalB0M1ZvbmJDTm9lWVlGRWpoS3BvWHFaV2ZZOVRmbXZXenNQb0xQTlB3cEpQbTJEUkd4UUdQOXo0SGp2bEozd01yNEM3WE9ZSXJFTmF3OE5NTVdwMGNrYXFVX1NuQWxjUjdQeDdaRUZsNk5QT3NFNjBxNmRrb29KSGFUbnFRalg5VkhieFFsVF9NT3JpdkdESVZBTVBYbXlRMkpJSXVhQk4tQkFOZTh2SndpZGxwc21vemp6eTR1MWFvdVJ0TndBUFhGSHFCNldtNDl3MXd1T1BaWk1BOHA2N3VpVzYzdVFYVWh0d0s0cjgxMzg4a2FsbjE3TXNIbzFaTkxUQ1lNWkJTUnRhT1N2dw?oc=5",
       "resolved_link": "",
       "published": "2026-11-22T20:30:22+00:00",
       "published_raw": "Sun, 22 Nov 2026 20:30:22 GMT",
@@ -82,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-23T01:21:30.149835+00:00"
-    },
-    {
-      "id": "d8cdd622fa6ed6e045c8288f3ac56e83d353762cc5764a0dfdab770af5ce1c61",
-      "title": "Violenta colisão envolvendo três veículos deixa carros destruídos na Washington Luís, em São Carlos - São - São Carlos no Toque",
-      "source": "São Carlos no Toque",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVNSUXpSWW1TVzllbktfQm1NLUVIZnF1UGdXMWdNOWQxU2gtWW9YZzEteFc3M09JaFhtUFhzOThCRTFKNEN4cDJVcm13STFKcFA2Szd6Wl9KeXhGMVhqbjRzcmd4cFQyUzBxYlVZYzhFUWJUWXBGaFRwWkNScjZVaV9SWUFDVlZYYWNHSURveC1OTXlZMEloVUo2X2w2V00tbm9KT1NyaEUtUFVTU1ZvUEIwUDZLa2lPVDQwVGJvVFRvOFpwY19oODFac27SAcwBQVVfeXFMTzVTUlF6UlltU1c5ZW5LX0JtTS1FSGZxdVBnVzFnTTlkMVNoLVlvWGcxLXhXNzNPSWhYbVBYczk4QkUxSjRDeHAyVXJtd0kxSnBQNks3elpfSnl4RjFYam40c3JneHBUMlMwcWJVWWM4RVFiVFlwRmhUcFpDUnI2VWlfUllBQ1ZWWGFjR0lEb3gtTk15WTBJaFVKNl9sNldNLW5vSk9TcmhFLVBVU1NWb1BCMFA2S2tpT1Q0MFRib1RUbzhacGNfaDgxWnNu?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-22T09:31:05+00:00",
-      "published_raw": "Sun, 22 Nov 2026 09:31:05 GMT",
-      "snippet": "Violenta colisão envolvendo três veículos deixa carros destruídos na Washington Luís, em São Carlos - São São Carlos no Toque",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-23T01:21:30.149940+00:00"
+      "collected_at": "2026-11-23T11:27:38.048942+00:00"
     }
   ]
 }
