@@ -1,130 +1,18 @@
 {
-  "updated_at": "2026-11-24T19:56:35.603783+00:00",
+  "updated_at": "2026-11-25T03:51:23.746602+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 0,
+  "total": 12,
   "total_images": 0,
-  "new_items": 0,
+  "new_items": 12,
   "errors": [
     {
       "termo": "\"Ecovias Noroeste Paulista\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoNoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Econoroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste Paulista\" \"Free Flow\"",
-      "erro": "HTTP Error 503: Service Unavailable"
+      "erro": "HTTP Error 429: Too Many Requests"
     },
     {
       "termo": "\"Free Flow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"freeflow\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio inteligente\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio digital\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio eletrônico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pedágio sem cancela\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"pórtico\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" DUF",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reclamação",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" tarifa",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" reajuste",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" interdição",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" acidente",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" trânsito",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" ARTESP",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"EcoRodovias\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-333\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 503: Service Unavailable"
+      "erro": "HTTP Error 429: Too Many Requests"
     }
   ],
   "terms": [
@@ -165,5 +53,210 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": []
+  "items": [
+    {
+      "id": "58f75e24f303dad74aeab044764ef25e46b7fa89438f86c3cc03ff2f30b6e06c",
+      "title": "Free Flow passa de 200 milhões de passagens; veja regras, descontos e multa por evasão - Perfil Brasil",
+      "source": "Perfil Brasil",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVJQdlJGZnRyWXBjaU5QTzRUdEJSOXM5LUNJYjFLTzh0dWRhR0x2SnZwc1JIQXBzMFJXQVd6X1pRTnFsYWo0N3hPYzZLdzRyTTVuMm1KbktFam5vNzZCOE56T1M5N0Y1YUc3cXpNb2VkSm1iT2VQa1JyMHA4SE5oczUyQWc4VEViTkFNeVA2Vnl0Wi1kUWYydQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T22:52:28+00:00",
+      "published_raw": "Tue, 24 Nov 2026 22:52:28 GMT",
+      "snippet": "Free Flow passa de 200 milhões de passagens; veja regras, descontos e multa por evasão Perfil Brasil",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "free flow",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:07.604651+00:00"
+    },
+    {
+      "id": "d2fc0a0a8b354d6ab0322fff3c2ad8a7b088b0592693092c6bb2319bb9a586c9",
+      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - O Extra.net",
+      "source": "O Extra.net",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDRGakhvYUR0aEYtWWxwM3M3d1J3N3NvT1h5UEZqZG5pTkhObWw2ZUpqWk84aWFRVnFXS21Tc1R4TnJnYW5kQ0ZTb0kyRGFmZ2E1cGRXNUZsX1l2MkJkcE9wNHNZbnhRN2FuYnhBOG0ycTlQdUJqVVFWalF1WG9KcjdtWlVfTllxYlFmSHRvTE8yTlhi?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T21:02:02+00:00",
+      "published_raw": "Tue, 24 Nov 2026 21:02:02 GMT",
+      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana O Extra.net",
+      "term": "\"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:17.547090+00:00"
+    },
+    {
+      "id": "26f65bcd3a16620baf8fea8d7c6fab59224db6eef2a3c9da5a040b55257fcb12",
+      "title": "Prefeitura anuncia edição 2026 do evento Aviva Ouroeste para o dia 12 de dezembro - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnZPbG1nbm9oRm1CTHhXdVJXLXJrNTNZR0M3NzV5OVMxenh1MVpUV05vTElYN2RRb2hoa2piQzBSemY2blBQSkxYWklWTk5MSWVBUUVENzg5RlZodEhmWWYwUnJtSldpZi1LbW40akpQS3BVUlQxOURfcmdaZEp6azZqRVJrS3MycUVEYnE5eDlOQXBQWmpWd0xOSkd4dDJjNDVTdml2VmVidlBZYWc?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T17:20:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 17:20:00 GMT",
+      "snippet": "Prefeitura anuncia edição 2026 do evento Aviva Ouroeste para o dia 12 de dezembro Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749271+00:00"
+    },
+    {
+      "id": "f2523003da962da9e4ddf167a66c0489189ee3d49d0d9bd5e448bb88120cb15e",
+      "title": "Prefeitura de Fernandópolis convida população para participar da produção do Presépio Vivo - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTNIa210bjNaWjVqOTd1TS1qVVFkNmNjbkhHaEs1eHI5b1diaWk1VVNUZllpQVJ3ZnFTSlkyamRSVF8zVWVlSXRiMGp3R09xUWZicFpEeDExR3RCaXVlTWVjVDhlZWMtbEY3NmJTQVEzVUlOTGZ6WnpJMC1tQjhrQkUwdlpnSUhqQW5nd2Qxekd4Vk0xUEZyQmlFaFFGeTVyMTc1U3pZMC0tdHdPWHpKSThOTE9Jb0FrX0E?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T15:41:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 15:41:00 GMT",
+      "snippet": "Prefeitura de Fernandópolis convida população para participar da produção do Presépio Vivo Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749150+00:00"
+    },
+    {
+      "id": "52356fd65ed3125146f55613b9ecb261bd0c4680e52e1d27d97367c0b93136e9",
+      "title": "Projeto em Macedônia reúne 362 kg de recicláveis para o Hospital do Amor e premia turma com cinema - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTJUN05JQzJad2swdFJkdUhnc3BDLXpGRllUZjgxLTNHcHpRaTZMekRpM1hwcHo2T0tWMDRnNThDWWphemxiZHZJZXl2OEIxSjAtXzVpMjVBYkxma0tyckZEQkJHRlA5M3JyOGxpTmZjM3lCY2R0MktxUUZHR2ZWb2JkQkJTS0NVYjNoSFlfeldKcmZmc3R0VFZrY2xMT0VHMVpuV0xKc2I4NHB4cjlLRGpEd3Q1MjFvYTBHc3Fka3JGVnh5?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T15:39:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 15:39:00 GMT",
+      "snippet": "Projeto em Macedônia reúne 362 kg de recicláveis para o Hospital do Amor e premia turma com cinema Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749214+00:00"
+    },
+    {
+      "id": "54a65566d421dcd9022653d12fd8b0cd42265e9200d54c810cf55c575ff7f1eb",
+      "title": "Prefeitura de Ouroeste alerta produtores sobre prazo até 30 de novembro para atualizar rebanhos - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUN6NGtqeldDOUVMYkhGaWNjUTlLWHZ3TVZYMUk4ZnE4OUdGOC05amdiMWYzTi02YURCZGQzWlpPOVYySmxDbGVlN3ZxcFBOS0NBT090bWVTM3psX2JZOGVuTTJPNjgyZms5MEthb09nbHdzNFM5bURFWXpkZXhkY1BLeHVib1pPZHAtaFlfZ3diNTdvUWtRV2N4WEVSVDFKQmpuYk9VSDBzQ3ZwcnJheEhUNHlzVmFobFRaM3QwRUE?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T15:37:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 15:37:00 GMT",
+      "snippet": "Prefeitura de Ouroeste alerta produtores sobre prazo até 30 de novembro para atualizar rebanhos Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749391+00:00"
+    },
+    {
+      "id": "ee44e27a1e1aa372312bde6e9ac86504e752b5358288bafdb3af5901be72c3fa",
+      "title": "São João das Duas Pontes promove consulta e audiência pública sobre cultura no dia 2 de dezembro - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2o1d284Ry1PNmhKX1FHbWZJcDlaYXNVeU92NTdIYlZleGMtSmNaRGlVRzk3RjJtUENHVjIyTUc1MDlKUnBFcTZJZzdIODdQSjRxLTlpSTJqTU9HNHRnUTVZbVJFOHU1TEdzeWlXLWZLTFdKakhLd29VS1ZlU0tVZTVCWTJ0allqd1BhU2NPb1A1c09zeHFCNVNSMG1CNThJUU9ENVI1TXQ5VU1fZ2swMzlEanV3OU16R3FDSjNrN0hLZw?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T15:36:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 15:36:00 GMT",
+      "snippet": "São João das Duas Pontes promove consulta e audiência pública sobre cultura no dia 2 de dezembro Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749332+00:00"
+    },
+    {
+      "id": "d019d31e96975a4c62172a1303792192394e9e5ac5ae288e529be1cd4ef4b4a5",
+      "title": "Etec de Santa Fé do Sul mantém aulas remotas sem prazo para volta presencial após temporal - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQktIcUhzUWFfTDl1WlViZXFOUTZXaU1lVHowN3lqaDRSZ3pIb002V1VkRGpKVEhLanQzTVZMdXFUUkxjR3NpQkxWVlN0WlN2UzZrdnhQVUVyZ0VJa21MM0gtNmFJaTZUUHI2bHg5czJWQ0RKNEhmX0ZHVkFRS0Z1aEM1VUVlZ3FPU2VHQi1QcGhKUkgyN0wzdDAybVpHd0dpei1TVVdGVmM1bWJSU0Z5d1BEa0FBb2c0V2c?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T14:55:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 14:55:00 GMT",
+      "snippet": "Etec de Santa Fé do Sul mantém aulas remotas sem prazo para volta presencial após temporal Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749452+00:00"
+    },
+    {
+      "id": "2792a4caae023a79d1db26c47a7199ef7c55df00d1babe089543caa1aa9a2773",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias da região até domingo (29) - Votunews",
+      "source": "Votunews",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2RJTVFpSHhLWlFVS0xyaWZqSU1saHBHZEhlWEp5eGZTS1NucW5YSXdGSHNOMFNPaERVZThGVHFPRnZxdVI5YjZQX1oyeks5LUVwMHVHMkI0Y3BPaV9Jc0VQcUw0Q0tiWUN4RlRHU1pOSzd0clNSSTdkMXh5WDlnWklOTlR2dG4tdUpnSlBwNmV6SFF0Z0JEUG52V0ZlOVBTdlVSZ05nbEMtaUlfb2VjZ2E5eUlfb0ttejJjSQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T13:26:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 13:26:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias da região até domingo (29) Votunews",
+      "term": "\"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito",
+      "category": "acidente/risco",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20acidente%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:18.713198+00:00"
+    },
+    {
+      "id": "21502951cd3906786b679c70f585a59efbc68e2c583a1135d7631aa9eef9525e",
+      "title": "Washington Luís terá obras e intervenções durante a semana na região de Mirassol - Portal da Cidade - Mirassol / SP",
+      "source": "Portal da Cidade - Mirassol / SP",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTy1icElDVHVHR19ZRFJRNEVpelBQN2F2aGNFaXdXcWxhZ1FoYzVZeWpXRWdpZnhtb3FlTXJRcHlfODNkelVUSUI5bjdEUkwyV0xiRTgzdUZuaC1PNGZ5VzFjbG0xVkV1SjZwYm8yLTgyWXpOSFJIMWdTU3dfWDQ5MlFpWVcxcG5sQ1JrZGFIb3VVYkRUSldmQWZRWTd6WDZ6RmR3Q2I2QTRxOVNhM01nczhyXzNKUjdGQmxzT0NlSjEwWVZrVDNHQVRDazdETXNoNUJr?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T13:25:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 13:25:00 GMT",
+      "snippet": "Washington Luís terá obras e intervenções durante a semana na região de Mirassol Portal da Cidade - Mirassol / SP",
+      "term": "\"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20obras%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:17.547228+00:00"
+    },
+    {
+      "id": "dd2faaf8bb9aa7d581680c9227e26ffbc0026b8fec0fe0e3126f8187475acf75",
+      "title": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias da região até domingo (29) - Região Noroeste",
+      "source": "Região Noroeste",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHZhR2kzd2dSdjZFRU1nb2p4OElGYUZKV01ickFXTnBnUzlOT3k0dk1zWXQ2aGNPN0l1RE5yQzhablFaU1R2c2Ixa0FDVnNVMXA2N0tkRmdCdEpiNnlENFBxX2xqRXZiRUp6SFEycHNwVUxrOXhPOEdCSms5YzN4OWJENmV4clRETTFZbHBuREtKQ2ZqcnZqN19kRDFSeTVLRnNKVTROSlNiZlljemRkQXFrREx2dVlIWldR?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T12:41:00+00:00",
+      "published_raw": "Tue, 24 Nov 2026 12:41:00 GMT",
+      "snippet": "Ecovias Noroeste Paulista divulga cronograma de obras nas rodovias da região até domingo (29) Região Noroeste",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749086+00:00"
+    },
+    {
+      "id": "580e84493246569c303683e218200e15d52481123492bc062fb64285941eb9a1",
+      "title": "ENP prevê a circulação de 574 mil veículos durante o feriado da Consciência Negra - O Extra.net",
+      "source": "O Extra.net",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0Q0X2toM3kwanlweF9UMEoxLWY2clpPRjE2eGJaQkZUdGFBSUVpMy1zLURJZWdGNkJtRU1uRW0wSFZycWk1RnR4UFpXSkZJZGw3bUN6a2NtMjEzWFpZX09OS1VyZlpRa1dtc3IwLWZpdExLNjdaUnh1RG1tUW5YaURBUlBhM0o2SkxUaFRhMFc0bHhaYnVwZ2tlZkphVU9JS3liN2xCTlQ2UQ?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-24T05:31:28+00:00",
+      "published_raw": "Tue, 24 Nov 2026 05:31:28 GMT",
+      "snippet": "ENP prevê a circulação de 574 mil veículos durante o feriado da Consciência Negra O Extra.net",
+      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-25T03:51:08.749005+00:00"
+    }
+  ]
 }
