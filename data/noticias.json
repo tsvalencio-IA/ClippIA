@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-11-25T16:42:07.156584+00:00",
+  "updated_at": "2026-11-26T01:16:31.661197+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
   "total_images": 0,
   "new_items": 4,
-  "errors": [],
+  "errors": [
+    {
+      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" obras",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -46,6 +67,40 @@
   ],
   "items": [
     {
+      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
+      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnpBbVc3Vjl3QzBIN1o0b2UwTU9VT2RLYkF0NDY1SVFtM1pkNGlPcklKU2kwSTFKS3JMX0NRcTdtWDQyOUs4S1g4OUhJelhlMnNCYWo4LVAxV1JEdXl4RDA3VDNfX0l6T2VIZU0tUm9VVUMzNjZXZVZpUXU4TmRkWlBmc0IwRGdDSE5SVFl0SFM4dDdMRzVoWDFEZ21DMURPcUZNSTcwbGpWLUN6SnlZUU1kZ29xMGl6VUdmdGxLUzBQTy0xSGtxd2dxdkt3OU3SAc8BQVVfeXFMUFp6QW1XN1Y5d0MwSDdaNG9lME1PVU9kS2JBdDQ2NUlRbTNaZDRpT3JJSlNpMEkxSktyTF9DUXE3bVg0MjlLOEtYODlISXpYZTJzQmFqOC1QMVdSRHV5eEQwN1QzX19Jek9lSGVNLVJvVVVDMzY2V2VWaVF1OE5kZFpQZnNCMERnQ0hOUlRZdEhTOHQ3TEc1aFgxRGdtQzFET3FGTUk3MGxqVi1Dekp5WVFNZGdvcTBpelVHZnRsS1MwUE8tMUhrcXdncXZLdzlN?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-25T22:22:39+00:00",
+      "published_raw": "Wed, 25 Nov 2026 22:22:39 GMT",
+      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-26T01:16:16.051395+00:00"
+    },
+    {
+      "id": "3690af6979067413b26e105425a1170b21a7c70b716087290ecda6dbd5ec6c17",
+      "title": "Freada faz carreta-tanque atravessar a pista e parar sobre defensa na Washington Luís - Portal Morada",
+      "source": "Portal Morada",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3RWMjU4Wk93T1BjTUhTYU5MTl9Ub243YThTMkpZODV2Si1udWRGS2JXbms2U05ZNHNXWl9aY2VqWC01b1NyeWdidHZfWEl0RzVlRWpmZDFyM1ZoUkU3S1NPcGEwWl9PYV9zeFh1WE5GLWpaSlVXYXE0Z3pOQ1NVM3RrdFRxamRCRFF2UHdZampVZ0NRSVBVWGVxNEk5b0cwQ2U1U2dWcVRCSklCdkc1SjVad2o?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-25T21:21:11+00:00",
+      "published_raw": "Wed, 25 Nov 2026 21:21:11 GMT",
+      "snippet": "Freada faz carreta-tanque atravessar a pista e parar sobre defensa na Washington Luís Portal Morada",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-26T01:16:16.051334+00:00"
+    },
+    {
       "id": "11584ac3110809cbc44596ede22d1f606e789a971dd7f4b05b7a79cf317010ff",
       "title": "Carreta bloqueia a rodovia Washington Luís em Araraquara por mais de 2 horas - Fala Matão",
       "source": "Fala Matão",
@@ -60,7 +115,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-25T16:41:52.933022+00:00"
+      "collected_at": "2026-11-26T01:16:17.727016+00:00"
     },
     {
       "id": "2eb2e14fc8f12f9612099988b72a7bad840889b90522e850bb74362691370c54",
@@ -77,41 +132,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-25T16:41:52.933070+00:00"
-    },
-    {
-      "id": "58f75e24f303dad74aeab044764ef25e46b7fa89438f86c3cc03ff2f30b6e06c",
-      "title": "Free Flow passa de 200 milhões de passagens; veja regras, descontos e multa por evasão - Perfil Brasil",
-      "source": "Perfil Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVJQdlJGZnRyWXBjaU5QTzRUdEJSOXM5LUNJYjFLTzh0dWRhR0x2SnZwc1JIQXBzMFJXQVd6X1pRTnFsYWo0N3hPYzZLdzRyTTVuMm1KbktFam5vNzZCOE56T1M5N0Y1YUc3cXpNb2VkSm1iT2VQa1JyMHA4SE5oczUyQWc4VEViTkFNeVA2Vnl0Wi1kUWYydQ?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-24T22:52:28+00:00",
-      "published_raw": "Tue, 24 Nov 2026 22:52:28 GMT",
-      "snippet": "Free Flow passa de 200 milhões de passagens; veja regras, descontos e multa por evasão Perfil Brasil",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "free flow",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-25T16:41:51.837734+00:00"
-    },
-    {
-      "id": "d2fc0a0a8b354d6ab0322fff3c2ad8a7b088b0592693092c6bb2319bb9a586c9",
-      "title": "Confira o cronograma de obras nas rodovias da região nesta semana - O Extra.net",
-      "source": "O Extra.net",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDRGakhvYUR0aEYtWWxwM3M3d1J3N3NvT1h5UEZqZG5pTkhObWw2ZUpqWk84aWFRVnFXS21Tc1R4TnJnYW5kQ0ZTb0kyRGFmZ2E1cGRXNUZsX1l2MkJkcE9wNHNZbnhRN2FuYnhBOG0ycTlQdUJqVVFWalF1WG9KcjdtWlVfTllxYlFmSHRvTE8yTlhi?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-24T21:02:02+00:00",
-      "published_raw": "Tue, 24 Nov 2026 21:02:02 GMT",
-      "snippet": "Confira o cronograma de obras nas rodovias da região nesta semana O Extra.net",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-25T16:41:51.298601+00:00"
+      "collected_at": "2026-11-26T01:16:17.727102+00:00"
     }
   ]
 }
