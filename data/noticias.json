@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-26T11:49:43.274957+00:00",
+  "updated_at": "2026-11-26T20:40:08.062254+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 3,
+  "total": 4,
   "total_images": 0,
-  "new_items": 3,
+  "new_items": 4,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,6 +46,23 @@
   ],
   "items": [
     {
+      "id": "8dda813b413267e2891b1361bc7b6e07708c0e8ab40ab4f1b8f130cef8f9b861",
+      "title": "São Carlos terá seis obras estratégicas nas rodovias Washington Luís, SP-318 e SP-215 - São Carlos em Rede - São Carlos em Rede",
+      "source": "São Carlos em Rede",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUt5Z3BXdmJCMU9LRXNlT0l0RkpyQ1hhdG1YbnFybDB3MUcxSGlscEJ4eGlTeGtLdHhRQ2RpNkFXZTAxNzRKZGt5dmtvMk9IaWZ0RHlUODJ6bTJKaXFXXzVwYUdiX3c2X2l3bVlmZDBhdmQ5bzhYX3hpSS1LM1FFcFZXZmEwY1hhNW05WjcyZG54dXUtQkHSAZYBQVVfeXFMTS1LeWdwV3ZiQjFPS0VzZU9JdEZKckNYYXRtWG5xcmwwdzFHMUhpbHBCeHhpU3hrS3R4UUNkaTZBV2UwMTc0SmRreXZrbzJPSGlmdER5VDgyem0ySmlxV181cGFHYl93Nl9pd21ZZmQwYXZkOW84WF94aUktSzNRRXBWV2ZhMGNYYTVtOVo3MmRueHV1LUJB?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-26T10:33:01+00:00",
+      "published_raw": "Thu, 26 Nov 2026 10:33:01 GMT",
+      "snippet": "São Carlos terá seis obras estratégicas nas rodovias Washington Luís, SP-318 e SP-215 - São Carlos em Rede São Carlos em Rede",
+      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
+      "category": "obras/interdição",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-26T20:39:51.672212+00:00"
+    },
+    {
       "id": "d0077473722a8f3ec55de7204df93ea2d02e41479028f928324ce61854d2f85c",
       "title": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada - Araraquara Agora",
       "source": "Araraquara Agora",
@@ -60,7 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T11:49:29.080759+00:00"
+      "collected_at": "2026-11-26T20:39:52.806440+00:00"
+    },
+    {
+      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
+      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnpBbVc3Vjl3QzBIN1o0b2UwTU9VT2RLYkF0NDY1SVFtM1pkNGlPcklKU2kwSTFKS3JMX0NRcTdtWDQyOUs4S1g4OUhJelhlMnNCYWo4LVAxV1JEdXl4RDA3VDNfX0l6T2VIZU0tUm9VVUMzNjZXZVZpUXU4TmRkWlBmc0IwRGdDSE5SVFl0SFM4dDdMRzVoWDFEZ21DMURPcUZNSTcwbGpWLUN6SnlZUU1kZ29xMGl6VUdmdGxLUzBQTy0xSGtxd2dxdkt3OU3SAc8BQVVfeXFMUFp6QW1XN1Y5d0MwSDdaNG9lME1PVU9kS2JBdDQ2NUlRbTNaZDRpT3JJSlNpMEkxSktyTF9DUXE3bVg0MjlLOEtYODlISXpYZTJzQmFqOC1QMVdSRHV5eEQwN1QzX19Jek9lSGVNLVJvVVVDMzY2V2VWaVF1OE5kZFpQZnNCMERnQ0hOUlRZdEhTOHQ3TEc1aFgxRGdtQzFET3FGTUk3MGxqVi1Dekp5WVFNZGdvcTBpelVHZnRsS1MwUE8tMUhrcXdncXZLdzlN?oc=5",
+      "resolved_link": "",
+      "published": "2026-11-25T22:22:39+00:00",
+      "published_raw": "Wed, 25 Nov 2026 22:22:39 GMT",
+      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "category": "geral",
+      "image_url": "",
+      "image_source": "",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "period": "24h",
+      "collected_at": "2026-11-26T20:39:51.104530+00:00"
     },
     {
       "id": "3690af6979067413b26e105425a1170b21a7c70b716087290ecda6dbd5ec6c17",
@@ -77,24 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T11:49:27.492647+00:00"
-    },
-    {
-      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
-      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmpRLXNGczFmMkFtUWRDQ2g0ak9valIycm5BcWxaR3N5OXlBMlJ0aFp0MTBaalpxTFdvZlM0c1ktdVV6dDI5eDg2bTVMTVYycmlFWUxmdVpadzN2LVN1Q3hhR01pd2pMTXRZLXdKdGxmNmFjWUZfSVgydzBfVDBTWGRERDAzYVJIalFWQjcwNE80WWZCcDREcmRzRnhDZUdKbzk0eGYxMFJWTmpiT1I0WVZtVFphTWJ2UDVMVVNBbHRpbUpZMXRr?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-25T16:59:20+00:00",
-      "published_raw": "Wed, 25 Nov 2026 16:59:20 GMT",
-      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-26T11:49:27.492716+00:00"
+      "collected_at": "2026-11-26T20:39:51.104469+00:00"
     }
   ]
 }
