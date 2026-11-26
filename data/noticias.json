@@ -1,32 +1,11 @@
 {
-  "updated_at": "2026-11-26T01:16:31.661197+00:00",
+  "updated_at": "2026-11-26T01:28:36.485960+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 4,
   "total_images": 0,
   "new_items": 4,
-  "errors": [
-    {
-      "termo": "\"cobrança por placa\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" obras",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"SP-323\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"SP-351\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -75,13 +54,13 @@
       "published": "2026-11-25T22:22:39+00:00",
       "published_raw": "Wed, 25 Nov 2026 22:22:39 GMT",
       "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:16:16.051395+00:00"
+      "collected_at": "2026-11-26T01:28:20.670402+00:00"
     },
     {
       "id": "3690af6979067413b26e105425a1170b21a7c70b716087290ecda6dbd5ec6c17",
@@ -98,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:16:16.051334+00:00"
+      "collected_at": "2026-11-26T01:28:20.670339+00:00"
     },
     {
       "id": "11584ac3110809cbc44596ede22d1f606e789a971dd7f4b05b7a79cf317010ff",
@@ -115,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:16:17.727016+00:00"
+      "collected_at": "2026-11-26T01:28:22.275507+00:00"
     },
     {
       "id": "2eb2e14fc8f12f9612099988b72a7bad840889b90522e850bb74362691370c54",
@@ -132,7 +111,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:16:17.727102+00:00"
+      "collected_at": "2026-11-26T01:28:22.275590+00:00"
     }
   ]
 }
