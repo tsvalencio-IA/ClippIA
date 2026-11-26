@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-26T01:28:36.485960+00:00",
+  "updated_at": "2026-11-26T11:39:50.166077+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -46,21 +46,21 @@
   ],
   "items": [
     {
-      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
-      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnpBbVc3Vjl3QzBIN1o0b2UwTU9VT2RLYkF0NDY1SVFtM1pkNGlPcklKU2kwSTFKS3JMX0NRcTdtWDQyOUs4S1g4OUhJelhlMnNCYWo4LVAxV1JEdXl4RDA3VDNfX0l6T2VIZU0tUm9VVUMzNjZXZVZpUXU4TmRkWlBmc0IwRGdDSE5SVFl0SFM4dDdMRzVoWDFEZ21DMURPcUZNSTcwbGpWLUN6SnlZUU1kZ29xMGl6VUdmdGxLUzBQTy0xSGtxd2dxdkt3OU3SAc8BQVVfeXFMUFp6QW1XN1Y5d0MwSDdaNG9lME1PVU9kS2JBdDQ2NUlRbTNaZDRpT3JJSlNpMEkxSktyTF9DUXE3bVg0MjlLOEtYODlISXpYZTJzQmFqOC1QMVdSRHV5eEQwN1QzX19Jek9lSGVNLVJvVVVDMzY2V2VWaVF1OE5kZFpQZnNCMERnQ0hOUlRZdEhTOHQ3TEc1aFgxRGdtQzFET3FGTUk3MGxqVi1Dekp5WVFNZGdvcTBpelVHZnRsS1MwUE8tMUhrcXdncXZLdzlN?oc=5",
+      "id": "d0077473722a8f3ec55de7204df93ea2d02e41479028f928324ce61854d2f85c",
+      "title": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada - Araraquara Agora",
+      "source": "Araraquara Agora",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUtxbVhIamtWcXZiQkZ4VUJScWU5a3ZpLUphMGM1cU5VVGNidWRSOU1uekgzUlFxSVY5Q3UwTzNtcVdyQVVrXzRveVdkV3M5UlRFb1dBRFFPVXpQZmZmUzVrc3J4VV9CM0VGcjFycEF3Tl9QM2NDSUxQT2s1dGRKTA?oc=5",
       "resolved_link": "",
-      "published": "2026-11-25T22:22:39+00:00",
-      "published_raw": "Wed, 25 Nov 2026 22:22:39 GMT",
-      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-11-26T08:51:00+00:00",
+      "published_raw": "Thu, 26 Nov 2026 08:51:00 GMT",
+      "snippet": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada Araraquara Agora",
+      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:28:20.670402+00:00"
+      "collected_at": "2026-11-26T11:39:34.558236+00:00"
     },
     {
       "id": "3690af6979067413b26e105425a1170b21a7c70b716087290ecda6dbd5ec6c17",
@@ -77,41 +77,24 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:28:20.670339+00:00"
+      "collected_at": "2026-11-26T11:39:32.782409+00:00"
     },
     {
-      "id": "11584ac3110809cbc44596ede22d1f606e789a971dd7f4b05b7a79cf317010ff",
-      "title": "Carreta bloqueia a rodovia Washington Luís em Araraquara por mais de 2 horas - Fala Matão",
-      "source": "Fala Matão",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWx5V0tkNWpUejFLNHRaT2ZTX0oxZUJPU0FYMmhnaWxvMUwxYUY4TzhfWXJ1ekRGZmROV0txV1ZOc3A5YWhkX25rUTE2eE9NMHl5d1FGVlhSNFBQZWNlR1JDN21HVFQxNm95bmpyR01OWU1pbkF0TnQxRkNwemZwMGxOQ280Q2I3WEZUcy1URnVmeUIxQmlVNVNfMjFDckRpck5WcA?oc=5",
+      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
+      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
+      "source": "Gazeta do Interior",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmpRLXNGczFmMkFtUWRDQ2g0ak9valIycm5BcWxaR3N5OXlBMlJ0aFp0MTBaalpxTFdvZlM0c1ktdVV6dDI5eDg2bTVMTVYycmlFWUxmdVpadzN2LVN1Q3hhR01pd2pMTXRZLXdKdGxmNmFjWUZfSVgydzBfVDBTWGRERDAzYVJIalFWQjcwNE80WWZCcDREcmRzRnhDZUdKbzk0eGYxMFJWTmpiT1I0WVZtVFphTWJ2UDVMVVNBbHRpbUpZMXRr?oc=5",
       "resolved_link": "",
-      "published": "2026-11-25T11:29:23+00:00",
-      "published_raw": "Wed, 25 Nov 2026 11:29:23 GMT",
-      "snippet": "Carreta bloqueia a rodovia Washington Luís em Araraquara por mais de 2 horas Fala Matão",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"SP-310\" \"Ecovias Noroeste\"",
+      "published": "2026-11-25T16:59:20+00:00",
+      "published_raw": "Wed, 25 Nov 2026 16:59:20 GMT",
+      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"Ecovias Noroeste\" obras | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T01:28:22.275507+00:00"
-    },
-    {
-      "id": "2eb2e14fc8f12f9612099988b72a7bad840889b90522e850bb74362691370c54",
-      "title": "Carreta atravessa e bloqueia a Washington Luís em Araraquara - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeElHYnpEQzJia0gxaFlJc1h4bTNmZE5XTjhSZUt0ZkxVRHdYVGV0YVprQ1hDZk8zNHVwRVI4RHdPTTJEb2hKUHhDR2xHcmJwa2FmeXBfY1RjWHRyN2t2RXdDWk83V2R4QjBmeDl4ZUh2am11b1Fhb0NxWWpWRnd1TzBUVFByV3FDN3JnTjJjQ2pJdU5TeUx2LXlUMzg3SE44cTFGYw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-25T06:38:00+00:00",
-      "published_raw": "Wed, 25 Nov 2026 06:38:00 GMT",
-      "snippet": "Carreta atravessa e bloqueia a Washington Luís em Araraquara Araraquara Agora",
-      "term": "\"Ecovias Noroeste\" | \"Ecovias Noroeste\" ARTESP | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-26T01:28:22.275590+00:00"
+      "collected_at": "2026-11-26T11:39:32.782504+00:00"
     }
   ]
 }
