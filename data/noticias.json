@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-26T20:51:09.973054+00:00",
+  "updated_at": "2026-11-27T03:21:01.309251+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 2,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 2,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -60,7 +60,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T20:50:54.075114+00:00"
+      "collected_at": "2026-11-27T03:20:45.013640+00:00"
     },
     {
       "id": "d0077473722a8f3ec55de7204df93ea2d02e41479028f928324ce61854d2f85c",
@@ -71,47 +71,13 @@
       "published": "2026-11-26T08:51:00+00:00",
       "published_raw": "Thu, 26 Nov 2026 08:51:00 GMT",
       "snippet": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada Araraquara Agora",
-      "term": "\"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-26T20:50:55.196366+00:00"
-    },
-    {
-      "id": "b617367c4fce6a2ec6c987bf347676650d319e263043cdd0a0fec5b1a47813b9",
-      "title": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa - Gazeta do Interior",
-      "source": "Gazeta do Interior",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnpBbVc3Vjl3QzBIN1o0b2UwTU9VT2RLYkF0NDY1SVFtM1pkNGlPcklKU2kwSTFKS3JMX0NRcTdtWDQyOUs4S1g4OUhJelhlMnNCYWo4LVAxV1JEdXl4RDA3VDNfX0l6T2VIZU0tUm9VVUMzNjZXZVZpUXU4TmRkWlBmc0IwRGdDSE5SVFl0SFM4dDdMRzVoWDFEZ21DMURPcUZNSTcwbGpWLUN6SnlZUU1kZ29xMGl6VUdmdGxLUzBQTy0xSGtxd2dxdkt3OU3SAc8BQVVfeXFMUFp6QW1XN1Y5d0MwSDdaNG9lME1PVU9kS2JBdDQ2NUlRbTNaZDRpT3JJSlNpMEkxSktyTF9DUXE3bVg0MjlLOEtYODlISXpYZTJzQmFqOC1QMVdSRHV5eEQwN1QzX19Jek9lSGVNLVJvVVVDMzY2V2VWaVF1OE5kZFpQZnNCMERnQ0hOUlRZdEhTOHQ3TEc1aFgxRGdtQzFET3FGTUk3MGxqVi1Dekp5WVFNZGdvcTBpelVHZnRsS1MwUE8tMUhrcXdncXZLdzlN?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-25T22:22:39+00:00",
-      "published_raw": "Wed, 25 Nov 2026 22:22:39 GMT",
-      "snippet": "Acesso à Washington Luís volta a ser interditado no trevo de Cedral e reabre com uma faixa Gazeta do Interior",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" interdição | \"SP-310\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-26T20:50:53.447197+00:00"
-    },
-    {
-      "id": "3690af6979067413b26e105425a1170b21a7c70b716087290ecda6dbd5ec6c17",
-      "title": "Freada faz carreta-tanque atravessar a pista e parar sobre defensa na Washington Luís - Portal Morada",
-      "source": "Portal Morada",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3RWMjU4Wk93T1BjTUhTYU5MTl9Ub243YThTMkpZODV2Si1udWRGS2JXbms2U05ZNHNXWl9aY2VqWC01b1NyeWdidHZfWEl0RzVlRWpmZDFyM1ZoUkU3S1NPcGEwWl9PYV9zeFh1WE5GLWpaSlVXYXE0Z3pOQ1NVM3RrdFRxamRCRFF2UHdZampVZ0NRSVBVWGVxNEk5b0cwQ2U1U2dWcVRCSklCdkc1SjVad2o?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-25T21:21:11+00:00",
-      "published_raw": "Wed, 25 Nov 2026 21:21:11 GMT",
-      "snippet": "Freada faz carreta-tanque atravessar a pista e parar sobre defensa na Washington Luís Portal Morada",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-26T20:50:53.447138+00:00"
+      "collected_at": "2026-11-27T03:20:46.135825+00:00"
     }
   ]
 }
