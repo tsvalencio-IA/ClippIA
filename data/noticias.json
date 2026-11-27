@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-11-27T03:26:48.108698+00:00",
+  "updated_at": "2026-11-27T15:46:10.725918+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 2,
+  "total": 0,
   "total_images": 0,
-  "new_items": 2,
-  "errors": [],
+  "new_items": 0,
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste\" TAG",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"Ecovias Noroeste\" multa",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -44,40 +61,5 @@
     "Imagens dependem de metadados disponíveis nas fontes.",
     "Revisão humana obrigatória antes de publicar."
   ],
-  "items": [
-    {
-      "id": "8dda813b413267e2891b1361bc7b6e07708c0e8ab40ab4f1b8f130cef8f9b861",
-      "title": "São Carlos terá seis obras estratégicas nas rodovias Washington Luís, SP-318 e SP-215 - São Carlos em Rede - São Carlos em Rede",
-      "source": "São Carlos em Rede",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUt5Z3BXdmJCMU9LRXNlT0l0RkpyQ1hhdG1YbnFybDB3MUcxSGlscEJ4eGlTeGtLdHhRQ2RpNkFXZTAxNzRKZGt5dmtvMk9IaWZ0RHlUODJ6bTJKaXFXXzVwYUdiX3c2X2l3bVlmZDBhdmQ5bzhYX3hpSS1LM1FFcFZXZmEwY1hhNW05WjcyZG54dXUtQkHSAZYBQVVfeXFMTS1LeWdwV3ZiQjFPS0VzZU9JdEZKckNYYXRtWG5xcmwwdzFHMUhpbHBCeHhpU3hrS3R4UUNkaTZBV2UwMTc0SmRreXZrbzJPSGlmdER5VDgyem0ySmlxV181cGFHYl93Nl9pd21ZZmQwYXZkOW84WF94aUktSzNRRXBWV2ZhMGNYYTVtOVo3MmRueHV1LUJB?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-26T10:33:01+00:00",
-      "published_raw": "Thu, 26 Nov 2026 10:33:01 GMT",
-      "snippet": "São Carlos terá seis obras estratégicas nas rodovias Washington Luís, SP-318 e SP-215 - São Carlos em Rede São Carlos em Rede",
-      "term": "\"EcoNoroeste\" | \"Econoroeste\"",
-      "category": "obras/interdição",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22EcoNoroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-27T03:26:32.561549+00:00"
-    },
-    {
-      "id": "d0077473722a8f3ec55de7204df93ea2d02e41479028f928324ce61854d2f85c",
-      "title": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada - Araraquara Agora",
-      "source": "Araraquara Agora",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUtxbVhIamtWcXZiQkZ4VUJScWU5a3ZpLUphMGM1cU5VVGNidWRSOU1uekgzUlFxSVY5Q3UwTzNtcVdyQVVrXzRveVdkV3M5UlRFb1dBRFFPVXpQZmZmUzVrc3J4VV9CM0VGcjFycEF3Tl9QM2NDSUxQT2s1dGRKTA?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-26T08:51:00+00:00",
-      "published_raw": "Thu, 26 Nov 2026 08:51:00 GMT",
-      "snippet": "Caminhão tomba na SP 326 em Matão e pista segue bloqueada Araraquara Agora",
-      "term": "\"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\"",
-      "category": "geral",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-27T03:26:33.641495+00:00"
-    }
-  ]
+  "items": []
 }
