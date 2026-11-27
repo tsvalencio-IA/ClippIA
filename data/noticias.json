@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-11-27T15:46:10.725918+00:00",
+  "updated_at": "2026-11-27T16:00:33.119223+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 0,
   "total_images": 0,
   "new_items": 0,
-  "errors": [
-    {
-      "termo": "\"Ecovias Noroeste\" TAG",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"Ecovias Noroeste\" multa",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"SP-310\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "termo": "\"SP-326\" \"Ecovias Noroeste\"",
-      "erro": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
