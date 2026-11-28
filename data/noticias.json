@@ -1,11 +1,16 @@
 {
-  "updated_at": "2026-11-28T00:59:12.756557+00:00",
+  "updated_at": "2026-11-28T11:03:01.473880+00:00",
   "period": "24h",
   "period_hours": 24,
   "total": 3,
   "total_images": 0,
   "new_items": 3,
-  "errors": [],
+  "errors": [
+    {
+      "termo": "\"Ecovias Noroeste\"",
+      "erro": "HTTP Error 429: Too Many Requests"
+    }
+  ],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
     "\"EcoNoroeste\"",
@@ -60,7 +65,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:58:56.938080+00:00"
+      "collected_at": "2026-11-28T11:02:45.304333+00:00"
     },
     {
       "id": "c7cc50cd87085163a2691eba1a4c2a06c2d76f3a3d9e30dd3e4bddb3eb0aff90",
@@ -71,13 +76,13 @@
       "published": "2026-11-27T20:33:24+00:00",
       "published_raw": "Fri, 27 Nov 2026 20:33:24 GMT",
       "snippet": "Rodovia Faria Lima terá pedágio free flow a partir de terça-feira (1º); veja como pagar ACidade ON",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste Paulista\" \"Free Flow\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"Free Flow\" \"Ecovias Noroeste\" | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-333\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pedágio eletrônico\" \"Ecovias Noroeste\"",
       "category": "free flow",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:58:56.938001+00:00"
+      "collected_at": "2026-11-28T11:02:45.304280+00:00"
     },
     {
       "id": "409daf270731553f014032a02d3e773602f31a1745037dd7931ebbf4d6f4de7b",
@@ -88,13 +93,13 @@
       "published": "2026-11-27T17:36:12+00:00",
       "published_raw": "Fri, 27 Nov 2026 17:36:12 GMT",
       "snippet": "“Vá Seguro, Caminhoneiro” acontecerá, nesta segunda-feira, em São Carlos Portal SCDN - Porque a informação não para!",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\"",
       "category": "geral",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:58:56.937941+00:00"
+      "collected_at": "2026-11-28T11:02:45.304215+00:00"
     }
   ]
 }
