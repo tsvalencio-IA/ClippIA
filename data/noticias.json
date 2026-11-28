@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-28T00:47:50.003965+00:00",
+  "updated_at": "2026-11-28T00:59:12.756557+00:00",
   "period": "24h",
   "period_hours": 24,
-  "total": 4,
+  "total": 3,
   "total_images": 0,
-  "new_items": 4,
+  "new_items": 3,
   "errors": [],
   "terms": [
     "\"Ecovias Noroeste Paulista\"",
@@ -54,30 +54,13 @@
       "published": "2026-11-27T21:56:55+00:00",
       "published_raw": "Fri, 27 Nov 2026 21:56:55 GMT",
       "snippet": "Colina terá substituição da praça de cobrança pelo Siga Fácil em 1º de dezembro Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"SP-310\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
+      "term": "\"Ecovias Noroeste Paulista\" | \"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" acidente | \"Ecovias Noroeste\" tarifa | \"Ecovias Noroeste\" trânsito | \"SP-310\" \"Ecovias Noroeste\" | \"SP-323\" \"Ecovias Noroeste\" | \"SP-326\" \"Ecovias Noroeste\" | \"SP-351\" \"Ecovias Noroeste\" | \"pedágio digital\" \"Ecovias Noroeste\" | \"pórtico\" \"Ecovias Noroeste\"",
       "category": "pedágio",
       "image_url": "",
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:47:33.322658+00:00"
-    },
-    {
-      "id": "b48b2ad2efc63ab113f33e1b5cf77a38a190b6e688317c528ffd423711bbd479",
-      "title": "Siga Fácil em Colina entra em operação em 1º de dezembro - Mobilidade Sampa",
-      "source": "Mobilidade Sampa",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTEwbEJGZFZDNUhJM2dYT2RmRDc0V3VoNE1vR3FsWXNxY1ptWDJJNW5zTUZpZ0J4R3FITGhKdVRjcF9NVVFNUktqeFdNWUNqdktxdGhDQnFzNlFWakgzZzRMSTVadXdtS1RPdnBRa0F5Wlp0b0ItVlYtUEVBRHZJbDFxZHlGV295dGNYNWJZYjRHOU8yQkJlOEQxcw?oc=5",
-      "resolved_link": "",
-      "published": "2026-11-27T21:56:55+00:00",
-      "published_raw": "Fri, 27 Nov 2026 21:56:55 GMT",
-      "snippet": "Siga Fácil em Colina entra em operação em 1º de dezembro Mobilidade Sampa",
-      "term": "\"Ecovias Noroeste\" TAG | \"Ecovias Noroeste\" trânsito | \"SP-323\" \"Ecovias Noroeste\"",
-      "category": "pedágio",
-      "image_url": "",
-      "image_source": "",
-      "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%22%20TAG%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "period": "24h",
-      "collected_at": "2026-11-28T00:47:40.720952+00:00"
+      "collected_at": "2026-11-28T00:58:56.938080+00:00"
     },
     {
       "id": "c7cc50cd87085163a2691eba1a4c2a06c2d76f3a3d9e30dd3e4bddb3eb0aff90",
@@ -94,7 +77,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:47:33.322604+00:00"
+      "collected_at": "2026-11-28T00:58:56.938001+00:00"
     },
     {
       "id": "409daf270731553f014032a02d3e773602f31a1745037dd7931ebbf4d6f4de7b",
@@ -111,7 +94,7 @@
       "image_source": "",
       "search_url": "https://news.google.com/rss/search?q=%22Ecovias%20Noroeste%20Paulista%22%20when%3A1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "period": "24h",
-      "collected_at": "2026-11-28T00:47:33.322538+00:00"
+      "collected_at": "2026-11-28T00:58:56.937941+00:00"
     }
   ]
 }
